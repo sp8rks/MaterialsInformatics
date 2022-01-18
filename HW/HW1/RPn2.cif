@@ -1,0 +1,189 @@
+##############################################################################
+#                                                                            #
+# O-Ru-Sr          # Sr3Ru2O7                                      # 1221861 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2018/19                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2018 #
+#                   All rights reserved. Version 2018.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1221861
+_audit_creation_date                     2022-01-17
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1221861
+
+# Entry summary
+
+_chemical_formula_structural             'Sr~3~ Ru~2~ O~7~'
+_chemical_formula_sum                    'O7 Ru2 Sr3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sr~3~Ti~2~O~7~,tI24,139
+_chemical_formula_weight                 577.0
+
+# Bibliographic data
+
+_publ_section_title
+'Oxygen displacements and search for magnetic order in Sr~3~Ru~2~O~7~'        
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            1998
+_journal_volume                          58
+_journal_page_first                      8515
+_journal_page_last                       8521
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Huang Q.'
+;
+University of Maryland College Park (UMCP)
+Department of Materials and Nuclear Engineering
+College Park
+U.S.A. Maryland
+;
+'Lynn J.W.'
+;
+National Institute of Standards and Technology (NIST)
+Center for Neutron Research
+Gaithersburg
+U.S.A. Maryland
+;
+'Erwin R.W.'
+;
+National Institute of Standards and Technology (NIST)
+Center for Neutron Research
+Gaithersburg
+U.S.A. Maryland
+;
+'Jarupatrakorn J.'
+;
+Princeton University
+Department of Chemistry
+Princeton
+U.S.A. New Jersey
+;
+'Cava R.J.'
+;
+Princeton University
+Department of Chemistry
+Princeton
+U.S.A. New Jersey
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.8901
+_cell_length_b                           3.8901
+_cell_length_c                           20.7186
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        90
+_cell_volume                             313.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   139
+_space_group_name_H-M_alt                'I 4/m m m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, -y, z'
+ 4 '-x, y, -z'
+ 5 '-x, y, z'
+ 6 '-y, -x, -z'
+ 7 '-y, -x, z'
+ 8 '-y, x, -z'
+ 9 '-y, x, z'
+ 10 'x, -y, -z'
+ 11 'x, -y, z'
+ 12 'x, y, -z'
+ 13 'y, -x, -z'
+ 14 'y, -x, z'
+ 15 'y, x, -z'
+ 16 'y, x, z'
+ 17 '1/2+x, 1/2+y, 1/2+z'
+ 18 '1/2-x, 1/2-y, 1/2-z'
+ 19 '1/2-x, 1/2-y, 1/2+z'
+ 20 '1/2-x, 1/2+y, 1/2-z'
+ 21 '1/2-x, 1/2+y, 1/2+z'
+ 22 '1/2-y, 1/2-x, 1/2-z'
+ 23 '1/2-y, 1/2-x, 1/2+z'
+ 24 '1/2-y, 1/2+x, 1/2-z'
+ 25 '1/2-y, 1/2+x, 1/2+z'
+ 26 '1/2+x, 1/2-y, 1/2-z'
+ 27 '1/2+x, 1/2-y, 1/2+z'
+ 28 '1/2+x, 1/2+y, 1/2-z'
+ 29 '1/2+y, 1/2-x, 1/2-z'
+ 30 '1/2+y, 1/2-x, 1/2+z'
+ 31 '1/2+y, 1/2+x, 1/2-z'
+ 32 '1/2+y, 1/2+x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ru
+ Sr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 g 0 0.5 0.097 1
+ Ru Ru 4 e 0 0 0.0977 1
+ O2 O 4 e 0 0 0.195 1
+ Sr2 Sr 4 e 0 0 0.31355 1
+ Sr1 Sr 2 b 0 0 0.5 1
+ O1 O 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.11
+_cell_measurement_temperature            295
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.5396
+_pd_proc_wavelength                      1.5396
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'U.S.A. Maryland, Gaithersburg, NIST Center for Neutron Research, NBSR, BT-1' 
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.5396
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 84
+_pd_proc_2theta_range_min                3
+_pd_proc_2theta_range_max                168
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0633
+_pd_proc_ls_proof_wR_factor              0.0815
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1221861
+
