@@ -24,7 +24,7 @@ mpr = MPRester(Sparks_API)
 df = pd.DataFrame(columns=('pretty_formula', 'band_gap',
                            "density", 'formation_energy_per_atom', 'volume'))
 
-# grab some props for oxide metals
+# grab some props for stable oxides
 criteria = {'e_above_hull': {'$lte': 0.02},'elements':{'$all':['O']}}
 
 props = ['pretty_formula', 'band_gap', "density",
@@ -119,12 +119,7 @@ from CBFV import composition
 
 rename_dict = {'density': 'target', 'pretty_formula':'formula'}
 df = df.rename(columns=rename_dict)
-# print(df.shape)
-# #df = df[~df['formula'].isin(['O'])]
-# name='\('
-# df = df[~df.formula.str.contains(name)]
-# df = df[~df.formula.str.contains(name)]
-# print(df.shape)
+
 
 RNG_SEED = 42
 np.random.seed(seed=RNG_SEED)
@@ -139,6 +134,10 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random
 X_train, y_train, formulae_train, skipped_train = composition.generate_features(df, elem_prop='oliynyk', drop_duplicates=False, extend_features=True, sum_feat=True)
 X_test, y_test, formulae_train, skipped_train = composition.generate_features(df, elem_prop='oliynyk', drop_duplicates=False, extend_features=True, sum_feat=True)
 
+
+#technically we should scale and normalize our data here... but lets skip it for now
+
+#we should perform hyperparameter tuning via cross-validation on a validation dataset too...
 
 rf = RandomForestRegressor(max_depth=4, random_state=0)
 rf.fit(X_train, y_train)
