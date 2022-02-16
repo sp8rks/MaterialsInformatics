@@ -4,7 +4,7 @@ import os
 
 filename = r'C:\Users\taylo\Google Drive\teaching\5050 Materials Informatics\apikey.txt'
 
-
+specific_file = '6_cifs\182191.cif'
 def get_file_contents(filename):
     try:
         with open(filename, 'r') as f:
