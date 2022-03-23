@@ -26,9 +26,6 @@ Sparks_API = get_file_contents(filename)
 
 mpr = MPRester(Sparks_API)
 
-df = pd.DataFrame(columns=('pretty_formula', 'band_gap',
-                           "density", 'formation_energy_per_atom', 'volume'))
-
 # grab some props for stable insulators
 criteria = {'e_above_hull': {'$lte': 0.02},'band_gap':{'$gt':0}}
 
@@ -121,3 +118,8 @@ energy_insulators = scipy.stats.norm(df_insulators['formation_energy_per_atom'].
 #now we add up the log of these probabilities and compare
 odds_of_metal = np.log(prior_metals)+np.log(density_metals)+np.log(volume_metals)+np.log(energy_metals)
 odds_of_insulator = np.log(prior_insulators)+np.log(density_insulators)+np.log(volume_insulators)+np.log(energy_insulators)
+
+if odds_of_metal > odd_of_insulator:
+    print('new material is probably a metal!')
+else:
+    print('new material is an insulator!')
