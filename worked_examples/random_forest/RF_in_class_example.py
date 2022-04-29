@@ -4,7 +4,6 @@ import os
 
 filename = r'C:\Users\taylo\Google Drive\teaching\5050 Materials Informatics\apikey.txt'
 
-specific_file = '6_cifs\182191.cif'
 def get_file_contents(filename):
     try:
         with open(filename, 'r') as f:
@@ -26,6 +25,8 @@ df = pd.DataFrame(columns=('pretty_formula', 'band_gap',
 
 # grab some props for stable oxides
 criteria = {'e_above_hull': {'$lte': 0.02},'elements':{'$all':['O']}}
+# criteria2 = {'e_above_hull': {'$lte': 0.02},'elements':{'$all':['O']},
+#              'band_gap':{'$ne':0}}
 
 props = ['pretty_formula', 'band_gap', "density",
          'formation_energy_per_atom', 'volume']
@@ -59,17 +60,14 @@ props = ['pretty_formula', 'band_gap', "density",
          'formation_energy_per_atom', 'volume']
 entries = mpr.query(criteria=criteria, properties=props)
 
-i = 0
-for entry in entries:
-    df.loc[i] = [entry['pretty_formula'], entry['band_gap'], entry['density'],
-                 entry['formation_energy_per_atom'], entry['volume']]
-    i += 1
 
+df = pd.DataFrame(entries)
 
 #drop metals
 df['metal?'] = df['band_gap'] == 0
 df = df.drop(['band_gap'], axis=1)
 
+df2 = df.drop(df.loc[df['metal?']==True].index,axis=0)
 
 # create first tree with main node density, next node formation energy
 # create 2nd tree with main node volume, next node
@@ -77,7 +75,7 @@ df = df.drop(['band_gap'], axis=1)
 # show need for ensemble by doing bootstrap of following
 
 # bootstrap A 2,0,2,4,5,5 using features density, volume
-dfA = df.iloc[[2, 0, 2, 4, 5, 5], :]
+dfA = df2.iloc[[2, 0, 2, 4, 5, 5], :]
 # bootstrap B 2,1,3,1,4,4 using features volume, formation energy
 dfB = df.iloc[[2, 1, 3, 1, 4, 4], :]
 # bootstrap C 4,1,3,0,0,2 using features density, volume
