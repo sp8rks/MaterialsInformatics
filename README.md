@@ -43,3 +43,6 @@ https://youtube.com/playlist?list=PLL0SWcFqypCl4lrzk1dMWwTUrzQZFt7y0
 | Apr   | 21  | Dr. Sparks at AMRAD meeting, Dr. Ashley Spear will provide guest lecture                                                             | TBD                                                                                                                         |     TBD                          |
 | Apr   | 26  | Final project presentation day 2                                                          | Final Project due                                                                                                           |                               |
 |       |     |                                                                                           |                                                                                                                             |                               |
+
+
+I can recommend the book Introduction to Machine Learning found here https://www.statlearning.com/
