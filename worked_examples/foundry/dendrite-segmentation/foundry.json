@@ -1,0 +1,9 @@
+{
+  "name": "Dendrite Segmentation",
+  "version": "1.0.0",
+  "description": "Semantic Segmentation of Dendrites via Machine Learning",
+  "private":true,
+  "dependencies":{
+    "_test_foundry_stan_dendrite_segmentation_v1.1": "1.1"
+  }
+}
