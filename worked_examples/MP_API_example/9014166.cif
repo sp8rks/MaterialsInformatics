@@ -1,0 +1,92 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-10-06 19:24:22 +0300 (Fri, 06 Oct 2017) $
+#$Revision: 201816 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/01/41/9014166.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9014166
+loop_
+_publ_author_name
+'Gibbs, G. V.'
+'Breck, D. W.'
+'Meagher, E. P.'
+_publ_section_title
+;
+ Structural refinement of hydrous and anhydrous synthetic beryl,
+ Al2(Be3Si6)O18 and emerald, Al1.9Cr0.1(Be3Si6)O18
+ Note: anhydrous beryl
+;
+_journal_name_full               Lithos
+_journal_page_first              275
+_journal_page_last               285
+_journal_paper_doi               10.1016/S0024-4937(68)80044-1
+_journal_volume                  1
+_journal_year                    1968
+_chemical_compound_source        Synthetic
+_chemical_formula_sum            'Al2 Be3 O18 Si6'
+_chemical_name_mineral           Beryl
+_space_group_IT_number           192
+_symmetry_space_group_name_Hall  '-P 6 2c'
+_symmetry_space_group_name_H-M   'P 6/m c c'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_length_a                   9.212
+_cell_length_b                   9.212
+_cell_length_c                   9.187
+_cell_volume                     675.169
+_database_code_amcsd             0019466
+_exptl_crystal_density_diffrn    2.644
+_cod_original_formula_sum        'Al2 Be3 Si6 O18'
+_cod_database_code               9014166
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-x,-x+y,1/2+z
+x,x-y,1/2-z
+-x+y,-x,-z
+x-y,x,z
+-y,-x,1/2+z
+y,x,1/2-z
+y,-x+y,-z
+-y,x-y,z
+x-y,-y,1/2+z
+-x+y,y,1/2-z
+x,y,-z
+-x,-y,z
+x,x-y,1/2+z
+-x,-x+y,1/2-z
+x-y,x,-z
+-x+y,-x,z
+y,x,1/2+z
+-y,-x,1/2-z
+-y,x-y,-z
+y,-x+y,z
+-x+y,y,1/2+z
+x-y,-y,1/2-z
+-x,-y,-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Al 0.66667 0.33333 0.25000 0.00380
+Be 0.50000 0.00000 0.25000 0.00342
+Si 0.38750 0.11590 0.00000 0.00266
+O1 0.31090 0.23750 0.00000 0.00697
+O2 0.49920 0.14620 0.14500 0.00469
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 AMCSD 0019466
