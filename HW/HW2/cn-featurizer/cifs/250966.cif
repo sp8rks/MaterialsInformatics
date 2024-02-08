@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# In-Pd            # Pd3In7                                        #  250966 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2022/23                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2022 #
+#                   All rights reserved. Version 2022.07                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   Indian Institute of Technology Kharagpur, Periodical Section, Central Library, Academic Site License         #
+#                                                                            #
+##############################################################################
+
+data_250966
+_audit_creation_date                     2024-01-07
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      250966
+_database_code_PDF                       ?
+
+# Entry summary
+
+_chemical_formula_structural             'Pd~3.25~ In~9.75~'
+_chemical_formula_sum                    'In9.75 Pd3.25'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Zn~9~(Zn~0.5~Fe~0.5~)~2~Fe~2~,cI52,217                                        
+_chemical_formula_weight                 1465.3
+
+# Bibliographic data
+
+_publ_section_title
+'A study of some palladium-indium, platinum-indium and platinum-tin alloys'   
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1968
+_journal_volume                          16
+_journal_page_first                      427
+_journal_page_last                       440
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Harris I.R.'
+;
+Birmingham University
+Department of Physical Metallurgy
+Birmingham
+United Kingdom
+;
+# Standardized crystallographic data
+
+_cell_length_a                           9.4334
+_cell_length_b                           9.4334
+_cell_length_c                           9.4334
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        90
+_cell_volume                             839.47
+_cell_formula_units_Z                    4
+_space_group_IT_number                   217
+_space_group_name_H-M_alt                'I -4 3 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, z'
+ 3 '-x, -z, y'
+ 4 '-x, y, -z'
+ 5 '-x, z, -y'
+ 6 '-y, -x, z'
+ 7 '-y, -z, x'
+ 8 '-y, x, -z'
+ 9 '-y, z, -x'
+ 10 '-z, -x, y'
+ 11 '-z, -y, x'
+ 12 '-z, x, -y'
+ 13 '-z, y, -x'
+ 14 'x, -y, -z'
+ 15 'x, -z, -y'
+ 16 'x, z, y'
+ 17 'y, -x, -z'
+ 18 'y, -z, -x'
+ 19 'y, x, z'
+ 20 'y, z, x'
+ 21 'z, -x, -y'
+ 22 'z, -y, -x'
+ 23 'z, x, y'
+ 24 'z, y, x'
+ 25 '1/2+x, 1/2+y, 1/2+z'
+ 26 '1/2-x, 1/2-y, 1/2+z'
+ 27 '1/2-x, 1/2-z, 1/2+y'
+ 28 '1/2-x, 1/2+y, 1/2-z'
+ 29 '1/2-x, 1/2+z, 1/2-y'
+ 30 '1/2-y, 1/2-x, 1/2+z'
+ 31 '1/2-y, 1/2-z, 1/2+x'
+ 32 '1/2-y, 1/2+x, 1/2-z'
+ 33 '1/2-y, 1/2+z, 1/2-x'
+ 34 '1/2-z, 1/2-x, 1/2+y'
+ 35 '1/2-z, 1/2-y, 1/2+x'
+ 36 '1/2-z, 1/2+x, 1/2-y'
+ 37 '1/2-z, 1/2+y, 1/2-x'
+ 38 '1/2+x, 1/2-y, 1/2-z'
+ 39 '1/2+x, 1/2-z, 1/2-y'
+ 40 '1/2+x, 1/2+z, 1/2+y'
+ 41 '1/2+y, 1/2-x, 1/2-z'
+ 42 '1/2+y, 1/2-z, 1/2-x'
+ 43 '1/2+y, 1/2+x, 1/2+z'
+ 44 '1/2+y, 1/2+z, 1/2+x'
+ 45 '1/2+z, 1/2-x, 1/2-y'
+ 46 '1/2+z, 1/2-y, 1/2-x'
+ 47 '1/2+z, 1/2+x, 1/2+y'
+ 48 '1/2+z, 1/2+y, 1/2+x'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ In
+ Pd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ In1 In 24 g 0.3045 0.3045 0.0491 1
+ In2 In 12 e 0.3538 0 0 1
+ Pd1 Pd 8 c 0.1028 0.1028 0.1028 0.625
+ In3 In 8 c 0.1028 0.1028 0.1028 0.375
+ Pd2 Pd 8 c 0.3327 0.3327 0.3327 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            11.59
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Debye-Scherrer film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 250966
+

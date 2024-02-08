@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Co-Y             # YCo3 rhom                                     #  250464 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2022/23                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2022 #
+#                   All rights reserved. Version 2022.07                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   Indian Institute of Technology Kharagpur, Periodical Section, Central Library, Academic Site License         #
+#                                                                            #
+##############################################################################
+
+data_250464
+_audit_creation_date                     2024-01-07
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      250464
+_database_code_PDF                       ?
+
+# Entry summary
+
+_chemical_formula_structural             'Y Co~3~'
+_chemical_formula_sum                    'Co3 Y'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            PuNi~3~,hR36,166
+_chemical_formula_weight                 265.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Note on the structures of GdFe~3~, GdNi~3~, GdCo~3~ and the corresponding yttrium compounds
+;
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1966
+_journal_volume                          10
+_journal_page_first                      146
+_journal_page_last                       147
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Van Vucht J.H.N.'
+;
+Philips Research Laboratories
+Eindhoven
+Netherlands
+;
+# Standardized crystallographic data
+
+_cell_length_a                           5.0133
+_cell_length_b                           5.0133
+_cell_length_c                           24.371
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             530.46
+_cell_formula_units_Z                    9
+_space_group_IT_number                   166
+_space_group_name_H-M_alt                'R -3 m h'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -y, -z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, x, -z'
+ 11 'y, -x+y, -z'
+ 12 'y, x, -z'
+ 13 '2/3+x, 1/3+y, 1/3+z'
+ 14 '2/3-x+y, 1/3-x, 1/3+z'
+ 15 '2/3-x+y, 1/3+y, 1/3+z'
+ 16 '2/3-x, 1/3-x+y, 1/3-z'
+ 17 '2/3-x, 1/3-y, 1/3-z'
+ 18 '2/3-y, 1/3-x, 1/3+z'
+ 19 '2/3-y, 1/3+x-y, 1/3+z'
+ 20 '2/3+x, 1/3+x-y, 1/3+z'
+ 21 '2/3+x-y, 1/3-y, 1/3-z'
+ 22 '2/3+x-y, 1/3+x, 1/3-z'
+ 23 '2/3+y, 1/3-x+y, 1/3-z'
+ 24 '2/3+y, 1/3+x, 1/3-z'
+ 25 '1/3+x, 2/3+y, 2/3+z'
+ 26 '1/3-x+y, 2/3-x, 2/3+z'
+ 27 '1/3-x+y, 2/3+y, 2/3+z'
+ 28 '1/3-x, 2/3-x+y, 2/3-z'
+ 29 '1/3-x, 2/3-y, 2/3-z'
+ 30 '1/3-y, 2/3-x, 2/3+z'
+ 31 '1/3-y, 2/3+x-y, 2/3+z'
+ 32 '1/3+x, 2/3+x-y, 2/3+z'
+ 33 '1/3+x-y, 2/3-y, 2/3-z'
+ 34 '1/3+x-y, 2/3+x, 2/3-z'
+ 35 '1/3+y, 2/3-x+y, 2/3-z'
+ 36 '1/3+y, 2/3+x, 2/3-z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Co
+ Y
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Co1 Co 18 h 0.5002 0.4998 0.0829 1
+ Y1 Y 6 c 0 0 0.1414 1
+ Co2 Co 6 c 0 0 0.3336 1
+ Co3 Co 3 b 0 0 0.5 1
+ Y2 Y 3 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.49
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 250464
+
