@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# Nb-Re            # Nb0.25Re0.75                                  #  250022 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2022/23                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2022 #
+#                   All rights reserved. Version 2022.07                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   Indian Institute of Technology Kharagpur, Periodical Section, Central Library, Academic Site License         #
+#                                                                            #
+##############################################################################
+
+data_250022
+_audit_creation_date                     2024-01-07
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      250022
+_database_code_PDF                       ?
+
+# Entry summary
+
+_chemical_formula_structural             'Nb~0.25~ Re~0.75~'
+_chemical_formula_sum                    'Nb0.25 Re0.75'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Mn,cI58,217
+_chemical_formula_weight                 162.9
+_chemical_melting_point                  2973
+
+# Bibliographic data
+
+_publ_section_title                      'The niobium-rhenium system'
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1959
+_journal_volume                          1
+_journal_page_first                      480
+_journal_page_last                       486
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Knapton A.G.'
+;
+Associated Electrical Industries Ltd.
+Research Laboratory
+Aldermaston
+United Kingdom
+;
+# Standardized crystallographic data
+
+_cell_length_a                           9.69
+_cell_length_b                           9.69
+_cell_length_c                           9.69
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        90
+_cell_volume                             909.85
+_cell_formula_units_Z                    58
+_space_group_IT_number                   217
+_space_group_name_H-M_alt                'I -4 3 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, z'
+ 3 '-x, -z, y'
+ 4 '-x, y, -z'
+ 5 '-x, z, -y'
+ 6 '-y, -x, z'
+ 7 '-y, -z, x'
+ 8 '-y, x, -z'
+ 9 '-y, z, -x'
+ 10 '-z, -x, y'
+ 11 '-z, -y, x'
+ 12 '-z, x, -y'
+ 13 '-z, y, -x'
+ 14 'x, -y, -z'
+ 15 'x, -z, -y'
+ 16 'x, z, y'
+ 17 'y, -x, -z'
+ 18 'y, -z, -x'
+ 19 'y, x, z'
+ 20 'y, z, x'
+ 21 'z, -x, -y'
+ 22 'z, -y, -x'
+ 23 'z, x, y'
+ 24 'z, y, x'
+ 25 '1/2+x, 1/2+y, 1/2+z'
+ 26 '1/2-x, 1/2-y, 1/2+z'
+ 27 '1/2-x, 1/2-z, 1/2+y'
+ 28 '1/2-x, 1/2+y, 1/2-z'
+ 29 '1/2-x, 1/2+z, 1/2-y'
+ 30 '1/2-y, 1/2-x, 1/2+z'
+ 31 '1/2-y, 1/2-z, 1/2+x'
+ 32 '1/2-y, 1/2+x, 1/2-z'
+ 33 '1/2-y, 1/2+z, 1/2-x'
+ 34 '1/2-z, 1/2-x, 1/2+y'
+ 35 '1/2-z, 1/2-y, 1/2+x'
+ 36 '1/2-z, 1/2+x, 1/2-y'
+ 37 '1/2-z, 1/2+y, 1/2-x'
+ 38 '1/2+x, 1/2-y, 1/2-z'
+ 39 '1/2+x, 1/2-z, 1/2-y'
+ 40 '1/2+x, 1/2+z, 1/2+y'
+ 41 '1/2+y, 1/2-x, 1/2-z'
+ 42 '1/2+y, 1/2-z, 1/2-x'
+ 43 '1/2+y, 1/2+x, 1/2+z'
+ 44 '1/2+y, 1/2+z, 1/2+x'
+ 45 '1/2+z, 1/2-x, 1/2-y'
+ 46 '1/2+z, 1/2-y, 1/2-x'
+ 47 '1/2+z, 1/2+x, 1/2+y'
+ 48 '1/2+z, 1/2+y, 1/2+x'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Re
+ Nb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Re1 Re 24 g 0.08958 0.08958 0.28194 0.750
+ Nb1 Nb 24 g 0.08958 0.08958 0.28194 0.250
+ Re2 Re 24 g 0.35706 0.35706 0.03457 0.750
+ Nb2 Nb 24 g 0.35706 0.35706 0.03457 0.250
+ Re3 Re 8 c 0.31787 0.31787 0.31787 0.750
+ Nb3 Nb 8 c 0.31787 0.31787 0.31787 0.250
+ Re4 Re 2 a 0 0 0 0.750
+ Nb4 Nb 2 a 0 0 0 0.250
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            17.24
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cr Ka, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Unicam film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 250022
+

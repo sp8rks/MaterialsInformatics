@@ -1,0 +1,305 @@
+##############################################################################
+#                                                                            #
+# Pr-Pt            # PrPt2                                         #  250805 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2022/23                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2022 #
+#                   All rights reserved. Version 2022.07                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   Indian Institute of Technology Kharagpur, Periodical Section, Central Library, Academic Site License         #
+#                                                                            #
+##############################################################################
+
+data_250805
+_audit_creation_date                     2024-01-07
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      250805
+_database_code_PDF                       04-001-0443
+
+# Entry summary
+
+_chemical_formula_structural             'Pr~0.75~ Pt~2.25~'
+_chemical_formula_sum                    'Pr0.75 Pt2.25'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            MgCu~2~,cF24,227
+_chemical_formula_weight                 544.6
+
+# Bibliographic data
+
+_publ_section_title
+'The constitution of some REPt~3~ alloys'                                     
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1968
+_journal_volume                          14
+_journal_page_first                      459
+_journal_page_last                       462
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Harris I.R.'
+;
+Birmingham University
+Department of Physical Metallurgy
+Birmingham
+United Kingdom
+;
+# Standardized crystallographic data
+
+_cell_length_a                           7.644
+_cell_length_b                           7.644
+_cell_length_c                           7.644
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        90
+_cell_volume                             446.64
+_cell_formula_units_Z                    8
+_space_group_IT_number                   227
+_space_group_name_H-M_alt                'F d -3 m (origin choice 2)'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '1/4-x, 1/4-y, z'
+ 3 '1/4-x, y, 1/4-z'
+ 4 '-x, -y, -z'
+ 5 '-x, -z, -y'
+ 6 '-x, -1/4+y, -1/4+z'
+ 7 '-x, 1/4+z, 1/4+y'
+ 8 '-1/4-x, -1/4-z, y'
+ 9 '-1/4-x, z, -1/4-y'
+ 10 '1/4-y, 1/4-z, x'
+ 11 '1/4-y, z, 1/4-x'
+ 12 '-y, -x, -z'
+ 13 '-y, -z, -x'
+ 14 '-y, 1/4+x, 1/4+z'
+ 15 '-y, -1/4+z, -1/4+x'
+ 16 '-1/4-y, -1/4-x, z'
+ 17 '-1/4-y, x, -1/4-z'
+ 18 '1/4-z, 1/4-x, y'
+ 19 '1/4-z, x, 1/4-y'
+ 20 '-z, -x, -y'
+ 21 '-z, -y, -x'
+ 22 '-z, -1/4+x, -1/4+y'
+ 23 '-z, 1/4+y, 1/4+x'
+ 24 '-1/4-z, -1/4-y, x'
+ 25 '-1/4-z, y, -1/4-x'
+ 26 '1/4+x, -z, 1/4+y'
+ 27 '1/4+x, 1/4+z, -y'
+ 28 'x, 1/4-y, 1/4-z'
+ 29 'x, -1/4-z, -1/4-y'
+ 30 'x, z, y'
+ 31 '-1/4+x, -y, -1/4+z'
+ 32 '-1/4+x, -1/4+y, -z'
+ 33 '1/4+y, -x, 1/4+z'
+ 34 '1/4+y, 1/4+x, -z'
+ 35 'y, -1/4-x, -1/4-z'
+ 36 'y, 1/4-z, 1/4-x'
+ 37 'y, x, z'
+ 38 'y, z, x'
+ 39 '-1/4+y, -z, -1/4+x'
+ 40 '-1/4+y, -1/4+z, -x'
+ 41 '1/4+z, -y, 1/4+x'
+ 42 '1/4+z, 1/4+y, -x'
+ 43 'z, 1/4-x, 1/4-y'
+ 44 'z, -1/4-y, -1/4-x'
+ 45 'z, x, y'
+ 46 'z, y, x'
+ 47 '-1/4+z, -x, -1/4+y'
+ 48 '-1/4+z, -1/4+x, -y'
+ 49 'x, 1/2+y, 1/2+z'
+ 50 '1/4-x, 3/4-y, 1/2+z'
+ 51 '1/4-x, 1/2+y, 3/4-z'
+ 52 '-x, 1/2-y, 1/2-z'
+ 53 '-x, 1/2-z, 1/2-y'
+ 54 '-x, 1/4+y, 1/4+z'
+ 55 '-x, 3/4+z, 3/4+y'
+ 56 '-1/4-x, 1/4-z, 1/2+y'
+ 57 '-1/4-x, 1/2+z, 1/4-y'
+ 58 '1/4-y, 3/4-z, 1/2+x'
+ 59 '1/4-y, 1/2+z, 3/4-x'
+ 60 '-y, 1/2-x, 1/2-z'
+ 61 '-y, 1/2-z, 1/2-x'
+ 62 '-y, 3/4+x, 3/4+z'
+ 63 '-y, 1/4+z, 1/4+x'
+ 64 '-1/4-y, 1/4-x, 1/2+z'
+ 65 '-1/4-y, 1/2+x, 1/4-z'
+ 66 '1/4-z, 3/4-x, 1/2+y'
+ 67 '1/4-z, 1/2+x, 3/4-y'
+ 68 '-z, 1/2-x, 1/2-y'
+ 69 '-z, 1/2-y, 1/2-x'
+ 70 '-z, 1/4+x, 1/4+y'
+ 71 '-z, 3/4+y, 3/4+x'
+ 72 '-1/4-z, 1/4-y, 1/2+x'
+ 73 '-1/4-z, 1/2+y, 1/4-x'
+ 74 '1/4+x, 1/2-z, 3/4+y'
+ 75 '1/4+x, 3/4+z, 1/2-y'
+ 76 'x, 3/4-y, 3/4-z'
+ 77 'x, 1/4-z, 1/4-y'
+ 78 'x, 1/2+z, 1/2+y'
+ 79 '-1/4+x, 1/2-y, 1/4+z'
+ 80 '-1/4+x, 1/4+y, 1/2-z'
+ 81 '1/4+y, 1/2-x, 3/4+z'
+ 82 '1/4+y, 3/4+x, 1/2-z'
+ 83 'y, 1/4-x, 1/4-z'
+ 84 'y, 3/4-z, 3/4-x'
+ 85 'y, 1/2+x, 1/2+z'
+ 86 'y, 1/2+z, 1/2+x'
+ 87 '-1/4+y, 1/2-z, 1/4+x'
+ 88 '-1/4+y, 1/4+z, 1/2-x'
+ 89 '1/4+z, 1/2-y, 3/4+x'
+ 90 '1/4+z, 3/4+y, 1/2-x'
+ 91 'z, 3/4-x, 3/4-y'
+ 92 'z, 1/4-y, 1/4-x'
+ 93 'z, 1/2+x, 1/2+y'
+ 94 'z, 1/2+y, 1/2+x'
+ 95 '-1/4+z, 1/2-x, 1/4+y'
+ 96 '-1/4+z, 1/4+x, 1/2-y'
+ 97 '1/2+x, y, 1/2+z'
+ 98 '3/4-x, 1/4-y, 1/2+z'
+ 99 '3/4-x, y, 3/4-z'
+ 100 '1/2-x, -y, 1/2-z'
+ 101 '1/2-x, -z, 1/2-y'
+ 102 '1/2-x, -1/4+y, 1/4+z'
+ 103 '1/2-x, 1/4+z, 3/4+y'
+ 104 '1/4-x, -1/4-z, 1/2+y'
+ 105 '1/4-x, z, 1/4-y'
+ 106 '3/4-y, 1/4-z, 1/2+x'
+ 107 '3/4-y, z, 3/4-x'
+ 108 '1/2-y, -x, 1/2-z'
+ 109 '1/2-y, -z, 1/2-x'
+ 110 '1/2-y, 1/4+x, 3/4+z'
+ 111 '1/2-y, -1/4+z, 1/4+x'
+ 112 '1/4-y, -1/4-x, 1/2+z'
+ 113 '1/4-y, x, 1/4-z'
+ 114 '3/4-z, 1/4-x, 1/2+y'
+ 115 '3/4-z, x, 3/4-y'
+ 116 '1/2-z, -x, 1/2-y'
+ 117 '1/2-z, -y, 1/2-x'
+ 118 '1/2-z, -1/4+x, 1/4+y'
+ 119 '1/2-z, 1/4+y, 3/4+x'
+ 120 '1/4-z, -1/4-y, 1/2+x'
+ 121 '1/4-z, y, 1/4-x'
+ 122 '3/4+x, -z, 3/4+y'
+ 123 '3/4+x, 1/4+z, 1/2-y'
+ 124 '1/2+x, 1/4-y, 3/4-z'
+ 125 '1/2+x, -1/4-z, 1/4-y'
+ 126 '1/2+x, z, 1/2+y'
+ 127 '1/4+x, -y, 1/4+z'
+ 128 '1/4+x, -1/4+y, 1/2-z'
+ 129 '3/4+y, -x, 3/4+z'
+ 130 '3/4+y, 1/4+x, 1/2-z'
+ 131 '1/2+y, -1/4-x, 1/4-z'
+ 132 '1/2+y, 1/4-z, 3/4-x'
+ 133 '1/2+y, x, 1/2+z'
+ 134 '1/2+y, z, 1/2+x'
+ 135 '1/4+y, -z, 1/4+x'
+ 136 '1/4+y, -1/4+z, 1/2-x'
+ 137 '3/4+z, -y, 3/4+x'
+ 138 '3/4+z, 1/4+y, 1/2-x'
+ 139 '1/2+z, 1/4-x, 3/4-y'
+ 140 '1/2+z, -1/4-y, 1/4-x'
+ 141 '1/2+z, x, 1/2+y'
+ 142 '1/2+z, y, 1/2+x'
+ 143 '1/4+z, -x, 1/4+y'
+ 144 '1/4+z, -1/4+x, 1/2-y'
+ 145 '1/2+x, 1/2+y, z'
+ 146 '3/4-x, 3/4-y, z'
+ 147 '3/4-x, 1/2+y, 1/4-z'
+ 148 '1/2-x, 1/2-y, -z'
+ 149 '1/2-x, 1/2-z, -y'
+ 150 '1/2-x, 1/4+y, -1/4+z'
+ 151 '1/2-x, 3/4+z, 1/4+y'
+ 152 '1/4-x, 1/4-z, y'
+ 153 '1/4-x, 1/2+z, -1/4-y'
+ 154 '3/4-y, 3/4-z, x'
+ 155 '3/4-y, 1/2+z, 1/4-x'
+ 156 '1/2-y, 1/2-x, -z'
+ 157 '1/2-y, 1/2-z, -x'
+ 158 '1/2-y, 3/4+x, 1/4+z'
+ 159 '1/2-y, 1/4+z, -1/4+x'
+ 160 '1/4-y, 1/4-x, z'
+ 161 '1/4-y, 1/2+x, -1/4-z'
+ 162 '3/4-z, 3/4-x, y'
+ 163 '3/4-z, 1/2+x, 1/4-y'
+ 164 '1/2-z, 1/2-x, -y'
+ 165 '1/2-z, 1/2-y, -x'
+ 166 '1/2-z, 1/4+x, -1/4+y'
+ 167 '1/2-z, 3/4+y, 1/4+x'
+ 168 '1/4-z, 1/4-y, x'
+ 169 '1/4-z, 1/2+y, -1/4-x'
+ 170 '3/4+x, 1/2-z, 1/4+y'
+ 171 '3/4+x, 3/4+z, -y'
+ 172 '1/2+x, 3/4-y, 1/4-z'
+ 173 '1/2+x, 1/4-z, -1/4-y'
+ 174 '1/2+x, 1/2+z, y'
+ 175 '1/4+x, 1/2-y, -1/4+z'
+ 176 '1/4+x, 1/4+y, -z'
+ 177 '3/4+y, 1/2-x, 1/4+z'
+ 178 '3/4+y, 3/4+x, -z'
+ 179 '1/2+y, 1/4-x, -1/4-z'
+ 180 '1/2+y, 3/4-z, 1/4-x'
+ 181 '1/2+y, 1/2+x, z'
+ 182 '1/2+y, 1/2+z, x'
+ 183 '1/4+y, 1/2-z, -1/4+x'
+ 184 '1/4+y, 1/4+z, -x'
+ 185 '3/4+z, 1/2-y, 1/4+x'
+ 186 '3/4+z, 3/4+y, -x'
+ 187 '1/2+z, 3/4-x, 1/4-y'
+ 188 '1/2+z, 1/4-y, -1/4-x'
+ 189 '1/2+z, 1/2+x, y'
+ 190 '1/2+z, 1/2+y, x'
+ 191 '1/4+z, 1/2-x, -1/4+y'
+ 192 '1/4+z, 1/4+x, -y'
+loop_
+ _atom_type_symbol
+ Pt
+ Pr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Pt1 Pt 16 c 0 0 0 1
+ Pr1 Pr 8 b 0.375 0.375 0.375 0.75
+ Pt2 Pt 8 b 0.375 0.375 0.375 0.25
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            16.20
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 250805
+

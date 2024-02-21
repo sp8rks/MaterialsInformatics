@@ -1,0 +1,192 @@
+##############################################################################
+#                                                                            #
+# Mo-Pt            # Mo3.2Pt0.8 ht                                 #  250191 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2022/23                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2022 #
+#                   All rights reserved. Version 2022.07                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   Indian Institute of Technology Kharagpur, Periodical Section, Central Library, Academic Site License         #
+#                                                                            #
+##############################################################################
+
+data_250191
+_audit_creation_date                     2024-01-07
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      250191
+_database_code_PDF                       04-001-0114
+
+# Entry summary
+
+_chemical_formula_structural             'Mo~3~ Pt'
+_chemical_formula_sum                    'Mo3 Pt'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cr~3~Si,cP8,223
+_chemical_formula_weight                 482.9
+
+# Bibliographic data
+
+_publ_section_title
+'Relations between the structures of phases in the system platinum-molybdenum'
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1964
+_journal_volume                          6
+_journal_page_first                      451
+_journal_page_last                       460
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rooksby H.P.'
+;
+General Electric Co. Ltd.
+Hirst Research Center
+Wembley
+United Kingdom
+;
+# Standardized crystallographic data
+
+_cell_length_a                           4.987
+_cell_length_b                           4.987
+_cell_length_c                           4.987
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        90
+_cell_volume                             124.03
+_cell_formula_units_Z                    2
+_space_group_IT_number                   223
+_space_group_name_H-M_alt                'P m -3 n'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '1/2-x, 1/2-z, 1/2-y'
+ 3 '1/2-x, 1/2-z, 1/2+y'
+ 4 '1/2-x, 1/2+z, 1/2-y'
+ 5 '1/2-x, 1/2+z, 1/2+y'
+ 6 '-x, -y, -z'
+ 7 '-x, -y, z'
+ 8 '-x, y, -z'
+ 9 '-x, y, z'
+ 10 '1/2-y, 1/2-x, 1/2-z'
+ 11 '1/2-y, 1/2-x, 1/2+z'
+ 12 '1/2-y, 1/2+x, 1/2-z'
+ 13 '1/2-y, 1/2+x, 1/2+z'
+ 14 '-y, -z, -x'
+ 15 '-y, -z, x'
+ 16 '-y, z, -x'
+ 17 '-y, z, x'
+ 18 '1/2-z, 1/2-y, 1/2-x'
+ 19 '1/2-z, 1/2-y, 1/2+x'
+ 20 '1/2-z, 1/2+y, 1/2-x'
+ 21 '1/2-z, 1/2+y, 1/2+x'
+ 22 '-z, -x, -y'
+ 23 '-z, -x, y'
+ 24 '-z, x, -y'
+ 25 '-z, x, y'
+ 26 '1/2+x, 1/2-z, 1/2-y'
+ 27 '1/2+x, 1/2-z, 1/2+y'
+ 28 '1/2+x, 1/2+z, 1/2-y'
+ 29 '1/2+x, 1/2+z, 1/2+y'
+ 30 'x, -y, -z'
+ 31 'x, -y, z'
+ 32 'x, y, -z'
+ 33 '1/2+y, 1/2-x, 1/2-z'
+ 34 '1/2+y, 1/2-x, 1/2+z'
+ 35 '1/2+y, 1/2+x, 1/2-z'
+ 36 '1/2+y, 1/2+x, 1/2+z'
+ 37 'y, -z, -x'
+ 38 'y, -z, x'
+ 39 'y, z, -x'
+ 40 'y, z, x'
+ 41 '1/2+z, 1/2-y, 1/2-x'
+ 42 '1/2+z, 1/2-y, 1/2+x'
+ 43 '1/2+z, 1/2+y, 1/2-x'
+ 44 '1/2+z, 1/2+y, 1/2+x'
+ 45 'z, -x, -y'
+ 46 'z, -x, y'
+ 47 'z, x, -y'
+ 48 'z, x, y'
+loop_
+ _atom_type_symbol
+ Mo
+ Pt
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Mo1 Mo 6 c 0.25 0 0.5 1
+ Pt1 Pt 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            12.93
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               film
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 3.526 10
+ 2 0 0 2.494 20
+ 2 1 0 2.23 60
+ 2 1 1 2.036 100
+ 2 2 0 1.763 5
+ 3 1 0 1.577 10
+ 2 2 2 1.44 10
+ 3 2 0 1.383 20
+ 3 2 1 1.333 50
+ 4 0 0 1.247 15
+ 4 1 1 1.175 5
+ 4 2 0 1.115 40
+ 4 2 1 1.088 45
+ 3 3 2 1.063 35
+ 4 2 2 1.018 2
+ 5 1 0 0.978 5
+ 5 2 0 0.926 35
+ 5 2 1 0.911 50
+ 4 4 0 0.882 30
+ 5 3 0 0.855 2
+ 6 0 0 0.831 25
+ 6 1 0 0.82 20
+ 6 1 1 0.809 60
+
+# End of data set 250191
+
