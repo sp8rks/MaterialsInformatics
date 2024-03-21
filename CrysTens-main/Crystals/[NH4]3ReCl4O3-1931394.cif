@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# Cl-H-N-O-Re      # [NH4]3ReCl4O3                                 # 1931394 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1931394
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1931394
+
+# Entry summary
+
+_chemical_formula_structural             '[N H~4~]~3~ Re Cl~4~ O~3~'
+_chemical_formula_sum                    'Cl4 H12 N3 O3 Re'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            [NH~4~]~3~ReCl~4~O~3~,hP22,186
+_chemical_formula_weight                 430.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure of triammonium fac-trichloridotrioxidorhenate(VII) chloride with C~3~v crystallographic symmetry of the complex anion
+;
+_journal_coden_ASTM                      JCCYEV
+_journal_name_full                       'J. Chem. Crystallogr.'
+_journal_year                            2010
+_journal_volume                          40
+_journal_page_first                      707
+_journal_page_last                       711
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Holynska M.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+'Lis T.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.026
+_cell_length_b                           9.026
+_cell_length_c                           7.69
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             542.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cl
+ N
+ Re
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O O 6 c 0.2336 0.7664 0.38416 1
+ Cl1 Cl 6 c 0.45383 0.54617 0.06783 1
+ N N 6 c 0.83517 0.16483 0.25736 1
+ Re Re 2 b 0.333333 0.666667 0.28994 1
+ Cl2 Cl 2 a 0 0 0.0 1
+ H3 H 12 d 0.3502 0.0992 0.18234 1
+ H2 H 6 c 0.7928 0.2072 0.33854 1
+ H1 H 6 c 0.8865 0.1135 0.31324 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.63
+_cell_measurement_temperature            100(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              100(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          KM-4
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    9415
+_diffrn_reflns_theta_min                 3.72
+_diffrn_reflns_theta_max                 38.84
+_exptl_absorpt_coefficient_mu            12.16
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             31
+_refine_ls_number_reflns                 1093
+_refine_ls_R_factor_gt                   0.0115
+_refine_ls_wR_factor_gt                  0.0211
+
+# End of data set 1931394
+
+
