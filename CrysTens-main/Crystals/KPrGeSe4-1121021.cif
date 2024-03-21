@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Ge-K-Pr-Se       # KPrGeSe4                                      # 1121021 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1121021
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1121021
+
+# Entry summary
+
+_chemical_formula_structural             'K Pr Ge Se~4~'
+_chemical_formula_sum                    'Ge K Pr Se4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KLaGeS~4~,mP14,4
+_chemical_formula_weight                 568.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures of potassium terbium(III) tetrasulfidogermanate, KTbGeS~4~, and potassium praseodymium(III) tetraselenidogermanate, KPrGeSe~4~
+;
+_journal_coden_ASTM                      ZKNSFT
+_journal_name_full
+'Z. Kristallogr. - New Cryst. Struct.'                                        
+_journal_year                            2005
+_journal_volume                          220
+_journal_page_first                      7
+_journal_page_last                       8
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chan B.C.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+'Dorhout P.K.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.828
+_cell_length_b                           7.0105
+_cell_length_c                           8.987
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.157
+_cell_angle_gamma                        90
+_cell_volume                             408.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Se
+ Ge
+ Pr
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 2 a 0.0097 0.2591 0.2835 1
+ Se2 Se 2 a 0.0327 0.2753 0.7306 1
+ Ge1 Ge 2 a 0.2168 0.5323 0.3182 1
+ Pr1 Pr 2 a 0.2317 0.0 0.55344 1
+ K1 K 2 a 0.2576 0.0117 0.0624 1
+ Se3 Se 2 a 0.4148 0.5349 0.1513 1
+ Se4 Se 2 a 0.5771 0.0855 0.4223 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.62
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2578
+_exptl_absorpt_coefficient_mu            27.777
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             66
+_refine_ls_number_reflns                 1153
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  0.090
+
+# End of data set 1121021
+
+

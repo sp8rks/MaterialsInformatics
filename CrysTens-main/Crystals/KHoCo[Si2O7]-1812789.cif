@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Co-Ho-K-O-Si     # KHoCo[Si2O7]                                  # 1812789 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1812789
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1812789
+
+# Entry summary
+
+_chemical_formula_structural             'K Ho Co [Si~2~ O~7~]'
+_chemical_formula_sum                    'Co Ho K O7 Si2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KHoCo[Si~2~O~7~],mP48,3
+_chemical_formula_weight                 431.1
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of a new synthetic silicate KHoCoSi~2~O~7~'                
+_journal_coden_ASTM                      DANKAS
+_journal_name_full                       'Dokl. Akad. Nauk SSSR'
+_journal_year                            1980
+_journal_volume                          253
+_journal_page_first                      1130
+_journal_page_last                       1132
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ragimov K.G.'
+;
+Azerbaijan Academy of Sciences
+Institute of Inorganic and Physical Chemistry
+Baku
+Azerbaijan
+;
+'Chiragov M.I.'
+;
+Azerbaijan Academy of Sciences
+Institute of Inorganic and Physical Chemistry
+Baku
+Azerbaijan
+;
+'Mamedov K.S.'
+;
+Azerbaijan Academy of Sciences
+Institute of Inorganic and Physical Chemistry
+Baku
+Azerbaijan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.488
+_cell_length_b                           10.755
+_cell_length_c                           8.491
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.35
+_cell_angle_gamma                        90
+_cell_volume                             721.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   3
+_space_group_name_H-M_alt                'P 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Si
+ K
+ Ho
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 2 e 0.0177 0.6084 0.7137 1
+ O9 O 2 e 0.0351 0.908 0.212 1
+ O14 O 2 e 0.0921 0.1181 0.404 1
+ Si4 Si 2 e 0.1121 0.969 0.4001 1
+ O10 O 2 e 0.2028 0.0888 0.0106 1
+ O4 O 2 e 0.2051 0.4144 0.535 1
+ K1 K 2 e 0.2301 0.3025 0.2332 1
+ Ho2 Ho 2 e 0.2512 0.2092 0.7421 1
+ Ho1 Ho 2 e 0.2818 0.7241 0.2816 1
+ O1 O 2 e 0.2948 0.6075 0.0011 1
+ O11 O 2 e 0.295 0.9131 0.489 1
+ O13 O 2 e 0.3656 0.8911 0.1238 1
+ Si3 Si 2 e 0.3844 0.0396 0.1131 1
+ Si1 Si 2 e 0.3891 0.4816 0.6054 1
+ O12 O 2 e 0.467 0.114 0.2815 1
+ O3 O 2 e 0.5283 0.4097 0.2108 1
+ O6 O 2 e 0.5999 0.6307 0.3969 1
+ K2 K 2 e 0.7123 0.8034 0.1999 1
+ Si2 Si 2 e 0.8856 0.536 0.1109 1
+ O7 O 2 e 0.888 0.3874 0.1048 1
+ Co4 Co 1 d 0.5 0.0155 0.5 1
+ O16 O 1 d 0.5 0.4303 0.5 1
+ O15 O 1 c 0.5 0.0581 0 1
+ Co2 Co 1 c 0.5 0.5135 0 1
+ Co1 Co 1 b 0 0.5189 0.5 1
+ O8 O 1 b 0 0.9121 0.5 1
+ Co3 Co 1 a 0 0.0 0 1
+ O5 O 1 a 0 0.5842 0 1
+
+
+_exptl_crystal_colour                    bluish
+_exptl_crystal_density_meas              3.10
+_exptl_crystal_density_diffrn            3.97
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1582
+_refine_ls_R_factor_gt                   0.074
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1812789
+
+

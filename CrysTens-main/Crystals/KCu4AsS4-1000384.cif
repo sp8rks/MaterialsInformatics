@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# As-Cu-K-S        # KCu4AsS4                                      # 1000384 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1000384
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1000384
+
+# Entry summary
+
+_chemical_formula_structural             'K Cu~4~ As S~4~'
+_chemical_formula_sum                    'As Cu4 K S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KCu~4~AsS~4~,mP20,4
+_chemical_formula_weight                 496.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis of new low-dimensional quaternary compounds, KCu~2~AsS~3~ and KCu~4~AsS~4~, in supercritical amine solvent. Alkali metal derivatives of sulfosalts
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1994
+_journal_volume                          33
+_journal_page_first                      1733
+_journal_page_last                       1734
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jerome J.E.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Wood P.T.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Pennington W.T.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Kolis J.W.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.636
+_cell_length_b                           6.396
+_cell_length_c                           9.579
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.48
+_cell_angle_gamma                        90
+_cell_volume                             395.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cu
+ S
+ As
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu3 Cu 2 a 0.0226 0.4092 0.4856 1
+ S4 S 2 a 0.0614 0.1789 0.6587 1
+ Cu2 Cu 2 a 0.0739 0.6791 0.1247 1
+ S2 S 2 a 0.1655 0.0 0.0503 1
+ As As 2 a 0.2052 0.1934 0.2522 1
+ Cu1 Cu 2 a 0.2932 0.6999 0.4367 1
+ Cu4 Cu 2 a 0.3621 0.0546 0.6108 1
+ S3 S 2 a 0.3835 0.4636 0.1932 1
+ S1 S 2 a 0.4657 0.0033 0.3964 1
+ K K 2 a 0.678 0.0589 0.1365 1
+
+
+_exptl_crystal_colour                    'orange pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.17
+_cell_measurement_temperature            294
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              294
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet P3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    842
+_exptl_absorpt_coefficient_mu            16.24
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 725
+_refine_ls_R_factor_gt                   0.0343
+_refine_ls_wR_factor_gt                  0.0428
+
+# End of data set 1000384
+
+

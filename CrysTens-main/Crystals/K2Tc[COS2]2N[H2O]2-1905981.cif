@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# C-H-K-N-O-S-Tc   # K2Tc[COS2]2N[H2O]2                            # 1905981 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1905981
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1905981
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Tc [C O S~2~]~2~ N [H~2~ O]~2~'
+_chemical_formula_sum                    'C2 H4 K2 N O4 S4 Tc'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+K~2~Tc[COS~2~]~2~N[H~2~O]~2~,mP56,14                                          
+_chemical_formula_weight                 410.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and structure of a new inorganic dianionic bis(dithiocarbonato)nitridotechnetate(V) complex K~2~[TcN(S~2~CO)~2~].2H~2~O
+;
+_journal_coden_ASTM                      JCDTBI
+_journal_name_full                       'J. Chem. Soc., Dalton Trans.'
+_journal_year                            1990
+_journal_volume                          ?
+_journal_page_first                      2923
+_journal_page_last                       2925
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rossi R.'
+;
+Ferrara University
+Laboratorio di Chimica Nucleare ed Inorganica
+Ferrara
+Italy
+;
+'Marchi A.'
+;
+Ferrara University
+Laboratorio di Chimica Nucleare ed Inorganica
+Ferrara
+Italy
+;
+'Magon L.'
+;
+Ferrara University
+Laboratorio di Chimica Nucleare ed Inorganica
+Ferrara
+Italy
+;
+'Casellato U.'
+;
+Consiglio Nazionale delle Ricerche (CNR)
+Istituto di Chimica e Tecnologia dei Radioelementi
+Padua
+Italy
+;
+'Graziani R.'
+;
+Padua University
+Dipartimento di Chimica Inorganica, Metallorganica e Analitica
+Padua
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.353
+_cell_length_b                           15.63
+_cell_length_c                           12.3465
+_cell_angle_alpha                        90
+_cell_angle_beta                         131.627
+_cell_angle_gamma                        90
+_cell_volume                             1204.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ K
+ O
+ OH2
+ C
+ S
+ N
+ Tc
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K1 K 4 e 0.1075 0.8075 0.2155 1
+ K2 K 4 e 0.1234 0.5377 0.2238 1
+ O2 O 4 e 0.1928 0.4284 0.0825 1
+ O4 OH2 4 e 0.202 0.6722 0.3985 1
+ O1 O 4 e 0.2136 0.5719 0.6122 1
+ C2 C 4 e 0.2664 0.3575 0.1215 1
+ C1 C 4 e 0.271 0.0022 0.1368 1
+ S2 S 4 e 0.3006 0.0706 0.2652 1
+ S4 S 4 e 0.3044 0.2962 0.2594 1
+ N N 4 e 0.306 0.6795 0.1654 1
+ S1 S 4 e 0.3372 0.0641 0.0503 1
+ S3 S 4 e 0.3424 0.2924 0.0447 1
+ Tc Tc 4 e 0.43485 0.18048 0.20984 1
+ O3 OH2 4 e 0.8077 0.4179 0.0907 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.26
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Philips
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    3835
+_exptl_absorpt_coefficient_mu            2.35
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2803
+_refine_ls_R_factor_gt                   0.035
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1905981
+
+

@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# K-O-P-Y          # KYP4O12                                       # 1323948 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1323948
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1323948
+
+# Entry summary
+
+_chemical_formula_structural             'K Y P~4~ O~12~'
+_chemical_formula_sum                    'K O12 P4 Y'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNdP~4~O~12~,mP36,4
+_chemical_formula_weight                 443.9
+
+# Bibliographic data
+
+_publ_section_title
+'A monoclinic polymorph of KY(PO~3~)~4~'                                      
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2008
+_journal_volume                          64
+_journal_page_first                      i34
+_journal_page_last                       ?
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Horchani Naifer K.'
+;
+Centre National de Recherche en Sciences des Mat\'eriaux
+Unit\'e de Recherches de Mat\'eriaux de Terres Rares
+Hammam-Lif
+Tunisia
+;
+'Jouini A.'
+;
+Centre National de Recherche en Sciences des Mat\'eriaux
+Unit\'e de Recherches de Mat\'eriaux de Terres Rares
+Hammam-Lif
+Tunisia
+;
+'F\'erid M.'
+;
+Centre National de Recherche en Sciences des Mat\'eriaux
+Unit\'e de Recherches de Mat\'eriaux de Terres Rares
+Hammam-Lif
+Tunisia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.2244
+_cell_length_b                           8.2825
+_cell_length_c                           7.854
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.735
+_cell_angle_gamma                        90
+_cell_volume                             469.74
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ K
+ Y
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P3 P 2 a 0.0018 0.1094 0.1191 1
+ O7 O 2 a 0.0076 0.0 0.2841 1
+ O9 O 2 a 0.0337 0.0118 0.9652 1
+ O5 O 2 a 0.0239 0.4071 0.4224 1
+ O6 O 2 a 0.088 0.2114 0.6732 1
+ P2 P 2 a 0.0994 0.3764 0.5978 1
+ O10 O 2 a 0.1755 0.2234 0.1593 1
+ K K 2 a 0.2703 0.6575 0.2188 1
+ O3 O 2 a 0.3126 0.427 0.6093 1
+ P4 P 2 a 0.3839 0.2123 0.1008 1
+ O2 O 2 a 0.4264 0.0567 0.5387 1
+ O4 O 2 a 0.464 0.0715 0.2211 1
+ O11 O 2 a 0.4742 0.3657 0.1486 1
+ P1 P 2 a 0.5633 0.0839 0.4053 1
+ O12 O 2 a 0.6118 0.6544 0.0773 1
+ O1 O 2 a 0.6788 0.2301 0.4279 1
+ Y Y 2 a 0.76296 0.45987 0.25755 1
+ O8 O 2 a 0.834 0.2109 0.1154 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.14
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    3651
+_exptl_absorpt_coefficient_mu            7.40
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             165
+_refine_ls_number_reflns                 1904
+_refine_ls_R_factor_gt                   0.048
+_refine_ls_wR_factor_gt                  0.138
+
+# End of data set 1323948
+
+

@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Cl-H-K-O-Tl      # K2TlCl5[H2O]2                                 # 1708761 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1708761
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1708761
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Tl Cl~5~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Cl5 H4 K2 O2 Tl'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~TlCl~5~[H~2~O]~2~,mP40,14
+_chemical_formula_weight                 495.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+\"Uber die Pentachlorothallate(III) K~2~TlCl~5~.2H~2~O und M~2~TlCl~5~.H~2~O (M= Rb, NH~4~)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1983
+_journal_volume                          498
+_journal_page_first                      105
+_journal_page_last                       114
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Thiele G.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'Grunwald B.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.923
+_cell_length_b                           11.959
+_cell_length_c                           8.404
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.21
+_cell_angle_gamma                        90
+_cell_volume                             1076.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ K
+ OH2
+ Tl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 4 e 0.0035 0.0646 0.1866 1
+ K2 K 4 e 0.0035 0.3384 0.0823 1
+ O(H2O1) OH2 4 e 0.1767 0.5058 0.0452 1
+ Cl5 Cl 4 e 0.1858 0.8096 0.1685 1
+ Cl4 Cl 4 e 0.1933 0.3096 0.4285 1
+ Tl Tl 4 e 0.19804 0.00189 0.05291 1
+ Cl3 Cl 4 e 0.3585 0.0548 0.3043 1
+ K1 K 4 e 0.406 0.6871 0.0007 1
+ O(H2O2) OH2 4 e 0.4562 0.3187 0.2466 1
+ Cl2 Cl 4 e 0.6491 0.0649 0.1193 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              3.04
+_exptl_crystal_density_diffrn            3.06
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    7650
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1693
+_refine_ls_R_factor_gt                   0.058
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1708761
+
+

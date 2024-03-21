@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# K-P-S-Sb         # KSbP2S6                                       # 1904943 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904943
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904943
+
+# Entry summary
+
+_chemical_formula_structural             'K Sb P~2~ S~6~'
+_chemical_formula_sum                    'K P2 S6 Sb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KSbP~2~Se~6~,mP20,4
+_chemical_formula_weight                 415.2
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of potassium antimony hexathiodiphosphate, KSbP~2~S~6~'    
+_journal_coden_ASTM                      ZKNSFT
+_journal_name_full
+'Z. Kristallogr. - New Cryst. Struct.'                                        
+_journal_year                            2003
+_journal_volume                          218
+_journal_page_first                      403
+_journal_page_last                       404
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Manriquez V.'
+;
+Santiago de Chile University
+Departamento de Quimica
+Santiago
+Chile
+;
+'Galdamez A.'
+;
+Santiago de Chile University
+Departamento de Quimica
+Santiago
+Chile
+;
+'Ruiz Leon D.'
+;
+Santiago de Chile University
+Departamento de Quimica
+Santiago
+Chile
+;
+'Garland M.T.'
+;
+Santiago de Chile University
+Departamento de Fisica
+Santiago
+Chile
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.605
+_cell_length_b                           7.651
+_cell_length_c                           9.754
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.11
+_cell_angle_gamma                        90
+_cell_volume                             492.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ S
+ P
+ K
+ Sb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 2 a 0.0715 0.00523 0.75228 1
+ S5 S 2 a 0.0878 0.01323 0.23068 1
+ S1 S 2 a 0.1716 0.30363 0.51839 1
+ P1 P 2 a 0.1923 0.41863 0.32655 1
+ K K 2 a 0.1955 0.71443 0.00699 1
+ P2 P 2 a 0.2957 0.20003 0.1961 1
+ Sb Sb 2 a 0.3174 0.0 0.48199 1
+ S6 S 2 a 0.3271 0.28343 0.0078 1
+ S2 S 2 a 0.411 0.60863 0.3275 1
+ S4 S 2 a 0.5547 0.12403 0.3062 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.80
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4075
+_exptl_absorpt_coefficient_mu            4.743
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             91
+_refine_ls_number_reflns                 2037
+_refine_ls_R_factor_gt                   0.018
+_refine_ls_wR_factor_gt                  0.044
+
+# End of data set 1904943
+
+

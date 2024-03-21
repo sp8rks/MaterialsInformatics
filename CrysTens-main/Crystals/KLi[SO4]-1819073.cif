@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# K-Li-O-S         # KLi[SO4] rt                                   # 1819073 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1819073
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1819073
+
+# Entry summary
+
+_chemical_formula_structural             'K Li [S O~4~]'
+_chemical_formula_sum                    'K Li O4 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KLi[SO~4~],hP14,173
+_chemical_formula_weight                 142.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+The double-peak phenomenon of the phase transition of Rb substituting K in LiKSO~4~, competition between Rb sub-lattice and smearing the phase transition
+;
+_journal_coden_ASTM                      JPAPBE
+_journal_name_full                       'J. Phys. D: Appl. Phys.'
+_journal_year                            2007
+_journal_volume                          40
+_journal_page_first                      4360
+_journal_page_last                       4367
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gaffar M.A.'
+;
+Asyut (Assiut) Al-Azhar University
+Department of Physics
+Asyut (Assiut)
+Egypt
+;
+'Ahmad M.M.'
+;
+El Kharga Asyut University New Valley Branch
+Department of Science and Mathematics
+El Kharga
+Egypt
+;
+'Yamada K.'
+;
+Narashino Chiba Nihon University
+Department of Applied Molecular Chemistry
+Narashino / Chiba
+Japan
+;
+'Okuda T.'
+;
+Hiroshima Higashihiroshima University
+Faculty of Engineering
+Hiroshima / Higashihiroshima
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.1445
+_cell_length_b                           5.1445
+_cell_length_c                           8.6346
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             197.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ Li
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 6 c 0.05876 0.40566 0.26126 1
+ O1 O 2 b 0.333333 0.666667 0.02827 1
+ S S 2 b 0.333333 0.666667 0.20147 1
+ Li Li 2 b 0.333333 0.666667 0.84332 1
+ K K 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.38
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5405
+_pd_proc_wavelength                      1.5405
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku RINT'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5405
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 45
+_pd_proc_2theta_range_min                4
+_pd_proc_2theta_range_max                90
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.2140
+_pd_proc_ls_proof_wR_factor              0.2590
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1819073
+
+

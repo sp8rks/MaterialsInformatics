@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# Al-F-K           # KAlF4 lt                                      # 1922203 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1922203
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1922203
+
+# Entry summary
+
+_chemical_formula_structural             'K Al F~4~'
+_chemical_formula_sum                    'Al F4 K'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAlF~4~,mP24,11
+_chemical_formula_weight                 142.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Shear transformation in the layered compound KAlF~4~: low temperature phase structure and transformation mechanism
+;
+_journal_coden_ASTM                      JOPQAG
+_journal_name_full                       'J. Phys. (Paris)'
+_journal_year                            1985
+_journal_volume                          46
+_journal_page_first                      771
+_journal_page_last                       782
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Launay J.M.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Physique de l'Etat Condens\'e
+Le Mans
+France
+;
+'Bulou A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Physique de l'Etat Condens\'e
+Le Mans
+France
+;
+'Hewat A.W.'
+;
+Grenoble Laue-Langevin Institute
+Grenoble
+France
+;
+'Gibaud A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Physique de l'Etat Condens\'e
+Le Mans
+France
+;
+'Laval J.Y.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire d'Etude et de Synth\`ese des Microstructures
+Paris
+France
+;
+'Nouet J.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Physique de l'Etat Condens\'e
+Le Mans
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.407
+_cell_length_b                           7.237
+_cell_length_c                           7.3403
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.801
+_cell_angle_gamma                        90
+_cell_volume                             325.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ F
+ K
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1eq F 4 f 0.0077 0.5205 0.2581 1
+ F4ax F 4 f 0.2836 0.537 0.0712 1
+ F5ax F 4 f 0.716 0.0361 0.4262 1
+ F3eq F 2 e 0.044 0.25 0.4874 1
+ F2eq F 2 e 0.051 0.25 0.029 1
+ K1 K 2 e 0.541 0.25 0.131 1
+ K2 K 2 e 0.544 0.25 0.633 1
+ Al2 Al 2 c 0 0 0.5 1
+ Al1 Al 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.90
+_cell_measurement_temperature            4
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.909
+_pd_proc_wavelength                      1.909
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              4
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D1A'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.909
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 9
+_diffrn_reflns_theta_max                 80
+_pd_proc_2theta_range_min                18
+_pd_proc_2theta_range_max                160
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0888
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.0539
+
+# End of data set 1922203
+
+

@@ -1,0 +1,168 @@
+##############################################################################
+#                                                                            #
+# Cl-H-La-N-O-Pt   # La2Pt[NO3]4Cl6[H2O]14 rt                      # 1926593 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1926593
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1926593
+
+# Entry summary
+
+_chemical_formula_structural
+'La~2~ Pt [N O~3~]~4~ Cl~6~ [H~2~ O]~14~'                                     
+_chemical_formula_sum                    'Cl6 H28 La2 N4 O26 Pt'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+La~2~Pt[NO~3~]~4~Cl~6~[H~2~O]~14~,mP78,14                                     
+_chemical_formula_weight                 1185.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hexachloroplatinates of the lanthanides: Syntheses and thermal decomposition of [M(NO~3~)~2~(H~2~O)~6~]~2~[PtCl~6~].2H~2~O (M= La, Pr) and [M(NO~3~)(H~2~O)~7~][PtCl~6~].4H~2~O (M= Gd, Dy)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2008
+_journal_volume                          634
+_journal_page_first                      431
+_journal_page_last                       435
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Arndt A.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+'Posavec D.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+'Schwarzer S.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+'Wickleder M.S.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.974
+_cell_length_b                           16.545
+_cell_length_c                           13.177
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.97
+_cell_angle_gamma                        90
+_cell_volume                             1516.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ O
+ N
+ OH2
+ La
+ Pt
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl11 Cl 4 e 0.0084 0.13707 0.04427 1
+ O23 O 4 e 0.0491 0.3149 0.1675 1
+ O13 O 4 e 0.1069 0.488 0.0981 1
+ Cl13 Cl 4 e 0.1389 0.47039 0.3485 1
+ O21 O 4 e 0.1407 0.2576 0.3125 1
+ O11 O 4 e 0.154 0.6104 0.159 1
+ N2 N 4 e 0.1753 0.2845 0.225 1
+ N1 N 4 e 0.2152 0.545 0.121 1
+ O2 OH2 4 e 0.2338 0.0906 0.2853 1
+ O3 OH2 4 e 0.2594 0.7942 0.1869 1
+ Cl12 Cl 4 e 0.3047 0.51359 0.58172 1
+ O5 OH2 4 e 0.3067 0.1477 0.4983 1
+ O22 O 4 e 0.3485 0.2785 0.1991 1
+ O12 O 4 e 0.3941 0.5415 0.107 1
+ O6 OH2 4 e 0.4365 0.3256 0.4523 1
+ La1 La 4 e 0.4968 0.19033 0.35068 1
+ O4 OH2 4 e 0.5813 0.1426 0.1737 1
+ O7 OH2 4 e 0.6976 0.4146 0.1559 1
+ O1 OH2 4 e 0.7124 0.2979 0.0124 1
+ Pt1 Pt 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.60
+_cell_measurement_temperature            153.0
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              153.0
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS I'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    18052
+_diffrn_reflns_theta_min                 1.65
+_diffrn_reflns_theta_max                 26.05
+_exptl_absorpt_coefficient_mu            7.991
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2578
+_refine_ls_R_factor_gt                   0.0137
+_refine_ls_wR_factor_gt                  0.0267
+
+# End of data set 1926593
+
+

@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# C-F-K-O          # K2[C6F4C2O4]                                  # 1100258 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1100258
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1100258
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ [C~6~ F~4~ C~2~ O~4~]'
+_chemical_formula_sum                    'C4 F2 K O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~[C~6~F~4~C~2~O~4~],mP36,13
+_chemical_formula_weight                 314.3
+
+# Bibliographic data
+
+_publ_section_title
+'Refinement of Potassium Tetrafluorophthalate, 2K^+^.C~8~F~4~O~4~^2-^'        
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1983
+_journal_volume                          39
+_journal_page_first                      582
+_journal_page_last                       584
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gowda D.S.S.'
+;
+New York Garden City Nassau Adelphi University
+Department of Chemistry
+Garden City / Nassau
+U.S.A. New York
+;
+'Rudman R.'
+;
+New York Garden City Nassau Adelphi University
+Department of Chemistry
+Garden City / Nassau
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.133
+_cell_length_b                           10.825
+_cell_length_c                           7.114
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.82
+_cell_angle_gamma                        90
+_cell_volume                             510
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ O
+ K
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 g 0.136 0.5899 0.443 1
+ O1 O 4 g 0.1688 0.1345 0.1259 1
+ K K 4 g 0.2361 0.1145 0.52979 1
+ C4 C 4 g 0.3037 0.1775 0.0719 1
+ C2 C 4 g 0.3149 0.4075 0.0966 1
+ F2 F 4 g 0.316 0.6253 0.0982 1
+ C3 C 4 g 0.4063 0.5189 0.174 1
+ C1 C 4 g 0.4065 0.2964 0.1703 1
+ O2 O 4 g 0.6354 0.1304 0.5569 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.05
+_cell_measurement_temperature            294
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_cell_measurement_reflns_used            17
+_diffrn_ambient_temperature              294
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Cu K'
+_diffrn_radiation_wavelength             1.54051
+_diffrn_reflns_number                    1661
+_exptl_absorpt_coefficient_mu            8.86
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             82
+_refine_ls_number_reflns                 836
+_refine_ls_R_factor_gt                   0.034
+_refine_ls_wR_factor_gt                  0.056
+
+# End of data set 1100258
+
+

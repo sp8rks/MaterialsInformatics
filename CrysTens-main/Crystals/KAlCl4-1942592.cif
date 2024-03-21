@@ -1,0 +1,182 @@
+##############################################################################
+#                                                                            #
+# Al-Cl-K          # KAlCl4 rt                                     # 1942592 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1942592
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1942592
+
+# Entry summary
+
+_chemical_formula_structural             'K Al Cl~4~'
+_chemical_formula_sum                    'Al Cl4 K'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAlCl~4~,mP24,4
+_chemical_formula_weight                 207.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+The first halide-free bimetallic aluminum borohydride: Synthesis, structure, stability, and decomposition pathway
+;
+_journal_coden_ASTM                      JPCCCK
+_journal_name_full                       'J. Phys. Chem. C'
+_journal_year                            2014
+_journal_volume                          118
+_journal_page_first                      145
+_journal_page_last                       153
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Dovgaliuk I.'
+;
+Louvain-la Neuve Catholic University
+Institute of Condensed Matter and Nanosciences
+Louvain-la Neuve
+Belgium
+;
+'Ban V.'
+;
+Louvain-la Neuve Catholic University
+Institute of Condensed Matter and Nanosciences
+Louvain-la Neuve
+Belgium
+;
+'Sadikin Y.'
+;
+Geneva University
+Laboratoire de Cristallographie
+Geneva
+Switzerland
+;
+'Cerny R.'
+;
+Geneva University
+Laboratoire de Cristallographie
+Geneva
+Switzerland
+;
+'Aranda L.'
+;
+Vandoeuvre-l\`es-Nancy Lorraine University
+Institut Jean Lamour
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Casati N.'
+;
+Paul Scherrer Institute
+Swiss Light Source Project
+Villigen
+Switzerland
+;
+'Devillers M.'
+;
+Louvain-la Neuve Catholic University
+Institute of Condensed Matter and Nanosciences
+Louvain-la Neuve
+Belgium
+;
+'Filinchuk Y.E.'
+;
+Louvain-la Neuve Catholic University
+Institute of Condensed Matter and Nanosciences
+Louvain-la Neuve
+Belgium
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.1866
+_cell_length_b                           10.4822
+_cell_length_c                           9.2713
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.07
+_cell_angle_gamma                        90
+_cell_volume                             697.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Al
+ Cl
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Al1 Al 2 a 0.0068 0.0128 0.4336 1
+ Cl1 Cl 2 a 0.0263 0.1743 0.2977 1
+ K1 K 2 a 0.0528 0.6529 0.0566 1
+ Cl2 Cl 2 a 0.0553 0.3394 0.68 1
+ Cl3 Cl 2 a 0.2121 0.5394 0.4218 1
+ Cl4 Cl 2 a 0.2656 0.0 0.5584 1
+ Cl5 Cl 2 a 0.2851 0.3801 0.0745 1
+ K2 K 2 a 0.4441 0.2658 0.4452 1
+ Cl6 Cl 2 a 0.4697 0.7408 0.1996 1
+ Al2 Al 2 a 0.4918 0.9045 0.0641 1
+ Cl7 Cl 2 a 0.5409 0.071 0.1892 1
+ Cl8 Cl 2 a 0.7659 0.4198 0.0577 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.98
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.826887
+_pd_proc_wavelength                      0.826887
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1942592
+
+

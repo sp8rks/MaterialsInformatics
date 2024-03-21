@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Br-C-La          # La2C2Br                                       # 1719144 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1719144
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1719144
+
+# Entry summary
+
+_chemical_formula_structural             'La~2~ C~2~ Br'
+_chemical_formula_sum                    'Br C2 La2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~2~C~2~Cl,mS20,15
+_chemical_formula_weight                 381.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Variations modulo 4~-~4~+~, 4~+~3~-~3~+~4~-~, 4~-~5~+~, 5~-~4~+~4~-~5~+~4~-~4~+~ with rare earth carbide halides
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2011
+_journal_volume                          637
+_journal_page_first                      1093
+_journal_page_last                       1100
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mattausch H.J.'
+;
+Max Planck Society
+MPI f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Simon A.'
+;
+Max Planck Society
+MPI f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.313
+_cell_length_b                           4.193
+_cell_length_c                           6.842
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.53
+_cell_angle_gamma                        90
+_cell_volume                             431.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ C
+ La
+ Br
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 8 f 0.2232 0.141 0.0279 1
+ La1 La 8 f 0.3522 0.1993 0.3512 1
+ Br1 Br 4 e 0 0.215 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.87
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1719144
+
+

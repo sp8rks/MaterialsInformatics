@@ -1,0 +1,177 @@
+##############################################################################
+#                                                                            #
+# Cr-K-O           # KCr4O8 lt                                     # 1828034 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1828034
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1828034
+
+# Entry summary
+
+_chemical_formula_structural             'K Cr~4~ O~8~'
+_chemical_formula_sum                    'Cr4 K O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KCr~4~O~8~,mP52,14
+_chemical_formula_weight                 375.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Observation of structural change in the novel ferromagnetic metal-insulator transition of K~2~Cr~8~O~16~
+;
+_journal_coden_ASTM                      JUPSAU
+_journal_name_full                       'J. Phys. Soc. Jpn.'
+_journal_year                            2012
+_journal_volume                          81
+_journal_page_first                      1
+_journal_page_last                       6
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nakao A.'
+;
+High Energy Accelerator Research Organization (KEK)
+Condensed Matter Research Center and Photon Factory
+Tsukuba / Ibaraki
+Japan
+;
+'Yamaki Y.'
+;
+Sendai Miyagi Tohoku University
+Department of Physics
+Sendai / Miyagi
+Japan
+;
+'Nakao H.'
+;
+High Energy Accelerator Research Organization (KEK)
+Condensed Matter Research Center and Photon Factory
+Tsukuba / Ibaraki
+Japan
+;
+'Murakami Y.'
+;
+High Energy Accelerator Research Organization (KEK)
+Condensed Matter Research Center and Photon Factory
+Tsukuba / Ibaraki
+Japan
+;
+'Hasegawa K.'
+;
+Kashiwa Chiba Tokyo University
+Institute for Solid State Physics
+Kashiwa / Chiba
+Japan
+;
+'Isobe M.'
+;
+Kashiwa Chiba Tokyo University
+Institute for Solid State Physics
+Kashiwa / Chiba
+Japan
+;
+'Ueda Y.'
+;
+Kashiwa Chiba Tokyo University
+Institute for Solid State Physics
+Kashiwa / Chiba
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.803
+_cell_length_b                           2.9414
+_cell_length_c                           13.803
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.
+_cell_angle_gamma                        90
+_cell_volume                             560.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cr
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 4 e 0.0242 0.5079 0.17696 1
+ Cr2 Cr 4 e 0.09167 0.00977 0.24367 1
+ O2 O 4 e 0.14865 0.5034 0.3115 1
+ O3 O 4 e 0.18847 0.0044 0.14823 1
+ Cr1 Cr 4 e 0.2437 0.49764 0.40839 1
+ Cr3 Cr 4 e 0.25629 0.49738 0.09166 1
+ O1 O 4 e 0.31158 0.0036 0.35163 1
+ O7 O 4 e 0.3226 0.5003 0.52424 1
+ O4 O 4 e 0.35123 0.5043 0.18856 1
+ Cr4 Cr 4 e 0.40834 0.00992 0.25628 1
+ O8 O 4 e 0.5235 0.0089 0.17721 1
+ O5 O 4 e 0.82276 0.498 0.02408 1
+ K1 K 2 d 0.5 0 0.5 1
+ K2 K 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.45
+_cell_measurement_temperature            20
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              20
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Japan, Tsukuba, High Energy Accelerator Research Organization (KEK), Photon Factory, BL-8A
+;
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 5066
+_refine_ls_R_factor_gt                   0.0252
+_refine_ls_wR_factor_gt                  0.0853
+
+# End of data set 1828034
+
+

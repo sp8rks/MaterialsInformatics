@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Gd-K-O-P         # K3Gd[PO4]2                                    # 1125896 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1125896
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1125896
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Gd [P O~4~]~2~'
+_chemical_formula_sum                    'Gd K3 O8 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~Nd[PO~4~]~2~,mP28,11
+_chemical_formula_weight                 464.5
+
+# Bibliographic data
+
+_publ_section_title                      K~3~Gd(PO~4~)~2~
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2010
+_journal_volume                          66
+_journal_page_first                      i64
+_journal_page_last                       ?
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhao D.'
+;
+Jiaozuo Henan Polytechnic University
+Department of Physics and Chemistry
+Jiaozuo / Henan
+China
+;
+'Li F.F.'
+;
+Jiaozuo Henan Polytechnic University
+Department of Physics and Chemistry
+Jiaozuo / Henan
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.4153
+_cell_length_b                           5.6206
+_cell_length_c                           9.445
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.723
+_cell_angle_gamma                        90
+_cell_volume                             393.62
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ P
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 f 0.3481 0.0269 0.1623 1
+ O2 O 4 f 0.7436 0.0265 0.3423 1
+ O5 O 2 e 0.0663 0.25 0.1009 1
+ K3 K 2 e 0.13647 0.25 0.40898 1
+ P2 P 2 e 0.2697 0.25 0.08834 1
+ O6 O 2 e 0.3256 0.25 0.9311 1
+ Gd1 Gd 2 e 0.49301 0.25 0.70989 1
+ O1 O 2 e 0.4863 0.25 0.4522 1
+ P1 P 2 e 0.69033 0.25 0.4265 1
+ K1 K 2 e 0.70438 0.25 0.0816 1
+ O3 O 2 e 0.7823 0.25 0.5734 1
+ K2 K 2 e 0.99505 0.25 0.80781 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.92
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Rigaku
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3036
+_diffrn_reflns_theta_min                 2.16
+_diffrn_reflns_theta_max                 27.47
+_exptl_absorpt_coefficient_mu            10.43
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             80
+_refine_ls_number_reflns                 946
+_refine_ls_R_factor_gt                   0.027
+_refine_ls_wR_factor_gt                  0.064
+
+# End of data set 1125896
+
+

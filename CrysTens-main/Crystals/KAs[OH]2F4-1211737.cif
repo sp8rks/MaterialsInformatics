@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# As-F-H-K-O       # KAs[OH]2F4                                    # 1211737 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1211737
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1211737
+
+# Entry summary
+
+_chemical_formula_structural             'K As [O H]~2~ F~4~'
+_chemical_formula_sum                    'As F4 H2 K O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAs[OH]~2~F~4~,mS32,15
+_chemical_formula_weight                 224.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structures of Fluoroarsenates KAsF~6-n~(OH)~n~, n= 0, 1, 2: Application of the Heavy-Atom Method for Modulated Structures
+;
+_journal_coden_ASTM                      ASBSDK
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1998
+_journal_volume                          54
+_journal_page_first                      809
+_journal_page_last                       818
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Peterkova J.'
+;
+Academy of Sciences of the Czech Republic
+Institute of Macromolecular Chemistry
+Prague
+Czech Republic
+;
+'Dusek M.'
+;
+Academy of Sciences of the Czech Republic
+Institute of Physics
+Prague
+Czech Republic
+;
+'Petricek V.'
+;
+Academy of Sciences of the Czech Republic
+Institute of Physics
+Prague
+Czech Republic
+;
+'Loub J.'
+;
+Prague Charles University
+Department of Inorganic Chemistry
+Prague
+Czech Republic
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.818
+_cell_length_b                           16.001
+_cell_length_c                           6.374
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.36
+_cell_angle_gamma                        90
+_cell_volume                             484.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ OH
+ As
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 8 f 0.0994 0.1272 0.0007 1
+ F2 F 8 f 0.2376 0.0519 0.3314 1
+ O3 OH 8 f 0.2594 0.2042 0.3346 1
+ As As 4 e 0 0.13103 0.25 1
+ K K 4 e 0 0.40909 0.25 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              2.994
+_exptl_crystal_density_diffrn            3.07
+_cell_measurement_temperature            291
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_wavelength             0.5609
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              291
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Hilger-Watts
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.5609
+_diffrn_reflns_number                    8556
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             182
+_refine_ls_number_reflns                 2727
+_refine_ls_R_factor_gt                   0.054
+_refine_ls_wR_factor_gt                  0.071
+
+# End of data set 1211737
+
+

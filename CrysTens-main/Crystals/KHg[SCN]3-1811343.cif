@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# C-Hg-K-N-S       # KHg[SCN]3                                     # 1811343 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1811343
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1811343
+
+# Entry summary
+
+_chemical_formula_structural             'K Hg [S C N]~3~'
+_chemical_formula_sum                    'C3 Hg K N3 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KHg[SCN]~3~,mP44,14
+_chemical_formula_weight                 413.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Solid-State ^199^Hg MAS NMR Studies of Mercury(II) Thiocyanate Complexes and Related Compounds. Crystal Structure of Hg(SeCN)~2~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1998
+_journal_volume                          37
+_journal_page_first                      1734
+_journal_page_last                       1743
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bowmaker G.A.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+'Churakov A.V.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+'Harris R.K.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+'Howard J.A.K.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+'Apperley D.C.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.9119
+_cell_length_b                           4.0201
+_cell_length_c                           21.8525
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.16
+_cell_angle_gamma                        90
+_cell_volume                             895.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ C
+ Hg
+ N
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 4 e 0.0603 0.3431 0.3337 1
+ C1 C 4 e 0.0987 0.7519 0.1984 1
+ S3 S 4 e 0.1243 0.2654 0.0661 1
+ Hg Hg 4 e 0.1448 0.2897 0.4604 1
+ N1 N 4 e 0.2093 0.6961 0.2235 1
+ C3 C 4 e 0.2858 0.2325 0.1277 1
+ S2 S 4 e 0.3295 0.7163 0.0102 1
+ N3 N 4 e 0.396 0.2078 0.1696 1
+ K K 4 e 0.4055 0.2107 0.3101 1
+ N2 N 4 e 0.6205 0.2136 0.1024 1
+ C2 C 4 e 0.641 0.242 0.0563 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.07
+_cell_measurement_temperature            150
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              150
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            18.287
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.022
+_refine_ls_wR_factor_gt                  0.046
+
+# End of data set 1811343
+
+

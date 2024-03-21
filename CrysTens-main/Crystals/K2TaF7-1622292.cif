@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# F-K-Ta           # K2TaF7 mon                                    # 1622292 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1622292
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1622292
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Ta F~7~'
+_chemical_formula_sum                    'F7 K2 Ta'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~NbF~7~,mP40,14
+_chemical_formula_weight                 392.1
+
+# Bibliographic data
+
+_publ_section_title
+'An X-ray, NMR, infrared and Raman study of K~2~TaF~7~'                       
+_journal_coden_ASTM                      JPSOAW
+_journal_name_full                       'J. Phys. C: Solid State Phys.'
+_journal_year                            1983
+_journal_volume                          16
+_journal_page_first                      829
+_journal_page_last                       840
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'English R.B.'
+;
+Pretoria South Africa University
+Department of Chemistry
+Pretoria
+South Africa
+;
+'Heyns A.M.'
+;
+Pretoria South Africa University
+Department of Chemistry
+Pretoria
+South Africa
+;
+'Reynhardt E.C.'
+;
+Pretoria South Africa University
+Department of Physics
+Pretoria
+South Africa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.861
+_cell_length_b                           12.782
+_cell_length_c                           8.522
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.23
+_cell_angle_gamma                        90
+_cell_volume                             638.42
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ K
+ Ta
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F7 F 4 e 0.0436 0.1068 0.3875 1
+ F6 F 4 e 0.0457 0.2425 0.1983 1
+ F3 F 4 e 0.1876 0.1234 0.0036 1
+ F4 F 4 e 0.2138 0.5209 0.714 1
+ K2 K 4 e 0.2368 0.7841 0.0559 1
+ K1 K 4 e 0.2378 0.4405 0.1826 1
+ Ta Ta 4 e 0.2726 0.129 0.2225 1
+ F2 F 4 e 0.4584 0.2576 0.2111 1
+ F5 F 4 e 0.4577 0.1107 0.4113 1
+ F1 F 4 e 0.5602 0.079 0.1322 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.08
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 23
+_exptl_absorpt_coefficient_mu            20.17
+_exptl_absorpt_correction_type           no
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1384
+_refine_ls_R_factor_gt                   0.048
+_refine_ls_wR_factor_gt                  0.044
+
+# End of data set 1622292
+
+

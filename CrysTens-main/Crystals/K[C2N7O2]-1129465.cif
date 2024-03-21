@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# C-K-N-O          # K[C2N7O2]                                     # 1129465 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1129465
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1129465
+
+# Entry summary
+
+_chemical_formula_structural             'K [C~2~ N~7~ O~2~]'
+_chemical_formula_sum                    'C2 K N7 O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K[C~2~N~7~O~2~],mP48,14
+_chemical_formula_weight                 193.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Preparation and crystal structure of 5-azido-3-nitro-1H-1,2,4-triazole, its methyl derivative and potassium salt
+;
+_journal_coden_ASTM                      CRYSBC
+_journal_name_full                       Crystals
+_journal_year                            2012
+_journal_volume                          2
+_journal_page_first                      294
+_journal_page_last                       305
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Izsak D.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+'Klap\"otke T.M.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.4403
+_cell_length_b                           11.8862
+_cell_length_c                           12.7766
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.167
+_cell_angle_gamma                        90
+_cell_volume                             663.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ O
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N2 N 4 e 0.0618 0.0749 0.14507 1
+ C1 C 4 e 0.0698 0.16421 0.20777 1
+ O1 O 4 e 0.0787 0.751 0.14925 1
+ N4 N 4 e 0.0992 0.66571 0.20579 1
+ N3 N 4 e 0.2312 0.25367 0.18501 1
+ N1 N 4 e 0.2358 0.10683 0.0712 1
+ O2 O 4 e 0.2605 0.58406 0.19336 1
+ C2 C 4 e 0.3264 0.21203 0.09918 1
+ K K 4 e 0.4115 0.40731 0.36143 1
+ N5 N 4 e 0.5107 0.26667 0.03551 1
+ N6 N 4 e 0.61 0.3611 0.06816 1
+ N7 N 4 e 0.7171 0.44567 0.08839 1
+
+
+_exptl_crystal_colour                    'yellow light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.93
+_cell_measurement_temperature            173(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            2761
+_diffrn_ambient_temperature              173(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur 3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    6582
+_diffrn_reflns_theta_min                 4.66
+_diffrn_reflns_theta_max                 26
+_exptl_absorpt_coefficient_mu            0.768
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             109
+_refine_ls_number_reflns                 1132
+_refine_ls_R_factor_gt                   0.0215
+_refine_ls_wR_factor_gt                  0.0503
+
+# End of data set 1129465
+
+

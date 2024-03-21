@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# Au-K-P-S         # KAuP2S7                                       # 1002592 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1002592
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1002592
+
+# Entry summary
+
+_chemical_formula_structural             'K Au P~2~ S~7~'
+_chemical_formula_sum                    'Au K P2 S7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAuP~2~S~7~,mS44,15
+_chemical_formula_weight                 522.4
+_chemical_melting_point                  671
+
+# Bibliographic data
+
+_publ_section_title
+;
+Chemistry of Gold in Molten Alkali Metal Polychalcophosphate Fluxes. Synthesis and Characterization of the Low-Dimensional Compounds A~3~AuP~2~Se~8~ (A= K, Rb, Cs), A~2~Au~2~P~2~Se~6~ (A= K, Rb), A~2~AuPS~4~ (A= K, Rb, Cs), and AAuP~2~S~7~ (A= K, Rb)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1997
+_journal_volume                          36
+_journal_page_first                      2623
+_journal_page_last                       2632
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chondroudis K.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Hanko J.A.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.917
+_cell_length_b                           9.247
+_cell_length_c                           14.968
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.84
+_cell_angle_gamma                        90
+_cell_volume                             1095.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ S
+ K
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P P 8 f 0.0133 0.1672 0.3612 1
+ S2 S 8 f 0.031 0.308 0.4676 1
+ S4 S 8 f 0.1959 0.0284 0.3458 1
+ S1 S 8 f 0.2212 0.0798 0.1153 1
+ S3 S 4 e 0 0.3128 0.25 1
+ K K 4 e 0 0.7466 0.25 1
+ Au Au 4 c 0.25 0.25 0 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.17
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC6S'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            15.284
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.016
+_refine_ls_wR_factor_gt                  0.022
+
+# End of data set 1002592
+
+

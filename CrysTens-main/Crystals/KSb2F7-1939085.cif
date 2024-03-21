@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# F-K-Sb           # KSb2F7                                        # 1939085 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1939085
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1939085
+
+# Entry summary
+
+_chemical_formula_structural             'K Sb~2~ F~7~'
+_chemical_formula_sum                    'F7 K Sb2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KSb~2~F~7~,mP40,14
+_chemical_formula_weight                 415.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Growth, structural and microhardness studies of KSb~2~F~7~ and KSb~4~F~13~ crystals
+;
+_journal_coden_ASTM                      IJOPAU
+_journal_name_full                       'Indian J. Pure Appl. Phys.'
+_journal_year                            2011
+_journal_volume                          49
+_journal_page_first                      820
+_journal_page_last                       824
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Job C.B.'
+;
+Tirunelveli Tamil Nadu Manonmaniam Sundaranar University
+Department of Physics
+Tirunelveli / Tamil Nadu
+India
+;
+'Charles J.B.'
+;
+Palayamkottai Tamil Nadu Saint Xavier's College
+Department of Physics
+Palayamkottai / Tamil Nadu
+India
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.51
+_cell_length_b                           7.598
+_cell_length_c                           8.601
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.82
+_cell_angle_gamma                        90
+_cell_volume                             674.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Sb
+ F
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sb1 Sb 4 e 0.10205 0.32673 0.34674 1
+ F1 F 4 e 0.1243 0.0797 0.4532 1
+ F2 F 4 e 0.1272 0.0992 0.0655 1
+ F3 F 4 e 0.1512 0.5834 0.3137 1
+ Sb2 Sb 4 e 0.25427 0.6816 0.01269 1
+ F4 F 4 e 0.2843 0.2972 0.3639 1
+ F5 F 4 e 0.3782 0.5135 0.1195 1
+ K1 K 4 e 0.4269 0.1641 0.169 1
+ F6 F 4 e 0.5951 0.3392 0.4612 1
+ F7 F 4 e 0.6941 0.3826 0.1832 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.09
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1939085
+
+

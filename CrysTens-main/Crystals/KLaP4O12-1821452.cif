@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# K-La-O-P         # KLaP4O12 ht                                   # 1821452 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1821452
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1821452
+
+# Entry summary
+
+_chemical_formula_structural             'K La P~4~ O~12~'
+_chemical_formula_sum                    'K La O12 P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNdP~4~O~12~,mP36,4
+_chemical_formula_weight                 493.9
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of potassium lanthahum metaphosphate'                      
+_journal_coden_ASTM                      WLHPAR
+_journal_name_full                       'Wuli Xuebao'
+_journal_year                            1983
+_journal_volume                          32
+_journal_page_first                      675
+_journal_page_last                       680
+_journal_language                        Chinese
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lin Y.H.'
+;
+Chinese Academy of Sciences
+Institute of Applied Chemistry
+Changchun / Jilin
+China
+;
+'Hu N.H.'
+;
+Chinese Academy of Sciences
+Institute of Applied Chemistry
+Changchun / Jilin
+China
+;
+'Zhou Q.L.'
+;
+Chinese Academy of Sciences
+Institute of Applied Chemistry
+Changchun / Jilin
+China
+;
+'Liu S.Z.'
+;
+Chinese Academy of Sciences
+Institute of Applied Chemistry
+Changchun / Jilin
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.326
+_cell_length_b                           8.551
+_cell_length_c                           8.106
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.18
+_cell_angle_gamma                        90
+_cell_volume                             507.43
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ K
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P4 P 2 a -0.0013 0.104 0.1202 1
+ O3 O 2 a 0.0076 0.0 0.2841 1
+ O7 O 2 a 0.0285 0.0002 0.9747 1
+ O11 O 2 a 0.0433 0.4091 0.4327 1
+ O1 O 2 a 0.0851 0.2214 0.6777 1
+ P1 P 2 a 0.1048 0.3809 0.6077 1
+ O8 O 2 a 0.1666 0.2188 0.1563 1
+ K K 2 a 0.2733 0.6511 0.2202 1
+ O2 O 2 a 0.3147 0.4244 0.6332 1
+ P3 P 2 a 0.3752 0.2096 0.1065 1
+ O6 O 2 a 0.4379 0.0487 0.5327 1
+ O9 O 2 a 0.4534 0.0772 0.2302 1
+ O10 O 2 a 0.459 0.3635 0.1501 1
+ P2 P 2 a 0.5667 0.0778 0.4001 1
+ O12 O 2 a 0.6099 0.6525 0.0653 1
+ O5 O 2 a 0.685 0.2215 0.4241 1
+ La La 2 a 0.7666 0.4545 0.2586 1
+ O4 O 2 a 0.8277 0.2026 0.1135 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.23
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1026
+_refine_ls_R_factor_gt                   0.061
+_refine_ls_wR_factor_gt                  0.062
+
+# End of data set 1821452
+
+

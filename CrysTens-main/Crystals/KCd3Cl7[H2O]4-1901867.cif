@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Cd-Cl-H-K-O      # KCd3Cl7[H2O]4                                 # 1901867 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1901867
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1901867
+
+# Entry summary
+
+_chemical_formula_structural             'K Cd~3~ Cl~7~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Cd3 Cl7 H8 K O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KCd~3~Cl~7~[H~2~O]~4~,mP30,11
+_chemical_formula_weight                 696.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure de l'heptachlorure de tricadmium et de potassium t\'etrahydrat\'e
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1982
+_journal_volume                          38
+_journal_page_first                      1569
+_journal_page_last                       1571
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Led\'esert M.'
+;
+Caen University
+Laboratoire de Cristallographie
+Caen
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.6736
+_cell_length_b                           16.1224
+_cell_length_c                           7.0373
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.91
+_cell_angle_gamma                        90
+_cell_volume                             756.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cl
+ O
+ Cd
+ K
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl3 Cl 4 f 0.17975 0.14001 0.02619 1
+ Cl2 Cl 4 f 0.18253 0.55003 0.31982 1
+ O1 O 4 f 0.31881 0.12242 0.55429 1
+ Cd2 Cd 4 f 0.50431 0.59677 0.16322 1
+ Cl1 Cl 4 f 0.67194 0.05425 0.16976 1
+ K K 2 e 0.03529 0.25 0.67227 1
+ O3 O 2 e 0.46864 0.25 0.34321 1
+ Cl4 Cl 2 e 0.61496 0.25 0.84965 1
+ O2 O 2 e 0.88361 0.25 0.31016 1
+ Cd1 Cd 2 a 0 0 0 1
+ H1 H 4 f 0.252 0.081 0.508 1
+ H2 H 4 f 0.373 0.154 0.496 1
+ H3 H 4 f 0.914 0.201 0.249 1
+ H5 H 2 e 0.406 0.25 0.231 1
+ H4 H 2 e 0.595 0.25 0.348 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.06
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            5.62
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2689
+_refine_ls_R_factor_gt                   0.024
+_refine_ls_wR_factor_gt                  0.027
+
+# End of data set 1901867
+
+

@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# K-O-Si-Ta        # K3Ta3[Si2O7]O6                                # 1821253 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1821253
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1821253
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Ta~3~ [Si~2~ O~7~] O~6~'
+_chemical_formula_sum                    'K3 O13 Si2 Ta3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~Ta~3~[Si~2~O~7~]O~6~,hP42,189
+_chemical_formula_weight                 924.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Silicotantalates et siliconiobates non-stoechiom\'etriques: Les compos\'es K~6-2x~Ba~x~Ta~6~Si~4~O~26~ (0 <= x <= 3) et K~8~M~14~Si~4~O~47~ (M= Ta, Nb)
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1977
+_journal_volume                          12
+_journal_page_first                      91
+_journal_page_last                       96
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Choisnet J.'
+;
+Caen University
+Laboratoire de Cristallographie, Chimie et Physique des Solides
+Caen
+France
+;
+'Nguyen N.'
+;
+Caen University
+Laboratoire de Cristallographie, Chimie et Physique des Solides
+Caen
+France
+;
+'Raveau B.'
+;
+Caen University
+Laboratoire de Cristallographie, Chimie et Physique des Solides
+Caen
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.066
+_cell_length_b                           9.066
+_cell_length_c                           7.873
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             560.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Ta
+ Si
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 12 l 0.176 0.5 0.289 1
+ Ta1 Ta 6 i 0.239 0 0.249 1
+ O2 O 6 i 0.811 0 0.26 1
+ Si1 Si 4 h 0.333333 0.666667 0.208 1
+ O3 O 3 g 0.242 0 0.5 1
+ K1 K 3 g 0.586 0 0.5 1
+ O4 O 3 f 0.262 0 0 1
+ K2 K 3 f 0.61 0 0 1
+ O5 O 2 c 0.333333 0.666667 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.48
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1821253
+
+

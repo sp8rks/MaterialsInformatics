@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# La-O-Ru          # La2RuO5 rt                                    # 1641377 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1641377
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1641377
+
+# Entry summary
+
+_chemical_formula_structural             'La~2~ Ru O~5~'
+_chemical_formula_sum                    'La2 O5 Ru'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~2~RuO~5~,mP32,14
+_chemical_formula_weight                 458.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, crystal structure, and valence states of Mn-substituted La~2~RuO~5~
+;
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            2014
+_journal_volume                          90
+_journal_page_first                      1
+_journal_page_last                       11
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Riegg S.'
+;
+Augsburg University
+Center for Electronic Correlations and Magnetism
+Augsburg
+Germany
+;
+'Garcia Garcia F.J.'
+;
+Madrid Complutense University
+Centro Nacional de Microscopia Electronica
+Madrid
+Spain
+;
+'Reller A.'
+;
+Augsburg University
+Resource Strategy
+Augsburg
+Germany
+;
+'Loidl A.'
+;
+Augsburg University
+Center for Electronic Correlations and Magnetism
+Augsburg
+Germany
+;
+'Ebbinghaus S.G.'
+;
+Halle Martin Luther University
+Solid State Chemistry
+Halle
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.1827
+_cell_length_b                           5.8313
+_cell_length_c                           7.958
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.761
+_cell_angle_gamma                        90
+_cell_volume                             418.63
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ru
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 e 0.0292 0.4416 0.2947 1
+ Ru Ru 4 e 0.1495 0.7454 0.2886 1
+ O2 O 4 e 0.151 0.6814 0.042 1
+ La2 La 4 e 0.1685 0.2515 0.0389 1
+ O3 O 4 e 0.2598 0.0312 0.2596 1
+ O1 O 4 e 0.4616 0.3289 0.1202 1
+ La1 La 4 e 0.5505 0.2409 0.3788 1
+ O4 O 4 e 0.7236 0.009 0.1487 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.28
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Seifert XRD-3003 TT'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 75
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                150
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0153
+_pd_proc_ls_proof_wR_factor              0.0204
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1641377
+
+

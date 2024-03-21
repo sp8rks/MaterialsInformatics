@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# F-H-K-O-V        # K2VF5[H2O]                                    # 1005158 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1005158
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1005158
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ V F~5~ [H~2~ O]'
+_chemical_formula_sum                    'F5 H2 K2 O V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~FeF~5~[H~2~O],mS36,15
+_chemical_formula_weight                 242.1
+
+# Bibliographic data
+
+_publ_section_title                      'Dipotassium aquapentafluorovanadate'
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2004
+_journal_volume                          60
+_journal_page_first                      i9
+_journal_page_last                       i10
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lian Z.'
+;
+Fuzhou Fujian University
+Department of Chemistry and Chemical Engineering
+Fuzhou / Fujian
+China
+;
+'Huang C.'
+;
+Fuzhou Fujian University
+Department of Chemistry and Chemical Engineering
+Fuzhou / Fujian
+China
+;
+'Zhang H.'
+;
+Fuzhou Fujian University
+Department of Chemistry and Chemical Engineering
+Fuzhou / Fujian
+China
+;
+'Huang X.'
+;
+Fuzhou Fujian University
+Department of Chemistry and Chemical Engineering
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.7328
+_cell_length_b                           7.9105
+_cell_length_c                           7.9803
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.578
+_cell_angle_gamma                        90
+_cell_volume                             610.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ K
+ V
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F3 F 8 f 0.07033 0.2964 0.4855 1
+ F2 F 8 f 0.18529 0.30241 0.1937 1
+ K1 K 8 f 0.19914 0.00317 0.03033 1
+ F1 F 4 e 0 0.04984 0.25 1
+ V1 V 4 e 0 0.29683 0.25 1
+ O1 O 4 e 0 0.558 0.25 1
+ H1 H 8 f 0.5234 0.1173 0.1674 1
+
+
+_exptl_crystal_colour                    'green light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.64
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku R-AXIS RAPID'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            3.01
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             44
+_refine_ls_number_reflns                 651
+_refine_ls_R_factor_gt                   0.020
+_refine_ls_wR_factor_gt                  0.054
+
+# End of data set 1005158
+
+

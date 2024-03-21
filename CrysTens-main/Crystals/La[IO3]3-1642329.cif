@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# I-La-O           # La[IO3]3 ht2                                  # 1642329 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1642329
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1642329
+
+# Entry summary
+
+_chemical_formula_structural             'La [I O~3~]~3~'
+_chemical_formula_sum                    'I3 La O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Gd[IO~3~]~3~,mP52,14
+_chemical_formula_weight                 663.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structures, thermal behaviors, and luminescent properties of anhydrous lanthanum iodate polymorphs
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2015
+_journal_volume                          54
+_journal_page_first                      3608
+_journal_page_last                       3618
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Taouti M.B.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Insitut Louis N\'eel
+Grenoble
+France
+;
+'Suffren Y.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Insitut Louis N\'eel
+Grenoble
+France
+;
+'Leynaud O.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Insitut Louis N\'eel
+Grenoble
+France
+;
+'Benbertal D.'
+;
+Laghouat Amar Telidji University
+Laboratoire de Physico-Chimie des Mat\'eriaux
+Laghouat
+Algeria
+;
+'Brenier A.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Institut Lumi\`ere Mati\`ere
+Villeurbanne
+France
+;
+'Gautier Luneau I.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Insitut Louis N\'eel
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.3427
+_cell_length_b                           8.684
+_cell_length_c                           13.741
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.913
+_cell_angle_gamma                        90
+_cell_volume                             863.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ I
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O13 O 4 e 0.054 0.567 0.403 1
+ O21 O 4 e 0.034 0.228 0.48 1
+ O32 O 4 e 0.121 0.84 0.346 1
+ O23 O 4 e 0.127 0.538 0.176 1
+ I2 I 4 e 0.1705 0.7147 0.1134 1
+ La La 4 e 0.198 0.2451 0.1453 1
+ O12 O 4 e 0.35 0.333 0.32 1
+ I1 I 4 e 0.2738 0.4775 0.3978 1
+ O11 O 4 e 0.341 0.063 0.028 1
+ O33 O 4 e 0.382 0.102 0.277 1
+ O22 O 4 e 0.387 0.754 0.076 1
+ O31 O 4 e 0.445 0.405 0.074 1
+ I3 I 4 e 0.6718 0.4565 0.1372 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.11
+_cell_measurement_temperature            493
+_cell_measurement_radiation              'X-rays, Co Ka1'
+_cell_measurement_wavelength             1.78897
+_pd_proc_wavelength                      1.78897
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              493
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          INEL
+_diffrn_radiation_type                   'X-rays, Co Ka1'
+_diffrn_radiation_wavelength             1.78897
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.373
+_pd_proc_ls_proof_wR_factor              0.337
+_refine_ls_R_I_factor                    0.113
+
+# End of data set 1642329
+
+

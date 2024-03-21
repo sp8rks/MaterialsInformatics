@@ -1,0 +1,132 @@
+##############################################################################
+#                                                                            #
+# H-K-O-Si-U       # K[H3O][UO2][SiO4]                             # 1615957 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1615957
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1615957
+
+# Entry summary
+
+_chemical_formula_structural             'K [H~3~ O] [U O~2~] [Si O~4~]'
+_chemical_formula_sum                    'H2 K O7 Si U'
+_chemical_name_mineral                   boltwoodite
+_chemical_compound_source                'U.S.A. California, New Method mine'
+_chemical_name_structure_type            K[H~3~O][UO~2~][SiO~4~],mP20,4
+_chemical_formula_weight                 420.2
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal chemistry of the uranyl silicate minerals'                       
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            1981
+_journal_volume                          66
+_journal_page_first                      610
+_journal_page_last                       624
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Stohl F.V.'
+;
+Sandia Corp.
+Albuquerque
+U.S.A. New Mexico
+;
+'Smith D.K. Jr.'
+;
+Pennsylvania University Park University
+Department of Geoscience
+University Park
+U.S.A. Pennsylvania
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.638
+_cell_length_b                           7.064
+_cell_length_c                           7.073
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.75
+_cell_angle_gamma                        90
+_cell_volume                             319.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ U
+ K
+ Si
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 2 a 0.115 0.0 0.773 1
+ U U 2 a 0.1385 0.0 0.0252 1
+ O1 O 2 a 0.147 0.0 0.29 1
+ K K 2 a 0.153 0.298 0.541 1
+ O3b O 2 a 0.194 0.329 0.022 1
+ O3 O 2 a 0.194 0.671 0.022 1
+ Si Si 2 a 0.363 0.5 0.067 1
+ O5 O 2 a 0.484 0.0 0.06 1
+ O6 O 2 a 0.49 0.5 0.294 1
+ H2O OH2 2 a 0.689 0.163 0.4 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.37
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Picker FACS-I'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    223
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.109
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1615957
+
+

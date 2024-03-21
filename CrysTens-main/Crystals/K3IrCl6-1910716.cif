@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# Cl-Ir-K          # K3IrCl6 rt                                    # 1910716 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1910716
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1910716
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Ir Cl~6~'
+_chemical_formula_sum                    'Cl6 Ir K3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~MoCl~6~,mP40,14
+_chemical_formula_weight                 522.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+The chloro and bromo complexes of iridium(III) and iridium(IV). III. The crystal structures of K~3~[IrCl~6~] and Cs~2~[IrCl~5~H~2~O] and interpretation of the N.Q.R. data of chloroiridates(III)
+;
+_journal_coden_ASTM                      AJCHAS
+_journal_name_full                       'Aust. J. Chem.'
+_journal_year                            1987
+_journal_volume                          40
+_journal_page_first                      2115
+_journal_page_last                       2122
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Coll R.K.'
+;
+Christchurch Canterbury University
+Department of Chemistry
+Christchurch
+New Zealand
+;
+'Fergusson J.E.'
+;
+Christchurch Canterbury University
+Department of Chemistry
+Christchurch
+New Zealand
+;
+'Penfold B.R.'
+;
+Christchurch Canterbury University
+Department of Chemistry
+Christchurch
+New Zealand
+;
+'Rankin D.A.'
+;
+Christchurch Canterbury University
+Department of Chemistry
+Christchurch
+New Zealand
+;
+'Robinson W.T.'
+;
+Christchurch Canterbury University
+Department of Chemistry
+Christchurch
+New Zealand
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.5
+_cell_length_b                           7.423
+_cell_length_c                           11.833
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.48
+_cell_angle_gamma                        90
+_cell_volume                             1041.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ K
+ Ir
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl3 Cl 4 e 0.0934 0.2596 0.1008 1
+ K3 K 4 e 0.0981 0.0385 0.3592 1
+ Cl1 Cl 4 e 0.1176 0.499 0.3787 1
+ Cl2 Cl 4 e 0.124 0.8103 0.1404 1
+ K2 K 4 e 0.3161 0.5673 0.2646 1
+ K1 K 4 e 0.3188 0.066 0.1138 1
+ Cl5 Cl 4 e 0.3524 0.6927 0.0058 1
+ Cl4 Cl 4 e 0.3595 0.2055 0.397 1
+ Cl6 Cl 4 e 0.5005 0.3693 0.1817 1
+ Ir1 Ir 2 d 0.5 0 0.5 1
+ Ir2 Ir 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.33
+_cell_measurement_temperature            123
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              123
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet R3m'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1824
+_exptl_absorpt_coefficient_mu            16.222
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.067
+_refine_ls_wR_factor_gt                  0.077
+
+# End of data set 1910716
+
+

@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# C-H-K-N-Na-O-V   # K3NaV[CN]6[NO][H2O]2                          # 1700218 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1700218
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1700218
+
+# Entry summary
+
+_chemical_formula_structural
+'K~3~ Na V [C N]~6~ [N O] [H~2~ O]~2~'                                        
+_chemical_formula_sum                    'C6 H4 K3 N7 Na O3 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+K~3~NaV[CN]~6~[NO][H~2~O]~2~,mP42,11                                          
+_chemical_formula_weight                 413.4
+
+# Bibliographic data
+
+_publ_section_title
+'Tripotassium Monosodium Hexacyanonitrosylvanadate(I) Dihydrate'              
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1978
+_journal_volume                          34
+_journal_page_first                      653
+_journal_page_last                       656
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jagner S.'
+;
+Chalmers University of Technology
+Department of Inorganic Chemistry
+Gothenburg
+Sweden
+;
+'Ljungstr\"om E.'
+;
+Chalmers University of Technology
+Department of Inorganic Chemistry
+Gothenburg
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.786
+_cell_length_b                           11.736
+_cell_length_c                           8.7512
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.328
+_cell_angle_gamma                        90
+_cell_volume                             739.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ OH2
+ N
+ C
+ K
+ Na
+ V
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 OH2 4 f 0.0311 0.6024 0.2281 1
+ N4 N 4 f 0.2138 0.0905 0.5157 1
+ C4 C 4 f 0.2523 0.1439 0.4235 1
+ C3 C 4 f 0.3243 0.0779 0.1787 1
+ N3 N 4 f 0.3433 0.5144 0.1419 1
+ K2 K 4 f 0.745 0.0538 0.2092 1
+ N1 N 2 e 0.0436 0.25 0.1296 1
+ Na Na 2 e 0.0649 0.25 0.6355 1
+ V V 2 e 0.292 0.25 0.2412 1
+ C5 C 2 e 0.3429 0.25 0.0183 1
+ N5 N 2 e 0.3592 0.25 0.8937 1
+ C2 C 2 e 0.5765 0.25 0.3696 1
+ K1 K 2 e 0.6034 0.25 0.7362 1
+ N2 N 2 e 0.7383 0.25 0.4316 1
+ O1 O 2 e 0.8722 0.25 0.0646 1
+
+
+_exptl_crystal_colour                    'yellow faint'
+_exptl_crystal_density_meas              1.86
+_exptl_crystal_density_diffrn            1.86
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            11
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    1071
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Patterson synthesis'
+_refine_ls_number_parameters             109
+_refine_ls_number_reflns                 957
+_refine_ls_R_factor_gt                   0.050
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1700218
+
+

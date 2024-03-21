@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# Bi-K-O-P         # KBiP4O12                                      #  550822 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_550822
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      550822
+
+# Entry summary
+
+_chemical_formula_structural             'K Bi P~4~ O~12~'
+_chemical_formula_sum                    'Bi K O12 P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNdP~4~O~12~,mP36,4
+_chemical_formula_weight                 564.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of double polyphosphates and metaphosphates of the composition KLn(PO~3~)~4~
+;
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            1976
+_journal_volume                          12
+_journal_page_first                      624
+_journal_page_last                       628
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Palkina K.K.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Kuznetsov V.G.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Chudinova N.N.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Chibiskova N.T.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.3
+_cell_length_b                           8.58
+_cell_length_c                           8.16
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.
+_cell_angle_gamma                        90
+_cell_volume                             510.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ P
+ O
+ K
+ Bi
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P1 P 2 a 0.001 0.107 0.119 1
+ O1 O 2 a 0.006 0.0 0.284 1
+ O2 O 2 a 0.031 0.003 0.973 1
+ O3 O 2 a 0.038 0.407 0.44 1
+ O4 O 2 a 0.083 0.221 0.679 1
+ P2 P 2 a 0.102 0.38 0.602 1
+ O5 O 2 a 0.168 0.214 0.152 1
+ K1 K 2 a 0.274 0.655 0.2168 1
+ O6 O 2 a 0.314 0.423 0.627 1
+ P3 P 2 a 0.378 0.211 0.107 1
+ O7 O 2 a 0.426 0.057 0.533 1
+ O8 O 2 a 0.454 0.08 0.228 1
+ O9 O 2 a 0.455 0.357 0.156 1
+ P4 P 2 a 0.569 0.078 0.404 1
+ O10 O 2 a 0.619 0.644 0.07 1
+ O11 O 2 a 0.687 0.227 0.436 1
+ Bi1 Bi 2 a 0.7661 0.464 0.2583 1
+ O12 O 2 a 0.83 0.204 0.115 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.67
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 550822
+
+

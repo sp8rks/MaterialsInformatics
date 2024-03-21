@@ -1,0 +1,129 @@
+##############################################################################
+#                                                                            #
+# K-Si-Te          # K3SiTe3                                       # 1717876 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1717876
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1717876
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Si Te~3~'
+_chemical_formula_sum                    'K3 Si Te3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~SiTe~3~,mS28,12
+_chemical_formula_weight                 528.2
+
+# Bibliographic data
+
+_publ_section_title
+'K~6~[Si~2~Te~6~]-Synthese und Struktur des ersten Telluro-disilicats'        
+_journal_coden_ASTM                      ANCEAD
+_journal_name_full                       'Angew. Chem.'
+_journal_year                            1977
+_journal_volume                          89
+_journal_page_first                      566
+_journal_page_last                       567
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Dittmar G.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.652
+_cell_length_b                           13.621
+_cell_length_c                           8.902
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.34
+_cell_angle_gamma                        90
+_cell_volume                             1039.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Te
+ Si
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te1 Te 8 j 0.0976 0.1503 0.2965 1
+ Si1 Si 4 i 0.1077 0 0.1395 1
+ K1 K 4 i 0.2104 0 0.6775 1
+ Te2 Te 4 i 0.3616 0 0.1225 1
+ K2 K 4 h 0 0.3405 0.5 1
+ K3 K 4 e 0.25 0.25 0 1
+
+
+_exptl_crystal_colour                    'black gray'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.37
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1717876
+
+

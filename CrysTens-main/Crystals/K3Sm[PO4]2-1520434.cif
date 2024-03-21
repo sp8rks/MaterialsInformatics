@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# K-O-P-Sm         # K3Sm[PO4]2                                    # 1520434 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1520434
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1520434
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Sm [P O~4~]~2~'
+_chemical_formula_sum                    'K3 O8 P2 Sm'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~Nd[PO~4~]~2~,mP28,11
+_chemical_formula_weight                 457.6
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure, infrared, and polarized Raman spectra of K~3~Sm(PO~4~)~2~'
+_journal_coden_ASTM                      EJICFO
+_journal_name_full                       'Eur. J. Inorg. Chem.'
+_journal_year                            1999
+_journal_volume                          ?
+_journal_page_first                      1545
+_journal_page_last                       1550
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Toumi M.'
+;
+Zarzouna Faculty of Sciences
+Laboratoire de Chimie Inorganique et Structurale
+Zarzouna
+Tunisia
+;
+'Smiri Dogguy L.'
+;
+Zarzouna Faculty of Sciences
+Laboratoire de Chimie Inorganique et Structurale
+Zarzouna
+Tunisia
+;
+'Bulou A.'
+;
+Le Mans Maine University
+Laboratoire de Physique d'Etat Condens\'e
+Le Mans
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.4347
+_cell_length_b                           5.627
+_cell_length_c                           9.4919
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.87
+_cell_angle_gamma                        90
+_cell_volume                             397.05
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ P
+ Sm
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 4 f 0.3464 0.026 0.1612 1
+ O3 O 4 f 0.7484 0.0262 0.3426 1
+ O5 O 2 e 0.0651 0.25 0.101 1
+ K3 K 2 e 0.1373 0.25 0.408 1
+ P2 P 2 e 0.2675 0.25 0.0875 1
+ O4 O 2 e 0.3245 0.25 0.9323 1
+ Sm Sm 2 e 0.49295 0.25 0.70902 1
+ O2 O 2 e 0.4898 0.25 0.4006 1
+ P1 P 2 e 0.693 0.25 0.4263 1
+ K2 K 2 e 0.7035 0.25 0.0821 1
+ O1 O 2 e 0.7833 0.25 0.5737 1
+ K1 K 2 e 0.994 0.25 0.8077 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.83
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             80
+_refine_ls_number_reflns                 1191
+_refine_ls_R_factor_gt                   0.044
+_refine_ls_wR_factor_gt                  0.1136
+
+# End of data set 1520434
+
+

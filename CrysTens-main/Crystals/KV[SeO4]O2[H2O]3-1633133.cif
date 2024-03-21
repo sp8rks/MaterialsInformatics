@@ -1,0 +1,194 @@
+##############################################################################
+#                                                                            #
+# H-K-O-Se-V       # KV[SeO4]O2[H2O]3 rt                           # 1633133 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1633133
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1633133
+
+# Entry summary
+
+_chemical_formula_structural             'K V [Se O~4~] O~2~ [H~2~ O]~3~'
+_chemical_formula_sum                    'H6 K O9 Se V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KV[SO~4~]O~2~[H~2~O]~3~,mP24,4
+_chemical_formula_weight                 319.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure and vibrational spectra of M[VO~2~(SeO~4~)(H~2~O)~2~].H~2~O (M= K, Rb, NH~4~)
+;
+_journal_coden_ASTM                      JSTCAM
+_journal_name_full                       'J. Struct. Chem.'
+_journal_year                            2011
+_journal_volume                          52
+_journal_page_first                      350
+_journal_page_last                       357
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tyutyunnik A.P.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Zubkov V.G.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Krasil'nikov V.N.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Berger I.F.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Perelyaeva L.A.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Baklanova I.V.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Skripkin M.Y.'
+;
+Saint Petersburg State University
+Faculty of Chemistry
+Saint Petersburg
+Russia
+;
+'Svensson G.'
+;
+Stockholm University
+Department of Structural Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.4045
+_cell_length_b                           9.9721
+_cell_length_c                           6.6104
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.183
+_cell_angle_gamma                        90
+_cell_volume                             403.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ K
+ Se
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 2 a 0.036 0.121 0.14 1
+ O3 O 2 a 0.052 0.373 0.265 1
+ V V 2 a 0.111 0.159 0.3823 1
+ O2 O 2 a 0.18 0.032 0.53 1
+ O6 O 2 a 0.192 0.678 0.572 1
+ O4 O 2 a 0.194 0.281 0.687 1
+ M K 2 a 0.2029 0.8125 0.1919 1
+ O9 O 2 a 0.363 0.52 0.212 1
+ O5 O 2 a 0.417 0.212 0.417 1
+ O7 O 2 a 0.515 0.243 0.06 1
+ O8 O 2 a 0.541 0.0 0.218 1
+ Se Se 2 a 0.5737 0.1612 0.2721 1
+ H4 H 2 a 0.172 0.435 0.246 1
+ H1 H 2 a 0.27 0.366 0.675 1
+ H5 H 2 a 0.284 0.239 0.824 1
+ H2 H 2 a 0.385 0.531 0.073 1
+ H3 H 2 a 0.509 0.526 0.323 1
+ H6 H 2 a 0.956 0.433 0.324 1
+
+
+_exptl_crystal_colour                    'yellow light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.63
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.5302
+_pd_proc_wavelength                      1.5302
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Russia, Ekaterinburg, Zarechny, Institute of Nuclear Materials, IVV-2M reactor, D-7A
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.5302
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0083
+_pd_proc_ls_proof_wR_factor              0.0105
+_refine_ls_R_I_factor                    0.0461
+
+# End of data set 1633133
+
+

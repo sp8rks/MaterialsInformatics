@@ -1,0 +1,185 @@
+##############################################################################
+#                                                                            #
+# B-K-O-Sr-V       # K2SrVB5O12                                    # 1021586 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1021586
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1021586
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Sr V B~5~ O~12~'
+_chemical_formula_sum                    'B5 K2 O12 Sr V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~SrVB~5~O~12~,mP42,4
+_chemical_formula_weight                 462.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+A new noncentrosymmetric vanadoborate: Synthesis, crystal structure and characterization of K~2~SrVB~5~O~12~
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2012
+_journal_volume                          41
+_journal_page_first                      9202
+_journal_page_last                       9208
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chen S.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Pan S.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Zhao W.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Yu H.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Wu H.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Yang Z.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Yang Y.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.618
+_cell_length_b                           8.378
+_cell_length_c                           9.974
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.789
+_cell_angle_gamma                        90
+_cell_volume                             545
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ B
+ O
+ Sr
+ V
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ B5 B 2 a 0.0232 0.0623 0.4368 1
+ O4 O 2 a 0.0282 0.0663 0.5743 1
+ O2 O 2 a 0.0462 0.0693 0.1631 1
+ O1 O 2 a 0.0467 0.65 0.1579 1
+ Sr1 Sr 2 a 0.07148 0.35672 0.02729 1
+ O6 O 2 a 0.1503 0.5755 0.6527 1
+ V1 V 2 a 0.1607 0.5688 0.30713 1
+ O3 O 2 a 0.2081 0.0459 0.3948 1
+ B4 B 2 a 0.2212 0.0486 0.2566 1
+ O5 O 2 a 0.2309 0.3853 0.2719 1
+ K2 K 2 a 0.3323 0.2387 0.7406 1
+ O8 O 2 a 0.3674 0.664 0.3752 1
+ O11 O 2 a 0.4087 0.0336 0.2247 1
+ O10 O 2 a 0.4538 0.2158 0.0424 1
+ B3 B 2 a 0.4796 0.0456 0.0951 1
+ K1 K 2 a 0.6021 0.3253 0.4032 1
+ B2 B 2 a 0.6209 0.3115 0.0702 1
+ O12 O 2 a 0.6459 0.4512 0.0096 1
+ O7 O 2 a 0.6949 0.0 0.1156 1
+ O9 O 2 a 0.7913 0.2689 0.167 1
+ B1 B 2 a 0.8429 0.1019 0.2009 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.82
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            716
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2715
+_diffrn_reflns_theta_min                 2.07
+_diffrn_reflns_theta_max                 24.99
+_exptl_absorpt_coefficient_mu            6.578
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             191
+_refine_ls_number_reflns                 1503
+_refine_ls_R_factor_gt                   0.0442
+_refine_ls_wR_factor_gt                  0.0807
+
+# End of data set 1021586
+
+

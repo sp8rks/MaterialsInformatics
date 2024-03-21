@@ -1,0 +1,187 @@
+##############################################################################
+#                                                                            #
+# I-La-O           # La[IO3]3 rt                                   # 1642328 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1642328
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1642328
+
+# Entry summary
+
+_chemical_formula_structural             'La [I O~3~]~3~'
+_chemical_formula_sum                    'I3 La O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La[IO~3~]~3~,mP52,4
+_chemical_formula_weight                 663.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structures, thermal behaviors, and luminescent properties of anhydrous lanthanum iodate polymorphs
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2015
+_journal_volume                          54
+_journal_page_first                      3608
+_journal_page_last                       3618
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Taouti M.B.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Insitut Louis N\'eel
+Grenoble
+France
+;
+'Suffren Y.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Insitut Louis N\'eel
+Grenoble
+France
+;
+'Leynaud O.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Insitut Louis N\'eel
+Grenoble
+France
+;
+'Benbertal D.'
+;
+Laghouat Amar Telidji University
+Laboratoire de Physico-Chimie des Mat\'eriaux
+Laghouat
+Algeria
+;
+'Brenier A.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Institut Lumi\`ere Mati\`ere
+Villeurbanne
+France
+;
+'Gautier Luneau I.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Insitut Louis N\'eel
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.2539
+_cell_length_b                           8.536
+_cell_length_c                           13.5018
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.499
+_cell_angle_gamma                        90
+_cell_volume                             828.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ I
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O31 O 2 a 0.022 0.358 0.162 1
+ O61 O 2 a 0.035 0.153 0.63 1
+ O22 O 2 a 0.093 0.741 0.11 1
+ O41 O 2 a 0.125 0.402 0.736 1
+ O63 O 2 a 0.156 0.457 0.494 1
+ I6 I 2 a 0.1578 0.5291 0.3687 1
+ O33 O 2 a 0.182 0.016 0.02 1
+ O12 O 2 a 0.194 0.179 0.44 1
+ O11 O 2 a 0.206 0.07 0.226 1
+ I1 I 2 a 0.219 0.0246 0.3564 1
+ O42 O 2 a 0.25 0.334 0.911 1
+ La1 La 2 a 0.3164 0.2588 0.1 1
+ La2 La 2 a 0.3322 0.2566 0.6079 1
+ I2 I 2 a 0.3393 0.7418 0.133 1
+ O62 O 2 a 0.34 0.667 0.396 1
+ O23 O 2 a 0.354 0.554 0.068 1
+ O21 O 2 a 0.358 0.734 0.267 1
+ O51 O 2 a 0.412 0.358 0.284 1
+ O13 O 2 a 0.469 0.0 0.358 1
+ O43 O 2 a 0.54 0.035 0.135 1
+ O53 O 2 a 0.59 0.337 0.483 1
+ O32 O 2 a 0.628 0.426 0.166 1
+ I5 I 2 a 0.6316 0.3049 0.3553 1
+ I4 I 2 a 0.7846 0.0098 0.1559 1
+ O52 O 2 a 0.786 0.464 0.339 1
+ I3 I 2 a 0.8264 0.4705 0.1101 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.32
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54056
+_pd_proc_wavelength                      1.54056
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D8'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.54056
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5.5
+_diffrn_reflns_theta_max                 50.5
+_pd_proc_2theta_range_min                11
+_pd_proc_2theta_range_max                101
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'ab initio calculations'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0932
+_pd_proc_ls_proof_wR_factor              0.0861
+_refine_ls_R_I_factor                    0.0391
+
+# End of data set 1642328
+
+

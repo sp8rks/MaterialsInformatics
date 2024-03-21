@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# K-Na-Sb-Sn       # KNa4SnSb3                                     # 1703311 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1703311
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1703311
+
+# Entry summary
+
+_chemical_formula_structural             'K Na~4~ Sn Sb~3~'
+_chemical_formula_sum                    'K Na4 Sb3 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNa~4~SnSb~3~,mP36,14
+_chemical_formula_weight                 615.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Dimere Zintl-Anionen [Sn~2~As~6~]^10-^ und [Sn~2~Sb~6~]^10-^ in Alkaliverbindungen
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1991
+_journal_volume                          196
+_journal_page_first                      213
+_journal_page_last                       229
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Eisenmann B.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+'Klein J.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.091
+_cell_length_b                           8.375
+_cell_length_c                           17.4629
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.372
+_cell_angle_gamma                        90
+_cell_volume                             1135.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Na
+ Sb
+ K
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Na2 Na 4 e 0.0023 0.1578 0.0825 1
+ Sb2 Sb 4 e 0.0583 0.2807 0.4162 1
+ Na4 Na 4 e 0.076 0.5018 0.2562 1
+ K K 4 e 0.264 0.5159 0.0888 1
+ Sn Sn 4 e 0.3381 0.1497 0.411 1
+ Sb1 Sb 4 e 0.3534 0.2446 0.2612 1
+ Na3 Na 4 e 0.4086 0.0306 0.0888 1
+ Sb3 Sb 4 e 0.6642 0.3042 0.0733 1
+ Na1 Na 4 e 0.6854 0.3618 0.2572 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    3715
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            9.614
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution
+'starting values derived from related structure, Fourier synthesis'           
+_refine_ls_number_parameters             83
+_refine_ls_number_reflns                 2990
+_refine_ls_R_factor_gt                   0.066
+_refine_ls_wR_factor_gt                  0.073
+
+# End of data set 1703311
+
+

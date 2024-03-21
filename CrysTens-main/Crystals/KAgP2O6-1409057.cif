@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# Ag-K-O-P         # KAgP2O6                                       # 1409057 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1409057
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1409057
+
+# Entry summary
+
+_chemical_formula_structural             'K Ag P~2~ O~6~'
+_chemical_formula_sum                    'Ag K O6 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAgP~2~O~6~,mP40,14
+_chemical_formula_weight                 304.9
+_chemical_melting_point                  703
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural investigation of a new series of long-chain polyphosphates. Crystal structure of AgK(PO~3~)~2~ and crystal data for AgM(PO~3~)~2~ with M= K, Rb, Cs, and Tl
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1993
+_journal_volume                          102
+_journal_page_first                      93
+_journal_page_last                       99
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Averbuch Pouchot M.T.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.037
+_cell_length_b                           13.175
+_cell_length_c                           7.49
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.32
+_cell_angle_gamma                        90
+_cell_volume                             594
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Ag
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(E22) O 4 e 0.0754 0.6457 0.0647 1
+ O(L1) O 4 e 0.1358 0.2059 0.0477 1
+ P2 P 4 e 0.1516 0.3261 0.0065 1
+ Ag Ag 4 e 0.18747 0.52801 0.30474 1
+ O(E11) O 4 e 0.2153 0.0281 0.1373 1
+ O(E21) O 4 e 0.2614 0.3766 0.1659 1
+ P1 P 4 e 0.3143 0.13196 0.1512 1
+ O(L2) O 4 e 0.3244 0.1715 0.3544 1
+ O(E12) O 4 e 0.5395 0.1519 0.0918 1
+ K K 4 e 0.7033 0.33 0.2681 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.41
+_cell_measurement_temperature            294
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_wavelength             0.5608
+_cell_measurement_reflns_used            18
+_diffrn_ambient_temperature              294
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.5608
+_diffrn_reflns_number                    3867
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 15
+_exptl_absorpt_coefficient_mu            2.289
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             92
+_refine_ls_number_reflns                 1887
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.034
+
+# End of data set 1409057
+
+

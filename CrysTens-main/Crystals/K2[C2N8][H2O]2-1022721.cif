@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# C-H-K-N-O        # K2[C2N8][H2O]2                                # 1022721 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1022721
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1022721
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ [C~2~ N~8~] [H~2~ O]~2~'
+_chemical_formula_sum                    'C2 H4 K2 N8 O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~[C~2~N~8~][H~2~O]~2~,mP28,14
+_chemical_formula_weight                 250.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and characterisation of 5,5'-bistetrazolate salts with alkali metal, ammonium and imidazolium cations
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2013
+_journal_volume                          639
+_journal_page_first                      1140
+_journal_page_last                       1152
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Finger L.H.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Schr\"oder F.G.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Sundermeyer J.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.8505
+_cell_length_b                           11.3156
+_cell_length_c                           9.7354
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.006
+_cell_angle_gamma                        90
+_cell_volume                             423.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ O
+ C
+ K
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N3 N 4 e 0.1615 0.28172 0.45284 1
+ O1 O 4 e 0.2203 0.57716 0.12458 1
+ N2 N 4 e 0.2222 0.21707 0.087 1
+ N4 N 4 e 0.2807 0.38192 0.39718 1
+ N1 N 4 e 0.3875 0.11563 0.12364 1
+ C1 C 4 e 0.4178 0.05768 0.00542 1
+ K1 K 4 e 0.74538 0.40068 0.17033 1
+ H1 H 4 e 0.09 0.634 0.112 1
+ H2 H 4 e 0.34 0.5912 0.197 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.96
+_cell_measurement_temperature            100(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            2336
+_diffrn_ambient_temperature              100(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2267
+_diffrn_reflns_theta_min                 2.76
+_diffrn_reflns_theta_max                 26.72
+_exptl_absorpt_coefficient_mu            1.108
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             72
+_refine_ls_number_reflns                 778
+_refine_ls_R_factor_gt                   0.0224
+_refine_ls_wR_factor_gt                  0.0539
+
+# End of data set 1022721
+
+

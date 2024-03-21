@@ -1,0 +1,196 @@
+##############################################################################
+#                                                                            #
+# K-O-P-Sm         # KSmP4O12 mon2                                 # 1829328 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1829328
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1829328
+
+# Entry summary
+
+_chemical_formula_structural             'K Sm P~4~ O~12~'
+_chemical_formula_sum                    'K O12 P4 Sm'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNdP~4~O~12~,mP36,4
+_chemical_formula_weight                 505.4
+_chemical_melting_point                  1133
+
+# Bibliographic data
+
+_publ_section_title
+;
+Etude du syst\`eme KPO~3~-Sm(PO~3~)~3~ et des phases polymorphiques de phosphates condens\'es KSm(PO~3~)~4~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1987
+_journal_volume                          69
+_journal_page_first                      1
+_journal_page_last                       9
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'F\'erid M.'
+;
+Tunis Institut National de Recherche Scientifique et Technique
+Centre de Chimie Appliqu\'ee
+Tunis
+Tunisia
+;
+'Ariguib Kbir N.'
+;
+Tunis Institut National de Recherche Scientifique et Technique
+Tunis
+Tunisia
+;
+'Trabelsi M.'
+;
+Tunis Institut National de Recherche Scientifique et Technique
+Tunis
+Tunisia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.242
+_cell_length_b                           8.37
+_cell_length_c                           7.95
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.96
+_cell_angle_gamma                        90
+_cell_volume                             481.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ P
+ O
+ K
+ Sm
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P1 P 2 a 0.001 0.107 0.119 1
+ O1 O 2 a 0.006 0.0 0.284 1
+ O2 O 2 a 0.031 0.003 0.973 1
+ O3 O 2 a 0.038 0.407 0.44 1
+ O4 O 2 a 0.083 0.221 0.679 1
+ P2 P 2 a 0.102 0.38 0.602 1
+ O5 O 2 a 0.168 0.214 0.152 1
+ K1 K 2 a 0.274 0.655 0.2168 1
+ O6 O 2 a 0.314 0.423 0.627 1
+ P3 P 2 a 0.378 0.211 0.107 1
+ O7 O 2 a 0.426 0.057 0.533 1
+ O8 O 2 a 0.454 0.08 0.228 1
+ O9 O 2 a 0.455 0.357 0.156 1
+ P4 P 2 a 0.569 0.078 0.404 1
+ O10 O 2 a 0.619 0.644 0.07 1
+ O11 O 2 a 0.687 0.227 0.436 1
+ Sm1 Sm 2 a 0.7661 0.464 0.2583 1
+ O12 O 2 a 0.83 0.204 0.115 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.49
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 57.5 100
+ -1 0 1 54.3 29
+ 1 0 1 52.7 25
+ 0 2 0 41.8 76
+ 0 0 2 39.6 78
+ 0 2 1 37 49
+ 0 1 2 35.8 47
+ -1 0 2 35.2 15
+ -1 2 1 33.11 59
+ 1 2 1 32.71 57
+ 2 0 1 32.47 16
+ 1 1 2 31.73 29
+ -2 1 1 30.97 31
+ 2 1 1 30.31 29
+ 0 2 2 28.82 45
+ 2 0 2 26.31 51
+ 1 3 0 26.05 31
+ 0 1 3 25.24 51
+ -1 0 3 25.17 20
+ 1 3 1 24.63 23
+ 0 3 2 22.83 20
+ 0 2 3 22.39 25
+ -1 3 2 21.89 27
+ 1 3 2 21.64 31
+ -1 2 3 21.54 27
+ 1 2 3 21.2 25
+ 0 4 0 20.92 29
+ 3 2 0 20.86 25
+ -3 2 1 20.38 29
+ -1 4 1 19.54 27
+ 0 3 3 19.22 21
+ -1 1 4 18.83 27
+ 1 1 4 18.54 25
+ 1 3 3 18.47 25
+ -3 0 3 18.14 26
+ 0 2 4 17.94 45
+
+# End of data set 1829328
+
+

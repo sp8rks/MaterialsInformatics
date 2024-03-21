@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# B-K-O-Sm         # K2Sm2[BO3]2O                                  # 1631121 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1631121
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1631121
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Sm~2~ [B O~3~]~2~ O'
+_chemical_formula_sum                    'B2 K2 O7 Sm2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Na~2~Gd~2~[BO~3~]~2~O,mP52,14
+_chemical_formula_weight                 512.6
+
+# Bibliographic data
+
+_publ_section_title
+'A new potassium rare earth oxyborate K~2~La~2~(BO~3~)~2~O'                   
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2010
+_journal_volume                          12
+_journal_page_first                      2144
+_journal_page_last                       2147
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zeng Q.D.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Li R.K.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.2512
+_cell_length_b                           6.508
+_cell_length_c                           10.5928
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.039
+_cell_angle_gamma                        90
+_cell_volume                             690.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ K
+ O
+ B
+ Sm
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K1 K 4 e 0.0229 0.0573 0.2624 1
+ O1 O 4 e 0.102 0.338 0.4448 1
+ K2 K 4 e 0.1094 0.7378 0.0469 1
+ O2 O 4 e 0.1273 0.351 0.1599 1
+ B1 B 4 e 0.1817 0.251 0.0797 1
+ O3 O 4 e 0.1821 0.7556 0.3641 1
+ Sm1 Sm 4 e 0.31469 0.41775 0.41051 1
+ O4 O 4 e 0.33 0.2379 0.1355 1
+ O5 O 4 e 0.3496 0.0406 0.4123 1
+ Sm2 Sm 4 e 0.51751 0.04052 0.31897 1
+ O6 O 4 e 0.5272 0.3765 0.4041 1
+ O7 O 4 e 0.6514 0.2419 0.2284 1
+ B2 B 4 e 0.7097 0.347 0.1496 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.93
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1631121
+
+

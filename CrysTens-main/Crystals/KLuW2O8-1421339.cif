@@ -1,0 +1,179 @@
+##############################################################################
+#                                                                            #
+# K-Lu-O-W         # KLuW2O8 rt                                    # 1421339 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1421339
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1421339
+
+# Entry summary
+
+_chemical_formula_structural             'K Lu W~2~ O~8~'
+_chemical_formula_sum                    'K Lu O8 W2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KYW~2~O~8~,mS48,15
+_chemical_formula_weight                 709.8
+
+# Bibliographic data
+
+_publ_section_title
+'Growth and structure of monoclinic KLu(WO~4~)~2~ crystals'                   
+_journal_coden_ASTM                      JCRGAE
+_journal_name_full                       'J. Cryst. Growth'
+_journal_year                            2006
+_journal_volume                          292
+_journal_page_first                      373
+_journal_page_last                       376
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhang J.'
+;
+Jinan Shandong Normal University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Wang J.'
+;
+Jinan Shandong Normal University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Wang K.'
+;
+Jinan Shandong Normal University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Yu W.'
+;
+Jinan Shandong Normal University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Zhang H.'
+;
+Jinan Shandong Normal University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Wang Z.'
+;
+Jinan Shandong Normal University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Wang X.'
+;
+Jinan Shandong Normal University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Ba M.'
+;
+Jinan Shandong Normal University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.5915
+_cell_length_b                           10.2446
+_cell_length_c                           7.5003
+_cell_angle_alpha                        90
+_cell_angle_beta                         130.732
+_cell_angle_gamma                        90
+_cell_volume                             616.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ W
+ Lu
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.0233 0.3894 0.4686 1
+ O4 O 8 f 0.1266 0.083 0.1891 1
+ O2 O 8 f 0.2788 0.3412 0.3782 1
+ W W 8 f 0.30286 0.00009 0.26443 1
+ O3 O 8 f 0.3099 0.0768 0.0579 1
+ Lu Lu 4 e 0 0.22818 0.25 1
+ K K 4 e 0 0.799 0.25 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.64
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            33
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS P4 APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1142
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 15
+_exptl_absorpt_coefficient_mu            53.777
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             57
+_refine_ls_number_reflns                 848
+_refine_ls_R_factor_gt                   0.0670
+_refine_ls_wR_factor_gt                  0.1622
+
+# End of data set 1421339
+
+

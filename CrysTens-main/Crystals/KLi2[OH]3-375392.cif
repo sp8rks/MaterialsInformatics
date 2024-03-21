@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# H-K-Li-O         # KLi2[OH]3                                     #  375392 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_375392
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      375392
+
+# Entry summary
+
+_chemical_formula_structural             'K Li~2~ [O H]~3~'
+_chemical_formula_sum                    'H3 K Li2 O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KLi~2~[OH]~3~,mP12,11
+_chemical_formula_weight                 104.0
+_chemical_melting_point                  587
+
+# Bibliographic data
+
+_publ_section_title
+'Preparation, properties, and structure of the compound 2LiOH.KOH'            
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1974
+_journal_volume                          19
+_journal_page_first                      774
+_journal_page_last                       776
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Itkina L.S.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Rannev N.V.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Portnova S.M.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Demidova T.A.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.81
+_cell_length_b                           5.197
+_cell_length_c                           6.134
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.2
+_cell_angle_gamma                        90
+_cell_volume                             180.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Li
+ K
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Li1 Li 4 f 0.1501 0.005 0.1854 1
+ K1 K 2 e 0.3482 0.25 0.7354 1
+ O1 O 2 e 0.4071 0.25 0.2055 1
+ O2 O 2 e 0.8314 0.25 0.5885 1
+ O3 O 2 e 0.8851 0.25 0.073 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              1.85
+_exptl_crystal_density_diffrn            1.92
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 375392
+
+

@@ -1,0 +1,163 @@
+##############################################################################
+#                                                                            #
+# K-O-V            # KV3O8                                         # 1638670 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1638670
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1638670
+
+# Entry summary
+
+_chemical_formula_structural             'K V~3~ O~8~'
+_chemical_formula_sum                    'K O8 V3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KV~3~O~8~,mP24,11
+_chemical_formula_weight                 319.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+A comparative insight of potassium vanadates as positive electrode materials for Li batteries: Influence of the long-range and local structure
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2014
+_journal_volume                          53
+_journal_page_first                      1764
+_journal_page_last                       1772
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Baddour Hadjean R.'
+;
+Thiais Paris-Est Cr\'eteil University
+Institut de Chimie et Mat\'eriaux Paris Est
+Thiais
+France
+;
+'Boudaoud A.'
+;
+Thiais Paris-Est Cr\'eteil University
+Institut de Chimie et Mat\'eriaux Paris Est
+Thiais
+France
+;
+'Bach S.'
+;
+Thiais Paris-Est Cr\'eteil University
+Institut de Chimie et Mat\'eriaux Paris Est
+Thiais
+France
+;
+'Emery N.'
+;
+Thiais Paris-Est Cr\'eteil University
+Institut de Chimie et Mat\'eriaux Paris Est
+Thiais
+France
+;
+'Pereira Ramos J.P.'
+;
+Thiais Paris-Est Cr\'eteil University
+Institut de Chimie et Mat\'eriaux Paris Est
+Thiais
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.9777
+_cell_length_b                           8.3833
+_cell_length_c                           7.6414
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.967
+_cell_angle_gamma                        90
+_cell_volume                             316.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 f 0.0657 0.567 0.334 1
+ O3 O 4 f 0.1916 0.081 0.0055 1
+ O4 O 4 f 0.6326 0.0933 0.2443 1
+ V2 V 4 f 0.941 0.0551 0.19151 1
+ O1 O 2 e 0.0843 0.25 0.2626 1
+ V1 V 2 e 0.4213 0.25 0.08 1
+ K K 2 e 0.4529 0.25 0.5639 1
+ O2 O 2 e 0.6223 0.25 0.9384 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.36
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Co Ka'
+_cell_measurement_wavelength             1.789
+_pd_proc_wavelength                      1.789
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+PANalytical X'Pert PRO MPD
+;
+_diffrn_radiation_type                   'X-rays, Co Ka'
+_diffrn_radiation_wavelength             1.789
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.05
+_pd_proc_ls_proof_wR_factor              0.0674
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1638670
+
+

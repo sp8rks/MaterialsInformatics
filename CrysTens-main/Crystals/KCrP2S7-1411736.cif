@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Cr-K-P-S         # KCrP2S7                                       # 1411736 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1411736
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1411736
+
+# Entry summary
+
+_chemical_formula_structural             'K Cr P~2~ S~7~'
+_chemical_formula_sum                    'Cr K P2 S7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            RbVP~2~S~7~,mS22,5
+_chemical_formula_weight                 377.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and crystal structure determination of three layered-type thiophosphate compounds KMP~2~S~7~ (M= Cr, V, In)
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            2000
+_journal_volume                          35
+_journal_page_first                      1401
+_journal_page_last                       1410
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kopnin E.M.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+'Coste S.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+'Jobic S.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+'Evain M.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+'Brec R.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.5146
+_cell_length_b                           9.5848
+_cell_length_c                           6.3052
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.981
+_cell_angle_gamma                        90
+_cell_volume                             509.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ S
+ P
+ K
+ Cr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 4 c 0.1458 0.3039 0.231 1
+ S2 S 4 c 0.184 0.6488 0.1781 1
+ P P 4 c 0.2016 0.1304 0.0796 1
+ S1 S 4 c 0.3402 0.0046 0.2836 1
+ K K 2 b 0 0.881 0.5 1
+ S4 S 2 a 0 0.0 0 1
+ Cr Cr 2 a 0 0.4772 0 1
+
+
+_exptl_crystal_colour                    'brown dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.46
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            4963
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    7731
+_diffrn_reflns_theta_min                 0
+_diffrn_reflns_theta_max                 5.7
+_exptl_absorpt_coefficient_mu            3.208
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 1876
+_refine_ls_R_factor_gt                   0.0308
+_refine_ls_wR_factor_gt                  0.0628
+
+# End of data set 1411736
+
+

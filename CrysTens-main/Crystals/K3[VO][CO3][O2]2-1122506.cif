@@ -1,0 +1,129 @@
+##############################################################################
+#                                                                            #
+# C-K-O-V          # K3[VO][CO3][O2]2                              # 1122506 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1122506
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1122506
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ [V O] [C O~3~] [O~2~]~2~'
+_chemical_formula_sum                    'C K3 O8 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~[VO][CO~3~][O~2~]~2~,mS26,8
+_chemical_formula_weight                 308.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of potassium carbonatooxodiperoxovanadate(V), K~3~[VO(O~2~)~2~(CO~3~)]
+;
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1985
+_journal_volume                          39
+_journal_page_first                      725
+_journal_page_last                       731
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Stomberg R.'
+;
+Chalmers University of Technology
+Department of Inorganic Chemistry
+Gothenburg
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.9645
+_cell_length_b                           9.274
+_cell_length_c                           5.598
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.971
+_cell_angle_gamma                        90
+_cell_volume                             390.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ V
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 b 0.0245 0.2073 0.0633 1
+ K2 K 4 b 0.13665 0.21825 0.6397 1
+ O2 O 4 b 0.3888 0.3613 0.0952 1
+ V V 2 a 0.0 0 0.0 1
+ O5 O 2 a 0.2448 0 0.4598 1
+ O4 O 2 a 0.2484 0 0.0705 1
+ C C 2 a 0.3406 0 0.3507 1
+ O6 O 2 a 0.5074 0 0.4956 1
+ K1 K 2 a 0.59019 0 0.08138 1
+ O3 O 2 a 0.8923 0 0.6561 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.62
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            2.92
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1521
+_refine_ls_R_factor_gt                   0.033
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1122506
+
+

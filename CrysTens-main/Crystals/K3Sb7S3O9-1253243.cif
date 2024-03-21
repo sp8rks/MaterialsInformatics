@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# K-O-S-Sb         # K3Sb7S3O9                                     # 1253243 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1253243
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1253243
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Sb~7~ S~3~ O~9~'
+_chemical_formula_sum                    'K3 O9 S3 Sb7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~Sb~7~S~3~O~9~,hP44,173
+_chemical_formula_weight                 1209.7
+
+# Bibliographic data
+
+_publ_section_title
+'K~3~SbS~3~.3Sb~2~O~3~, ein Oxothioantimonit mit R\"ohrenstruktur'            
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1975
+_journal_volume                          414
+_journal_page_first                      220
+_journal_page_last                       230
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Graf H.A.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+'Sch\"afer H.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.256
+_cell_length_b                           14.256
+_cell_length_c                           5.621
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             989.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ S
+ Sb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(III) O 6 c 0.067 0.3616 0.355 1
+ K K 6 c 0.1817 0.2794 0.1159 1
+ O(I) O 6 c 0.3546 0.1259 0.1232 1
+ O(II) O 6 c 0.3571 0.2941 0.3592 1
+ S S 6 c 0.3648 0.5322 0.1636 1
+ Sb(II) Sb 6 c 0.4035 0.0147 0.1181 1
+ Sb(III) Sb 6 c 0.4505 0.2826 0.1173 1
+ Sb(I) Sb 2 b 0.333333 0.666667 0.0 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              4.16
+_exptl_crystal_density_diffrn            4.06
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI 2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           cylindrical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.090
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1253243
+
+

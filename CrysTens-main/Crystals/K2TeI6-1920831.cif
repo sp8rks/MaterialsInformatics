@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# I-K-Te           # K2TeI6                                        # 1920831 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1920831
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1920831
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Te I~6~'
+_chemical_formula_sum                    'I6 K2 Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~TeBr~6~,mP18,14
+_chemical_formula_weight                 967.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+X-ray study of the crystal structure of K~2~TeI~6~ and the symmetry of the compounds of this series
+;
+_journal_coden_ASTM                      INUCAF
+_journal_name_full                       'Inorg. Nucl. Chem. Lett.'
+_journal_year                            1972
+_journal_volume                          8
+_journal_page_first                      181
+_journal_page_last                       184
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Syoyama S.'
+;
+Kyoto University
+Faculty of Pharmaceutical Sciences
+Kyoto / Kyoto
+Japan
+;
+'Osaki K.'
+;
+Kyoto University
+Faculty of Pharmaceutical Sciences
+Kyoto / Kyoto
+Japan
+;
+'Kusanagi S.'
+;
+Kyoto University
+Faculty of Pharmaceutical Sciences
+Kyoto / Kyoto
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.985
+_cell_length_b                           8.171
+_cell_length_c                           13.9281
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.499
+_cell_angle_gamma                        90
+_cell_volume                             748.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ I
+ K
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I1 I 4 e 0.1772 0.0026 0.25 1
+ I3 I 4 e 0.2307 0.7014 0.0315 1
+ K K 4 e 0.2725 0.43 0.2501 1
+ I2 I 4 e 0.3375 0.2029 0.0402 1
+ Te Te 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.29
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'precession photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.151
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1920831
+
+

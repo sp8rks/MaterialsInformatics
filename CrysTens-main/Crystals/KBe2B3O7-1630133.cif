@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# B-Be-K-O         # KBe2B3O7 mon1                                 # 1630133 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1630133
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1630133
+
+# Entry summary
+
+_chemical_formula_structural             'K Be~2~ B~3~ O~7~'
+_chemical_formula_sum                    'B3 Be2 K O7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KBe~2~B~3~O~7~,mS52,15
+_chemical_formula_weight                 201.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Alkaline beryllium borate NaBeB~3~O~6~ and ABe~2~B~3~O~7~ (A= K, Rb) as UV nonlinear optical crystals
+;
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            2010
+_journal_volume                          132
+_journal_page_first                      8779
+_journal_page_last                       8786
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wang S.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Ye N.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Li W.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhao D.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.405
+_cell_length_b                           9.001
+_cell_length_c                           6.559
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.543
+_cell_angle_gamma                        90
+_cell_volume                             558.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Be
+ B
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 8 f 0.15051 0.42934 0.1965 1
+ Be1 Be 8 f 0.15472 0.2906 0.3427 1
+ B2 B 8 f 0.25168 0.01919 0.317 1
+ O2 O 8 f 0.27899 0.1654 0.38318 1
+ O3 O 8 f 0.38608 0.46622 0.236 1
+ B1 B 4 e 0 0.0504 0.25 1
+ O1 O 4 e 0 0.20254 0.25 1
+ K1 K 4 e 0 0.67903 0.25 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.40
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            871
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Mercury'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2070
+_diffrn_reflns_theta_min                 3.12
+_diffrn_reflns_theta_max                 27.46
+_exptl_absorpt_coefficient_mu            0.934
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             62
+_refine_ls_number_reflns                 565
+_refine_ls_R_factor_gt                   0.0235
+_refine_ls_wR_factor_gt                  0.0612
+
+# End of data set 1630133
+
+

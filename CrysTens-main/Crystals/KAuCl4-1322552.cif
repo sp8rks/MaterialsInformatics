@@ -1,0 +1,130 @@
+##############################################################################
+#                                                                            #
+# Au-Cl-K          # KAuCl4                                        # 1322552 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1322552
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1322552
+
+# Entry summary
+
+_chemical_formula_structural             'K Au Cl~4~'
+_chemical_formula_sum                    'Au Cl4 K'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAuI~4~,mP24,14
+_chemical_formula_weight                 377.9
+
+# Bibliographic data
+
+_publ_section_title
+'Low-temperature redetermination of the structures of three gold compounds'   
+_journal_coden_ASTM                      JCREDB
+_journal_name_full                       'J. Crystallogr. Spectrosc. Res.'
+_journal_year                            1992
+_journal_volume                          22
+_journal_page_first                      397
+_journal_page_last                       401
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jones P.G.'
+;
+Braunschweig Technical University
+Institut f\"ur Anorganische und Analytische Chemie
+Braunschweig
+Germany
+;
+'Bembenek E.'
+;
+Braunschweig Technical University
+Institut f\"ur Anorganische und Analytische Chemie
+Braunschweig
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.619
+_cell_length_b                           6.35
+_cell_length_c                           12.169
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.72
+_cell_angle_gamma                        90
+_cell_volume                             662.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ K
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl2 Cl 4 e 0.09697 0.04699 0.18017 1
+ Cl1 Cl 4 e 0.12838 0.20505 0.45132 1
+ K K 4 e 0.21313 0.54669 0.18273 1
+ Cl3 Cl 4 e 0.49339 0.34608 0.33013 1
+ Cl4 Cl 4 e 0.66787 0.25619 0.06909 1
+ Au2 Au 2 b 0.5 0 0 1
+ Au1 Au 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.79
+_cell_measurement_temperature            178
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            50
+_diffrn_ambient_temperature              178
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens R3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4955
+_exptl_absorpt_coefficient_mu            24.29
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             59
+_refine_ls_number_reflns                 882
+_refine_ls_R_factor_gt                   0.025
+_refine_ls_wR_factor_gt                  0.028
+
+# End of data set 1322552
+
+

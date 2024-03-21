@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# C-K-Mn-N         # K3Mn[CN]6 mon                                 # 1100190 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1100190
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1100190
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Mn [C N]~6~'
+_chemical_formula_sum                    'C6 K3 Mn N6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~Co[CN]~6~-b,mP32,14
+_chemical_formula_weight                 328.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of twinned monoclinic potassium manganicyanide, K~3~[Mn(CN)~6~]
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1974
+_journal_volume                          30
+_journal_page_first                      656
+_journal_page_last                       661
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gupta M.P.'
+;
+London University College
+Department of Chemistry
+London
+United Kingdom
+;
+'Milledge H.J.'
+;
+London University College
+Department of Chemistry
+London
+United Kingdom
+;
+'McCarthy A.E.'
+;
+Birmingham Aston University
+Department of Chemistry
+Birmingham
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.09
+_cell_length_b                           10.49
+_cell_length_c                           8.46
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.6
+_cell_angle_gamma                        90
+_cell_volume                             599.75
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ K
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 4 e 0.12199 0.67301 0.02875 1
+ C3 C 4 e 0.19213 0.44582 0.21642 1
+ C2 C 4 e 0.18881 0.05183 0.38329 1
+ N1 N 4 e 0.20488 0.76781 0.05368 1
+ N2 N 4 e 0.29522 0.08484 0.30896 1
+ N3 N 4 e 0.29851 0.4142 0.3446 1
+ K2 K 4 e 0.5021 0.22842 0.12626 1
+ Mn Mn 2 c 0 0 0.5 1
+ K1 K 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              1.82
+_exptl_crystal_density_diffrn            1.82
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Co K'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.1193
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1100190
+
+

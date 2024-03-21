@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# C-La-N-O-Si      # La2[SiO4][NCN]                                # 1931038 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1931038
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1931038
+
+# Entry summary
+
+_chemical_formula_structural             'La~2~ [Si O~4~] [N C N]'
+_chemical_formula_sum                    'C La2 N2 O4 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~2~[SiO~4~][NCN],mP40,14
+_chemical_formula_weight                 409.9
+
+# Bibliographic data
+
+_publ_section_title
+'Rare earth carbodiimide silicates: RE~2~(CN~2~)(SiO~4~)'                     
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2010
+_journal_volume                          636
+_journal_page_first                      991
+_journal_page_last                       995
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kubus M.'
+;
+T\"ubingen Eberhard Karl University
+Institut f\"ur Anorganische Chemie
+T\"ubingen
+Germany
+;
+'Glaser J.'
+;
+T\"ubingen Eberhard Karl University
+Institut f\"ur Anorganische Chemie
+T\"ubingen
+Germany
+;
+'Klonkowski A.'
+;
+Gdansk University of Technology (PG)
+Faculty of Chemistry
+Gdansk
+Poland
+;
+'Meyer H.J.'
+;
+T\"ubingen Eberhard Karl University
+Institut f\"ur Anorganische Chemie
+T\"ubingen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.603
+_cell_length_b                           12.82
+_cell_length_c                           6.562
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.23
+_cell_angle_gamma                        90
+_cell_volume                             536
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ La
+ Si
+ N
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 e 0.026 0.6656 0.042 1
+ La2 La 4 e 0.0294 0.3546 0.3295 1
+ Si Si 4 e 0.0924 0.0995 0.3115 1
+ O1 O 4 e 0.105 0.5532 0.37 1
+ O4 O 4 e 0.222 0.1802 0.205 1
+ O2 O 4 e 0.253 0.0075 0.415 1
+ N1 N 4 e 0.426 0.4026 0.36 1
+ C C 4 e 0.526 0.348 0.272 1
+ La1 La 4 e 0.5869 0.09933 0.2814 1
+ N2 N 4 e 0.628 0.2953 0.172 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.08
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    5318
+_diffrn_reflns_theta_min                 3.18
+_diffrn_reflns_theta_max                 24.71
+_exptl_absorpt_coefficient_mu            15.891
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             92
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0375
+_refine_ls_wR_factor_gt                  0.1057
+
+# End of data set 1931038
+
+

@@ -1,0 +1,229 @@
+##############################################################################
+#                                                                            #
+# Cr-La-O          # La[CrO4]                                      # 1021047 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1021047
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1021047
+
+# Entry summary
+
+_chemical_formula_structural             'La [Cr O~4~]'
+_chemical_formula_sum                    'Cr La O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ce[PO~4~],mP24,14
+_chemical_formula_weight                 254.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Characterization of LaCrO~4~ and NdCrO~4~ by XRD, Raman Spectroscopy, and ab Initio Molecular Orbital CalCulations
+;
+_journal_coden_ASTM                      BCSJA8
+_journal_name_full                       'Bull. Chem. Soc. Jpn.'
+_journal_year                            2000
+_journal_volume                          73
+_journal_page_first                      1197
+_journal_page_last                       1203
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Aoki Y.'
+;
+Sapporo Hokkaido University
+Graduate School of Engineering
+Sapporo / Hokkaido
+Japan
+;
+'Konno H.'
+;
+Sapporo Hokkaido University
+Graduate School of Engineering
+Sapporo / Hokkaido
+Japan
+;
+'Tachikawa H.'
+;
+Sapporo Hokkaido University
+Graduate School of Engineering
+Sapporo / Hokkaido
+Japan
+;
+'Inagaki M.'
+;
+Toyota Aichi Institute of Technology
+Toyota / Aichi
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.6918
+_cell_length_b                           7.2348
+_cell_length_c                           8.3667
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.65
+_cell_angle_gamma                        90
+_cell_volume                             329.15
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ La
+ Cr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.1029 0.3394 0.1108 1
+ La La 4 e 0.1753 0.6568 0.2782 1
+ O1 O 4 e 0.1816 -0.0032 0.2584 1
+ Cr Cr 4 e 0.3134 0.1657 0.199 1
+ O3 O 4 e 0.3387 0.1129 0.0148 1
+ O4 O 4 e 0.6089 0.2098 0.3794 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.14
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'JEOL JDX-3500'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 702
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0703
+_pd_proc_ls_proof_wR_factor              0.0903
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ -1 0 1 5.434 9
+ 1 1 0 4.952 7
+ 0 1 1 4.818 14
+ -1 1 1 4.342 18
+ 1 0 1 4.176 6
+ 1 1 1 3.616 24
+ 2 0 0 3.396 6
+ 0 0 2 3.229 4
+ 1 2 0 3.191 100
+ 0 2 1 3.156 1
+ 2 1 0 3.075 16
+ -1 1 2 2.974 25
+ 0 1 2 2.949 67
+ -2 0 2 2.718 20
+ -2 1 2 2.543 21
+ 1 1 2 2.5 11
+ 2 2 0 2.476 7
+ -1 2 2 2.423 4
+ -3 0 1 2.334 3
+ 1 3 0 2.274 1
+ 0 3 1 2.259 14
+ -1 0 3 2.223 27
+ 2 2 1 2.179 12
+ 3 1 0 2.163 1
+ -1 1 3 2.127 0.9
+ 1 3 1 2.088 2
+ -3 1 2 2.044 2
+ 2 1 2 2.006 34
+ 3 0 1 1.984 3
+ -2 3 1 1.964 8
+ -1 3 2 1.939 31
+ 3 2 0 1.9203 18
+ -1 2 3 1.8961 0.9
+ 0 2 3 1.8512 6
+ -3 2 2 1.8365 19
+ -3 0 3 1.8085 10
+ -2 3 2 1.8032 4
+ 1 3 2 1.788 24
+ 1 4 0 1.7478 12
+ -1 4 1 1.7167 0.9
+ -4 1 1 1.709 1
+ 4 0 0 1.6949 12
+ 1 4 1 1.6715 1
+ 4 1 0 1.6543 6
+ -3 3 0 1.6516 6
+ -2 0 4 1.6311 5
+ 3 1 2 1.6221 3
+ 0 0 4 1.6164 5
+ 0 3 3 1.6122 0.9
+ -3 3 2 1.5969 10
+ -2 1 4 1.5923 6
+ -1 4 2 1.5784 3
+ 4 2 0 1.5396 0.9
+ -4 2 2 1.5359 2
+ -1 2 4 1.5181 5
+ 3 2 2 1.5132 1
+ 2 4 1 1.5074 1
+ -2 4 2 1.5052 2
+ 2 2 3 1.4925 3
+ -2 2 4 1.4874 0.9
+ -3 1 4 1.4814 2
+ 0 2 4 1.4751 0.9
+ 4 2 1 1.4223 4
+ -4 2 3 1.4189 2
+ 3 4 0 1.4139 4
+ -1 4 3 1.4037 1
+ -1 5 1 1.3982 1
+ -3 2 4 1.3956 2
+ 3 0 3 1.3927 1
+ 0 4 3 1.3857 1
+ 1 2 4 1.3757 14
+ 3 3 2 1.3704 8
+ 4 0 2 1.3665 2
+
+# End of data set 1021047
+
+

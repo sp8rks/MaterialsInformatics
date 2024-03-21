@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# H-K-Li-N-O-S     # KLi[SO3NH2]2                                  # 1616645 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1616645
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1616645
+
+# Entry summary
+
+_chemical_formula_structural             'K Li [S O~3~ N H~2~]~2~'
+_chemical_formula_sum                    'H4 K Li N2 O6 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KLi[SO~3~NH~2~]~2~,mP24,4
+_chemical_formula_weight                 238.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures of sulfamates MeLi(NH~2~SO~3~)~2~ (Me: K, Rb and Cs) and physical properties of KLi(NH~2~SO~3~)~2~ (refractive indices, thermal expansion, elastic properties)
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            2001
+_journal_volume                          216
+_journal_page_first                      513
+_journal_page_last                       521
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Meinhart A.'
+;
+Berlin Free University
+Institut f\"ur Kristallographie
+Berlin
+Germany
+;
+'Hauss\"uhl E.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Kristallographie
+Zurich
+Switzerland
+;
+'Bohaty L.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Kristallographie
+Cologne (K\"oln)
+Germany
+;
+'Tillmanns E.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.196
+_cell_length_b                           8.475
+_cell_length_c                           8.868
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.05
+_cell_angle_gamma                        90
+_cell_volume                             377.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ Li
+ K
+ N
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O12 O 2 a 0.0065 0.2286 0.1777 1
+ O13 O 2 a 0.0188 0.4685 0.9326 1
+ O11 O 2 a 0.035 0.0 0.3429 1
+ O23 O 2 a 0.0852 0.083 0.7248 1
+ S1 S 2 a 0.09226 0.06529 0.2047 1
+ Li Li 2 a 0.0925 0.4563 0.1573 1
+ K K 2 a 0.20198 0.7587 0.5351 1
+ S2 S 2 a 0.36397 0.12631 0.74872 1
+ O21 O 2 a 0.4009 0.2369 0.6314 1
+ N1 N 2 a 0.4172 0.069 0.2405 1
+ O22 O 2 a 0.4661 0.4881 0.2374 1
+ N2 N 2 a 0.5554 0.7105 0.078 1
+ H22 H 2 a 0.32 0.3077 0.922 1
+ H21 H 2 a 0.404 0.7287 0.058 1
+ H11 H 2 a 0.45 0.0917 0.156 1
+ H12 H 2 a 0.526 0.4837 0.724 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.10
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    8216
+_exptl_absorpt_coefficient_mu            1.25
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             126
+_refine_ls_number_reflns                 3397
+_refine_ls_R_factor_gt                   0.0258
+_refine_ls_wR_factor_gt                  0.0559
+
+# End of data set 1616645
+
+

@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Ba-K-O-P         # KBa2P5O15                                     # 1200232 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1200232
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1200232
+
+# Entry summary
+
+_chemical_formula_structural             'K Ba~2~ P~5~ O~15~'
+_chemical_formula_sum                    'Ba2 K O15 P5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KBa~2~P~5~O~15~,mP46,7
+_chemical_formula_weight                 708.6
+
+# Bibliographic data
+
+_publ_section_title
+'Barium-potassium polyphosphate, Ba~2~K(PO~3~)~5~'                            
+_journal_coden_ASTM                      CSCMCS
+_journal_name_full                       'Cryst. Struct. Commun.'
+_journal_year                            1972
+_journal_volume                          1
+_journal_page_first                      349
+_journal_page_last                       352
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Martin C.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire des Rayons X
+Grenoble
+France
+;
+'Tordjman I.'
+;
+Strasbourg Louis Pasteur University
+Laboratoire de Chimie
+Strasbourg
+France
+;
+'Mitschler A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire des Rayons X
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.646
+_cell_length_b                           7.329
+_cell_length_c                           13.7294
+_cell_angle_alpha                        90
+_cell_angle_beta                         128.371
+_cell_angle_gamma                        90
+_cell_volume                             682.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Ba
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Oe21 O 2 a 0.0 0.12454 0.0 1
+ Oe31 O 2 a 0.00057 0.50335 0.08241 1
+ P2 P 2 a 0.01551 0.05096 0.1051 1
+ Oi23 O 2 a 0.04924 0.16146 0.6034 1
+ P3 P 2 a 0.05505 0.65653 0.16865 1
+ Oi12 O 2 a 0.20877 0.11026 0.23542 1
+ Oe51 O 2 a 0.2229 0.25975 0.46087 1
+ Ba2 Ba 2 a 0.223 0.37291 0.00004 1
+ Oe32 O 2 a 0.23939 0.64726 0.29929 1
+ P5 P 2 a 0.40344 0.14911 0.50998 1
+ Oe52 O 2 a 0.40382 0.05177 0.01943 1
+ P1 P 2 a 0.43751 0.15976 0.30854 1
+ Oe11 O 2 a 0.46333 0.32653 0.25835 1
+ Oi51 O 2 a 0.49298 0.21153 0.43825 1
+ Oe12 O 2 a 0.54255 0.00586 0.81686 1
+ Oi45 O 2 a 0.58341 0.23593 0.64827 1
+ Oe42 O 2 a 0.61957 0.45027 0.09107 1
+ Ba1 Ba 2 a 0.63341 0.66205 0.41093 1
+ P4 P 2 a 0.72608 0.59993 0.18286 1
+ K K 2 a 0.81719 0.14548 0.29055 1
+ Oe41 O 2 a 0.8249 0.55267 0.31607 1
+ Oe22 O 2 a 0.85155 0.0877 0.10861 1
+ Oi34 O 2 a 0.88144 0.69911 0.17733 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.45
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka1'
+_cell_measurement_wavelength             0.70926
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Picker
+_diffrn_radiation_type                   'X-rays, Mo Ka1'
+_diffrn_radiation_wavelength             0.70926
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.053
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1200232
+
+

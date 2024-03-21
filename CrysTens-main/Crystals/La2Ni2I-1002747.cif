@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# I-La-Ni          # La2Ni2I hex1                                  # 1002747 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1002747
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1002747
+
+# Entry summary
+
+_chemical_formula_structural             'La~2~ Ni~2~ I'
+_chemical_formula_sum                    'I La2 Ni2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~2~Ni~2~I,hP5,187
+_chemical_formula_weight                 522.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+New Condensed Cluster Structure with Triple Metal Layers: La~2~INi~2~ and La~2~ICu~2~. Synthesis, Structure, and Bonding
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1998
+_journal_volume                          37
+_journal_page_first                      3385
+_journal_page_last                       3390
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hong S.T.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+'Martin J.D.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+'Corbett J.D.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.1387
+_cell_length_b                           4.1387
+_cell_length_c                           8.814
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             130.7
+_cell_formula_units_Z                    1
+_space_group_IT_number                   187
+_space_group_name_H-M_alt                'P -6 m 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, z'
+ 6 '-y, -x, -z'
+ 7 '-y, -x, z'
+ 8 '-y, x-y, -z'
+ 9 '-y, x-y, z'
+ 10 'x, x-y, -z'
+ 11 'x, x-y, z'
+ 12 'x, y, -z'
+loop_
+ _atom_type_symbol
+ La
+ Ni
+ I
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ La La 2 i 0.666667 0.333333 0.2124 1
+ Ni1 Ni 1 c 0.333333 0.666667 0 1
+ I I 1 b 0 0 0.5 1
+ Ni2 Ni 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.63
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54056
+_pd_proc_wavelength                      1.54056
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC6R'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            28.897
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0182
+_refine_ls_wR_factor_gt                  0.0196
+
+# End of data set 1002747
+
+

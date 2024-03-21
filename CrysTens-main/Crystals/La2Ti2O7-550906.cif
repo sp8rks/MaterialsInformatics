@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# La-O-Ti          # La2Ti2O7 rt                                   #  550906 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_550906
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      550906
+
+# Entry summary
+
+_chemical_formula_structural             'La~2~ Ti~2~ O~7~'
+_chemical_formula_sum                    'La2 O7 Ti2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~2~Ti~2~O~7~,mP44,4
+_chemical_formula_weight                 485.6
+
+# Bibliographic data
+
+_publ_section_title
+'The systems TiO~2~-Ln~2~O~3~ under the influence of shock waves'             
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            1979
+_journal_volume                          15
+_journal_page_first                      1724
+_journal_page_last                       1729
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Shcherbakova L.G.'
+;
+Russian Academy of Sciences
+Institute of Chemical Physics
+Chernogolovka
+Russia
+;
+'Kolesnikov A.V.'
+;
+Russian Academy of Sciences
+Institute of Chemical Physics
+Moscow
+Russia
+;
+'Breusov O.N.'
+;
+Russian Academy of Sciences
+Institute of Chemical Physics
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.81
+_cell_length_b                           5.42
+_cell_length_c                           13
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.35
+_cell_angle_gamma                        90
+_cell_volume                             544.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Ti
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 2 a 0.0302 0.3262 0.0159 1
+ O2 O 2 a 0.0309 0.7603 0.1866 1
+ Ti1 Ti 2 a 0.0315 0.0676 0.11873 1
+ Ti2 Ti 2 a 0.0787 0.5988 0.32308 1
+ O3 O 2 a 0.0875 0.8608 0.4087 1
+ O4 O 2 a 0.0991 0.2698 0.2263 1
+ O5 O 2 a 0.1208 0.3793 0.4313 1
+ La1 La 2 a 0.1476 0.6492 0.58402 1
+ O6 O 2 a 0.1745 0.0225 0.6958 1
+ La2 La 2 a 0.22601 0.0625 0.90054 1
+ O7 O 2 a 0.2737 0.0 0.0934 1
+ La3 La 2 a 0.27895 0.558 0.11366 1
+ O8 O 2 a 0.3277 0.6262 0.3098 1
+ La4 La 2 a 0.35036 0.1107 0.39101 1
+ O9 O 2 a 0.3839 0.3721 0.6009 1
+ Ti3 Ti 2 a 0.4166 0.1023 0.67368 1
+ O10 O 2 a 0.4388 0.2561 0.814 1
+ O11 O 2 a 0.4776 0.3271 0.018 1
+ O12 O 2 a 0.5141 0.2619 0.2295 1
+ Ti4 Ti 2 a 0.5273 0.0663 0.12005 1
+ O13 O 2 a 0.5992 0.3861 0.4394 1
+ O14 O 2 a 0.7763 0.0998 0.1058 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.92
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 550906
+
+

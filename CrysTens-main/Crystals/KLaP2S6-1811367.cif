@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# K-La-P-S         # KLaP2S6                                       # 1811367 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1811367
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1811367
+
+# Entry summary
+
+_chemical_formula_structural             'K La P~2~ S~6~'
+_chemical_formula_sum                    'K La P2 S6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KLaP~2~Se~6~,mP40,14
+_chemical_formula_weight                 432.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Thiophosphate Phase Diagrams Developed in Conjunction with the Synthesis of the New Compounds KLaP~2~S~6~, K~2~La(P~2~S~6~)~1/2~(PS~4~), K~3~La(PS~4~)~2~, K~4~La~0.67~(PS~4~)~2~, K~4~Eu(PS~4~)~2~, K~9-x~La~1+x/3~(PS~4~)~4~ (x= 0.5), and KEuPS~4~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2001
+_journal_volume                          40
+_journal_page_first                      2884
+_journal_page_last                       2891
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Evenson C.R.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+'Dorhout P.K.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.963
+_cell_length_b                           7.525
+_cell_length_c                           11.389
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.88
+_cell_angle_gamma                        90
+_cell_volume                             964.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ K
+ P
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 4 e 0.1125 0.0233 0.3659 1
+ S5 S 4 e 0.1262 0.2032 0.0896 1
+ K1 K 4 e 0.1291 0.5921 0.3744 1
+ P1 P 4 e 0.2079 0.1184 0.2659 1
+ S6 S 4 e 0.2199 0.7131 0.143 1
+ S1 S 4 e 0.3235 0.3073 0.3631 1
+ La1 La 4 e 0.3495 0.394 0.0963 1
+ S2 S 4 e 0.4439 0.0152 0.1828 1
+ S4 S 4 e 0.591 0.3133 0.0689 1
+ P2 P 4 e 0.6742 0.3985 0.247 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.98
+_cell_measurement_temperature            169
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              169
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    6077
+_exptl_absorpt_coefficient_mu            6.415
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             92
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0583
+_refine_ls_wR_factor_gt                  0.1120
+
+# End of data set 1811367
+
+

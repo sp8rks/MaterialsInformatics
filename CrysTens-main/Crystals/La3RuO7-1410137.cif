@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# La-O-Ru          # La3RuO7 rt                                    # 1410137 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1410137
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1410137
+
+# Entry summary
+
+_chemical_formula_structural             'La~3~ Ru O~7~'
+_chemical_formula_sum                    'La3 O7 Ru'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~3~RuO~7~,mP44,14
+_chemical_formula_weight                 629.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+The Structure and Properties of \b-La~3~RuO~7~: A New Structure Type with Isolated RuO~6~ Octahedra
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2002
+_journal_volume                          165
+_journal_page_first                      359
+_journal_page_last                       362
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Khalifah P.G.'
+;
+New Jersey Princeton University
+Department of Chemistry
+Princeton
+U.S.A. New Jersey
+;
+'Ho D.M.'
+;
+New Jersey Princeton University
+Department of Chemistry
+Princeton
+U.S.A. New Jersey
+;
+'Huang Q.'
+;
+National Institute of Standards and Technology (NIST)
+Center for Neutron Research
+Gaithersburg
+U.S.A. Maryland
+;
+'Cava R.J.'
+;
+New Jersey Princeton University
+Department of Chemistry
+Princeton
+U.S.A. New Jersey
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.8388
+_cell_length_b                           5.696
+_cell_length_c                           12.583
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.729
+_cell_angle_gamma                        90
+_cell_volume                             612.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ La
+ Ru
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 O 4 e 0.0083 0.2375 0.0103 1
+ O4 O 4 e 0.0672 0.044 0.3262 1
+ La3 La 4 e 0.0693 0.4911 0.3669 1
+ La2 La 4 e 0.203 0.518 0.0727 1
+ O5 O 4 e 0.2615 0.3416 0.2528 1
+ Ru Ru 4 e 0.2857 0.0434 0.3333 1
+ O3 O 4 e 0.33 0.2654 0.4658 1
+ La1 La 4 e 0.4978 0.0217 0.14 1
+ O2 O 4 e 0.5079 0.0567 0.3328 1
+ O6 O 4 e 0.6891 0.259 0.0727 1
+ O1 O 4 e 0.7511 0.3744 0.3031 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.83
+_cell_measurement_temperature            298
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.5401
+_pd_proc_wavelength                      1.5401
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'U.S.A. Maryland, Gaithersburg, NIST Center for Neutron Research, NBSR, BT-1' 
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.5401
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 84
+_pd_proc_2theta_range_min                3
+_pd_proc_2theta_range_max                168
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0381
+_pd_proc_ls_proof_wR_factor              0.0309
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1410137
+
+

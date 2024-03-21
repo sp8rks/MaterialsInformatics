@@ -1,0 +1,186 @@
+##############################################################################
+#                                                                            #
+# As-Ce-K-O        # K3Ce[AsO4]2                                   # 1817845 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1817845
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1817845
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Ce [As O~4~]~2~'
+_chemical_formula_sum                    'As2 Ce K3 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~Nd[PO~4~]~2~,mP28,11
+_chemical_formula_weight                 535.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Pr\'eparation et \'etude structurale du tripotassium c\'erium(III) bis-ars\'eniate: K~3~Ce(AsO~4~)~2~
+;
+_journal_coden_ASTM                      JSCTDP
+_journal_name_full                       'J. Soc. Chim. Tunis.'
+_journal_year                            2000
+_journal_volume                          4
+_journal_page_first                      715
+_journal_page_last                       722
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Belam W.'
+;
+Tunis El Manar Faculty of Sciences
+D\'epartement de Chimie
+Tunis
+Tunisia
+;
+'Zid M.F.'
+;
+Tunis El Manar Faculty of Sciences
+Tunis
+Tunisia
+;
+'Driss A.'
+;
+Tunis Faculty of Sciences
+D\'epartement de Chimie
+Tunis
+Tunisia
+;
+'Daoud A.'
+;
+Ecole Nationale d'Ing\'enieurs de Sfax
+Laboratoire de l'Etat Solide
+Sfax
+Tunisia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.607
+_cell_length_b                           5.837
+_cell_length_c                           9.879
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.2
+_cell_angle_gamma                        90
+_cell_volume                             438.55
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ As
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 f 0.345 0.014 0.1615 1
+ O2 O 4 f 0.7532 0.015 0.3395 1
+ O6 O 2 e 0.045 0.25 0.103 1
+ K3 K 2 e 0.1384 0.25 0.4094 1
+ As2 As 2 e 0.2621 0.25 0.0855 1
+ O1 O 2 e 0.316 0.25 0.9236 1
+ Ce Ce 2 e 0.4909 0.25 0.7121 1
+ O4 O 2 e 0.479 0.25 0.452 1
+ As1 As 2 e 0.6952 0.25 0.4267 1
+ K1 K 2 e 0.702 0.25 0.0837 1
+ O3 O 2 e 0.79 0.25 0.5814 1
+ K2 K 2 e 0.9939 0.25 0.8036 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.05
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    901
+_diffrn_reflns_theta_min                 2.68
+_diffrn_reflns_theta_max                 24.97
+_exptl_absorpt_coefficient_mu            14.115
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             80
+_refine_ls_number_reflns                 851
+_refine_ls_R_factor_gt                   0.038
+_refine_ls_wR_factor_gt                  0.103
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 75.83 100
+ 1 0 1 59.47 5
+ 0 1 1 50.17 5
+ 0 0 2 49.31 6
+ 1 1 1 41.63 16
+ 2 0 0 37.9 10
+ 2 0 1 35.12 9
+ 1 1 -2 33.96 4
+ 1 1 2 33.48 4
+ 2 1 0 31.77 12
+ 2 1 1 30.08 84
+ 1 0 3 29.92 18
+ 0 1 3 28.64 11
+ 1 2 -1 26.27 5
+ 3 0 -1 24.62 28
+ 3 0 -2 22.71 14
+ 1 1 -4 21.88 8
+ 2 0 -4 20.87 11
+ 3 0 3 19.82 6
+ 3 2 0 19.1 55
+ 3 2 -2 17.92 17
+ 2 3 1 16.99 10
+
+# End of data set 1817845
+
+

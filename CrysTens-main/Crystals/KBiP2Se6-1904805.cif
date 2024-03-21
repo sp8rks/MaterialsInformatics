@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Bi-K-P-Se        # KBiP2Se6 mon                                  # 1904805 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904805
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904805
+
+# Entry summary
+
+_chemical_formula_structural             'K Bi P~2~ Se~6~'
+_chemical_formula_sum                    'Bi K P2 Se6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KBiP~2~Se~6~,mP40,14
+_chemical_formula_weight                 783.8
+_chemical_melting_point                  827
+
+# Bibliographic data
+
+_publ_section_title
+;
+Coordination Chemistry of [P~2~Se~6~]^4-^ in Molten Fluxes. Isolation of the Structurally Complex KMP~2~Se~6~ (M= Sb, Bi)
+;
+_journal_coden_ASTM                      JCCCAT
+_journal_name_full                       'J. Chem. Soc., Chem. Commun.'
+_journal_year                            1994
+_journal_volume                          ?
+_journal_page_first                      1089
+_journal_page_last                       1090
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'McCarthy T.J.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.403
+_cell_length_b                           7.595
+_cell_length_c                           12.412
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.58
+_cell_angle_gamma                        90
+_cell_volume                             1087.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Bi
+ P
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se4 Se 4 e 0.0576 0.1882 0.1116 1
+ Se5 Se 4 e 0.1159 0.6839 0.1871 1
+ Bi Bi 4 e 0.11808 0.3454 0.3319 1
+ P2 P 4 e 0.2397 0.0936 0.185 1
+ Se2 Se 4 e 0.3109 0.0012 0.0618 1
+ Se3 Se 4 e 0.3371 0.2999 0.3056 1
+ Se6 Se 4 e 0.5903 0.2689 0.1159 1
+ K K 4 e 0.5911 0.0818 0.3613 1
+ P1 P 4 e 0.7623 0.3729 0.1963 1
+ Se1 Se 4 e 0.8373 0.4936 0.0763 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.79
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2170
+_exptl_absorpt_coefficient_mu            36.675
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            ?
+_refine_ls_number_parameters             92
+_refine_ls_number_reflns                 1228
+_refine_ls_R_factor_gt                   0.039
+_refine_ls_wR_factor_gt                  0.045
+
+# End of data set 1904805
+
+

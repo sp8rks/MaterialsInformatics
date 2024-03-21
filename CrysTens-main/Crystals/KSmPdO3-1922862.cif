@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# K-O-Pd-Sm        # KSmPdO3                                       # 1922862 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1922862
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1922862
+
+# Entry summary
+
+_chemical_formula_structural             'K Sm Pd O~3~'
+_chemical_formula_sum                    'K O3 Pd Sm'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KLaPdO~3~,mS24,12
+_chemical_formula_weight                 343.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal growth and structural characterization of the new ordered palladates LnKPdO~3~ (Ln= La, Pr, Nd, Sm-Gd) and the isostructural, partially Cu-substituted palladate PrK(Cu~0.14~Pd~0.86~)O~3~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2007
+_journal_volume                          46
+_journal_page_first                      3116
+_journal_page_last                       3122
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mugavero S.J.'
+;
+South Carolina Columbia University
+Department of Chemistry and Biochemistry
+Columbia
+U.S.A. South Carolina
+;
+'Smith M.D.'
+;
+South Carolina Columbia University
+Department of Chemistry and Biochemistry
+Columbia
+U.S.A. South Carolina
+;
+'Zur Loye H.C.'
+;
+South Carolina Columbia University
+Department of Chemistry and Biochemistry
+Columbia
+U.S.A. South Carolina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.1015
+_cell_length_b                           3.9281
+_cell_length_c                           7.34
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.684
+_cell_angle_gamma                        90
+_cell_volume                             365.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ Sm
+ Pd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 i 0.0057 0 0.304 1
+ K1 K 4 i 0.14318 0 0.0643 1
+ Sm1 Sm 4 i 0.15042 0 0.57821 1
+ O1 O 4 i 0.3305 0 0.6299 1
+ O3 O 4 i 0.3475 0 0.2239 1
+ Pd1 Pd 4 i 0.50683 0 0.27905 1
+
+
+_exptl_crystal_colour                    'brown golden'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.25
+_cell_measurement_temperature            294(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              294(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3420
+_exptl_absorpt_coefficient_mu            21.792
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             37
+_refine_ls_number_reflns                 638
+_refine_ls_R_factor_gt                   0.0428
+_refine_ls_wR_factor_gt                  0.0697
+
+# End of data set 1922862
+
+

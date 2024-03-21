@@ -1,0 +1,161 @@
+##############################################################################
+#                                                                            #
+# K-Na-O-Zn        # KNaZnO2                                       # 1706054 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1706054
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1706054
+
+# Entry summary
+
+_chemical_formula_structural             'K Na Zn O~2~'
+_chemical_formula_sum                    'K Na O2 Zn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNaZnO~2~,mP20,14
+_chemical_formula_weight                 159.5
+
+# Bibliographic data
+
+_publ_section_title
+'Ein neues Oxozincat: \"Uber KNaZnO~2~'                                       
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1984
+_journal_volume                          511
+_journal_page_first                      161
+_journal_page_last                       175
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hoppe R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Baier R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.824
+_cell_length_b                           9.7
+_cell_length_c                           5.513
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.73
+_cell_angle_gamma                        90
+_cell_volume                             302.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Zn
+ K
+ Na
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0869 0.1355 0.2034 1
+ Zn Zn 4 e 0.2523 0.2584 0.0052 1
+ K K 4 e 0.2565 0.6232 0.0149 1
+ O2 O 4 e 0.4456 0.352 0.2998 1
+ Na Na 4 e 0.7405 0.0226 0.0066 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              3.36
+_exptl_crystal_density_diffrn            3.50
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54178
+_pd_proc_wavelength                      1.54178
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1921
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            9.111
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 619
+_refine_ls_R_factor_gt                   0.0920
+_refine_ls_wR_factor_gt                  0.0951
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 250 800
+ 0 2 0 253 350
+ 1 2 1 739.2 400
+ 2 0 0 743.1 600
+ 1 3 0 754.2 1000
+ 0 3 1 775.4 250
+ 2 1 -1 828.7 600
+ 1 1 -2 896 50
+ 2 2 0 996.2 150
+ 0 2 2 1081.6 100
+ 2 0 -2 1199.1 600
+ 1 1 2 1263.6 150
+ 2 3 -1 1331.5 400
+ 1 3 -2 1396.2 600
+ 2 2 -2 1452 100
+ 2 3 1 1704.9 100
+ 2 4 0 1751.4 200
+ 1 5 0 1768.7 400
+ 0 4 2 1838.8 150
+
+# End of data set 1706054
+
+

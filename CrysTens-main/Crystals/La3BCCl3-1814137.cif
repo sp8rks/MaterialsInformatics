@@ -1,0 +1,163 @@
+##############################################################################
+#                                                                            #
+# B-C-Cl-La        # La3BCCl3                                      # 1814137 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814137
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814137
+
+# Entry summary
+
+_chemical_formula_structural             'La~3~ B C Cl~3~'
+_chemical_formula_sum                    'B C Cl3 La3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~3~BCCl~3~,mP16,11
+_chemical_formula_weight                 545.9
+
+# Bibliographic data
+
+_publ_section_title
+'La~3~Cl~3~BC - Structure, Bonding and Electrical Conductivity'               
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2005
+_journal_volume                          60
+_journal_page_first                      499
+_journal_page_last                       504
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zeng H.Y.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Okudera H.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Zheng C.'
+;
+Northern Illinois De Kalb University
+Department of Chemistry and Biochemistry
+De Kalb
+U.S.A. Illinois
+;
+'Mattausch H.J.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Kremer R.K.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Simon A.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.204
+_cell_length_b                           3.8824
+_cell_length_c                           11.328
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.82
+_cell_angle_gamma                        90
+_cell_volume                             354.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ B
+ C
+ La
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ B B 2 e 0.029 0.25 0.04 1
+ C C 2 e 0.107 0.25 0.1832 1
+ La1 La 2 e 0.1109 0.25 0.8091 1
+ La2 La 2 e 0.2183 0.25 0.4007 1
+ Cl3 Cl 2 e 0.5235 0.25 0.6336 1
+ Cl1 Cl 2 e 0.5917 0.25 0.1247 1
+ La3 La 2 e 0.7036 0.25 0.8861 1
+ Cl2 Cl 2 e 0.8541 0.25 0.4061 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.12
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2313
+_diffrn_reflns_theta_min                 2.53
+_diffrn_reflns_theta_max                 24.98
+_exptl_absorpt_coefficient_mu            18.765
+_exptl_absorpt_correction_type           numerical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             44
+_refine_ls_number_reflns                 728
+_refine_ls_R_factor_gt                   0.0237
+_refine_ls_wR_factor_gt                  0.0606
+
+# End of data set 1814137
+
+

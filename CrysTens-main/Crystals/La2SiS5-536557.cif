@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# La-S-Si          # La2SiS5                                       #  536557 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_536557
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      536557
+
+# Entry summary
+
+_chemical_formula_structural             'La~2~ Si S~5~'
+_chemical_formula_sum                    'La2 S5 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~2~GeS~5~,mP32,14
+_chemical_formula_weight                 466.2
+
+# Bibliographic data
+
+_publ_section_title
+'Etude structurale des syst\`emes Ln~2~S~3~-GeS~2~'                           
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1975
+_journal_volume                          13
+_journal_page_first                      65
+_journal_page_last                       76
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Michelet A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie Structurale
+Paris
+France
+;
+'Mazurier M.A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie Structurale
+Paris
+France
+;
+'Collin G.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie Structurale
+Paris
+France
+;
+'Laruelle P.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie Structurale
+Paris
+France
+;
+'Flahaut J.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie Structurale
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.606
+_cell_length_b                           12.627
+_cell_length_c                           7.857
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.55
+_cell_angle_gamma                        90
+_cell_volume                             739.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ S
+ La
+ Si
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 4 e 0.1287 0.2949 0.1977 1
+ S2 S 4 e 0.1387 0.621 0.4996 1
+ La1 La 4 e 0.1599 0.6667 0.1351 1
+ S3 S 4 e 0.1706 0.0259 0.3815 1
+ La2 La 4 e 0.2395 0.0935 0.0419 1
+ Si1 Si 4 e 0.338 0.3835 0.0912 1
+ S4 S 4 e 0.5349 0.2674 0.0474 1
+ S5 S 4 e 0.5784 0.0061 0.2163 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.19
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 536557
+
+

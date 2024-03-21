@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Au-C-Cl-H-K-N-O  # KAu[CN]2Cl2[H2O]                              # 1021479 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1021479
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1021479
+
+# Entry summary
+
+_chemical_formula_structural             'K Au [C N]~2~ Cl~2~ [H~2~ O]'
+_chemical_formula_sum                    'Au C2 Cl2 H2 K N2 O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAu[CN]~2~Cl~2~[H~2~O],mS36,15
+_chemical_formula_weight                 377.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural organization and dimensionality at the hands of weak intermolecular Au...Au, Au...X and X...X (X= Cl, Br, I) interactions
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2012
+_journal_volume                          41
+_journal_page_first                      1345
+_journal_page_last                       1351
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ovens J.S.'
+;
+Burnaby Simon Fraser University
+Department of Chemistry
+Burnaby
+Canada
+;
+'Truong K.N.'
+;
+Burnaby Simon Fraser University
+Department of Chemistry
+Burnaby
+Canada
+;
+'Leznoff D.B.'
+;
+Burnaby Simon Fraser University
+Department of Chemistry
+Burnaby
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           17.345
+_cell_length_b                           7.712
+_cell_length_c                           6.126
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.399
+_cell_angle_gamma                        90
+_cell_volume                             803.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ C
+ N
+ K
+ Au
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 8 f 0.18202 0.1462 0.2583 1
+ C1 C 8 f 0.3526 0.1661 0.1925 1
+ N1 N 8 f 0.4069 0.1247 0.2958 1
+ K1 K 4 e 0 0.3164 0.25 1
+ Au1 Au 4 c 0.25 0.25 0 1
+ O1 OH2 4 a 0 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.12
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            2733
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4668
+_diffrn_reflns_theta_min                 2.396
+_diffrn_reflns_theta_max                 28.409
+_exptl_absorpt_coefficient_mu            19.420
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             45
+_refine_ls_number_reflns                 671
+_refine_ls_R_factor_gt                   0.0191
+_refine_ls_wR_factor_gt                  0.0269
+
+# End of data set 1021479
+
+

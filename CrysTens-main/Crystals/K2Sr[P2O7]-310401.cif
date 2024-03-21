@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# K-O-P-Sr         # K2Sr[P2O7]                                    #  310401 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_310401
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      310401
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Sr [P~2~ O~7~]'
+_chemical_formula_sum                    'K2 O7 P2 Sr'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Ca[As~2~O~7~],mP48,14
+_chemical_formula_weight                 339.8
+_chemical_melting_point                  1348
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure refinement of K~2~SrP~2~O~7~'                              
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            1991
+_journal_volume                          27
+_journal_page_first                      1692
+_journal_page_last                       1694
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Trunov V.K.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Oboznenko Y.V.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Sirotinkin S.P.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Tskhelashvili N.B.'
+;
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.168
+_cell_length_b                           5.712
+_cell_length_c                           14.72
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.79
+_cell_angle_gamma                        90
+_cell_volume                             741.76
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ P
+ Sr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(3) O 4 e -0.014 0.728 0.3116 1
+ K(2) K 4 e 0.0323 0.7322 0.1127 1
+ O(5) O 4 e 0.182 0.198 0.0827 1
+ P(1) P 4 e 0.1812 0.2309 0.1939 1
+ O(1) O 4 e 0.259 0.463 0.2267 1
+ O(4) O 4 e 0.265 0.018 0.244 1
+ O(6) O 4 e 0.266 0.555 0.0117 1
+ O(7) O 4 e 0.285 0.342 0.4444 1
+ P(2) P 4 e 0.308 0.3006 0.034 1
+ O(2) O 4 e 0.461 0.267 0.1064 1
+ K(1) K 4 e 0.5347 0.264 0.3356 1
+ Sr Sr 4 e 0.7373 0.2274 0.1324 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.04
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    2439
+_diffrn_reflns_theta_min                 0
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 848
+_refine_ls_R_factor_gt                   0.062
+_refine_ls_wR_factor_gt                  0.074
+
+# End of data set 310401
+
+

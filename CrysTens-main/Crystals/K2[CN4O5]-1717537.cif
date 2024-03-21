@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# C-K-N-O          # K2[CN4O5]                                     # 1717537 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1717537
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1717537
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ [C N~4~ O~5~]'
+_chemical_formula_sum                    'C K2 N4 O5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~[CN~4~O~5~],mP48,14
+_chemical_formula_weight                 226.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Physicochemical studies of the structure of N,N'-dinitrourea and its salts
+;
+_journal_coden_ASTM                      JSTCAM
+_journal_name_full                       'J. Struct. Chem.'
+_journal_year                            2009
+_journal_volume                          50
+_journal_page_first                      1066
+_journal_page_last                       1070
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Il'yasov S.G.'
+;
+Russian Academy of Sciences
+Institute of Chemical Energetic Technologies
+Biysk
+Russia
+;
+'Lobanova A.A.'
+;
+Federal Scientific and Production Center Altai
+Biysk
+Russia
+;
+'Bagryanskaya I.Y.'
+;
+Russian Academy of Sciences
+Institute of Organic Chemistry
+Novosibirsk
+Russia
+;
+'Rybalova T.V.'
+;
+Russian Academy of Sciences
+Institute of Organic Chemistry
+Novosibirsk
+Russia
+;
+'Gatilov Y.V.'
+;
+Russian Academy of Sciences
+Institute of Organic Chemistry
+Novosibirsk
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.8308
+_cell_length_b                           7.3295
+_cell_length_c                           14.1409
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.411
+_cell_angle_gamma                        90
+_cell_volume                             667.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ N
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.01289 0.2075 0.46717 1
+ O1 O 4 e 0.06892 0.16202 0.14766 1
+ K1 K 4 e 0.13558 0.54141 0.22149 1
+ N2 N 4 e 0.16543 0.30106 0.47043 1
+ O3 O 4 e 0.22242 0.3112 0.39477 1
+ C1 C 4 e 0.23346 0.11696 0.13762 1
+ N1 N 4 e 0.28592 0.1103 0.05073 1
+ N3 N 4 e 0.41614 0.07326 0.21635 1
+ O5 O 4 e 0.44911 0.49143 0.12661 1
+ N4 N 4 e 0.60539 0.49111 0.20567 1
+ K2 K 4 e 0.66018 0.24451 0.01768 1
+ O4 O 4 e 0.76426 0.40338 0.20712 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.25
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS P4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2093
+_exptl_absorpt_coefficient_mu            1.409
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             110
+_refine_ls_number_reflns                 1843
+_refine_ls_R_factor_gt                   0.0254
+_refine_ls_wR_factor_gt                  0.0684
+
+# End of data set 1717537
+
+

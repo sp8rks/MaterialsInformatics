@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# La-O-Re          # La3ReO8 ht                                    # 1706144 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1706144
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1706144
+
+# Entry summary
+
+_chemical_formula_structural             'La~3~ Re O~8~'
+_chemical_formula_sum                    'La3 O8 Re'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~3~ReO~8~,mP24,11
+_chemical_formula_weight                 730.9
+
+# Bibliographic data
+
+_publ_section_title
+'Preparation and Crystal Structure of La~3~ReO~8~'                            
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1984
+_journal_volume                          510
+_journal_page_first                      46
+_journal_page_last                       50
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rae Smith A.R.'
+;
+Oxford University
+Department of Chemical Crystallography
+Oxford
+United Kingdom
+;
+'Cheetham A.K.'
+;
+Oxford University
+Department of Chemical Crystallography
+Oxford
+United Kingdom
+;
+'Fuess H.'
+;
+Oxford University
+Department of Chemical Crystallography
+Oxford
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.757
+_cell_length_b                           5.928
+_cell_length_c                           7.777
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.1
+_cell_angle_gamma                        90
+_cell_volume                             333.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ La
+ Re
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 f 0.1912 0.0672 0.806 1
+ O1 O 4 f 0.3381 0.0044 0.3384 1
+ O5 O 2 e 0.0117 0.25 0.3867 1
+ O6 O 2 e 0.0312 0.25 0.1172 1
+ La1 La 2 e 0.339 0.25 0.1071 1
+ La2 La 2 e 0.3982 0.25 0.6022 1
+ O3 O 2 e 0.6009 0.25 0.9891 1
+ O4 O 2 e 0.648 0.25 0.344 1
+ Re Re 2 e 0.8186 0.25 0.1813 1
+ La3 La 2 e 0.8927 0.25 0.6616 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.28
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4F'
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    1356
+_diffrn_reflns_theta_min                 0
+_diffrn_reflns_theta_max                 28
+_exptl_absorpt_coefficient_mu            38.1
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 751
+_refine_ls_R_factor_gt                   0.073
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1706144
+
+

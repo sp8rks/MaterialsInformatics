@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Bi-K             # KBi                                           # 1708894 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1708894
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1708894
+
+# Entry summary
+
+_chemical_formula_structural             'K Bi'
+_chemical_formula_sum                    'Bi K'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsSb,mP32,14
+_chemical_formula_weight                 248.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Alkalimetallbismutide ABi und ABi~2~ (A= K, Rb, Cs) - Synthesen, Kristallstrukturen, Eigenschaften
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2004
+_journal_volume                          630
+_journal_page_first                      171
+_journal_page_last                       178
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Emmerling F.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'L\"angin N.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'Petri D.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'Kroeker M.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'R\"ohr C.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.223
+_cell_length_b                           7.248
+_cell_length_c                           13.42
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.03
+_cell_angle_gamma                        90
+_cell_volume                             1273.18
+_cell_formula_units_Z                    16
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Bi
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Bi1 Bi 4 e 0.07595 0.62903 0.18188 1
+ Bi2 Bi 4 e 0.11431 0.37154 0.37507 1
+ A1 K 4 e 0.1194 0.118 0.1472 1
+ A2 K 4 e 0.3946 0.3005 0.0391 1
+ Bi3 Bi 4 e 0.3908 0.06517 0.27459 1
+ Bi4 Bi 4 e 0.58183 0.29761 0.39095 1
+ A3 K 4 e 0.6537 0.0714 0.1911 1
+ A4 K 4 e 0.8482 0.3608 0.0538 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.18
+_cell_measurement_temperature            213(5)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              213(5)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    9222
+_diffrn_reflns_theta_min                 1.56
+_diffrn_reflns_theta_max                 28.3
+_exptl_absorpt_coefficient_mu            56.360
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             74
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0391
+_refine_ls_wR_factor_gt                  0.0890
+
+# End of data set 1708894
+
+

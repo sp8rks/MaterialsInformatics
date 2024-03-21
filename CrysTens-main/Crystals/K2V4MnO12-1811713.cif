@@ -1,0 +1,202 @@
+##############################################################################
+#                                                                            #
+# K-Mn-O-V         # K2V4MnO12                                     # 1811713 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1811713
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1811713
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ V~4~ Mn O~12~'
+_chemical_formula_sum                    'K2 Mn O12 V4'
+_chemical_name_mineral                   ronneburgite
+_chemical_compound_source
+'Germany, Thuringia, Ronneburg, Lichtenberg open-cast pit'                    
+_chemical_name_structure_type            K~2~V~4~MnO~12~,mP38,14
+_chemical_formula_weight                 528.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ronneburgite, K~2~MnV~4~O~12~, a new mineral from Ronneburg, Thuringia, Germany: Description and crystal structure
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2001
+_journal_volume                          86
+_journal_page_first                      1081
+_journal_page_last                       1086
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Witzke T.'
+;
+Halle Martin Luther University
+Institut f\"ur Geologische Wissenschaften, Mineralogie/Geochemie
+Halle
+Germany
+;
+'Zhen S.'
+;
+Hawaii Honolulu University
+Department of Chemistry
+Honolulu
+U.S.A. Hawaii
+;
+'Seff K.'
+;
+Hawaii Honolulu University
+Department of Chemistry
+Honolulu
+U.S.A. Hawaii
+;
+'Doering T.'
+;
+Leipzig Karl Marx University
+Institut f\"ur Mineralogie, Kristallographie und Materialwissenschaft
+Leipzig
+Germany
+;
+'Nasdala L.'
+;
+Mainz Johannes Gutenberg University
+Institut f\"ur Geowissenschaften und Mineralogie
+Mainz
+Germany
+;
+'Kolitsch U.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.183
+_cell_length_b                           9.247
+_cell_length_c                           9.6944
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.867
+_cell_angle_gamma                        90
+_cell_volume                             616.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ V
+ O
+ K
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ V2 V 4 e 0.04058 0.05765 0.23944 1
+ O6 O 4 e 0.1001 0.8941 0.2273 1
+ O2 O 4 e 0.1318 0.1842 0.1565 1
+ O1 O 4 e 0.1389 0.0915 0.456 1
+ O5 O 4 e 0.2001 0.5736 0.365 1
+ K K 4 e 0.2345 0.6975 0.0925 1
+ V1 V 4 e 0.28767 0.28758 0.12071 1
+ O4 O 4 e 0.4247 0.1832 0.0858 1
+ O3 O 4 e 0.4388 0.3831 0.287 1
+ Mn Mn 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    'brown reddish'
+_exptl_crystal_density_meas              2.84
+_exptl_crystal_density_diffrn            2.85
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            34
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens P3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2724
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             89
+_refine_ls_number_reflns                 1846
+_refine_ls_R_factor_gt                   0.046
+_refine_ls_wR_factor_gt                  0.107
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ -1 0 1 68.64 25
+ 0 1 1 61.05 20
+ 1 1 0 59.14 27
+ -1 1 1 55.09 32
+ 1 1 1 42.69 9
+ 1 2 0 39.57 25
+ 2 0 0 38.41 18
+ -2 1 1 37.01 55
+ 1 2 1 33.36 100
+ -1 2 2 31.18 50
+ 0 2 2 30.48 17
+ 1 1 2 30 36
+ -1 0 3 28.78 64
+ -2 2 2 27.52 68
+ -1 2 3 24.37 14
+ 2 0 2 24.13 14
+ 0 2 3 23.39 8
+ 0 4 0 23.08 9
+ 1 4 0 22.1 17
+ 2 2 2 21.32 7
+ -2 1 4 20.65 10
+ -4 0 2 20.17 10
+ -2 4 1 20.01 8
+ 3 3 0 19.68 28
+ 2 1 3 18.84 19
+ -4 1 3 18.6 28
+ -3 2 4 17.91 18
+ 2 2 3 17.77 7
+
+# End of data set 1811713
+
+

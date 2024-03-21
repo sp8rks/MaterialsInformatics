@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# La-O-Re          # La3Re2O10                                     # 2041364 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2041364
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2041364
+
+# Entry summary
+
+_chemical_formula_structural             'La~3~ Re~2~ O~10~'
+_chemical_formula_sum                    'La3 O10 Re2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~3~Os~2~O~10~,mS30,12
+_chemical_formula_weight                 949.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Preparation and crystal structure of La~3~Re~2~O~10~: An example of metal-metal bonding within Re~2~O~10~ units
+;
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1986
+_journal_volume                          116
+_journal_page_first                      293
+_journal_page_last                       299
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Torardi C.C.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+'Sleight A.W.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.901
+_cell_length_b                           7.866
+_cell_length_c                           7.115
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.44
+_cell_angle_gamma                        90
+_cell_volume                             399.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Re
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.3635 0.2352 0.2878 1
+ O2 O 4 i 0.0963 0 0.2189 1
+ O4 O 4 i 0.3246 0 0.0267 1
+ O1 O 4 i 0.3545 0 0.5978 1
+ Re1 Re 4 i 0.36454 0 0.32572 1
+ La2 La 4 g 0 0.25651 0 1
+ La1 La 2 c 0 0 0.5 1
+
+
+_exptl_crystal_colour                    'violet dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.89
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            21
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          'Syntex R3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1078
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            46.45
+_exptl_absorpt_correction_type           'analytical and empirical'
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 479
+_refine_ls_R_factor_gt                   0.036
+_refine_ls_wR_factor_gt                  0.043
+
+# End of data set 2041364
+
+

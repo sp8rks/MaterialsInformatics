@@ -1,0 +1,131 @@
+##############################################################################
+#                                                                            #
+# F-K-Ta           # K2TaF7 mon                                    # 1814291 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814291
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814291
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Ta F~7~'
+_chemical_formula_sum                    'F7 K2 Ta'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~NbF~7~,mP40,14
+_chemical_formula_weight                 392.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structures of Complex Fluorides. Potassium Heptafluocolumbate and Potassium Heptafluotantalate. The Configuration of the Heptafluocolumbate and Heptafluotantalate Ions
+;
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            1939
+_journal_volume                          61
+_journal_page_first                      1252
+_journal_page_last                       1259
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hoard J.L.'
+;
+New York Ithaca Cornell University
+Baker Laboratory of Chemistry
+Ithaca
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.85
+_cell_length_b                           12.67
+_cell_length_c                           8.5
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.
+_cell_angle_gamma                        90
+_cell_volume                             630
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ F
+ K
+ Ta
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 e 0.0448 0.1072 0.388 1
+ F2 F 4 e 0.0463 0.2431 0.1994 1
+ F3 F 4 e 0.1875 0.1216 0.0063 1
+ F4 F 4 e 0.2166 0.5207 0.7159 1
+ K1 K 4 e 0.2374 0.7845 0.0554 1
+ K2 K 4 e 0.2397 0.4404 0.1833 1
+ Ta1 Ta 4 e 0.2718 0.1288 0.2229 1
+ F5 F 4 e 0.4573 0.2567 0.2114 1
+ F6 F 4 e 0.4599 0.1107 0.4101 1
+ F7 F 4 e 0.5572 0.0792 0.1317 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.13
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'oscillation photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1814291
+
+

@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# B-K-O-Ta         # K3Ta3[BO3]2O6                                 # 1905237 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1905237
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1905237
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Ta~3~ B~2~ O~12~'
+_chemical_formula_sum                    'B2 K3 O12 Ta3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~Ta~3~[BO~3~]~2~O~6~,hP20,189
+_chemical_formula_weight                 873.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Piezoelectric K~3~Ta~3~B~2~O~12~: Crystal structure at room temperature and crystal growth
+;
+_journal_coden_ASTM                      JCPSA6
+_journal_name_full                       'J. Chem. Phys.'
+_journal_year                            1981
+_journal_volume                          75
+_journal_page_first                      5456
+_journal_page_last                       5460
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Abrahams S.C.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+'Zyontz L.E.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+'Bernstein J.L.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+'Remeika J.P.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+'Cooper A.S.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.7816
+_cell_length_b                           8.7816
+_cell_length_c                           3.899
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             260.4
+_cell_formula_units_Z                    1
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ Ta
+ B
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 6 j 0.1872 0.5035 0 1
+ O1 O 3 g 0.2628 0 0.5 1
+ K K 3 g 0.5957 0 0.5 1
+ Ta Ta 3 f 0.24637 0 0 1
+ O2 O 3 f 0.8185 0 0 1
+ B B 2 c 0.333333 0.666667 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              5.61(19)
+_exptl_crystal_density_diffrn            5.57
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    11541
+_exptl_absorpt_coefficient_mu            34.7
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             26
+_refine_ls_number_reflns                 1050
+_refine_ls_R_factor_gt                   0.0133
+_refine_ls_wR_factor_gt                  0.0167
+
+# End of data set 1905237
+
+

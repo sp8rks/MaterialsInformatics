@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# Bi-K-O           # KBiO2                                         # 1702101 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702101
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702101
+
+# Entry summary
+
+_chemical_formula_structural             'K Bi O~2~'
+_chemical_formula_sum                    'Bi K O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KSbS~2~,mS16,15
+_chemical_formula_weight                 280.1
+_chemical_melting_point                  1036
+
+# Bibliographic data
+
+_publ_section_title
+;
+Single Crystal Structure Determination on KBiO~2~ and RbBiO~2~ and a Crystal Chemical Comparison of MBiO~2~ (M= Na, K, Rb, Cs)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1998
+_journal_volume                          624
+_journal_page_first                      205
+_journal_page_last                       208
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zoche N.'
+;
+Bonn Rheinich Friedrich Wilhelm University
+Institut f\"ur Anorganische Chemie
+Bonn
+Germany
+;
+'Jansen M.'
+;
+Bonn Rheinich Friedrich Wilhelm University
+Institut f\"ur Anorganische Chemie
+Bonn
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.8313
+_cell_length_b                           7.9092
+_cell_length_c                           5.9686
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.81
+_cell_angle_gamma                        90
+_cell_volume                             303.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ Bi
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O O 8 f 0.189 0.4356 0.224 1
+ K K 4 e 0 0.1299 0.25 1
+ Bi Bi 4 e 0 0.605 0.25 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            37
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1987
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             21
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.027
+_refine_ls_wR_factor_gt                  0.069
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 49.944 82
+ -1 1 1 46.885 34
+ 0 2 0 39.567 27
+ 2 0 0 32.162 55
+ 0 2 1 30.785 91
+ 1 1 1 29.09 52
+ -2 2 1 27.755 100
+ -1 1 2 27.308 31
+ 0 0 2 24.511 61
+
+# End of data set 1702101
+
+

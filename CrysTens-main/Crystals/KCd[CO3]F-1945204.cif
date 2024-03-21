@@ -1,0 +1,127 @@
+##############################################################################
+#                                                                            #
+# C-Cd-F-K-O       # KCd[CO3]F                                     # 1945204 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1945204
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1945204
+
+# Entry summary
+
+_chemical_formula_structural             'K Cd [C O~3~] F'
+_chemical_formula_sum                    'C Cd F K O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KCd[CO~3~]F,hP14,188
+_chemical_formula_weight                 230.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural modulation of anionic group architectures by cations to optimize SHG effects: A facile route to new NLO materials in the ATCO~3~F (A= K, Rb; T= Zn, Cd) series
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2015
+_journal_volume                          27
+_journal_page_first                      7520
+_journal_page_last                       7530
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.1349
+_cell_length_b                           5.1349
+_cell_length_c                           8.846
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             202
+_cell_formula_units_Z                    2
+_space_group_IT_number                   188
+_space_group_name_H-M_alt                'P -6 c 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, 1/2+z'
+ 6 '-y, -x, -z'
+ 7 '-y, -x, 1/2+z'
+ 8 '-y, x-y, 1/2-z'
+ 9 '-y, x-y, z'
+ 10 'x, x-y, -z'
+ 11 'x, x-y, 1/2+z'
+ 12 'x, y, 1/2-z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ C
+ Cd
+ F
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 6 k 0.0547 0.4609 0.25 1
+ K1 K 2 e 0.666667 0.333333 0 1
+ C1 C 2 d 0.333333 0.666667 0.25 1
+ Cd1 Cd 2 b 0 0 0.25 1
+ F1 F 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.79
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            458
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Mercury'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1264
+_diffrn_reflns_theta_min                 4.58
+_diffrn_reflns_theta_max                 27.47
+_exptl_absorpt_coefficient_mu            6.327
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             15
+_refine_ls_number_reflns                 166
+_refine_ls_R_factor_gt                   0.0104
+_refine_ls_wR_factor_gt                  0.0247
+
+# End of data set 1945204
+
+

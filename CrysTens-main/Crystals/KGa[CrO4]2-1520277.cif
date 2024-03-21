@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Cr-Ga-K-O        # KGa[CrO4]2                                    # 1520277 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1520277
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1520277
+
+# Entry summary
+
+_chemical_formula_structural             'K Ga [Cr O~4~]~2~'
+_chemical_formula_sum                    'Cr2 Ga K O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KFe[SO~4~]~2~,mS24,12
+_chemical_formula_weight                 340.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structural characterization, thermal stability and electrical properties of the new phases M^1+^Ga(CrO~4~)~2~ (M^1+^= Na, K, Rb)
+;
+_journal_coden_ASTM                      JMACEP
+_journal_name_full                       'J. Mater. Chem.'
+_journal_year                            1998
+_journal_volume                          8
+_journal_page_first                      2077
+_journal_page_last                       2080
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Saavedra M.J.'
+;
+Madrid Complutense University
+Departamento de Quimica Inorganica
+Madrid
+Spain
+;
+'Parada C.'
+;
+Madrid Complutense University
+Departamento de Quimica Inorganica
+Madrid
+Spain
+;
+'Rojo J.M.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales
+Madrid
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.57
+_cell_length_b                           5.4612
+_cell_length_c                           7.6343
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.184
+_cell_angle_gamma                        90
+_cell_volume                             355.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Cr
+ K
+ Ga
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.4818 0.2433 0.1913 1
+ O1 O 4 i 0.2293 0 0.0595 1
+ O2 O 4 i 0.3049 0 0.4049 1
+ Cr Cr 4 i 0.3749 0 0.2068 1
+ K K 2 c 0 0 0.5 1
+ Ga Ga 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.18
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54098
+_pd_proc_wavelength                      1.54098
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D500'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54098
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 35
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                70
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.083
+_pd_proc_ls_proof_wR_factor              0.0756
+_refine_ls_R_I_factor                    0.0309
+
+# End of data set 1520277
+
+

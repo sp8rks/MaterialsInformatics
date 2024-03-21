@@ -1,0 +1,161 @@
+##############################################################################
+#                                                                            #
+# Bi-Ge-K-S        # KGeBiS4                                       # 1224100 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1224100
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1224100
+
+# Entry summary
+
+_chemical_formula_structural             'K Ge Bi S~4~'
+_chemical_formula_sum                    'Bi Ge K S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            RbBiSiS~4~,mP28,14
+_chemical_formula_weight                 448.9
+
+# Bibliographic data
+
+_publ_section_title
+'KBiMS~4~ (M= Si, Ge): Synthesis, structure, and electronic structure'        
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2010
+_journal_volume                          183
+_journal_page_first                      1640
+_journal_page_last                       1644
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mei D.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Lin Z.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Bai L.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Yao J.L.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Fu P.Z.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Wu Y.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5981
+_cell_length_b                           6.8149
+_cell_length_c                           17.284
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.46
+_cell_angle_gamma                        90
+_cell_volume                             737.19
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Ge
+ Bi
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 4 e -0.0019 0.0047 0.13788 1
+ S1 S 4 e 0.0147 0.0167 0.37413 1
+ Ge Ge 4 e 0.20436 0.26785 0.15286 1
+ Bi Bi 4 e 0.23494 0.6775 0.28271 1
+ K K 4 e 0.2875 0.7414 0.03605 1
+ S4 S 4 e 0.4024 0.3219 0.28254 1
+ S2 S 4 e 0.419 0.2317 0.07928 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.04
+_cell_measurement_temperature            93
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              93
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC10'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            29.495
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0296
+_refine_ls_wR_factor_gt                  0.0571
+
+# End of data set 1224100
+
+

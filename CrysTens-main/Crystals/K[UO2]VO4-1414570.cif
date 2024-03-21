@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# K-O-U-V          # K[UO2]VO4                                     # 1414570 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1414570
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1414570
+
+# Entry summary
+
+_chemical_formula_structural             'K [U O~2~] V O~4~'
+_chemical_formula_sum                    'K O6 U V'
+_chemical_name_mineral                   carnotite
+_chemical_compound_source                ?
+_chemical_name_structure_type            K[UO~2~]VO~4~,mP36,14
+_chemical_formula_weight                 424.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Carnotite analogues: Synthesis, structure and properties of the Na~1-x~K~x~UO~2~VO~4~ solid solution (0 <= x <= 1)
+;
+_journal_coden_ASTM                      JMACEP
+_journal_name_full                       'J. Mater. Chem.'
+_journal_year                            1993
+_journal_volume                          3
+_journal_page_first                      459
+_journal_page_last                       463
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Abraham F.'
+;
+Villeneuve d'Ascq Lille University of Sciences and Technologies
+Laboratoire de Cristallochimie et de Physicochimie du Solide
+Villeneuve d'Ascq
+France
+;
+'Dion C.'
+;
+Ecole Nationale Sup\'erieure de Chimie de Lille
+Laboratoire de Cristallochimie et de Physicochimie du Solide
+Villeneuve d'Ascq
+France
+;
+'Saadi M.'
+;
+Ecole Nationale Sup\'erieure de Chimie de Lille
+Laboratoire de Cristallochimie et de Physicochimie du Solide
+Villeneuve d'Ascq
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.592
+_cell_length_b                           8.396
+_cell_length_c                           10.46
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.05
+_cell_angle_gamma                        90
+_cell_volume                             561.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ U
+ O
+ V
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ U U 4 e 0.01581 0.52296 0.31955 1
+ O1 O 4 e 0.0385 0.3446 0.4931 1
+ O6 O 4 e 0.0486 0.5622 0.1071 1
+ O4 O 4 e 0.0966 0.2905 0.2161 1
+ V V 4 e 0.118 0.3517 0.0528 1
+ O2 O 4 e 0.3612 0.3676 0.0552 1
+ K K 4 e 0.5413 0.2256 0.3503 1
+ O3 O 4 e 0.7098 0.0707 0.1277 1
+ O5 O 4 e 0.7424 0.4753 0.2669 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.00
+_exptl_crystal_density_diffrn            5.02
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    3482
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            29.6
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             193
+_refine_ls_number_reflns                 2883
+_refine_ls_R_factor_gt                   0.029
+_refine_ls_wR_factor_gt                  0.039
+
+# End of data set 1414570
+
+

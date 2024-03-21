@@ -1,0 +1,129 @@
+##############################################################################
+#                                                                            #
+# Ag-K-N-O         # KAg[NO3]2                                     # 1713325 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1713325
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1713325
+
+# Entry summary
+
+_chemical_formula_structural             'K Ag [N O~3~]~2~'
+_chemical_formula_sum                    'Ag K N2 O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAg[NO~3~]~2~,mP40,14
+_chemical_formula_weight                 271.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Die Kristallstruktur der isotypen Verbindungen KAg(NO~3~)~2~, NH~4~Ag(NO~3~)~2~ und RbAg(NO~3~)~2~
+;
+_journal_coden_ASTM                      MOCMB7
+_journal_name_full                       'Monatsh. Chem.'
+_journal_year                            1980
+_journal_volume                          111
+_journal_page_first                      1253
+_journal_page_last                       1263
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zobetz E.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.22
+_cell_length_b                           4.955
+_cell_length_c                           13.953
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.76
+_cell_angle_gamma                        90
+_cell_volume                             563.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ O
+ K
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N2 N 4 e 0.0604 0.1393 0.1629 1
+ O6 O 4 e 0.0711 0.5189 0.3576 1
+ O4 O 4 e 0.0798 0.3655 0.1236 1
+ O5 O 4 e 0.1746 0.0531 0.2241 1
+ X K 4 e 0.2367 0.0497 0.4374 1
+ Ag Ag 4 e 0.30053 0.58285 0.21984 1
+ O3 O 4 e 0.3237 0.5364 0.54 1
+ N1 N 4 e 0.4386 0.0379 0.1006 1
+ O2 O 4 e 0.4801 0.2811 0.1058 1
+ O1 O 4 e 0.4846 0.3721 0.3425 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.219
+_exptl_crystal_density_diffrn            3.20
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI 2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            4.03
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1346
+_refine_ls_R_factor_gt                   0.034
+_refine_ls_wR_factor_gt                  0.038
+
+# End of data set 1713325
+
+

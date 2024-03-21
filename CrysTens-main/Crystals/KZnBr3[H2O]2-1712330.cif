@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Br-H-K-O-Zn      # KZnBr3[H2O]2 mon                              # 1712330 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1712330
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1712330
+
+# Entry summary
+
+_chemical_formula_structural             'K Zn Br~3~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Br3 H4 K O2 Zn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KZnBr~3~[H~2~O]~2~,mP28,14
+_chemical_formula_weight                 380.2
+
+# Bibliographic data
+
+_publ_section_title
+'Hydrogen bondings in \a-KZnBr~3~.2H~2~O'                                     
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1974
+_journal_volume                          406
+_journal_page_first                      62
+_journal_page_last                       68
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Brehler B.'
+;
+Clausthal-Zellerfeld Technical University - Bergakademie
+Institut f\"ur Mineralogie und Kristallographie
+Clausthal-Zellerfeld
+Germany
+;
+'Holinski R.'
+;
+Clausthal-Zellerfeld Technical University - Bergakademie
+Institut f\"ur Mineralogie und Kristallographie
+Clausthal-Zellerfeld
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.71
+_cell_length_b                           12.42
+_cell_length_c                           11.1172
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.721
+_cell_angle_gamma                        90
+_cell_volume                             827.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Br
+ Zn
+ K
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ H2O-2 O 4 e 0.0708 0.3163 0.1824 1
+ Br2 Br 4 e 0.1178 0.6072 0.1685 1
+ Br1 Br 4 e 0.2726 0.1021 0.024 1
+ H2O-1 O 4 e 0.3949 0.187 0.3547 1
+ Zn Zn 4 e 0.4988 0.0726 0.2587 1
+ Br3 Br 4 e 0.5735 0.4001 0.1752 1
+ K K 4 e 0.7704 0.1702 0.0066 1
+ H3 H 4 e 0.002 0.862 0.287 1
+ H4 H 4 e 0.17 0.356 0.16 1
+ H1 H 4 e 0.304 0.247 0.285 1
+ H2 H 4 e 0.411 0.175 0.443 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.05
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1544
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1712330
+
+

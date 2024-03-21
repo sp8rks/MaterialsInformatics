@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Br-K-Te          # K2TeBr6 rt                                    #  546581 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_546581
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      546581
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Te Br~6~'
+_chemical_formula_sum                    'Br6 K2 Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~TeBr~6~,mP18,14
+_chemical_formula_weight                 685.2
+
+# Bibliographic data
+
+_publ_section_title
+'Solid Solutions in the K~2~TeBr~6~-Rb~2~TeBr~6~-HBr-H~2~O System at 25 \%C'  
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1980
+_journal_volume                          25
+_journal_page_first                      1093
+_journal_page_last                       1095
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Knyazeva A.N.'
+;
+Scientific Research Institute of Chemical Reagents and Ultrapure Chemicals
+;
+'Starikova Z.A.'
+;
+Russian Academy of Sciences
+Scientific Research Institute of Chemical Reagents and Ultrapure Chemicals
+Moscow
+Russia
+;
+'Shchegoleva T.M.'
+;
+Scientific Research Institute of Chemical Reagents and Ultrapure Chemicals
+;
+'Trunov V.K.'
+;
+Russian Academy of Sciences
+All-Union Research Institute of Reagents and Especially Pure Substances
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.52
+_cell_length_b                           7.57
+_cell_length_c                           13.0845
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.91
+_cell_angle_gamma                        90
+_cell_volume                             610.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Br
+ K
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br1 Br 4 e 0.2008 0.002 0.2484 1
+ Br2 Br 4 e 0.2303 0.7128 0.0216 1
+ K1 K 4 e 0.2652 0.4607 0.2553 1
+ Br3 Br 4 e 0.3076 0.2111 0.0234 1
+ Te1 Te 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.73
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier-de Wolff film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 546581
+
+

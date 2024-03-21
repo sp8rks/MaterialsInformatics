@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# As-H-K-O-Se      # KAsSe3[H2O]                                   # 1702980 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702980
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702980
+
+# Entry summary
+
+_chemical_formula_structural             'K As Se~3~ [H~2~ O]'
+_chemical_formula_sum                    'As H2 K O Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAsSe~3~[H~2~O],mS56,15
+_chemical_formula_weight                 368.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+On the alkali selenoarsenates(III) KAsS~3~.H~2~O, RbAsSe~3~.^1^/~2~H~2~O, and CsAsSe~3~.^1^/~2~H~2~O
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1986
+_journal_volume                          535
+_journal_page_first                      179
+_journal_page_last                       185
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sheldrick W.S.'
+;
+Kaiserslautern University
+Fachbereich Chemie
+Kaiserslautern
+Germany
+;
+'Kaub J.'
+;
+Kaiserslautern University
+Fachbereich Chemie
+Kaiserslautern
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           21.891
+_cell_length_b                           5.853
+_cell_length_c                           11.369
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.02
+_cell_angle_gamma                        90
+_cell_volume                             1429.8
+_cell_formula_units_Z                    8
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ K
+ Se
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 OH2 8 f 0.0296 0.2595 0.4726 0.5
+ O2 OH2 8 f 0.0301 0.1226 0.3892 0.5
+ K K 8 f 0.0944 0.1043 0.0821 1
+ Se3 Se 8 f 0.3023 0.063 0.3842 1
+ Se2 Se 8 f 0.3051 0.4953 0.1407 1
+ As As 8 f 0.3131 0.0879 0.1763 1
+ Se1 Se 8 f 0.4207 0.1127 0.2242 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.43
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            20.34
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             64
+_refine_ls_number_reflns                 1329
+_refine_ls_R_factor_gt                   0.039
+_refine_ls_wR_factor_gt                  0.036
+
+# End of data set 1702980
+
+

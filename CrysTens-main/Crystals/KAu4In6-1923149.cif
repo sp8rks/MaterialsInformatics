@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Au-In-K          # KAu4In6                                       # 1923149 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1923149
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1923149
+
+# Entry summary
+
+_chemical_formula_structural             'K Au~4~ In~6~'
+_chemical_formula_sum                    'Au4 In6 K'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            LiCo~6~P~4~,hP11,187
+_chemical_formula_weight                 1515.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Different cation arrangements in Au-In networks. Syntheses and structures of six intermetallic compounds in alkali-metal - Au - In systems
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2007
+_journal_volume                          46
+_journal_page_first                      6022
+_journal_page_last                       6028
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Li B.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory - Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+'Corbett J.D.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory - Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.058
+_cell_length_b                           8.058
+_cell_length_c                           4.4411
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             249.7
+_cell_formula_units_Z                    1
+_space_group_IT_number                   187
+_space_group_name_H-M_alt                'P -6 m 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, z'
+ 6 '-y, -x, -z'
+ 7 '-y, -x, z'
+ 8 '-y, x-y, -z'
+ 9 '-y, x-y, z'
+ 10 'x, x-y, -z'
+ 11 'x, x-y, z'
+ 12 'x, y, -z'
+loop_
+ _atom_type_symbol
+ In
+ Au
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ In1 In 3 k 0.19539 0.80461 0.5 1
+ Au2 Au 3 k 0.79441 0.20559 0.5 1
+ In2 In 3 j 0.53424 0.46576 0 1
+ Au1 Au 1 c 0.333333 0.666667 0 1
+ K K 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            10.08
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            990
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    400
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 28.5
+_exptl_absorpt_coefficient_mu            72.40
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             19
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.026
+_refine_ls_wR_factor_gt                  0.058
+
+# End of data set 1923149
+
+

@@ -1,0 +1,180 @@
+##############################################################################
+#                                                                            #
+# H-K-Ni-O-P       # KNi[PO4][H2O]6                                # 1623315 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1623315
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1623315
+
+# Entry summary
+
+_chemical_formula_structural             'K Ni [P O~4~] [H~2~ O]~6~'
+_chemical_formula_sum                    'H12 K Ni O10 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNi[PO~4~][H~2~O]~6~,mP26,4
+_chemical_formula_weight                 300.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structure and magnetic characterization of two phosphate compounds related with the mineral struvite: KNiPO~4~.6H~2~O and NaNiPO~4~.7H~2~O
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2007
+_journal_volume                          633
+_journal_page_first                      1932
+_journal_page_last                       1936
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Trobajo C.'
+;
+Oviedo University
+Departamento de Quimica Inorganica
+Oviedo
+Spain
+;
+'Salvado M.A.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica y Organica e Inorganica
+Oviedo
+Spain
+;
+'Pertierra P.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica y Organica e Inorganica
+Oviedo
+Spain
+;
+'Alfonso B.F.'
+;
+Oviedo University
+Departamento de Fisica
+Oviedo
+Spain
+;
+'Blanco J.A.'
+;
+Oviedo University
+Departamento de Fisica
+Oviedo
+Spain
+;
+'Khainakov S.A.'
+;
+Oviedo University
+Departamento de Quimica Inorganica
+Oviedo
+Spain
+;
+'Garcia J.R.'
+;
+Oviedo University
+Departamento de Quimica Inorganica
+Oviedo
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.1165
+_cell_length_b                           11.061
+_cell_length_c                           6.8309
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.045
+_cell_angle_gamma                        90
+_cell_volume                             462.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ OH2
+ Ni
+ K
+ O
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ow5 OH2 2 a 0.0019 0.0047 0.0032 1
+ Ow6 OH2 2 a 0.0176 0.0 0.4559 1
+ Ni Ni 2 a 0.1161 0.1217 0.2308 1
+ K K 2 a 0.1386 0.7739 0.2382 1
+ Ow4 OH2 2 a 0.2184 0.2352 0.4723 1
+ Ow3 OH2 2 a 0.2285 0.2411 0.0154 1
+ O4 O 2 a 0.3839 0.4528 0.4484 1
+ O3 O 2 a 0.3894 0.4593 0.0688 1
+ Ow2 OH2 2 a 0.4383 0.0375 0.226 1
+ P P 2 a 0.5097 0.4928 0.2587 1
+ O1 O 2 a 0.5274 0.6288 0.2606 1
+ O2 O 2 a 0.7513 0.4528 0.2593 1
+ Ow1 OH2 2 a 0.7872 0.2115 0.1989 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.16
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Seifert XRD-3000'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 6
+_diffrn_reflns_theta_max                 55
+_pd_proc_2theta_range_min                12
+_pd_proc_2theta_range_max                110
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.127
+_pd_proc_ls_proof_wR_factor              0.161
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1623315
+
+

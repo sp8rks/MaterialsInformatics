@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# K-O-Si-Ti        # K2TiSi6O15 mon2                               # 1804853 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1804853
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1804853
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Ti Si~6~ O~15~'
+_chemical_formula_sum                    'K2 O15 Si6 Ti'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~TiSi~6~O~15~,mP48,4
+_chemical_formula_weight                 534.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+A new mixed framework compound with corrugated [Si~6~O~15~]\\infty layers: K~2~TiSi~6~O~15~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2001
+_journal_volume                          156
+_journal_page_first                      135
+_journal_page_last                       142
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zou X.'
+;
+Stockholm University
+Department of Structural Chemistry
+Stockholm
+Sweden
+;
+'Dadachov M.S.'
+;
+Stockholm University
+Department of Structural Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.916
+_cell_length_b                           12.812
+_cell_length_c                           7.661
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.25
+_cell_angle_gamma                        90
+_cell_volume                             651.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Si
+ Ti
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O10 O 2 a 0.0003 0.2643 0.8972 1
+ O2 O 2 a 0.0375 0.5339 0.3409 1
+ O14 O 2 a 0.0481 0.0921 0.3563 1
+ Si2 Si 2 a 0.0498 0.1266 0.5567 1
+ O5 O 2 a 0.0585 0.0148 0.0241 1
+ O8 O 2 a 0.0889 0.7307 0.4533 1
+ O12 O 2 a 0.1139 0.3609 0.2082 1
+ Si3 Si 2 a 0.1714 0.7837 0.2924 1
+ Si6 Si 2 a 0.1939 0.2858 0.0688 1
+ O3 O 2 a 0.2333 0.9016 0.3346 1
+ Ti1 Ti 2 a 0.2564 0.0432 0.2487 1
+ O13 O 2 a 0.2735 0.1571 0.6809 1
+ O4 O 2 a 0.2936 0.1839 0.1702 1
+ K1 K 2 a 0.3057 0.3863 0.5794 1
+ O9 O 2 a 0.3642 0.3492 0.0014 1
+ O7 O 2 a 0.367 0.7172 0.2778 1
+ O11 O 2 a 0.4243 0.5323 0.1649 1
+ O15 O 2 a 0.4755 0.0667 0.4735 1
+ O6 O 2 a 0.4765 0.0 0.1431 1
+ Si1 Si 2 a 0.4931 0.1147 0.6689 1
+ Si4 Si 2 a 0.5127 0.4504 0.0441 1
+ K2 K 2 a 0.7022 0.1846 0.15 1
+ O1 O 2 a 0.7352 0.4102 0.1629 1
+ Si5 Si 2 a 0.9561 0.4587 0.1641 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.72
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5198
+_diffrn_reflns_theta_min                 3.1
+_diffrn_reflns_theta_max                 27.9
+_exptl_absorpt_coefficient_mu            1.936
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2565
+_refine_ls_R_factor_gt                   0.0329
+_refine_ls_wR_factor_gt                  0.0736
+
+# End of data set 1804853
+
+

@@ -1,0 +1,133 @@
+##############################################################################
+#                                                                            #
+# K-Se-Te          # K2TeSe3                                       # 1703300 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1703300
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1703300
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Te Se~3~'
+_chemical_formula_sum                    'K2 Se3 Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~TeSe~3~,mP24,14
+_chemical_formula_weight                 442.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Selenidotellurate(IV): Darstellung und Kristallstrukturen von Na~2~TeSe~3~ und K~2~TeSe~3~
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1988
+_journal_volume                          183
+_journal_page_first                      193
+_journal_page_last                       200
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zagler R.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+'Eisenmann B.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.181
+_cell_length_b                           6.586
+_cell_length_c                           13.082
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.2
+_cell_angle_gamma                        90
+_cell_volume                             846.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ K
+ Se
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K2 K 4 e 0.1598 0.76 0.0486 1
+ Se3 Se 4 e 0.161 0.649 0.298 1
+ Se2 Se 4 e 0.1789 0.2581 0.0138 1
+ Te Te 4 e 0.2127 0.2839 0.3327 1
+ Se1 Se 4 e 0.4652 0.2536 0.3659 1
+ K1 K 4 e 0.5081 0.2539 0.1237 1
+
+
+_exptl_crystal_colour                    'orange red, for thin crystals'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.47
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1701
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            18.355
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             55
+_refine_ls_number_reflns                 1071
+_refine_ls_R_factor_gt                   0.077
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1703300
+
+

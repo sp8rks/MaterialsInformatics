@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Ge-K-O           # K6[Ge2O7]                                     # 1713317 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1713317
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1713317
+
+# Entry summary
+
+_chemical_formula_structural             'K~6~ [Ge~2~ O~7~]'
+_chemical_formula_sum                    'Ge2 K6 O7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~6~[Ge~2~O~7~],mP30,7
+_chemical_formula_weight                 491.8
+
+# Bibliographic data
+
+_publ_section_title
+'Die Kristallstruktur des Hexakaliumdigermanats, K~6~Ge~2~O~7~'               
+_journal_coden_ASTM                      MOCMB7
+_journal_name_full                       'Monatsh. Chem.'
+_journal_year                            1986
+_journal_volume                          117
+_journal_page_first                      969
+_journal_page_last                       976
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Halwax E.'
+;
+Vienna Technical University
+Institut f\"ur Mineralogie, Kristallographie und Strukturchemie
+Vienna
+Austria
+;
+'V\"ollenkle H.'
+;
+Vienna Technical University
+Institut f\"ur Mineralogie, Kristallographie und Strukturchemie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.549
+_cell_length_b                           9.094
+_cell_length_c                           11.0859
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.36
+_cell_angle_gamma                        90
+_cell_volume                             545.03
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ge
+ K
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ge1 Ge 2 a 0.0 0.1134 0.0 1
+ K6 K 2 a 0.0636 0.5258 0.4042 1
+ O5 O 2 a 0.1752 0.548 0.204 1
+ O3 O 2 a 0.1962 0.033 0.577 1
+ O4 O 2 a 0.2282 0.25 0.124 1
+ K1 K 2 a 0.274 0.0383 0.3509 1
+ Ge2 Ge 2 a 0.3584 0.3901 0.258 1
+ O7 O 2 a 0.4032 0.324 0.418 1
+ K4 K 2 a 0.4756 0.2717 0.6817 1
+ O6 O 2 a 0.6322 0.421 0.273 1
+ K5 K 2 a 0.65 0.0969 0.2134 1
+ K2 K 2 a 0.7014 0.3988 0.0486 1
+ O2 O 2 a 0.7562 0.103 0.018 1
+ K3 K 2 a 0.8934 0.2224 0.5936 1
+ O1 O 2 a 0.9112 0.163 0.827 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.00
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1520
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 28
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure, Fourier synthesis'           
+_refine_ls_number_parameters             52
+_refine_ls_number_reflns                 678
+_refine_ls_R_factor_gt                   0.077
+_refine_ls_wR_factor_gt                  0.097
+
+# End of data set 1713317
+
+

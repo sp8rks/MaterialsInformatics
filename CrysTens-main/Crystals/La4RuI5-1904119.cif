@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# I-La-Ru          # La4RuI5                                       # 1904119 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904119
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904119
+
+# Entry summary
+
+_chemical_formula_structural             'La~4~ Ru I~5~'
+_chemical_formula_sum                    'I5 La4 Ru'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Y~4~CI~5~,mS20,12
+_chemical_formula_weight                 1291.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Heterometallic condensed cluster compounds: Pr~4~I~5~Z (Z= Co, Ru, Os) and La~4~I~5~Ru. Synthesis, structure, and bonding
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1991
+_journal_volume                          30
+_journal_page_first                      1467
+_journal_page_last                       1472
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Payne M.W.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+'Dorhout P.K.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+'Corbett J.D.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           19.5
+_cell_length_b                           4.3136
+_cell_length_c                           9.403
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.85
+_cell_angle_gamma                        90
+_cell_volume                             764.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ La
+ I
+ Ru
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ La1 La 4 i 0.13414 0 0.0678 1
+ I1 I 4 i 0.32883 0 0.1802 1
+ I2 I 4 i 0.33282 0 0.6524 1
+ La2 La 4 i 0.49953 0 0.1917 1
+ I3 I 2 c 0 0 0.5 1
+ Ru1 Ru 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.61
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1904119
+
+

@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Bi-K-P-Se        # KBiP2Se6 m                                    # 1007433 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1007433
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1007433
+
+# Entry summary
+
+_chemical_formula_structural             'K Bi P~2~ Se~6~'
+_chemical_formula_sum                    'Bi K P2 Se6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KSbP~2~Se~6~,mP20,4
+_chemical_formula_weight                 783.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+\b-KMP~2~Se~6~ (M= Sb, Bi): Kinetically Accessible Phases Obtained from Rapid Crystallization of Amorphous Precursors
+;
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            2000
+_journal_volume                          122
+_journal_page_first                      7839
+_journal_page_last                       7840
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Breshears J.D.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.9183
+_cell_length_b                           7.6633
+_cell_length_c                           10.239
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.508
+_cell_angle_gamma                        90
+_cell_volume                             542.65
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Se
+ P
+ K
+ Bi
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se5 Se 2 a 0.0776 0.0185 0.7633 1
+ Se6 Se 2 a 0.0812 0.0 0.2291 1
+ Se4 Se 2 a 0.1516 0.3042 0.5183 1
+ P9 P 2 a 0.1904 0.423 0.3214 1
+ K8 K 2 a 0.1979 0.7182 -0.0017 1
+ P10 P 2 a 0.2974 0.2035 0.2003 1
+ Bi1 Bi 2 a 0.2978 -0.0372 0.4804 1
+ Se7 Se 2 a 0.3298 0.2906 0.003 1
+ Se2 Se 2 a 0.4266 0.6177 0.3207 1
+ Se3 Se 2 a 0.561 0.113 0.3085 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.80
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3330
+_exptl_absorpt_coefficient_mu            36.978
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             92
+_refine_ls_number_reflns                 2382
+_refine_ls_R_factor_gt                   0.0531
+_refine_ls_wR_factor_gt                  0.1119
+
+# End of data set 1007433
+
+

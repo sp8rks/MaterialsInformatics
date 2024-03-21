@@ -1,0 +1,299 @@
+##############################################################################
+#                                                                            #
+# Al-K-O-P         # KAl[P2O7]                                     # 1400150 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1400150
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1400150
+
+# Entry summary
+
+_chemical_formula_structural             'K Al [P~2~ O~7~]'
+_chemical_formula_sum                    'Al K O7 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAl[P~2~O~7~],mP44,14
+_chemical_formula_weight                 240.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Standard X-Ray Diffraction Powder Patterns from The JCPDS Research Associateship
+;
+_journal_coden_ASTM                      PODIE2
+_journal_name_full                       'Powder Diffr.'
+_journal_year                            1986
+_journal_volume                          1
+_journal_page_first                      64
+_journal_page_last                       77
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'McMurdie H.F.'
+;
+International Centre for Diffraction Data (ICDD)
+Newtown Square
+U.S.A. Pennsylvania
+;
+'Morris M.C.'
+;
+International Centre for Diffraction Data (ICDD)
+Newtown Square
+U.S.A. Pennsylvania
+;
+'Evans E.H.'
+;
+International Centre for Diffraction Data (ICDD)
+Newtown Square
+U.S.A. Pennsylvania
+;
+'Paretzkin B.'
+;
+International Centre for Diffraction Data (ICDD)
+Newtown Square
+U.S.A. Pennsylvania
+;
+'Wong Ng W.'
+;
+International Centre for Diffraction Data (ICDD)
+Newtown Square
+U.S.A. Pennsylvania
+;
+'Ettlinger L.D.'
+;
+International Centre for Diffraction Data (ICDD)
+Newtown Square
+U.S.A. Pennsylvania
+;
+'Hubbard C.R.'
+;
+National Institute of Standards and Technology (NIST)
+Gaithersburg
+U.S.A. Maryland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.3305
+_cell_length_b                           9.657
+_cell_length_c                           8.0461
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.935
+_cell_angle_gamma                        90
+_cell_volume                             544.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ P
+ K
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0167 0.0041 0.2762 1
+ O2 O 4 e 0.0865 0.2603 0.2553 1
+ P1 P 4 e 0.12959 0.40439 0.33234 1
+ O3 O 4 e 0.149 0.0905 0.0215 1
+ K1 K 4 e 0.18038 0.68265 0.05451 1
+ Al1 Al 4 e 0.2369 0.09985 0.26048 1
+ O4 O 4 e 0.3216 0.3947 0.0046 1
+ O5 O 4 e 0.3305 0.4514 0.3071 1
+ P2 P 4 e 0.43728 0.3673 0.18908 1
+ O6 O 4 e 0.445 0.2165 0.2451 1
+ O7 O 4 e 0.6363 0.4275 0.2356 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.93
+_cell_measurement_temperature            297.4
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 70.13 3
+ 1 1 0 60.24 4
+ 0 1 1 56.76 26
+ -1 1 1 51.9 4
+ 0 2 0 48.3 2
+ 1 1 1 41.27 19
+ 1 2 0 40.91 17
+ -2 0 1 38.87 17
+ 2 0 0 38.5 38
+ -2 1 1 36.06 7
+ 2 1 0 35.76 8
+ 0 0 2 35.06 4
+ 1 2 1 33.17 26
+ -2 0 2 30.77 14
+ -2 2 1 30.27 22
+ 2 2 0 30.09 6
+ 1 3 0 29.71 17
+ 0 3 1 29.26 64
+ -1 2 2 28.93 100
+ 1 1 2 27.67 0.5
+ 1 3 1 26.312 2
+ -2 2 2 25.951 5
+ -3 1 1 25.765 10
+ 2 2 1 25.619 3
+ -2 3 1 24.786 8
+ 0 4 0 24.139 7
+ -1 1 3 23.691 12
+ -3 1 2 23.62 12
+ 0 0 3 23.371 4
+ -2 0 3 23.205 4
+ 1 4 0 23.031 7
+ 2 0 2 22.823 10
+ 0 1 3 22.72 13
+ 3 2 0 22.659 11
+ -2 1 3 22.56 9
+ -1 4 1 22.486 6
+ -2 3 2 22.239 1
+ -1 2 3 21.801 0.5
+ -3 2 2 21.751 0.5
+ 1 3 2 21.492 6
+ 0 2 3 21.034 11
+ -2 2 3 20.912 2
+ 2 2 2 20.636 9
+ -3 3 1 20.57 14
+ -2 4 1 20.511 7
+ 1 1 3 20.286 2
+ -4 0 1 20.108 6
+ -3 1 3 20.058 4
+ 0 4 2 19.862 5
+ -4 0 2 19.422 3
+ 4 0 0 19.25 11
+ 0 3 3 18.913 4
+ 4 1 0 18.869 8
+ -2 3 3 18.82 6
+ 1 5 0 18.737 4
+ 2 3 2 18.618 2
+ -4 2 1 18.572 1
+ -1 5 1 18.428 8
+ -2 0 4 18.065 6
+ -4 2 2 18.017 8
+ 1 5 1 17.792 3
+ -2 1 4 17.755 3
+ 3 4 0 17.584 0.5
+ 0 0 4 17.533 3
+ 1 3 3 17.443 5
+ 4 0 1 17.313 6
+ 2 5 0 17.268 6
+ -1 2 4 17.101 11
+ -4 3 1 17.054 6
+ 0 5 2 16.918 3
+ 0 4 3 16.792 3
+ -4 3 2 16.629 4
+ 2 4 2 16.583 4
+ 4 3 0 16.515 4
+ 4 2 1 16.3 6
+ 0 6 0 16.094 0.5
+ 3 3 2 15.922 1
+ 1 1 4 15.887 3
+ -5 1 1 15.829 5
+ 1 6 0 15.758 1
+ 1 4 3 15.739 0.5
+ -3 4 3 15.627 2
+ 2 3 3 15.583 3
+ -4 3 3 15.429 1
+ 0 3 4 15.394 1
+ 1 2 4 15.28 3
+ 4 3 1 15.247 5
+ -1 5 3 15.151 14
+ 4 0 2 15.111 12
+ 4 4 0 15.05 2
+ -3 3 4 15.002 2
+ -2 6 1 14.868 3
+ 2 6 0 14.848 3
+ 2 5 2 14.742 0.5
+ -1 6 2 14.701 4
+ 5 2 0 14.665 8
+ 3 4 2 14.593 1
+ -2 1 5 14.452 3
+ -5 2 3 14.344 3
+ 2 1 4 14.286 3
+ 4 4 1 14.069 1
+ -1 2 5 13.946 3
+ -4 3 4 13.878 3
+ 2 2 4 13.841 3
+ -3 6 1 13.789 0.5
+ 3 3 3 13.755 0.5
+ 4 3 2 13.682 0.5
+ 4 5 0 13.632 2
+ -3 2 5 13.592 3
+ 0 7 1 13.536 6
+ -3 6 2 13.427 5
+ 1 4 4 13.397 6
+ -2 3 5 13.309 3
+ -1 3 5 13.273 2
+ 1 7 1 13.204 7
+ 2 6 2 13.154 4
+ 1 1 5 13.02 1
+ 2 7 0 12.986 3
+ 0 7 2 12.838 4
+ 4 4 2 12.81 5
+
+# End of data set 1400150
+
+

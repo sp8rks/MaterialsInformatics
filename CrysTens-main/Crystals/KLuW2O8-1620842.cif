@@ -1,0 +1,181 @@
+##############################################################################
+#                                                                            #
+# K-Lu-O-W         # KLuW2O8 rt                                    # 1620842 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1620842
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1620842
+
+# Entry summary
+
+_chemical_formula_structural             'K Lu W~2~ O~8~'
+_chemical_formula_sum                    'K Lu O8 W2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KYW~2~O~8~,mS48,15
+_chemical_formula_weight                 709.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural redetermination, thermal expansion and refractive indices of KLu(WO~4~)~2~
+;
+_journal_coden_ASTM                      JACGAR
+_journal_name_full                       'J. Appl. Crystallogr.'
+_journal_year                            2006
+_journal_volume                          39
+_journal_page_first                      230
+_journal_page_last                       236
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pujol M.C.'
+;
+Tarragona Rovira i Virgili University
+Laboratorio de Fisica i Cristallografia de Materials (FiCMA)
+Tarragona
+Spain
+;
+'Mateos X.'
+;
+Tarragona Rovira i Virgili University
+Laboratorio de Fisica i Cristallografia de Materials (FiCMA)
+Tarragona
+Spain
+;
+'Aznar A.'
+;
+Tarragona Rovira i Virgili University
+Laboratorio de Fisica i Cristallografia de Materials (FiCMA)
+Tarragona
+Spain
+;
+'Solans X.'
+;
+Barcelona University
+Departamento de Cristallografia, Mineralogia i Diposits Minerals
+Barcelona
+Spain
+;
+'Surinach S.'
+;
+Barcelona University
+Departamento de Cristallografia, Mineralogia i Diposits Minerals
+Barcelona
+Spain
+;
+'Massons J.'
+;
+Tarragona Rovira i Virgili University
+Laboratorio de Fisica i Cristallografia de Materials (FiCMA)
+Tarragona
+Spain
+;
+'Diaz F.'
+;
+Tarragona Rovira i Virgili University
+Laboratorio de Fisica i Cristallografia de Materials (FiCMA)
+Tarragona
+Spain
+;
+'Aguilo M.'
+;
+Tarragona Rovira i Virgili University
+Laboratorio de Fisica i Cristallografia de Materials (FiCMA)
+Tarragona
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.576
+_cell_length_b                           10.214
+_cell_length_c                           7.487
+_cell_angle_alpha                        90
+_cell_angle_beta                         130.68
+_cell_angle_gamma                        90
+_cell_volume                             613.34
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ W
+ Lu
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 f 0.0239 0.393 0.4722 1
+ O1 O 8 f 0.1232 0.0828 0.1879 1
+ O3 O 8 f 0.2835 0.3478 0.3784 1
+ W W 8 f 0.30309 -0.00005 0.26468 1
+ O4 O 8 f 0.2997 0.0749 0.0464 1
+ Lu Lu 4 e 0 0.22841 0.25 1
+ K K 4 e 0 0.7973 0.25 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.69
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1875
+_exptl_absorpt_coefficient_mu            54.071
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 664
+_refine_ls_R_factor_gt                   0.0356
+_refine_ls_wR_factor_gt                  0.0824
+
+# End of data set 1620842
+
+

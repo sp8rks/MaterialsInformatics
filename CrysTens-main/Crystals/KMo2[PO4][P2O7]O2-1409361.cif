@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# K-Mo-O-P         # KMo2[PO4][P2O7]O2 tricl                       # 1409361 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1409361
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1409361
+
+# Entry summary
+
+_chemical_formula_structural             'K Mo~2~ [P O~4~] [P~2~ O~7~] O~2~'
+_chemical_formula_sum                    'K Mo2 O13 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KMo~2~[PO~4~][P~2~O~7~]O~2~,aP38,2
+_chemical_formula_weight                 531.9
+
+# Bibliographic data
+
+_publ_section_title
+'A novel form of molybdenum(V) phosphate: \d-KMo~2~P~3~O~13~'                 
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1989
+_journal_volume                          188
+_journal_page_first                      77
+_journal_page_last                       83
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Leclaire A.'
+;
+Caen University
+Laboratoire de Cristallographie et Sciences des Mat\'eriaux (CRISMAT)
+Caen
+France
+;
+'Borel M.M.'
+;
+Caen University
+Laboratoire de Cristallographie et Sciences des Mat\'eriaux (CRISMAT)
+Caen
+France
+;
+'Grandin A.'
+;
+Caen University
+Laboratoire de Cristallographie et Sciences des Mat\'eriaux (CRISMAT)
+Caen
+France
+;
+'Raveau B.'
+;
+Caen University
+Laboratoire de Cristallographie et Sciences des Mat\'eriaux (CRISMAT)
+Caen
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.846
+_cell_length_b                           8.846
+_cell_length_c                           8.8525
+_cell_angle_alpha                        105.31
+_cell_angle_beta                         111.114
+_cell_angle_gamma                        111.132
+_cell_volume                             537.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   2
+_space_group_name_H-M_alt                'P -1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Mo
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 2 i 0.0332 0.4589 0.1981 1
+ P3 P 2 i 0.061 0.648 0.239 1
+ O2 O 2 i 0.0966 0.3499 0.8989 1
+ O10 O 2 i 0.0978 0.7453 0.4305 1
+ Mo1 Mo 2 i 0.17015 0.32636 0.16264 1
+ O6 O 2 i 0.2296 0.3027 0.3516 1
+ P1 P 2 i 0.25004 0.01054 0.98948 1
+ O13 O 2 i 0.2501 0.7605 0.2392 1
+ O3 O 2 i 0.2927 0.2084 0.06 1
+ O4 O 2 i 0.402 0.5693 0.2543 1
+ O9 O 2 i 0.4035 0.1009 0.6497 1
+ O7 O 2 i 0.4188 0.0004 0.1041 1
+ O11 O 2 i 0.5331 0.1983 0.459 1
+ P2 P 2 i 0.56069 0.23849 0.64796 1
+ Mo2 Mo 2 i 0.67017 0.16262 0.32635 1
+ O12 O 2 i 0.7287 0.351 0.3023 1
+ O8 O 2 i 0.7929 0.0602 0.2087 1
+ O1 O 2 i 0.919 0.1041 0.0006 1
+ K1 K 1 e 0.5 0.5 0 1
+ K2 K 1 b 0 0 0.5 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.29
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 5243
+_refine_ls_R_factor_gt                   0.022
+_refine_ls_wR_factor_gt                  0.026
+
+# End of data set 1409361
+
+

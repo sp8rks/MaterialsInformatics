@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Fe-Ga-La-S       # La3FeGaS7                                     # 1640255 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1640255
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1640255
+
+# Entry summary
+
+_chemical_formula_structural             'La~3~ Fe Ga S~7~'
+_chemical_formula_sum                    'Fe Ga La3 S7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~3~Mn~0.5~SiS~7~,hP24,173
+_chemical_formula_weight                 766.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Rare-earth transition-metal gallium chalcogenides RE~3~MGaCh~7~ (M= Fe, Co, Ni; Ch= S, Se)
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2014
+_journal_volume                          210
+_journal_page_first                      79
+_journal_page_last                       88
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rudyk B.W.'
+;
+Edmonton Alberta University
+Department of Chemistry
+Edmonton
+Canada
+;
+'Stoyko S.S.'
+;
+Edmonton Alberta University
+Department of Chemistry
+Edmonton
+Canada
+;
+'Oliynyk A.O.'
+;
+Edmonton Alberta University
+Department of Chemistry
+Edmonton
+Canada
+;
+'Mar A.'
+;
+Edmonton Alberta University
+Department of Chemistry
+Edmonton
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.1795
+_cell_length_b                           10.1795
+_cell_length_c                           6.0217
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             540.38
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ La
+ Ga
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 6 c 0.09735 0.51801 -0.00732 1
+ S1 S 6 c 0.14445 0.23305 0.25569 1
+ La La 6 c 0.37385 0.14111 0.21973 1
+ Ga Ga 2 b 0.333333 0.666667 0.13943 1
+ S3 S 2 b 0.333333 0.666667 0.5089 1
+ Fe Fe 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    gray
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.71
+_cell_measurement_temperature            173(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            4073
+_diffrn_ambient_temperature              173(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    7861
+_diffrn_reflns_theta_min                 2.31
+_diffrn_reflns_theta_max                 33.31
+_exptl_absorpt_coefficient_mu            16.660
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             39
+_refine_ls_number_reflns                 1263
+_refine_ls_R_factor_gt                   0.0192
+_refine_ls_wR_factor_gt                  0.0308
+
+# End of data set 1640255
+
+

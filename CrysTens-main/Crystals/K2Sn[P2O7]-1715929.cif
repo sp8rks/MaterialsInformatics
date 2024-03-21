@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# K-O-P-Sn         # K2Sn[P2O7]                                    # 1715929 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1715929
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1715929
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Sn [P~2~ O~7~]'
+_chemical_formula_sum                    'K2 O7 P2 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Sn[P~2~O~7~],mP48,14
+_chemical_formula_weight                 370.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and characterization of alkali-metal tin(II) phosphates: Na~10~Sn~31~(HPO~4~)~6~(P~2~O~7~)~6~(PO~4~)~12~ and K~2~SnP~2~O~7~
+;
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2008
+_journal_volume                          10
+_journal_page_first                      1485
+_journal_page_last                       1490
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Weng S.F.'
+;
+Hsinchu National Chiao Tung University
+Institute of Applied Chemistry
+Hsinchu
+Taiwan
+;
+'Chen K.B.'
+;
+Hsinchu National Chiao Tung University
+Institute of Applied Chemistry
+Hsinchu
+Taiwan
+;
+'Lee C.S.'
+;
+Hsinchu National Chiao Tung University
+Institute of Applied Chemistry
+Hsinchu
+Taiwan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.856
+_cell_length_b                           6.7244
+_cell_length_c                           13.083
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.443
+_cell_angle_gamma                        90
+_cell_volume                             769.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ P
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 e 0.0041 0.2566 0.1203 1
+ K1 K 4 e 0.023 0.3551 0.3429 1
+ P2 P 4 e 0.152 0.3612 0.1447 1
+ O3 O 4 e 0.1693 0.3869 0.0342 1
+ O7 O 4 e 0.1802 0.5496 0.2108 1
+ Sn1 Sn 4 e 0.2519 0.6614 0.0046 1
+ O6 O 4 e 0.2852 0.2002 0.2168 1
+ P1 P 4 e 0.3617 0.1309 0.3511 1
+ O4 O 4 e 0.387 0.3095 0.4242 1
+ O1 O 4 e 0.5054 0.0242 0.3652 1
+ K2 K 4 e 0.5131 0.1274 0.1471 1
+ O2 O 4 e 0.7541 0.4834 0.1428 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.20
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1.2
+_diffrn_reflns_theta_max                 28.24
+_exptl_absorpt_coefficient_mu            3.609
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0170
+_refine_ls_wR_factor_gt                  0.0431
+
+# End of data set 1715929
+
+

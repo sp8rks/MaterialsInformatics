@@ -1,0 +1,173 @@
+##############################################################################
+#                                                                            #
+# C-Dy-K-O         # KDy[CO3]2                                     # 1705491 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1705491
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1705491
+
+# Entry summary
+
+_chemical_formula_structural             'K Dy [C O~3~]~2~'
+_chemical_formula_sum                    'C2 Dy K O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KDy[CO~3~]~2~,mS40,15
+_chemical_formula_weight                 321.6
+
+# Bibliographic data
+
+_publ_section_title                      Kalium-Lanthanoid-Carbonate
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1982
+_journal_volume                          486
+_journal_page_first                      221
+_journal_page_last                       228
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kalz H.J.'
+;
+Hannover Gottfried Wilhelm Leibniz University
+Institut f\"ur Anorganische Chemie
+Hannover
+Germany
+;
+'Seidel H.'
+;
+Hannover Gottfried Wilhelm Leibniz University
+Institut f\"ur Anorganische Chemie
+Hannover
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.52
+_cell_length_b                           9.49
+_cell_length_c                           6.94
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.05
+_cell_angle_gamma                        90
+_cell_volume                             523.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ C
+ K
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.0855 0.1185 0.1067 1
+ C1 C 8 f 0.2328 0.1216 0.257 1
+ O2 O 8 f 0.2667 0.0179 0.3821 1
+ O3 O 8 f 0.3295 0.2256 0.2783 1
+ K1 K 4 e 0 0.3803 0.25 1
+ Dy1 Dy 4 e 0 0.9025 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.08
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 72.5 95
+ 1 1 -1 84.9 45
+ 0 2 0 93.4 15
+ 2 0 0 111.6 40
+ 1 1 1 113 15
+ 0 2 1 116.1 55
+ 1 1 -2 136.9 50
+ 0 0 2 137.6 85
+ 2 2 -1 143.1 15
+ 2 0 -2 143.6 100
+ 1 3 -1 158.6 15
+ 3 1 -1 164.7 5
+ 2 2 -2 171.9 10
+ 1 1 2 173.8 10
+ 3 1 0 175.8 15
+ 2 2 1 179.1 50
+ 0 4 0 189.4 10
+ 1 1 -3 201.3 10
+ 0 4 1 202.4 10
+ 2 0 2 208.9 20
+ 3 3 -1 213.7 30
+ 2 4 -1 220.2 10
+ 2 2 -3 221 35
+ 2 4 0 222.2 30
+ 4 0 0 227.9 15
+ 0 2 3 230.6 25
+ 4 2 -1 233.8 20
+ 2 4 -2 240.9 10
+
+# End of data set 1705491
+
+

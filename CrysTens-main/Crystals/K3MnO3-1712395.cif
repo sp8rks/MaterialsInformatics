@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# K-Mn-O           # K3MnO3                                        # 1712395 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1712395
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1712395
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Mn O~3~'
+_chemical_formula_sum                    'K3 Mn O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~MnO~3~,mP28,14
+_chemical_formula_weight                 220.2
+
+# Bibliographic data
+
+_publ_section_title
+'K~6~[Mn~2~O~6~] and K~6~[Fe~2~O~6~] - A comparison'                          
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1978
+_journal_volume                          446
+_journal_page_first                      64
+_journal_page_last                       76
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Brachtel G.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Hoppe R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.6384
+_cell_length_b                           11.394
+_cell_length_c                           6.76
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.914
+_cell_angle_gamma                        90
+_cell_volume                             507.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ K
+ O
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K3 K 4 e 0.0172 0.7258 0.0721 1
+ O1 O 4 e 0.1144 0.5704 0.3985 1
+ Mn Mn 4 e 0.1564 0.005 0.1584 1
+ O2 O 4 e 0.2987 0.1317 0.2765 1
+ K1 K 4 e 0.3479 0.4869 0.1408 1
+ K2 K 4 e 0.5308 0.2093 0.0032 1
+ O3 O 4 e 0.7284 0.381 0.1919 1
+
+
+_exptl_crystal_colour                    'red ruby'
+_exptl_crystal_density_meas              2.78
+_exptl_crystal_density_diffrn            2.88
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54178
+_pd_proc_wavelength                      1.54178
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI 2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            4.72
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1151
+_refine_ls_R_factor_gt                   0.051
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 -1 1 176.8 2
+ 1 0 1 182.9 3
+ 0 1 1 282 10
+ 1 -2 0 600 1
+ 1 -2 1 648.1 5
+ 1 1 1 659.3 3
+ 2 -2 2 711.2 12
+ 3 -2 0 730.9 15
+ 3 -2 1 775.3 2
+ 1 -2 2 783.5 4
+ 3 -1 1 791 1
+ 3 -2 2 912.6 2
+ 2 -2 3 943.9 7
+ 0 2 1 991.6 1
+ 1 1 3 1027.3 2
+ 0 2 2 1127.6 2
+
+# End of data set 1712395
+
+

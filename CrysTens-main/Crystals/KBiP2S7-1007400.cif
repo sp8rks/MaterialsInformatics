@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# Bi-K-P-S         # KBiP2S7                                       # 1007400 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1007400
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1007400
+
+# Entry summary
+
+_chemical_formula_structural             'K Bi P~2~ S~7~'
+_chemical_formula_sum                    'Bi K P2 S7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KBiP~2~S~7~,mP44,14
+_chemical_formula_weight                 534.4
+_chemical_melting_point                  784
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis in molten alkali metal polythiophosphate fluxes. The new quaternary bismuth and antimony thiophosphates ABiP~2~S~7~ (A= K, Rb), A~3~M(PS~4~)~2~ (A= K, Rb, Cs; M= Sb, Bi), Cs~3~Bi~2~(PS~4~)~3~, and Na~0.16~Bi~1.28~P~2~S~6~
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1996
+_journal_volume                          236
+_journal_page_first                      70
+_journal_page_last                       85
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'McCarthy T.J.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.5
+_cell_length_b                           12.303
+_cell_length_c                           9.097
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.59
+_cell_angle_gamma                        90
+_cell_volume                             1063.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Bi
+ P
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S5 S 4 e 0.0057 0.4446 0.186 1
+ S4 S 4 e 0.0913 0.1716 0.0686 1
+ S1 S 4 e 0.1536 0.6937 0.1485 1
+ Bi1 Bi 4 e 0.1581 0.13823 0.38052 1
+ P1 P 4 e 0.1811 0.5367 0.1997 1
+ S6 S 4 e 0.2528 0.5509 0.4198 1
+ P2 P 4 e 0.2776 0.1031 0.0189 1
+ S3 S 4 e 0.3345 0.4703 0.0738 1
+ S7 S 4 e 0.3763 0.0545 0.2058 1
+ S2 S 4 e 0.3839 0.2928 0.3899 1
+ K1 K 4 e 0.6153 0.301 0.1292 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.34
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet P3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2192
+_exptl_absorpt_coefficient_mu            18.485
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             100
+_refine_ls_number_reflns                 1672
+_refine_ls_R_factor_gt                   0.028
+_refine_ls_wR_factor_gt                  0.031
+
+# End of data set 1007400
+
+

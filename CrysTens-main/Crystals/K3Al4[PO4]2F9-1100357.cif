@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# Al-F-K-O-P       # K3Al4[PO4]2F9                                 # 1100357 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1100357
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1100357
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Al~4~ [P O~4~]~2~ F~9~'
+_chemical_formula_sum                    'Al4 F9 K3 O8 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~3~Al~4~[PO~4~]~2~F~9~,mP52,11
+_chemical_formula_weight                 586.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+A new type of mixed anionic framework in the structure of K~3~[Al~4~F~9~(PO~4~)~2~]
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1995
+_journal_volume                          51
+_journal_page_first                      1246
+_journal_page_last                       1249
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Massa W.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Yakobovich O.V.'
+;
+Moscow M.V. Lomonosov State University
+Department of Crystal Chemistry
+Moscow
+Russia
+;
+'Karimova O.V.'
+;
+Moscow M.V. Lomonosov State University
+Department of Crystal Chemistry
+Moscow
+Russia
+;
+'Demyanets L.N.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.7214
+_cell_length_b                           13.8558
+_cell_length_c                           7.2764
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.927
+_cell_angle_gamma                        90
+_cell_volume                             651.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ F
+ P
+ Al
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 f 0.0014 0.1507 0.6964 1
+ F4 F 4 f 0.0273 0.16154 0.353 1
+ P P 4 f 0.1533 0.60208 0.21477 1
+ Al1 Al 4 f 0.1722 0.12254 0.1811 1
+ O2 O 4 f 0.1841 0.00163 0.289 1
+ K1 K 4 f 0.31072 0.00856 0.70761 1
+ F1 F 4 f 0.3443 0.0918 0.045 1
+ O1 O 4 f 0.3632 0.65413 0.2765 1
+ F3 F 4 f 0.4082 0.15659 0.3776 1
+ O3 O 4 f 0.9227 0.10459 0.003 1
+ Al2 Al 2 e 0.0165 0.25 0.5383 1
+ F2 F 2 e 0.1765 0.25 0.1093 1
+ F5 F 2 e 0.2953 0.25 0.6309 1
+ Al3 Al 2 e 0.526 0.25 0.5511 1
+ K2 K 2 e 0.5828 0.25 0.0427 1
+ F6 F 2 e 0.7346 0.25 0.4355 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.99
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5418
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5418
+_diffrn_reflns_number                    2270
+_exptl_absorpt_coefficient_mu            15.884
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             128
+_refine_ls_number_reflns                 1035
+_refine_ls_R_factor_gt                   0.0333
+_refine_ls_wR_factor_gt                  0.0879
+
+# End of data set 1100357
+
+

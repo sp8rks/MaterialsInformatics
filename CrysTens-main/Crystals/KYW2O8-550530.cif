@@ -1,0 +1,217 @@
+##############################################################################
+#                                                                            #
+# K-O-W-Y          # KYW2O8 rt                                     #  550530 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_550530
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      550530
+
+# Entry summary
+
+_chemical_formula_structural             'K Y W~2~ O~8~'
+_chemical_formula_sum                    'K O8 W2 Y'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KYW~2~O~8~,mS48,15
+_chemical_formula_weight                 623.7
+
+# Bibliographic data
+
+_publ_section_title
+'Crystallographic study of potassium-yttrium tungstate and molybdate'         
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            1968
+_journal_volume                          4
+_journal_page_first                      1004
+_journal_page_last                       1008
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Klevtsov P.V.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Kozeeva L.P.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Klevtsova R.F.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.6389
+_cell_length_b                           10.35
+_cell_length_c                           7.54
+_cell_angle_alpha                        90
+_cell_angle_beta                         130.991
+_cell_angle_gamma                        90
+_cell_volume                             626.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ W
+ Y
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.0238 0.3914 0.4707 1
+ O2 O 8 f 0.1263 0.0799 0.189 1
+ O3 O 8 f 0.275 0.3418 0.3744 1
+ W1 W 8 f 0.3036 0.0 0.2644 1
+ O4 O 8 f 0.3101 0.0764 0.0586 1
+ Y1 Y 4 e 0 0.2287 0.25 1
+ K1 K 4 e 0 0.7997 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              6.53
+_exptl_crystal_density_diffrn            6.61
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device
+'oscillation and rotation photographs'                                        
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 2 0 51.1 5
+ 2 0 0 40.1 10
+ 0 0 2 37.43 22
+ 2 -1 -1 34.3 7
+ 1 1 -2 33.17 8
+ 2 2 0 31.63 89
+ 0 2 2 30.43 100
+ 2 0 -2 28.5 75
+ 2 0 2 26.45 34
+ 3 1 0 25.95 70
+ 0 4 0 25.6 15
+ 2 2 -2 24.97 36
+ 1 3 -2 24.47 10
+ 1 3 2 23.9 17
+ 3 2 1 22.25 10
+ 3 1 -2 22.03 7
+ 2 4 0 21.69 30
+ 0 4 2 21.16 53
+ 3 1 2 20.62 51
+ 0 3 3 20.18 22
+ 4 0 0 20.07 22
+ 2 4 -2 19.08 100
+ 3 3 -2 18.8 70
+ 2 4 2 18.44 35
+ 1 1 -4 18.28 35
+ 3 3 2 17.88 70
+ 1 1 4 17.71 80
+ 2 0 -4 17.51 53
+ 4 0 2 17.2 50
+ 2 0 4 16.6 70
+ 1 3 -4 16.35 43
+ 1 3 4 15.9 70
+ 5 1 0 15.83 55
+ 2 2 4 15.76 25
+ 0 6 2 15.62 30
+ 3 5 -2 15.15 22
+ 2 5 -3 15.02 25
+ 3 1 4 14.71 71
+ 2 5 3 14.51 70
+ 2 4 -4 14.41 15
+ 4 4 2 14.28 40
+ 4 0 -4 14.17 10
+ 2 4 4 13.85 18
+ 5 3 -2 13.81 22
+ 1 5 -4 13.75 22
+ 4 2 -4 13.62 17
+ 1 5 4 13.55 30
+ 1 7 2 13.38 5
+ 5 3 2 13.23 7
+ 6 2 0 12.9 10
+ 6 0 -2 12.82 17
+ 5 5 0 12.59 11
+ 5 1 -4 12.49 50
+ 6 2 -2 12.46 40
+ 4 4 -4 12.36 17
+ 6 0 2 12.29 18
+ 2 8 0 12.21 29
+ 4 5 3 12.16 20
+ 0 8 2 12.1 18
+ 3 5 4 12.06 30
+ 6 2 2 11.98 27
+ 2 6 4 11.91 20
+
+# End of data set 550530
+
+

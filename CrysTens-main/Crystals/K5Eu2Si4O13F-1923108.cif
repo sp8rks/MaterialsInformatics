@@ -1,0 +1,173 @@
+##############################################################################
+#                                                                            #
+# Eu-F-K-O-Si      # K5Eu2Si4O13F                                  # 1923108 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1923108
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1923108
+
+# Entry summary
+
+_chemical_formula_structural             'K~5~ Eu~2~ Si~4~ O~13~ F'
+_chemical_formula_sum                    'Eu2 F K5 O13 Si4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~5~Eu~2~Si~4~O~13~F,mP50,11
+_chemical_formula_weight                 838.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Flux synthesis, crystal structure, and luminescence properties of a new europium fluoride-silicate: K~5~Eu~2~FSi~4~O~13~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2007
+_journal_volume                          46
+_journal_page_first                      3619
+_journal_page_last                       3622
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chiang P.Y.'
+;
+Zhongli National Central University
+Department of Chemistry
+Zhongli
+Taiwan
+;
+'Lin T.W.'
+;
+Zhongli National Central University
+Department of Chemistry
+Zhongli
+Taiwan
+;
+'Dai J.H.'
+;
+Zhongli National Central University
+Department of Chemistry
+Zhongli
+Taiwan
+;
+'Chang B.C.'
+;
+Zhongli National Central University
+Department of Chemistry
+Zhongli
+Taiwan
+;
+'Lii K.H.'
+;
+Zhongli National Central University
+Department of Chemistry
+Zhongli
+Taiwan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.185
+_cell_length_b                           5.7981
+_cell_length_c                           18.1675
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.248
+_cell_angle_gamma                        90
+_cell_volume                             756.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Si
+ K
+ Eu
+ F
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 f 0.1277 0.0175 0.1452 1
+ O8 O 4 f 0.3729 0.0195 0.38901 1
+ O1 O 4 f 0.5502 0.0192 0.0944 1
+ O6 O 4 f 0.7978 0.02 0.3274 1
+ Si2 Si 2 e 0.0404 0.25 0.17353 1
+ O7 O 2 e 0.0564 0.25 0.4049 1
+ O5 O 2 e 0.0683 0.25 0.2637 1
+ K4 K 2 e 0.1909 0.25 0.00225 1
+ K3 K 2 e 0.2041 0.25 0.81341 1
+ Si4 Si 2 e 0.2855 0.25 0.42312 1
+ O9 O 2 e 0.3062 0.25 0.5115 1
+ Eu2 Eu 2 e 0.40176 0.25 0.62938 1
+ K1 K 2 e 0.4759 0.25 0.24906 1
+ F1 F 2 e 0.5395 0.25 0.7573 1
+ Eu1 Eu 2 e 0.6661 0.25 0.89039 1
+ Si1 Si 2 e 0.6685 0.25 0.08425 1
+ K5 K 2 e 0.7466 0.25 0.49089 1
+ O2 O 2 e 0.782 0.25 0.0084 1
+ O3 O 2 e 0.8158 0.25 0.1573 1
+ K2 K 2 e 0.8676 0.25 0.69533 1
+ Si3 Si 2 e 0.9193 0.25 0.33012 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.68
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    7998
+_diffrn_reflns_theta_min                 1.12
+_diffrn_reflns_theta_max                 27.47
+_exptl_absorpt_coefficient_mu            9.99
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             140
+_refine_ls_number_reflns                 1531
+_refine_ls_R_factor_gt                   0.0256
+_refine_ls_wR_factor_gt                  0.0662
+
+# End of data set 1923108
+
+

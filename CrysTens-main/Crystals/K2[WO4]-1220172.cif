@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# K-O-W            # K2[WO4] rt                                    # 1220172 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1220172
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1220172
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ [W O~4~]'
+_chemical_formula_sum                    'K2 O4 W'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~[MoO~4~],mS28,12
+_chemical_formula_weight                 326.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural and calorimetric studies of mixed K~2~Mo~x~W~1-x~O~4~ (0 <= x <= 1) compounds
+;
+_journal_coden_ASTM                      PHYBE3
+_journal_name_full                       'Phys. B (Amsterdam)'
+_journal_year                            2003
+_journal_volume                          334
+_journal_page_first                      303
+_journal_page_last                       309
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Guarnieri A.A.'
+;
+Vicosa Federal University (UFV)
+Departamento de Fisica
+Vicosa
+Brazil
+;
+'Moreira A.M.'
+;
+Minas Gerais Federal University (UFMG)
+Departamento de Fisica
+Belo Horizonte
+Brazil
+;
+'Pinheiro C.B.'
+;
+Lausanne University
+Lausanne
+Switzerland
+;
+'Speziali N.L.'
+;
+Minas Gerais Federal University (UFMG)
+Departamento de Fisica
+Belo Horizonte
+Brazil
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.3908
+_cell_length_b                           6.1218
+_cell_length_c                           7.5605
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.939
+_cell_angle_gamma                        90
+_cell_volume                             515.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ W
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.1429 0.248 0.072 1
+ O2 O 4 i 0.084 0 0.374 1
+ K2 K 4 i 0.154 0 0.7419 1
+ W W 4 i 0.1761 0 0.2275 1
+ O1 O 4 i 0.338 0 0.409 1
+ K1 K 4 i 0.5044 0 0.2325 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.20
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Geigerflex'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 65
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                130
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             30
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.085
+_pd_proc_ls_proof_wR_factor              0.111
+_refine_ls_R_I_factor                    0.117
+
+# End of data set 1220172
+
+

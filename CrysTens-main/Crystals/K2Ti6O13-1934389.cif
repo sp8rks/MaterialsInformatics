@@ -1,0 +1,178 @@
+##############################################################################
+#                                                                            #
+# K-O-Ti           # K2Ti6O13                                      # 1934389 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1934389
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1934389
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Ti~6~ O~13~'
+_chemical_formula_sum                    'K2 O13 Ti6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Na~2~Ti~6~O~13~,mS42,12
+_chemical_formula_weight                 573.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Study of surface fluorination of photocatalytic TiO~2~ by thermal shock method
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2012
+_journal_volume                          187
+_journal_page_first                      300
+_journal_page_last                       308
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Le T.K.'
+;
+Pau et des Pays d'Adour University
+IPREM/ECP
+Pau
+France
+;
+'Flahaut D.'
+;
+Pau et des Pays d'Adour University
+IPREM/ECP
+Pau
+France
+;
+'Foix D.'
+;
+Pau et des Pays d'Adour University
+IPREM/ECP
+Pau
+France
+;
+'Blanc S.'
+;
+Pau et des Pays d'Adour University
+IPREM/ECP
+Pau
+France
+;
+'Nguyen H.K.H.'
+;
+Ho Chi Minh City University of Science
+Ho Chi Minh City
+Viet Nam
+;
+'Huynh T.K.X.'
+;
+Ho Chi Minh City University of Science
+Ho Chi Minh City
+Viet Nam
+;
+'Martinez H.'
+;
+Pau et des Pays d'Adour University
+IPREM/ECP
+Pau
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.621
+_cell_length_b                           3.8039
+_cell_length_c                           9.1255
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.758
+_cell_angle_gamma                        90
+_cell_volume                             534.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Ti
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 i 0.071 0 0.291 1
+ Ti1 Ti 4 i 0.1137 0 0.0895 1
+ O2 O 4 i 0.124 0 0.617 1
+ Ti2 Ti 4 i 0.1705 0 0.4332 1
+ O3 O 4 i 0.228 0 0.247 1
+ O4 O 4 i 0.282 0 0.574 1
+ K1 K 4 i 0.454 0 0.2508 1
+ O5 O 4 i 0.642 0 0.116 1
+ Ti3 Ti 4 i 0.7713 0 0.2274 1
+ O6 O 4 i 0.833 0 0.073 1
+ O7 O 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.56
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1934389
+
+

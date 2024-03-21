@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# K-Na-O-P-Zn      # KNaZn[P2O7]                                   # 1421129 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1421129
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1421129
+
+# Entry summary
+
+_chemical_formula_structural             'K Na Zn [P~2~ O~7~]'
+_chemical_formula_sum                    'K Na O7 P2 Zn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNaZn[P~2~O~7~],mP48,14
+_chemical_formula_weight                 301.4
+_chemical_melting_point                  918
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of sodium potassium zinc diphosphate NaKZnP~2~O~7~'        
+_journal_coden_ASTM                      JSTCAM
+_journal_name_full                       'J. Struct. Chem.'
+_journal_year                            2006
+_journal_volume                          47
+_journal_page_first                      1098
+_journal_page_last                       1102
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Shepelev Y.F.'
+;
+Russian Academy of Sciences
+Institute of Silicate Chemistry
+Saint Petersburg
+Russia
+;
+'Lapshin A.E.'
+;
+Russian Academy of Sciences
+Institute of Silicate Chemistry
+Saint Petersburg
+Russia
+;
+'Petrova M.A.'
+;
+Russian Academy of Sciences
+Institute of Silicate Chemistry
+Saint Petersburg
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.428
+_cell_length_b                           7.277
+_cell_length_c                           14.6136
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.55
+_cell_angle_gamma                        90
+_cell_volume                             680.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ K
+ Zn
+ Na
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 e 0.0384 0.3589 0.1248 1
+ O7 O 4 e 0.0892 0.0234 0.1827 1
+ P2 P 4 e 0.1797 0.2181 0.2037 1
+ K K 4 e 0.2021 0.7085 0.103 1
+ Zn Zn 4 e 0.2093 0.4801 0.3789 1
+ O6 O 4 e 0.261 0.2635 0.3198 1
+ O3 O 4 e 0.2974 0.0558 0.027 1
+ O1 O 4 e 0.3653 0.402 0.0515 1
+ O4 O 4 e 0.3926 0.2038 0.2004 1
+ P1 P 4 e 0.425 0.2145 0.0996 1
+ O2 O 4 e 0.66 0.183 0.1506 1
+ Na Na 4 e 0.7409 0.477 0.112 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.97
+_exptl_crystal_density_diffrn            2.94
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            4.747
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             109
+_refine_ls_number_reflns                 1916
+_refine_ls_R_factor_gt                   0.0461
+_refine_ls_wR_factor_gt                  0.0852
+
+# End of data set 1421129
+
+

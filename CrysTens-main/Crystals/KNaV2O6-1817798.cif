@@ -1,0 +1,173 @@
+##############################################################################
+#                                                                            #
+# K-Na-O-V         # KNaV2O6                                       # 1817798 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1817798
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1817798
+
+# Entry summary
+
+_chemical_formula_structural             'K Na V~2~ O~6~'
+_chemical_formula_sum                    'K Na O6 V2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNaV~2~O~6~,mS40,5
+_chemical_formula_weight                 260.0
+
+# Bibliographic data
+
+_publ_section_title
+'Hydrothermal synthesis and crystal structure of NaKV~2~O~6~'                 
+_journal_coden_ASTM                      JHUADF
+_journal_name_full                       'Jiegou Huaxue'
+_journal_year                            1996
+_journal_volume                          15
+_journal_page_first                      458
+_journal_page_last                       461
+_journal_language                        Chinese
+loop_
+ _publ_author_name
+ _publ_author_address
+'Xu J.N.'
+;
+Changchun Jilin University
+Department of Chemistry
+Changchun / Jilin
+China
+;
+'Yang G.Y.'
+;
+Changchun Jilin University
+Department of Chemistry
+Changchun / Jilin
+China
+;
+'Sun H.R.'
+;
+Changchun Jilin University
+Department of Chemistry
+Changchun / Jilin
+China
+;
+'Wang T.G.'
+;
+Changchun Jilin University
+Department of Chemistry
+Changchun / Jilin
+China
+;
+'Yang G.D.'
+;
+Changchun Jilin University
+Department of Chemistry
+Changchun / Jilin
+China
+;
+'Xu J.Q.'
+;
+Changchun Jilin University
+Department of Chemistry
+Changchun / Jilin
+China
+;
+'Huang X.Y.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.568
+_cell_length_b                           10.082
+_cell_length_c                           5.81
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.87
+_cell_angle_gamma                        90
+_cell_volume                             601
+_cell_formula_units_Z                    4
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ Na
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 c 0.1223 0.0088 0.3999 1
+ O4 O 4 c 0.1552 0.3586 0.4685 1
+ O2 O 4 c 0.156 0.6113 0.2709 1
+ V2 V 4 c 0.21479 0.68098 0.0293 1
+ V1 V 4 c 0.28627 0.0104 0.4708 1
+ O5 O 4 c 0.3418 0.3299 0.0314 1
+ O1 O 4 c 0.3487 0.0816 0.2364 1
+ O6 O 4 c 0.3711 0.6833 0.0947 1
+ Na1 Na 2 b 0 0.191 0.5 1
+ K2 K 2 b 0 0.7864 0.5 1
+ Na2 Na 2 a 0 0.0 0 1
+ K1 K 2 a 0 0.4024 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.85
+_exptl_crystal_density_diffrn            2.87
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    970
+_exptl_absorpt_coefficient_mu            3.738
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 856
+_refine_ls_R_factor_gt                   0.029
+_refine_ls_wR_factor_gt                  0.043
+
+# End of data set 1817798
+
+

@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# H-K-O-S-Se       # K2SeS3O6[H2O]                                 # 1003143 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003143
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003143
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Se S~3~ O~6~ [H~2~ O]'
+_chemical_formula_sum                    'H2 K2 O7 S3 Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~SeS~3~O~6~[H~2~O],mP52,14
+_chemical_formula_weight                 367.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+The selenotetrathionate dianion: Preparation and X-ray structures of K~2~SeS~3~O~6~.H~2~O and [Co(en)~2~Cl~2~]~2~SeS~3~O~6~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1980
+_journal_volume                          19
+_journal_page_first                      1040
+_journal_page_last                       1043
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Foust A.S.'
+;
+Bergen University
+Department of Chemistry
+Bergen
+Norway
+;
+'Janickis V.'
+;
+Bergen University
+Department of Chemistry
+Bergen
+Norway
+;
+'Maroy K.'
+;
+Bergen University
+Department of Chemistry
+Bergen
+Norway
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.6687
+_cell_length_b                           18.6704
+_cell_length_c                           9.5317
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.783
+_cell_angle_gamma                        90
+_cell_volume                             1008.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ K
+ Se
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0721 0.25755 0.08992 1
+ O6 O 4 e 0.0841 0.01195 0.3374 1
+ S4 S 4 e 0.13697 0.54896 0.18706 1
+ S3 S 4 e 0.14783 0.58254 0.40863 1
+ O5 O 4 e 0.1529 0.61338 0.1038 1
+ K2 K 4 e 0.20978 0.75633 0.16048 1
+ Se2 Se 4 e 0.22147 0.10355 0.04314 1
+ S1 S 4 e 0.27469 0.21462 0.13101 1
+ O2 O 4 e 0.2949 0.20645 0.28178 1
+ O4 O 4 e 0.346 0.50588 0.1798 1
+ K1 K 4 e 0.35258 0.11232 0.49695 1
+ O3 O 4 e 0.4916 0.2367 0.06772 1
+ O7 OH2 4 e 0.6681 0.38996 0.2488 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              2.43
+_exptl_crystal_density_diffrn            2.42
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Siemens
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1771
+_exptl_absorpt_coefficient_mu            6.0
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1606
+_refine_ls_R_factor_gt                   0.034
+_refine_ls_wR_factor_gt                  0.038
+
+# End of data set 1003143
+
+

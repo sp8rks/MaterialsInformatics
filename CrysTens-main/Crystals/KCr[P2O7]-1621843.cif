@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# Cr-K-O-P         # KCr[P2O7]                                     # 1621843 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1621843
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1621843
+
+# Entry summary
+
+_chemical_formula_structural             'K Cr [P~2~ O~7~]'
+_chemical_formula_sum                    'Cr K O7 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KAl[P~2~O~7~],mP44,14
+_chemical_formula_weight                 265.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structure and magnetic susceptibility of KCrP~2~O~7~, a potential antiferromagnetic magnetoelectric
+;
+_journal_coden_ASTM                      FEROA8
+_journal_name_full                       Ferroelectrics
+_journal_year                            1997
+_journal_volume                          204
+_journal_page_first                      35
+_journal_page_last                       44
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gentil S.'
+;
+Geneva University
+D\'epartement de Chimie Min\'erale, Analytique et Appliqu\'ee
+Geneva
+Switzerland
+;
+'Andreica D.'
+;
+Geneva University
+D\'epartement de Chimie Min\'erale, Analytique et Appliqu\'ee
+Geneva
+Switzerland
+;
+'Lujan M.'
+;
+Geneva University
+D\'epartement de Chimie Min\'erale, Analytique et Appliqu\'ee
+Geneva
+Switzerland
+;
+'Rivera J.P.'
+;
+Geneva University
+D\'epartement de Chimie Min\'erale, Analytique et Appliqu\'ee
+Geneva
+Switzerland
+;
+'Kubel F.'
+;
+Geneva University
+D\'epartement de Chimie Min\'erale, Analytique et Appliqu\'ee
+Geneva
+Switzerland
+;
+'Schmid H.'
+;
+Geneva University
+D\'epartement de Chimie Min\'erale, Analytique et Appliqu\'ee
+Geneva
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.347
+_cell_length_b                           9.909
+_cell_length_c                           8.173
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.806
+_cell_angle_gamma                        90
+_cell_volume                             569.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ K
+ Cr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 e 0.0042 0.0051 0.2789 1
+ O6 O 4 e 0.0817 0.264 0.2529 1
+ P1 P 4 e 0.13247 0.40362 0.33161 1
+ O7 O 4 e 0.1426 0.0913 0.0155 1
+ K1 K 4 e 0.17841 0.67956 0.05357 1
+ Cr1 Cr 4 e 0.23533 0.10049 0.26161 1
+ O3 O 4 e 0.3191 0.3941 0.0134 1
+ O4 O 4 e 0.3393 0.4421 0.3154 1
+ P2 P 4 e 0.44091 0.36356 0.19219 1
+ O1 O 4 e 0.4519 0.2148 0.2442 1
+ O2 O 4 e 0.6403 0.4208 0.2349 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.09
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          STOE
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4403
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2056
+_refine_ls_R_factor_gt                   0.023
+_refine_ls_wR_factor_gt                  0.026
+
+# End of data set 1621843
+
+

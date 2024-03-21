@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# D-K-N-O-Pt       # KPt[NO2]2[OD]                                 #  376480 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_376480
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      376480
+
+# Entry summary
+
+_chemical_formula_structural             'K Pt [N O~2~]~2~ [O D]'
+_chemical_formula_sum                    'D K N2 O5 Pt'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KPt[NO~2~]~2~[OH],mP36,14
+_chemical_formula_weight                 344.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+The influence of deuteriation on the properties and structure of potassium \m-dihydroxotetranitrodiplatinate(II) and the molecular structure of K~2~[Pt~2~(NO~2~)~4~(OD)~2~]
+;
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1986
+_journal_volume                          31
+_journal_page_first                      1177
+_journal_page_last                       1180
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Koz'min P.A.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Lapkin V.V.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Surazhskaya M.D.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Shubochkin L.K.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Larina T.B.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Shubochkina E.F.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.247
+_cell_length_b                           15.469
+_cell_length_c                           8.0125
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.696
+_cell_angle_gamma                        90
+_cell_volume                             553.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ N
+ Pt
+ OD
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(3) O 4 e 0.072 0.173 0.181 1
+ K K 4 e 0.1168 0.3474 0.0679 1
+ O(2) O 4 e 0.125 0.008 0.368 1
+ N(2) N 4 e 0.318 0.148 0.206 1
+ Pt Pt 4 e 0.38307 0.03112 0.13354 1
+ O(1) O 4 e 0.517 0.419 0.458 1
+ O(5) OD 4 e 0.527 0.201 0.265 1
+ O(4) O 4 e 0.72 0.391 0.19 1
+ N(1) N 4 e 0.749 0.471 0.208 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.038
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 376480
+
+

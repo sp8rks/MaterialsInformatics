@@ -1,0 +1,176 @@
+##############################################################################
+#                                                                            #
+# K-O-Th           # K2ThO3 mon                                    #  381630 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_381630
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      381630
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Th O~3~'
+_chemical_formula_sum                    'K2 O3 Th'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Li~2~SnO~3~,mS48,15
+_chemical_formula_weight                 358.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Le m\'etathorate de sodium et le m\'etathorate de potassium
+;
+_journal_coden_ASTM                      BSCFAS
+_journal_name_full                       'Bull. Soc. Chim. Fr.'
+_journal_year                            1966
+_journal_volume                          ?
+_journal_page_first                      1581
+_journal_page_last                       1582
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hagenmuller P.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie Min\'erale
+Talence
+France
+;
+'Devalette M.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie Min\'erale
+Talence
+France
+;
+'Claverie J.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie Min\'erale
+Talence
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.41
+_cell_length_b                           11.09
+_cell_length_c                           12.72
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.4
+_cell_angle_gamma                        90
+_cell_volume                             892.1
+_cell_formula_units_Z                    8
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ K
+ Th
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.1102 0.0844 0.6342 1
+ O2 O 8 f 0.1337 0.2403 0.1333 1
+ K1 K 8 f 0.261 0.078 0.001 1
+ O3 O 8 f 0.3654 0.0908 0.3671 1
+ Th1 Th 4 e 0 0.0835 0.25 1
+ K2 K 4 e 0 0.417 0.25 1
+ Th2 Th 4 e 0 0.7492 0.25 1
+ K3 K 4 d 0.25 0.25 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.40(8)
+_exptl_crystal_density_diffrn            5.33
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Debye-Scherrer film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 63 41
+ 0 0 4 31.5 64
+ 2 0 -2 30.3 60
+ 2 0 2 26.44 100
+ 2 0 -4 24.35 19
+ 0 0 6 20.89 13
+ 2 0 4 20.6 37
+ 2 0 -6 18.97 69
+ 0 6 0 18.48 59
+ 0 6 2 17.74 41
+ 2 0 6 16.24 35
+ 4 0 -2 15.94 75
+ 4 0 0 15.78 45
+ 4 0 -4 15.15 54
+ 4 0 2 14.75 11
+ 0 8 0 13.86 21
+ 4 0 -6 13.77 18
+ 4 0 4 13.24 40
+ 2 0 -10 12.41 19
+ 4 0 -8 12.22 17
+
+# End of data set 381630
+
+

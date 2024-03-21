@@ -1,0 +1,165 @@
+##############################################################################
+#                                                                            #
+# Dy-F-K           # K3DyF6 ht1                                    # 1827728 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1827728
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1827728
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Dy F~6~'
+_chemical_formula_sum                    'Dy F6 K3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Na~3~AlF~6~,mP20,14
+_chemical_formula_weight                 393.8
+
+# Bibliographic data
+
+_publ_section_title                      'Le syst\`eme DyF~3~-KF'
+_journal_coden_ASTM                      RVCMA8
+_journal_name_full                       'Rev. Chim. Miner.'
+_journal_year                            1978
+_journal_volume                          15
+_journal_page_first                      139
+_journal_page_last                       146
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'De Kozak A.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Chimie Min\'erale
+Paris
+France
+;
+'Almai M.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Chimie Min\'erale
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.381
+_cell_length_b                           6.59
+_cell_length_c                           11.0701
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.435
+_cell_angle_gamma                        90
+_cell_volume                             383.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ F
+ K
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 e 0.116 0.0442 0.2196 1
+ F2 F 4 e 0.2302 0.7317 0.0609 1
+ K1 K 4 e 0.2631 0.4489 0.2512 1
+ F3 F 4 e 0.3168 0.1741 0.0425 1
+ K2 K 2 d 0.5 0 0.5 1
+ Dy1 Dy 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.41
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Debye-Scherrer film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 53.61 7
+ 1 0 -1 52.66 5
+ 1 0 1 52.17 5
+ 1 1 0 45.9 7
+ 0 2 0 32.94 7
+ 1 1 -2 32.4 8
+ 1 1 2 32.08 8
+ 2 0 0 31.95 5
+ 0 0 3 30.45 2
+ 1 2 1 27.88 3
+ 2 1 -1 27.46 3
+ 1 0 3 27.31 3
+ 1 1 3 25.24 2
+ 2 2 0 22.87 5
+ 0 0 4 22.76 5
+ 1 2 3 21.1 2
+ 3 0 1 20.72 3
+ 3 1 0 20.21 3
+ 1 3 2 18.85 3
+ 2 0 -4 18.7 3
+ 2 0 4 18.51 3
+ 2 2 -3 18.4 3
+ 3 0 3 17.36 3
+ 1 2 5 15.46 2
+ 4 1 -1 15.3 2
+
+# End of data set 1827728
+
+

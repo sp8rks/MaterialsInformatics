@@ -1,0 +1,170 @@
+##############################################################################
+#                                                                            #
+# Cu-Fe-K-O-P      # KCuFe[PO4]2                                   # 1603803 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1603803
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1603803
+
+# Entry summary
+
+_chemical_formula_structural             'K Cu Fe [P O~4~]~2~'
+_chemical_formula_sum                    'Cu Fe K O8 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KCuFe[PO~4~]~2~,mP52,14
+_chemical_formula_weight                 348.4
+
+# Bibliographic data
+
+_publ_section_title
+'Structural study and physical properties of a new phosphate KCuFe(PO~4~)~2~' 
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2011
+_journal_volume                          184
+_journal_page_first                      937
+_journal_page_last                       944
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Badri A.'
+;
+Monastir Faculty of Sciences
+UR Mat\'eriaux Inorganiques
+Monastir
+Tunisia
+;
+'Hidouri M.'
+;
+Monastir Faculty of Sciences
+UR Mat\'eriaux Inorganiques
+Monastir
+Tunisia
+;
+'Lopez M.L.'
+;
+Madrid Complutense University
+Departamento de Quimica Inorganica I
+Madrid
+Spain
+;
+'Pico C.'
+;
+Madrid Complutense University
+Departamento de Quimica Inorganica I
+Madrid
+Spain
+;
+'Wattiaux A.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Amara M.B.'
+;
+Monastir Faculty of Sciences
+UR Mat\'eriaux Inorganiques
+Monastir
+Tunisia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.958
+_cell_length_b                           9.931
+_cell_length_c                           9.1046
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.439
+_cell_angle_gamma                        90
+_cell_volume                             644.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ K
+ Fe
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O23 O 4 e 0.031 0.01359 0.2532 1
+ O22 O 4 e 0.0982 0.29157 0.2402 1
+ O21 O 4 e 0.1011 0.13121 0.0042 1
+ P2 P 4 e 0.11886 0.41138 0.35107 1
+ K K 4 e 0.15687 0.63338 0.07482 1
+ Fe Fe 4 e 0.22838 0.12537 0.24269 1
+ O24 O 4 e 0.3143 0.47631 0.3995 1
+ O14 O 4 e 0.345 0.1142 0.4875 1
+ O12 O 4 e 0.4571 0.25354 0.257 1
+ P1 P 4 e 0.51319 0.34061 0.14131 1
+ Cu1 Cu 4 e 0.57731 0.37988 0.44682 1
+ O13 O 4 e 0.6094 0.46237 0.2577 1
+ O11 O 4 e 0.6561 0.26359 0.1058 1
+
+
+_exptl_crystal_colour                    'green dark, powder green light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.59
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2469
+_diffrn_reflns_theta_min                 2.86
+_diffrn_reflns_theta_max                 29.95
+_exptl_absorpt_coefficient_mu            6.705
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             119
+_refine_ls_number_reflns                 1771
+_refine_ls_R_factor_gt                   0.0278
+_refine_ls_wR_factor_gt                  0.0869
+
+# End of data set 1603803
+
+

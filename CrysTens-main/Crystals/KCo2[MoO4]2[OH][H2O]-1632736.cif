@@ -1,0 +1,187 @@
+##############################################################################
+#                                                                            #
+# Co-H-K-Mo-O      # KCo2[MoO4]2[OH][H2O]                          # 1632736 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1632736
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1632736
+
+# Entry summary
+
+_chemical_formula_structural             'K Co~2~ [Mo O~4~]~2~ [O H] [H~2~ O]'
+_chemical_formula_sum                    'Co2 H3 K Mo2 O10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+NaCu~2~[SO~4~]~2~[OH][H~2~O],mS30,12                                          
+_chemical_formula_weight                 511.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, magnetic properties, and magnetic structure of a natrochalcite structural variant, KM(II)~2~D~3~O~2~(MoO~4~)~2~ (M= Mn, Fe, or Co)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2011
+_journal_volume                          50
+_journal_page_first                      3286
+_journal_page_last                       3294
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Maalej W.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+D\'epartement de Chimie des Mat\'eriaux Inorganiques
+Strasbourg
+France
+;
+'Vilminot S.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+D\'epartement de Chimie des Mat\'eriaux Inorganiques
+Strasbourg
+France
+;
+'Andr\'e G.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire L\'eon Brillouin
+Gif-sur-Yvette
+France
+;
+'Damay F.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire L\'eon Brillouin
+Gif-sur-Yvette
+France
+;
+'Elaoud Z.'
+;
+Sfax Faculty of Sciences
+Laboratoire de l'Etat Solide
+Sfax
+Tunisia
+;
+'Mhiri T.'
+;
+Sfax Faculty of Sciences
+Laboratoire de l'Etat Solide
+Sfax
+Tunisia
+;
+'Kurmoo M.'
+;
+Strasbourg Louis Pasteur University
+Laboratoire DECOMET
+Strasbourg
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.5218
+_cell_length_b                           6.4879
+_cell_length_c                           7.8596
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.623
+_cell_angle_gamma                        90
+_cell_volume                             437.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ OH
+ Mo
+ Co
+ K
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 j 0.0366 0.2942 0.2579 1
+ OH OH 4 i 0.1541 0 0.5818 1
+ O3 O 4 i 0.3158 0 0.3564 1
+ Mo Mo 4 i 0.422 0 0.2213 1
+ O1 O 4 i 0.7133 0 0.0001 1
+ Co Co 4 f 0.25 0.25 0.5 1
+ K K 2 a 0 0 0 1
+ H H 2 c 0 0 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.88
+_cell_measurement_temperature            300
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              300
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 33.5
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                67
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.146
+_pd_proc_ls_proof_wR_factor              0.157
+_refine_ls_R_I_factor                    0.0537
+
+# End of data set 1632736
+
+

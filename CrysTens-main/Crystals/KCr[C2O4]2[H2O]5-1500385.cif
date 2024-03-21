@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# C-Cr-H-K-O       # KCr[C2O4]2[H2O]5                              # 1500385 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1500385
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1500385
+
+# Entry summary
+
+_chemical_formula_structural             'K Cr [C~2~ O~4~]~2~ [H~2~ O]~5~'
+_chemical_formula_sum                    'C4 Cr H10 K O13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KCr[C~2~O~4~]~2~[H~2~O]~5~,mP38,13
+_chemical_formula_weight                 357.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of trans potassium dioxalatodiaquo-chromiate K[Cr(C~2~O~4~)~2~(H~2~O)~2~].3H~2~O
+;
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1951
+_journal_volume                          4
+_journal_page_first                      35
+_journal_page_last                       41
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Van Niekerk J.N.'
+;
+Council for Scientific and Industrial Research (CSIR)
+National Physical Research Laboratory
+Pretoria
+South Africa
+;
+'Schoening F.R.L.'
+;
+Council for Scientific and Industrial Research (CSIR)
+National Physical Research Laboratory
+Pretoria
+South Africa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.85
+_cell_length_b                           5.72
+_cell_length_c                           13.88
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.5
+_cell_angle_gamma                        90
+_cell_volume                             587.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ C
+ K
+ Cr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 g 0.109 0.077 0.109 1
+ aq2 OH2 4 g 0.133 0.5 0.388 1
+ C2 C 4 g 0.232 0.024 0.08 1
+ O3 O 4 g 0.256 0.684 0.171 1
+ O2 O 4 g 0.296 0.15 0.021 1
+ C1 C 4 g 0.318 0.187 0.615 1
+ aq1 OH2 4 g 0.333 0.15 0.372 1
+ O1 O 4 g 0.451 0.241 0.583 1
+ aq3 OH2 2 f 0.5 0.353 0.25 1
+ K K 2 e 0 0.855 0.25 1
+ Cr Cr 2 d 0.5 0 0 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              1.98
+_exptl_crystal_density_diffrn            2.02
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device
+'oscillation and Weissenberg photographs'                                     
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'Patterson and Fourier synthesis, crystal chemical considerations'            
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1500385
+
+

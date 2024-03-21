@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# K-P-S-Sm         # K2SmP2S7                                      # 1602948 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1602948
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1602948
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Sm P~2~ S~7~'
+_chemical_formula_sum                    'K2 P2 S7 Sm'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~SmP~2~S~7~,mS48,5
+_chemical_formula_weight                 515.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+New quaternary alkali metal, rare earth(3+) thiophosphate, K~2~SmP~2~S~7~ with both [P~2~S~6~]^4-^ and [PS~4~]^3-^ anions
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            2008
+_journal_volume                          43
+_journal_page_first                      2469
+_journal_page_last                       2475
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Manriquez V.'
+;
+Santiago de Chile University
+Departamento de Quimica
+Santiago
+Chile
+;
+'Galdamez A.'
+;
+Santiago de Chile University
+Departamento de Quimica
+Santiago
+Chile
+;
+'Guzman Aguila D.'
+;
+Santiago de Chile University
+Departamento de Quimica
+Santiago
+Chile
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           22.746
+_cell_length_b                           6.7362
+_cell_length_c                           8.9004
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.68
+_cell_angle_gamma                        90
+_cell_volume                             1344.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ K
+ S
+ Sm
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K2 K 4 c 0.0598 0.018 0.2162 1
+ S5 S 4 c 0.0634 0.4855 0.2592 1
+ Sm Sm 4 c 0.16293 0.5159 0.03295 1
+ K1 K 4 c 0.1771 0.0 0.6083 1
+ S4 S 4 c 0.192 0.2483 0.287 1
+ P1 P 4 c 0.2295 0.017 0.2084 1
+ S3 S 4 c 0.2871 0.4376 0.0255 1
+ S2 S 4 c 0.3185 0.015 0.2708 1
+ S7 S 4 c 0.4319 0.769 0.112 1
+ S6 S 4 c 0.4362 0.2565 0.1133 1
+ P2 P 4 c 0.4863 0.002 0.1122 1
+ S1 S 4 c 0.6905 0.264 0.2877 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.54
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3554
+_exptl_absorpt_coefficient_mu            2.895
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             111
+_refine_ls_number_reflns                 1744
+_refine_ls_R_factor_gt                   0.0974
+_refine_ls_wR_factor_gt                  0.2195
+
+# End of data set 1602948
+
+

@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# C-Ge-La          # La15Ge9C                                      # 1905077 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1905077
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1905077
+
+# Entry summary
+
+_chemical_formula_structural             'La~15~ Ge~9~ C'
+_chemical_formula_sum                    'C Ge9 La15'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~15~FeGe~9~,hP50,186
+_chemical_formula_weight                 2748.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+La~15~Ge~9~Z. Interstitial Derivatives with an Ordered Superstructure of the Mn~5~Si~3~ Structure Type. Property Trends in a Series of Homologous Intermetallic Phases
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1996
+_journal_volume                          35
+_journal_page_first                      4669
+_journal_page_last                       4675
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Guloy A.M.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+'Corbett J.D.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.4674
+_cell_length_b                           15.4674
+_cell_length_c                           6.8795
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             1425.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ La
+ Ge
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ La1 La 12 d 0.34197 0.0176 0.01449 1
+ Ge1 Ge 6 c 0.13302 0.86698 0.24248 1
+ La3 La 6 c 0.25338 0.74662 0.23544 1
+ Ge2 Ge 6 c 0.4661 0.5339 0.2531 1
+ La2 La 6 c 0.58643 0.41357 0.27347 1
+ Ge3 Ge 6 c 0.80013 0.19987 0.3028 1
+ La4 La 6 c 0.92004 0.07996 0.2885 1
+ C C 2 b 0.333333 0.666667 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.41
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54056
+_pd_proc_wavelength                      1.54056
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC6'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            31.23
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             48
+_refine_ls_number_reflns                 933
+_refine_ls_R_factor_gt                   0.024
+_refine_ls_wR_factor_gt                  0.032
+
+# End of data set 1905077
+
+

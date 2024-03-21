@@ -1,0 +1,225 @@
+##############################################################################
+#                                                                            #
+# F-K-Sc           # KScF4                                         # 1414500 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1414500
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1414500
+
+# Entry summary
+
+_chemical_formula_structural             'K Sc F~4~'
+_chemical_formula_sum                    'F4 K Sc'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KScF~4~,mS48,12
+_chemical_formula_weight                 160.0
+
+# Bibliographic data
+
+_publ_section_title
+'KScF~4~: A new ABX~4~ octahedral cis-trans layered structure'                
+_journal_coden_ASTM                      EJSCE5
+_journal_name_full                       'Eur. J. Solid State Inorg. Chem.'
+_journal_year                            1992
+_journal_volume                          29
+_journal_page_first                      161
+_journal_page_last                       170
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Champarnaud Mesjard J.C.'
+;
+Limoges University
+Laboratoire de Chimie Min\'erale
+Limoges
+France
+;
+'Frit B.'
+;
+Limoges University
+Laboratoire de Chimie Min\'erale
+Limoges
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.696
+_cell_length_b                           4.044
+_cell_length_c                           13.273
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.81
+_cell_angle_gamma                        90
+_cell_volume                             802.1
+_cell_formula_units_Z                    8
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Sc
+ F
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sc1 Sc 4 i 0.02694 0 0.36143 1
+ F7 F 4 i 0.0451 0 0.217 1
+ F1 F 4 i 0.1018 0 0.7152 1
+ Sc2 Sc 4 i 0.11783 0 0.11337 1
+ F4 F 4 i 0.1583 0 0.43 1
+ F3 F 4 i 0.176 0 0.0037 1
+ F5 F 4 i 0.2298 0 0.229 1
+ K2 K 4 i 0.24338 0 0.63553 1
+ K1 K 4 i 0.36054 0 0.13557 1
+ F6 F 4 i 0.5284 0 0.3576 1
+ F2 F 4 i 0.6145 0 0.1161 1
+ F8 F 2 c 0 0 0.5 1
+ F9 F 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              2.60
+_exptl_crystal_density_diffrn            2.65
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    2375
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            2.8
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             76
+_refine_ls_number_reflns                 1074
+_refine_ls_R_factor_gt                   0.0217
+_refine_ls_wR_factor_gt                  0.0220
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 127 12
+ 2 0 -1 75 15
+ 0 0 2 63.1 5
+ 2 0 -2 57.6 1
+ 2 0 1 57.1 32
+ 2 0 -3 42.71 52
+ 0 0 3 42.14 4
+ 4 0 -1 39.2 81
+ 1 1 0 38.99 100
+ 1 1 1 36.44 48
+ 1 1 -2 34.48 58
+ 4 0 -3 33.46 75
+ 4 0 1 33.21 82
+ 2 0 3 32.7 8
+ 1 1 2 32.11 22
+ 0 0 4 31.6 25
+ 3 1 -2 30.54 4
+ 1 1 -3 29.84 18
+ 3 1 1 29.2 5
+ 4 0 -4 28.86 2
+ 3 1 -3 27.86 17
+ 1 1 3 27.57 4
+ 2 0 4 26.33 1
+ 6 0 -2 26 18
+ 6 0 -3 25.04 2
+ 6 0 0 24.94 1
+ 5 1 -1 24.77 6
+ 4 0 3 24.5 5
+ 5 1 0 24 1
+ 1 1 4 23.63 14
+ 5 1 -3 23.5 6
+ 6 0 1 23.14 15
+ 5 1 1 22.64 1
+ 2 0 -6 22.11 3
+ 3 1 -5 21.86 16
+ 4 0 -6 21.37 17
+ 6 0 2 21.07 14
+ 5 1 2 20.81 3
+ 0 2 0 20.21 70
+ 5 1 -5 20.04 23
+ 0 2 1 20 4
+ 8 0 -2 19.613 15
+ 3 1 -6 19.288 6
+ 1 1 -6 19.19 4
+ 6 0 3 19.03 4
+ 8 0 0 18.674 16
+ 4 0 -7 18.643 23
+ 4 0 5 18.52 5
+ 2 2 -3 18.279 16
+ 2 2 2 18.238 15
+ 3 1 5 18.08 6
+ 4 2 -1 17.976 14
+ 7 1 1 17.972 5
+ 4 2 -2 17.8 2
+ 8 0 1 17.72 3
+ 4 2 -3 17.296 19
+ 0 2 4 17.047 15
+ 1 1 -7 16.905 13
+ 7 1 2 16.882 19
+ 8 0 -6 16.75 3
+ 8 0 2 16.6 5
+ 4 0 6 16.295 2
+ 0 0 8 15.801 6
+ 8 0 -7 15.53 2
+ 9 1 0 15.35 1
+ 10 0 0 15 1
+ 2 0 -9 14.653 1
+ 6 0 6 14.071 25
+ 6 2 -6 13.94 3
+ 3 1 -9 13.85 2
+ 8 2 0 13.715 17
+ 5 1 -9 13.665 12
+
+# End of data set 1414500
+
+

@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# C-H-La-O         # La2[C2O4]3[H2O]10                             # 1720483 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1720483
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1720483
+
+# Entry summary
+
+_chemical_formula_structural             'La~2~ [C~2~ O~4~]~3~ [H~2~ O]~10~'
+_chemical_formula_sum                    'C6 H22.20 La2 O23.10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+La~2~[C~2~O~4~]~3~[H~2~O]~10~,mP80,14                                         
+_chemical_formula_weight                 722.0
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of lanthanum(III) oxalate decahydrate'                     
+_journal_coden_ASTM                      JCREDB
+_journal_name_full                       'J. Crystallogr. Spectrosc. Res.'
+_journal_year                            1991
+_journal_volume                          21
+_journal_page_first                      127
+_journal_page_last                       131
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Huang S.H.'
+;
+Hong Kong Chinese University
+Department of Chemistry
+Hong Kong
+China
+;
+'Zhou G.D.'
+;
+Hong Kong Chinese University
+Department of Chemistry
+Hong Kong
+China
+;
+'Mak T.C.W.'
+;
+Hong Kong Chinese University
+Department of Chemistry
+Hong Kong
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.382
+_cell_length_b                           9.624
+_cell_length_c                           10.502
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.52
+_cell_angle_gamma                        90
+_cell_volume                             1046.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ C
+ OH2
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.0064 0.3607 0.1079 1
+ O5 O 4 e 0.0306 0.0257 0.1754 1
+ C2 C 4 e 0.0348 0.5691 0.0021 1
+ C3 C 4 e 0.0553 0.0254 0.0697 1
+ O3 O 4 e 0.1248 0.6017 0.1157 1
+ O6 O 4 e 0.157 0.0635 0.0644 1
+ O7 OH2 4 e 0.1699 0.197 0.3859 1
+ La La 4 e 0.18886 0.45312 0.33141 1
+ O8 OH2 4 e 0.2989 0.3025 0.2073 1
+ O2 O 4 e 0.3948 0.1061 0.0395 1
+ O16 OH2 4 e 0.395 0.454 0.068 0.36
+ O15 OH2 4 e 0.415 0.026 0.412 0.41
+ C1 C 4 e 0.5002 0.05 0.0569 1
+ O10 OH2 4 e 0.564 0.208 0.373 0.48
+ O11 OH2 4 e 0.57 0.279 0.324 0.3
+ O12 OH2 4 e 0.577 0.329 0.277 0.36
+ O1 O 4 e 0.6064 0.0708 0.1589 1
+ O14 OH2 4 e 0.66 0.425 0.125 0.31
+ O13 OH2 4 e 0.661 0.389 0.198 0.33
+ O9 OH2 4 e 0.7899 0.2015 0.0761 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.286
+_exptl_crystal_density_diffrn            2.29
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet R3m/V'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            4.148
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             154
+_refine_ls_number_reflns                 3190
+_refine_ls_R_factor_gt                   0.029
+_refine_ls_wR_factor_gt                  0.042
+
+# End of data set 1720483
+
+

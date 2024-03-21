@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Br-K-Zn          # K2ZnBr4 lt                                    # 1123097 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1123097
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1123097
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Zn Br~4~'
+_chemical_formula_sum                    'Br4 K2 Zn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Eu~2~GeS~4~,mP14,4
+_chemical_formula_weight                 463.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+A study of the mechanism of the ferroelectric transition in monoclinic K~2~ZnBr~4~
+;
+_journal_coden_ASTM                      JCOMEL
+_journal_name_full                       'J. Phys.: Condens. Matter'
+_journal_year                            1994
+_journal_volume                          6
+_journal_page_first                      5751
+_journal_page_last                       5760
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jochum M.'
+;
+Saarbr\"ucken Saarland University
+Fachbereich Physik
+Saarbr\"ucken
+Germany
+;
+'Unruh H.G.'
+;
+Saarbr\"ucken Saarland University
+Fachbereich Physik
+Saarbr\"ucken
+Germany
+;
+'B\"arnighausen H.'
+;
+Karlsruhe University (TH)
+Institut f\"ur Anorganische Chemie
+Karlsruhe
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.223
+_cell_length_b                           7.431
+_cell_length_c                           9.012
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.76
+_cell_angle_gamma                        90
+_cell_volume                             458.01
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Br
+ K
+ Zn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br4 Br 2 a 0.01489 0.26445 0.76861 1
+ Br3 Br 2 a 0.01363 0.25938 0.24051 1
+ K1 K 2 a 0.21034 0.0 0.54869 1
+ Zn Zn 2 a 0.2201 0.52135 0.29567 1
+ K2 K 2 a 0.27423 -0.00067 0.0716 1
+ Br2 Br 2 a 0.42163 0.53663 0.13081 1
+ Br1 Br 2 a 0.60043 0.04242 0.42947 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.36
+_cell_measurement_temperature            128
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              128
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          STOE
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             64
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  0.0135
+
+# End of data set 1123097
+
+

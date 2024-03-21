@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# La-N-O-S         # La5S4NO2                                      # 1930952 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1930952
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1930952
+
+# Entry summary
+
+_chemical_formula_structural             'La~5~ S~4~ N O~2~'
+_chemical_formula_sum                    'La5 N O2 S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~5~S~4~NO~2~,mS48,12
+_chemical_formula_weight                 868.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Zwei strukturverwandte Oxidnitridchalkogenide der Lanthanoide: Tb~3~ONSe~2~ und La~5~O~2~NS~4~
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2010
+_journal_volume                          636
+_journal_page_first                      149
+_journal_page_last                       156
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lissner F.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Strobel S.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.7113
+_cell_length_b                           4.0967
+_cell_length_c                           16.8103
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.204
+_cell_angle_gamma                        90
+_cell_volume                             1061.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ La
+ N
+ O
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ La2 La 4 i 0.01795 0 0.16729 1
+ N N 4 i 0.0729 0 0.4499 1
+ La4 La 4 i 0.07889 0 0.59383 1
+ O2 O 4 i 0.1404 0 0.0973 1
+ La3 La 4 i 0.2672 0 0.20397 1
+ S4 S 4 i 0.28671 0 0.40788 1
+ La5 La 4 i 0.35942 0 0.58681 1
+ S3 S 4 i 0.45459 0 0.28664 1
+ O1 O 4 i 0.4978 0 0.0869 1
+ La1 La 4 i 0.6245 0 0.02364 1
+ S2 S 4 i 0.6601 0 0.24586 1
+ S1 S 4 i 0.82247 0 0.09919 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.44
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker-Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    12229
+_exptl_absorpt_coefficient_mu            20.43
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1369
+_refine_ls_R_factor_gt                   0.020
+_refine_ls_wR_factor_gt                  0.043
+
+# End of data set 1930952
+
+

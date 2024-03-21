@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# C-Fe-K-N         # K3Fe[CN]6 rt                                  # 2070148 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2070148
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2070148
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Fe [C N]~6~'
+_chemical_formula_sum                    'C6 Fe K3 N6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            K~3~Co[CN]~6~-b,mP32,14
+_chemical_formula_weight                 329.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal Structures of the Room- and Low-Temperature Phases of Monoclinic Potassium Ferricyanide
+;
+_journal_coden_ASTM                      JUPSAU
+_journal_name_full                       'J. Phys. Soc. Jpn.'
+_journal_year                            1985
+_journal_volume                          54
+_journal_page_first                      2184
+_journal_page_last                       2189
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Morioka Y.'
+;
+Sendai Miyagi Tohoku University
+Department of Chemistry
+Sendai / Miyagi
+Japan
+;
+'Toriumi K.'
+;
+Okazaki Aichi National Research Institute
+Institute of Molecular Science
+Okazaki / Aichi
+Japan
+;
+'Ito T.'
+;
+Okazaki Aichi National Research Institute
+Institute of Molecular Science
+Okazaki / Aichi
+Japan
+;
+'Saito A.'
+;
+Sendai Miyagi Tohoku University
+Department of Chemistry
+Sendai / Miyagi
+Japan
+;
+'Nakagawa I.'
+;
+Sendai Miyagi Tohoku University
+Department of Chemistry
+Sendai / Miyagi
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.058
+_cell_length_b                           10.426
+_cell_length_c                           8.401
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.31
+_cell_angle_gamma                        90
+_cell_volume                             590.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ K
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 4 e 0.1213 0.6688 0.0291 1
+ C2 C 4 e 0.1876 0.4472 0.2103 1
+ C3 C 4 e 0.1878 0.0553 0.385 1
+ N1 N 4 e 0.1994 0.7665 0.0481 1
+ N3 N 4 e 0.2972 0.0881 0.3152 1
+ N2 N 4 e 0.2968 0.4178 0.3362 1
+ K2 K 4 e 0.5024 0.2299 0.1253 1
+ Fe Fe 2 c 0 0 0.5 1
+ K1 K 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.85
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC5'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            2.32
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1951
+_refine_ls_R_factor_gt                   0.029
+_refine_ls_wR_factor_gt                  0.038
+
+# End of data set 2070148
+
+

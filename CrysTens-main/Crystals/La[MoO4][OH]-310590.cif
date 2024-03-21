@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# H-La-Mo-O        # La[MoO4][OH]                                  #  310590 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_310590
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      310590
+
+# Entry summary
+
+_chemical_formula_structural             'La [Mo O~4~] [O H]'
+_chemical_formula_sum                    'H La Mo O5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Nd[WO~4~][OH],mP28,14
+_chemical_formula_weight                 315.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal synthesis and crystallographic properties of rare earth hydroxymolybdates with the composition LnMoO~4~OH
+;
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            1973
+_journal_volume                          9
+_journal_page_first                      374
+_journal_page_last                       376
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Protasova V.I.'
+;
+Russian Academy of Sciences
+Institute of Inorganic Chemistry
+Moscow
+Russia
+;
+'Kharchenko L.Y.'
+;
+Russian Academy of Sciences
+Institute of Inorganic Chemistry
+Moscow
+Russia
+;
+'Klevtsov P.V.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.39
+_cell_length_b                           12.78
+_cell_length_c                           6.9
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.
+_cell_angle_gamma                        90
+_cell_volume                             437.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.005 0.57 0.163 1
+ Mo1 Mo 4 e 0.0939 0.1407 0.1471 1
+ O2 O 4 e 0.197 0.273 0.2 1
+ O3 O 4 e 0.233 0.837 0.075 1
+ O4 O 4 e 0.27 0.063 0.031 1
+ La1 La 4 e 0.3637 0.4455 0.2073 1
+ O5 O 4 e 0.514 0.104 0.444 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.80
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               film
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 310590
+
+

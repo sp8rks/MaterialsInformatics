@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# K-Se-Sn          # KSn2Se4                                       # 1703164 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1703164
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1703164
+
+# Entry summary
+
+_chemical_formula_structural             'K Sn~2~ Se~4~'
+_chemical_formula_sum                    'K Se4 Sn2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KSn~2~Se~4~,mS28,8
+_chemical_formula_weight                 592.3
+
+# Bibliographic data
+
+_publ_section_title
+'K~2~Sn~4~Se~8~ - ein gemischtvalentes Selenostannat'                         
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1992
+_journal_volume                          47
+_journal_page_first                      406
+_journal_page_last                       410
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Klepp K.O.'
+;
+Linz Johannes Kepler University
+Abteilung f\"ur Allgemeine und Anorganische Chemie
+Linz
+Austria
+;
+'Fabian F.'
+;
+Linz Johannes Kepler University
+Abteilung f\"ur Allgemeine und Anorganische Chemie
+Linz
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.436
+_cell_length_b                           18.934
+_cell_length_c                           7.417
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.26
+_cell_angle_gamma                        90
+_cell_volume                             898.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Se
+ K
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se3 Se 4 b 0.0007 0.16535 0.0112 1
+ K K 4 b 0.0101 0.3442 0.1024 1
+ Sn3 Sn 4 b 0.0205 0.18884 0.6872 1
+ Se4 Se 4 b 0.3297 0.40316 0.4833 1
+ Se5 Se 4 b 0.388 0.18958 0.5877 1
+ Sn2 Sn 2 a 0.0 0 0.0 1
+ Sn1 Sn 2 a 0.1056 0 0.5089 1
+ Se1 Se 2 a 0.3235 0 0.8053 1
+ Se2 Se 2 a 0.3279 0 0.2566 1
+
+
+_exptl_crystal_colour                    'red ruby'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.38
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            22.01
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             68
+_refine_ls_number_reflns                 743
+_refine_ls_R_factor_gt                   0.022
+_refine_ls_wR_factor_gt                  0.018
+
+# End of data set 1703164
+
+

@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# Fe-La-Mn-S       # La3MnFeS7                                     #  462528 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_462528
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      462528
+
+# Entry summary
+
+_chemical_formula_structural             'La~3~ Mn Fe S~7~'
+_chemical_formula_sum                    'Fe La3 Mn S7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~3~Mn~0.5~SiS~7~,hP24,173
+_chemical_formula_weight                 751.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Preparation, Structure, and Magnetic Properties of Isostructural La~3~MAlS~7~ and La~3~MFeS~7~ (M= Mg, Mn, Fe, Co, Ni, or Zn)
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1983
+_journal_volume                          49
+_journal_page_first                      51
+_journal_page_last                       58
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nanjundaswamy K.S.'
+;
+Indian Institute of Science
+Department of Solid State and Structural Chemistry
+Bangalore / Karnataka
+India
+;
+'Gopalakrishnan J.'
+;
+Indian Institute of Science
+Department of Solid State and Structural Chemistry
+Bangalore / Karnataka
+India
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.323
+_cell_length_b                           10.323
+_cell_length_c                           5.803
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             535.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ La
+ Fe
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S(II) S 6 c 0.104 0.525 0.008 1
+ S(I) S 6 c 0.172 0.263 0.243 1
+ La La 6 c 0.361 0.128 0.235 1
+ Fe Fe 2 b 0.333333 0.666667 0.149 1
+ S(III) S 2 b 0.333333 0.666667 0.513 1
+ Mn Mn 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.66
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.035
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 1 48.7 22.00
+ 2 0 0 44.8 21.30
+ 2 0 1 35.4 100.00
+ 2 1 0 33.8 35.90
+ 2 1 1 29.21 14.60
+ 0 0 2 28.94 17.30
+ 3 0 1 26.52 26.40
+ 2 2 0 25.85 50.10
+ 1 1 2 25.29 31.50
+ 3 1 0 24.8 49.80
+ 2 1 2 21.96 31.60
+ 3 2 1 19.33 21.20
+ 3 1 2 18.8 31.60
+ 4 1 1 18.48 23.60
+ 4 0 2 17.71 18.60
+ 5 0 1 17.09 8.00
+ 3 3 1 16.5 12.20
+ 4 1 2 16.18 15.40
+
+# End of data set 462528
+
+

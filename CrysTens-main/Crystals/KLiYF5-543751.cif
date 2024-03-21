@@ -1,0 +1,202 @@
+##############################################################################
+#                                                                            #
+# F-K-Li-Y         # KLiYF5                                        #  543751 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_543751
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      543751
+
+# Entry summary
+
+_chemical_formula_structural             'K Li Y F~5~'
+_chemical_formula_sum                    'F5 K Li Y'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KLiYF~5~,mP32,14
+_chemical_formula_weight                 229.9
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis of the Compounds LiKRF~5~ (R= Gd to Lu)'                           
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1993
+_journal_volume                          38
+_journal_page_first                      405
+_journal_page_last                       407
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fedorov P.P.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Val'kovskii M.D.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Medvedeva L.V.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Bondareva O.S.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Sobolev B.P.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.2909
+_cell_length_b                           11.7479
+_cell_length_c                           6.4649
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.693
+_cell_angle_gamma                        90
+_cell_volume                             437.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ F
+ K
+ Y
+ Li
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 e 0.0436 0.4925 0.3265 1
+ K1 K 4 e 0.0508 0.6512 0.0369 1
+ F2 F 4 e 0.2766 0.1948 0.2202 1
+ Y1 Y 4 e 0.3174 0.0022 0.1793 1
+ F3 F 4 e 0.3362 0.4676 0.0483 1
+ Li1 Li 4 e 0.4431 0.2554 0.0394 1
+ F4 F 4 e 0.5368 0.1051 0.0364 1
+ F5 F 4 e 0.7115 0.3254 0.2196 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.49
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 2 0 58.6721 100
+ 0 1 1 51.6424 6
+ -1 1 1 48.4783 30
+ 1 2 0 41.6746 12
+ 1 1 1 33.3869 81
+ 0 3 1 32.3758 35
+ -1 3 1 31.5674 45
+ -1 0 2 31.3179 41
+ -2 1 1 30.9459 52
+ 0 4 0 29.3553 26
+ 0 0 2 28.8021 5
+ -1 2 2 27.6151 10
+ -2 0 2 26.6564 5
+ 2 2 0 26.4275 6
+ 1 4 0 26.2697 14
+ 0 2 2 25.8655 5
+ -2 3 1 24.8667 4
+ -2 2 2 24.3206 26
+ 1 0 2 22.5938 3
+ 1 4 1 22.4642 12
+ 1 5 0 21.8496 5
+ -1 5 1 21.487 33
+ 1 2 2 21.062 11
+ 2 4 0 20.8494 14
+ -3 0 2 20.5479 26
+ -2 1 3 19.9265 13
+ -2 4 2 19.7216 38
+ 0 6 0 19.5689 30
+ 1 5 1 19.4816 32
+ -3 2 2 19.4423 32
+ 0 1 3 18.9533 41
+ 3 2 0 18.7043 14
+ -1 3 3 18.4485 5
+ -2 3 3 17.9989 12
+ 1 4 2 17.9066 10
+ -3 1 3 17.5856 24
+ 2 0 2 17.4298 12
+
+# End of data set 543751
+
+

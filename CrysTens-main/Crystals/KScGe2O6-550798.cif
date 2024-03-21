@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Ge-K-O-Sc        # KScGe2O6                                      #  550798 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_550798
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      550798
+
+# Entry summary
+
+_chemical_formula_structural             'K Sc Ge~2~ O~6~'
+_chemical_formula_sum                    'Ge2 K O6 Sc'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CaCuGe~2~O~6~,mP40,14
+_chemical_formula_weight                 325.2
+
+# Bibliographic data
+
+_publ_section_title
+'Crystallization of scandium germanates in high-temperature aqueous solutions'
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            1976
+_journal_volume                          12
+_journal_page_first                      126
+_journal_page_last                       127
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Demyanets L.N.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Gorbunov Y.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Maksimov B.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Iliukhin V.V.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Belov N.V.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.9204
+_cell_length_b                           9.1
+_cell_length_c                           5.6
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.471
+_cell_angle_gamma                        90
+_cell_volume                             489.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Ge
+ O
+ Sc
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ge1 Ge 4 e 0.049 0.1508 0.3391 1
+ O1 O 4 e 0.1016 0.3056 0.1822 1
+ O2 O 4 e 0.1272 0.6392 0.243 1
+ O3 O 4 e 0.1459 0.0107 0.2697 1
+ Sc1 Sc 4 e 0.283 0.4525 0.4746 1
+ O4 O 4 e 0.4006 0.2483 0.3103 1
+ Ge2 Ge 4 e 0.491 0.351 0.0902 1
+ O5 O 4 e 0.5679 0.0223 0.3282 1
+ O6 O 4 e 0.6581 0.3206 0.2817 1
+ K1 K 4 e 0.7727 0.3383 0.0291 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.41
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               film
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 550798
+
+

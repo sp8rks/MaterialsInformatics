@@ -1,0 +1,196 @@
+##############################################################################
+#                                                                            #
+# B-H-K-N          # K[N2H3BH3]                                    # 1942677 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1942677
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1942677
+
+# Entry summary
+
+_chemical_formula_structural             'K [N~2~ H~3~ B H~3~]'
+_chemical_formula_sum                    'B H6 K N2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K[N~2~H~3~BH~3~],mP8,4
+_chemical_formula_weight                 84.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Alkali metal hydride modification on hydrazine borane for improved dehydrogenation
+;
+_journal_coden_ASTM                      JPCCCK
+_journal_name_full                       'J. Phys. Chem. C'
+_journal_year                            2014
+_journal_volume                          118
+_journal_page_first                      11244
+_journal_page_last                       11251
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chua Y.S.'
+;
+Chinese Academy of Sciences
+Dalian Institute of Chemical Physics
+Dalian / Liaoning
+China
+;
+'Pei Q.'
+;
+Chengdu Sichuan University
+School of Physical Science and Technology
+Chengdu / Sichuan
+China
+;
+'Ju X.'
+;
+Chinese Academy of Sciences
+Dalian Institute of Chemical Physics
+Dalian / Liaoning
+China
+;
+'Zhou W.'
+;
+National Institute of Standards and Technology (NIST)
+Center for Neutron Research
+Gaithersburg
+U.S.A. Maryland
+;
+'Udovic T.J.'
+;
+National Institute of Standards and Technology (NIST)
+Center for Neutron Research
+Gaithersburg
+U.S.A. Maryland
+;
+'Wu G.'
+;
+Chinese Academy of Sciences
+Dalian Institute of Chemical Physics
+Dalian / Liaoning
+China
+;
+'Xiong Z.'
+;
+Chinese Academy of Sciences
+Dalian Institute of Chemical Physics
+Dalian / Liaoning
+China
+;
+'Chen P.'
+;
+Chinese Academy of Sciences
+Dalian Institute of Chemical Physics
+Dalian / Liaoning
+China
+;
+'Wu H.'
+;
+National Institute of Standards and Technology (NIST)
+Center for Neutron Research
+Gaithersburg
+U.S.A. Maryland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.7779
+_cell_length_b                           5.893
+_cell_length_c                           6.721
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.28
+_cell_angle_gamma                        90
+_cell_volume                             217.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ N
+ K
+ B
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N9 N 2 a 0.1008 0.2126 0.32213 1
+ K10 K 2 a 0.21597 0.5623 0.06369 1
+ N8 N 2 a 0.2172 0.0 0.29214 1
+ B7 B 2 a 0.4194 0.0497 0.19306 1
+ H6 H 2 a 0.0468 0.6753 0.62842 1
+ H5 H 2 a 0.2206 0.3034 0.44307 1
+ H2 H 2 a 0.3284 0.0953 0.00402 1
+ H4 H 2 a 0.4489 0.3803 0.78984 1
+ H3 H 2 a 0.5288 0.2135 0.30049 1
+ H1 H 2 a 0.7099 0.4225 0.56389 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.28
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+PANalytical X'Pert MPD
+;
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5.06
+_diffrn_reflns_theta_max                 32.32
+_pd_proc_2theta_range_min                10.12
+_pd_proc_2theta_range_max                64.64
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'ab initio calculations'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0277
+_pd_proc_ls_proof_wR_factor              0.0388
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1942677
+
+

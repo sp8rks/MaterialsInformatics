@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Ag-K-Se          # KAg3Se2                                       # 1903572 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1903572
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1903572
+
+# Entry summary
+
+_chemical_formula_structural             'K Ag~3~ Se~2~'
+_chemical_formula_sum                    'Ag3 K Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsAg~3~S~2~,mS24,12
+_chemical_formula_weight                 520.6
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of potassium diselenotriargentate, KAg~3~Se~2~'            
+_journal_coden_ASTM                      ZKNSFT
+_journal_name_full
+'Z. Kristallogr. - New Cryst. Struct.'                                        
+_journal_year                            1997
+_journal_volume                          212
+_journal_page_first                      97
+_journal_page_last                       98
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bensch W.'
+;
+Frankfurt Johann Wolfgang Goethe University
+Institut f\"ur Anorganische Chemie
+Frankfurt am Main
+Germany
+;
+'D\"urichen P.'
+;
+Frankfurt Johann Wolfgang Goethe University
+Institut f\"ur Anorganische Chemie
+Frankfurt am Main
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           16.61
+_cell_length_b                           4.384
+_cell_length_c                           8.759
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.55
+_cell_angle_gamma                        90
+_cell_volume                             575.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ag
+ K
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag3 Ag 4 i 0.05605 0 0.3984 1
+ K1 K 4 i 0.1355 0 0.0474 1
+ Se1 Se 4 i 0.20383 0 0.7061 1
+ Ag2 Ag 4 i 0.31154 0 0.5599 1
+ Ag1 Ag 4 i 0.40535 0 0.3513 1
+ Se2 Se 4 i 0.51514 0 0.2129 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.01
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            23.321
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             38
+_refine_ls_number_reflns                 1453
+_refine_ls_R_factor_gt                   0.064
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1903572
+
+

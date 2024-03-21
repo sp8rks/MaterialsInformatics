@@ -1,0 +1,195 @@
+##############################################################################
+#                                                                            #
+# K-Sb-Se-Th       # KThSb2Se6                                     # 1002578 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1002578
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1002578
+
+# Entry summary
+
+_chemical_formula_structural             'K Th Sb~2~ Se~6~'
+_chemical_formula_sum                    'K Sb2 Se6 Th'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KThSb~2~Se~6~,mP40,14
+_chemical_formula_weight                 988.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+KThSb~2~Se~6~ and BaLaBi~2~Q~6~ (Q= S, Se) Adopt a New Structure Type Stabilized with Dichalcogenide Groups
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1997
+_journal_volume                          36
+_journal_page_first                      3804
+_journal_page_last                       3805
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Chondroudis K.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Iordanidis L.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Choi K.S.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.2676
+_cell_length_b                           15.1746
+_cell_length_c                           16.9909
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.217
+_cell_angle_gamma                        90
+_cell_volume                             1099.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Sb
+ K
+ Th
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se6 Se 4 e 0.1791 0.5137 0.0585 1
+ Se2 Se 4 e 0.2107 0.2069 0.4832 1
+ Se4 Se 4 e 0.2123 0.327 0.213 1
+ Sb2 Sb 4 e 0.2478 0.47373 0.29679 1
+ K1 K 4 e 0.264 0.7122 0.1733 1
+ Sb1 Sb 4 e 0.2711 0.12707 0.02538 1
+ Se3 Se 4 e 0.3184 0.5846 0.5928 1
+ Se5 Se 4 e 0.3354 0.0312 0.3015 1
+ Th1 Th 4 e 0.6994 0.37046 0.09141 1
+ Se1 Se 4 e 0.7241 0.1712 0.1273 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.97
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5557
+_diffrn_reflns_theta_min                 1.8
+_diffrn_reflns_theta_max                 25.07
+_exptl_absorpt_coefficient_mu            38.617
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             91
+_refine_ls_number_reflns                 1530
+_refine_ls_R_factor_gt                   0.045
+_refine_ls_wR_factor_gt                  0.050
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 113.23 13.59
+ 0 2 0 75.83 22.99
+ 0 1 2 74.18 60.59
+ 0 2 1 69.14 51.87
+ 0 2 2 56.51 15.74
+ 0 1 4 40.86 13.82
+ 0 3 3 37.7 20.50
+ 1 2 1 36.14 10.31
+ 0 4 2 34.56 37.71
+ 0 3 4 32.53 17.78
+ 0 4 3 31.44 11.44
+ 1 3 -2 30.74 11.10
+ 1 3 2 30.16 28.77
+ 0 5 1 29.78 12.68
+ 1 1 4 29 17.10
+ 0 5 2 28.49 100.00
+ 1 3 3 27.87 11.66
+ 1 2 4 27.52 14.72
+ 0 2 6 26.54 19.03
+ 0 6 0 25.22 11.66
+ 1 5 -1 24.54 12.91
+ 1 5 -2 23.89 11.78
+ 0 2 7 23.09 32.05
+ 0 5 5 22.61 16.42
+ 1 2 6 22.12 11.44
+ 1 4 5 21.46 15.40
+ 1 3 6 21.05 11.44
+ 0 2 8 20.44 13.02
+ 1 4 -6 20.28 12.23
+ 0 2 9 18.3 19.59
+ 2 5 2 17 13.48
+ 2 6 -2 16.09 10.31
+
+# End of data set 1002578
+
+

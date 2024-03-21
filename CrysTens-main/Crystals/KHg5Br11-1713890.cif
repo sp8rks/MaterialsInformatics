@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Br-Hg-K          # KHg5Br11                                      # 1713890 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1713890
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1713890
+
+# Entry summary
+
+_chemical_formula_structural             'K Hg~5~ Br~11~'
+_chemical_formula_sum                    'Br11 Hg5 K'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            TlHg~5~Cl~11~,mS34,12
+_chemical_formula_weight                 1921.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+\"Uber Chloro- und Bromomercurate MHg~5~X~11~ (M= Tl, K, Rb, Cs, NH~4~; X= Cl, Br)
+;
+_journal_coden_ASTM                      ZNBAD2
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1980
+_journal_volume                          35
+_journal_page_first                      253
+_journal_page_last                       258
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Brodersen K.'
+;
+Erlangen University
+Institut f\"ur Anorganische Chemie
+Erlangen
+Germany
+;
+'Jensen K.P.'
+;
+Erlangen University
+Institut f\"ur Anorganische Chemie
+Erlangen
+Germany
+;
+'Thiele G.'
+;
+Erlangen University
+Institut f\"ur Anorganische Chemie
+Erlangen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.293
+_cell_length_b                           15.19
+_cell_length_c                           6.789
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.62
+_cell_angle_gamma                        90
+_cell_volume                             1112.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Br
+ Hg
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br1 Br 8 j 0.0775 0.2197 0.3004 1
+ Br2 Br 8 j 0.2946 0.1238 0.0768 1
+ Hg1 Hg 8 j 0.3151 0.3304 0.3134 1
+ Br3 Br 4 i 0.3511 0 0.6111 1
+ Br4 Br 2 c 0 0 0.5 1
+ Hg2 Hg 2 b 0 0.5 0 1
+ K1 K 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.73
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1713890
+
+

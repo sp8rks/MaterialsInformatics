@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# Ga-K-S           # K3GaS3                                        # 1409479 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1409479
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1409479
+
+# Entry summary
+
+_chemical_formula_structural             'K~3~ Ga S~3~'
+_chemical_formula_sum                    'Ga K3 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~3~GaSe~3~,mP28,14
+_chemical_formula_weight                 283.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of hexapotassium di-\m-thio-bis(dithiogallate), K~6~Ga~2~S~6~
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1991
+_journal_volume                          197
+_journal_page_first                      155
+_journal_page_last                       156
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Eisenmann B.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+'Hofmann A.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.756
+_cell_length_b                           12.55
+_cell_length_c                           10.128
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.66
+_cell_angle_gamma                        90
+_cell_volume                             780.44
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ga
+ S
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ga1 Ga 4 e 0.06439 0.0598 0.16342 1
+ S3 S 4 e 0.1257 0.5461 0.2374 1
+ K2 K 4 e 0.1381 0.8111 0.4232 1
+ S1 S 4 e 0.1561 0.6065 0.6213 1
+ S2 S 4 e 0.3458 0.1747 0.3106 1
+ K1 K 4 e 0.3416 0.4109 0.1082 1
+ K3 K 4 e 0.383 0.1268 0.0263 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.41
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            5.904
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             64
+_refine_ls_number_reflns                 2273
+_refine_ls_R_factor_gt                   0.032
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1409479
+
+

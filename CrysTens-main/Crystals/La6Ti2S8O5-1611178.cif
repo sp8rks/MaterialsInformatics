@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# La-O-S-Ti        # La6Ti2S8O5                                    # 1611178 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1611178
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1611178
+
+# Entry summary
+
+_chemical_formula_structural             'La~6~ Ti~2~ S~8~ O~5~'
+_chemical_formula_sum                    'La6 O5 S8 Ti2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~6~Ti~2~S~8~O~5~,mP42,11
+_chemical_formula_weight                 1265.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and Characterization of the New Rare-Earth/Transition-Metal Oxysulfides La~6~Ti~2~S~8~O~5~ and La~4~Ti~3~S~4~O~8~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1995
+_journal_volume                          114
+_journal_page_first                      406
+_journal_page_last                       412
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cody J.A.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Ibers J.A.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.572
+_cell_length_b                           4.053
+_cell_length_c                           16.289
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.79
+_cell_angle_gamma                        90
+_cell_volume                             824.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ La
+ S
+ Ti
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ La1 La 2 e 0.00203 0.25 0.61957 1
+ La2 La 2 e 0.06888 0.25 0.88183 1
+ S1 S 2 e 0.0878 0.25 0.0682 1
+ Ti1 Ti 2 e 0.1533 0.25 0.2324 1
+ S2 S 2 e 0.1962 0.25 0.3737 1
+ S3 S 2 e 0.2252 0.25 0.7313 1
+ O1 O 2 e 0.2877 0.25 0.1938 1
+ S4 S 2 e 0.3916 0.25 0.5359 1
+ La3 La 2 e 0.39605 0.25 0.87348 1
+ S5 S 2 e 0.4303 0.25 0.0611 1
+ Ti2 Ti 2 e 0.4406 0.25 0.2268 1
+ O2 O 2 e 0.4538 0.25 0.3383 1
+ O3 O 2 e 0.566 0.25 0.7828 1
+ O4 O 2 e 0.5827 0.25 0.2123 1
+ La4 La 2 e 0.61678 0.25 0.6021 1
+ La5 La 2 e 0.67897 0.25 0.35162 1
+ La6 La 2 e 0.72961 0.25 0.89916 1
+ S6 S 2 e 0.7632 0.25 0.0768 1
+ O5 O 2 e 0.8511 0.25 0.7818 1
+ S7 S 2 e 0.8855 0.25 0.455 1
+ S8 S 2 e 0.9697 0.25 0.2458 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.10
+_cell_measurement_temperature            113
+_cell_measurement_radiation              'X-rays, Mo Ka1'
+_cell_measurement_wavelength             0.7093
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              113
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Picker
+_diffrn_radiation_type                   'X-rays, Mo Ka1'
+_diffrn_radiation_wavelength             0.7093
+_diffrn_reflns_number                    8964
+_diffrn_reflns_theta_min                 1.63
+_diffrn_reflns_theta_max                 30.57
+_exptl_absorpt_coefficient_mu            17.117
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             64
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.064
+_refine_ls_wR_factor_gt                  0.147
+
+# End of data set 1611178
+
+

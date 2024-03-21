@@ -1,0 +1,231 @@
+##############################################################################
+#                                                                            #
+# H-K-O-Te         # K4Te2O6[OH]4[H2O]7.3                          # 1814916 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814916
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814916
+
+# Entry summary
+
+_chemical_formula_structural
+'K~4~ Te~2~ O~6~ [O H]~4~ [H~2~ O]~7.3~'                                      
+_chemical_formula_sum                    'H18.60 K4 O17.30 Te2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+K~4~Te~2~O~6~[OH]~4~[H~2~O]~7.3~,mS100,15                                     
+_chemical_formula_weight                 707.1
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of a Potassium Tellurate(VI)'                          
+_journal_coden_ASTM                      ACSAA4
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1966
+_journal_volume                          20
+_journal_page_first                      2138
+_journal_page_last                       2155
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lindqvist O.'
+;
+Chalmers University of Technology
+Department of Inorganic Chemistry
+Gothenburg
+Sweden
+;
+'Lundgren G.'
+;
+Chalmers University of Technology
+Gothenburg
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.3705
+_cell_length_b                           6.92
+_cell_length_c                           17.9746
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.212
+_cell_angle_gamma                        90
+_cell_volume                             1743.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ K
+ O
+ OH
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O8 OH2 8 f 0.0314 0.283 0.4686 1
+ O10 OH2 8 f 0.085 0.093 0.23 0.3
+ K2 K 8 f 0.1026 0.3718 0.3488 1
+ O2 O 8 f 0.1467 0.484 0.0912 1
+ O5 OH 8 f 0.1713 0.084 0.0739 1
+ O4 OH 8 f 0.1893 0.064 0.4327 1
+ Te Te 8 f 0.24133 0.3305 0.07773 1
+ O6 OH2 8 f 0.2638 0.311 0.3108 1
+ O1 O 8 f 0.3275 0.301 0.1858 1
+ O3 O 8 f 0.3293 0.173 0.0427 1
+ O7 OH2 8 f 0.4362 0.066 0.3037 1
+ K1 K 8 f 0.4964 0.4042 0.0922 1
+ O9 OH2 4 e 0 0.034 0.25 0.7
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              2.75
+_exptl_crystal_density_diffrn            2.69
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5405
+_pd_proc_wavelength                      1.5405
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            36.4
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1100
+_refine_ls_R_factor_gt                   0.080
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 8780 5
+ 2 0 -2 12030 7
+ 2 0 0 12380 5
+ 1 1 0 15440 7
+ 1 1 -2 19690 8
+ 1 1 1 19980 1
+ 1 1 -3 28440 5
+ 1 1 2 28920 1
+ 2 0 -4 29340 3
+ 2 0 2 30400 2
+ 0 0 4 35310 8
+ 4 0 -2 40080 2
+ 3 1 0 40400 2
+ 1 1 -4 41590 2
+ 1 1 3 42090 3
+ 4 0 -4 48170 7
+ 0 2 0 49570 2
+ 0 2 1 51820 5
+ 2 2 -2 61570 2
+ 3 1 2 62930 2
+ 2 0 4 66130 3
+ 2 2 1 68830 2
+ 4 0 -6 74020 5
+ 5 1 -3 75500 1
+ 4 0 2 77030 5
+ 5 1 -4 79550 3
+ 5 1 -1 80840 3
+ 1 1 -6 81120 2
+ 1 1 5 82010 3
+ 5 1 -5 87830 1
+ 5 1 0 90080 7
+ 4 2 -1 92280 3
+ 4 2 -4 97970 2
+ 3 1 -7 100330 1
+ 1 1 6 108750 7
+ 4 2 1 110710 3
+ 2 2 4 115710 1
+ 5 1 2 121900 3
+ 3 1 -8 126570 2
+ 3 3 -1 134800 5
+ 1 1 -8 138410 1
+ 1 1 7 139710 3
+ 1 3 3 141400 3
+ 4 2 -7 143070 2
+ 4 2 3 146860 1
+ 3 3 1 148500 2
+ 1 3 -5 158380 2
+ 8 0 -4 160620 1
+ 7 1 0 164740 2
+ 2 2 -8 166650 1
+ 8 0 -2 171050 5
+ 5 3 -3 174600 3
+ 7 1 -8 177460 1
+ 4 0 -10 178520 1
+ 2 0 -10 187080 5
+ 6 2 -8 192480 2
+ 4 2 -9 195350 1
+ 0 4 0 198140 1
+ 4 2 5 200390 7
+ 2 4 0 210610 1
+ 8 2 -5 211730 2
+ 6 2 3 222620 1
+ 7 1 -10 224760 1
+ 0 2 9 228270 2
+ 9 1 -2 231590 1
+ 2 4 -5 242990 2
+ 10 0 -4 254290 2
+ 4 4 1 259270 2
+ 5 3 -9 264440 3
+ 8 2 1 269090 2
+ 6 2 5 285570 1
+ 3 3 7 295800 3
+ 6 2 -12 313950 3
+ 1 5 -2 317100 3
+ 5 1 8 323520 2
+ 3 1 10 330040 3
+ 7 3 -11 353790 2
+
+# End of data set 1814916
+
+

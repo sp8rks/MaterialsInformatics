@@ -1,0 +1,161 @@
+##############################################################################
+#                                                                            #
+# H-La-N-O         # La[NO3]3[H2O]4 mon                            # 1801314 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1801314
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1801314
+
+# Entry summary
+
+_chemical_formula_structural             'La [N O~3~]~3~ [H~2~ O]~4~'
+_chemical_formula_sum                    'H8 La N3 O13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La[NO~3~]~3~[H~2~O]~4~,mP34,11
+_chemical_formula_weight                 397.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure determination of two polymorphic phases of La(NO~3~)~3~.4H~2~O from X-ray powder diffraction
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1996
+_journal_volume                          126
+_journal_page_first                      127
+_journal_page_last                       134
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gobichon A.E.'
+;
+Rennes I University
+Laboratoire de Cristallochimie
+Rennes
+France
+;
+'Louer M.'
+;
+Rennes I University
+Laboratoire de Cristallochimie
+Rennes
+France
+;
+'Auffr\'edic J.P.'
+;
+Rennes I University
+Laboratoire de Cristallochimie
+Rennes
+France
+;
+'Louer D.'
+;
+Rennes I University
+Laboratoire de Cristallochimie
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5843
+_cell_length_b                           11.3673
+_cell_length_c                           6.7778
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.644
+_cell_angle_gamma                        90
+_cell_volume                             507.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ N
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O21 O 4 f 0.101 0.036 0.206 1
+ O11 O 4 f 0.148 0.654 0.526 1
+ Ow3 OH2 4 f 0.231 0.1024 0.688 1
+ N2 N 4 f 0.282 0.503 0.199 1
+ O22 O 4 f 0.326 0.595 0.105 1
+ O23 O 4 f 0.437 0.043 0.278 1
+ La La 2 e 0.2008 0.25 0.369 1
+ Ow2 OH2 2 e 0.37 0.25 0.021 1
+ O12 O 2 e 0.568 0.25 0.514 1
+ N1 N 2 e 0.746 0.25 0.493 1
+ Ow1 OH2 2 e 0.923 0.25 0.079 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D500'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    640
+_diffrn_reflns_theta_min                 6
+_diffrn_reflns_theta_max                 53.5
+_pd_proc_2theta_range_min                12
+_pd_proc_2theta_range_max                107
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             49
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.050
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.058
+_pd_proc_ls_proof_wR_factor              0.077
+_refine_ls_R_I_factor                    0.073
+
+# End of data set 1801314
+
+

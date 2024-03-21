@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# As-Cu-K-S        # KCu4AsS4                                      # 1231368 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1231368
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1231368
+
+# Entry summary
+
+_chemical_formula_structural             'K Cu~4~ As S~4~'
+_chemical_formula_sum                    'As Cu4 K S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KCu~4~AsS~4~,mP20,4
+_chemical_formula_weight                 496.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structure and characterization of two new copper(I)-thioarsenates(III) constructed by the [AsS~3~]^3-^ and CuS~x~ units
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2013
+_journal_volume                          198
+_journal_page_first                      289
+_journal_page_last                       294
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yao H.G.'
+;
+Zhongshan Guangdong Pharmaceutical University
+School of Chemistry and Chemical Engineering
+Zhongshan / Guangdong
+China
+;
+'Ji M.'
+;
+Dalian Liaoning University of Technology
+Department of Chemistry
+Dalian / Liaoning
+China
+;
+'Ji S.H.'
+;
+Dalian Liaoning University of Technology
+Departments of Materials
+Dalian / Liaoning
+China
+;
+'An Y.L.'
+;
+Dalian Liaoning University of Technology
+Department of Chemistry
+Dalian / Liaoning
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.6162
+_cell_length_b                           6.387
+_cell_length_c                           9.5572
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.379
+_cell_angle_gamma                        90
+_cell_volume                             392.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cu
+ S
+ As
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu4 Cu 2 a 0.0226 0.4116 0.48565 1
+ S1 S 2 a 0.0615 0.1792 0.6585 1
+ Cu2 Cu 2 a 0.074 0.6811 0.1245 1
+ S3 S 2 a 0.1659 0.0 0.0509 1
+ As1 As 2 a 0.20529 0.19648 0.25219 1
+ Cu1 Cu 2 a 0.2935 0.7014 0.43661 1
+ Cu3 Cu 2 a 0.3622 0.0566 0.6109 1
+ S4 S 2 a 0.3831 0.4643 0.1931 1
+ S2 S 2 a 0.4651 0.0037 0.3966 1
+ K1 K 2 a 0.6787 0.0601 0.1367 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.20
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2067
+_diffrn_reflns_theta_min                 2.19
+_diffrn_reflns_theta_max                 27.52
+_exptl_absorpt_coefficient_mu            16.349
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             92
+_refine_ls_number_reflns                 1397
+_refine_ls_R_factor_gt                   0.0414
+_refine_ls_wR_factor_gt                  0.1103
+
+# End of data set 1231368
+
+

@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# H-K-O-P-U        # K2[UO2][PHO3]2[H2O]2                          # 1322784 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1322784
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1322784
+
+# Entry summary
+
+_chemical_formula_structural
+'K~2~ [U O~2~] [P H O~3~]~2~ [H~2~ O]~2~'                                     
+_chemical_formula_sum                    'H6 K2 O10 P2 U'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+K~2~[UO~2~][PHO~3~]~2~[H~2~O]~2~,mP30,4                                       
+_chemical_formula_weight                 544.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal Structure of Rubidium (Hydrogen Phosphito) phosphitodioxouranate(VI) Trihydrate and Potassium Diphosphitodioxouranate(VI) Dihydrate
+;
+_journal_coden_ASTM                      KOKHDC
+_journal_name_full                       'Koord. Khim.'
+_journal_year                            1985
+_journal_volume                          11
+_journal_page_first                      1393
+_journal_page_last                       1398
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mistryukov V.E.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Mikhailov Y.N.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.598
+_cell_length_b                           6.938
+_cell_length_c                           10.617
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.84
+_cell_angle_gamma                        90
+_cell_volume                             523.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ K
+ O
+ P
+ U
+ OH
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K1 K 2 a 0.0142 0.554 0.3991 1
+ O2 O 2 a 0.019 0.0 0.3255 1
+ O5 O 2 a 0.063 0.349 0.171 1
+ O3 O 2 a 0.087 0.704 0.164 1
+ P1 P 2 a 0.1475 0.514 0.1187 1
+ U U 2 a 0.17028 0.033 0.23047 1
+ O7 O 2 a 0.284 0.328 0.601 1
+ O1 O 2 a 0.323 0.047 0.1355 1
+ Ow2 OH 2 a 0.331 0.209 0.864 1
+ O6 O 2 a 0.366 0.24 0.399 1
+ P2 P 2 a 0.4221 0.2417 0.5521 1
+ O8 O 2 a 0.621 0.336 0.611 1
+ K2 K 2 a 0.6555 0.3037 0.0788 1
+ Ow1 OH 2 a 0.725 0.236 0.348 1
+ O4 O 2 a 0.889 0.007 0.0319 1
+ H1 H 2 a 0.308 0.51 0.164 1
+ H4 H 2 a 0.318 0.289 0.805 1
+ H2 H 2 a 0.425 0.089 0.589 1
+ H3 H 2 a 0.629 0.271 0.368 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.46
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1680
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1322784
+
+

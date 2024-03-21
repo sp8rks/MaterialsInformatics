@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# C-Hg-K-N-S       # KHg[SCN]3                                     # 1141682 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1141682
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1141682
+
+# Entry summary
+
+_chemical_formula_structural             'K Hg [S C N]~3~'
+_chemical_formula_sum                    'C3 Hg K N3 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            RbHg[SCN]~3~,mP22,11
+_chemical_formula_weight                 413.9
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of K[Hg(SCN)~3~] - a redetermination'                      
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2014
+_journal_volume                          70
+_journal_page_first                      i46
+_journal_page_last                       ?
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Weil M.'
+;
+Vienna Technical University
+Institute of Chemical Technologies and Analytics
+Vienna
+Austria
+;
+'H\"ausler T.'
+;
+Vienna Technical University
+Institute of Chemical Technologies and Analytics
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.9764
+_cell_length_b                           4.0775
+_cell_length_c                           11.2727
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.951
+_cell_angle_gamma                        90
+_cell_volume                             457.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ Hg
+ S
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 2 e 0.0314 0.25 0.2848 1
+ N1 N 2 e 0.0574 0.25 0.394 1
+ Hg1 Hg 2 e 0.22513 0.25 0.14538 1
+ N3 N 2 e 0.2382 0.25 0.7909 1
+ C3 C 2 e 0.2977 0.25 0.9019 1
+ S3 S 2 e 0.39262 0.25 0.06157 1
+ N2 N 2 e 0.4165 0.25 0.621 1
+ C2 C 2 e 0.5281 0.25 0.6421 1
+ S2 S 2 e 0.69007 0.25 0.67192 1
+ K1 K 2 e 0.78464 0.25 0.40567 1
+ S1 S 2 e 0.99391 0.25 0.12455 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.01
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            4570
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    11940
+_diffrn_reflns_theta_min                 3.41
+_diffrn_reflns_theta_max                 44.43
+_exptl_absorpt_coefficient_mu            17.90
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             68
+_refine_ls_number_reflns                 2358
+_refine_ls_R_factor_gt                   0.0280
+_refine_ls_wR_factor_gt                  0.0549
+
+# End of data set 1141682
+
+

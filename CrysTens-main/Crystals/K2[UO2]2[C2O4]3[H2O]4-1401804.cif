@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# C-H-K-O-U        # K2[UO2]2[C2O4]3[H2O]4                         # 1401804 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1401804
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1401804
+
+# Entry summary
+
+_chemical_formula_structural
+'K~2~ [U O~2~]~2~ [C~2~ O~4~]~3~ [H~2~ O]~4~'                                 
+_chemical_formula_sum                    'C6 H8 K2 O20 U2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+K~2~[UO~2~]~2~[C~2~O~4~]~3~[H~2~O]~4~,mP60,14                                 
+_chemical_formula_weight                 954.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+The Crystal and Molecular Structure of Potassium Diuranyl Trisoxalate Tetrahydrate
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1975
+_journal_volume                          31
+_journal_page_first                      2277
+_journal_page_last                       2280
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jayadevan N.C.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Radiochemistry Division
+Trombay / Maharashtra
+India
+;
+'Mudher K.D.S.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Radiochemistry Division
+Trombay / Maharashtra
+India
+;
+'Chackraburtty D.M.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Radiochemistry Division
+Trombay / Maharashtra
+India
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.37
+_cell_length_b                           19.67
+_cell_length_c                           10.2309
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.148
+_cell_angle_gamma                        90
+_cell_volume                             934.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ U
+ K
+ O
+ OH2
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ U U 4 e 0.0536 0.83394 0.0094 1
+ K K 4 e 0.0636 0.5995 0.1056 1
+ O1 O 4 e 0.0937 0.3245 0.3717 1
+ O9 OH2 4 e 0.1339 0.4631 0.2009 1
+ C3 C 4 e 0.1377 0.0008 0.0747 1
+ O2 O 4 e 0.2064 0.6555 0.3954 1
+ O3 O 4 e 0.2294 0.2769 0.0784 1
+ O8 O 4 e 0.2591 0.5529 0.6071 1
+ O7 O 4 e 0.2633 0.0589 0.1043 1
+ O5 O 4 e 0.3059 0.7282 0.0849 1
+ O6 O 4 e 0.3312 0.175 0.2462 1
+ C1 C 4 e 0.4384 0.2807 0.2004 1
+ C2 C 4 e 0.4734 0.2249 0.2974 1
+ O10 OH2 4 e 0.5106 0.425 0.0076 1
+ O4 O 4 e 0.5623 0.3353 0.2463 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              3.42
+_exptl_crystal_density_diffrn            3.39
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            67.8
+_exptl_absorpt_correction_type           cylindrical
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.097
+_refine_ls_wR_factor_gt                  0.107
+
+# End of data set 1401804
+
+

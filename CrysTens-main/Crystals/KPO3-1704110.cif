@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# K-O-P            # KPO3 rt                                       # 1704110 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1704110
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1704110
+
+# Entry summary
+
+_chemical_formula_structural             'K P O~3~'
+_chemical_formula_sum                    'K O3 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KPO~3~-a,mP40,14
+_chemical_formula_weight                 118.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+R\"ontgenographische Untersuchungen von KURROLschem Kaliummetaphosphat sowie Darstellung und Untersuchung eines Bleimetaphosphates [Pb(PO~3~)~2~]\\infty
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1953
+_journal_volume                          273
+_journal_page_first                      193
+_journal_page_last                       199
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Andress K.R.'
+;
+Erlangen University
+Institut f\"ur Anorganische Chemie
+Erlangen
+Germany
+;
+'Fischer K.'
+;
+Erlangen University
+Institut f\"ur Anorganische Chemie
+Erlangen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.26
+_cell_length_b                           4.6
+_cell_length_c                           14.09
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.8
+_cell_angle_gamma                        90
+_cell_volume                             653.2
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ K
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0554 0.2131 0.1663 1
+ K1 K 4 e 0.1023 0.2341 0.3699 1
+ O2 O 4 e 0.1782 0.6322 0.1047 1
+ P1 P 4 e 0.1898 0.2955 0.1532 1
+ O3 O 4 e 0.2276 0.1295 0.0611 1
+ P2 P 4 e 0.2846 0.7932 0.0549 1
+ O4 O 4 e 0.3 0.275 0.2364 1
+ K2 K 4 e 0.5663 0.2758 0.1709 1
+ O5 O 4 e 0.5828 0.2774 0.3842 1
+ O6 O 4 e 0.7406 0.2693 0.05 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.41
+_exptl_crystal_density_diffrn            2.40
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1704110
+
+

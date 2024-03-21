@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Ag-K-Te          # KAg3Te2                                       # 1002481 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1002481
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1002481
+
+# Entry summary
+
+_chemical_formula_structural             'K Ag~3~ Te~2~'
+_chemical_formula_sum                    'Ag3 K Te2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsAg~3~S~2~,mS24,12
+_chemical_formula_weight                 617.9
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of potassium telluro triargentate(I), KAg~3~Te~2~'         
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1996
+_journal_volume                          211
+_journal_page_first                      393
+_journal_page_last                       ?
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Klepp K.O.'
+;
+Linz Johannes Kepler University
+Abteilung f\"ur Allgemeine und Anorganische Chemie
+Linz
+Austria
+;
+'Sparlinek W.'
+;
+Linz Johannes Kepler University
+Abteilung f\"ur Allgemeine und Anorganische Chemie
+Linz
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           17.43
+_cell_length_b                           4.587
+_cell_length_c                           9.044
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.33
+_cell_angle_gamma                        90
+_cell_volume                             664
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ag
+ K
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag3 Ag 4 i 0.0627 0 0.4082 1
+ K1 K 4 i 0.1339 0 0.0477 1
+ Te1 Te 4 i 0.2058 0 0.7101 1
+ Ag2 Ag 4 i 0.3075 0 0.5421 1
+ Ag1 Ag 4 i 0.4107 0 0.3711 1
+ Te2 Te 4 i 0.5175 0 0.221 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.18
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            179.690
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             38
+_refine_ls_number_reflns                 877
+_refine_ls_R_factor_gt                   0.078
+_refine_ls_wR_factor_gt                  0.077
+
+# End of data set 1002481
+
+

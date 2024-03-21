@@ -1,0 +1,168 @@
+##############################################################################
+#                                                                            #
+# K-La-O-P         # KLaP4O12 ht                                   # 1830965 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1830965
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1830965
+
+# Entry summary
+
+_chemical_formula_structural             'K La P~4~ O~12~'
+_chemical_formula_sum                    'K La O12 P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNdP~4~O~12~,mP36,4
+_chemical_formula_weight                 493.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure, electronic properties and optical band gap of KLa~(1-x)~Eu~x~(PO~3~)~4~
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2014
+_journal_volume                          609
+_journal_page_first                      222
+_journal_page_last                       227
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'F\'erid M.'
+;
+Soliman Centre National de Recherche en Sciences des Mat\'eriaux
+Laboratoire de Physicochimie des Mat\'eriaux Min\'eraux et leurs Applications
+Soliman
+Tunisia
+;
+'Horchani Naifer K.'
+;
+Soliman Centre National de Recherche en Sciences des Mat\'eriaux
+Laboratoire de Physicochimie des Mat\'eriaux Min\'eraux et leurs Applications
+Soliman
+Tunisia
+;
+'Bouzidi C.'
+;
+Soliman Centre National de Recherche en Sciences des Mat\'eriaux
+Laboratoire de Physicochimie des Mat\'eriaux Min\'eraux et leurs Applications
+Soliman
+Tunisia
+;
+'Elhouichet H.'
+;
+Soliman Centre National de Recherche en Sciences des Mat\'eriaux
+Laboratoire de Physicochimie des Mat\'eriaux Min\'eraux et leurs Applications
+Soliman
+Tunisia
+;
+'F\'erid M.'
+;
+Soliman Centre National de Recherche en Sciences des Mat\'eriaux
+Laboratoire de Physicochimie des Mat\'eriaux Min\'eraux et leurs Applications
+Soliman
+Tunisia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.3104
+_cell_length_b                           8.5341
+_cell_length_c                           8.0896
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.15
+_cell_angle_gamma                        90
+_cell_volume                             504.34
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ K
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P1 P 2 a -0.0031 0.1022 0.1193 1
+ O10 O 2 a 0.0066 0.0 0.2805 1
+ O5 O 2 a 0.0281 0.0008 0.9745 1
+ O7 O 2 a 0.0456 0.4108 0.4326 1
+ O8 O 2 a 0.086 0.2218 0.6816 1
+ P3 P 2 a 0.1047 0.3798 0.6081 1
+ O1 O 2 a 0.1676 0.2153 0.1534 1
+ K K 2 a 0.2735 0.6505 0.2187 1
+ O6 O 2 a 0.3138 0.426 0.6366 1
+ P2 P 2 a 0.375 0.2091 0.106 1
+ O12 O 2 a 0.4399 0.0453 0.5343 1
+ O11 O 2 a 0.4551 0.0758 0.2247 1
+ O3 O 2 a 0.4574 0.3624 0.1482 1
+ P4 P 2 a 0.5663 0.0783 0.3995 1
+ O2 O 2 a 0.6091 0.6511 0.0652 1
+ O9 O 2 a 0.6829 0.2171 0.4249 1
+ La La 2 a 0.7662 0.4561 0.2584 1
+ O4 O 2 a 0.8299 0.2005 0.1105 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.25
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_pd_proc_wavelength                      0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3619
+_diffrn_reflns_theta_min                 2.52
+_diffrn_reflns_theta_max                 35.01
+_exptl_absorpt_coefficient_mu            5.346
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             164
+_refine_ls_number_reflns                 3619
+_refine_ls_R_factor_gt                   0.0173
+_refine_ls_wR_factor_gt                  0.0501
+
+# End of data set 1830965
+
+

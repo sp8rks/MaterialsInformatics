@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# C-Cu-H-K-N-O     # KCu2[CN]3[H2O] mon1                           # 1401252 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1401252
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1401252
+
+# Entry summary
+
+_chemical_formula_structural             'K Cu~2~ [C N]~3~ [H~2~ O]'
+_chemical_formula_sum                    'C3 Cu2 H2 K N3 O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KCu~2~[CN]~3~[H~2~O],mP40,14
+_chemical_formula_weight                 262.3
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of KCu~2~(CN)~3~.H~2~O'                                
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1962
+_journal_volume                          15
+_journal_page_first                      397
+_journal_page_last                       403
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cromer D.T.'
+;
+Los Alamos National Laboratory
+Los Alamos
+U.S.A. New Mexico
+;
+'Larson A.C.'
+;
+Los Alamos National Laboratory
+Los Alamos
+U.S.A. New Mexico
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.105
+_cell_length_b                           8.2
+_cell_length_c                           7.5
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.4
+_cell_angle_gamma                        90
+_cell_volume                             738.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ Cu
+ OH2
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N1 N 4 e 0.0213 0.4078 0.2396 1
+ C1 C 4 e 0.0324 0.019 0.2337 1
+ Cu1 Cu 4 e 0.1062 0.2134 0.1816 1
+ O OH2 4 e 0.1813 0.7302 0.0529 1
+ C3 C 4 e 0.2322 0.2617 0.0651 1
+ N3 N 4 e 0.3076 0.1977 0.4996 1
+ Cu2 Cu 4 e 0.4327 0.1173 0.3826 1
+ N2 N 4 e 0.5278 0.3081 0.3248 1
+ C2 C 4 e 0.5441 0.4242 0.2402 1
+ K K 4 e 0.6955 0.0665 0.1568 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.36
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.54051
+_diffrn_reflns_number                    1419
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1219
+_refine_ls_R_factor_gt                   0.075
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1401252
+
+

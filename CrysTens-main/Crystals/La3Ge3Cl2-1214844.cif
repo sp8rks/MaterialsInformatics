@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Cl-Ge-La         # La3Ge3Cl2                                     # 1214844 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1214844
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1214844
+
+# Entry summary
+
+_chemical_formula_structural             'La~3~ Ge~3~ Cl~2~'
+_chemical_formula_sum                    'Cl2 Ge3 La3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~3~Si~3~Cl~2~,mS32,12
+_chemical_formula_weight                 705.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Reduced Lanthanum Halides with Ge as Interstitials: La~2~I~2~Ge, La~2~I~2~Ge~2~, La~3~Cl~2~Ge~3~, La~3~Br~2~Ge~3~, La~3~I~3~Ge, La~6~I~5~Ge~3~ and La~7+x~I~12~Ge
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2005
+_journal_volume                          631
+_journal_page_first                      302
+_journal_page_last                       308
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mattausch H.J.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Zheng C.'
+;
+Northern Illinois De Kalb University
+Department of Chemistry and Biochemistry
+De Kalb
+U.S.A. Illinois
+;
+'Ryazanov M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Simon A.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           18.047
+_cell_length_b                           4.297
+_cell_length_c                           10.739
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.25
+_cell_angle_gamma                        90
+_cell_volume                             824.17
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ge
+ Cl
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ge3 Ge 4 i -0.0239 0 0.3833 1
+ Ge2 Ge 4 i 0.0701 0 0.0443 1
+ Ge1 Ge 4 i 0.0957 0 0.2814 1
+ Cl1 Cl 4 i 0.2263 0 0.6072 1
+ Cl2 Cl 4 i 0.299 0 0.1275 1
+ La2 La 4 i 0.3828 0 0.5088 1
+ La1 La 4 i 0.4677 0 0.1689 1
+ La3 La 4 i 0.6838 0 0.1479 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.69
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka1'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka1'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            26.546
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             50
+_refine_ls_number_reflns                 885
+_refine_ls_R_factor_gt                   0.0248
+_refine_ls_wR_factor_gt                  0.0754
+
+# End of data set 1214844
+
+

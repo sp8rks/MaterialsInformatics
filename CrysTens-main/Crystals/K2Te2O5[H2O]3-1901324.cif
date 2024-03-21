@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# H-K-O-Te         # K2Te2O5[H2O]3                                 # 1901324 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1901324
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1901324
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Te~2~ O~5~ [H~2~ O]~3~'
+_chemical_formula_sum                    'H6 K2 O8 Te2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Te~2~O~5~[H~2~O]~3~,mP48,14
+_chemical_formula_weight                 467.4
+
+# Bibliographic data
+
+_publ_section_title
+'Dipotassium ditellurium(IV) pentaoxide trihydrate, K~2~Te~2~O~5~.3H~2~O'     
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1983
+_journal_volume                          39
+_journal_page_first                      143
+_journal_page_last                       145
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Andersen L.'
+;
+Chalmers University of Technology
+Department of Inorganic Chemistry
+Gothenburg
+Sweden
+;
+'Moret J.'
+;
+Montpellier Languedoc University of Science and Technology
+Laboratoire de Chimie Min\'erale Appliqu\'ee
+Montpellier
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.007
+_cell_length_b                           6.283
+_cell_length_c                           19.007
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.32
+_cell_angle_gamma                        90
+_cell_volume                             934.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Te
+ O
+ OH2
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te1 Te 4 e 0.07122 0.50688 0.42446 1
+ O2 O 4 e 0.1017 0.1624 0.0083 1
+ O1 O 4 e 0.124 0.6022 0.6344 1
+ W1 OH2 4 e 0.1462 0.4614 0.1168 1
+ W2 OH2 4 e 0.1486 0.7086 0.264 1
+ K2 K 4 e 0.1991 0.258 0.2447 1
+ O3 O 4 e 0.231 0.31 0.3887 1
+ Te2 Te 4 e 0.31837 0.04526 0.44374 1
+ K1 K 4 e 0.4343 0.0416 0.1011 1
+ W3 OH2 4 e 0.5121 0.038 0.2531 1
+ O4 O 4 e 0.5143 0.2012 0.4883 1
+ O5 O 4 e 0.6212 0.4303 0.1371 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.32
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    2322
+_exptl_absorpt_coefficient_mu            7.35
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.04
+
+# End of data set 1901324
+
+

@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# K-Nd-O-P         # KNdP4O12 mon2                                 # 1802554 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1802554
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1802554
+
+# Entry summary
+
+_chemical_formula_structural             'K Nd P~4~ O~12~'
+_chemical_formula_sum                    'K Nd O12 P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KNdP~4~O~12~,mP36,4
+_chemical_formula_weight                 499.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of potassium neodymium metaphosphate, KNdP~4~O~12~, a new acentric laser material
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1975
+_journal_volume                          10
+_journal_page_first                      1105
+_journal_page_last                       1110
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hong H.Y.P.'
+;
+Massachusetts Institute of Technology (MIT)
+Lincoln Laboratory
+Lexington
+U.S.A. Massachusetts
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.266
+_cell_length_b                           8.436
+_cell_length_c                           8.007
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.97
+_cell_angle_gamma                        90
+_cell_volume                             490.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ K
+ Nd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P(4) P 2 a 0.001 0.107 0.119 1
+ O(3) O 2 a 0.006 0.0 0.284 1
+ O(7) O 2 a 0.031 0.003 0.973 1
+ O(11) O 2 a 0.038 0.407 0.44 1
+ O(1) O 2 a 0.083 0.221 0.679 1
+ P(1) P 2 a 0.102 0.38 0.602 1
+ O(8) O 2 a 0.168 0.214 0.152 1
+ K K 2 a 0.274 0.655 0.2168 1
+ O(2) O 2 a 0.314 0.423 0.627 1
+ P(3) P 2 a 0.378 0.211 0.107 1
+ O(6) O 2 a 0.426 0.057 0.533 1
+ O(9) O 2 a 0.454 0.08 0.228 1
+ O(10) O 2 a 0.455 0.357 0.156 1
+ P(2) P 2 a 0.569 0.078 0.404 1
+ O(12) O 2 a 0.619 0.644 0.07 1
+ O(5) O 2 a 0.687 0.227 0.436 1
+ Nd Nd 2 a 0.7661 0.464 0.2583 1
+ O(4) O 2 a 0.83 0.204 0.115 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.38
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.060
+_refine_ls_wR_factor_gt                  0.067
+
+# End of data set 1802554
+
+

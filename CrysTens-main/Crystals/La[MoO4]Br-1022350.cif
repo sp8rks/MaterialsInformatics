@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# Br-La-Mo-O       # La[MoO4]Br mon                                # 1022350 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1022350
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1022350
+
+# Entry summary
+
+_chemical_formula_structural             'La [Mo O~4~] Br'
+_chemical_formula_sum                    'Br La Mo O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La[MoO~4~]Br,mP28,7
+_chemical_formula_weight                 378.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses, crystal structures, and twinning of the isotypic rare-earth metal bromide ortho-oxidomolybdates LaBrMoO~4~ and CeBrMoO~4~
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2013
+_journal_volume                          639
+_journal_page_first                      347
+_journal_page_last                       353
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hartenbach I.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Henning H.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Schustereit T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Strobel S.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.8197
+_cell_length_b                           5.8183
+_cell_length_c                           8.1051
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.
+_cell_angle_gamma                        90
+_cell_volume                             463.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ La
+ Br
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 2 a 0.0 0.261 0.0 1
+ O2 O 2 a 0.084 0.05 0.279 1
+ Mo1 Mo 2 a 0.0859 0.0061 0.0655 1
+ O5 O 2 a 0.189 0.507 0.276 1
+ O1 O 2 a 0.257 0.017 0.019 1
+ Mo2 Mo 2 a 0.3639 0.4979 0.3141 1
+ O6 O 2 a 0.382 0.552 0.032 1
+ O7 O 2 a 0.447 0.225 0.262 1
+ O8 O 2 a 0.452 0.769 0.292 1
+ La2 La 2 a 0.5089 0.045 0.5286 1
+ Br1 Br 2 a 0.6959 0.4986 0.0291 1
+ Br2 Br 2 a 0.7554 0.0001 0.2761 1
+ La1 La 2 a 0.941 0.4599 0.279 1
+ O3 O 2 a 0.998 0.255 0.558 1
+
+
+_exptl_crystal_colour                    'yellow pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.43
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4F'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    5884
+_diffrn_reflns_theta_min                 3.5
+_diffrn_reflns_theta_max                 27.68
+_exptl_absorpt_coefficient_mu            20.33
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             89
+_refine_ls_number_reflns                 1897
+_refine_ls_R_factor_gt                   0.038
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1022350
+
+

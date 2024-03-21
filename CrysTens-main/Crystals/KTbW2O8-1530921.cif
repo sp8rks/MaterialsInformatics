@@ -1,0 +1,181 @@
+##############################################################################
+#                                                                            #
+# K-O-Tb-W         # KTbW2O8 rt                                    # 1530921 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1530921
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1530921
+
+# Entry summary
+
+_chemical_formula_structural             'K Tb W~2~ O~8~'
+_chemical_formula_sum                    'K O8 Tb W2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KYW~2~O~8~,mS48,15
+_chemical_formula_weight                 693.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure and luminescence quenching of poly- and single-crystalline KYW~2~O~8~:Tb^3+^
+;
+_journal_coden_ASTM                      JLUMA8
+_journal_name_full                       'J. Lumin.'
+_journal_year                            2015
+_journal_volume                          166
+_journal_page_first                      289
+_journal_page_last                       294
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Schwung S.'
+;
+Steinfurt M\"unster University of Applied Sciences
+Department of Chemical Engineering
+Steinfurt
+Germany
+;
+'Rytz D.'
+;
+Edelsteine/Edelmetalle (FEE) GmbH
+Forschungsinstitut f\"ur Mineralische und Metallische Werkstoffe
+Idar-Oberstein
+Germany
+;
+'Heying B.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Rodewald U.C.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Niehaus O.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Enseling D.'
+;
+Steinfurt M\"unster University of Applied Sciences
+Department of Chemical Engineering
+Steinfurt
+Germany
+;
+'J\"ustel T.'
+;
+Steinfurt M\"unster University of Applied Sciences
+Department of Chemical Engineering
+Steinfurt
+Germany
+;
+'P\"ottgen R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.6586
+_cell_length_b                           10.4073
+_cell_length_c                           7.5762
+_cell_angle_alpha                        90
+_cell_angle_beta                         130.754
+_cell_angle_gamma                        90
+_cell_volume                             636.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ W
+ Tb
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 f 0.0239 0.3922 0.4714 1
+ O1 O 8 f 0.1267 0.0787 0.1887 1
+ O3 O 8 f 0.2735 0.3419 0.3723 1
+ W W 8 f 0.30449 0.00004 0.26419 1
+ O4 O 8 f 0.3106 0.075 0.059 1
+ Tb Tb 4 e 0 0.22839 0.25 1
+ K K 4 e 0 0.79994 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.24
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    5008
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            47.7
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             57
+_refine_ls_number_reflns                 1388
+_refine_ls_R_factor_gt                   0.0185
+_refine_ls_wR_factor_gt                  0.0458
+
+# End of data set 1530921
+
+

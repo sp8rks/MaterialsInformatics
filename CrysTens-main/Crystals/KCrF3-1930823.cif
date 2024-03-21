@@ -1,0 +1,194 @@
+##############################################################################
+#                                                                            #
+# Cr-F-K           # KCrF3 lt                                      # 1930823 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1930823
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1930823
+
+# Entry summary
+
+_chemical_formula_structural             'K Cr F~3~'
+_chemical_formula_sum                    'Cr F3 K'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KCrF~3~,mS20,12
+_chemical_formula_weight                 148.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Neutron diffraction investigation of the crystal and magnetic structures in KCrF~3~ perovskite
+;
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            2010
+_journal_volume                          82
+_journal_page_first                      1
+_journal_page_last                       5
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Xiao Y.'
+;
+J\"ulich Nuclear Research Center
+Institut f\"ur Festk\"orperforschung
+J\"ulich
+Germany
+;
+'Su Y.'
+;
+Research Center GmbH
+J\"ulich Centre for Neutron Science
+Garching
+Germany
+;
+'Li H.F.'
+;
+J\"ulich Nuclear Research Center
+Institut f\"ur Festk\"orperforschung
+J\"ulich
+Germany
+;
+'Kumar C.M.N.'
+;
+J\"ulich Nuclear Research Center
+Institut f\"ur Festk\"orperforschung
+J\"ulich
+Germany
+;
+'Mittal R.'
+;
+Research Center GmbH
+J\"ulich Centre for Neutron Science
+Garching
+Germany
+;
+'Persson J.'
+;
+J\"ulich Nuclear Research Center
+Institut f\"ur Festk\"orperforschung
+J\"ulich
+Germany
+;
+'Senyshyn A.'
+;
+Munich Technical University (TUM)
+Forschungs-Neutronenquelle Heinz Maier-Leibnitz (FRM II)
+Garching
+Germany
+;
+'Gross K.'
+;
+J\"ulich Nuclear Research Center
+Institut f\"ur Festk\"orperforschung
+J\"ulich
+Germany
+;
+'Br\"uckel T.'
+;
+J\"ulich Nuclear Research Center
+Institut f\"ur Festk\"orperforschung
+J\"ulich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.9496
+_cell_length_b                           8.5871
+_cell_length_c                           5.8069
+_cell_angle_alpha                        90
+_cell_angle_beta                         133.129
+_cell_angle_gamma                        90
+_cell_volume                             289.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ F
+ K
+ Cr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F2 F 4 i 0.197 0 0.467 1
+ F1 F 4 i 0.282 0 0.073 1
+ K K 4 h 0 0.247 0.5 1
+ F3 F 4 g 0 0.27 0 1
+ Cr1 Cr 2 b 0 0.5 0 1
+ Cr2 Cr 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.40
+_cell_measurement_temperature            10
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.5481
+_pd_proc_wavelength                      1.5481
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              10
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Germany, Garching, Forschungs-Neutronenquelle Heinz Maier-Leibnitz, FRM II reactor, SPODI
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.5481
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0276
+_pd_proc_ls_proof_wR_factor              0.0356
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1930823
+
+

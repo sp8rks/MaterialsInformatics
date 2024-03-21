@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Br-K-Zn          # K2ZnBr4 lt                                    # 1220637 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1220637
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1220637
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Zn Br~4~'
+_chemical_formula_sum                    'Br4 K2 Zn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Eu~2~GeS~4~,mP14,4
+_chemical_formula_weight                 463.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Molecular Dynamics Simulation and X-ray Structural Studies of Mode-Coupling in Monoclinic K~2~ZnBr~4~
+;
+_journal_coden_ASTM                      JUPSAU
+_journal_name_full                       'J. Phys. Soc. Jpn.'
+_journal_year                            2003
+_journal_volume                          72
+_journal_page_first                      2533
+_journal_page_last                       2538
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Machida M.'
+;
+Fukuoka Kyushu University
+Department of Physics
+Fukuoka / Fukuoka
+Japan
+;
+'Itho H.'
+;
+Fukuoka Kyushu University
+Department of Physics
+Fukuoka / Fukuoka
+Japan
+;
+'Kayano N.'
+;
+Kumatori Osaka Kyoto University
+Research Reactor Institute
+Kumatori / Osaka
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.216
+_cell_length_b                           7.417
+_cell_length_c                           8.998
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.89
+_cell_angle_gamma                        90
+_cell_volume                             455.65
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Br
+ K
+ Zn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br4 Br 2 a 0.0153 0.2682 0.7689 1
+ Br3 Br 2 a 0.0139 0.2631 0.2405 1
+ K1 K 2 a 0.2103 0.0 0.5481 1
+ Zn Zn 2 a 0.2201 0.5242 0.2958 1
+ K2 K 2 a 0.2747 -0.0013 0.0717 1
+ Br2 Br 2 a 0.4221 0.5413 0.1312 1
+ Br1 Br 2 a 0.601 0.0471 0.4295 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.38
+_cell_measurement_temperature            125
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              125
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC5R'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1542
+_refine_ls_R_factor_gt                   0.042
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1220637
+
+

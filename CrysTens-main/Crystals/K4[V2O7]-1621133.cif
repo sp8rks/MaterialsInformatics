@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# K-O-V            # K4[V2O7] rt                                   # 1621133 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1621133
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1621133
+
+# Entry summary
+
+_chemical_formula_structural             'K~4~ [V~2~ O~7~]'
+_chemical_formula_sum                    'K4 O7 V2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~4~[V~2~O~7~],mS26,12
+_chemical_formula_weight                 370.3
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of the pyrovanadate K~4~V~2~O~7~'                          
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            2006
+_journal_volume                          51
+_journal_page_first                      779
+_journal_page_last                       784
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chernaya V.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Shpanchenko R.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Velikodnyi Y.A.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Kovba L.M.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Antipov E.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.2147
+_cell_length_b                           6.228
+_cell_length_c                           7.2758
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.288
+_cell_angle_gamma                        90
+_cell_volume                             453.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 j 0.1135 0.2156 0.3265 1
+ V V 4 i 0.1328 0 0.1986 1
+ K3 K 4 i 0.175 0 0.7122 1
+ O3 O 4 i 0.2781 0 0.1443 1
+ K1 K 2 d 0 0.5 0.5 1
+ K2 K 2 b 0 0.5 0 1
+ O1 O 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.71
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI P'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 50
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                100
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.019
+_pd_proc_ls_proof_wR_factor              0.026
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1621133
+
+

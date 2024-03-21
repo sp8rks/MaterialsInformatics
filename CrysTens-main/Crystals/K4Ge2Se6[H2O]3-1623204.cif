@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Ge-H-K-O-Se      # K4Ge2Se6[H2O]3                                # 1623204 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1623204
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1623204
+
+# Entry summary
+
+_chemical_formula_structural             'K~4~ Ge~2~ Se~6~ [H~2~ O]~3~'
+_chemical_formula_sum                    'Ge2 H6 K4 O3 Se6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~4~Ge~2~Se~6~[H~2~O]~3~,mP60,14
+_chemical_formula_weight                 829.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses, crystal structures, UV-vis spectra and first NMR spectra of new potassium salts of chalcogenogermanates
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2007
+_journal_volume                          633
+_journal_page_first                      2159
+_journal_page_last                       2167
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Melullis M.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Dehnen S.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.583
+_cell_length_b                           8.3858
+_cell_length_c                           14.17
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.27
+_cell_angle_gamma                        90
+_cell_volume                             1722.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ Se
+ K
+ Ge
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 OH2 4 e 0.0115 0.2883 0.0716 1
+ Se6 Se 4 e 0.01608 0.40707 0.30277 1
+ K4 K 4 e 0.08271 0.0698 0.4074 1
+ K3 K 4 e 0.14507 0.0572 0.07446 1
+ Ge2 Ge 4 e 0.15779 0.51793 0.28857 1
+ Se2 Se 4 e 0.16822 0.65007 0.13809 1
+ Se3 Se 4 e 0.25993 0.30171 0.25131 1
+ Se1 Se 4 e 0.29455 0.16157 0.48733 1
+ Ge1 Ge 4 e 0.29957 0.4785 0.12761 1
+ O3 OH2 4 e 0.3662 0.0014 0.106 1
+ K1 K 4 e 0.43624 0.4549 0.38638 1
+ O1 OH2 4 e 0.527 0.2563 0.0416 1
+ Se4 Se 4 e 0.56437 0.10966 0.32635 1
+ K2 K 4 e 0.64013 0.4134 0.19462 1
+ Se5 Se 4 e 0.78136 0.17739 0.08837 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.20
+_cell_measurement_temperature            203
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_wavelength             0.56086
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              203
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.56086
+_diffrn_reflns_number                    12477
+_diffrn_reflns_theta_min                 2.25
+_diffrn_reflns_theta_max                 22
+_exptl_absorpt_coefficient_mu            9.021
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             138
+_refine_ls_number_reflns                 3714
+_refine_ls_R_factor_gt                   0.0488
+_refine_ls_wR_factor_gt                  0.1349
+
+# End of data set 1623204
+
+
