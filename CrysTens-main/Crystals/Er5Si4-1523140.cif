@@ -1,0 +1,184 @@
+##############################################################################
+#                                                                            #
+# Er-Si            # Er5Si4 lt                                     # 1523140 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1523140
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1523140
+
+# Entry summary
+
+_chemical_formula_structural             'Er~5~ Si~4~'
+_chemical_formula_sum                    'Er5 Si4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Gd~5~(Ge~0.5~Si~0.5~)~4~,mP36,14
+_chemical_formula_weight                 948.6
+
+# Bibliographic data
+
+_publ_section_title
+'Magnetic-field-induced structural transformation in Er~5~Si~4~'              
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            2006
+_journal_volume                          74
+_journal_page_first                      1
+_journal_page_last                       8
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mag\'en C.'
+;
+Saragossa University
+Instituto de Ciencia de Materiales de Aragon
+Saragossa
+Spain
+;
+'Ritter C.'
+;
+Grenoble Laue-Langevin Institute
+Grenoble
+France
+;
+'Morellon L.'
+;
+Saragossa University
+Instituto de Ciencia de Materiales de Aragon
+Saragossa
+Spain
+;
+'Algarabel P.A.'
+;
+Saragossa University
+Instituto de Ciencia de Materiales de Aragon
+Saragossa
+Spain
+;
+'Ibarra M.R.'
+;
+Saragossa University
+Instituto de Ciencia de Materiales de Aragon
+Saragossa
+Spain
+;
+'Tsokol A.O.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory
+Ames
+U.S.A. Iowa
+;
+'Gschneidner K.A. Jr.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory
+Ames
+U.S.A. Iowa
+;
+'Pecharskii V.K.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.3491
+_cell_length_b                           7.5415
+_cell_length_c                           7.3483
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.241
+_cell_angle_gamma                        90
+_cell_volume                             793.92
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Si
+ Er
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ M3B Si 4 e 0.01 0.489 0.13 1
+ Er2B Er 4 e 0.099 0.671 0.49 1
+ Er3B Er 4 e 0.128 0.178 0.33 1
+ M1 Si 4 e 0.25 0.041 0.083 1
+ Er1 Er 4 e 0.261 0.504 0.173 1
+ Er3A Er 4 e 0.38 0.168 0.359 1
+ M3A Si 4 e 0.477 0.469 0.218 1
+ Er2 Er 4 e 0.594 0.315 0.496 1
+ M2 Si 4 e 0.737 0.384 0.233 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.94
+_cell_measurement_temperature            2
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.59
+_pd_proc_wavelength                      1.59
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D2B'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.59
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 82.5
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                165
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.070
+_pd_proc_ls_proof_wR_factor              0.090
+_refine_ls_R_I_factor                    0.140
+
+# End of data set 1523140
+
+

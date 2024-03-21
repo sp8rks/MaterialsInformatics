@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# Ba-H-O-P-V       # H2Ba0.5V[PO4]2[H2O]0.5                        # 1923441 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1923441
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1923441
+
+# Entry summary
+
+_chemical_formula_structural             'H~4~ Ba V~2~ [P O~4~]~4~ [H~2~ O]'
+_chemical_formula_sum                    'Ba H6 O17 P4 V2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~4~BaV~2~[PO~4~]~4~[H~2~O],mP48,4
+_chemical_formula_weight                 641.1
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and crystal structure of Ba[V~2~(HPO~4~)~4~](H~2~O)'               
+_journal_coden_ASTM                      MCHPDR
+_journal_name_full                       'Mater. Chem. Phys.'
+_journal_year                            1993
+_journal_volume                          35
+_journal_page_first                      205
+_journal_page_last                       207
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wang Z.'
+;
+New Jersey Princeton University
+Department of Chemistry
+Princeton
+U.S.A. New Jersey
+;
+'Haushalter R.C.'
+;
+Nippon Electric Co. Ltd. (NEC)
+Research Institute
+Princeton
+U.S.A. New Jersey
+;
+'Thompson M.E.'
+;
+New Jersey Princeton University
+Department of Chemistry
+Princeton
+U.S.A. New Jersey
+;
+'Zubieta J.A.'
+;
+New York Syracuse University
+Department of Chemistry
+Syracuse
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.441
+_cell_length_b                           7.913
+_cell_length_c                           9.521
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.91
+_cell_angle_gamma                        90
+_cell_volume                             628.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ P
+ OH
+ O
+ V
+ OH2
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P2 P 2 a 0.0217 0.0507 0.9118 1
+ O6 OH 2 a 0.0395 0.7267 0.1772 1
+ P4 P 2 a 0.0738 0.3077 0.4841 1
+ O8 O 2 a 0.085 0.0833 0.0882 1
+ O9 O 2 a 0.0903 0.2056 0.3536 1
+ O11 O 2 a 0.0974 0.8616 0.5635 1
+ O7 O 2 a 0.1206 0.4345 0.137 1
+ O12 O 2 a 0.1434 0.2173 0.6442 1
+ O10 OH 2 a 0.1684 0.4797 0.5137 1
+ V2 V 2 a 0.2398 0.2384 0.2535 1
+ V1 V 2 a 0.2629 0.0064 0.7438 1
+ O17 OH2 2 a 0.3155 0.7263 0.1331 1
+ O4 O 2 a 0.3533 0.273 0.1151 1
+ O13 O 2 a 0.3752 0.0365 0.3622 1
+ O16 O 2 a 0.396 0.3837 0.4281 1
+ O15 O 2 a 0.4042 0.0352 0.6375 1
+ P1 P 2 a 0.4797 0.1856 0.0908 1
+ O3 OH 2 a 0.5215 0.0115 0.1823 1
+ P3 P 2 a 0.5699 0.4356 0.4836 1
+ O1 O 2 a 0.5724 0.6454 0.0835 1
+ O2 O 2 a 0.6353 0.2846 0.1548 1
+ O14 OH 2 a 0.6698 0.2659 0.5234 1
+ Ba1 Ba 2 a 0.8319 0.0 0.149 1
+ O5 O 2 a 0.8524 0.4792 0.1283 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.39
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            5.179
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1885
+_refine_ls_R_factor_gt                   0.055
+_refine_ls_wR_factor_gt                  0.065
+
+# End of data set 1923441
+
+

@@ -1,0 +1,188 @@
+##############################################################################
+#                                                                            #
+# Al-F-H-K-O       # K2AlF5[H2O] rt                                # 1004746 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1004746
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1004746
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Al F~5~ [H~2~ O]'
+_chemical_formula_sum                    'Al F5 H2 K2 O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~MnF~5~[H~2~O],mP18,11
+_chemical_formula_weight                 218.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of a new form of the dipotassium pentafluoroaluminate hydrate, K~2~AlF~5~.H~2~O, and of its dehydrate, K~2~AlF~5~
+;
+_journal_coden_ASTM                      JFLCAR
+_journal_name_full                       'J. Fluorine Chem.'
+_journal_year                            1996
+_journal_volume                          77
+_journal_page_first                      39
+_journal_page_last                       44
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'De Kozak A.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Cristallochimie du Solide
+Paris
+France
+;
+'Gredin P.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Cristallochimie du Solide
+Paris
+France
+;
+'Pierrard A.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Cristallochimie du Solide
+Paris
+France
+;
+'Renaudin J.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.133
+_cell_length_b                           7.475
+_cell_length_c                           6.142
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.17
+_cell_angle_gamma                        90
+_cell_volume                             279.37
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ F
+ O
+ K
+ Al
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F3 F 4 f 0.2191 0.4998 0.219 1
+ F2 F 4 f 0.8079 0.0001 0.1925 1
+ F1 F 2 e -0.0013 0.25 -0.0019 1
+ O1 O 2 e 0.4642 0.25 0.4642 1
+ K2 K 2 e 0.4987 0.25 0.9266 1
+ K1 K 2 e 0.9268 0.25 0.4989 1
+ Al1 Al 2 a 0 0 0 1
+ H1 H 4 f 0.4077 0.1682 0.4101 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.59
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens-STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    1792
+_exptl_absorpt_coefficient_mu            1.864
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             53
+_refine_ls_number_reflns                 737
+_refine_ls_R_factor_gt                   0.030
+_refine_ls_wR_factor_gt                  0.028
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 60.9 64
+ 0 1 1 47.18 5
+ 1 1 1 35.68 12
+ 0 2 1 31.87 33
+ 0 0 2 30.43 22
+ 1 2 -1 29.02 51
+ 0 1 2 28.19 17
+ 1 2 1 27.51 38
+ 1 1 -2 26.79 23
+ 1 0 2 25.94 5
+ 1 1 2 24.49 4
+ 0 2 2 23.61 100
+ 2 0 -2 23.02 62
+ 2 0 2 20.3 45
+ 2 1 2 19.59 18
+ 0 3 2 19.26 4
+ 1 3 -2 18.81 7
+ 0 4 0 18.69 56
+ 1 1 3 18.03 4
+ 0 4 1 17.87 5
+ 2 1 -3 17.45 8
+ 2 2 -3 16.19 10
+ 0 4 2 15.92 6
+ 2 3 2 15.74 8
+ 3 0 -3 15.34 6
+ 0 0 4 15.23 7
+ 1 1 -4 14.92 5
+ 2 4 -2 14.51 21
+
+# End of data set 1004746
+
+

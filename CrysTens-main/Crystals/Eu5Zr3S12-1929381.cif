@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Eu-S-Zr          # Eu5Zr3S12                                     # 1929381 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1929381
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1929381
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~5~ Zr~3~ S~12~'
+_chemical_formula_sum                    'Eu5 S12 Zr3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~4.74~Ir~3~O~12~,hP20,189
+_chemical_formula_weight                 1418.2
+
+# Bibliographic data
+
+_publ_section_title
+'Structure and properties of mixed-valence compound Eu~5~Zr~3~S~12~'          
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2009
+_journal_volume                          635
+_journal_page_first                      759
+_journal_page_last                       763
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jacubkova P.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie und Biochemie
+Munich
+Germany
+;
+'Schappacher F.M.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'P\"ottgen R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Johrendt D.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie und Biochemie
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.707
+_cell_length_b                           11.707
+_cell_length_c                           3.9427
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             468
+_cell_formula_units_Z                    1
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ S
+ Zr
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 6 k 0.2509 0.4424 0.5 1
+ Zr Zr 3 g 0.3298 0 0.5 1
+ S2 S 3 f 0.1783 0 0 1
+ S3 S 3 f 0.4677 0 0 1
+ Eu2 Eu 3 f 0.71674 0 0 1
+ Eu1 Eu 2 c 0.333333 0.666667 0 1
+
+
+_exptl_crystal_colour                    gray
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.03
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5013
+_exptl_absorpt_coefficient_mu            19.4
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             27
+_refine_ls_number_reflns                 552
+_refine_ls_R_factor_gt                   0.0231
+_refine_ls_wR_factor_gt                  0.0631
+
+# End of data set 1929381
+
+

@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# As-Cl-Cu-O       # Cu2[AsO4]Cl                                   # 1405096 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1405096
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1405096
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ [As O~4~] Cl'
+_chemical_formula_sum                    'As Cl Cu2 O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~[AsO~4~]Cl,mP16,11
+_chemical_formula_weight                 301.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structures of copper chloroarsenate and cobalt chloroarsenate, Cu~2~(AsO~4~)Cl and Co~2~(AsO~4~)Cl
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1977
+_journal_volume                          33
+_journal_page_first                      975
+_journal_page_last                       979
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rea J.R.'
+;
+Connecticut Storrs University
+Department of Materials Science
+Storrs
+U.S.A. Connecticut
+;
+'Anderson J.B.'
+;
+Connecticut Storrs University
+Department of Materials Science
+Storrs
+U.S.A. Connecticut
+;
+'Kostiner E.'
+;
+Connecticut Storrs University
+Department of Materials Science
+Storrs
+U.S.A. Connecticut
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.929
+_cell_length_b                           6.589
+_cell_length_c                           6.877
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.12
+_cell_angle_gamma                        90
+_cell_volume                             223.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ As
+ Cu
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 f 0.8062 0.0454 0.199 1
+ As As 2 e 0.0085 0.25 0.2371 1
+ Cu2 Cu 2 e 0.1462 0.25 0.7265 1
+ O1 O 2 e 0.1697 0.25 0.4496 1
+ O2 O 2 e 0.2582 0.25 0.0636 1
+ Cl Cl 2 e 0.6624 0.25 0.7574 1
+ Cu1 Cu 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    'blue green dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.48
+_cell_measurement_temperature            273
+_cell_measurement_radiation              'X-rays, Mo Ka1'
+_cell_measurement_wavelength             0.7093
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              273
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Picker FACS-I'
+_diffrn_radiation_type                   'X-rays, Mo Ka1'
+_diffrn_radiation_wavelength             0.7093
+_diffrn_reflns_number                    710
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             45
+_refine_ls_number_reflns                 673
+_refine_ls_R_factor_gt                   0.054
+_refine_ls_wR_factor_gt                  0.074
+
+# End of data set 1405096
+
+

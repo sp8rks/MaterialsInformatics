@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-P-V       # Cu[VO]2[PO4]2[H2O]4                           # 1101480 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1101480
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1101480
+
+# Entry summary
+
+_chemical_formula_structural             'Cu [V O]~2~ [P O~4~]~2~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Cu H8 O14 P2 V2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Cu[VO]~2~[PO~4~]~2~[H~2~O]~4~,mP38,11                                         
+_chemical_formula_weight                 459.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal synthesis and crystal structures of two copper vanadium phosphates: Cu~0.5~[VOPO~4~].2H~2~O and Cu~0.5~(OH)~0.5~[VOPO~4~].2H~2~O
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1995
+_journal_volume                          117
+_journal_page_first                      157
+_journal_page_last                       164
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhang Y.'
+;
+Nippon Electric Co. Ltd. (NEC)
+Research Institute
+Princeton
+U.S.A. New Jersey
+;
+'Clearfield A.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Haushalter R.C.'
+;
+Nippon Electric Co. Ltd. (NEC)
+Research Institute
+Princeton
+U.S.A. New Jersey
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.614
+_cell_length_b                           8.93
+_cell_length_c                           9.071
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.79
+_cell_angle_gamma                        90
+_cell_volume                             520.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ OH2
+ V
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P P 4 f 0.0057 0.5019 0.2476 1
+ O3 O 4 f 0.122 0.0958 0.6688 1
+ O2 O 4 f 0.152 0.5941 0.1764 1
+ O1 O 4 f 0.153 0.1056 0.3614 1
+ O9 OH2 4 f 0.489 0.089 0.2262 1
+ O4 O 4 f 0.85 0.0922 0.1306 1
+ V2 V 2 e 0.0663 0.25 0.5117 1
+ O5 O 2 e 0.143 0.25 0.032 1
+ Cu Cu 2 e 0.3356 0.25 0.2902 1
+ O8 OH2 2 e 0.462 0.25 0.577 1
+ O7 OH2 2 e 0.535 0.25 0.919 1
+ O6 O 2 e 0.821 0.25 0.454 1
+ V1 V 2 e 0.8961 0.25 0.9848 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.93
+_cell_measurement_temperature            293(1)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              293(1)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7R'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    1627
+_exptl_absorpt_coefficient_mu            3.78
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             97
+_refine_ls_number_reflns                 750
+_refine_ls_R_factor_gt                   0.051
+_refine_ls_wR_factor_gt                  0.058
+
+# End of data set 1101480
+
+

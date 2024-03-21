@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# Eu-H-O           # EuO[OH] rt                                    # 1800810 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1800810
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1800810
+
+# Entry summary
+
+_chemical_formula_structural             'Eu O [O H]'
+_chemical_formula_sum                    'Eu H O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            YO[OH],mP6,11
+_chemical_formula_weight                 185.0
+
+# Bibliographic data
+
+_publ_section_title
+'Die E!ementarzelle und Raumgruppe von EuOOH'                                 
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1965
+_journal_volume                          19
+_journal_page_first                      1047
+_journal_page_last                       ?
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'B\"arnighausen H.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Chemisches Laboratorium
+Freiburg im Breisgau
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.347
+_cell_length_b                           3.748
+_cell_length_c                           6.109
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.6
+_cell_angle_gamma                        90
+_cell_volume                             94.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 2 e 0.255 0.25 0.566 1
+ O2 O 2 e 0.27 0.25 0.065 1
+ Eu1 Eu 2 e 0.8314 0.25 0.1898 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.85
+_exptl_crystal_density_diffrn            6.51
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 58.1 6
+ 0 0 1 41.2 5
+ -1 0 1 40.2 6
+ 1 1 0 31.5 8
+ 1 0 1 29.44 6
+ 2 0 0 28.96 7
+ -2 0 1 28.34 4
+ 0 1 1 27.73 6
+ -1 1 1 27.42 7
+ 2 1 0 22.91 6
+ -2 1 1 22.6 7
+ -1 0 2 21.72 5
+ 0 0 2 20.6 7
+ -3 0 1 20.09 8
+ 3 0 0 19.29 7
+ 0 2 0 18.73 5
+ 2 1 1 18.18 5
+ 0 1 2 18.07 4
+ 1 2 0 17.8 8
+ -3 1 1 17.72 7
+ 3 1 0 17.15 8
+ 0 2 1 17.06 9
+ -1 2 1 16.99 9
+ 1 1 2 16.02 9
+ 1 2 1 15.81 4
+ 2 2 0 15.73 8
+ 3 0 1 15.64 7
+ -3 1 2 15.53 8
+ -4 0 1 15.27 9
+ 2 0 2 14.72 8
+ 3 1 1 14.45 8
+ -2 0 3 14.29 8
+ -1 2 2 14.19 5
+ -4 0 2 14.16 8
+
+# End of data set 1800810
+
+

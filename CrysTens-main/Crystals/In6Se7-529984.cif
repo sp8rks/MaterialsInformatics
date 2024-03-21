@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# In-Se            # In6Se7 (Sn)                                   #  529984 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_529984
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      529984
+
+# Entry summary
+
+_chemical_formula_structural             'In~6~ Se~7~'
+_chemical_formula_sum                    'In6 Se7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+In~5~(In~0.91~Sn~0.09~)~0.92~S~7~,mP26,11                                     
+_chemical_formula_weight                 1241.6
+_chemical_melting_point                  918
+
+# Bibliographic data
+
+_publ_section_title
+;
+Sur les s\'el\'eniures sup\'erieurs d'indium In~2~Se~3~, In~5~Se~7~ et In~6~Se~7~
+;
+_journal_coden_ASTM                      CHDCAQ
+_journal_name_full                       'C. R. Seances Acad. Sci., Ser. C'
+_journal_year                            1972
+_journal_volume                          274
+_journal_page_first                      378
+_journal_page_last                       381
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Likforman A.'
+;
+Paris University
+Paris
+France
+;
+'Messin D.'
+;
+Grenoble
+France
+;
+'Guittard M.'
+;
+Paris University
+Paris
+France
+;
+'Flahaut J.'
+;
+Paris University
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.41
+_cell_length_b                           4.11
+_cell_length_c                           17.67
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.
+_cell_angle_gamma                        90
+_cell_volume                             673.01
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ In
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ In1 In 2 e 0.02201 0.25 0.60446 1
+ In2 In 2 e 0.06685 0.25 0.12216 1
+ Se1 Se 2 e 0.1170 0.25 0.3455 1
+ Se2 Se 2 e 0.1649 0.25 0.9947 1
+ Se3 Se 2 e 0.2410 0.25 0.7275 1
+ In3 In 2 e 0.32791 0.25 0.46789 1
+ In4 In 2 e 0.47086 0.25 0.27478 1
+ Se4 Se 2 e 0.5354 0.25 0.5901 1
+ Se5 Se 2 e 0.5569 0.25 0.0906 1
+ In5 In 2 e 0.64484 0.25 0.95325 1
+ Se6 Se 2 e 0.7546 0.25 0.8250 1
+ In6 In 2 e 0.81767 0.25 0.18883 1
+ Se7 Se 2 e 0.8311 0.25 0.4678 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.80
+_exptl_crystal_density_diffrn            6.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               film
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 529984
+
+

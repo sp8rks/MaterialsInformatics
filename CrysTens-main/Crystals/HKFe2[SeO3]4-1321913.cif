@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Fe-H-K-O-Se      # HKFe2[SeO3]4                                  # 1321913 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1321913
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1321913
+
+# Entry summary
+
+_chemical_formula_structural             'H K Fe~2~ [Se O~3~]~4~'
+_chemical_formula_sum                    'Fe2 H K O12 Se4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HKFe~2~[SeO~3~]~4~,mP38,3
+_chemical_formula_weight                 659.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures and structural relationships of KFe~2~(SeO~2~OH)(SeO~3~)~3~ and SrCo~2~(SeO~2~OH)~2~(SeO~3~)~2~
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1996
+_journal_volume                          240
+_journal_page_first                      25
+_journal_page_last                       32
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Giester G.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+'Wildner M.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.983
+_cell_length_b                           5.27
+_cell_length_c                           10.614
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.42
+_cell_angle_gamma                        90
+_cell_volume                             553.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   3
+_space_group_name_H-M_alt                'P 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Fe
+ K
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O31 O 2 e 0.0699 0.1297 0.6534 1
+ Se3 Se 2 e 0.09778 0.07966 0.35572 1
+ O33 O 2 e 0.1005 0.7801 0.2996 1
+ O32 O 2 e 0.1445 0.2497 0.2311 1
+ O12 O 2 e 0.212 0.6337 0.075 1
+ Se2 Se 2 e 0.23459 0.5643 0.57281 1
+ Fe1 Fe 2 e 0.24789 0.5719 0.25969 1
+ O21 O 2 e 0.303 0.8494 0.6146 1
+ O22 O 2 e 0.3121 0.4945 0.4439 1
+ O42 O 2 e 0.3835 0.8637 0.2777 1
+ Se4 Se 2 e 0.40826 0.04634 0.15382 1
+ O43 O 2 e 0.422 0.3507 0.2293 1
+ O41 O 2 e 0.5705 0.0069 0.1375 1
+ O23 O 2 e 0.6731 0.3641 0.3193 1
+ Se1 Se 2 e 0.727 0.55202 0.06136 1
+ Fe2 Fe 2 e 0.75798 0.0564 0.24159 1
+ O11 O 2 e 0.8052 0.274 0.0973 1
+ O13 O 2 e 0.8207 0.7531 0.1607 1
+ K2 K 1 d 0.5 0.0767 0.5 1
+ K1 K 1 a 0 0.0 0 1
+ H H 2 e 0.483 0.3709 0.26 1
+
+
+_exptl_crystal_colour                    'green olive light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.96
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            40
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    5259
+_exptl_absorpt_coefficient_mu            16.20
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             179
+_refine_ls_number_reflns                 3168
+_refine_ls_R_factor_gt                   0.029
+_refine_ls_wR_factor_gt                  0.065
+
+# End of data set 1321913
+
+

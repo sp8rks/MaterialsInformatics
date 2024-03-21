@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Cu-Zr            # CuZr mon2                                     # 1930342 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1930342
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1930342
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Zr'
+_chemical_formula_sum                    'Cu Zr'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuZr,mS16,8
+_chemical_formula_weight                 154.8
+
+# Bibliographic data
+
+_publ_section_title
+'Electronic and crystal structure of intermetallic compound ZrCu'             
+_journal_coden_ASTM                      DNAUFL
+_journal_name_full                       'Dopov. Nats. Akad. Nauk Ukr.'
+_journal_year                            2010
+_journal_volume                          ?
+_journal_issue                           1
+_journal_page_first                      103
+_journal_page_last                       109
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Firstov G.S.'
+;
+Ukrainian Academy of Sciences
+Kurdiumov G.V. Institute of Metal Physics
+Kiev
+Ukraine
+;
+'Koval Y.N.'
+;
+Ukrainian Academy of Sciences
+Kurdiumov G.V. Institute of Metal Physics
+Kiev
+Ukraine
+;
+'Timoshevski A.N.'
+;
+Ukrainian Academy of Sciences
+Kurdiumov G.V. Institute of Metal Physics
+Kiev
+Ukraine
+;
+'Kalkuta S.A.'
+;
+Ukrainian Academy of Sciences
+Kurdiumov G.V. Institute of Metal Physics
+Kiev
+Ukraine
+;
+'Van Humbeeck J.'
+;
+Leuven Catholic University
+Departement Metaalkunde en Toegepaste Materiaalkunde
+Leuven
+Belgium
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.356
+_cell_length_b                           8.504
+_cell_length_c                           5.34
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.51
+_cell_angle_gamma                        90
+_cell_volume                             278.1
+_cell_formula_units_Z                    8
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cu
+ Zr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu3 Cu 4 b 0.01554 0.25743 0.45925 1
+ Zr3 Zr 4 b 0.21513 0.28677 0.00557 1
+ Cu1 Cu 2 a 0.0 0 0.0 1
+ Zr2 Zr 2 a 0.34859 0 0.61529 1
+ Cu2 Cu 2 a 0.42625 0 0.1211 1
+ Zr1 Zr 2 a 0.74778 0 0.52644 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.39
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'ab initio calculations'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.052
+_pd_proc_ls_proof_wR_factor              0.0647
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1930342
+
+

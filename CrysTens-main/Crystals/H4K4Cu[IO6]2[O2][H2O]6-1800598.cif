@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# Cu-H-I-K-O       # H4K4Cu[IO6]2[O2][H2O]6                        # 1800598 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1800598
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1800598
+
+# Entry summary
+
+_chemical_formula_structural
+'H~4~ K~4~ Cu [I O~6~]~2~ [O~2~] [H~2~ O]~6~'                                 
+_chemical_formula_sum                    'Cu H12 I2 K4 O20'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~4~K~4~Cu[IO~6~]~2~[O~2~][H~2~O]~6~,mP54,14                                  
+_chemical_formula_weight                 809.9
+
+# Bibliographic data
+
+_publ_section_title
+'A copper(III) periodate peroxo complex: K~4~H~4~Cu(IO~6~)~2~O~2~.6H~2~O'     
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1988
+_journal_volume                          73
+_journal_page_first                      206
+_journal_page_last                       210
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Masse R.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+'Durif A.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.71
+_cell_length_b                           9.78
+_cell_length_c                           14.2052
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.519
+_cell_angle_gamma                        90
+_cell_volume                             949.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ I
+ OH2
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 e 0.0018 0.3909 0.3964 1
+ K2 K 4 e 0.087 0.4177 0.2306 1
+ O4 O 4 e 0.0906 0.1509 0.0823 1
+ O5 O 4 e 0.1208 0.1427 0.3695 1
+ I I 4 e 0.12966 0.23284 0.48311 1
+ O6 O 4 e 0.1391 0.6702 0.0592 1
+ O2 O 4 e 0.2239 0.4039 0.081 1
+ OW2 OH2 4 e 0.3622 0.0984 0.2847 1
+ O1 O 4 e 0.3722 0.1922 0.0245 1
+ OW1 OH2 4 e 0.4792 0.4421 0.3832 1
+ O O 4 e 0.5499 0.4503 0.0036 1
+ K1 K 4 e 0.595 0.3083 0.2549 1
+ OW3 OH2 4 e 0.77 0.267 0.124 1
+ Cu Cu 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'brown red'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.83
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.56087
+_diffrn_reflns_number                    3057
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            2.79
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2223
+_refine_ls_R_factor_gt                   0.039
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1800598
+
+

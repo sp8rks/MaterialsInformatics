@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Er-Mo-O          # Er2Mo4O15                                     # 1624260 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1624260
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1624260
+
+# Entry summary
+
+_chemical_formula_structural             'Er~2~ Mo~4~ O~15~'
+_chemical_formula_sum                    'Er2 Mo4 O15'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ho~2~Mo~4~O~15~,mP42,14
+_chemical_formula_weight                 958.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structures and thermal properties of solid solutions Er~x~Dy~2-x~Mo~4~O~15~ (x= 0.0-2.0)
+;
+_journal_coden_ASTM                      MCHPDR
+_journal_name_full                       'Mater. Chem. Phys.'
+_journal_year                            2007
+_journal_volume                          104
+_journal_page_first                      68
+_journal_page_last                       73
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Peng J.'
+;
+Chinese Academy of Sciences
+College of Chemistry and Chemical Engineering
+Beijing
+China
+;
+'Wang H.'
+;
+Chinese Academy of Sciences
+College of Chemistry and Chemical Engineering
+Beijing
+China
+;
+'Yu Z.X.'
+;
+China Institute of Atomic Energy
+Beijing
+China
+;
+'Chen D.F.'
+;
+China Institute of Atomic Energy
+Beijing
+China
+;
+'Hu Z.'
+;
+Chinese Academy of Sciences
+College of Chemistry and Chemical Engineering
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.795
+_cell_length_b                           9.547
+_cell_length_c                           10.487
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.48
+_cell_angle_gamma                        90
+_cell_volume                             655.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ Er
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0562 0.0283 0.2937 1
+ O2 O 4 e 0.1119 0.2752 0.1465 1
+ Mo1 Mo 4 e 0.12119 0.09525 0.15607 1
+ O3 O 4 e 0.2772 0.6529 0.0802 1
+ Er1 Er 4 e 0.28728 0.47702 0.22327 1
+ O4 O 4 e 0.3782 0.0572 0.1828 1
+ O5 O 4 e 0.3833 0.3323 0.4003 1
+ O6 O 4 e 0.4785 0.3734 0.1027 1
+ Mo2 Mo 4 e 0.58183 0.25677 0.01124 1
+ O7 O 4 e 0.7452 0.1358 0.1173 1
+ O8 O 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.85
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1624260
+
+

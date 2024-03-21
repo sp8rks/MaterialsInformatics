@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Br-H-O-Se        # H2SeBr6[H2O]8                                 # 1714099 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1714099
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1714099
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Se Br~6~ [H~2~ O]~8~'
+_chemical_formula_sum                    'Br6 H16 O8 Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~SeBr~6~[H~2~O]~8~,mS30,12
+_chemical_formula_weight                 704.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Solvated halogeno-chalcogen(IV) acids, I. Preparation and structure of the hexabromoselenium(IV) acid hydrate (H~5~O~2~)~2~SeBr~6~.4H~2~O
+;
+_journal_coden_ASTM                      ZNBAD2
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1979
+_journal_volume                          34
+_journal_page_first                      1666
+_journal_page_last                       1670
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Krebs B.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Hein M.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.394
+_cell_length_b                           10.288
+_cell_length_c                           8.366
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.11
+_cell_angle_gamma                        90
+_cell_volume                             867.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ OH2
+ Br
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 OH2 8 j 0.1181 0.3762 0.4138 1
+ O1 OH2 8 j 0.3123 0.2488 0.3025 1
+ Br1 Br 4 i 0.0433 0 0.3169 1
+ Br2 Br 4 i 0.2506 0 0.0231 1
+ Br3 Br 4 g 0 0.2482 0 1
+ Se Se 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'brown red'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.70
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173(3)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            16.97
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 824
+_refine_ls_R_factor_gt                   0.067
+_refine_ls_wR_factor_gt                  0.056
+
+# End of data set 1714099
+
+

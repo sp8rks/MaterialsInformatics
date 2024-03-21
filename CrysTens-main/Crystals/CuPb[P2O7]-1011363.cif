@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Cu-O-P-Pb        # CuPb[P2O7]                                    # 1011363 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1011363
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1011363
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Pb [P~2~ O~7~]'
+_chemical_formula_sum                    'Cu O7 P2 Pb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuPb[As~2~O~7~],mP44,14
+_chemical_formula_weight                 444.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural order in complexes of the A^2+^B^2+^P~2~O~7~ series: BaPbP~2~O~7~, PbCoP~2~O~7~, PbMnP~2~O~7~ and PbCuP~2~O~7~
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1995
+_journal_volume                          227
+_journal_page_first                      125
+_journal_page_last                       130
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Elmarzouki A.'
+;
+Rabat Mohammed V University
+Laboratoire de Chimie du Solide Appliqu\'ee
+Rabat
+Morocco
+;
+'Boukhari A.'
+;
+Rabat Mohammed V University
+Laboratoire de Chimie du Solide Appliqu\'ee
+Rabat
+Morocco
+;
+'Holt E.M.'
+;
+Oklahoma Stillwater University
+Department of Chemistry
+Stillwater
+U.S.A. Oklahoma
+;
+'Berrada A.'
+;
+Rabat Mohammed V University
+Laboratoire de Chimie du Solide Appliqu\'ee
+Rabat
+Morocco
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.381
+_cell_length_b                           8.194
+_cell_length_c                           13.6387
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.847
+_cell_angle_gamma                        90
+_cell_volume                             554.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Pb
+ O
+ Cu
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Pb1 Pb 4 e 0.008 0.3333 0.2206 1
+ O12 O 4 e 0.1167 0.179 0.4048 1
+ O23 O 4 e 0.1761 0.0612 0.1949 1
+ O13 O 4 e 0.2778 0.4041 0.0986 1
+ Cu2 Cu 4 e 0.3177 0.6436 0.1125 1
+ O14 O 4 e 0.3251 0.1181 0.0456 1
+ P1 P 4 e 0.3332 0.3043 0.013 1
+ P2 P 4 e 0.4036 0.0365 0.1605 1
+ O21 O 4 e 0.5318 0.3592 0.3489 1
+ O11 O 4 e 0.6191 0.3364 0.0185 1
+ O22 O 4 e 0.6623 0.1211 0.2355 1
+
+
+_exptl_crystal_colour                    'blue green'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.33
+_cell_measurement_temperature            301
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              301
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens P4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    1506
+_diffrn_reflns_theta_min                 3.5
+_diffrn_reflns_theta_max                 22.5
+_exptl_absorpt_coefficient_mu            34.732
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             101
+_refine_ls_number_reflns                 812
+_refine_ls_R_factor_gt                   0.0443
+_refine_ls_wR_factor_gt                  0.0546
+
+# End of data set 1011363
+
+

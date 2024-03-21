@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Er-I-Ru          # Er3RuI3                                       # 1406652 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1406652
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1406652
+
+# Entry summary
+
+_chemical_formula_structural             'Er~3~ Ru I~3~'
+_chemical_formula_sum                    'Er3 I3 Ru'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Pr~3~RuI~3~,mP14,11
+_chemical_formula_weight                 983.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Chains of centered metal clusters with a novel range of distortions: Pr~3~I~3~Ru, Y~3~I~3~Ru, and Y~3~I~3~Ir
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1992
+_journal_volume                          31
+_journal_page_first                      1389
+_journal_page_last                       1394
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Payne M.W.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Dorhout P.K.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Kim S.J.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Hughbanks T.R.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Corbett J.D.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.6265
+_cell_length_b                           4.159
+_cell_length_c                           12.063
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.071
+_cell_angle_gamma                        90
+_cell_volume                             431.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Er
+ Ru
+ I
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Er1 Er 2 e 0.09926 0.25 0.39156 1
+ Ru1 Ru 2 e 0.11112 0.25 0.62511 1
+ Er2 Er 2 e 0.11857 0.25 0.83471 1
+ I1 I 2 e 0.13865 0.25 0.11785 1
+ I2 I 2 e 0.6055 0.25 0.63795 1
+ I3 I 2 e 0.62533 0.25 0.11762 1
+ Er3 Er 2 e 0.68455 0.25 0.37908 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.58
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54056
+_pd_proc_wavelength                      1.54056
+_cell_measurement_reflns_used            33
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1406652
+
+

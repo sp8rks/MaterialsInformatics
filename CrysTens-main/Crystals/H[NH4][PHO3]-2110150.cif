@@ -1,0 +1,165 @@
+##############################################################################
+#                                                                            #
+# H-N-O-P          # H[NH4][PHO3]                                  # 2110150 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2110150
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2110150
+
+# Entry summary
+
+_chemical_formula_structural             'H [N H~4~] [P H O~3~]'
+_chemical_formula_sum                    'H6 N O3 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[NH~4~][PHO~3~],mP20,14
+_chemical_formula_weight                 99.0
+
+# Bibliographic data
+
+_publ_section_title
+'Structure of Ammonium Dihydrogenphosphite, NH~4~H~2~PO~3~'                   
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1984
+_journal_volume                          40
+_journal_page_first                      720
+_journal_page_last                       722
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Melichar Z.'
+;
+Prague Charles University
+Department of Inorganic Chemistry
+Prague
+Czech Republic
+;
+'Kratochvil B.'
+;
+Prague Charles University
+Department of Inorganic Chemistry
+Prague
+Czech Republic
+;
+'Podlahova J.'
+;
+Prague Charles University
+Department of Inorganic Chemistry
+Prague
+Czech Republic
+;
+'Petricek V.'
+;
+Academy of Sciences of the Czech Republic
+Institute of Physics
+Prague
+Czech Republic
+;
+'Maly K.'
+;
+Academy of Sciences of the Czech Republic
+Institute of Physics
+Prague
+Czech Republic
+;
+'Cisarova I.'
+;
+Academy of Sciences of the Czech Republic
+Institute of Physics
+Prague
+Czech Republic
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.273
+_cell_length_b                           8.232
+_cell_length_c                           8.902
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.11
+_cell_angle_gamma                        90
+_cell_volume                             397.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ N
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P P 4 e 0.0645 0.10901 0.31939 1
+ O2 O 4 e 0.1425 0.1226 0.1867 1
+ O3 O 4 e 0.2046 0.6213 0.2443 1
+ O1 O 4 e 0.2197 0.239 0.4626 1
+ N N 4 e 0.5935 0.3723 0.3715 1
+ H(O1) H 4 e 0.18 0.222 0.024 1
+ H(4N) H 4 e 0.432 0.415 0.303 1
+ H(2N) H 4 e 0.658 0.339 0.495 1
+ H(1N) H 4 e 0.66 0.28 0.336 1
+ H(3N) H 4 e 0.685 0.452 0.354 1
+ H(P) H 4 e 0.893 0.459 0.131 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              1.672(3)
+_exptl_crystal_density_diffrn            1.65
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.70916
+_cell_measurement_reflns_used            29
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Hilger-Watts
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            0.54
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1155
+_refine_ls_R_factor_gt                   0.055
+_refine_ls_wR_factor_gt                  0.076
+
+# End of data set 2110150
+
+

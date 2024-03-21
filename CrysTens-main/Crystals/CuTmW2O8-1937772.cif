@@ -1,0 +1,116 @@
+##############################################################################
+#                                                                            #
+# Cu-O-Tm-W        # CuTmW2O8                                      # 1937772 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1937772
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1937772
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Tm W~2~ O~8~'
+_chemical_formula_sum                    'Cu O8 Tm W2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            LiYbW~2~O~8~,mP24,13
+_chemical_formula_weight                 728.2
+
+# Bibliographic data
+
+_publ_section_title
+'Ein Beitrag zur Kristallstruktur von \b-CuTmW~2~O~8~ und \b-CuLuW~2~O~8~'    
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1993
+_journal_volume                          201
+_journal_page_first                      267
+_journal_page_last                       270
+_journal_language                        German
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.0126
+_cell_length_b                           5.8212
+_cell_length_c                           10.8802
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.748
+_cell_angle_gamma                        90
+_cell_volume                             290.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ W
+ Tm
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 g 0.15 0.108 0.593 1
+ O4 O 4 g 0.233 0.374 0.131 1
+ W W 4 g 0.2632 0.1801 0.0146 1
+ O1 O 4 g 0.289 0.637 0.393 1
+ O3 O 4 g 0.361 0.081 0.388 1
+ Tm Tm 2 f 0.5 0.6984 0.25 1
+ Cu Cu 2 e 0 0.2739 0.25 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.32
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2776
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             57
+_refine_ls_number_reflns                 1253
+_refine_ls_R_factor_gt                   0.044
+_refine_ls_wR_factor_gt                  0.039
+
+# End of data set 1937772
+
+

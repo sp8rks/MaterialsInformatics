@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Ce-Cu-K-S        # K2Cu2CeS4                                     # 1804095 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1804095
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1804095
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Cu~2~ Ce S~4~'
+_chemical_formula_sum                    'Ce Cu2 K2 S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Cu~2~CeS~4~,mS18,12
+_chemical_formula_weight                 473.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+The First Examples of Alkali Metal/Cu/Ce/Chalcogenides: The Layered Heterometallic Compounds KCuCe~2~S~6~ and K~2~Cu~2~CeS~4~
+;
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            1994
+_journal_volume                          116
+_journal_page_first                      7706
+_journal_page_last                       7713
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sutorik A.C.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Albritton Thomas J.'
+;
+Illinois Evanston Northwestern University
+Department of Electrical Engineering and Computer Science
+Evanston
+U.S.A. Illinois
+;
+'Kannewurf C.R.'
+;
+Illinois Evanston Northwestern University
+Department of Electrical Engineering and Computer Science
+Evanston
+U.S.A. Illinois
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.32
+_cell_length_b                           3.961
+_cell_length_c                           7.496
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.77
+_cell_angle_gamma                        90
+_cell_volume                             400.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ K
+ S
+ Cu
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K K 4 i 0.1367 0 0.5623 1
+ S(2) S 4 i 0.2001 0 0.1744 1
+ Cu Cu 4 i 0.3206 0 0.0132 1
+ S(1) S 4 i 0.4802 0 0.2374 1
+ Ce Ce 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.93
+_cell_measurement_temperature            193
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              193
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC6S'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    606
+_exptl_absorpt_coefficient_mu            12.927
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             29
+_refine_ls_number_reflns                 436
+_refine_ls_R_factor_gt                   0.020
+_refine_ls_wR_factor_gt                  0.026
+
+# End of data set 1804095
+
+

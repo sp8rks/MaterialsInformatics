@@ -1,0 +1,270 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-Pb-S      # CuPb[SO4][OH]2                                # 1940372 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1940372
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1940372
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Pb [S O~4~] [O H]~2~'
+_chemical_formula_sum                    'Cu H2 O6 Pb S'
+_chemical_name_mineral                   linarite
+_chemical_compound_source
+'U.S.A. San Bernadino, Baker, Blue Bell mine'                                 
+_chemical_name_structure_type            CuPb[SO~4~][OH]~2~-b,mP18,11
+_chemical_formula_weight                 400.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Thermodynamic properties of the anisotropic frustrated spin-chain compound linarite PbCuSO~4~(OH)~2~
+;
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            2013
+_journal_volume                          88
+_journal_page_first                      1
+_journal_page_last                       17
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sch\"apers M.'
+;
+Leibniz Society
+Leibniz-Institut f\"ur Festk\"orper- und Werkstofforschung (IFW)
+Dresden
+Germany
+;
+'Ouladdiaf B.'
+;
+Grenoble Laue-Langevin Institute
+Max von Laue-Paul Langevin Institute
+Grenoble
+France
+;
+'Uhlarz M.'
+;
+Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
+High Magnetic Field Laboratory
+Dresden
+Germany
+;
+'Beyer R.'
+;
+Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
+High Magnetic Field Laboratory
+Dresden
+Germany
+;
+'Skourski Y.'
+;
+Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
+High Magnetic Field Laboratory
+Dresden
+Germany
+;
+'Wosnitza J.'
+;
+Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
+High Magnetic Field Laboratory
+Dresden
+Germany
+;
+'Rule K.C.'
+;
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Ryll H.'
+;
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Klemke B.'
+;
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Kiefer K.'
+;
+Helmholtz-Zentrum Berlin f\"ur Materialien und Energie GmbH
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Reehuis M.'
+;
+Hahn Meitner Institute
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Wolter A.U.B.'
+;
+Leibniz Society
+Leibniz-Institut f\"ur Festk\"orper- und Werkstofforschung (IFW)
+Dresden
+Germany
+;
+'Willenberg B.'
+;
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'S\"ullow S.'
+;
+Braunschweig Technical University
+Institut f\"ur Physik der Kondensierten Materie
+Braunschweig
+Germany
+;
+'Drechsler S.L.'
+;
+Leibniz Society
+Leibniz-Institut f\"ur Festk\"orper- und Werkstofforschung (IFW)
+Dresden
+Germany
+;
+'Nishimoto S.'
+;
+Leibniz Society
+Leibniz-Institut f\"ur Festk\"orper- und Werkstofforschung (IFW)
+Dresden
+Germany
+;
+'M\"uller K.H.'
+;
+Leibniz Society
+Leibniz-Institut f\"ur Festk\"orper- und Werkstofforschung (IFW)
+Dresden
+Germany
+;
+'Abdel Hafiez M.'
+;
+Leibniz Society
+Leibniz-Institut f\"ur Festk\"orper- und Werkstofforschung (IFW)
+Dresden
+Germany
+;
+'Schottenhamel W.'
+;
+Leibniz Society
+Leibniz-Institut f\"ur Festk\"orper- und Werkstofforschung (IFW)
+Dresden
+Germany
+;
+'B\"uchner B.'
+;
+Leibniz Society
+Leibniz-Institut f\"ur Festk\"orper- und Werkstofforschung (IFW)
+Dresden
+Germany
+;
+'Richter J.'
+;
+Magdeburg Otto von Guericke University
+Institute for Theoretical Physics
+Magdeburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.683
+_cell_length_b                           5.646
+_cell_length_c                           9.682
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.65
+_cell_angle_gamma                        90
+_cell_volume                             249.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ Pb
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 f 0.058 0.0364 0.2465 1
+ S S 2 e 0.1159 0.25 0.1692 1
+ O5 O 2 e 0.2698 0.25 0.5953 1
+ Pb Pb 2 e 0.3292 0.25 0.8416 1
+ O2 O 2 e 0.4279 0.25 0.1635 1
+ O4 O 2 e 0.713 0.25 0.4666 1
+ O1 O 2 e 0.9331 0.25 0.0256 1
+ Cu Cu 2 c 0 0 0.5 1
+ H5 H 2 e 0.4537 0.25 0.5586 1
+ H4 H 2 e 0.6166 0.25 0.3667 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.33
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D10'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.26
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.067
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1940372
+
+

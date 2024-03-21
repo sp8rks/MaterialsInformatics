@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# As-Eu-Si         # Eu3Si2As4                                     # 1605969 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1605969
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1605969
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~3~ Si~2~ As~4~'
+_chemical_formula_sum                    'As4 Eu3 Si2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~3~Si~2~As~4~,mP36,14
+_chemical_formula_weight                 811.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal and electronic structures and magnetic properties of Eu~3~Tt~2~As~4~ (Tt= Si, Ge)
+;
+_journal_coden_ASTM                      EJICFO
+_journal_name_full                       'Eur. J. Inorg. Chem.'
+_journal_year                            2014
+_journal_volume                          ?
+_journal_page_first                      2248
+_journal_page_last                       2253
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Liu X.C.'
+;
+Jinan Shandong Jiaotong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Xia S.Q.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Lei X.W.'
+;
+Jinan Shandong Jiaotong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Pan M.Y.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Tao X.T.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.5342
+_cell_length_b                           18.103
+_cell_length_c                           7.2972
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.784
+_cell_angle_gamma                        90
+_cell_volume                             924.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ As
+ Si
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As1 As 4 e 0.01183 0.06195 0.25816 1
+ As2 As 4 e 0.04541 0.31321 0.22052 1
+ Si1 Si 4 e 0.2123 0.36929 0.0276 1
+ Eu1 Eu 4 e 0.221 0.81516 0.01117 1
+ Eu2 Eu 4 e 0.25468 0.56443 0.01113 1
+ Eu3 Eu 4 e 0.25952 0.05711 0.00326 1
+ Si2 Si 4 e 0.3106 0.23958 0.4154 1
+ As3 As 4 e 0.48943 0.43053 0.23556 1
+ As4 As 4 e 0.49167 0.19917 0.22178 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.83
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            34.494
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0235
+_refine_ls_wR_factor_gt                  0.0454
+
+# End of data set 1605969
+
+

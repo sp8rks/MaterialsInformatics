@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# H-I-K-O          # HK[IO3]2 mon1                                 # 1004846 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1004846
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1004846
+
+# Entry summary
+
+_chemical_formula_structural             'H K [I O~3~]~2~'
+_chemical_formula_sum                    'I2 K O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HK[IO~3~]~2~,mP36,14
+_chemical_formula_weight                 389.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of a new monoclinic modification of acid K-iodate, KIO~3~.HIO~3~
+;
+_journal_coden_ASTM                      DANKAS
+_journal_name_full                       'Dokl. Akad. Nauk SSSR'
+_journal_year                            1975
+_journal_volume                          224
+_journal_page_first                      1066
+_journal_page_last                       1068
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Vavilin V.I.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Ionov V.M.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Ilyukhin V.V.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Belov N.V.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.57
+_cell_length_b                           7.437
+_cell_length_c                           8.613
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.21
+_cell_angle_gamma                        90
+_cell_volume                             626.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ I
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O13 O 4 e 0.02998 0.1623 0.01313 1
+ O11 O 4 e 0.06055 0.54743 0.18644 1
+ I1 I 4 e 0.1258 0.69749 0.07332 1
+ K K 4 e 0.20184 0.24711 0.34038 1
+ O21 O 4 e 0.32571 0.4575 0.15083 1
+ O23 O 4 e 0.4271 0.02988 0.08261 1
+ O22 O 4 e 0.46046 0.14079 0.38661 1
+ I2 I 4 e 0.50718 0.43528 0.20398 1
+ O12 O 4 e 0.77198 0.34909 0.26578 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Hilger-Watts
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            10.824
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2304
+_refine_ls_R_factor_gt                   0.043
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1004846
+
+

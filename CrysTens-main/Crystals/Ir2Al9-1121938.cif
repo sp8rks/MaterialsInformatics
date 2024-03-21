@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Al-Ir            # Ir2Al9                                        # 1121938 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1121938
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1121938
+
+# Entry summary
+
+_chemical_formula_structural             'Ir~2~ Al~9~'
+_chemical_formula_sum                    'Al9 Ir2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Co~2~Al~9~,mP22,14
+_chemical_formula_weight                 627.3
+
+# Bibliographic data
+
+_publ_section_title
+'The Co~2~Al~9~ Structure Type Revisited'                                     
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2005
+_journal_volume                          631
+_journal_page_first                      534
+_journal_page_last                       541
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bostr\"om M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Rosner H.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Prots Y.M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Burkhardt U.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Grin Y.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.3779
+_cell_length_b                           6.4318
+_cell_length_c                           8.7337
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.776
+_cell_angle_gamma                        90
+_cell_volume                             357
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Al
+ Ir
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Al3a Al 4 e 0.0967 0.715 0.2279 1
+ Al4a Al 4 e 0.2141 0.3945 0.0391 1
+ Ir1a Ir 4 e 0.26327 0.37806 0.33167 1
+ Al1a Al 4 e 0.4012 0.0219 0.2701 1
+ Al2a Al 4 e 0.6113 0.1931 0.0007 1
+ Al5 Al 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    gray
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.84
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Co Ka1'
+_cell_measurement_wavelength             1.78897
+_pd_proc_wavelength                      1.78897
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    4015
+_exptl_absorpt_coefficient_mu            38.25
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             53
+_refine_ls_number_reflns                 1228
+_refine_ls_R_factor_gt                   0.017
+_refine_ls_wR_factor_gt                  0.022
+
+# End of data set 1121938
+
+

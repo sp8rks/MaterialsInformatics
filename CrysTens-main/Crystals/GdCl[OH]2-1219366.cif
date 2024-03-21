@@ -1,0 +1,128 @@
+##############################################################################
+#                                                                            #
+# Cl-Gd-H-O        # GdCl[OH]2                                     # 1219366 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1219366
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1219366
+
+# Entry summary
+
+_chemical_formula_structural             'Gd Cl [O H]~2~'
+_chemical_formula_sum                    'Cl Gd H2 O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            YCl[OH]~2~,mP8,11
+_chemical_formula_weight                 226.7
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structures of Pr(OH~2~)Cl, Sm(OH~2~)Cl, and Gd(OH)~2~Cl'         
+_journal_coden_ASTM                      JSTCAM
+_journal_name_full                       'J. Struct. Chem.'
+_journal_year                            1969
+_journal_volume                          10
+_journal_page_first                      408
+_journal_page_last                       410
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Klevtsova R.F.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Glinskaya L.A.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.15
+_cell_length_b                           3.74
+_cell_length_c                           6.7
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.
+_cell_angle_gamma                        90
+_cell_volume                             143.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cl
+ OH
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl Cl 2 e 0.255 0.25 0.063 1
+ OI OH 2 e 0.401 0.25 0.583 1
+ Gd Gd 2 e 0.8024 0.25 0.626 1
+ OII OH 2 e 0.935 0.25 0.343 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.18(7)
+_exptl_crystal_density_diffrn            5.23
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device
+'oscillation and rotation photographs'                                        
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 958
+_refine_ls_R_factor_gt                   0.139
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1219366
+
+

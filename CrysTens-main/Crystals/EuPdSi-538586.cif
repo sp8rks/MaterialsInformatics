@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuSiPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42800000
+_cell_length_b   6.42800000
+_cell_length_c   6.42800000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuSiPd
+_chemical_formula_sum   'Eu4 Si4 Pd4'
+_cell_volume   265.59971475
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.07010000  0.07010000  0.07010000  1.0
+  Eu  Eu1  1  0.42990000  0.92990000  0.57010000  1.0
+  Eu  Eu2  1  0.92990000  0.57010000  0.42990000  1.0
+  Eu  Eu3  1  0.57010000  0.42990000  0.92990000  1.0
+  Si  Si4  1  0.65350000  0.65350000  0.65350000  1.0
+  Si  Si5  1  0.84650000  0.34650000  0.15350000  1.0
+  Si  Si6  1  0.34650000  0.15350000  0.84650000  1.0
+  Si  Si7  1  0.15350000  0.84650000  0.34650000  1.0
+  Pd  Pd8  1  0.33350000  0.33350000  0.33350000  1.0
+  Pd  Pd9  1  0.16650000  0.66650000  0.83350000  1.0
+  Pd  Pd10  1  0.66650000  0.83350000  0.16650000  1.0
+  Pd  Pd11  1  0.83350000  0.16650000  0.66650000  1.0

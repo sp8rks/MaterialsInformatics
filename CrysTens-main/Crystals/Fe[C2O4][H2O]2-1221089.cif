@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# C-Fe-H-O         # Fe[C2O4][H2O]2 mon                            # 1221089 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1221089
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1221089
+
+# Entry summary
+
+_chemical_formula_structural             'Fe [C~2~ O~4~] [H~2~ O]~2~'
+_chemical_formula_sum                    'C2 Fe H4 O6'
+_chemical_name_mineral                   humboldtine
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            Fe[C~2~O~4~][H~2~O]~2~,mS36,15
+_chemical_formula_weight                 179.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Single-crystal X-ray diffraction and spectroscopic studies on humboldtine and lindbergite: Weak Jahn-Teller effect of Fe^2+^ ion
+;
+_journal_coden_ASTM                      PCMIDU
+_journal_name_full                       'Phys. Chem. Miner.'
+_journal_year                            2008
+_journal_volume                          35
+_journal_page_first                      467
+_journal_page_last                       475
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Echigo T.'
+;
+Tsukuba Ibaraki University
+Graduate School of Life and Environmental Sciences
+Tsukuba / Ibaraki
+Japan
+;
+'Kimata M.'
+;
+Tsukuba Ibaraki University
+Graduate School of Life and Environmental Sciences
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.011
+_cell_length_b                           5.557
+_cell_length_c                           9.7071
+_cell_angle_alpha                        90
+_cell_angle_beta                         126.924
+_cell_angle_gamma                        90
+_cell_volume                             518
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ C
+ Fe
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 f 0.0873 0.3784 0.4236 1
+ O3 O 8 f 0.1724 0.0723 0.2427 1
+ O1 O 8 f 0.4121 0.2806 0.0773 1
+ C C 8 f 0.4488 0.0816 0.1489 1
+ Fe Fe 4 e 0 0.0796 0.25 1
+ H1 H 8 f 0.164 0.159 0.151 1
+ H2 H 8 f 0.261 0.12 0.344 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.31
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku R-AXIS RAPID'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2405
+_exptl_absorpt_coefficient_mu            2.8624
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             51
+_refine_ls_number_reflns                 595
+_refine_ls_R_factor_gt                   0.0374
+_refine_ls_wR_factor_gt                  0.0931
+
+# End of data set 1221089
+
+

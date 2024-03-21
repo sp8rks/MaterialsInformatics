@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Cr-Hg-O          # Hg5CrO6                                       # 1013143 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1013143
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1013143
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~5~ Cr O~6~'
+_chemical_formula_sum                    'Cr Hg5 O6'
+_chemical_name_mineral                   wattersite
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg~5~CrO~6~,mS48,15
+_chemical_formula_weight                 1150.9
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of wattersite, Hg^1+^~4~Hg^2+^Cr^6+^O~6~'              
+_journal_coden_ASTM                      CAMIA6
+_journal_name_full                       'Can. Mineral.'
+_journal_year                            1995
+_journal_volume                          33
+_journal_page_first                      41
+_journal_page_last                       46
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Groat L.A.'
+;
+Vancouver British Columbia University
+Department of Geological Sciences
+Vancouver
+Canada
+;
+'Roberts A.C.'
+;
+Canada Geological Survey
+Ottawa
+Canada
+;
+'Le Page Y.'
+;
+National Research Council of Canada (NRCC)
+Institute of Solid State Chemistry
+Ottawa
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.274
+_cell_length_b                           11.669
+_cell_length_c                           6.603
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.19
+_cell_angle_gamma                        90
+_cell_volume                             859.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Hg
+ Cr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 f 0.0052 0.2335 0.0451 1
+ O3 O 8 f 0.1292 0.3941 0.2951 1
+ Hg2 Hg 8 f 0.2729 0.07744 0.2988 1
+ Hg3 Hg 8 f 0.3363 0.27667 0.2099 1
+ O1 O 8 f 0.3579 0.4508 0.1458 1
+ Cr Cr 4 e 0 0.3167 0.25 1
+ Hg1 Hg 4 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.89
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens P3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2635
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            90.14
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 933
+_refine_ls_R_factor_gt                   0.055
+_refine_ls_wR_factor_gt                  0.048
+
+# End of data set 1013143
+
+

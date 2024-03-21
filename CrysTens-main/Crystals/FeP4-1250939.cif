@@ -1,0 +1,175 @@
+##############################################################################
+#                                                                            #
+# Fe-P             # FeP4 mon1                                     # 1250939 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1250939
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1250939
+
+# Entry summary
+
+_chemical_formula_structural             'Fe P~4~'
+_chemical_formula_sum                    'Fe P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            FeP~4~,mP30,14
+_chemical_formula_weight                 179.7
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and Crystal Structure of the Iron Polyphosphide FeP~4~'            
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1978
+_journal_volume                          34
+_journal_page_first                      3196
+_journal_page_last                       3201
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jeitschko W.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Braun D.J.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.619
+_cell_length_b                           13.67
+_cell_length_c                           7.002
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.48
+_cell_angle_gamma                        90
+_cell_volume                             433.27
+_cell_formula_units_Z                    6
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P5 P 4 e 0.0744 0.2253 0.3650 1
+ Fe2 Fe 4 e 0.1400 0.8301 0.3809 1
+ P1 P 4 e 0.1975 0.4465 0.2493 1
+ P3 P 4 e 0.2647 0.1133 0.1962 1
+ P4 P 4 e 0.3687 0.5553 0.0709 1
+ P6 P 4 e 0.5075 0.2192 0.0327 1
+ P2 P 4 e 0.6542 0.3925 0.3544 1
+ Fe1 Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            6.77
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 877
+_refine_ls_R_factor_gt                   0.051
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 2 1 48.416 3
+ 1 0 0 45.262 2
+ 1 1 0 42.965 2
+ -1 1 1 39.974 3
+ 0 3 1 37.948 3
+ -1 2 1 35.651 5
+ -1 1 2 29.676 3
+ -1 2 2 27.78 7
+ 1 3 1 27.624 9
+ -1 3 2 25.285 7
+ 0 4 2 24.203 3
+ 1 5 0 23.402 2
+ -1 1 3 21.987 3
+ 2 2 0 21.489 2
+ 0 5 2 21.382 5
+ 1 6 0 20.353 3
+ -2 2 2 19.986 2
+ -2 4 1 19.011 3
+ 2 4 0 18.868 5
+ 2 3 1 18.563 2
+ 1 5 2 18.465 3
+ -2 4 2 17.825 5
+ -1 7 1 17.69 3
+ -2 5 1 17.543 7
+ 2 5 0 17.435 5
+ -2 2 3 17.386 3
+ 2 0 2 17.37 7
+ -1 1 4 17.082 2
+ 0 7 2 16.974 2
+ 1 6 2 16.855 5
+ -1 2 4 16.698 5
+ 0 2 4 16.642 3
+ 0 8 1 16.583 2
+ 1 4 3 16.575 2
+ -1 7 2 16.433 2
+ -2 6 1 16.143 5
+
+# End of data set 1250939
+
+

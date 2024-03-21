@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# H-K-O-P-S        # K2PS3[H2O]2                                   # 1623242 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1623242
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1623242
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ P S~3~ [H~2~ O]~2~'
+_chemical_formula_sum                    'H4 K2 O2 P S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~PS~3~[H~2~O]~2~,mP32,14
+_chemical_formula_weight                 241.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+New hexachalcogeno-hypodiphosphates of the alkali metals: Synthesis, crystal structure and vibrational spectra of the hexathiodiphosphate(IV) hydrates K~4~[P~2~S~6~].4H~2~O, Rb~4~[P~2~S~6~].6H~2~O, and Cs~4~[P~2~S~6~].6H~2~O
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2007
+_journal_volume                          633
+_journal_page_first                      1048
+_journal_page_last                       1054
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gjikaj M.'
+;
+Clausthal-Zellerfeld Technical University - Bergakademie
+Institut f\"ur Anorganische und Analytische Chemie
+Clausthal-Zellerfeld
+Germany
+;
+'Ehrhardt C.'
+;
+Clausthal-Zellerfeld Technical University - Bergakademie
+Institut f\"ur Anorganische und Analytische Chemie
+Clausthal-Zellerfeld
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.037
+_cell_length_b                           11.292
+_cell_length_c                           11.6062
+_cell_angle_alpha                        90
+_cell_angle_beta                         129.597
+_cell_angle_gamma                        90
+_cell_volume                             811.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ K
+ S
+ P
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K2 K 4 e 0.0195 0.1537 0.4698 1
+ S1 S 4 e 0.0289 0.1437 0.1845 1
+ P P 4 e 0.1436 0.0326 0.1132 1
+ O1 O 4 e 0.2342 0.4618 0.2437 1
+ O2 O 4 e 0.2793 0.5495 0.0133 1
+ S2 S 4 e 0.3345 0.1202 0.0842 1
+ K1 K 4 e 0.5123 0.2734 0.4093 1
+ S3 S 4 e 0.7102 0.386 0.2581 1
+ H12 H 4 e 0.171 0.467 0.273 1
+ H11 H 4 e 0.311 0.506 0.275 1
+ H22 H 4 e 0.357 0.507 0.064 1
+ H21 H 4 e 0.728 0.454 0.058 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.98
+_cell_measurement_temperature            223(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              223(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    12460
+_diffrn_reflns_theta_min                 0.988
+_diffrn_reflns_theta_max                 28.92
+_exptl_absorpt_coefficient_mu            2.0541
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             89
+_refine_ls_number_reflns                 2110
+_refine_ls_R_factor_gt                   0.0420
+_refine_ls_wR_factor_gt                  0.0819
+
+# End of data set 1623242
+
+

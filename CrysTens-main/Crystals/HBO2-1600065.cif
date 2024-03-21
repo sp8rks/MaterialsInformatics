@@ -1,0 +1,128 @@
+##############################################################################
+#                                                                            #
+# B-H-O            # HBO2 mon                                      # 1600065 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1600065
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1600065
+
+# Entry summary
+
+_chemical_formula_structural             'H B O~2~'
+_chemical_formula_sum                    'B H O2'
+_chemical_name_mineral                   clinometaborite
+_chemical_compound_source                ?
+_chemical_name_structure_type            HBO~2~,mP36,14
+_chemical_formula_weight                 43.8
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of Monoclinic Metaboric Acid'                          
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1963
+_journal_volume                          16
+_journal_page_first                      385
+_journal_page_last                       389
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zachariasen W.H.'
+;
+Argonne National Laboratory
+Department of Physics
+Chicago
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.771
+_cell_length_b                           8.842
+_cell_length_c                           7.122
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.26
+_cell_angle_gamma                        90
+_cell_volume                             425.7
+_cell_formula_units_Z                    12
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ B
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0055 0.061 0.284 1
+ B1 B 4 e 0.022 0.2109 0.2382 1
+ O1 O 4 e 0.1208 0.8061 0.2121 1
+ B3 B 4 e 0.1705 0.5422 0.7676 1
+ O3 O 4 e 0.1841 0.2621 0.1462 1
+ O4 O 4 e 0.3176 0.0134 0.1443 1
+ B2 B 4 e 0.3286 0.1617 0.0985 1
+ O5 O 4 e 0.482 0.2162 0.0021 1
+ O6 O 4 e 0.7237 0.4533 0.0333 1
+ H3 H 4 e 0.158 0.552 0.067 1
+ H2 H 4 e 0.551 0.357 0.453 1
+ H1 H 4 e 0.651 0.38 0.02 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.044
+_exptl_crystal_density_diffrn            2.05
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 844
+_refine_ls_R_factor_gt                   0.06
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1600065
+
+

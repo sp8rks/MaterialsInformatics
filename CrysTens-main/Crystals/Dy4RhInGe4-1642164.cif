@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# Dy-Ge-In-Rh      # Dy4RhInGe4                                    # 1642164 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1642164
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1642164
+
+# Entry summary
+
+_chemical_formula_structural             'Dy~4~ Rh In Ge~4~'
+_chemical_formula_sum                    'Dy4 Ge4 In Rh'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Tb~4~RhInGe~4~,mS40,12
+_chemical_formula_weight                 1158.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Many metals make the cut: Quaternary rare-earth germanides R~4~M~2~InGe~4~ (M= Fe, Co, Ni, Ru, Rh, Ir) and R~4~RhInGe~4~ derived from excision of slabs in R~2~InGe~2~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2015
+_journal_volume                          54
+_journal_page_first                      2780
+_journal_page_last                       2792
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Oliynyk A.O.'
+;
+Edmonton Alberta University
+Department of Chemistry
+Edmonton
+Canada
+;
+'Stoyko S.S.'
+;
+Edmonton Alberta University
+Department of Chemistry
+Edmonton
+Canada
+;
+'Mar A.'
+;
+Edmonton Alberta University
+Department of Chemistry
+Edmonton
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           20.181
+_cell_length_b                           4.238
+_cell_length_c                           10.225
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.11
+_cell_angle_gamma                        90
+_cell_volume                             844.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Ge
+ Rh
+ Dy
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ge1 Ge 4 i 0.0632 0 0.78519 1
+ Ge2 Ge 4 i 0.13207 0 0.18953 1
+ Ge3 Ge 4 i 0.14302 0 0.44998 1
+ Rh1 Rh 4 i 0.24058 0 0.1068 1
+ Dy1 Dy 4 i 0.2783 0 0.65591 1
+ Dy2 Dy 4 i 0.37132 0 0.00695 1
+ Dy3 Dy 4 i 0.37279 0 0.35947 1
+ Dy4 Dy 4 i 0.5412 0 0.27206 1
+ Ge4 Ge 4 i 0.80414 0 0.14907 1
+ In1 In 2 c 0 0 0.5 1
+ In2 In 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.11
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1642164
+
+

@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# F-K-Nb           # K2NbF7                                        # 1700122 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1700122
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1700122
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Nb F~7~'
+_chemical_formula_sum                    'F7 K2 Nb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~NbF~7~,mP40,14
+_chemical_formula_weight                 304.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Refinement of the Structure of Potassium Heptafluoroniobate, K~2~NbF~7~, from Neutron-Diffraction Data
+;
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1966
+_journal_volume                          20
+_journal_page_first                      220
+_journal_page_last                       229
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Brown G.M.'
+;
+Oak Ridge National Laboratory
+Chemistry Division
+Oak Ridge
+U.S.A. Tennessee
+;
+'Walker L.A.'
+;
+Maryland Towson Goucher College
+Department of Chemistry
+Towson
+U.S.A. Maryland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.846
+_cell_length_b                           12.693
+_cell_length_c                           8.515
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.
+_cell_angle_gamma                        90
+_cell_volume                             631.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ K
+ Nb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F(3) F 4 e 0.0448 0.1072 0.388 1
+ F(1) F 4 e 0.0463 0.2431 0.1994 1
+ F(6) F 4 e 0.1875 0.1216 0.0063 1
+ F(5) F 4 e 0.2166 0.5207 0.7159 1
+ K(2) K 4 e 0.2374 0.7845 0.0554 1
+ K(1) K 4 e 0.2397 0.4404 0.1833 1
+ Nb Nb 4 e 0.2718 0.1288 0.2229 1
+ F(2) F 4 e 0.4573 0.2567 0.2114 1
+ F(4) F 4 e 0.4599 0.1107 0.4101 1
+ F(7) F 4 e 0.5572 0.0792 0.1317 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.20
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1, Cu Ka2'
+_cell_measurement_wavelength             1.5405
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.078
+_diffrn_reflns_number                    1752
+_exptl_absorpt_coefficient_mu            0.0243
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1355
+_refine_ls_R_factor_gt                   0.070
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1700122
+
+

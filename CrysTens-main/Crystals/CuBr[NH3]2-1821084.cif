@@ -1,0 +1,161 @@
+##############################################################################
+#                                                                            #
+# Br-Cu-H-N        # CuBr[NH3]2                                    # 1821084 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1821084
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1821084
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Br [N H~3~]~2~'
+_chemical_formula_sum                    'Br Cu H6 N2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuBr[NH~3~]~2~,mS16,15
+_chemical_formula_weight                 177.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+One- and three-dimensional infinite arrays of Cu(I) ions exhibited by [Cu(NH~3~)~2~]Br and [Cu(NH~3~)Cl] in the solid state
+;
+_journal_coden_ASTM                      CHCOFS
+_journal_name_full                       'Chem. Commun. (Cambridge)'
+_journal_year                            2003
+_journal_volume                          ?
+_journal_page_first                      956
+_journal_page_last                       957
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Margraf G.'
+;
+Frankfurt Johann Wolfgang Goethe University
+Institut f\"ur Anorganische Chemie
+Frankfurt am Main
+Germany
+;
+'Bats J.W.'
+;
+Frankfurt Johann Wolfgang Goethe University
+Institut f\"ur Organische Chemie
+Frankfurt am Main
+Germany
+;
+'Botle M.'
+;
+Frankfurt Johann Wolfgang Goethe University
+Institut f\"ur Organische Chemie
+Frankfurt am Main
+Germany
+;
+'Lerner H.W.'
+;
+Frankfurt Johann Wolfgang Goethe University
+Institut f\"ur Anorganische Chemie
+Frankfurt am Main
+Germany
+;
+'Wagner M.'
+;
+Frankfurt Johann Wolfgang Goethe University
+Institut f\"ur Anorganische Chemie
+Frankfurt am Main
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.602
+_cell_length_b                           12.879
+_cell_length_c                           5.861
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.91
+_cell_angle_gamma                        90
+_cell_volume                             452
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ Br
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N1 N 8 f 0.1777 0.1219 0.0977 1
+ Br1 Br 4 e 0 0.36756 0.25 1
+ Cu1 Cu 4 a 0 0 0 1
+ H1 H 8 f 0.119 0.176 0.088 1
+ H3 H 8 f 0.264 0.129 0.009 1
+ H2 H 8 f 0.299 0.122 0.274 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.61
+_cell_measurement_temperature            100
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              100
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4925
+_diffrn_reflns_theta_min                 3.16
+_diffrn_reflns_theta_max                 29.64
+_exptl_absorpt_coefficient_mu            13.472
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             34
+_refine_ls_number_reflns                 641
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  0.071
+
+# End of data set 1821084
+
+

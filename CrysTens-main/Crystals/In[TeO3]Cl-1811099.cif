@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# Cl-In-O-Te       # In[TeO3]Cl                                    # 1811099 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1811099
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1811099
+
+# Entry summary
+
+_chemical_formula_structural             'In [Te O~3~] Cl'
+_chemical_formula_sum                    'Cl In O3 Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            In[TeO~3~]Cl,mP24,14
+_chemical_formula_weight                 325.9
+
+# Bibliographic data
+
+_publ_section_title
+'Indium tellurium trioxide chloride, InTeO~3~Cl'                              
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2001
+_journal_volume                          57
+_journal_page_first                      1004
+_journal_page_last                       1005
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gaudin E.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Chaminade J.P.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'El Abed A.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Darriet J.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.2596
+_cell_length_b                           6.8752
+_cell_length_c                           7.1394
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.121
+_cell_angle_gamma                        90
+_cell_volume                             394.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ In
+ Te
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0235 0.2162 0.006 1
+ In In 4 e 0.17523 0.25021 0.29601 1
+ O2 O 4 e 0.1842 0.5536 0.2559 1
+ Te Te 4 e 0.20711 0.72638 0.05467 1
+ Cl1 Cl 4 e 0.405 0.2093 0.1079 1
+ O3 O 4 e 0.8128 0.4467 0.1578 1
+
+
+_exptl_crystal_colour                    'yellow pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.48
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4F'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    6506
+_exptl_absorpt_coefficient_mu            13.74
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'not specified'
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 1128
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  0.093
+
+# End of data set 1811099
+
+

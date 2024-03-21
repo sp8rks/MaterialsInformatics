@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# Cl-Fe-H-O        # FeCl2[H2O]2                                   # 1814684 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814684
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814684
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Cl~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Cl2 Fe H4 O2'
+_chemical_name_mineral                   rok\"uhnite
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoCl~2~[H~2~O]~2~,mS10,12
+_chemical_formula_weight                 162.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Bestimmung der Magnetischen Phasen von Eisen(II)-chlorid-doppelhydrat, FeCl~2~.2H~2~O, und Kobalt(II)-chlorid-doppelhydrat, CoCl~2~.2H~2~O, mit Neutronenbeugung
+;
+_journal_coden_ASTM                      ACACBN
+_journal_name_full                       'Acta Crystallogr. A'
+_journal_year                            1976
+_journal_volume                          32
+_journal_page_first                      32
+_journal_page_last                       37
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Schneider W.'
+;
+Darmstadt University of Technology
+Institut f\"ur Strukturforschung
+Darmstadt
+Germany
+;
+'Weitzel H.'
+;
+Darmstadt University of Technology
+Institut f\"ur Strukturforschung
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.355
+_cell_length_b                           8.548
+_cell_length_c                           3.637
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.2
+_cell_angle_gamma                        90
+_cell_volume                             226.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cl
+ O
+ Fe
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl Cl 4 i 0.2381 0 0.5604 1
+ O O 4 g 0 0.2419 0 1
+ Fe Fe 2 a 0 0 0 1
+ H H 8 j 0.0785 0.3081 0.1442 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.39
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'Germany, Karlsruhe Forschungszentrum, FR2 reactor'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             0.9505
+_diffrn_reflns_number                    402
+_diffrn_reflns_theta_min                 4.5
+_diffrn_reflns_theta_max                 45
+_pd_proc_2theta_range_min                9
+_pd_proc_2theta_range_max                90
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 349
+_refine_ls_R_factor_gt                   0.079
+_refine_ls_wR_factor_gt                  0.20
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1814684
+
+

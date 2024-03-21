@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# As-Hg-O          # Hg3[AsO4]2                                    # 1402275 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1402275
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1402275
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~3~ [As O~4~]~2~'
+_chemical_formula_sum                    'As2 Hg3 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cd~3~[AsO~4~]~2~,mP52,14
+_chemical_formula_weight                 879.6
+
+# Bibliographic data
+
+_publ_section_title
+'Mercury(II) Arsenate, a Graphtonite-Type Structure'                          
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1993
+_journal_volume                          49
+_journal_page_first                      784
+_journal_page_last                       786
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Larsson A.K.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Lidin S.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Stalhandske C.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Albertsson J.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.0049
+_cell_length_b                           11.7555
+_cell_length_c                           6.5374
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.687
+_cell_angle_gamma                        90
+_cell_volume                             757.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ As
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O14 O 4 e 0.0215 0.3146 0.1828 1
+ O11 O 4 e 0.0472 0.0383 0.2289 1
+ As1 As 4 e 0.1045 0.9044 0.2951 1
+ Hg3 Hg 4 e 0.1589 0.1704 0.4063 1
+ Hg2 Hg 4 e 0.2027 0.6062 0.3198 1
+ O13 O 4 e 0.205 0.8504 0.1291 1
+ O12 O 4 e 0.2232 0.5844 0.0145 1
+ O22 O 4 e 0.2871 0.2298 0.1303 1
+ O24 O 4 e 0.3681 0.4459 0.3787 1
+ As2 As 4 e 0.4037 0.1318 0.093 1
+ O23 O 4 e 0.4137 0.0573 0.319 1
+ Hg1 Hg 4 e 0.5464 0.379 0.1657 1
+ O21 O 4 e 0.5499 0.2063 0.0836 1
+
+
+_exptl_crystal_colour                    'yellow faint'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.71
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            35
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    5174
+_exptl_absorpt_coefficient_mu            71.6
+_exptl_absorpt_correction_type           cylindrical
+_computing_structure_solution
+'starting values derived from related structure, Fourier synthesis'           
+_refine_ls_number_parameters             193
+_refine_ls_number_reflns                 2728
+_refine_ls_R_factor_gt                   0.0446
+_refine_ls_wR_factor_gt                  0.0531
+
+# End of data set 1402275
+
+

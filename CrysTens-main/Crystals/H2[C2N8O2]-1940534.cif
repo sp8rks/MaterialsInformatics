@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# C-H-N-O          # H2[C2N8O2]                                    # 1940534 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1940534
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1940534
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ [C~2~ N~8~ O~2~]'
+_chemical_formula_sum                    'C2 H2 N8 O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~[C~2~N~8~O~2~],mP24,14
+_chemical_formula_weight                 170.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Energetic salts of 5,5'-bis(tetrazole-2-oxide) in a comparison to 5,5'-bis(tetrazole-1-oxide) derivatives
+;
+_journal_coden_ASTM                      PLYHDE
+_journal_name_full                       Polyhedron
+_journal_year                            2013
+_journal_volume                          51
+_journal_page_first                      201
+_journal_page_last                       210
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fischer N.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+'Gao L.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+'Klap\"otke T.M.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+'Stierstorfer J.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5902
+_cell_length_b                           4.9566
+_cell_length_c                           9.4983
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.169
+_cell_angle_gamma                        90
+_cell_volume                             289.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N3 N 4 e 0.1632 0.2135 0.0857 1
+ N2 N 4 e 0.2452 0.0032 0.17129 1
+ N4 N 4 e 0.2776 0.2683 0.49652 1
+ C1 C 4 e 0.4211 0.0269 0.03544 1
+ N1 N 4 e 0.5948 0.3768 0.35347 1
+ O1 O 4 e 0.83281 0.4108 0.22584 1
+ H1 H 4 e 0.214 0.0619 0.3604 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.95
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            756
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur 3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1388
+_diffrn_reflns_theta_min                 4.6
+_diffrn_reflns_theta_max                 26
+_exptl_absorpt_coefficient_mu            0.170
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             55
+_refine_ls_number_reflns                 442
+_refine_ls_R_factor_gt                   0.0336
+_refine_ls_wR_factor_gt                  0.0842
+
+# End of data set 1940534
+
+

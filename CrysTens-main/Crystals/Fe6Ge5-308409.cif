@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# Fe-Ge            # Fe6Ge5 rt                                     #  308409 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_308409
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      308409
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~6~ Ge~5~'
+_chemical_formula_sum                    'Fe6 Ge5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe~6~Ge~5~,mS44,12
+_chemical_formula_weight                 698.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+D\'etermination de la structure cristalline de Fe~6~Ge~5-x~
+;
+_journal_coden_ASTM                      CHDCAQ
+_journal_name_full                       'C. R. Seances Acad. Sci., Ser. C'
+_journal_year                            1973
+_journal_volume                          276
+_journal_page_first                      665
+_journal_page_last                       667
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Malaman B.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie du Solide
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Courtois A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie du Solide
+Nancy
+France
+;
+'Protas J.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie du Solide
+Nancy
+France
+;
+'Roques B.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie du Solide
+Nancy
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.965
+_cell_length_b                           7.826
+_cell_length_c                           7.801
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.67
+_cell_angle_gamma                        90
+_cell_volume                             572.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ge
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ge11 Ge 8 j 0.0451 0.197 0.2125 1
+ Fe31 Fe 8 j 0.2846 0.2605 0.1755 1
+ Fe1 Fe 4 i 0.1229 0 0.0153 1
+ Ge31 Ge 4 i 0.1485 0 0.6 1
+ Ge21 Ge 4 i 0.342 0 0.372 1
+ Ge1 Ge 4 i 0.3645 0 0.0038 1
+ Fe41 Fe 4 i 0.5793 0 0.2806 1
+ Fe21 Fe 4 h 0 0.2533 0.5 1
+ Fe11 Fe 4 f 0.25 0.25 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              7.96
+_exptl_crystal_density_diffrn            8.09
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 746
+_refine_ls_R_factor_gt                   0.094
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 308409
+
+

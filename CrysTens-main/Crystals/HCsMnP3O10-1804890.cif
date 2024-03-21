@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Cs-H-Mn-O-P      # HCsMnP3O10                                    # 1804890 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1804890
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1804890
+
+# Entry summary
+
+_chemical_formula_structural             'H Cs Mn P~3~ O~10~'
+_chemical_formula_sum                    'Cs H Mn O10 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HCsMnP~3~O~10~,mS30,5
+_chemical_formula_weight                 441.8
+
+# Bibliographic data
+
+_publ_section_title
+'Magnetic Structure and Properties of CsMnHP~3~O~10~'                         
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1998
+_journal_volume                          141
+_journal_page_first                      160
+_journal_page_last                       163
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wright A.J.'
+;
+Cambridge University
+Department of Chemistry
+Cambridge
+United Kingdom
+;
+'Attfield J.P.'
+;
+Cambridge University
+Department of Chemistry
+Cambridge
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.9384
+_cell_length_b                           8.6385
+_cell_length_c                           6.4996
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.477
+_cell_angle_gamma                        90
+_cell_volume                             460.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Mn
+ Cs
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(4) O 4 c 0.0523 0.3043 0.3585 1
+ O(3) O 4 c 0.1442 0.1085 0.1478 1
+ O(2) O 4 c 0.1609 0.0493 0.5428 1
+ P(1) P 4 c 0.181 0.1769 0.3925 1
+ O(1) O 4 c 0.3548 0.2253 0.4817 1
+ O(5) O 4 c 0.4426 0.3972 0.1439 1
+ Mn Mn 2 b 0 0.8971 0.5 1
+ P(2) P 2 a 0 0.0 0 1
+ Cs Cs 2 a 0 0.5648 0 1
+ H H 2 b 0 0.3087 0.5 1
+
+
+_exptl_crystal_colour                    violet
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.19
+_cell_measurement_temperature            2
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             2.4177
+_pd_proc_wavelength                      2.4177
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              2
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D20'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             2.4177
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 0
+_diffrn_reflns_theta_max                 80
+_pd_proc_2theta_range_min                0
+_pd_proc_2theta_range_max                160
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.017
+_pd_proc_ls_proof_wR_factor              0.024
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1804890
+
+

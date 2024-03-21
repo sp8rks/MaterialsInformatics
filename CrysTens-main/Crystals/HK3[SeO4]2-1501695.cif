@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# H-K-O-Se         # HK3[SeO4]2 rt                                 # 1501695 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1501695
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1501695
+
+# Entry summary
+
+_chemical_formula_structural             'H K~3~ [Se O~4~]~2~'
+_chemical_formula_sum                    'K3 O8 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[NH~4~]~3~[SO~4~]~2~,mS52,15
+_chemical_formula_weight                 404.2
+
+# Bibliographic data
+
+_publ_section_title                      'K~3~H(SeO~4~)~2~ at 297 and 30 K'
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1994
+_journal_volume                          50
+_journal_page_first                      330
+_journal_page_last                       332
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ichikawa M.'
+;
+Sapporo Hokkaido University
+Department of Physics
+Sapporo / Hokkaido
+Japan
+;
+'Gustafsson T.'
+;
+Uppsala University
+Institute of Chemistry
+Uppsala
+Sweden
+;
+'Olovsson I.'
+;
+Uppsala University
+Institute of Chemistry
+Uppsala
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.962
+_cell_length_b                           5.9042
+_cell_length_c                           10.1325
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.638
+_cell_angle_gamma                        90
+_cell_volume                             869.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 f 0.1545 0.25086 0.12379 1
+ K2 K 8 f 0.30334 0.26306 0.34812 1
+ O1 O 8 f 0.34262 0.01316 0.10193 1
+ O4 O 8 f 0.37037 0.46464 0.11712 1
+ Se Se 8 f 0.384 0.23222 0.03983 1
+ O2 O 8 f 0.49792 0.18101 0.06463 1
+ K1 K 4 e 0 0.2553 0.25 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.09
+_cell_measurement_temperature            297
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            31
+_diffrn_ambient_temperature              297
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Huber-Aracor
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5495
+_exptl_absorpt_coefficient_mu            9.86
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             65
+_refine_ls_number_reflns                 5483
+_refine_ls_R_factor_gt                   0.0855
+_refine_ls_wR_factor_gt                  0.0561
+
+# End of data set 1501695
+
+

@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# H-Na-O-P         # HNa2[PO4][H2O]7                               # 1501559 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1501559
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1501559
+
+# Entry summary
+
+_chemical_formula_structural             'H Na~2~ [P O~4~] [H~2~ O]~7~'
+_chemical_formula_sum                    'H15 Na2 O11 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HNa~2~[AsO~4~][H~2~O]~7~,mP56,14
+_chemical_formula_weight                 268.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+On the Crystal Chemistry of Salt Hydrates. VI. The Crystal Structures of Disodium Hydrogen Orthoarsenate Heptahydrate and of Disodium Hydrogen Orthophosphate Heptahydrate
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1970
+_journal_volume                          26
+_journal_page_first                      1584
+_journal_page_last                       1596
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Baur W.H.'
+;
+Illinois Chicago University
+Department of Geological Sciences
+Chicago
+U.S.A. Illinois
+;
+'Khan A.A.'
+;
+Illinois Chicago University
+Department of Geological Sciences
+Chicago
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.258
+_cell_length_b                           11.007
+_cell_length_c                           13.2571
+_cell_angle_alpha                        90
+_cell_angle_beta                         128.417
+_cell_angle_gamma                        90
+_cell_volume                             1058.47
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ OH
+ P
+ Na
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0594 0.2492 0.4597 1
+ Ow9 OH2 4 e 0.0617 0.4872 0.368 1
+ Ow11 OH2 4 e 0.0696 0.0046 0.3915 1
+ Ow7 OH2 4 e 0.1154 0.7503 0.3098 1
+ O3 O 4 e 0.1709 0.3168 0.181 1
+ Oh4 OH 4 e 0.2001 -0.032 0.1388 1
+ P P 4 e 0.2069 0.2367 0.1045 1
+ Ow6 OH2 4 e 0.291 0.7507 0.0951 1
+ O1 O 4 e 0.4024 0.2478 0.146 1
+ Ow5 OH2 4 e 0.4187 0.2542 0.4428 1
+ Ow10 OH2 4 e 0.5464 0.4653 0.1382 1
+ Ow8 OH2 4 e 0.5694 0.0232 0.1482 1
+ Na2 Na 4 e 0.6567 0.3947 0.0229 1
+ Na1 Na 4 e 0.6648 0.1043 0.0244 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              1.6789
+_exptl_crystal_density_diffrn            1.68
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_reflns_used            18
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_reflns_number                    4779
+_exptl_absorpt_coefficient_mu            0.21
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1252
+_refine_ls_R_factor_gt                   0.081
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1501559
+
+

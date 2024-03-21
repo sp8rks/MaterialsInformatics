@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Br-H-O-Te        # H2TeBr6[H2O]8                                 # 1710499 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1710499
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1710499
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Te Br~6~ [H~2~ O]~8~'
+_chemical_formula_sum                    'Br6 H16 O8 Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~TeBr~6~[H~2~O]~8~,mP30,14
+_chemical_formula_weight                 753.2
+_chemical_melting_point                  292
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthese, Struktur und Eigenschaften der Hexabromotellur(IV)- und Tridekabromotritellur(IV)s\"aure-Hydrate. Kristallstrukturen der Oxonium-Salze [H~9~O~4~]~2~[TeBr~6~] und [H~9~O~4~][Te~3~Br~13~]
+;
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1991
+_journal_volume                          46
+_journal_page_first                      919
+_journal_page_last                       930
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Krebs B.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Bonmann S.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Erpenstein K.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.662
+_cell_length_b                           9.796
+_cell_length_c                           14.0736
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.625
+_cell_angle_gamma                        90
+_cell_volume                             899.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ Br
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 OH2 4 e 0.1615 0.0022 0.3831 1
+ Br3 Br 4 e 0.1658 0.3632 0.4022 1
+ Br1 Br 4 e 0.1848 0.1678 0.1786 1
+ O2 OH2 4 e 0.2596 0.5288 0.2029 1
+ O1 OH2 4 e 0.4163 0.4581 0.0833 1
+ O3 OH2 4 e 0.6479 0.2456 0.132 1
+ Br2 Br 4 e 0.6701 0.331 0.4019 1
+ Te Te 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.78
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              259
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens R3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    2289
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 27
+_exptl_absorpt_coefficient_mu            1.48
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             51
+_refine_ls_number_reflns                 1245
+_refine_ls_R_factor_gt                   0.0973
+_refine_ls_wR_factor_gt                  0.0982
+
+# End of data set 1710499
+
+

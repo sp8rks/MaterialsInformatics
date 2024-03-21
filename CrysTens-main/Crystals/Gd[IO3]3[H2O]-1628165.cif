@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Gd-H-I-O         # Gd[IO3]3[H2O]                                 # 1628165 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1628165
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1628165
+
+# Entry summary
+
+_chemical_formula_structural             'Gd [I O~3~]~3~ [H~2~ O]'
+_chemical_formula_sum                    'Gd H2 I3 O10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sm[IO~3~]~3~[H~2~O],mP28,4
+_chemical_formula_weight                 700.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal synthesis of a chiral rare earth iodate Gd(IO~3~)~3~.H~2~O showing the rare (3,8)-connected (4^3^)(4.6^2^)(4^9^.6^17^.8^2^) topology
+;
+_journal_coden_ASTM                      JCCMBQ
+_journal_name_full                       'J. Coord. Chem.'
+_journal_year                            2008
+_journal_volume                          61
+_journal_page_first                      1406
+_journal_page_last                       1411
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lu J.'
+;
+Changde Hunan University of Arts and Science
+Department of Chemistry
+Changde / Hunan
+China
+;
+'Zhang D.'
+;
+Changde Hunan University of Arts and Science
+Department of Chemistry
+Changde / Hunan
+China
+;
+'Li L.'
+;
+Changde Hunan University of Arts and Science
+Department of Chemistry
+Changde / Hunan
+China
+;
+'Liu B.'
+;
+Changde Hunan University of Arts and Science
+Department of Chemistry
+Changde / Hunan
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.3017
+_cell_length_b                           6.6502
+_cell_length_c                           9.895
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.71
+_cell_angle_gamma                        90
+_cell_volume                             452.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ I
+ Gd
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O8 O 2 a 0.0257 0.2309 0.3939 1
+ O1 O 2 a 0.043 0.0 0.1506 1
+ I2 I 2 a 0.13044 0.48176 0.40827 1
+ I1 I 2 a 0.16223 0.112 0.03505 1
+ O4 O 2 a 0.269 0.4728 0.599 1
+ O6 O 2 a 0.3055 0.2723 0.8495 1
+ O5 O 2 a 0.3199 0.4249 0.3361 1
+ O7 O 2 a 0.3373 0.581 0.0594 1
+ O3 O 2 a 0.4094 0.0432 0.1373 1
+ I3 I 2 a 0.52226 0.65456 0.22461 1
+ O9 O 2 a 0.6523 0.4222 0.2733 1
+ O10 O 2 a 0.7088 0.3456 0.5806 1
+ Gd1 Gd 2 a 0.75575 0.12962 0.19121 1
+ O2 O 2 a 0.9019 0.4164 0.1006 1
+ H10 H 2 a 0.184 0.8045 0.424 1
+ H11 H 2 a 0.622 0.3685 0.5 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.14
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            4529
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku R-AXIS RAPID'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4501
+_diffrn_reflns_theta_min                 3.03
+_diffrn_reflns_theta_max                 27.48
+_exptl_absorpt_coefficient_mu            17.605
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             136
+_refine_ls_number_reflns                 1780
+_refine_ls_R_factor_gt                   0.0581
+_refine_ls_wR_factor_gt                  0.0719
+
+# End of data set 1628165
+
+

@@ -1,0 +1,170 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-S-Sm      # CuSm2[SO4]2[OH]4                              # 1723849 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1723849
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1723849
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Sm~2~ [S O~4~]~2~ [O H]~4~'
+_chemical_formula_sum                    'Cu H4 O12 S2 Sm2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuSm~2~[SO~4~]~2~[OH]~4~,mP34,14
+_chemical_formula_weight                 624.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses, structure, and magnetic properties of new 3d-4f heterometallic hydroxysulfates Ln~2~Cu(SO~4~)~2~(OH)~4~ (Ln= Sm, Eu, Tb, or Dy) with a two-dimensional triangle network
+;
+_journal_coden_ASTM                      CGDEFU
+_journal_name_full                       'Cryst. Growth Des.'
+_journal_year                            2015
+_journal_volume                          15
+_journal_page_first                      2742
+_journal_page_last                       2747
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tang Y.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Cui M.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Guo W.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhang S.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Yang M.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'He Z.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.393
+_cell_length_b                           6.792
+_cell_length_c                           10.845
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.616
+_cell_angle_gamma                        90
+_cell_volume                             465.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Sm
+ O
+ S
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sm Sm 4 e 0.08022 0.00633 0.31947 1
+ O1 O 4 e 0.0999 0.8167 0.1355 1
+ O2 O 4 e 0.1209 0.6549 0.3749 1
+ O5 O 4 e 0.1989 0.444 0.0427 1
+ O3 O 4 e 0.2536 0.3038 0.2426 1
+ S S 4 e 0.35908 0.32702 0.12863 1
+ O6 O 4 e 0.3969 0.142 0.0738 1
+ O4 O 4 e 0.5485 0.4467 0.1605 1
+ Cu Cu 2 a 0 0 0 1
+ H1 H 4 e 0.2315 0.7823 0.1241 1
+ H2 H 4 e 0.7575 0.128 0.1094 1
+
+
+_exptl_crystal_colour                    blue
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.45
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1177
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Mercury'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4772
+_diffrn_reflns_theta_min                 3.22
+_diffrn_reflns_theta_max                 27.48
+_exptl_absorpt_coefficient_mu            15.222
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             79
+_refine_ls_number_reflns                 955
+_refine_ls_R_factor_gt                   0.0229
+_refine_ls_wR_factor_gt                  0.0582
+
+# End of data set 1723849
+
+

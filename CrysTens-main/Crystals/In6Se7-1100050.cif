@@ -1,0 +1,125 @@
+##############################################################################
+#                                                                            #
+# In-Se            # In6Se7 (Sn)                                   # 1100050 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1100050
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1100050
+
+# Entry summary
+
+_chemical_formula_structural             'In~6~ Se~7~'
+_chemical_formula_sum                    'In6 Se7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            In~6~Se~7~,mP26,4
+_chemical_formula_weight                 1241.6
+
+# Bibliographic data
+
+_publ_section_title                      'The Crystal Structure of In~6~Se~7~'
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1971
+_journal_volume                          27
+_journal_page_first                      1630
+_journal_page_last                       1634
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hogg J.H.C.'
+;
+Hull University
+Department of Physics
+Hull
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.43
+_cell_length_b                           4.063
+_cell_length_c                           17.7053
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.829
+_cell_angle_gamma                        90
+_cell_volume                             666.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ In
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ In5 In 2 a 0.0253 0.0171 0.2284 1
+ Se6 Se 2 a 0.0297 0.5141 0.0926 1
+ Se4 Se 2 a 0.0571 0.4984 0.592 1
+ In6 In 2 a 0.1464 0.4991 0.4529 1
+ In4 In 2 a 0.1701 0.0105 0.0338 1
+ Se5 Se 2 a 0.2553 0.5041 0.3204 1
+ Se3 Se 2 a 0.26 0.0056 0.7732 1
+ Se1 Se 2 a 0.3372 0.0121 0.5065 1
+ Se2 Se 2 a 0.378 0.0165 0.159 1
+ In1 In 2 a 0.4328 0.0015 0.3759 1
+ In3 In 2 a 0.5151 0.4921 0.1046 1
+ Se7 Se 2 a 0.6698 0.0167 0.0329 1
+ In2 In 2 a 0.6791 0.0 0.3129 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              6.10(2)
+_exptl_crystal_density_diffrn            6.19
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            80
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.114
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1100050
+
+

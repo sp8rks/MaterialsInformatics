@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Er-O-S           # Er2S2O                                        # 1904226 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904226
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904226
+
+# Entry summary
+
+_chemical_formula_structural             'Er~2~ S~2~ O'
+_chemical_formula_sum                    'Er2 O S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Tm~2~S~2~O,mP20,14
+_chemical_formula_weight                 414.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Rare earth sulphide oxides Ln~2~S~2~O (Ln= Er, Tm, Yb): High pressure synthesis and crystal structure
+;
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1990
+_journal_volume                          158
+_journal_page_first                      137
+_journal_page_last                       145
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Range K.J.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+'Lange K.G.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+'Gietl A.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.192
+_cell_length_b                           6.8326
+_cell_length_c                           6.805
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.631
+_cell_angle_gamma                        90
+_cell_volume                             375.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Er
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 4 e 0.0759 0.2225 0.0303 1
+ Er2 Er 4 e 0.1375 0.5546 0.2491 1
+ O O 4 e 0.3832 0.4127 0.3505 1
+ Er1 Er 4 e 0.4239 0.1446 0.1789 1
+ S1 S 4 e 0.6815 0.3678 0.0768 1
+
+
+_exptl_crystal_colour                    pink
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.33
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    10380
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 5476
+_refine_ls_R_factor_gt                   0.032
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1904226
+
+

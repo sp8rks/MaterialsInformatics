@@ -1,0 +1,211 @@
+##############################################################################
+#                                                                            #
+# Ho-Mo-O          # Ho2Mo4O15                                     #  304842 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_304842
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      304842
+
+# Entry summary
+
+_chemical_formula_structural             'Ho~2~ Mo~4~ O~15~'
+_chemical_formula_sum                    'Ho2 Mo4 O15'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ho~2~Mo~4~O~15~,mP42,14
+_chemical_formula_weight                 953.6
+_chemical_melting_point                  1138
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of Holmium Tetramolybdate Ho~2~Mo~4~O~15~'             
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1988
+_journal_volume                          33
+_journal_page_first                      1732
+_journal_page_last                       1735
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Efremov V.A.'
+;
+Russian Academy of Sciences
+All-Union Research Institute of Reagents and Especially Pure Substances
+Moscow
+Russia
+;
+'Davydova N.N.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Gokhman L.Z.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Evdokimov A.A.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Trunov V.K.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.816
+_cell_length_b                           9.587
+_cell_length_c                           10.527
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.57
+_cell_angle_gamma                        90
+_cell_volume                             662.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ Ho
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O23 O 4 e 0.0562 0.0283 0.2937 1
+ O22 O 4 e 0.1119 0.2752 0.1465 1
+ Mo2 Mo 4 e 0.12119 0.09525 0.15607 1
+ O13 O 4 e 0.2772 0.6529 0.0802 1
+ Ho Ho 4 e 0.28728 0.47702 0.22327 1
+ O21 O 4 e 0.3782 0.0572 0.1828 1
+ O12 O 4 e 0.3833 0.3323 0.4003 1
+ O11 O 4 e 0.4785 0.3734 0.1027 1
+ Mo1 Mo 4 e 0.58183 0.25677 0.01124 1
+ O14 O 4 e 0.7452 0.1358 0.1173 1
+ O24 O 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.78
+_exptl_crystal_density_diffrn            4.78
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1508
+_refine_ls_R_factor_gt                   0.022
+_refine_ls_wR_factor_gt                  0.026
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 69.7 6
+ 1 0 0 65.7 10
+ -1 1 1 52.9 5
+ 0 0 2 50.7 8
+ 0 2 0 47.93 8
+ 0 1 2 44.82 26
+ 1 1 1 43.91 45
+ 0 2 1 43.34 8
+ -1 1 2 41.94 41
+ 1 2 0 38.71 19
+ -1 2 1 38.24 2
+ 1 0 2 35.76 35
+ 0 2 2 34.83 100
+ 1 2 1 34.4 22
+ 1 1 2 33.5 5
+ -1 2 2 33.43 47
+ 2 0 0 32.83 2
+ -2 1 1 32.06 30
+ -2 0 2 31.71 37
+ 2 1 0 31.06 22
+ -2 1 2 30.11 3
+ 1 3 0 28.72 28
+ -1 3 1 28.54 9
+ 2 1 1 27.79 12
+ -1 2 3 27.73 4
+ 0 3 2 27.62 1
+ 2 2 0 27.09 16
+ 0 3 2 27.03 9
+ 1 3 1 26.83 5
+ -2 1 3 26.46 3
+ -1 3 2 26.38 5
+ 1 1 3 26.19 13
+ -1 0 4 26.12 29
+ 0 0 4 25.35 2
+ 2 2 1 24.83 1
+ 2 0 2 24.7 1
+ 0 1 4 24.51 1
+ 0 4 0 23.97 10
+ 2 1 2 23.91 4
+ -2 3 1 23.29 12
+ 0 3 3 23.22 6
+ 1 4 0 22.51 8
+ -1 4 1 22.42 2
+ -3 1 1 22.08 11
+ 2 2 2 21.98 4
+ 1 4 1 21.56 1
+ 1 1 4 21.23 5
+ -2 2 4 20.97 5
+ -2 3 3 20.86 5
+ 1 3 3 20.72 6
+
+# End of data set 304842
+
+

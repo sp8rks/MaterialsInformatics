@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# Ga-K-Li-O        # K2Li3GaO4                                     # 1707071 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1707071
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1707071
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Li~3~ Ga O~4~'
+_chemical_formula_sum                    'Ga K2 Li3 O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Li~3~GaO~4~,mP40,14
+_chemical_formula_weight                 232.7
+
+# Bibliographic data
+
+_publ_section_title
+'A new cation reich oxogallate. About K~2~Li~3~GaO~4~'                        
+_journal_coden_ASTM                      ZNBAD2
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1983
+_journal_volume                          38
+_journal_page_first                      130
+_journal_page_last                       138
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'K\"ohler J.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Hoppe R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.536
+_cell_length_b                           8.804
+_cell_length_c                           10.931
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.52
+_cell_angle_gamma                        90
+_cell_volume                             495.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Li
+ Ga
+ O
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Li2 Li 4 e 0.0935 0.0378 0.2042 1
+ Ga Ga 4 e 0.1022 0.289 0.4367 1
+ O3 O 4 e 0.2167 0.1096 0.3861 1
+ O2 O 4 e 0.2321 0.1901 0.1192 1
+ O1 O 4 e 0.2509 0.8219 0.1417 1
+ O4 O 4 e 0.2559 0.4483 0.376 1
+ K2 K 4 e 0.2971 0.507 0.1388 1
+ Li3 Li 4 e 0.3722 0.5107 0.5687 1
+ Li1 Li 4 e 0.3823 0.2609 0.2979 1
+ K1 K 4 e 0.7193 0.2753 0.1077 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              2.97
+_exptl_crystal_density_diffrn            3.12
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1333
+_refine_ls_R_factor_gt                   0.0495
+_refine_ls_wR_factor_gt                  0.0504
+
+# End of data set 1707071
+
+

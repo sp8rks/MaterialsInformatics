@@ -1,0 +1,176 @@
+##############################################################################
+#                                                                            #
+# Ho-O-Pb-Sb       # HoPb2SbO6 ht1                                 # 1632838 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1632838
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1632838
+
+# Entry summary
+
+_chemical_formula_structural             'Ho Pb~2~ Sb O~6~'
+_chemical_formula_sum                    'Ho O6 Pb2 Sb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca(Ca~0.5~Nd~0.5~)~2~NbO~6~,mP20,14
+_chemical_formula_weight                 797.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+High-temperature behavior and polymorphism in novel members of the perovskite family Pb~2~LnSbO~6~ (Ln= Ho, Er, Yb, Lu)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2011
+_journal_volume                          50
+_journal_page_first                      5545
+_journal_page_last                       5557
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Larr\'egola S.A.'
+;
+San Luis National University
+Departamento de Quimica
+San Luis
+Argentina
+;
+'Alonso J.A.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales de Madrid
+Madrid
+Spain
+;
+'Sheptyakov D.V.'
+;
+Paul Scherrer Institute
+Laboratory for Neutron Scattering
+Villigen
+Switzerland
+;
+'Alguero M.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales de Madrid
+Madrid
+Spain
+;
+'Munoz A.'
+;
+Paul Scherrer Institute
+Laboratory for Neutron Scattering
+Villigen
+Switzerland
+;
+'Pomjakushin V.Y.'
+;
+Leganes Carlos III University
+Departamento de Fisica Aplicada
+Leganes
+Spain
+;
+'Pedregosa J.C.'
+;
+San Luis National University
+Departamento de Quimica
+San Luis
+Argentina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.932
+_cell_length_b                           5.8658
+_cell_length_c                           10.2239
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.669
+_cell_angle_gamma                        90
+_cell_volume                             289.01
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Pb
+ Ho
+ Sb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.179 -0.006 0.234 1
+ O3 O 4 e 0.254 0.764 0.031 1
+ Pb Pb 4 e 0.249 0.49 0.247 1
+ O1 O 4 e 0.259 0.236 0.023 1
+ Ho Ho 2 d 0.5 0 0.5 1
+ Sb Sb 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'orange light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.16
+_cell_measurement_temperature            393
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.494
+_pd_proc_wavelength                      1.494
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              393
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Switzerland, Villigen, Paul Scherrer Institute, Laboratory for Neutron Scattering, SINQ, HRPT
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.494
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.166
+_pd_proc_ls_proof_wR_factor              0.153
+_refine_ls_R_I_factor                    0.0493
+
+# End of data set 1632838
+
+

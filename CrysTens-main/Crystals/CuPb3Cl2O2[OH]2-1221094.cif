@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Cl-Cu-H-O-Pb     # CuPb3Cl2O2[OH]2                               # 1221094 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1221094
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1221094
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Pb~3~ Cl~2~ O~2~ [O H]~2~'
+_chemical_formula_sum                    'Cl2 Cu H2 O4 Pb3'
+_chemical_name_mineral                   chloroxiphite
+_chemical_compound_source
+'United Kingdom, England, Somerset, Merehead quarry'                          
+_chemical_name_structure_type            CuPb~3~Cl~2~O~2~[OH]~2~,mP20,11
+_chemical_formula_weight                 822.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Chloroxiphite Pb~3~CuO~2~(OH)~2~Cl~2~: Structure refinement and description in terms of oxocentred OPb~4~ tetrahedra
+;
+_journal_coden_ASTM                      MNLMBB
+_journal_name_full                       'Mineral. Mag.'
+_journal_year                            2008
+_journal_volume                          72
+_journal_page_first                      793
+_journal_page_last                       798
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Siidra O.I.'
+;
+Saint Petersburg State University
+Department of Crystallography
+Saint Petersburg
+Russia
+;
+'Krivovichev S.V.'
+;
+Saint Petersburg State University
+Department of Crystallography
+Saint Petersburg
+Russia
+;
+'Turner R.W.'
+;
+Salisbury
+United Kingdom
+;
+'Rumsey M.S.'
+;
+British Museum of Natural History
+Department of Mineralogy
+London
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.6972
+_cell_length_b                           5.7538
+_cell_length_c                           10.4686
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.747
+_cell_angle_gamma                        90
+_cell_volume                             399.72
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Cl
+ Pb
+ OH
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 f 0.3875 -0.0016 0.3689 1
+ Cl1 Cl 2 e 0.1308 0.25 0.6205 1
+ Pb2 Pb 2 e 0.13269 0.25 0.32594 1
+ OH3 OH 2 e 0.168 0.25 0.0897 1
+ Pb3 Pb 2 e 0.53955 0.25 0.7832 1
+ Pb1 Pb 2 e 0.65691 0.25 0.44966 1
+ Cl2 Cl 2 e 0.6834 0.25 0.1147 1
+ OH2 OH 2 e 0.9213 0.25 0.871 1
+ Cu1 Cu 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.83
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    3803
+_exptl_absorpt_coefficient_mu            66.230
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1021
+_refine_ls_R_factor_gt                   0.0412
+_refine_ls_wR_factor_gt                  0.0502
+
+# End of data set 1221094
+
+

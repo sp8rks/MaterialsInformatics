@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Cu-Ge-H-O-U      # H2Cu[UO2]2[GeO4]2[H2O]6                       # 1900855 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1900855
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1900855
+
+# Entry summary
+
+_chemical_formula_structural
+'H~2~ Cu [U O~2~]~2~ [Ge O~4~]~2~ [H~2~ O]~6~'                                
+_chemical_formula_sum                    'Cu Ge2 H14 O18 U2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~2~Cu[UO~2~]~2~[GeO~4~]~2~[H~2~O]~6~,mS46,12                                 
+_chemical_formula_weight                 986.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Coordination de l'uranium par l'ion germanate. I. Structure d'un uranyle germanate de cuivre [Cu(H~2~O)~4~](UO~2~HGeO~4~)~2~.2H~2~O
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1975
+_journal_volume                          31
+_journal_page_first                      1133
+_journal_page_last                       1139
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Legros J.P.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie
+Toulouse
+France
+;
+'Jeannin Y.P.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie
+Toulouse
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           17.6395
+_cell_length_b                           7.148
+_cell_length_c                           6.817
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.641
+_cell_angle_gamma                        90
+_cell_volume                             793.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ OH
+ U
+ Ge
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.239 0.317 0.317 1
+ O2 OH2 4 i 0.061 0 0.81 1
+ O7 O 4 i 0.131 0 0.295 1
+ O5 OH 4 i 0.218 0 0.017 1
+ U U 4 i 0.2392 0 0.3637 1
+ O6 O 4 i 0.344 0 0.423 1
+ O4 O 4 i 0.376 0 0.041 1
+ Ge Ge 4 i 0.7234 0 0.1344 1
+ O8 OH2 4 h 0 0.28 0.5 1
+ O1 OH2 4 g 0 0.271 0 1
+ Cu Cu 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              4.18(3)
+_exptl_crystal_density_diffrn            4.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          STOE
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    759
+_exptl_absorpt_coefficient_mu            36.5
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 598
+_refine_ls_R_factor_gt                   0.109
+_refine_ls_wR_factor_gt                  0.071
+
+# End of data set 1900855
+
+

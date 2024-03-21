@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Cs-H-O-P         # H2Cs[PO4] lt                                  # 2041146 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2041146
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2041146
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Cs [P O~4~]'
+_chemical_formula_sum                    'Cs H2 O4 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            H~2~Cs[PO~4~],mP24,4
+_chemical_formula_weight                 229.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+A Structural Study of the High-Pressure Antiferroelectric Phase of CsH~2~PO~4~
+;
+_journal_coden_ASTM                      JAPNDE
+_journal_name_full                       'Jpn. J. Appl. Phys., Part 1'
+_journal_year                            1985
+_journal_volume                          24
+_journal_issue                           Suppl2
+_journal_page_first                      935
+_journal_page_last                       937
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Schuele P.J.'
+;
+Montana Bozeman University
+Department of Physics
+Bozeman
+U.S.A. Montana
+;
+'Thomas R.'
+;
+Brookhaven National Laboratory
+Department of Chemistry
+Upton
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.886
+_cell_length_b                           6.254
+_cell_length_c                           14.8535
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.142
+_cell_angle_gamma                        90
+_cell_volume                             453.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ P
+ Cs
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P1 P 2 a 0.0931 0.493 0.3794 1
+ Cs2 Cs 2 a 0.107 0.0068 0.8689 1
+ O13 O 2 a 0.1474 0.3024 0.437 1
+ O14 O 2 a 0.1525 0.7044 0.4342 1
+ O11 O 2 a 0.1854 0.0 0.6626 1
+ O22 O 2 a 0.1927 0.0126 0.1995 1
+ O12 O 2 a 0.3071 0.5065 0.3008 1
+ O23 O 2 a 0.349 0.8072 0.066 1
+ O24 O 2 a 0.3515 0.2121 0.0614 1
+ P2 P 2 a 0.4075 0.0186 0.1201 1
+ Cs1 Cs 2 a 0.6073 0.003 0.3688 1
+ O21 O 2 a 0.685 0.0136 0.1624 1
+ H221 H 2 a 0.0043 0.5117 0.8192 1
+ H143 H 2 a 0.0243 0.7415 0.4874 1
+ H234 H 2 a 0.4764 0.7709 0.0109 1
+ H121 H 2 a 0.505 0.4986 0.3186 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.36
+_cell_measurement_temperature            100.7(5)
+_cell_measurement_pressure               360000
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.16044
+_cell_measurement_reflns_used            30
+_diffrn_ambient_pressure                 360000
+_diffrn_ambient_temperature              100.7(5)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'U.S.A. New York, Brookhaven National Laboratory, HFBR, H6M'                  
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.16044
+_diffrn_reflns_number                    1744
+_exptl_absorpt_coefficient_mu            0.08555
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 923
+_refine_ls_R_factor_gt                   0.0715
+_refine_ls_wR_factor_gt                  0.0807
+
+# End of data set 2041146
+
+

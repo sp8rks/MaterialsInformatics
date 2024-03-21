@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_GaFe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80700000
+_cell_length_b   5.80700000
+_cell_length_c   5.80700000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaFe3
+_chemical_formula_sum   'Ga4 Fe12'
+_cell_volume   195.81929294
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00000000  0.00000000  0.00000000  1.0
+  Ga  Ga1  1  0.00000000  0.50000000  0.50000000  1.0
+  Ga  Ga2  1  0.50000000  0.00000000  0.50000000  1.0
+  Ga  Ga3  1  0.50000000  0.50000000  0.00000000  1.0
+  Fe  Fe4  1  0.25000000  0.25000000  0.25000000  1.0
+  Fe  Fe5  1  0.75000000  0.75000000  0.75000000  1.0
+  Fe  Fe6  1  0.75000000  0.75000000  0.25000000  1.0
+  Fe  Fe7  1  0.75000000  0.25000000  0.75000000  1.0
+  Fe  Fe8  1  0.75000000  0.25000000  0.25000000  1.0
+  Fe  Fe9  1  0.25000000  0.75000000  0.75000000  1.0
+  Fe  Fe10  1  0.25000000  0.75000000  0.25000000  1.0
+  Fe  Fe11  1  0.25000000  0.25000000  0.75000000  1.0
+  Fe  Fe12  1  0.50000000  0.50000000  0.50000000  1.0
+  Fe  Fe13  1  0.50000000  0.00000000  0.00000000  1.0
+  Fe  Fe14  1  0.00000000  0.50000000  0.00000000  1.0
+  Fe  Fe15  1  0.00000000  0.00000000  0.50000000  1.0

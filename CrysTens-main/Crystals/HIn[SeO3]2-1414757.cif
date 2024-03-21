@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# H-In-O-Se        # HIn[SeO3]2                                    # 1414757 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1414757
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1414757
+
+# Entry summary
+
+_chemical_formula_structural             'H In [Se O~3~]~2~'
+_chemical_formula_sum                    'H In O6 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HIn[SeO~3~]~2~,mP36,14
+_chemical_formula_weight                 369.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+The syntheses and crystal structures of the two trivalent metal selenites: InHSe~2~O~6~ and Cr~2~(SeO~3~)~3~.3H~2~O
+;
+_journal_coden_ASTM                      EJSCE5
+_journal_name_full                       'Eur. J. Solid State Inorg. Chem.'
+_journal_year                            1993
+_journal_volume                          30
+_journal_page_first                      347
+_journal_page_last                       356
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Harrison W.T.A.'
+;
+Texas Houston University
+Department of Chemistry
+Houston
+U.S.A. Texas
+;
+'Stucky G.D.'
+;
+California Santa Barbara University
+Department of Chemistry
+Santa Barbara
+U.S.A. California
+;
+'Cheetham A.K.'
+;
+California Santa Barbara University
+Department of Materials
+Santa Barbara
+U.S.A. California
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.589
+_cell_length_b                           10.002
+_cell_length_c                           8.5653
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.694
+_cell_angle_gamma                        90
+_cell_volume                             563.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ Se
+ O
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 OH 4 e 0.0159 0.3735 0.3965 1
+ Se2 Se 4 e 0.06957 0.41232 0.20357 1
+ O4 O 4 e 0.1371 0.0001 0.348 1
+ O1 O 4 e 0.2384 0.5357 0.2311 1
+ O5 O 4 e 0.387 0.1212 0.0866 1
+ In1 In 4 e 0.44453 0.01068 0.29649 1
+ O3 O 4 e 0.4765 0.368 0.0063 1
+ O2 O 4 e 0.5474 0.3216 0.3209 1
+ Se1 Se 4 e 0.58226 0.21024 0.01265 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.36
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            16.8
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             83
+_refine_ls_number_reflns                 1473
+_refine_ls_R_factor_gt                   0.0289
+_refine_ls_wR_factor_gt                  0.0338
+
+# End of data set 1414757
+
+

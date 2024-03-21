@@ -1,0 +1,181 @@
+##############################################################################
+#                                                                            #
+# Hf-Mo-O          # HfMo2O8 ht-hp                                 # 1627346 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1627346
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1627346
+
+# Entry summary
+
+_chemical_formula_structural             'Hf Mo~2~ O~8~'
+_chemical_formula_sum                    'Hf Mo2 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            ZrMo~2~O~8~,mS44,15
+_chemical_formula_weight                 498.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Amorphization and structural evolution of \a-HfMo~2~O~7~ and its high density polymorph \b-HfMo~2~O~8~ at high pressures
+;
+_journal_coden_ASTM                      JPCSAW
+_journal_name_full                       'J. Phys. Chem. Solids'
+_journal_year                            2008
+_journal_volume                          69
+_journal_page_first                      35
+_journal_page_last                       40
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mukherjee G.D.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+High Pressure Physics Division
+Trombay / Maharashtra
+India
+;
+'Karandikar A.S.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+High Pressure Physics Division
+Trombay / Maharashtra
+India
+;
+'Vijayakumar V.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+High Pressure Physics Division
+Trombay / Maharashtra
+India
+;
+'Godwal B.K.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+High Pressure Physics Division
+Trombay / Maharashtra
+India
+;
+'Achary S.N.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Chemistry Division
+Trombay / Maharashtra
+India
+;
+'Tyagi A.K.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Chemistry Division
+Trombay / Maharashtra
+India
+;
+'Lausi A.'
+;
+Trieste Synchrotron ELETTRA
+Trieste
+Italy
+;
+'Busetto E.'
+;
+Trieste Synchrotron ELETTRA
+Trieste
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.4346
+_cell_length_b                           7.8959
+_cell_length_c                           7.4612
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.646
+_cell_angle_gamma                        90
+_cell_volume                             567.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ Hf
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.0921 0.3852 0.0772 1
+ O2 O 8 f 0.1293 0.0375 0.1677 1
+ O3 O 8 f 0.1531 0.3365 0.4378 1
+ Mo1 Mo 8 f 0.2149 0.2207 0.2577 1
+ O4 O 8 f 0.3501 0.1997 0.2119 1
+ Hf1 Hf 4 e 0 0.5178 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.84
+_cell_measurement_temperature            ?
+_cell_measurement_pressure               10000
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.679
+_pd_proc_wavelength                      0.679
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1627346
+
+

@@ -1,0 +1,171 @@
+##############################################################################
+#                                                                            #
+# C-Fe             # Fe5C2 m-mon                                   # 1120157 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1120157
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1120157
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~5~ C~2~'
+_chemical_formula_sum                    'C2 Fe5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Mn~5~C~2~,mS28,15
+_chemical_formula_weight                 303.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Powder diffraction data and Rietveld refinement of H\"agg-carbide, \c-Fe~5~C~2~
+;
+_journal_coden_ASTM                      PODIE2
+_journal_name_full                       'Powder Diffr.'
+_journal_year                            1999
+_journal_volume                          14
+_journal_page_first                      130
+_journal_page_last                       132
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Retief J.J.'
+;
+Sasol Technology Ltd.
+Research and Development Division
+Sasolburg
+South Africa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.588
+_cell_length_b                           4.579
+_cell_length_c                           5.059
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.746
+_cell_angle_gamma                        90
+_cell_volume                             265.99
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C C 8 f 0.107 0.215 0.649 1
+ Fe2 Fe 8 f 0.215 0.081 0.306 1
+ Fe1 Fe 8 f 0.403 0.078 0.077 1
+ Fe3 Fe 4 e 0 0.061 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.57
+_cell_measurement_temperature            296(1)
+_cell_measurement_radiation              'X-rays, Co Ka1'
+_cell_measurement_wavelength             1.78897
+_pd_proc_wavelength                      1.78897
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296(1)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D500'
+_diffrn_radiation_type                   'X-rays, Co Ka1'
+_diffrn_radiation_wavelength             1.78897
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 17
+_diffrn_reflns_theta_max                 50
+_pd_proc_2theta_range_min                34
+_pd_proc_2theta_range_max                100
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             30
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.073
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 3 1 -1 393.86 8
+ 0 0 2 418.16 11
+ 3 1 1 433.55 7
+ 0 2 0 459.81 23
+ 1 1 -2 477.87 38
+ 2 0 2 481.68 22
+ 1 1 2 500.69 21
+ 0 2 1 508.49 100
+ 5 1 0 516.6 100
+ 4 0 -2 523.47 19
+ 3 1 -2 527.68 33
+ 2 2 -1 533.3 8
+ 2 2 1 553.88 27
+ 4 0 2 605.66 11
+ 4 2 -1 621.38 11
+ 5 1 -2 638.4 6
+ 2 2 -2 650.35 3
+ 6 0 -2 665.24 5
+ 2 2 2 687.98 7
+ 4 2 -2 720.67 7
+ 3 3 -1 806.67 10
+ 3 3 1 832.72 7
+ 8 0 -2 850.14 2
+ 5 3 -1 910.17 11
+ 1 1 -4 944.61 18
+ 5 3 1 952.12 8
+ 4 2 3 994.09 12
+
+# End of data set 1120157
+
+

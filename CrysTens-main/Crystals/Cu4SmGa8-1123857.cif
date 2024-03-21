@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# Cu-Ga-Sm         # Cu4SmGa8                                      # 1123857 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1123857
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1123857
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~4~ Sm Ga~8~'
+_chemical_formula_sum                    'Cu4 Ga8 Sm'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~4~EuIn~8~,hP39,191
+_chemical_formula_weight                 962.3
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal growth, structure, and physical properties of SmCu~4~Ga~8~'          
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2008
+_journal_volume                          47
+_journal_page_first                      2472
+_journal_page_last                       2476
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cho J.Y.'
+;
+Louisiana Baton Rouge University (and Agricultural and Mechanical College)
+Department of Chemistry
+Baton Rouge
+U.S.A. Louisiana
+;
+'Capan C.'
+;
+Louisiana Baton Rouge University (and Agricultural and Mechanical College)
+Department of Physics and Astronomy
+Baton Rouge
+U.S.A. Louisiana
+;
+'Young D.P.'
+;
+Louisiana Baton Rouge University (and Agricultural and Mechanical College)
+Department of Physics and Astronomy
+Baton Rouge
+U.S.A. Louisiana
+;
+'Chan Y.'
+;
+Louisiana Baton Rouge University (and Agricultural and Mechanical College)
+Department of Chemistry
+Baton Rouge
+U.S.A. Louisiana
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.865
+_cell_length_b                           8.865
+_cell_length_c                           8.607
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             585.8
+_cell_formula_units_Z                    3
+_space_group_IT_number                   191
+_space_group_name_H-M_alt                'P 6/m m m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, z'
+ 10 '-y, -x, -z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, -z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, -z'
+ 15 'x, x-y, z'
+ 16 'x, y, -z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, z'
+ 23 'y, x, -z'
+ 24 'y, x, z'
+loop_
+ _atom_type_symbol
+ Cu
+ Ga
+ Sm
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu1 Cu 12 o 0.16742 0.33484 0.24233 1
+ Ga2 Ga 6 k 0.2979 0 0.5 1
+ Ga4 Ga 6 j 0.34835 0 0 1
+ Ga5 Ga 6 i 0.5 0 0.27241 1
+ Ga3 Ga 4 h 0.333333 0.666667 0.14734 1
+ Ga1 Ga 2 e 0 0 0.34559 1
+ Sm2 Sm 2 d 0.333333 0.666667 0.5 1
+ Sm1 Sm 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.18
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2187
+_diffrn_reflns_theta_min                 2.65
+_diffrn_reflns_theta_max                 29.98
+_exptl_absorpt_coefficient_mu            45.027
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             30
+_refine_ls_number_reflns                 393
+_refine_ls_R_factor_gt                   0.0275
+_refine_ls_wR_factor_gt                  0.0606
+
+# End of data set 1123857
+
+

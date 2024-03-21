@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# Eu-N-Si-Yb       # EuYbSi4N7                                     # 1413415 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1413415
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1413415
+
+# Entry summary
+
+_chemical_formula_structural             'Eu Yb Si~4~ N~7~'
+_chemical_formula_sum                    'Eu N7 Si4 Yb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            NaBe~4~SbO~7~,hP26,186
+_chemical_formula_weight                 535.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Eu~2~Si~5~N~8~ and EuYbSi~4~N~7~. The First Nitrodosilicates with a Divalent Rare Earth Metal
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1997
+_journal_volume                          53
+_journal_page_first                      1751
+_journal_page_last                       1753
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Huppertz H.'
+;
+Bayreuth University
+Laboratorium f\"ur Anorganische Chemie
+Bayreuth
+Germany
+;
+'Schnick W.'
+;
+Bayreuth University
+Laboratorium f\"ur Anorganische Chemie
+Bayreuth
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.9822
+_cell_length_b                           5.9822
+_cell_length_c                           9.7455
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             302
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ Si
+ Yb
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N1 N 6 c 0.5102 0.4898 0.2128 1
+ Si2 Si 6 c 0.82641 0.17359 0.26614 1
+ N2 N 6 c 0.8463 0.1537 0.4407 1
+ Yb1 Yb 2 b 0.333333 0.666667 0.0758 1
+ Eu1 Eu 2 b 0.333333 0.666667 0.44666 1
+ Si1 Si 2 a 0 0 0.0 1
+ N3 N 2 a 0 0 0.1913 1
+
+
+_exptl_crystal_colour                    brown
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.89
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            62
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens P4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4996
+_exptl_absorpt_coefficient_mu            26.406
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             32
+_refine_ls_number_reflns                 1250
+_refine_ls_R_factor_gt                   0.021
+_refine_ls_wR_factor_gt                  0.049
+
+# End of data set 1413415
+
+

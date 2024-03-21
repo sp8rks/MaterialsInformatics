@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Br-H-O           # HBr[H2O]2                                     # 1711354 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1711354
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1711354
+
+# Entry summary
+
+_chemical_formula_structural             'H Br [H~2~ O]~2~'
+_chemical_formula_sum                    'Br H5 O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HCl[H~2~O]~2~,mP12,14
+_chemical_formula_weight                 116.9
+
+# Bibliographic data
+
+_publ_section_title
+'Das H~5~O^+^~2~-lon in Bromwasserstoff-dihydrat'                             
+_journal_coden_ASTM                      ANCEAD
+_journal_name_full                       'Angew. Chem.'
+_journal_year                            1976
+_journal_volume                          88
+_journal_page_first                      507
+_journal_page_last                       508
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Attig R.'
+;
+D\"usseldorf Heinrich Heine University
+Institut f\"ur Anorganische Chemie und Strukturchemie
+D\"usseldorf
+Germany
+;
+'Williams J.M.'
+;
+D\"usseldorf Heinrich Heine University
+Institut f\"ur Anorganische Chemie und Strukturchemie
+D\"usseldorf
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.23
+_cell_length_b                           12.57
+_cell_length_c                           6.94
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.4
+_cell_angle_gamma                        90
+_cell_volume                             361.73
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Br
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br Br 4 e 0.0244 0.3314 0.1553 1
+ O2 O 4 e 0.3037 0.0599 0.2964 1
+ O1 O 4 e 0.5622 0.1253 0.0421 1
+ H21 H 4 e 0.2223 0.5115 0.8016 1
+ H22 H 4 e 0.2321 0.1023 0.3972 1
+ H12 H 4 e 0.4026 0.3567 0.4226 1
+ H1 H 4 e 0.4271 0.0966 0.1657 1
+ H11 H 4 e 0.7041 0.1872 0.0791 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.11
+_exptl_crystal_density_diffrn            2.15
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              233
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+U.S.A. Illinois, Argonne National Laboratory, Intense Pulsed Neutron Source IPNS, CP-5 reactor
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.142
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            0.162
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 373
+_refine_ls_R_factor_gt                   0.094
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1711354
+
+

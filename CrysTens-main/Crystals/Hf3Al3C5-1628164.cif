@@ -1,0 +1,176 @@
+##############################################################################
+#                                                                            #
+# Al-C-Hf          # Hf3Al3C5                                      # 1628164 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1628164
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1628164
+
+# Entry summary
+
+_chemical_formula_structural             'Hf~3~ Al~3~ C~5~'
+_chemical_formula_sum                    'Al3 C5 Hf3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hf~3~Al~3~C~5~,hP22,194
+_chemical_formula_weight                 676.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure and theoretical elastic property of two new ternary ceramics Hf~3~Al~4~C~6~ and Hf~2~Al~4~C~5~
+;
+_journal_coden_ASTM                      SCMAF7
+_journal_name_full                       'Scr. Mater.'
+_journal_year                            2008
+_journal_volume                          58
+_journal_page_first                      679
+_journal_page_last                       682
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'He L.F.'
+;
+Chinese Academy of Sciences
+Institute of Metals Research
+Shenyang / Liaoning
+China
+;
+'Lin Z.J.'
+;
+Chinese Academy of Sciences
+Institute of Metals Research
+Shenyang / Liaoning
+China
+;
+'Wang J.Y.'
+;
+Chinese Academy of Sciences
+Institute of Metals Research
+Shenyang / Liaoning
+China
+;
+'Bao Y.W.'
+;
+Chinese Academy of Sciences
+Institute of Metals Research
+Shenyang / Liaoning
+China
+;
+'Zhou Y.C.'
+;
+Chinese Academy of Sciences
+Institute of Metals Research
+Shenyang / Liaoning
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.316
+_cell_length_b                           3.316
+_cell_length_c                           27.42
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             261.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ Al
+ Hf
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 4 f 0.333333 0.666667 0.0593 1
+ Al1 Al 4 f 0.333333 0.666667 0.1759 1
+ Hf2 Hf 4 f 0.333333 0.666667 0.5943 1
+ C2 C 4 e 0 0 0.1501 1
+ C3 C 2 c 0.333333 0.666667 0.25 1
+ Al2 Al 2 b 0 0 0.25 1
+ Hf1 Hf 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0855
+_pd_proc_ls_proof_wR_factor              0.1185
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1628164
+
+

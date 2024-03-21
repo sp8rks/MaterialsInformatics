@@ -1,0 +1,182 @@
+##############################################################################
+#                                                                            #
+# Er-Fe-Ge-O       # ErFe[Ge2O7]                                   # 1415923 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1415923
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1415923
+
+# Entry summary
+
+_chemical_formula_structural             'Er Fe [Ge~2~ O~7~]'
+_chemical_formula_sum                    'Er Fe Ge2 O7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            DyFe[Ge~2~O~7~],mP44,11
+_chemical_formula_weight                 480.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Magnetic Ordering in the Rare Earth Iron Germanates HoFeGe~2~O~7~ and ErFeGe~2~O~7~
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            1999
+_journal_volume                          11
+_journal_page_first                      2520
+_journal_page_last                       2526
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cascales C.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales
+Madrid
+Spain
+;
+'Guti\'errez Puebla E.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales
+Madrid
+Spain
+;
+'Klimin S.A.'
+;
+Russian Academy of Sciences
+Institute of Spectroscopy
+Moscow
+Russia
+;
+'Lebech B.'
+;
+Roskilde Riso National Laboratory
+Department of Condensed Matter Physics and Chemistry
+Roskilde
+Denmark
+;
+'Monge M.A.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales
+Madrid
+Spain
+;
+'Popova M.N.'
+;
+Russian Academy of Sciences
+Institute of Spectroscopy
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.6501
+_cell_length_b                           8.51
+_cell_length_c                           9.6413
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.833
+_cell_angle_gamma                        90
+_cell_volume                             535.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Fe
+ Er
+ Ge
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 O 4 f 0.036 0.595 0.144 1
+ O1 O 4 f 0.049 0.055 0.367 1
+ Fe1 Fe 4 f 0.244 0.046 0.244 1
+ Er Er 4 f 0.256 0.054 0.749 1
+ O10 O 4 f 0.446 0.581 0.359 1
+ O5 O 4 f 0.487 0.102 0.142 1
+ Ge2 Ge 2 e 0.027 0.25 0.439 1
+ O8 O 2 e 0.126 0.25 0.603 1
+ O2 O 2 e 0.142 0.25 0.119 1
+ O9 O 2 e 0.33 0.25 0.378 1
+ O6 O 2 e 0.349 0.25 0.863 1
+ Ge3 Ge 2 e 0.475 0.25 0.047 1
+ Ge1 Ge 2 e 0.552 0.25 0.532 1
+ O3 O 2 e 0.747 0.25 0.046 1
+ O4 O 2 e 0.749 0.25 0.418 1
+ Ge4 Ge 2 e 0.939 0.25 0.982 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.95
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.54
+_pd_proc_wavelength                      1.54
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'Denmark, Roskilde, Riso National Laboratory, DR3 reactor, TAS3'              
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.54
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 55.388
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                110.776
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 745
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0818
+_pd_proc_ls_proof_wR_factor              0.0767
+_refine_ls_R_I_factor                    0.0890
+
+# End of data set 1415923
+
+

@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Br-Fe-Se         # FeSeBr7                                       #  543122 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_543122
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      543122
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Se Br~7~'
+_chemical_formula_sum                    'Br7 Fe Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AlSCl~7~,mP18,7
+_chemical_formula_weight                 694.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+X-Ray structure analysis of iron(III) complexes containing halogens and chalcogens
+;
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1991
+_journal_volume                          36
+_journal_page_first                      1427
+_journal_page_last                       1431
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rybakov V.B.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Ashnov L.A.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Volkov S.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Fokina Z.A.'
+;
+Ukrainian Academy of Sciences
+Vernadskii V.I. Institute of General and Inorganic Chemistry
+Kiev
+Ukraine
+;
+'Timoshchenko N.I.'
+;
+Ukrainian Academy of Sciences
+Vernadskii V.I. Institute of General and Inorganic Chemistry
+Kiev
+Ukraine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.657
+_cell_length_b                           6.604
+_cell_length_c                           14.192
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.89
+_cell_angle_gamma                        90
+_cell_volume                             612.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Br
+ Fe
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br3 Br 2 a 0.0 0.1522 0.0 1
+ Br2 Br 2 a 0.137 0.1161 0.2724 1
+ Br1 Br 2 a 0.1894 0.6515 0.1189 1
+ Fe Fe 2 a 0.217 0.0029 0.1307 1
+ Br7 Br 2 a 0.3903 0.627 0.3972 1
+ Se Se 2 a 0.5132 0.4217 0.2926 1
+ Br4 Br 2 a 0.552 0.1047 0.1259 1
+ Br5 Br 2 a 0.7015 0.1988 0.3995 1
+ Br6 Br 2 a 0.7723 0.6118 0.2539 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.76
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            53.4692
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 576
+_refine_ls_R_factor_gt                   0.048
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 543122
+
+

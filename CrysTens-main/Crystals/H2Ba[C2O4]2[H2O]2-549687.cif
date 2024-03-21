@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Ba-C-H-O         # H2Ba[C2O4]2[H2O]2                             #  549687 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_549687
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      549687
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Ba [C~2~ O~4~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Ba C4 H4 O10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~2~Ba[C~2~O~4~]~2~[H~2~O]~2~,mS60,15                                         
+_chemical_formula_weight                 351.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+D\'etermination de la structure cristalline de BaC~2~O~4~.H~2~C~2~O~4~.2H~2~O
+;
+_journal_coden_ASTM                      CHDCAQ
+_journal_name_full                       'C. R. Seances Acad. Sci., Ser. C'
+_journal_year                            1968
+_journal_volume                          267
+_journal_page_first                      1033
+_journal_page_last                       1035
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Courtois A.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Dusausoy Y.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Laffaille A.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Mutin J.C.'
+;
+Dijon Burgundy University
+Dijon
+France
+;
+'Protas J.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Vandoeuvre-l\`es-Nancy
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.45
+_cell_length_b                           5.4
+_cell_length_c                           12.45
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.
+_cell_angle_gamma                        90
+_cell_volume                             873.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ C
+ OH2
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 f 0.0772 0.2421 0.0745 1
+ O5 O 8 f 0.1386 0.0999 0.4931 1
+ O2 O 8 f 0.1982 0.4172 0.3648 1
+ C1 C 8 f 0.2345 0.155 0.5374 1
+ O4 OH2 8 f 0.3154 0.4036 0.2118 1
+ C2 C 8 f 0.4754 0.1027 0.02 1
+ O1 O 8 f 0.4888 0.126 0.1222 1
+ Ba Ba 4 e 0 0.1662 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.60
+_exptl_crystal_density_diffrn            2.67
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.108
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 549687
+
+

@@ -1,0 +1,176 @@
+##############################################################################
+#                                                                            #
+# Eu-H-I-O         # H2Eu[IO6][H2O]3                               # 1101830 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1101830
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1101830
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Eu [I O~6~] [H~2~ O]~3~'
+_chemical_formula_sum                    'Eu H8 I O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Ho[IO~6~][H~2~O]~3~,mP44,14
+_chemical_formula_weight                 430.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+X-ray diffraction study of the tetrahydrates of the mesoperiodates of the rare earth elements and yttrium
+;
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1973
+_journal_volume                          18
+_journal_page_first                      106
+_journal_page_last                       107
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Varfolomeev M.B.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Shamrai N.B.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Berenshtein B G.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Plyushchev V.E.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.566
+_cell_length_b                           10.49
+_cell_length_c                           10.48
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.42
+_cell_angle_gamma                        90
+_cell_volume                             731.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ I
+ O
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I1 I 4 e 0.0201 0.1749 0.2606 1
+ O1 O 4 e 0.043 0.781 0.399 1
+ O2 O 4 e 0.061 0.072 0.42 1
+ O3 O 4 e 0.109 0.803 0.172 1
+ O4 O 4 e 0.161 0.053 0.203 1
+ O5 O 4 e 0.219 0.585 0.338 1
+ Eu1 Eu 4 e 0.2316 0.4281 0.1787 1
+ O6 O 4 e 0.252 0.267 0.351 1
+ O7 O 4 e 0.39 0.595 0.107 1
+ O8 O 4 e 0.431 0.281 0.135 1
+ O9 O 4 e 0.569 0.451 0.376 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.71(1)
+_exptl_crystal_density_diffrn            3.91
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 69.9 2
+ 1 0 0 67.5 5
+ -1 1 1 60.5 4
+ 1 0 1 56.8 2
+ -1 2 0 51.3 2
+ 0 2 0 46.6 5
+ 0 2 1 42.9 4
+ 1 1 1 41.6 4
+ -1 2 2 36.9 5
+ -2 1 1 35.8 1
+ 0 2 2 33.9 1
+ 2 0 0 33.2 1
+ 1 2 0 31.9 5
+ -2 3 1 30.2 4
+
+# End of data set 1101830
+
+

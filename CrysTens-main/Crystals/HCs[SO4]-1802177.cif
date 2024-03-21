@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Cs-H-O-S         # HCs[SO4] mon                                  # 1802177 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1802177
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1802177
+
+# Entry summary
+
+_chemical_formula_structural             'H Cs [S O~4~]'
+_chemical_formula_sum                    'Cs H O4 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HCs[SO~4~],mP12,11
+_chemical_formula_weight                 230.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Neutron-diffraction investigation of crystal structures of phases I, II, III of cesium hydrosulfate by the method of full-profile analysis
+;
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1990
+_journal_volume                          35
+_journal_page_first                      383
+_journal_page_last                       384
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nozik Y.Z.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Lyakhovitskaya L.I.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Shchagina N.M.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Sarin V.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.4908
+_cell_length_b                           5.8099
+_cell_length_c                           7.3039
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.51
+_cell_angle_gamma                        90
+_cell_volume                             228.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ S
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 f 0.1301 0.0434 0.3759 1
+ S1 S 2 e 0.049 0.25 0.2543 1
+ O2 O 2 e 0.1847 0.25 0.1076 1
+ Cs1 Cs 2 e 0.48352 0.25 0.78805 1
+ O3 O 2 e 0.7814 0.25 0.199 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.35
+_cell_measurement_temperature            298
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.277
+_pd_proc_wavelength                      1.277
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1802177
+
+

@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# C-Co-H-K-O       # K2Co[CO3]2[H2O]4                              # 1401823 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1401823
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1401823
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Co [C O~3~]~2~ [H~2~ O]~4~'
+_chemical_formula_sum                    'C2 Co H8 K2 O10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Mg[CO~3~]~2~[H~2~O]~4~,mP30,14
+_chemical_formula_weight                 329.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal and molecular structure of dipotassium trans-dicarbonatotetraaquocobalt(II), trans-K~2~[Co(CO~3~)~2~(H~2~O)~4~]
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1976
+_journal_volume                          32
+_journal_page_first                      466
+_journal_page_last                       470
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Harlow R.L.'
+;
+Texas Austin University
+Department of Chemistry
+Austin
+U.S.A. Texas
+;
+'Simonsen S.H.'
+;
+Texas Austin University
+Department of Chemistry
+Austin
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.817
+_cell_length_b                           6.184
+_cell_length_c                           12.3254
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.603
+_cell_angle_gamma                        90
+_cell_volume                             476.13
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ C
+ Co
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.1104 0.22795 0.4073 1
+ O1 O 4 e 0.12063 0.30923 0.15059 1
+ K K 4 e 0.22906 0.64754 0.31494 1
+ C C 4 e 0.25759 0.15262 0.17914 1
+ O5 O 4 e 0.29541 0.66811 0.05212 1
+ O2 O 4 e 0.31295 0.06173 0.28091 1
+ O3 O 4 e 0.3383 0.08714 0.10626 1
+ Co Co 2 c 0 0 0.5 1
+ H4a H 4 e 0.188 0.175 0.367 1
+ H4b H 4 e 0.195 0.284 0.476 1
+ H5b H 4 e 0.309 0.793 0.076 1
+ H5a H 4 e 0.41 0.614 0.106 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.293
+_exptl_crystal_density_diffrn            2.30
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5405
+_cell_measurement_reflns_used            23
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2514
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 32.5
+_exptl_absorpt_coefficient_mu            2.78
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.024
+_refine_ls_wR_factor_gt                  0.032
+
+# End of data set 1401823
+
+

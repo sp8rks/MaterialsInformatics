@@ -1,0 +1,128 @@
+##############################################################################
+#                                                                            #
+# Cd-H-O-Se        # H2Cd3[SeO3]4                                  # 1501752 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1501752
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1501752
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Cd~3~ [Se O~3~]~4~'
+_chemical_formula_sum                    'Cd3 O12 Se4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Cd~3~[SeO~3~]~4~,mP38,14
+_chemical_formula_weight                 847.1
+
+# Bibliographic data
+
+_publ_section_title
+'Cadmium Diselenite and Cadmium Hydrogenselenite Selenite'                    
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1994
+_journal_volume                          50
+_journal_page_first                      1381
+_journal_page_last                       1384
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Valkonen J.'
+;
+Jyv\"askyl\"a University
+Department of Chemistry
+Jyv\"askyl\"a
+Finland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.405
+_cell_length_b                           9.147
+_cell_length_c                           7.284
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.62
+_cell_angle_gamma                        90
+_cell_volume                             578.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cd
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 4 e 0.0624 0.2672 0.4837 1
+ O5 O 4 e 0.0866 0.0184 0.3379 1
+ Cd1 Cd 4 e 0.15636 0.63595 0.12044 1
+ Se2 Se 4 e 0.20337 0.16291 0.45715 1
+ O4 O 4 e 0.2848 0.4195 0.1799 1
+ O3 O 4 e 0.3829 0.0171 0.2564 1
+ O2 O 4 e 0.5867 0.2268 0.2644 1
+ Se1 Se 4 e 0.60123 0.3773 0.39865 1
+ O1 O 4 e 0.7942 0.1402 0.0383 1
+ Cd2 Cd 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.86
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3743
+_exptl_absorpt_coefficient_mu            17.97
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             89
+_refine_ls_number_reflns                 2579
+_refine_ls_R_factor_gt                   0.035
+_refine_ls_wR_factor_gt                  0.046
+
+# End of data set 1501752
+
+

@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Ir-K-Na-O        # K2Na2IrO4                                     # 1707862 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1707862
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1707862
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Na~2~ Ir O~4~'
+_chemical_formula_sum                    'Ir K2 Na2 O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Na~2~IrO~4~,mP36,14
+_chemical_formula_weight                 380.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+A new type of structure in oxoiridates with square-planar groups [IrO~4~]^4-^: K~2~Na~2~[IrO~4~], a network ^3^/\\infty[Na~2~IrO~4~] with channels (with a remark on Rb~2~Na~2~[IrO~4~])
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1994
+_journal_volume                          620
+_journal_page_first                      225
+_journal_page_last                       233
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mader K.H.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Hoppe R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.0035
+_cell_length_b                           11.112
+_cell_length_c                           9.33
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.14
+_cell_angle_gamma                        90
+_cell_volume                             572.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Na
+ K
+ O
+ Ir
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Na2 Na 4 e 0.0661 0.1083 0.4067 1
+ K2 K 4 e 0.1526 0.367 0.2773 1
+ K1 K 4 e 0.1659 0.6381 0.5027 1
+ O2 O 4 e 0.2188 0.0356 0.2235 1
+ O1 O 4 e 0.2435 0.7244 0.2613 1
+ O4 O 4 e 0.2799 0.2297 0.0659 1
+ O3 O 4 e 0.2987 0.5357 0.1014 1
+ Ir Ir 4 e 0.4862 0.1298 0.2289 1
+ Na1 Na 4 e 0.5675 0.3872 0.0948 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.41
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    9397
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            23.79
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             82
+_refine_ls_number_reflns                 2347
+_refine_ls_R_factor_gt                   0.0357
+_refine_ls_wR_factor_gt                  0.0340
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 195.6 70
+ 0 2 1 273.6 100
+ 1 0 -2 320.9 50
+ 0 0 2 322.6 50
+ 1 2 -1 370.3 100
+
+# End of data set 1707862
+
+

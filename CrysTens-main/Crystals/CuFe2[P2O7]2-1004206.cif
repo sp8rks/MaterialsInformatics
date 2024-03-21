@@ -1,0 +1,180 @@
+##############################################################################
+#                                                                            #
+# Cu-Fe-O-P        # CuFe2[P2O7]2                                  # 1004206 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1004206
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1004206
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Fe~2~ [P~2~ O~7~]~2~'
+_chemical_formula_sum                    'Cu Fe2 O14 P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuFe~2~[P~2~O~7~]~2~,mP42,14
+_chemical_formula_weight                 523.1
+
+# Bibliographic data
+
+_publ_section_title
+'Magnetic structure and exchange interactions in CuFe~2~(P~2~O~7~)~2~'        
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2002
+_journal_volume                          4
+_journal_page_first                      1273
+_journal_page_last                       1283
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'El Khayati N.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire L\'eon Brillouin (LLB)
+Gif-sur-Yvette
+France
+;
+'Rodriguez Carvajal J.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire L\'eon Brillouin (LLB)
+Gif-sur-Yvette
+France
+;
+'Bour\'ee Vigneron F.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire L\'eon Brillouin (LLB)
+Gif-sur-Yvette
+France
+;
+'Roisnel T.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire L\'eon Brillouin (LLB)
+Gif-sur-Yvette
+France
+;
+'Cherkaoui R.'
+;
+Rabat Mohammed V University
+Rabat
+Morocco
+;
+'Boutfessi A.'
+;
+Rabat Mohammed V University
+Laboratoire de Chimie du Solide Appliqu\'ee
+Rabat
+Morocco
+;
+'Boukhari A.'
+;
+Rabat Mohammed V University
+Laboratoire de Chimie du Solide Appliqu\'ee
+Rabat
+Morocco
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5921
+_cell_length_b                           5.1606
+_cell_length_c                           16.7607
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.163
+_cell_angle_gamma                        90
+_cell_volume                             531.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Fe
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O13 O 4 e 0.0142 0.5245 0.8822 1
+ O12 O 4 e 0.0393 0.5021 0.6204 1
+ P1 P 4 e 0.1187 0.2529 0.1688 1
+ O14 O 4 e 0.1279 0.2253 0.2578 1
+ Fe Fe 4 e 0.2145 0.2577 0.3801 1
+ O21 O 4 e 0.2586 0.2076 0.0134 1
+ O11 O 4 e 0.3599 0.2838 0.1697 1
+ P2 P 4 e 0.4493 0.2754 0.0949 1
+ O23 O 4 e 0.4779 0.0528 0.4133 1
+ O22 O 4 e 0.6258 0.0828 0.1178 1
+ Cu Cu 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.27
+_cell_measurement_temperature            293
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.8
+_pd_proc_wavelength                      1.8
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Saclay, Laboratoire Leon Brillouin LLB, ORPHEE reactor, G4.2'        
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.8
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 80.4
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                160.8
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             34
+_refine_ls_number_reflns                 733
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0397
+_pd_proc_ls_proof_wR_factor              0.0517
+_refine_ls_R_I_factor                    0.051
+
+# End of data set 1004206
+
+

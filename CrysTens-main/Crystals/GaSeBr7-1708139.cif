@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# Br-Ga-Se         # GaSeBr7                                       # 1708139 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1708139
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1708139
+
+# Entry summary
+
+_chemical_formula_structural             'Ga Se Br~7~'
+_chemical_formula_sum                    'Br7 Ga Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AlSCl~7~,mP18,7
+_chemical_formula_weight                 708.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Die Kristallstrukturen von SeCl~3~^+^SbCl~6~^-^, SeBr~3~^+^GaBr~4~^-^, PCl~4~^+^SeCl~5~^-^ und (PPh~4~^+^)~2~SeCl~4~^2-^.2CH~3~CN
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1996
+_journal_volume                          622
+_journal_page_first                      1847
+_journal_page_last                       1853
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Neum\"uller B.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Lau C.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Dehnicke K.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.601
+_cell_length_b                           6.553
+_cell_length_c                           14.313
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.17
+_cell_angle_gamma                        90
+_cell_volume                             607.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Br
+ Ga
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br6 Br 2 a 0.0 0.1538 0.0 1
+ Br5 Br 2 a 0.1308 0.1153 0.2705 1
+ Br7 Br 2 a 0.186 0.6517 0.1178 1
+ Ga1 Ga 2 a 0.2179 0.0039 0.1279 1
+ Br3 Br 2 a 0.3762 0.6242 0.3967 1
+ Se1 Se 2 a 0.5085 0.4215 0.2922 1
+ Br4 Br 2 a 0.5527 0.1089 0.1265 1
+ Br1 Br 2 a 0.70065 0.1979 0.39897 1
+ Br2 Br 2 a 0.7704 0.6208 0.2583 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.87
+_cell_measurement_temperature            213
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              213
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2428
+_diffrn_reflns_theta_min                 2.9
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            28.22
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             81
+_refine_ls_number_reflns                 1461
+_refine_ls_R_factor_gt                   0.058
+_refine_ls_wR_factor_gt                  0.1507
+
+# End of data set 1708139
+
+

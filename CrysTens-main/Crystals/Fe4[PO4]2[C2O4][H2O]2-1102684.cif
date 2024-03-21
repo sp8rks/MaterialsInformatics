@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# C-Fe-H-O-P       # Fe4[PO4]2[C2O4][H2O]2 mon2                    # 1102684 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1102684
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1102684
+
+# Entry summary
+
+_chemical_formula_structural
+'Fe~4~ [P O~4~]~2~ [C~2~ O~4~] [H~2~ O]~2~'                                   
+_chemical_formula_sum                    'C2 Fe4 H4 O14 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Fe~4~[PO~4~]~2~[C~2~O~4~][H~2~O]~2~-b,mP44,14                                 
+_chemical_formula_weight                 537.4
+
+# Bibliographic data
+
+_publ_section_title
+'Hybrid Framework Iron(II) Phosphate-Oxalates'                                
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1999
+_journal_volume                          146
+_journal_page_first                      538
+_journal_page_last                       545
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Choudhury A.'
+;
+Indian Institute of Science
+Department of Solid State and Structural Chemistry
+Bangalore / Karnataka
+India
+;
+'Natarajan S.'
+;
+Indian Institute of Science
+Department of Solid State and Structural Chemistry
+Bangalore / Karnataka
+India
+;
+'Rao C.N.R.'
+;
+Indian Institute of Science
+Department of Solid State and Structural Chemistry
+Bangalore / Karnataka
+India
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.24
+_cell_length_b                           6.375
+_cell_length_c                           9.955
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.3
+_cell_angle_gamma                        90
+_cell_volume                             577.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ C
+ OH2
+ Fe
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 O 4 e 0.0344 0.0799 0.1824 1
+ C1 C 4 e 0.0383 0.5505 0.4563 1
+ O3 O 4 e 0.172 0.5939 0.5361 1
+ O4 OH2 4 e 0.2207 0.6445 0.2794 1
+ Fe2 Fe 4 e 0.2667 0.0194 0.2634 1
+ O6 O 4 e 0.2813 0.2964 0.1553 1
+ P P 4 e 0.395 0.3491 0.102 1
+ O5 O 4 e 0.419 0.1709 0.01 1
+ O2 O 4 e 0.5414 0.4051 0.2396 1
+ Fe1 Fe 4 e 0.6217 0.3576 0.4774 1
+ O1 O 4 e 0.6601 0.4612 0.0096 1
+
+
+_exptl_crystal_colour                    'yellow faint'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.09
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2280
+_diffrn_reflns_theta_min                 2.24
+_diffrn_reflns_theta_max                 23.24
+_exptl_absorpt_coefficient_mu            5.28
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             109
+_refine_ls_number_reflns                 759
+_refine_ls_R_factor_gt                   0.027
+_refine_ls_wR_factor_gt                  0.066
+
+# End of data set 1102684
+
+

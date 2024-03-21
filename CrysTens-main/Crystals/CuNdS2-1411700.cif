@@ -1,0 +1,222 @@
+##############################################################################
+#                                                                            #
+# Cu-Nd-S          # CuNdS2                                        # 1411700 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1411700
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1411700
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Nd S~2~'
+_chemical_formula_sum                    'Cu Nd S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuLaS~2~,mP16,14
+_chemical_formula_weight                 271.9
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and the crystal structure of NdCuS~2~'                             
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            2001
+_journal_volume                          36
+_journal_page_first                      1029
+_journal_page_last                       1038
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wang Y.'
+;
+Sendai Miyagi Tohoku University
+Institute of Advanced Materials Processing
+Sendai / Miyagi
+Japan
+;
+'Sato N.K.'
+;
+Sendai Miyagi Tohoku University
+Institute of Advanced Materials Processing
+Sendai / Miyagi
+Japan
+;
+'Fujino T.'
+;
+Sendai Miyagi Tohoku University
+Institute of Advanced Materials Processing
+Sendai / Miyagi
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.52
+_cell_length_b                           7.169
+_cell_length_c                           6.829
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.48
+_cell_angle_gamma                        90
+_cell_volume                             315.71
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Cu
+ Nd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 4 e 0.1069 0.3854 0.2973 1
+ Cu Cu 4 e 0.0977 0.6568 0.0827 1
+ Nd Nd 4 e 0.3074 0.0472 0.202 1
+ S1 S 4 e 0.5659 0.2602 -0.0142 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.72
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku RAD-C'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 10
+_diffrn_reflns_theta_max                 35
+_pd_proc_2theta_range_min                20
+_pd_proc_2theta_range_max                70
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.2104
+_pd_proc_ls_proof_wR_factor              0.2659
+_refine_ls_R_I_factor                    0.061
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 49.13 3
+ 1 1 -1 41.37 32
+ 1 1 1 37.29 100
+ 0 2 0 35.93 10
+ 0 0 2 33.81 16
+ 2 0 0 32.22 8
+ 1 0 -2 31.99 24
+ 0 2 1 31.73 24
+ 0 1 2 30.52 7
+ 2 1 0 29.28 34
+ 2 1 -1 28.43 89
+ 1 0 2 28.22 9
+ 1 1 2 26.3 38
+ 2 1 1 25.74 16
+ 2 0 -2 25.29 9
+ 0 2 2 24.61 46
+ 2 2 0 24 17
+ 1 2 -2 23.84 19
+ 2 2 -1 23.43 16
+ 0 3 1 22.59 10
+ 1 3 0 22.44 25
+ 2 0 2 21.79 14
+ 1 3 -1 21.61 26
+ 3 0 0 21.49 26
+ 1 3 1 20.95 10
+ 3 1 0 20.59 8
+ 1 1 3 19.58 11
+ 0 3 2 19.5 10
+ 2 3 0 19.19 18
+ 1 3 -2 19.07 5
+ 3 1 1 18.97 38
+ 3 1 -2 18.81 11
+ 2 2 2 18.61 14
+ 3 2 0 18.44 16
+ 1 3 2 18.26 16
+ 2 2 -3 17.36 12
+ 1 4 0 17.28 16
+ 3 2 -2 17.14 13
+ 3 0 2 17.05 6
+ 1 0 -4 16.97 6
+ 1 4 -1 16.89 6
+ 1 4 1 16.58 3
+ 0 1 4 16.46 3
+ 3 1 -3 16.4 5
+ 4 1 -1 15.84 7
+ 4 1 0 15.73 2
+ 2 2 3 15.59 4
+ 2 3 -3 15.29 7
+ 3 2 -3 15.25 5
+ 4 1 -2 15.13 4
+ 2 4 1 15.01 4
+ 4 1 1 14.86 6
+ 1 2 4 14.44 9
+ 3 0 -4 14.34 4
+ 3 1 3 14.23 6
+ 1 5 0 14.01 11
+ 3 3 2 13.85 9
+ 4 0 2 13.79 8
+ 3 4 -1 13.76 9
+ 4 3 0 13.37 4
+ 0 1 5 13.27 12
+ 0 5 2 13.21 5
+ 1 3 4 13.15 6
+ 1 5 -2 13.08 6
+ 4 3 -2 12.99 9
+ 2 1 -5 12.96 8
+ 4 3 1 12.83 6
+ 1 5 2 12.79 3
+ 5 1 0 12.69 7
+ 2 5 -2 12.48 6
+ 3 3 -4 12.3 3
+
+# End of data set 1411700
+
+

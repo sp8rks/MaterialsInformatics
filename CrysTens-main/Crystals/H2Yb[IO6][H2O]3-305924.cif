@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# H-I-O-Yb         # H2Yb[IO6][H2O]3                               #  305924 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_305924
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      305924
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Yb [I O~6~] [H~2~ O]~3~'
+_chemical_formula_sum                    'H8 I O9 Yb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Ho[IO~6~][H~2~O]~3~,mP44,14
+_chemical_formula_weight                 452.0
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal Structure of Ytterbium Periodate Tetrahydrate'                       
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1977
+_journal_volume                          22
+_journal_page_first                      461
+_journal_page_last                       ?
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Shamrai N.B.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Varfolomeev M.B.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Saf'yanov Y.N.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Kuz'min E.A.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Plyukhin V.V.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.457
+_cell_length_b                           10.212
+_cell_length_c                           10.351
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.66
+_cell_angle_gamma                        90
+_cell_volume                             691.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ I
+ OH2
+ O
+ Yb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I I 4 e 0.0203 0.1761 0.2624 1
+ O(7) OH2 4 e 0.044 0.784 0.4 1
+ O(1) O 4 e 0.06 0.072 0.422 1
+ O(8) OH2 4 e 0.12 0.801 0.174 1
+ O(2) O 4 e 0.167 0.057 0.203 1
+ O(6) OH2 4 e 0.214 0.581 0.337 1
+ Yb Yb 4 e 0.2301 0.4284 0.1792 1
+ O(3) O 4 e 0.261 0.271 0.355 1
+ O(5) O 4 e 0.379 0.593 0.104 1
+ O(4) O 4 e 0.426 0.283 0.136 1
+ O(9) OH2 4 e 0.558 0.451 0.373 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.34
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Hilger
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1220
+_refine_ls_R_factor_gt                   0.084
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 305924
+
+

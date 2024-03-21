@@ -1,0 +1,129 @@
+##############################################################################
+#                                                                            #
+# Gd-Nb-O          # GdNbO4 rt                                     # 1812754 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1812754
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1812754
+
+# Entry summary
+
+_chemical_formula_structural             'Gd Nb O~4~'
+_chemical_formula_sum                    'Gd Nb O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            LaNbO~4~,mS24,15
+_chemical_formula_weight                 314.2
+
+# Bibliographic data
+
+_publ_section_title
+'Change of LnNbO~4~ structures in lanthanoid series'                          
+_journal_coden_ASTM                      DANKAS
+_journal_name_full                       'Dokl. Akad. Nauk SSSR'
+_journal_year                            1982
+_journal_volume                          263
+_journal_page_first                      348
+_journal_page_last                       351
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Trunov V.K.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Kinzhibalo L.N.'
+;
+Ukrainian Academy of Sciences
+Kiev
+Ukraine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.1206
+_cell_length_b                           11.1
+_cell_length_c                           5.22
+_cell_angle_alpha                        90
+_cell_angle_beta                         132.564
+_cell_angle_gamma                        90
+_cell_volume                             303.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Nb
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.1555 0.2098 0.1598 1
+ O2 O 8 f 0.2572 0.4672 0.3006 1
+ Nb Nb 4 e 0 0.10466 0.25 1
+ Gd Gd 4 e 0 0.62865 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.87
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1812754
+
+

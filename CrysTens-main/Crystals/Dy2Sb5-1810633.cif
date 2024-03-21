@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Dy-Sb            # Dy2Sb5                                        # 1810633 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1810633
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1810633
+
+# Entry summary
+
+_chemical_formula_structural             'Dy~2~ Sb~5~'
+_chemical_formula_sum                    'Dy2 Sb5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Dy~2~Sb~5~,mP28,11
+_chemical_formula_weight                 933.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Lanthanoid Antimonides Ln~2~Sb~5~ (Ln= Sm, Gd, Tb, Dy) and Rationalization of Chemical Bonding withing the Antimony Polyanion by Combining the Zintl-Klemm Concept with Bond-Lenght Bond-Strenght Relationships
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2001
+_journal_volume                          627
+_journal_page_first                      1932
+_journal_page_last                       1940
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jeitschko W.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Altmeyer R.O.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Schelk M.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Rodewald U.C.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.066
+_cell_length_b                           4.1627
+_cell_length_c                           14.584
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.213
+_cell_angle_gamma                        90
+_cell_volume                             775.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Sb
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sb1 Sb 2 e 0.02913 0.25 0.09338 1
+ Dy1 Dy 2 e 0.04704 0.25 0.36209 1
+ Sb2 Sb 2 e 0.13965 0.25 0.67865 1
+ Sb3 Sb 2 e 0.27741 0.25 0.0602 1
+ Sb4 Sb 2 e 0.28476 0.25 0.34777 1
+ Dy2 Dy 2 e 0.3319 0.25 0.57806 1
+ Dy3 Dy 2 e 0.33891 0.25 0.85525 1
+ Sb5 Sb 2 e 0.5741 0.25 0.26555 1
+ Sb6 Sb 2 e 0.57498 0.25 0.55167 1
+ Sb7 Sb 2 e 0.58125 0.25 0.97575 1
+ Dy4 Dy 2 e 0.60897 0.25 0.77123 1
+ Sb8 Sb 2 e 0.84778 0.25 0.17135 1
+ Sb9 Sb 2 e 0.8563 0.25 0.48111 1
+ Sb10 Sb 2 e 0.86047 0.25 0.77943 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.00
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Enraf-Nonius
+_diffrn_radiation_type                   'X-rays, Mo Ka1'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             86
+_refine_ls_number_reflns                 2980
+_refine_ls_R_factor_gt                   0.0061
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1810633
+
+

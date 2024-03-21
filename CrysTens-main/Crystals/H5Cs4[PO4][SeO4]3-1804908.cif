@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# Cs-H-O-P-Se      # H5Cs4[PO4][SeO4]3                             # 1804908 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1804908
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1804908
+
+# Entry summary
+
+_chemical_formula_structural             'H~5~ Cs~4~ [P O~4~] [Se O~4~]~3~'
+_chemical_formula_sum                    'Cs4 O16 P Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~5~Cs~4~[PO~4~][SeO~4~]~3~,mP48,4
+_chemical_formula_weight                 1060.5
+
+# Bibliographic data
+
+_publ_section_title
+'New Cesium Hydrogen Selenate Phosphates: Synthesis and Crystal Structures'   
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1998
+_journal_volume                          141
+_journal_page_first                      317
+_journal_page_last                       322
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Troyanov S.I.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Morozov I.V.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Rybakov V.B.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Stiewe A.'
+;
+Berlin Humboldt University
+Institut f\"ur Chemie
+Berlin
+Germany
+;
+'Kemnitz E.'
+;
+Berlin Humboldt University
+Institut f\"ur Chemie
+Berlin
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.915
+_cell_length_b                           13.797
+_cell_length_c                           11.828
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.11
+_cell_angle_gamma                        90
+_cell_volume                             961.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Cs
+ Se
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(5) O 2 a 0.025 0.7422 0.361 1
+ O(4) O 2 a 0.026 0.554 0.1301 1
+ O(12) O 2 a 0.079 0.1562 0.3568 1
+ O(16) O 2 a 0.155 0.211 0.083 1
+ O(14) O 2 a 0.163 0.389 0.0579 1
+ O(13) O 2 a 0.177 0.318 0.2568 1
+ Cs(1) Cs 2 a 0.2045 0.5385 0.40497 1
+ O(10) O 2 a 0.216 0.0 0.242 1
+ Se(2) Se 2 a 0.2212 0.2939 0.6441 1
+ Cs(3) Cs 2 a 0.2312 0.79506 0.13642 1
+ O(11) O 2 a 0.244 0.009 0.4738 1
+ P P 2 a 0.2494 0.3081 0.1391 1
+ Se(1) Se 2 a 0.2504 0.0466 0.8697 1
+ O(7) O 2 a 0.261 0.355 0.532 1
+ O(6) O 2 a 0.276 0.351 0.7618 1
+ Se(3) Se 2 a 0.2781 0.0623 0.3575 1
+ O(3) O 2 a 0.322 0.036 0.7402 1
+ O(8) O 2 a 0.423 0.2043 0.644 1
+ O(15) O 2 a 0.512 0.301 0.1328 1
+ O(9) O 2 a 0.52 0.1156 0.3597 1
+ O(1) O 2 a 0.631 0.643 0.072 1
+ O(2) O 2 a 0.663 0.452 0.054 1
+ Cs(2) Cs 2 a 0.7045 0.31675 0.40894 1
+ Cs(4) Cs 2 a 0.7305 0.0561 0.13613 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.66
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI 4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2474
+_exptl_absorpt_coefficient_mu            13.351
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             219
+_refine_ls_number_reflns                 2376
+_refine_ls_R_factor_gt                   0.0384
+_refine_ls_wR_factor_gt                  0.1113
+
+# End of data set 1804908
+
+

@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# As-Cu-Yb         # Cu4Yb2As3                                     # 1923354 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1923354
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1923354
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~4~ Yb~2~ As~3~'
+_chemical_formula_sum                    'As3 Cu4 Yb2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hf~2~Co~4~P~3~,hP36,189
+_chemical_formula_weight                 825.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+New Arsenide Yb~2~Cu~4~As~3~: Crystal Structure and Electronic State of Ytterbium
+;
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            2003
+_journal_volume                          39
+_journal_page_first                      1112
+_journal_page_last                       1116
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Demchyna R.O.'
+;
+Lviv Ivan Franko National University
+Lviv
+Ukraine
+;
+'Kuz'ma Y.B.'
+;
+Lviv Ivan Franko National University
+Lviv
+Ukraine
+;
+'Burkhardt U.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Schnelle W.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Grin Y.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.3072
+_cell_length_b                           13.3072
+_cell_length_c                           4.0091
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             614.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ As
+ Cu
+ Yb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As3 As 6 k 0.17309 0.48778 0.5 1
+ Cu4 Cu 6 k 0.35534 0.47609 0.5 1
+ Cu3 Cu 6 j 0.18528 0.37348 0 1
+ Cu2 Cu 3 g 0.2754 0 0.5 1
+ Yb2 Yb 3 g 0.8157 0 0.5 1
+ As1 As 3 f 0.17594 0 0 1
+ Yb3 Yb 3 f 0.43461 0 0 1
+ As2 As 3 f 0.64031 0 0 1
+ Yb1 Yb 2 c 0.333333 0.666667 0 1
+ Cu1 Cu 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.91
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            113
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 4
+_diffrn_reflns_theta_max                 50
+_pd_proc_2theta_range_min                8
+_pd_proc_2theta_range_max                100
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 118
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.097
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.064
+
+# End of data set 1923354
+
+

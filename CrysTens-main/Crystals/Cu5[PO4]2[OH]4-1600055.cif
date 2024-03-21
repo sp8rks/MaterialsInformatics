@@ -1,0 +1,128 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-P         # Cu5[PO4]2[OH]4 mon1                           # 1600055 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1600055
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1600055
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~5~ [P O~4~]~2~ [O H]~4~'
+_chemical_formula_sum                    'Cu5 H4 O12 P2'
+_chemical_name_mineral                   pseudomalachite
+_chemical_compound_source
+'Germany, Rhineland-Palatinate, Linz am Rhein, Virneberg mine'                
+_chemical_name_structure_type            Cu~5~[PO~4~]~2~[OH]~4~-a,mP38,14
+_chemical_formula_weight                 575.7
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of pseudomalachite, Cu~5~(PO~4~)~2~(OH)~4~'            
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1963
+_journal_volume                          16
+_journal_page_first                      124
+_journal_page_last                       128
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ghose S.'
+;
+Bern University
+Institut f\"ur Mineralogie
+Bern
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.47
+_cell_length_b                           5.75
+_cell_length_c                           17.08
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.12
+_cell_angle_gamma                        90
+_cell_volume                             438.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ OH
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P P 4 e 0.018 0.094 0.135 1
+ O4 O 4 e 0.165 0.368 0.375 1
+ O1 O 4 e 0.21 0.155 0.064 1
+ O3 O 4 e 0.253 0.076 0.204 1
+ OH(1) OH 4 e 0.318 0.682 0.014 1
+ OH(2) OH 4 e 0.348 0.569 0.183 1
+ Cu3 Cu 4 e 0.486 0.329 0.257 1
+ Cu2 Cu 4 e 0.548 0.472 0.0853 1
+ O2 O 4 e 0.82 0.307 0.153 1
+ Cu1 Cu 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.3
+_exptl_crystal_density_diffrn            4.36
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.12
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1600055
+
+

@@ -1,0 +1,128 @@
+##############################################################################
+#                                                                            #
+# Gd-P             # GdP5                                          #  300123 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_300123
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      300123
+
+# Entry summary
+
+_chemical_formula_structural             'Gd P~5~'
+_chemical_formula_sum                    'Gd P5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            NdP~5~,mP12,11
+_chemical_formula_weight                 312.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Zur Chemie und Strukturchemie der Phosphide und Polyphosphide. 15 Gadoliniumpentaphosphid GdP~5~
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1976
+_journal_volume                          422
+_journal_page_first                      226
+_journal_page_last                       230
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Menge G.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Von Schnering H.G.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.928
+_cell_length_b                           9.446
+_cell_length_c                           5.37
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.58
+_cell_angle_gamma                        90
+_cell_volume                             243.97
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ P
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P(1) P 4 f 0.1176 0.5912 0.4565 1
+ P(2) P 4 f 0.2132 0.5308 0.0971 1
+ P(3) P 2 e 0.2195 0.25 0.6011 1
+ Gd Gd 2 e 0.4904 0.25 0.149 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.25
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 608
+_refine_ls_R_factor_gt                   0.039
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 300123
+
+

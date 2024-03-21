@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Cu-F-Sb-Xe       # CuSb2Xe2F16                                   # 1123905 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1123905
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1123905
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Sb~2~ Xe~2~ F~16~'
+_chemical_formula_sum                    'Cu F16 Sb2 Xe2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuSb~2~Xe~2~F~16~,mP42,14
+_chemical_formula_weight                 873.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, Raman spectra and crystal structures of [Cu(XeF~2~)~n~](SbF~6~)~2~ (n= 2, 4)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2008
+_journal_volume                          47
+_journal_page_first                      4209
+_journal_page_last                       4214
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mazej Z.'
+;
+Ljubljana Edvard Kardelj University
+Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+'Goreshnik E.A.'
+;
+Ljubljana Edvard Kardelj University
+Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.5828
+_cell_length_b                           14.741
+_cell_length_c                           9.118
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.982
+_cell_angle_gamma                        90
+_cell_volume                             750.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Sb
+ F
+ Xe
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sb1 Sb 4 e 0.01026 0.0821 0.24862 1
+ F13 F 4 e 0.0173 0.4564 0.2405 1
+ F15 F 4 e 0.0266 0.2057 0.2204 1
+ F16 F 4 e 0.1728 0.5973 0.0871 1
+ F12 F 4 e 0.1901 0.0674 0.0763 1
+ F14 F 4 e 0.2961 0.0795 0.3584 1
+ F2 F 4 e 0.4731 0.25 0.0023 1
+ Xe1 Xe 4 e 0.49792 0.33173 0.16379 1
+ F1 F 4 e 0.5286 0.4186 0.3459 1
+ F11 F 4 e 0.7275 0.0825 0.1263 1
+ Cu1 Cu 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.87
+_cell_measurement_temperature            200
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              200
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    6677
+_diffrn_reflns_theta_min                 2.63
+_diffrn_reflns_theta_max                 28.95
+_exptl_absorpt_coefficient_mu            9.577
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             98
+_refine_ls_number_reflns                 1650
+_refine_ls_R_factor_gt                   0.0473
+_refine_ls_wR_factor_gt                  0.1192
+
+# End of data set 1123905
+
+

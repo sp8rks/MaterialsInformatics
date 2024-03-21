@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Cu-F-H-O-P       # Cu[PO3F][H2O]2                                # 1707288 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1707288
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1707288
+
+# Entry summary
+
+_chemical_formula_structural             'Cu [P O~3~ F] [H~2~ O]~2~'
+_chemical_formula_sum                    'Cu F H4 O5 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu[PO~3~F][H~2~O]~2~,mP32,14
+_chemical_formula_weight                 197.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Salts of halogenophosphoric acids. XVII. Preparation and crystal structure of copper(II) monofluorophosphate dihydrate CuPO~3~F.2H~2~O
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1991
+_journal_volume                          600
+_journal_page_first                      231
+_journal_page_last                       238
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zeibig M.'
+;
+German Academy of Sciences
+Institut f\"ur Angewandte Chemie
+Berlin
+Germany
+;
+'Wallis B.'
+;
+German Academy of Sciences
+Institut f\"ur Angewandte Chemie
+Berlin
+Germany
+;
+'M\"owius F.'
+;
+German Academy of Sciences
+Institut f\"ur Angewandte Chemie
+Berlin
+Germany
+;
+'Meisel M.'
+;
+German Academy of Sciences
+Institut f\"ur Angewandte Chemie
+Berlin
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.6144
+_cell_length_b                           7.8097
+_cell_length_c                           9.2102
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.937
+_cell_angle_gamma                        90
+_cell_volume                             504.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ Cu
+ F
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P P 4 e 0.0381 0.0004 0.3136 1
+ O1 O 4 e 0.0633 0.0115 0.157 1
+ O2 O 4 e 0.0778 0.1689 0.4008 1
+ Cu Cu 4 e 0.1015 0.8121 0.046 1
+ F F 4 e 0.1806 0.4675 0.2332 1
+ O4 O 4 e 0.4377 0.2174 0.0817 1
+ O5 O 4 e 0.6232 0.3798 0.3895 1
+ O3 O 4 e 0.8545 0.3525 0.09 1
+ H42 H 4 e 0.342 0.26 0.0345 1
+ H41 H 4 e 0.4972 0.2768 0.1736 1
+ H51 H 4 e 0.5702 0.3396 0.459 1
+ H52 H 4 e 0.5965 0.4957 0.3973 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.58
+_exptl_crystal_density_diffrn            2.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1448
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 23
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 631
+_refine_ls_R_factor_gt                   0.03
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1707288
+
+

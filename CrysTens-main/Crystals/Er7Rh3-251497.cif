@@ -1,0 +1,173 @@
+##############################################################################
+#                                                                            #
+# Er-Rh            # Er7Rh3                                        #  251497 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_251497
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      251497
+
+# Entry summary
+
+_chemical_formula_structural             'Er~7~ Rh~3~'
+_chemical_formula_sum                    'Er7 Rh3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Th~7~Fe~3~,hP20,186
+_chemical_formula_weight                 1479.5
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structures of some Ln~3~Rh, Ln~7~Rh~3~ and LnRh~3~ phases'           
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1972
+_journal_volume                          26
+_journal_page_first                      199
+_journal_page_last                       206
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Raman A.'
+;
+Louisiana Baton Rouge University (and Agricultural and Mechanical College)
+Department of Engineering
+Baton Rouge
+U.S.A. Louisiana
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.643
+_cell_length_b                           9.643
+_cell_length_c                           6.07
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             488.81
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Rh
+ Er
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Rh Rh 6 c 0.188 0.812 0.239 1
+ Er3 Er 6 c 0.539 0.461 -0.012 1
+ Er2 Er 6 c 0.875 0.125 0.289 1
+ Er1 Er 2 b 0.333333 0.666667 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            10.05
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier-de Wolff film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 1 0.2455 2
+ 2 1 0 0.5966 7
+ 0 0 2 0.6431 1
+ 1 0 2 0.7302 8
+ 2 1 1 0.76 9
+ 3 0 0 0.7672 7
+ 1 1 2 0.901 3
+ 3 0 1 0.929 8
+ 2 0 2 0.986 8
+ 2 2 0 1.0225 8
+ 2 1 2 1.242 7
+ 3 1 1 1.27 7
+ 4 0 0 1.3616 1
+ 4 0 1 1.525 3
+ 3 2 1 1.7847 7
+ 4 1 0 1.792 7
+ 4 1 1 1.954 7
+ 4 0 2 2.01 1
+ 2 1 3 2.0505 2
+ 3 0 3 2.2204 8
+ 3 2 2 2.265 8
+ 5 0 1 2.297 8
+ 4 1 2 2.4393 1
+ 4 2 1 2.5578 1
+ 0 0 4 2.5805 3
+ 5 0 2 2.7808 2
+ 5 1 1 2.8168 2
+ 6 0 0 3.0722 1
+ 6 0 1 3.241 2
+ 5 1 2 3.2876 1
+ 4 3 1 3.323 2
+ 5 2 1 3.4897 2
+ 2 2 4 3.6101 2
+ 4 3 2 3.8104 1
+
+# End of data set 251497
+
+

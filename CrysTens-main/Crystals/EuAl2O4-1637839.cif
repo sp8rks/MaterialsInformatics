@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# Al-Eu-O          # EuAl2O4                                       # 1637839 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1637839
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1637839
+
+# Entry summary
+
+_chemical_formula_structural             'Eu Al~2~ O~4~'
+_chemical_formula_sum                    'Al2 Eu O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            SrAl~2~O~4~,mP28,4
+_chemical_formula_weight                 269.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures and properties of europium aluminum oxynitride Eu~2~AlO~3.75~N~0.1~ and europium aluminum oxide EuAl~2~O~4~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2013
+_journal_volume                          52
+_journal_page_first                      12972
+_journal_page_last                       12979
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tezuka K.'
+;
+Utsunomiya Tochigi Teikyo University
+Department of Material and Environmental Chemistry
+Utsunomiya / Tochigi
+Japan
+;
+'Tokuhara Y.'
+;
+Utsunomiya Tochigi Teikyo University
+Department of Material and Environmental Chemistry
+Utsunomiya / Tochigi
+Japan
+;
+'Wakeshima M.'
+;
+Sapporo Hokkaido University
+Graduate School of Science
+Sapporo / Hokkaido
+Japan
+;
+'Shan Y.J.'
+;
+Utsunomiya Tochigi Teikyo University
+Department of Material and Environmental Chemistry
+Utsunomiya / Tochigi
+Japan
+;
+'Imoto H.'
+;
+Utsunomiya Tochigi Teikyo University
+Department of Material and Environmental Chemistry
+Utsunomiya / Tochigi
+Japan
+;
+'Hinatsu Y.'
+;
+Sapporo Hokkaido University
+Graduate School of Science
+Sapporo / Hokkaido
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.1564
+_cell_length_b                           8.8239
+_cell_length_c                           8.4448
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.185
+_cell_angle_gamma                        90
+_cell_volume                             383.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Al
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 2 a 0.072 0.21 0.23 1
+ O2 O 2 a 0.099 0.859 0.238 1
+ O8 O 2 a 0.135 0.402 0.492 1
+ O3 O 2 a 0.156 0.527 0.1761 1
+ Al1 Al 2 a 0.209 0.3428 0.6935 1
+ Al2 Al 2 a 0.238 0.3567 0.3014 1
+ Eu1 Eu 2 a 0.2483 0.025 0.0074 1
+ Al4 Al 2 a 0.298 0.6906 0.1837 1
+ Eu2 Eu 2 a 0.2995 0.0178 0.4733 1
+ O6 O 2 a 0.391 0.19 0.717 1
+ O5 O 2 a 0.564 0.319 0.33 1
+ O4 O 2 a 0.621 0.0 0.2367 1
+ O7 O 2 a 0.626 0.246 0.011 1
+ Al3 Al 2 a 0.735 0.1826 0.2034 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.67
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku D/MAX-2200'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, crystal chemical considerations'        
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.0645
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1637839
+
+

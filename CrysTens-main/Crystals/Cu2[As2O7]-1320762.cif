@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# As-Cu-O          # Cu2[As2O7] ht                                 # 1320762 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1320762
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1320762
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ [As~2~ O~7~]'
+_chemical_formula_sum                    'As2 Cu2 O7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sc~2~[Si~2~O~7~],mS22,12
+_chemical_formula_weight                 388.9
+
+# Bibliographic data
+
+_publ_section_title
+'The Reversible \a -> \b Phase Transition of Cu~2~As~2~O~7~'                  
+_journal_coden_ASTM                      CGDEFU
+_journal_name_full                       'Cryst. Growth Des.'
+_journal_year                            2004
+_journal_volume                          4
+_journal_page_first                      1229
+_journal_page_last                       1235
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Weil M.'
+;
+Vienna Technical University
+Institut f\"ur Chemische Technologie und Analytik
+Vienna
+Austria
+;
+'Lengauer C.L.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+'F\"uglein E.'
+;
+Netzsch-Ger\"atebau GmbH
+Selb
+Germany
+;
+'Baran E.J.'
+;
+La Plata National University
+Facultad de Ciencias Exactas
+La Plata
+Argentina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.0987
+_cell_length_b                           8.2777
+_cell_length_c                           4.8666
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.206
+_cell_angle_gamma                        90
+_cell_volume                             268.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ As
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.225 0.165 0.197 1
+ As As 4 i 0.204 0 0.405 1
+ O2 O 4 i 0.603 0 0.262 1
+ Cu Cu 4 g 0 0.314 0 1
+ O1 O 2 c 0 0 0.5 1
+
+
+_exptl_crystal_colour                    'green dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.81
+_cell_measurement_temperature            673
+_cell_measurement_radiation              X-rays
+_cell_measurement_wavelength             1.54056
+_pd_proc_wavelength                      1.54056
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              673
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW3050'
+_diffrn_radiation_type                   X-rays
+_diffrn_radiation_wavelength             1.54056
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            23.59
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.1410
+_pd_proc_ls_proof_wR_factor              0.1844
+_refine_ls_R_I_factor                    0.1056
+
+# End of data set 1320762
+
+

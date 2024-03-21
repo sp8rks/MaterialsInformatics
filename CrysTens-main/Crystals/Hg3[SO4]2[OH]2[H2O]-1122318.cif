@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# H-Hg-O-S         # Hg3[SO4]2[OH]2[H2O]                           # 1122318 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1122318
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1122318
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~3~ [S O~4~]~2~ [O H]~2~ [H~2~ O]'
+_chemical_formula_sum                    'H4 Hg3 O11 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Hg~3~[SO~4~]~2~[OH]~2~[H~2~O],mS64,15                                         
+_chemical_formula_weight                 845.9
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of Hg(OH)~2~.2HgSO~4~.H~2~O'                           
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1974
+_journal_volume                          28
+_journal_page_first                      169
+_journal_page_last                       174
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bj\"ornlund G.'
+;
+Lund University
+Inorganic Chemistry 1
+Lund
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.152
+_cell_length_b                           8.919
+_cell_length_c                           14.488
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.94
+_cell_angle_gamma                        90
+_cell_volume                             912.94
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ Hg
+ OH
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 8 f 0.0809 0.1684 0.0361 1
+ O2 O 8 f 0.1236 0.0037 0.1689 1
+ S S 8 f 0.2167 0.0923 0.105 1
+ Hg2 Hg 8 f 0.2521 0.43488 0.14825 1
+ O5 OH 8 f 0.281 0.1639 0.3647 1
+ O1 O 8 f 0.3421 0.2109 0.1619 1
+ O3 O 8 f 0.349 -0.0019 0.5611 1
+ O6 OH2 4 e 0 0.3354 0.25 1
+ Hg1 Hg 4 d 0.25 0.25 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              6.18
+_exptl_crystal_density_diffrn            6.15
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            51.8
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 658
+_refine_ls_R_factor_gt                   0.032
+_refine_ls_wR_factor_gt                  0.041
+
+# End of data set 1122318
+
+

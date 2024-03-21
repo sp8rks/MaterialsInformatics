@@ -1,0 +1,181 @@
+##############################################################################
+#                                                                            #
+# H-Nb-O-Si        # HNbSi4O11[H2O]2                               # 1615810 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1615810
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1615810
+
+# Entry summary
+
+_chemical_formula_structural             'H Nb Si~4~ O~11~ [H~2~ O]~2~'
+_chemical_formula_sum                    'H4 Nb O13 Si4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HNbSi~4~O~11~[H~2~O]~2~,mP36,11
+_chemical_formula_weight                 418.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Novel Silicate Anion: Si~8~O~22~^12-^. Hydrothermal Synthesis and X-ray Powder Structure of Three New Niobium Silicates
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2001
+_journal_volume                          40
+_journal_page_first                      4368
+_journal_page_last                       4373
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Salvado M.A.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica y Organica e Inorganica
+Oviedo
+Spain
+;
+'Pertierra P.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica y Organica e Inorganica
+Oviedo
+Spain
+;
+'Garcia Granda S.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica y Organica e Inorganica
+Oviedo
+Spain
+;
+'Khainakov S.A.'
+;
+Oviedo University
+Departamento de Quimica Organica e Inorganica
+Oviedo
+Spain
+;
+'Garcia J.R.'
+;
+Oviedo University
+Departamento de Quimica Organica e Inorganica
+Oviedo
+Spain
+;
+'Bortun A.I.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Clearfield A.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.3639
+_cell_length_b                           9.0086
+_cell_length_c                           9.6355
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.293
+_cell_angle_gamma                        90
+_cell_volume                             610.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Si
+ Nb
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O8 O 4 f 0.049 0.595 0.302 1
+ O7 O 4 f 0.173 0.105 0.175 1
+ Si3 Si 4 f 0.2281 0.5045 0.3117 1
+ O1 O 4 f 0.267 0.093 0.458 1
+ O4 O 4 f 0.41 0.606 0.325 1
+ Si2 Si 2 e 0.064 0.25 0.758 1
+ Si1 Si 2 e 0.072 0.25 0.0845 1
+ O6 O 2 e 0.133 0.25 0.929 1
+ O2 O 2 e 0.246 0.25 0.703 1
+ Nb Nb 2 e 0.4109 0.25 0.5867 1
+ O3 OH2 2 e 0.565 0.25 0.422 1
+ O5 O 2 e 0.859 0.25 0.061 1
+ O9 OH2 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.28
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Philips
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5.5
+_diffrn_reflns_theta_max                 55
+_pd_proc_2theta_range_min                11
+_pd_proc_2theta_range_max                110
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             54
+_refine_ls_number_reflns                 1644
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.134
+_refine_ls_R_I_factor                    0.110
+
+# End of data set 1615810
+
+

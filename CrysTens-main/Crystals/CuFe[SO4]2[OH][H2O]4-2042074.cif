@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Cu-Fe-H-O-S      # CuFe[SO4]2[OH][H2O]4                          # 2042074 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2042074
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2042074
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Fe [S O~4~]~2~ [O H] [H~2~ O]~4~'
+_chemical_formula_sum                    'Cu Fe H6 O13 S2'
+_chemical_name_mineral                   guildite
+_chemical_compound_source
+'U.S.A. Arizona, Jerome, United Verde mine'                                   
+_chemical_name_structure_type
+CuFe[SO~4~]~2~[OH][H~2~O]~4~,mP34,11                                          
+_chemical_formula_weight                 400.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Guildite, a layer structure with a ferric hydroxy-sulphate chain and its optical absorption spectra
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            1978
+_journal_volume                          63
+_journal_page_first                      478
+_journal_page_last                       483
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wan C.L.'
+;
+Washington Seattle University
+Department of Geological Sciences
+Seattle
+U.S.A. Washington
+;
+'Ghose S.'
+;
+Washington Seattle University
+Department of Geological Sciences
+Seattle
+U.S.A. Washington
+;
+'Rossman G.R.'
+;
+California Pasadena Institute of Technology
+Division of Geological and Planetary Sciences
+Pasadena
+U.S.A. California
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.263
+_cell_length_b                           7.134
+_cell_length_c                           9.786
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.28
+_cell_angle_gamma                        90
+_cell_volume                             489.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Cu
+ S
+ OH2
+ Fe
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O9 O 4 f 0.1227 0.5234 0.3502 1
+ O2 O 4 f 0.2612 0.0812 0.0489 1
+ O4 O 4 f 0.6097 0.5798 0.2056 1
+ O1 O 2 e 0.0163 0.25 0.1172 1
+ O3 O 2 e 0.0223 0.25 0.8727 1
+ Cu1 Cu 2 e 0.1224 0.25 0.3497 1
+ S1 S 2 e 0.1362 0.25 0.018 1
+ O5 O 2 e 0.2028 0.25 0.5967 1
+ S2 S 2 e 0.3828 0.25 0.7056 1
+ O10 O 2 e 0.4039 0.25 0.3549 1
+ O6 O 2 e 0.5433 0.25 0.6436 1
+ O7 O 2 e 0.6148 0.25 0.0487 1
+ O8 OH2 2 e 0.8548 0.25 0.3731 1
+ Fe1 Fe 2 b 0.5 0 0 1
+ H2 H 4 f 0.057 0.561 0.262 1
+ H3 H 2 e 0.52 0.25 0.445 1
+ H1 H 2 e 0.729 0.25 0.035 1
+
+
+_exptl_crystal_colour                    'yellow honey'
+_exptl_crystal_density_meas              2.695(10)
+_exptl_crystal_density_diffrn            2.72
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    942
+_exptl_absorpt_coefficient_mu            4.406
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 822
+_refine_ls_R_factor_gt                   0.056
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 2042074
+
+

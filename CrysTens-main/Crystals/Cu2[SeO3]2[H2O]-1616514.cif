@@ -1,0 +1,132 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-Se        # Cu2[SeO3]2[H2O]                               # 1616514 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1616514
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1616514
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ [Se O~3~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'Cu2 H2 O7 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~[SeO~3~]~2~[H~2~O],mP44,14
+_chemical_formula_weight                 399.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+New copper selenites. Part B: Cu~2~(SeO~3~)~2~.H~2~O and Tl^3+^~2~Cu~3~(SeO~3~)~6~
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1999
+_journal_volume                          214
+_journal_page_first                      305
+_journal_page_last                       308
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Giester G.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.409
+_cell_length_b                           7.508
+_cell_length_c                           10.511
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.77
+_cell_angle_gamma                        90
+_cell_volume                             616.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0285 0.4805 0.37896 1
+ Se1 Se 4 e 0.05945 0.9032 0.28538 1
+ Cu1 Cu 4 e 0.07531 0.1998 0.02528 1
+ O3 O 4 e 0.1229 0.3726 0.1774 1
+ O1 O 4 e 0.1283 0.0977 0.3714 1
+ O7 O 4 e 0.163 0.7007 0.0609 1
+ O6 O 4 e 0.3235 0.1801 0.0539 1
+ Cu2 Cu 4 e 0.34096 0.21106 0.38901 1
+ O4 O 4 e 0.3992 0.0218 0.2885 1
+ Se2 Se 4 e 0.48745 0.06321 0.17149 1
+ O5 O 4 e 0.5373 0.3571 0.4016 1
+ H2 H 4 e 0.182 0.611 0.099 1
+ H1 H 4 e 0.254 0.738 0.075 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.30
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            18.7
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             109
+_refine_ls_number_reflns                 1446
+_refine_ls_R_factor_gt                   0.019
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1616514
+
+

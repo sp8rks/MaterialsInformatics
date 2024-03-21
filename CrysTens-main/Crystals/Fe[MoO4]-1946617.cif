@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# Fe-Mo-O          # Fe[MoO4] ht                                   # 1946617 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1946617
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1946617
+
+# Entry summary
+
+_chemical_formula_structural             'Fe [Mo O~4~]'
+_chemical_formula_sum                    'Fe Mo O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Mn[MoO~4~],mS48,12
+_chemical_formula_weight                 215.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Understanding the relationships between structural features and optical/magnetic properties when designing Fe~1-x~Mg~x~MoO~4~ as piezochromic compounds
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2015
+_journal_volume                          54
+_journal_page_first                      2176
+_journal_page_last                       2184
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Blanco Gutierrez V.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Demourgues A.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Toulemonde O.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Wattiaux A.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Nguyen O.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Gaudon M.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.2949
+_cell_length_b                           9.3953
+_cell_length_c                           7.0731
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.261
+_cell_angle_gamma                        90
+_cell_volume                             656.8
+_cell_formula_units_Z                    8
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Fe
+ Mo
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 j 0.0416 0.1545 0.3096 1
+ O2 O 8 j 0.1355 0.3496 0.0302 1
+ O3 O 8 j 0.3631 0.1452 0.3917 1
+ O4 O 4 i 0.1413 0 0.0365 1
+ O5 O 4 i 0.2029 0 0.6534 1
+ Fe1 Fe 4 i 0.20468 0 0.3613 1
+ Mo1 Mo 4 i 0.72931 0 0.09501 1
+ Mo2 Mo 4 h 0 0.2516 0.5 1
+ Fe2 Fe 4 g 0 0.18299 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.36
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1946617
+
+

@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# Cl-Hg-In-P       # Hg6In2P3Cl9                                   # 1933137 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1933137
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1933137
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~6~ In~2~ P~3~ Cl~9~'
+_chemical_formula_sum                    'Cl9 Hg6 In2 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg~6~In~2~P~3~Cl~9~,mP40,4
+_chemical_formula_weight                 1845.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Inorganic supramolecular compounds with 3-D chiral frameworks show potential as both mid-IR second-order nonlinear optical and piezoelectric materials
+;
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            2011
+_journal_volume                          133
+_journal_page_first                      3410
+_journal_page_last                       3418
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jiang X.M.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhang M.J.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zeng H.Y.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Guo G.C.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Huang J.S.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.3014
+_cell_length_b                           10.6935
+_cell_length_c                           10.837
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.249
+_cell_angle_gamma                        90
+_cell_volume                             1070.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Hg
+ Cl
+ In
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hg3 Hg 2 a 0.01125 0.07389 0.82602 1
+ Cl5 Cl 2 a 0.0143 0.01161 0.1379 1
+ Cl3 Cl 2 a 0.0337 0.23451 0.372 1
+ Cl4 Cl 2 a 0.1358 0.46371 0.6503 1
+ In1 In 2 a 0.1423 0.00925 0.4124 1
+ Cl9 Cl 2 a 0.1912 0.79111 0.4041 1
+ Cl8 Cl 2 a 0.1983 0.03111 0.6513 1
+ Hg2 Hg 2 a 0.22047 0.32442 0.12515 1
+ P3 P 2 a 0.2248 0.48481 0.2805 1
+ Hg1 Hg 2 a 0.32883 0.40296 0.50801 1
+ Hg5 Hg 2 a 0.35533 0.24545 0.85263 1
+ Cl1 Cl 2 a 0.3651 0.09881 0.4146 1
+ Hg4 Hg 2 a 0.36997 0.65951 0.27612 1
+ Hg6 Hg 2 a 0.37998 0.0 0.12914 1
+ Cl2 Cl 2 a 0.3823 0.51311 0.0154 1
+ P1 P 2 a 0.4812 0.32931 0.7327 1
+ Cl7 Cl 2 a 0.6199 0.23381 0.2132 1
+ P2 P 2 a 0.7629 0.66391 0.0188 1
+ In2 In 2 a 0.8064 0.14173 0.1693 1
+ Cl6 Cl 2 a 0.8473 0.29001 0.0185 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.72
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Saturn 70'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    9374
+_diffrn_reflns_theta_min                 2.1
+_diffrn_reflns_theta_max                 27.42
+_exptl_absorpt_coefficient_mu            46.287
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             183
+_refine_ls_number_reflns                 4116
+_refine_ls_R_factor_gt                   0.0592
+_refine_ls_wR_factor_gt                  0.1161
+
+# End of data set 1933137
+
+

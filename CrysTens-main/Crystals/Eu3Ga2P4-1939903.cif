@@ -1,0 +1,181 @@
+##############################################################################
+#                                                                            #
+# Eu-Ga-P          # Eu3Ga2P4                                      # 1939903 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1939903
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1939903
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~3~ Ga~2~ P~4~'
+_chemical_formula_sum                    'Eu3 Ga2 P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~3~Al~2~As~4~,mS36,15
+_chemical_formula_weight                 719.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Phase characterization, thermal stability, high-temperature transport properties, and electronic structure of rare-earth Zintl phosphides Eu~3~M~2~P~4~ (M= Ga, In)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2013
+_journal_volume                          52
+_journal_page_first                      3787
+_journal_page_last                       3794
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yi T.'
+;
+California Davis University
+Department of Chemistry
+Davis
+U.S.A. California
+;
+'Zhang G.'
+;
+California Davis University
+Department of Applied Science
+Davis
+U.S.A. California
+;
+'Tsujii N.'
+;
+California Davis University
+Department of Chemistry
+Davis
+U.S.A. California
+;
+'Fleurial J.P.'
+;
+California Pasadena Institute of Technology
+Jet Propulsion Laboratory
+Pasadena
+U.S.A. California
+;
+'Zevalkink A.'
+;
+California Pasadena Institute of Technology
+Department of Materials Science
+Pasadena
+U.S.A. California
+;
+'Snyder G.J.'
+;
+California Pasadena Institute of Technology
+Department of Materials Science
+Pasadena
+U.S.A. California
+;
+'Gronbech Jensen N.'
+;
+California Davis University
+Department of Applied Science
+Davis
+U.S.A. California
+;
+'Kauzlarich S.M.'
+;
+California Davis University
+Department of Chemistry
+Davis
+U.S.A. California
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.0111
+_cell_length_b                           10.1157
+_cell_length_c                           6.5767
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.066
+_cell_angle_gamma                        90
+_cell_volume                             865.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ P
+ Ga
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P1 P 8 f 0.1117 0.1706 0.4767 1
+ Ga1 Ga 8 f 0.2963 0.1242 0.411 1
+ P2 P 8 f 0.3456 0.0878 0.062 1
+ Eu1 Eu 8 f 0.379 0.3718 0.0285 1
+ Eu2 Eu 4 e 0 0.4011 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.52
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1939903
+
+

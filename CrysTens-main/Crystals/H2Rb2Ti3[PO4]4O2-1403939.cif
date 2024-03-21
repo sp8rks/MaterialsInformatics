@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# H-O-P-Rb-Ti      # H2Rb2Ti3[PO4]4O2                              # 1403939 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1403939
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1403939
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Rb~2~ Ti~3~ [P O~4~]~4~ O~2~'
+_chemical_formula_sum                    'H2 O18 P4 Rb2 Ti3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~2~[NH~4~]~2~Ti~3~[PO~4~]~4~O~2~,mP54,4                                      
+_chemical_formula_weight                 728.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Two new noncentrosymmetric rubidium titanium phosphate phases: Rb~2~Ti~3~O~2~(PO~4~)~2~(HPO~4~)~2~ and Rb~3~Ti~3~O(P~2~O~7~)(PO~4~)~3~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1994
+_journal_volume                          111
+_journal_page_first                      257
+_journal_page_last                       266
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Harrison W.T.A.'
+;
+Texas Houston University
+Department of Chemistry
+Houston
+U.S.A. Texas
+;
+'Gier T.E.'
+;
+California Santa Barbara University
+Department of Chemistry
+Santa Barbara
+U.S.A. California
+;
+'Calabrese J.C.'
+;
+Du Pont de Nemours and Co.
+Experimental Departement
+Wilmington
+U.S.A. Delaware
+;
+'Stucky G.D.'
+;
+California Santa Barbara University
+Department of Chemistry
+Santa Barbara
+U.S.A. California
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.1851
+_cell_length_b                           16.77
+_cell_length_c                           8.4939
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.94
+_cell_angle_gamma                        90
+_cell_volume                             738.48
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ OH
+ P
+ O
+ Rb
+ Ti
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O17 OH 2 a 0.062 0.2675 0.762 1
+ P1 P 2 a 0.0474 0.309 0.9235 1
+ O1 O 2 a 0.058 0.4435 0.485 1
+ Rb1 Rb 2 a 0.0832 0.5928 0.1034 1
+ O7 O 2 a 0.064 0.2445 0.054 1
+ P3 P 2 a 0.0727 0.404 0.3247 1
+ O6 O 2 a 0.033 0.6546 0.684 1
+ O10 O 2 a 0.092 0.313 0.351 1
+ Ti1 Ti 2 a 0.0564 0.5494 0.5872 1
+ O5 O 2 a 0.17 0.0098 0.255 1
+ O13 O 2 a 0.203 0.8544 0.069 1
+ Ti2 Ti 2 a 0.2635 0.2251 0.2436 1
+ O2 O 2 a 0.229 0.0761 0.549 1
+ O12 O 2 a 0.274 0.3666 0.944 1
+ O3 O 2 a 0.286 0.5919 0.43 1
+ O14 O 2 a 0.309 0.435 0.241 1
+ O18 OH 2 a 0.432 0.1758 0.732 1
+ P4 P 2 a 0.4201 0.0401 0.174 1
+ O8 O 2 a 0.409 0.1297 0.145 1
+ O9 O 2 a 0.45 0.1978 0.442 1
+ O16 O 2 a 0.439 0.0 0.012 1
+ P2 P 2 a 0.451 0.136 0.5728 1
+ O11 O 2 a 0.521 0.2933 0.18 1
+ Ti3 Ti 2 a 0.5535 0.3931 0.0878 1
+ Rb2 Rb 2 a 0.5779 0.3542 0.6055 1
+ O4 O 2 a 0.654 0.0173 0.28 1
+ O15 O 2 a 0.834 0.4233 0.227 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.28
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            26
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Huber
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3020
+_exptl_absorpt_coefficient_mu            8.47
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             245
+_refine_ls_number_reflns                 2331
+_refine_ls_R_factor_gt                   0.0424
+_refine_ls_wR_factor_gt                  0.0440
+
+# End of data set 1403939
+
+

@@ -1,0 +1,195 @@
+##############################################################################
+#                                                                            #
+# Dy-Mn-O          # DyMn2O5                                       # 1530903 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1530903
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1530903
+
+# Entry summary
+
+_chemical_formula_structural             'Dy Mn~2~ O~5~'
+_chemical_formula_sum                    'Dy Mn2 O5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            DyMn~2~O~5~,mP32,3
+_chemical_formula_weight                 352.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Evidence for room temperature electric polarization in RMn~2~O~5~ multiferroics
+;
+_journal_coden_ASTM                      PRLTAO
+_journal_name_full                       'Phys. Rev. Lett.'
+_journal_year                            2015
+_journal_volume                          114
+_journal_page_first                      1
+_journal_page_last                       5
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bal\'edent V.'
+;
+Orsay Paris Sud XI University
+Laboratoire de Physique des Solides
+Orsay
+France
+;
+'Chattopadhyay S.'
+;
+Orsay Paris Sud XI University
+Laboratoire de Physique des Solides
+Orsay
+France
+;
+'Fertey P.'
+;
+Synchrotron SOLEIL
+Gif-sur-Yvette
+France
+;
+'Lepetit M.B.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Insitut Louis N\'eel
+Grenoble
+France
+;
+'Greenblatt M.'
+;
+Rutgers (New Jersey State) University
+Department of Chemistry and Chemical Biology
+New Brunswick-Piscataway
+U.S.A. New Jersey
+;
+'Wanklyn B.M.R.'
+;
+Oxford University
+Clarendon Laboratory
+Oxford
+United Kingdom
+;
+'Saouma F.O.'
+;
+Binghamton University of SUNY (New York State University)
+Department of Physics, Applied Physics and Astronomy
+Binghamton
+U.S.A. New York
+;
+'Jang J.I.'
+;
+Binghamton University of SUNY (New York State University)
+Department of Physics, Applied Physics and Astronomy
+Binghamton
+U.S.A. New York
+;
+'Foury Leylekian P.'
+;
+Orsay Paris Sud XI University
+Laboratoire de Physique des Solides
+Orsay
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.2931
+_cell_length_b                           5.6743
+_cell_length_c                           8.5025
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.
+_cell_angle_gamma                        90
+_cell_volume                             351.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   3
+_space_group_name_H-M_alt                'P 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+loop_
+ _atom_type_symbol
+ Mn
+ O
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Mn21 Mn 2 e 0.08806 0.77935 0.14976 1
+ O42 O 2 e 0.10265 0.5214 0.29394 1
+ O41 O 2 e 0.1059 0.0318 0.29342 1
+ Dy12 Dy 2 e 0.13883 0.27821 0.82848 1
+ O32 O 2 e 0.15623 0.7814 0.56192 1
+ O22 O 2 e 0.1623 0.2761 0.55665 1
+ O21 O 2 e 0.33647 0.2751 0.05325 1
+ O31 O 2 e 0.35368 0.7819 0.07374 1
+ Dy11 Dy 2 e 0.36117 0.27825 0.3284 1
+ Mn22 Mn 2 e 0.58832 0.77921 0.35009 1
+ O44 O 2 e 0.60055 0.032 0.21608 1
+ O43 O 2 e 0.60598 0.5208 0.20268 1
+ O11 O 1 d 0.5 0.0174 0.5 1
+ O12 O 1 d 0.5 0.5587 0.5 1
+ Mn11 Mn 1 c 0.5 0.02307 0 1
+ Mn12 Mn 1 c 0.5 0.53382 0 1
+ Mn14 Mn 1 b 0 0.02323 0.5 1
+ Mn13 Mn 1 b 0 0.53434 0.5 1
+ O14 O 1 a 0 0.0 0 1
+ O13 O 1 a 0 0.5416 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.65
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              300
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Saint-Aubin, SOLEIL Synchrotron Facility, CRISTAL'                   
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_reflns_number                    28763
+_diffrn_reflns_theta_min                 0.7
+_diffrn_reflns_theta_max                 20.7
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0193
+_refine_ls_wR_factor_gt                  0.0380
+
+# End of data set 1530903
+
+

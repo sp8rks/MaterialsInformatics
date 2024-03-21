@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# K-La-P-Se        # K2LaP2Se7                                     # 1110856 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1110856
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1110856
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ La P~2~ Se~7~'
+_chemical_formula_sum                    'K2 La P2 Se7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~GdP~2~Se~7~,mP48,14
+_chemical_formula_weight                 831.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Selenophosphate phase diagrams developed in conjuction with the synthesis of the new compounds K~2~La(P~2~Se~6~)~1/2~(PSe~4~), K~3~La(PSe~4~)~2~, K~4~La~0.67~(PSe~4~)~2~, K~9-x~La~1+x/3~(PSe~4~)~4~ (x= 0.5), and KEuPSe~4~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2001
+_journal_volume                          40
+_journal_page_first                      2875
+_journal_page_last                       2883
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Evenson C.R.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+'Dorhout P.K.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.4269
+_cell_length_b                           7.2054
+_cell_length_c                           21.895
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.786
+_cell_angle_gamma                        90
+_cell_volume                             1416.13
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ Se
+ K
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P2 P 4 e 0.0384 0.0097 0.4568 1
+ Se5 Se 4 e 0.0426 0.2591 0.0991 1
+ Se6 Se 4 e 0.0743 0.7511 0.0967 1
+ K2 K 4 e 0.156 0.0411 0.3135 1
+ K1 K 4 e 0.2485 0.5075 0.4909 1
+ Se4 Se 4 e 0.2065 0.4794 0.2592 1
+ Se1 Se 4 e 0.2785 0.0386 0.496 1
+ La1 La 4 e 0.3427 0.4726 0.1499 1
+ Se3 Se 4 e 0.4101 0.078 0.2192 1
+ Se2 Se 4 e 0.4793 0.2758 0.3955 1
+ Se7 Se 4 e 0.5787 0.2543 0.1068 1
+ P1 P 4 e 0.5752 0.0164 0.1685 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.90
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    8862
+_exptl_absorpt_coefficient_mu            21.775
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             110
+_refine_ls_number_reflns                 3365
+_refine_ls_R_factor_gt                   0.0429
+_refine_ls_wR_factor_gt                  0.0890
+
+# End of data set 1110856
+
+

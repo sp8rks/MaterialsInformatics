@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Br-Eu-H-O        # EuBr3[H2O]6                                   # 1323949 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1323949
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1323949
+
+# Entry summary
+
+_chemical_formula_structural             'Eu Br~3~ [H~2~ O]~6~'
+_chemical_formula_sum                    'Br3 Eu H12 O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            GdCl~3~[H~2~O]~6~,mP20,13
+_chemical_formula_weight                 499.8
+
+# Bibliographic data
+
+_publ_section_title
+'Hexaaquadibromidoeuropium(III) bromide, [EuBr~2~(H~2~O)~6~]Br'               
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2008
+_journal_volume                          64
+_journal_page_first                      i35
+_journal_page_last                       ?
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hoch C.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Simon A.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.1672
+_cell_length_b                           6.7538
+_cell_length_c                           12.5451
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.077
+_cell_angle_gamma                        90
+_cell_volume                             552.08
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Br
+ Eu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 g 0.1772 0.3097 0.0676 1
+ O2 O 4 g 0.2413 0.062 0.2757 1
+ Br1 Br 4 g 0.29387 0.15845 0.55331 1
+ O3 O 4 g 0.5566 0.4262 0.1476 1
+ Eu1 Eu 2 f 0.5 0.16454 0.25 1
+ Br2 Br 2 e 0 0.63151 0.25 1
+ H12 H 4 g 0.072 0.258 0.05 1
+ H11 H 4 g 0.148 0.664 0.494 1
+ H22 H 4 g 0.183 0.046 0.753 1
+ H21 H 4 g 0.253 0.098 0.342 1
+ H32 H 4 g 0.321 0.456 0.315 1
+ H31 H 4 g 0.482 0.526 0.124 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.01
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    10921
+_exptl_absorpt_coefficient_mu            16.52
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             72
+_refine_ls_number_reflns                 1397
+_refine_ls_R_factor_gt                   0.028
+_refine_ls_wR_factor_gt                  0.049
+
+# End of data set 1323949
+
+

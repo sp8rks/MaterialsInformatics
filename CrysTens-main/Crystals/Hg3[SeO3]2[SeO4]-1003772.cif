@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Hg-O-Se          # Hg3[SeO3]2[SeO4]                              # 1003772 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003772
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003772
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~3~ [Se O~3~]~2~ [Se O~4~]'
+_chemical_formula_sum                    'Hg3 O10 Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg~3~[SeO~3~]~2~[SeO~4~],mP32,4
+_chemical_formula_weight                 998.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hg~3~Se~3~O~10~, a mercury(II) compound with mixed-valence oxoselenium(IV/VI) anions
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2002
+_journal_volume                          58
+_journal_page_first                      i47
+_journal_page_last                       i49
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Weil M.'
+;
+Vienna Technical University
+Institut f\"ur Chemische Technologie und Analytik
+Vienna
+Austria
+;
+'Kolitsch U.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.3979
+_cell_length_b                           5.3327
+_cell_length_c                           11.1482
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.422
+_cell_angle_gamma                        90
+_cell_volume                             473.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Hg
+ O
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hg1 Hg 2 a 0.00338 0.24607 0.12945 1
+ Hg2 Hg 2 a 0.00612 0.25849 0.62586 1
+ O1 O 2 a 0.1017 0.1225 0.8322 1
+ O2 O 2 a 0.1144 0.4035 0.4812 1
+ O3 O 2 a 0.1562 0.0645 0.3169 1
+ O4 O 2 a 0.1604 0.4615 0.0134 1
+ O5 O 2 a 0.2287 0.0 0.0601 1
+ O6 O 2 a 0.2451 0.5261 0.3179 1
+ Se1 Se 2 a 0.26005 0.2244 0.96051 1
+ Se2 Se 2 a 0.26538 0.2862 0.42224 1
+ Hg3 Hg 2 a 0.37438 0.743 0.20835 1
+ O7 O 2 a 0.5236 0.0628 0.333 1
+ O8 O 2 a 0.5272 0.4252 0.166 1
+ Se3 Se 2 a 0.64667 0.2502 0.28524 1
+ O9 O 2 a 0.747 0.431 0.4004 1
+ O10 O 2 a 0.7704 0.0816 0.228 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.00
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    6813
+_exptl_absorpt_coefficient_mu            60.07
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             146
+_refine_ls_number_reflns                 2684
+_refine_ls_R_factor_gt                   0.027
+_refine_ls_wR_factor_gt                  0.060
+
+# End of data set 1003772
+
+

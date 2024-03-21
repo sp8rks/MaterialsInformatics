@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# Cu-S-Ta-Tl       # Cu3Tl3Ta2S8                                   # 1001958 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1001958
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1001958
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~3~ Tl~3~ Ta~2~ S~8~'
+_chemical_formula_sum                    'Cu3 S8 Ta2 Tl3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~3~Tl~3~Ta~2~S~8~,mS32,5
+_chemical_formula_weight                 1422.1
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of Tl~3~Cu~3~Ta~2~S~8~'                                    
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1997
+_journal_volume                          212
+_journal_page_first                      450
+_journal_page_last                       452
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kutoglu A.'
+;
+Marburg Lahn Philipp University
+Institut f\"ur Mineralogie, Petrologie und Kristallographie
+Marburg
+Germany
+;
+'Wacker K.'
+;
+Marburg Lahn Philipp University
+Institut f\"ur Mineralogie, Petrologie und Kristallographie
+Marburg
+Germany
+;
+'Buck P.'
+;
+Marburg Lahn Philipp University
+Institut f\"ur Mineralogie, Petrologie und Kristallographie
+Marburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           19.398
+_cell_length_b                           5.545
+_cell_length_c                           7.224
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.03
+_cell_angle_gamma                        90
+_cell_volume                             772.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ S
+ Ta
+ Tl
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S4 S 4 c 0.097 0.0424 0.4331 1
+ Ta Ta 4 c 0.132 0.2625 0.69036 1
+ Tl2 Tl 4 c 0.17904 0.4979 0.20788 1
+ S3 S 4 c 0.2813 0.0204 0.3673 1
+ S1 S 4 c 0.333 0.5198 0.0689 1
+ Cu2 Cu 4 c 0.3752 0.2731 0.3194 1
+ S2 S 4 c 0.4611 0.0081 0.24 1
+ Cu1 Cu 2 b 0 0.2673 0.5 1
+ Tl1 Tl 2 a 0 0.0 0 1
+
+
+_exptl_crystal_colour                    'yellow greenish'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.11
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          STOE
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3996
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            51.42
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1659
+_refine_ls_R_factor_gt                   0.0533
+_refine_ls_wR_factor_gt                  0.0598
+
+# End of data set 1001958
+
+

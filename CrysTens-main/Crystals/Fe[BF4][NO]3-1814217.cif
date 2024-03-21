@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# B-F-Fe-N-O       # Fe[BF4][NO]3                                  # 1814217 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814217
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814217
+
+# Entry summary
+
+_chemical_formula_structural             'Fe [B F~4~] [N O]~3~'
+_chemical_formula_sum                    'B F4 Fe N3 O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe[BF~4~][NO]~3~,mP48,14
+_chemical_formula_weight                 232.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Toward binary nitrosyls: Distinctly bent Fe-N-O linkages in base-stabilized Fe(NO)~3~^+^ complexes
+;
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            2003
+_journal_volume                          125
+_journal_page_first                      12935
+_journal_page_last                       12944
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hayton T.W.'
+;
+Vancouver British Columbia University
+Department of Chemistry
+Vancouver
+Canada
+;
+'McNeil W.S.'
+;
+Kelowna Okanagan University College
+Department of Chemistry
+Kelowna
+Canada
+;
+'Patrick B.O.'
+;
+Vancouver British Columbia University
+Department of Chemistry
+Vancouver
+Canada
+;
+'Legzdins P.'
+;
+Vancouver British Columbia University
+Department of Chemistry
+Vancouver
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.167
+_cell_length_b                           7.5255
+_cell_length_c                           12.8738
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.328
+_cell_angle_gamma                        90
+_cell_volume                             706.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ B
+ N
+ O
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 e 0.01372 0.3357 0.34152 1
+ F3 F 4 e 0.09201 0.54 0.20541 1
+ B1 B 4 e 0.1491 0.7202 0.2265 1
+ N2 N 4 e 0.1728 0.1853 0.1286 1
+ O2 O 4 e 0.184 0.176 0.2222 1
+ Fe1 Fe 4 e 0.23133 0.194 0.02554 1
+ F2 F 4 e 0.24472 0.7487 0.1777 1
+ N3 N 4 e 0.3408 0.3961 0.0538 1
+ N1 N 4 e 0.382 0.0235 0.0696 1
+ O1 O 4 e 0.4981 0.4233 0.3743 1
+ O3 O 4 e 0.5573 0.0122 0.3947 1
+ F4 F 4 e 0.74252 0.2578 0.14132 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.19
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku ADSC'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3.2
+_diffrn_reflns_theta_max                 27.8
+_exptl_absorpt_coefficient_mu            0.2186
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             109
+_refine_ls_number_reflns                 1556
+_refine_ls_R_factor_gt                   0.032
+_refine_ls_wR_factor_gt                  0.080
+
+# End of data set 1814217
+
+

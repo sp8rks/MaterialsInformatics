@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Dy-In-S          # Dy3In5S12                                     # 1829056 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1829056
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1829056
+
+# Entry summary
+
+_chemical_formula_structural             'Dy~3~ In~5~ S~12~'
+_chemical_formula_sum                    'Dy3 In5 S12'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Tb~3~In~5~S~12~,mP40,11
+_chemical_formula_weight                 1446.3
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and Properties of Ln~3~In~5~S~12~'                                 
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            2001
+_journal_volume                          37
+_journal_page_first                      119
+_journal_page_last                       121
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Aliev V.O.'
+;
+Baku Tusi State Pedagogical University
+Baku
+Azerbaijan
+;
+'Shirinov K.L.'
+;
+Baku Azerbaijan International University
+Baku
+Azerbaijan
+;
+'Aliev O.M.'
+;
+Baku Tusi State Pedagogical University
+Baku
+Azerbaijan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.97
+_cell_length_b                           3.89
+_cell_length_c                           21.23
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.
+_cell_angle_gamma                        90
+_cell_volume                             901
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ In
+ S
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ In1 In 2 e 0.03984 0.25 0.67118 1
+ S1 S 2 e 0.1092 0.25 0.3466 1
+ S2 S 2 e 0.1213 0.25 0.5597 1
+ In2 In 2 e 0.1533 0.25 0.0262 1
+ Dy1 Dy 2 e 0.2163 0.25 0.21583 1
+ S3 S 2 e 0.2977 0.25 0.8485 1
+ In3 In 2 e 0.33844 0.25 0.38816 1
+ S4 S 2 e 0.3768 0.25 0.0081 1
+ Dy2 Dy 2 e 0.41197 0.25 0.73356 1
+ S5 S 2 e 0.4657 0.25 0.1854 1
+ Dy3 Dy 2 e 0.52933 0.25 0.91099 1
+ S6 S 2 e 0.5621 0.25 0.3605 1
+ S7 S 2 e 0.6324 0.25 0.5358 1
+ S8 S 2 e 0.6618 0.25 0.709 1
+ In4 In 2 e 0.7424 0.25 0.44173 1
+ S9 S 2 e 0.7779 0.25 0.8861 1
+ S10 S 2 e 0.7928 0.25 0.2851 1
+ In5 In 2 e 0.85237 0.25 0.16872 1
+ S11 S 2 e 0.9227 0.25 0.055 1
+ S12 S 2 e 0.9835 0.25 0.7882 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.53
+_exptl_crystal_density_diffrn            5.33
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1829056
+
+

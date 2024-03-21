@@ -1,0 +1,132 @@
+##############################################################################
+#                                                                            #
+# Cu-F-H-O         # CuF2[H2O]2                                    # 1120002 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1120002
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1120002
+
+# Entry summary
+
+_chemical_formula_structural             'Cu F~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Cu F2 H4 O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoCl~2~[H~2~O]~2~,mS10,12
+_chemical_formula_weight                 137.6
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of copper fluoride dihydrate, CuF~2~.2H~2~O'               
+_journal_coden_ASTM                      JCPSA6
+_journal_name_full                       'J. Chem. Phys.'
+_journal_year                            1958
+_journal_volume                          29
+_journal_page_first                      925
+_journal_page_last                       930
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Geller S.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+'Bond W.L.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.708
+_cell_length_b                           7.397
+_cell_length_c                           3.301
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.426
+_cell_angle_gamma                        90
+_cell_volume                             154.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+ F ?
+ O ?
+ Cu2+ 2
+ H ?
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F F 4 i 0.222 0 0.533 1
+ O O 4 g 0 0.261 0 1
+ Cu Cu2+ 2 a 0 0 0 1
+ H H 8 j 0.107 0.34 0.18 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.93
+_exptl_crystal_density_diffrn            2.96
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'precession photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution
+'crystal chemical considerations, Fourier synthesis'                          
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.07
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1120002
+
+

@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-Te        # Cu3[TeO6][H2O]2                               # 1014017 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1014017
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1014017
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~3~ [Te O~6~] [H~2~ O]~2~'
+_chemical_formula_sum                    'Cu3 H4 O8 Te'
+_chemical_name_mineral                   jensenite
+_chemical_compound_source
+'(Canada, Geological Survey, National Mineral Collection)'                    
+_chemical_name_structure_type            Cu~3~[TeO~6~][H~2~O]~2~,mP48,14
+_chemical_formula_weight                 450.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Jensenite, a Cupric Tellurate Framework Structure With Two Coordinations of Cooper
+;
+_journal_coden_ASTM                      CAMIA6
+_journal_name_full                       'Can. Mineral.'
+_journal_year                            1996
+_journal_volume                          34
+_journal_page_first                      55
+_journal_page_last                       59
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Grice J.D.'
+;
+Canadian Museum of Nature
+Research Division
+Ottawa
+Canada
+;
+'Groat L.A.'
+;
+Vancouver British Columbia University
+Department of Geological Sciences
+Vancouver
+Canada
+;
+'Roberts A.C.'
+;
+Canada Geological Survey
+Ottawa
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.6
+_cell_length_b                           9.18
+_cell_length_c                           10.6199
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.966
+_cell_angle_gamma                        90
+_cell_volume                             628.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cu
+ Te
+ O
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu3 Cu 4 e 0.0078 0.4156 0.38 1
+ Te Te 4 e 0.0226 0.2564 0.1357 1
+ Cu2 Cu 4 e 0.0258 0.0771 0.3826 1
+ O1 O 4 e 0.123 0.743 0.259 1
+ O5 O 4 e 0.133 0.596 0.5 1
+ O3 O 4 e 0.147 0.428 0.266 1
+ O2 O 4 e 0.174 0.282 0.042 1
+ O4 O 4 e 0.18 0.603 0.003 1
+ O6 O 4 e 0.214 0.117 0.271 1
+ O8 OH2 4 e 0.506 0.038 0.2 1
+ Cu1 Cu 4 e 0.5138 0.1031 0.3791 1
+ O7 OH2 4 e 0.519 0.345 0.062 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.76
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet P3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    3458
+_exptl_absorpt_coefficient_mu            14.7
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 605
+_refine_ls_R_factor_gt                   0.033
+_refine_ls_wR_factor_gt                  0.025
+
+# End of data set 1014017
+
+

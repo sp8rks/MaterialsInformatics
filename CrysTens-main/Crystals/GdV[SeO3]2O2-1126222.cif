@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Gd-O-Se-V        # GdV[SeO3]2O2                                  # 1126222 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1126222
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1126222
+
+# Entry summary
+
+_chemical_formula_structural             'Gd V [Se O~3~]~2~ O~2~'
+_chemical_formula_sum                    'Gd O8 Se2 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            EuV[SeO~3~]~2~O~2~,mP48,11
+_chemical_formula_weight                 494.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Explorations of new quaternary phases in the Ln(III)-V(V)(d^0^)-Se(IV)-O (Ln= Nd, Eu, Gd, Tb) systems
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2010
+_journal_volume                          39
+_journal_page_first                      11560
+_journal_page_last                       11567
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Li P.X.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhang S.Y.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Mao J.G.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.704
+_cell_length_b                           7.118
+_cell_length_c                           13.36
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.087
+_cell_angle_gamma                        90
+_cell_volume                             637.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ Se
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O9 O 4 f 0.0891 0.5635 0.2713 1
+ V1 V 4 f 0.12821 0.5087 0.38834 1
+ O6 O 4 f 0.1394 0.0618 0.5594 1
+ O2 O 4 f 0.4054 0.0621 0.3942 1
+ O8 O 4 f 0.5281 0.5804 0.1011 1
+ O4 O 4 f 0.8816 0.0766 0.1077 1
+ Se2 Se 2 e 0.04756 0.25 0.13931 1
+ O11 O 2 e 0.0629 0.25 0.3785 1
+ Gd1 Gd 2 e 0.12544 0.25 0.86461 1
+ O3 O 2 e 0.2091 0.25 0.042 1
+ O5 O 2 e 0.2879 0.25 0.7151 1
+ Se3 Se 2 e 0.2942 0.25 0.59089 1
+ O1 O 2 e 0.4812 0.25 0.2301 1
+ Se1 Se 2 e 0.53838 0.25 0.35168 1
+ Gd2 Gd 2 e 0.57632 0.25 0.06924 1
+ Se4 Se 2 e 0.60626 0.25 0.8386 1
+ O10 O 2 e 0.7919 0.25 0.5672 1
+ O7 O 2 e 0.8051 0.25 0.9195 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.15
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Saturn 70'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4346
+_diffrn_reflns_theta_min                 3.04
+_diffrn_reflns_theta_max                 27.5
+_exptl_absorpt_coefficient_mu            23.208
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             127
+_refine_ls_number_reflns                 1376
+_refine_ls_R_factor_gt                   0.0271
+_refine_ls_wR_factor_gt                  0.0640
+
+# End of data set 1126222
+
+

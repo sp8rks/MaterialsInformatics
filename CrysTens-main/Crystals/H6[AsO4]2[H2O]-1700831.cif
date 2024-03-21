@@ -1,0 +1,129 @@
+##############################################################################
+#                                                                            #
+# As-H-O           # H6[AsO4]2[H2O]                                # 1700831 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1700831
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1700831
+
+# Entry summary
+
+_chemical_formula_structural             'H~6~ [As O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'As2 H2 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~6~[AsO~4~]~2~[H~2~O],mP44,14
+_chemical_formula_weight                 301.9
+_chemical_melting_point                  309
+
+# Bibliographic data
+
+_publ_section_title
+'Die Kristallstruktur des Arsens\"aurehydrates 2H~3~AsO~4~.H~2~O'             
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1968
+_journal_volume                          24
+_journal_page_first                      987
+_journal_page_last                       991
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Worzala H.'
+;
+German Academy of Sciences
+Institut f\"ur Anorganische Chemie
+Berlin
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.6
+_cell_length_b                           13.29
+_cell_length_c                           8.24
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.6
+_cell_angle_gamma                        90
+_cell_volume                             784
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ As
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 4 e 0.0628 0.3759 0.0837 1
+ O3 O 4 e 0.0694 0.366 0.4041 1
+ O5 O 4 e 0.1058 0.5985 0.2584 1
+ As2 As 4 e 0.1425 0.6351 0.0848 1
+ O8 O 4 e 0.2186 0.7569 0.0904 1
+ O4 O 4 e 0.2318 0.1219 0.25 1
+ As1 As 4 e 0.2526 0.1035 0.0591 1
+ O7 O 4 e 0.3089 0.5671 0.0508 1
+ O1 O 4 e 0.314 0.519 0.5566 1
+ O2 O 4 e 0.4491 0.1621 0.0684 1
+ O9 OH2 4 e 0.4843 0.3679 0.1313 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              2.56
+_exptl_crystal_density_diffrn            2.56
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5405
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu K'
+_diffrn_reflns_number                    1260
+_exptl_absorpt_coefficient_mu            12.18
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.094
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1700831
+
+

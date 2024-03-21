@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# Br-Fe-H-O        # FeBr2[H2O]4                                   # 1003827 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003827
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003827
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Br~2~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Br2 Fe H8 O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            FeCl~2~[H~2~O]~4~,mP14,14
+_chemical_formula_weight                 287.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+X-ray structural studies of FeBr~2~.4H~2~O, CoBr~2~.4H~2~O, NiCl~2~.4H~2~O and CuBr~2~.4H~2~O. cis/trans selectivity in transition metal(II) dihalide tetrahydrate
+;
+_journal_coden_ASTM                      ICHAA3
+_journal_name_full                       'Inorg. Chim. Acta'
+_journal_year                            1992
+_journal_volume                          192
+_journal_page_first                      173
+_journal_page_last                       181
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Waizumi K.'
+;
+Sendai Miyagi Tohoku University
+Faculty of Science
+Sendai / Miyagi
+Japan
+;
+'Masuda H.'
+;
+Okazaki Aichi Institute of Molecular Science
+Applied Molecular Science
+Okazaki / Aichi
+Japan
+;
+'Ohtaki H.'
+;
+Okazaki Aichi Institute of Molecular Science
+Applied Molecular Science
+Okazaki / Aichi
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.149
+_cell_length_b                           7.239
+_cell_length_c                           8.73
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.72
+_cell_angle_gamma                        90
+_cell_volume                             363.46
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Br
+ Fe
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0017 0.001 0.2423 1
+ O2 O 4 e 0.2531 0.2047 0.0642 1
+ Br Br 4 e 0.3208 0.73374 0.07946 1
+ Fe Fe 2 a 0 0 0 1
+ H1A H 4 e 0.123 0.558 0.223 1
+ H1B H 4 e 0.133 0.543 0.825 1
+ H2B H 4 e 0.321 0.211 -0.017 1
+ H2A H 4 e 0.375 0.163 0.145 1
+
+
+_exptl_crystal_colour                    greenish
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.63
+_cell_measurement_temperature            297
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              297
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            13.71
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             51
+_refine_ls_number_reflns                 776
+_refine_ls_R_factor_gt                   0.039
+_refine_ls_wR_factor_gt                  0.045
+
+# End of data set 1003827
+
+

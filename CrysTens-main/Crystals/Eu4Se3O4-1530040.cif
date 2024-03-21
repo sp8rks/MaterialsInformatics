@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# Eu-O-Se          # Eu4Se3O4                                      # 1530040 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1530040
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1530040
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~4~ Se~3~ O~4~'
+_chemical_formula_sum                    'Eu4 O4 Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Eu~4~Se~3~O~4~,mP44,14
+_chemical_formula_weight                 908.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, characterisation and properties of rare earth oxyselenides A~4~O~4~Se~3~ (A= Eu, Gd, Tb, Dy, Ho, Er, Yb and Y)
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2015
+_journal_volume                          44
+_journal_page_first                      3009
+_journal_page_last                       3019
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tuxworth A.J.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+'Wang C.H.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+'Evans J.S.O.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.3925
+_cell_length_b                           7.7949
+_cell_length_c                           12.618
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.35
+_cell_angle_gamma                        90
+_cell_volume                             825.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ O
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se6 Se 4 e 0.0252 0.3774 0.2423 1
+ O10 O 4 e 0.125 0.612 0.0158 1
+ O8 O 4 e 0.128 0.101 0.0167 1
+ Eu4 Eu 4 e 0.1287 0.1218 0.4203 1
+ Eu2 Eu 4 e 0.129 0.6182 0.41758 1
+ Se7 Se 4 e 0.377 0.3713 0.2786 1
+ O9 O 4 e 0.38 0.391 0.0019 1
+ Eu3 Eu 4 e 0.3859 0.1306 0.0913 1
+ Eu1 Eu 4 e 0.3859 0.634 0.09203 1
+ O11 O 4 e 0.62 0.116 0.0046 1
+ Se5 Se 4 e 0.7331 0.3767 0.2402 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.31
+_cell_measurement_temperature            120
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              120
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3945
+_diffrn_reflns_theta_min                 1.614
+_diffrn_reflns_theta_max                 26.396
+_exptl_absorpt_coefficient_mu            43.170
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'charge flipping, Fourier synthesis'
+_refine_ls_number_parameters             46
+_refine_ls_number_reflns                 1530
+_refine_ls_R_factor_gt                   0.0726
+_refine_ls_wR_factor_gt                  0.1854
+
+# End of data set 1530040
+
+

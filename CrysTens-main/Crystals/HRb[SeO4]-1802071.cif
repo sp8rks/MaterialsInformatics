@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# H-O-Rb-Se        # HRb[SeO4] ht1                                 # 1802071 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1802071
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1802071
+
+# Entry summary
+
+_chemical_formula_structural             'H Rb [Se O~4~]'
+_chemical_formula_sum                    'H O4 Rb Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[NH~4~][SeO~4~],mS36,5
+_chemical_formula_weight                 229.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Neutron structural investigation of ferro- and paraphases of acid rubidium selenate
+;
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1989
+_journal_volume                          34
+_journal_page_first                      510
+_journal_page_last                       515
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Makarova I.P.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Rider E.E.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Sarin V.A.'
+;
+Karpov Institute of Physical Chemistry
+Moscow
+Russia
+;
+'Aleksandrova I.P.'
+;
+Russian Academy of Sciences
+Kirenskii L.V. Institute of Physics
+Krasnoyarsk
+Russia
+;
+'Simonov V.I.'
+;
+Russian Academy of Sciences
+Institute of Physics
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           19.962
+_cell_length_b                           7.611
+_cell_length_c                           4.634
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.76
+_cell_angle_gamma                        90
+_cell_volume                             686.7
+_cell_formula_units_Z                    6
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Rb
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(1) O 4 c 0.0294 0.1346 0.2846 1
+ Se(2) Se 4 c 0.16745 0.4232 0.6983 1
+ O(3) O 4 c 0.1938 0.29 0.4706 1
+ O(4) O 4 c 0.2701 0.0295 0.1 1
+ Rb(2) Rb 4 c 0.33448 0.4138 0.4173 1
+ O(5) O 4 c 0.3676 0.7862 0.0806 1
+ O(6) O 4 c 0.3954 0.0456 0.465 1
+ O(2) O 4 c 0.4368 0.3837 0.055 1
+ Se(1) Se 2 a 0 0.0 0 1
+ Rb(1) Rb 2 a 0 0.5124 0 1
+ H(2) H 4 c 0.1581 0.2922 0.1328 1
+ H(1) H 2 b 0 0.1263 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.33
+_cell_measurement_temperature            383
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.1674
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              383
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.1674
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            0.00757
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0388
+_refine_ls_wR_factor_gt                  0.0525
+
+# End of data set 1802071
+
+

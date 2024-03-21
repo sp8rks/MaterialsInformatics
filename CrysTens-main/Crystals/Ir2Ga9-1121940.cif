@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Ga-Ir            # Ir2Ga9                                        # 1121940 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1121940
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1121940
+
+# Entry summary
+
+_chemical_formula_structural             'Ir~2~ Ga~9~'
+_chemical_formula_sum                    'Ga9 Ir2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Rh~2~Ga~9~,mP22,7
+_chemical_formula_weight                 1011.9
+
+# Bibliographic data
+
+_publ_section_title
+'The Co~2~Al~9~ Structure Type Revisited'                                     
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2005
+_journal_volume                          631
+_journal_page_first                      534
+_journal_page_last                       541
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bostr\"om M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Rosner H.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Prots Y.M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Burkhardt U.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Grin Y.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.4329
+_cell_length_b                           6.4099
+_cell_length_c                           8.8068
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.464
+_cell_angle_gamma                        90
+_cell_volume                             362.48
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ga
+ Ir
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ga3a Ga 2 a 0.0 0.0285 0.0 1
+ Ga4a Ga 2 a 0.095 0.6384 0.3223 1
+ Ir1a Ir 2 a 0.1536 0.3752 0.1108 1
+ Ga2a Ga 2 a 0.2799 0.0544 0.2792 1
+ Ga1a Ga 2 a 0.2932 0.2621 0.5527 1
+ Ga1b Ga 2 a 0.4933 0.2365 0.0116 1
+ Ga2b Ga 2 a 0.4947 0.4455 0.2867 1
+ Ir1b Ir 2 a 0.6329 0.1224 0.44743 1
+ Ga4b Ga 2 a 0.6771 0.1573 0.7413 1
+ Ga3b Ga 2 a 0.802 0.5434 0.0478 1
+ Ga5 Ga 2 a 0.863 0.2415 0.2519 1
+
+
+_exptl_crystal_colour                    gray
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.27
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Co Ka1'
+_cell_measurement_wavelength             1.78897
+_pd_proc_wavelength                      1.78897
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    3074
+_exptl_absorpt_coefficient_mu            69.30
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             99
+_refine_ls_number_reflns                 1663
+_refine_ls_R_factor_gt                   0.026
+_refine_ls_wR_factor_gt                  0.038
+
+# End of data set 1121940
+
+

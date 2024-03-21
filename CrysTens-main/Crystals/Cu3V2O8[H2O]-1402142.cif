@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-V         # Cu3V2O8[H2O]                                  # 1402142 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1402142
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1402142
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~3~ V~2~ O~8~ [H~2~ O]'
+_chemical_formula_sum                    'Cu3 H2 O9 V2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~3~V~2~O~8~[H~2~O],mP28,11
+_chemical_formula_weight                 438.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Room-temperature structures of oxocopper(II) vanadate(V) hydrates, Cu~3~V~2~O~8~(H~2~O) and CuV~2~O~6~(H~2~O)~2~
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1990
+_journal_volume                          46
+_journal_page_first                      15
+_journal_page_last                       18
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Leblanc M.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+'F\'erey G.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.444
+_cell_length_b                           6.658
+_cell_length_c                           7.759
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.57
+_cell_angle_gamma                        90
+_cell_volume                             383.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ Cu
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 f 0.1387 0.0458 0.704 1
+ O2 O 4 f 0.2382 0.037 0.1297 1
+ V2 V 2 e 0.2668 0.25 0.6665 1
+ O6 O 2 e 0.3197 0.25 0.4425 1
+ V1 V 2 e 0.3387 0.25 0.2159 1
+ O5 O 2 e 0.4604 0.25 0.7858 1
+ O3 O 2 e 0.5535 0.25 0.1737 1
+ Cu3 Cu 2 e 0.6763 0.25 0.9297 1
+ O(w) OH2 2 e 0.788 0.25 0.5424 1
+ Cu2 Cu 2 e 0.8375 0.25 0.2959 1
+ O1 O 2 e 0.9038 0.25 0.0595 1
+ Cu1 Cu 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.79
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            30
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    1811
+_exptl_absorpt_coefficient_mu            10.5
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             80
+_refine_ls_number_reflns                 1307
+_refine_ls_R_factor_gt                   0.047
+_refine_ls_wR_factor_gt                  0.050
+
+# End of data set 1402142
+
+

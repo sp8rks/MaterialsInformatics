@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Fe-H-O-P         # H4Fe[PO4]2[H2O]2                              # 1623966 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1623966
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1623966
+
+# Entry summary
+
+_chemical_formula_structural             'H~4~ Fe [P O~4~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Fe H8 O10 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~4~Cd[PO~4~]~2~[H~2~O]~2~,mP26,14
+_chemical_formula_weight                 285.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of iron(II)dihydrogen phosphate dihydrate [Fe(H~2~PO~4~)~2~.2H~2~O]
+;
+_journal_coden_ASTM                      NJMMAW
+_journal_name_full                       'Neues Jahrb. Mineral., Monatsh.'
+_journal_year                            1985
+_journal_volume                          ?
+_journal_page_first                      433
+_journal_page_last                       438
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Guse W.'
+;
+Hamburg University
+Institut f\"ur Mineralogie und Petrographie
+Hamburg
+Germany
+;
+'Klaska K.H.'
+;
+Hamburg University
+Institut f\"ur Mineralogie und Petrographie
+Hamburg
+Germany
+;
+'Saalfeld H.'
+;
+Hamburg University
+Institut f\"ur Mineralogie und Petrographie
+Hamburg
+Germany
+;
+'Adiwidjaja G.'
+;
+Hamburg University
+Institut f\"ur Mineralogie und Petrographie
+Hamburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.337
+_cell_length_b                           9.925
+_cell_length_c                           8.6467
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.804
+_cell_angle_gamma                        90
+_cell_volume                             384.97
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Fe
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0206 0.3305 0.3518 1
+ P P 4 e 0.0901 0.7852 0.3405 1
+ O4 O 4 e 0.1302 0.3376 0.1077 1
+ O2 O 4 e 0.125 0.6349 0.3671 1
+ OW O 4 e 0.4677 0.0358 0.2031 1
+ O3 O 4 e 0.6052 0.3561 0.0311 1
+ Fe Fe 2 a 0 0 0 1
+ H4 H 4 e 0.128 0.293 0.026 1
+ H3 H 4 e 0.439 0.625 0.058 1
+ H2 H 4 e 0.444 0.469 0.245 1
+ H1 H 4 e 0.559 0.071 0.167 1
+
+
+_exptl_crystal_colour                    'green pale'
+_exptl_crystal_density_meas              2.43
+_exptl_crystal_density_diffrn            2.47
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7093
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7093
+_diffrn_reflns_number                    1029
+_exptl_absorpt_coefficient_mu            2.397
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'crystal chemical considerations, Fourier synthesis'                          
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.019
+_refine_ls_wR_factor_gt                  0.021
+
+# End of data set 1623966
+
+

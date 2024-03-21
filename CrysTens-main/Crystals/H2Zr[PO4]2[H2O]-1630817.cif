@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# H-O-P-Zr         # H2Zr[PO4]2[H2O]                               # 1630817 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1630817
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1630817
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Zr [P O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'H2 O9 P2 Zr'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Zr[PO~4~]~2~[H~2~O],mP48,14
+_chemical_formula_weight                 301.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+High yield precipitation of crystalline \a-zirconium phosphate from oxalic acid solutions
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2010
+_journal_volume                          49
+_journal_page_first                      9409
+_journal_page_last                       9415
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Capitani D.'
+;
+Consiglio Nazionale delle Ricerche (CNR)
+Istituto di Metodologie Chimiche
+Monterotondo
+Italy
+;
+'Casciola M.'
+;
+CEMIN
+Dipartimento di Chimica
+Perugia
+Italy
+;
+'Donnadio A.'
+;
+CEMIN
+Dipartimento di Chimica
+Perugia
+Italy
+;
+'Vivani R.'
+;
+CEMIN
+Dipartimento di Chimica
+Perugia
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.0631
+_cell_length_b                           5.2886
+_cell_length_c                           16.2425
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.401
+_cell_angle_gamma                        90
+_cell_volume                             724.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ Zr
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P2 P 4 e 0.0 0.243 0.1106 1
+ O5 O 4 e 0.065 0.019 0.414 1
+ O7 O 4 e 0.104 0.225 0.214 1
+ O4 O 4 e 0.1072 0.203 0.0602 1
+ O6 O 4 e 0.134 0.532 0.397 1
+ Zr Zr 4 e 0.2398 0.249 0.4855 1
+ O8 O 4 e 0.35 0.569 0.049 1
+ O11 O 4 e 0.3783 0.168 0.4163 1
+ O9 O 4 e 0.414 0.026 0.072 1
+ O10 O 4 e 0.5001 0.252 0.3011 1
+ P3 P 4 e 0.532 0.25 0.3993 1
+ O12 OH2 4 e 0.7407 0.273 0.2387 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.76
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+PANalytical X'Pert PRO MPD
+;
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 70
+_pd_proc_2theta_range_min                4
+_pd_proc_2theta_range_max                140
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.038
+_pd_proc_ls_proof_wR_factor              0.052
+_refine_ls_R_I_factor                    0.078
+
+# End of data set 1630817
+
+

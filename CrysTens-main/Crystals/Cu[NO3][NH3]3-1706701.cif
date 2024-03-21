@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# Cu-H-N-O         # Cu[NO3][NH3]3                                 # 1706701 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1706701
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1706701
+
+# Entry summary
+
+_chemical_formula_structural             'Cu [N O~3~] [N H~3~]~3~'
+_chemical_formula_sum                    'Cu H9 N4 O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag[NO~3~][NH~3~]~3~,hP16,190
+_chemical_formula_weight                 176.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Columnarstructures of tri- and diamminenitrates, [M(NH~3~)~3~]NO~3~ and [M(NH~3~)~2~]NO~3~ of monovalent copper and silver
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1989
+_journal_volume                          571
+_journal_page_first                      37
+_journal_page_last                       50
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zachwieja U.'
+;
+Dortmund Technical University
+Fachbereich Chemie
+Dortmund
+Germany
+;
+'Jacobs H.'
+;
+Dortmund Technical University
+Fachbereich Chemie
+Dortmund
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.837
+_cell_length_b                           7.837
+_cell_length_c                           6.036
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             321.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   190
+_space_group_name_H-M_alt                'P -6 2 c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, 1/2+z'
+ 11 'y, x, -z'
+ 12 'y, x, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ N
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 6 h 0.169 0.541 0.25 1
+ N1 N 6 h 0.326 0.187 0.25 1
+ N2 N 2 c 0.333333 0.666667 0.25 1
+ Cu1 Cu 2 b 0 0 0.25 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.83
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier-Simon film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 129.8 100
+ 1 0 1 196.3 50
+ 1 1 0 226.8 90
+ 2 0 0 262.1 30
+ 0 0 2 295.7 80
+ 2 0 1 301.8 80
+ 1 0 2 324.2 60
+ 2 1 0 349.3 50
+ 1 1 2 375.7 60
+ 2 1 1 381 10
+ 3 0 0 398.2 30
+ 2 0 2 399.4 ?
+ 2 2 0 463 50
+ 2 1 2 464 ?
+ 3 1 0 483.1 60
+ 3 0 2 503.8 20
+ 2 0 3 528.8 5
+ 2 2 2 559 30
+ 3 1 2 576.8 40
+ 3 2 0 593.1 30
+ 1 0 4 630.9 5
+ 1 1 4 663 10
+ 3 2 2 676.5 20
+
+# End of data set 1706701
+
+

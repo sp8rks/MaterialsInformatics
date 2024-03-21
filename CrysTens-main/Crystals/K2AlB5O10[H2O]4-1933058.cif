@@ -1,0 +1,179 @@
+##############################################################################
+#                                                                            #
+# Al-B-H-K-O       # K2AlB5O10[H2O]4 mon                           # 1933058 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1933058
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1933058
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Al B~5~ O~10~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Al B5 H8 K2 O14'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~AlB~5~O~10~[H~2~O]~4~,mP44,4
+_chemical_formula_weight                 391.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses and crystal structures of two new aluminoborates with helical channels
+;
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2011
+_journal_volume                          13
+_journal_page_first                      1567
+_journal_page_last                       1572
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wang G.M.'
+;
+Qingdao Shandong University of Science and Technology
+College of Chemistry, Chemical Engineering and Environment
+Qingdao / Shandong
+China
+;
+'Wang P.'
+;
+Qingdao Shandong University of Science and Technology
+College of Chemistry, Chemical Engineering and Environment
+Qingdao / Shandong
+China
+;
+'Li Z.X.'
+;
+Qingdao Shandong University of Science and Technology
+College of Chemistry, Chemical Engineering and Environment
+Qingdao / Shandong
+China
+;
+'Huang H.L.'
+;
+Qingdao Shandong University of Science and Technology
+College of Chemistry, Chemical Engineering and Environment
+Qingdao / Shandong
+China
+;
+'Wang Y.X.'
+;
+Beijing University
+Beijing National Laboratory for Molecular Sciences
+Beijing
+China
+;
+'Lin J.H.'
+;
+Beijing University
+Beijing National Laboratory for Molecular Sciences
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.241
+_cell_length_b                           13.7188
+_cell_length_c                           6.9301
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.365
+_cell_angle_gamma                        90
+_cell_volume                             590.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ OH2
+ K
+ O
+ Al
+ B
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3W OH2 2 a 0.0564 0.7501 0.442 1
+ K1 K 2 a 0.0978 0.85711 0.0984 1
+ O2 O 2 a 0.1137 0.4871 0.3437 1
+ Al1 Al 2 a 0.1306 0.00044 0.631 1
+ O1 O 2 a 0.1551 0.0129 0.3879 1
+ O7 O 2 a 0.1746 0.3302 0.2311 1
+ O10 O 2 a 0.1849 0.06 0.0704 1
+ B5 B 2 a 0.2034 0.0812 0.2658 1
+ O3 O 2 a 0.2162 0.1041 0.7482 1
+ B4 B 2 a 0.2251 0.1295 0.9339 1
+ B2 B 2 a 0.2353 0.4175 0.2976 1
+ O8 O 2 a 0.2683 0.1705 0.3245 1
+ B3 B 2 a 0.3031 0.25 0.1953 1
+ K2 K 2 a 0.4013 0.64329 0.4016 1
+ O6 O 2 a 0.4294 0.4406 0.3163 1
+ O1W OH2 2 a 0.4924 0.328 0.7546 1
+ O5 O 2 a 0.5062 0.2798 0.2316 1
+ B1 B 2 a 0.5644 0.3697 0.2758 1
+ O4W OH2 2 a 0.725 0.0 0.225 1
+ O9 O 2 a 0.7316 0.7207 0.0073 1
+ O2W OH2 2 a 0.7452 0.1735 0.0054 1
+ O4 O 2 a 0.7516 0.3961 0.2847 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.20
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4019
+_diffrn_reflns_theta_min                 2.95
+_diffrn_reflns_theta_max                 26
+_exptl_absorpt_coefficient_mu            0.955
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             199
+_refine_ls_number_reflns                 1729
+_refine_ls_R_factor_gt                   0.0634
+_refine_ls_wR_factor_gt                  0.1503
+
+# End of data set 1933058
+
+

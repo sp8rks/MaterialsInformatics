@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Cl-Eu-H-O        # EuCl3[H2O]6                                   # 1030816 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1030816
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1030816
+
+# Entry summary
+
+_chemical_formula_structural             'Eu Cl~3~ [H~2~ O]~6~'
+_chemical_formula_sum                    'Cl3 Eu H12 O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            GdCl~3~[H~2~O]~6~,mP20,13
+_chemical_formula_weight                 366.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure and stereochemistry in "f-block" complexes of high coordination number VII. The [M(unidentate X)~2~(unidentate Y)~6~] system: Crystal structure of hexaaquadichloro-europium(III) chloride (a redetermination)
+;
+_journal_coden_ASTM                      AJCHAS
+_journal_name_full                       'Aust. J. Chem.'
+_journal_year                            1983
+_journal_volume                          36
+_journal_page_first                      477
+_journal_page_last                       482
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kepert D.L.'
+;
+Nedlands Western Australia University
+Department of Physical and Inorganic Chemistry
+Nedlands
+Australia
+;
+'Patrick J.M.'
+;
+Nedlands Western Australia University
+Department of Physical and Inorganic Chemistry
+Nedlands
+Australia
+;
+'White A.H.'
+;
+Nedlands Western Australia University
+Department of Physical and Inorganic Chemistry
+Nedlands
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.936
+_cell_length_b                           6.529
+_cell_length_c                           12.1022
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.204
+_cell_angle_gamma                        90
+_cell_volume                             499.45
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cl
+ Eu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 g 0.1673 0.299 0.0613 1
+ O1 O 4 g 0.2378 0.048 0.2821 1
+ Cl2 Cl 4 g 0.2982 0.1648 0.5585 1
+ O3 O 4 g 0.5584 0.4269 0.1456 1
+ Eu Eu 2 f 0.5 0.15096 0.25 1
+ Cl1 Cl 2 e 0 0.6243 0.25 1
+ H2A H 4 g 0.062 0.243 0.053 1
+ H2B H 4 g 0.129 0.662 0.467 1
+ H1A H 4 g 0.203 0.09 0.771 1
+ H1B H 4 g 0.199 0.055 0.335 1
+ H3A H 4 g 0.303 0.452 0.3 1
+ H3B H 4 g 0.474 0.547 0.11 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.44
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1094
+_refine_ls_R_factor_gt                   0.040
+_refine_ls_wR_factor_gt                  0.055
+
+# End of data set 1030816
+
+

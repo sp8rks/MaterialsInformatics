@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Hf-S             # HfS3                                          #  527616 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_527616
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      527616
+
+# Entry summary
+
+_chemical_formula_structural             'Hf S~3~'
+_chemical_formula_sum                    'Hf S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            ZrSe~3~,mP8,11
+_chemical_formula_weight                 274.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+On the Crystal Structures of TiS~3~, ZrS~3~, ZrSe~3~, ZrTe~3~, HfS~3~, and HfSe~3~
+;
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1975
+_journal_volume                          29
+_journal_page_first                      623
+_journal_page_last                       631
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Furuseth S.'
+;
+Oslo University
+Kjemisk Institutt
+Oslo
+Norway
+;
+'Brattas L.'
+;
+Oslo University
+Kjemisk Institutt
+Oslo
+Norway
+;
+'Kjekshus A.'
+;
+Oslo University
+Kjemisk Institutt
+Oslo
+Norway
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.0923
+_cell_length_b                           3.5952
+_cell_length_c                           8.967
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.38
+_cell_angle_gamma                        90
+_cell_volume                             162.81
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Hf
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hf Hf 2 e 0.2839 0.25 0.1548 1
+ S2 S 2 e 0.4642 0.25 0.6702 1
+ S1 S 2 e 0.7611 0.25 0.0546 1
+ S3 S 2 e 0.8768 0.25 0.6697 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    438
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 425
+_refine_ls_R_factor_gt                   0.066
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 527616
+
+

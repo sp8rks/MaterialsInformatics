@@ -1,0 +1,227 @@
+##############################################################################
+#                                                                            #
+# As-H-Na-O        # H2Na[AsO4][H2O]                               # 1814763 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814763
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814763
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Na [As O~4~] [H~2~ O]'
+_chemical_formula_sum                    'As H4 Na O5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Na[AsO~4~][H~2~O],mP28,4
+_chemical_formula_weight                 181.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrogen Bonding in the Crystalline State. A Neutron and X-ray Diffraction Study of NaH~2~AsO~4~.H~2~O, a Crystal Structure with Unusual Pseudo-Symmetry
+;
+_journal_coden_ASTM                      AATFAA
+_journal_name_full
+'Atti Accad. Sci. Torino, Cl. Sci. Fis., Mat., Nat.'                          
+_journal_year                            1974
+_journal_volume                          108
+_journal_page_first                      507
+_journal_page_last                       527
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ferraris G.'
+;
+Turin University
+Istituto di Mineralogia, Cristallografia e Geochimica
+Turin
+Italy
+;
+'Jones D.W.'
+;
+Bradford University
+School of Chemistry
+Bradford
+United Kingdom
+;
+'Sowden J.M.'
+;
+Bradford University
+School of Chemistry
+Bradford
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.166
+_cell_length_b                           10.36
+_cell_length_c                           8.452
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.02
+_cell_angle_gamma                        90
+_cell_volume                             452.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Na
+ As
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 2 a 0.0043 0.3634 0.1941 1
+ O4 O 2 a 0.0568 0.0 0.1261 1
+ O1 O 2 a 0.0707 0.564 0.4238 1
+ O2 O 2 a 0.0821 0.1656 0.3909 1
+ Na1 Na 2 a 0.1683 0.5907 0.095 1
+ As1 As 2 a 0.1686 0.0295 0.3059 1
+ W2 O 2 a 0.1767 0.2472 0.8618 1
+ W1 O 2 a 0.3153 0.6253 0.3648 1
+ Na2 Na 2 a 0.3356 0.2802 0.5892 1
+ O3 O 2 a 0.4997 0.0082 0.3064 1
+ O8 O 2 a 0.5581 0.3713 0.3742 1
+ O5 O 2 a 0.5713 0.4701 0.0778 1
+ O7 O 2 a 0.5861 0.2062 0.1079 1
+ As2 As 2 a 0.6685 0.3445 0.1921 1
+ H4 H 2 a 0.0739 0.2972 0.2666 1
+ H8 H 2 a 0.1044 0.3308 0.8849 1
+ H5 H 2 a 0.198 0.6376 0.4405 1
+ H3 H 2 a 0.2935 0.9827 0.0079 1
+ H6 H 2 a 0.3895 0.5391 0.3811 1
+ H2 H 2 a 0.5633 0.0809 0.2407 1
+ H7 H 2 a 0.6992 0.7315 0.0519 1
+ H1 H 2 a 0.7821 0.3881 0.493 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              2.67
+_exptl_crystal_density_diffrn            2.67
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+United Kingdom, Harwell, Atomic Energy Research Establishment, DIDO reactor, CURRAN
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.181
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 537
+_refine_ls_R_factor_gt                   0.041
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 65.3 5
+ 0 2 0 51.7 1
+ 0 1 1 46.1 7
+ 2 0 0 42.3 3
+ 1 1 1 40.5 5
+ 2 1 0 38.98 5
+ 0 2 1 36.8 2
+ 1 2 1 33.56 8
+ 2 2 0 32.7 4
+ 1 3 0 31.91 6
+ 2 1 1 31.1 5
+ 0 3 1 28.74 2
+ 3 1 0 27.19 3
+ 0 0 2 25.83 2
+ 0 1 2 25 3
+ 1 0 2 24.67 7
+ 3 1 1 23.97 4
+ 2 3 1 23.69 2
+ 1 2 2 22.29 4
+ 2 0 2 22.05 3
+ 3 3 0 21.82 3
+ 2 1 2 21.56 4
+ 4 0 0 21.11 1
+ 0 3 2 20.68 3
+ 3 3 1 20.08 6
+ 4 0 1 19.55 4
+ 4 1 1 19.19 3
+ 3 0 2 19.03 1
+ 3 1 2 18.69 4
+ 2 3 2 18.56 4
+ 4 2 1 18.27 1
+ 3 4 1 17.86 5
+ 2 5 1 17.46 3
+ 0 6 0 17.21 1
+ 0 1 3 17 2
+ 3 3 2 16.64 4
+ 0 2 3 16.32 4
+ 1 6 1 16.07 4
+ 2 1 3 15.74 2
+ 4 2 2 15.58 5
+ 2 2 3 15.24 1
+ 4 5 0 14.793 3
+ 3 0 3 14.67 1
+ 5 3 1 14.567 3
+ 2 3 3 14.466 2
+ 5 0 2 14.142 3
+ 5 1 2 13.999 2
+ 4 4 2 13.82 2
+ 5 2 2 13.638 2
+ 2 4 3 13.568 3
+ 6 1 1 13.463 2
+ 4 1 3 13.239 2
+ 1 5 3 13.084 3
+ 4 6 1 12.938 2
+ 4 5 2 12.836 2
+ 3 6 2 12.782 2
+ 3 7 1 12.699 2
+ 4 3 3 12.44 2
+ 2 7 2 12.283 1
+
+# End of data set 1814763
+
+

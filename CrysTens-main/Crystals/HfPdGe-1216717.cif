@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Ge-Hf-Pd         # HfPdGe                                        # 1216717 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1216717
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1216717
+
+# Entry summary
+
+_chemical_formula_structural             'Hf Pd Ge'
+_chemical_formula_sum                    'Ge Hf Pd'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HfPdGe,mP18,11
+_chemical_formula_weight                 357.5
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure and twinning of HfPdGe'                                    
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            2007
+_journal_volume                          222
+_journal_page_first                      513
+_journal_page_last                       520
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Prots Y.M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Demchyna R.O.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Burkhardt U.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Schwarz U.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.6573
+_cell_length_b                           3.9359
+_cell_length_c                           11.4411
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.102
+_cell_angle_gamma                        90
+_cell_volume                             299.8
+_cell_formula_units_Z                    6
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Pd
+ Hf
+ Ge
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Pd1 Pd 2 e 0.0033 0.25 0.091 1
+ Hf1 Hf 2 e 0.0294 0.25 0.70759 1
+ Pd2 Pd 2 e 0.1425 0.25 0.4586 1
+ Ge1 Ge 2 e 0.2506 0.25 0.9158 1
+ Ge2 Ge 2 e 0.261 0.25 0.2501 1
+ Hf2 Hf 2 e 0.532 0.25 0.62227 1
+ Pd3 Pd 2 e 0.6286 0.25 0.2059 1
+ Hf3 Hf 2 e 0.6613 0.25 0.92068 1
+ Ge3 Ge 2 e 0.7519 0.25 0.4159 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            11.88
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.401195
+_pd_proc_wavelength                      0.401195
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    6829
+_exptl_absorpt_coefficient_mu            75.1
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             60
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.046
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1216717
+
+

@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# C-H-N-O          # H2[C4N10O7] mon                               # 1942546 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1942546
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1942546
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ [C~4~ N~10~ O~7~]'
+_chemical_formula_sum                    'C4 H2 N10 O7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~[C~4~N~10~O~7~],mP42,7
+_chemical_formula_weight                 302.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+3,3'-Dinitroamino-4,4'-azoxyfurazan and its derivatives: An assembly of diverse N-O building blocks for high-performance energetic materials
+;
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            2014
+_journal_volume                          136
+_journal_page_first                      4437
+_journal_page_last                       4445
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhang J.'
+;
+Idaho Moscow University
+Department of Chemistry
+Moscow
+U.S.A. Idaho
+;
+'Shreeve J.M.'
+;
+Idaho Moscow University
+Department of Chemistry
+Moscow
+U.S.A. Idaho
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.8
+_cell_length_b                           8.2
+_cell_length_c                           8.7894
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.888
+_cell_angle_gamma                        90
+_cell_volume                             496.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ O
+ C
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N5 N 2 a 0.0 0.3091 0.0 1
+ N1 N 2 a 0.008 0.174 0.7599 1
+ N7 N 2 a 0.1065 0.3396 0.3438 1
+ N6 N 2 a 0.108 0.1995 0.1031 1
+ O4 O 2 a 0.1617 0.0769 0.0608 1
+ C3 C 2 a 0.1732 0.2304 0.2799 1
+ O5 O 2 a 0.2112 0.3261 0.5151 1
+ C4 C 2 a 0.3285 0.1429 0.4162 1
+ N8 N 2 a 0.3504 0.2026 0.5621 1
+ N9 N 2 a 0.4316 0.02 0.3953 1
+ O1 O 2 a 0.4499 0.3314 0.1351 1
+ O2 O 2 a 0.485 0.5263 0.4429 1
+ N4 N 2 a 0.5298 0.4342 0.0902 1
+ N10 N 2 a 0.59 0.0492 0.0302 1
+ O6 O 2 a 0.6335 0.0008 0.1728 1
+ O7 O 2 a 0.6748 0.85 0.4904 1
+ N3 N 2 a 0.6893 0.5021 0.2197 1
+ N2 N 2 a 0.7741 0.3271 0.5467 1
+ C2 C 2 a 0.7932 0.6255 0.1938 1
+ O3 O 2 a 0.907 0.2012 0.5849 1
+ C1 C 2 a 0.9382 0.7181 0.3258 1
+ H9A H 2 a 0.3954 0.0171 0.7907 1
+ H3A H 2 a 0.7285 0.466 0.3251 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.02
+_cell_measurement_temperature            173(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            9861
+_diffrn_ambient_temperature              173(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS P4 APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    7282
+_diffrn_reflns_theta_min                 3.61
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            0.189
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             190
+_refine_ls_number_reflns                 1552
+_refine_ls_R_factor_gt                   0.0350
+_refine_ls_wR_factor_gt                  0.0815
+
+# End of data set 1942546
+
+

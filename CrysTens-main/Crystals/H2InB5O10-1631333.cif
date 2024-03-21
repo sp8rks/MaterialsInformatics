@@ -1,0 +1,174 @@
+##############################################################################
+#                                                                            #
+# B-H-In-O         # H2InB5O10                                     # 1631333 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1631333
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1631333
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ In B~5~ O~10~'
+_chemical_formula_sum                    'B5 H2 In O10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~InB~5~O~10~,mS32,5
+_chemical_formula_weight                 330.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+H~2~InB~5~O~10~: A new pentaborate constructed from 2D tetrahedrally four-connected borate layers and InO~6~ octahedra
+;
+_journal_coden_ASTM                      EJICFO
+_journal_name_full                       'Eur. J. Inorg. Chem.'
+_journal_year                            2010
+_journal_volume                          ?
+_journal_page_first                      1703
+_journal_page_last                       1709
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cong R.'
+;
+Beijing University
+College of Chemistry and Molecular Engineering
+Beijing
+China
+;
+'Yang T.'
+;
+Beijing University
+College of Chemistry and Molecular Engineering
+Beijing
+China
+;
+'Li H.'
+;
+Beijing University
+College of Chemistry and Molecular Engineering
+Beijing
+China
+;
+'Liao F.H.'
+;
+Beijing University
+College of Chemistry and Molecular Engineering
+Beijing
+China
+;
+'Wang Y.'
+;
+Beijing University
+College of Chemistry and Molecular Engineering
+Beijing
+China
+;
+'Lin J.'
+;
+Beijing University
+College of Chemistry and Molecular Engineering
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.3773
+_cell_length_b                           7.8609
+_cell_length_c                           8.592
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.233
+_cell_angle_gamma                        90
+_cell_volume                             286.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ B
+ In
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 c 0.223 0.573 0.321 1
+ O5 O 4 c 0.251 0.113 0.104 1
+ O2 O 4 c 0.255 0.458 0.653 1
+ O3 O 4 c 0.3178 0.261 0.3454 1
+ O1 O 4 c 0.355 0.401 0.104 1
+ B2 B 4 c 0.393 0.428 0.27 1
+ B1 B 4 c 0.395 0.101 0.283 1
+ In In 2 b 0 0.2569 0.5 1
+ B3 B 2 a 0 0.0 0 1
+ H H 4 c 0.303 0.2572 0.1041 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.83
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8 ADVANCE'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 4
+_diffrn_reflns_theta_max                 60
+_pd_proc_2theta_range_min                8
+_pd_proc_2theta_range_max                120
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.072
+_pd_proc_ls_proof_wR_factor              0.098
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1631333
+
+

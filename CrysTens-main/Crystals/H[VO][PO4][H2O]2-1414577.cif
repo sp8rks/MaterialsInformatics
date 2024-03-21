@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# H-O-P-V          # H[VO][PO4][H2O]2 mon                          # 1414577 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1414577
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1414577
+
+# Entry summary
+
+_chemical_formula_structural             'H [V O] [P O~4~] [H~2~ O]~2~'
+_chemical_formula_sum                    'H5 O7 P V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[VO][PO~4~][H~2~O]~2~,mP36,14
+_chemical_formula_weight                 199.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure of vanadyl hydrogenphosphate dihydrate \a-VO(HPO~4~).2H~2~O solved from X-ray and neutron powder diffraction
+;
+_journal_coden_ASTM                      EJSCE5
+_journal_name_full                       'Eur. J. Solid State Inorg. Chem.'
+_journal_year                            1989
+_journal_volume                          26
+_journal_page_first                      419
+_journal_page_last                       426
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Le Bail A.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+'F\'erey G.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+'Amoros P.'
+;
+Valencia University
+Departamento de Quimica Inorganica
+Valencia
+Spain
+;
+'Beltran Porter D.'
+;
+Valencia University
+Departamento de Quimica Inorganica
+Valencia
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.613
+_cell_length_b                           7.431
+_cell_length_c                           9.482
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.44
+_cell_angle_gamma                        90
+_cell_volume                             534
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ V
+ O
+ OH2
+ OH
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ V V 4 e 0.0248 0.1463 0.2572 1
+ O6 O 4 e 0.0717 0.3517 0.2952 1
+ O2 O 4 e 0.1205 0.6814 0.4218 1
+ O3 O 4 e 0.1718 0.0272 0.4009 1
+ O1 O 4 e 0.1938 0.6384 0.149 1
+ O5w OH2 4 e 0.2171 0.0911 0.1265 1
+ O7w OH2 4 e 0.4762 0.4174 0.2709 1
+ O4 OH 4 e 0.5727 0.3149 0.0125 1
+ P P 4 e 0.7811 0.3503 0.0128 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.47
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D501'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 4.5
+_diffrn_reflns_theta_max                 60
+_pd_proc_2theta_range_min                9
+_pd_proc_2theta_range_max                120
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             51
+_refine_ls_number_reflns                 785
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.078
+_pd_proc_ls_proof_wR_factor              0.094
+_refine_ls_R_I_factor                    0.041
+
+# End of data set 1414577
+
+

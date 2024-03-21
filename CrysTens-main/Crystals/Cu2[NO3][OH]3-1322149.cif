@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# Cu-H-N-O         # Cu2[NO3][OH]3 mon                             # 1322149 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1322149
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1322149
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ [N O~3~] [O H]~3~'
+_chemical_formula_sum                    'Cu2 H3 N O6'
+_chemical_name_mineral                   rouaite
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~[NO~3~][OH]~3~-a,mP18,4
+_chemical_formula_weight                 240.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis of Trihydroxonitratodicopper(II) and Refinement of Its Crystal Structure
+;
+_journal_coden_ASTM                      ZNOKAQ
+_journal_name_full                       'Zh. Neorg. Khim.'
+_journal_year                            2005
+_journal_volume                          50
+_journal_page_first                      775
+_journal_page_last                       778
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chernorukov N.G.'
+;
+Nizhnii Novgorod N.I. Lobachevskii State University
+Nizhnii Novgorod
+Russia
+;
+'Mikhailov Y.N.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Knyazev A.V.'
+;
+Nizhnii Novgorod N.I. Lobachevskii State University
+Nizhnii Novgorod
+Russia
+;
+'Kanishcheva A.S.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Bulanov E.N.'
+;
+Nizhnii Novgorod N.I. Lobachevskii State University
+Nizhnii Novgorod
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.595
+_cell_length_b                           6.074
+_cell_length_c                           6.928
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.67
+_cell_angle_gamma                        90
+_cell_volume                             234.66
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cu
+ O
+ OH
+ N
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu2 Cu 2 a 0.0009 0.2694 0.0052 1
+ O5 O 2 a 0.0948 0.3814 0.4924 1
+ O1 OH 2 a 0.1322 0.0116 0.1428 1
+ O4 O 2 a 0.2066 0.5096 0.2231 1
+ N N 2 a 0.2304 0.5 0.409 1
+ O2 OH 2 a 0.3112 0.2691 0.8801 1
+ Cu1 Cu 2 a 0.4912 0.0178 0.0022 1
+ O6 O 2 a 0.6124 0.106 0.5037 1
+ O3 OH 2 a 0.6865 0.2581 0.1221 1
+
+
+_exptl_crystal_colour                    'blue pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.40
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1402
+_exptl_absorpt_coefficient_mu            3.466
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0272
+_refine_ls_wR_factor_gt                  0.0764
+
+# End of data set 1322149
+
+

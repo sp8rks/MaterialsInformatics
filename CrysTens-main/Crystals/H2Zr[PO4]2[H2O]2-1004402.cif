@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# H-O-P-Zr         # H2Zr[PO4]2[H2O]2                              # 1004402 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1004402
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1004402
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Zr [P O~4~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'H6 O10 P2 Zr'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Zr[PO~4~]~2~[H~2~O]~2~,mP26,4
+_chemical_formula_weight                 319.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+X-ray powder structure and Rietveld refinement of \g-zirconium phosphate, Zr(PO~4~)(H~2~PO~4~).2H~2~O
+;
+_journal_coden_ASTM                      JCDTBI
+_journal_name_full                       'J. Chem. Soc., Dalton Trans.'
+_journal_year                            1995
+_journal_volume                          ?
+_journal_page_first                      111
+_journal_page_last                       113
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Poojary D.M.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Shpeizer B.G.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Clearfield A.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.3825
+_cell_length_b                           6.6337
+_cell_length_c                           12.4102
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.687
+_cell_angle_gamma                        90
+_cell_volume                             438.03
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ OH
+ P
+ Zr
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 2 a 0.0202 0.0153 -0.0054 1
+ O6 O 2 a 0.0329 0.0037 0.2245 1
+ O8 OH 2 a 0.0649 0.5458 0.584 1
+ O7 OH 2 a 0.1416 0.2047 0.6808 1
+ P2 P 2 a 0.147 0.4423 0.6952 1
+ P1 P 2 a 0.2617 0.5074 0.0605 1
+ Zr Zr 2 a 0.2969 0.0046 0.1255 1
+ Ow1 OH2 2 a 0.3064 0.4674 0.3692 1
+ O3 O 2 a 0.3265 0.7002 0.1265 1
+ O2 O 2 a 0.3105 0.3148 0.1278 1
+ O1 O 2 a 0.5857 0.0 0.0378 1
+ O5 O 2 a 0.5809 0.0061 0.26 1
+ Ow2 OH2 2 a 0.6214 0.3224 0.5355 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.42
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Rigaku
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 40
+_pd_proc_2theta_range_min                3
+_pd_proc_2theta_range_max                80
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             62
+_refine_ls_number_reflns                 607
+_refine_ls_R_factor_gt                   0.041
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.079
+_pd_proc_ls_proof_wR_factor              0.105
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1004402
+
+

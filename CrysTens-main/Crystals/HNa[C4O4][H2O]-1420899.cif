@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# C-H-Na-O         # HNa[C4O4][H2O]                                # 1420899 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1420899
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1420899
+
+# Entry summary
+
+_chemical_formula_structural             'H Na [C~4~ O~4~] [H~2~ O]'
+_chemical_formula_sum                    'C4 H3 Na O5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HNa[C~4~O~4~][H~2~O],mP20,7
+_chemical_formula_weight                 154.1
+
+# Bibliographic data
+
+_publ_section_title                      'Sodium hydrogensquarate monohydrate'
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2006
+_journal_volume                          62
+_journal_page_first                      m1359
+_journal_page_last                       m1361
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Petrova N.'
+;
+Bulgarian Academy of Sciences
+Central Laboratory of Mineralogy and Crystallography
+Sofia
+Bulgaria
+;
+'Shivachev B.L.'
+;
+Bulgarian Academy of Sciences
+Central Laboratory of Mineralogy and Crystallography
+Sofia
+Bulgaria
+;
+'Kolev T.'
+;
+Bulgarian Academy of Sciences
+Institute of Organic Chemistry
+Sofia
+Bulgaria
+;
+'Petrova R.'
+;
+Bulgarian Academy of Sciences
+Central Laboratory of Mineralogy and Crystallography
+Sofia
+Bulgaria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.6239
+_cell_length_b                           8.132
+_cell_length_c                           9.392
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.97
+_cell_angle_gamma                        90
+_cell_volume                             274.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Na
+ C
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 2 a 0.0 0.3418 0.0 1
+ O1 O 2 a 0.0107 0.0586 0.5027 1
+ Na1 Na 2 a 0.0274 0.3627 0.5033 1
+ C4 C 2 a 0.1437 0.2378 0.0812 1
+ C1 C 2 a 0.1597 0.0547 0.0828 1
+ C3 C 2 a 0.3894 0.2337 0.2237 1
+ C2 C 2 a 0.3961 0.0585 0.2157 1
+ O3 O 2 a 0.5167 0.3401 0.3134 1
+ O2 O 2 a 0.5682 0.0565 0.7958 1
+ O O 2 a 0.5812 0.6342 0.165 1
+ H1A H 2 a 0.6017 0.5357 0.2238 1
+ H1B H 2 a 0.6027 0.7304 0.2267 1
+ H1 H 2 a 0.7328 0.0329 0.8624 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.87
+_cell_measurement_temperature            290
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            22
+_diffrn_ambient_temperature              290
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1413
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 29.93
+_exptl_absorpt_coefficient_mu            0.24
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             91
+_refine_ls_number_reflns                 760
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  0.145
+
+# End of data set 1420899
+
+

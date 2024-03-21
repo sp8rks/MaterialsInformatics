@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# Al-H-Mg-O-P      # HMgAl[PO4]2[H2O]2                             # 1644099 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1644099
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1644099
+
+# Entry summary
+
+_chemical_formula_structural             'H Mg Al [P O~4~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Al H5 Mg O10 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HMgAl[PO~4~]~2~[H~2~O]~2~,mP28,4
+_chemical_formula_weight                 278.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Organotemplate-free synthesis of an open-framework magnesium aluminophosphate with proton conduction properties
+;
+_journal_coden_ASTM                      CHCOFS
+_journal_name_full                       'Chem. Commun. (Cambridge)'
+_journal_year                            2015
+_journal_volume                          51
+_journal_page_first                      2149
+_journal_page_last                       2151
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mu Y.'
+;
+Jilin University
+State Key Laboratory of Inorganic Synthesis and Preparative Chemistry
+Changchun / Jilin
+China
+;
+'Wang Y.'
+;
+Jilin University
+State Key Laboratory of Inorganic Synthesis and Preparative Chemistry
+Changchun / Jilin
+China
+;
+'Li Y.'
+;
+Jilin University
+State Key Laboratory of Inorganic Synthesis and Preparative Chemistry
+Changchun / Jilin
+China
+;
+'Li J.'
+;
+Jilin University
+State Key Laboratory of Inorganic Synthesis and Preparative Chemistry
+Changchun / Jilin
+China
+;
+'Yu J.'
+;
+Jilin University
+State Key Laboratory of Inorganic Synthesis and Preparative Chemistry
+Changchun / Jilin
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.0119
+_cell_length_b                           7.769
+_cell_length_c                           9.995
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.595
+_cell_angle_gamma                        90
+_cell_volume                             379.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Al
+ Mg
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 2 a 0.0994 0.1657 0.4584 1
+ O1 O 2 a 0.1149 0.0 0.2018 1
+ P2 P 2 a 0.14328 0.08371 0.06504 1
+ O8 O 2 a 0.1654 0.6202 0.0137 1
+ O4 O 2 a 0.2467 0.8182 0.4467 1
+ O10 O 2 a 0.252 0.5064 0.2928 1
+ Al1 Al 2 a 0.2733 0.01985 0.3741 1
+ O6 O 2 a 0.2904 0.2512 0.0831 1
+ O9 O 2 a 0.3482 0.2145 0.7758 1
+ Mg1 Mg 2 a 0.4823 0.46831 0.15089 1
+ O2 O 2 a 0.611 0.0813 0.3888 1
+ O5 O 2 a 0.7358 0.4526 0.0165 1
+ O7 O 2 a 0.773 0.3604 0.3035 1
+ P1 P 2 a 0.8046 0.23589 0.42054 1
+ H10A H 2 a 0.075 0.4547 0.288 1
+ H10B H 2 a 0.248 0.6177 0.334 1
+ H9B H 2 a 0.257 0.2157 0.6808 1
+ H9A H 2 a 0.296 0.2937 0.838 1
+ H8 H 2 a 0.793 0.2357 0.01 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.43
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2795
+_diffrn_reflns_theta_min                 2.088
+_diffrn_reflns_theta_max                 28.328
+_exptl_absorpt_coefficient_mu            0.812
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             143
+_refine_ls_number_reflns                 1648
+_refine_ls_R_factor_gt                   0.0243
+_refine_ls_wR_factor_gt                  0.0616
+
+# End of data set 1644099
+
+

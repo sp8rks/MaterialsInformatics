@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-P         # Cu[PH2O2]2 mon                                # 1003775 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003775
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003775
+
+# Entry summary
+
+_chemical_formula_structural             'Cu [P H~2~ O~2~]~2~'
+_chemical_formula_sum                    'Cu H4 O4 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu[PH~2~O~2~]~2~,mP14,14
+_chemical_formula_weight                 193.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Copper(II) hypophosphite: the \a- and \b-forms at 270 and 100 K, and the \g-form at 270 K
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2002
+_journal_volume                          58
+_journal_page_first                      i55
+_journal_page_last                       i60
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Naumov D.Y.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Naumova M.I.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Kuratieva N.V.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Boldyreva E.V.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Novosibirsk
+Russia
+;
+'Howard J.A.K.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.2186
+_cell_length_b                           5.3462
+_cell_length_c                           6.2521
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.835
+_cell_angle_gamma                        90
+_cell_volume                             238.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.108 0.601 0.2392 1
+ O1 O 4 e 0.2302 0.1773 0.1104 1
+ P1 P 4 e 0.26355 0.4528 0.1591 1
+ Cu1 Cu 2 a 0 0 0 1
+ H1 H 4 e 0.404 0.483 0.272 1
+ H2 H 4 e 0.692 0.434 0.001 1
+
+
+_exptl_crystal_colour                    blue
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.70
+_cell_measurement_temperature            270
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              270
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1697
+_exptl_absorpt_coefficient_mu            5.14
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             43
+_refine_ls_number_reflns                 578
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.068
+
+# End of data set 1003775
+
+

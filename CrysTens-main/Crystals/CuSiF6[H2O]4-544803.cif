@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Cu-F-H-O-Si      # CuSiF6[H2O]4                                  #  544803 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_544803
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      544803
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Si F~6~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Cu F6 H8 O4 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuTiF~6~[H~2~O]~4~,mP24,14
+_chemical_formula_weight                 277.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Refinement of the crystal structure of CuSiF~6~.4H~2~O and a study of its thermal stability
+;
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1992
+_journal_volume                          37
+_journal_page_first                      181
+_journal_page_last                       185
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Troyanov S.I.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Morozov I.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Korenev Y.M.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.346
+_cell_length_b                           9.618
+_cell_length_c                           7.221
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.23
+_cell_angle_gamma                        90
+_cell_volume                             358.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ O
+ Cu
+ Si
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F(2) F 4 e 0.108 0.3666 0.3886 1
+ F(3) F 4 e 0.2011 0.0486 0.2082 1
+ O(2) O 4 e 0.2602 0.6251 0.0804 1
+ O(1) O 4 e 0.3761 0.3415 0.1214 1
+ F(1) F 4 e 0.7696 0.1051 0.045 1
+ Cu Cu 2 d 0.5 0 0.5 1
+ Si Si 2 a 0 0 0 1
+ H(3) H 4 e 0.228 0.683 0.042 1
+ H(1) H 4 e 0.264 0.286 0.048 1
+ H(2) H 4 e 0.278 0.33 0.244 1
+ H(4) H 4 e 0.327 0.617 0.208 1
+
+
+_exptl_crystal_colour                    'blue, dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.57
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1298
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.033
+
+# End of data set 544803
+
+

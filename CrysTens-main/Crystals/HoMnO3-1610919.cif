@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Ho-Mn-O          # HoMnO3 rt                                     # 1610919 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1610919
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1610919
+
+# Entry summary
+
+_chemical_formula_structural             'Ho Mn O~3~'
+_chemical_formula_sum                    'Ho Mn O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            LuMnO~3~,hP30,185
+_chemical_formula_weight                 267.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal chemistry of catalyst materials. I. Composition and unit cell parameters of "REMnO~3~" phases prepared in air
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1973
+_journal_volume                          8
+_journal_page_first                      1277
+_journal_page_last                       1284
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'McCarthy G.J.'
+;
+Pennsylvania University Park University
+Materials Research Laboratory
+University Park
+U.S.A. Pennsylvania
+;
+'Gallagher P.V.'
+;
+Pennsylvania University Park University
+Materials Research Laboratory
+University Park
+U.S.A. Pennsylvania
+;
+'Sipe C.'
+;
+Pennsylvania University Park University
+Materials Research Laboratory
+University Park
+U.S.A. Pennsylvania
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.134
+_cell_length_b                           6.134
+_cell_length_c                           11.41
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             371.8
+_cell_formula_units_Z                    6
+_space_group_IT_number                   185
+_space_group_name_H-M_alt                'P 63 c m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, 1/2+z'
+ 4 '-x, -x+y, z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, 1/2+z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, 1/2+z'
+ 9 'x-y, -y, z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Mn
+ Ho
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 6 c 0.307 0 0.10974 1
+ Mn1 Mn 6 c 0.3355 0 0.27471 1
+ O2 O 6 c 0.3614 0 0.43774 1
+ Ho1 Ho 4 b 0.333333 0.666667 0.04356 1
+ O3 O 4 b 0.333333 0.666667 0.25494 1
+ Ho2 Ho 2 a 0 0 0.0 1
+ O4 O 2 a 0 0 0.27054 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.18
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5417
+_pd_proc_wavelength                      1.5417
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1610919
+
+

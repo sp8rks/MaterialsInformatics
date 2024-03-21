@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Gd-N-Te          # Gd3Te3N                                       # 1722827 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1722827
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1722827
+
+# Entry summary
+
+_chemical_formula_structural             'Gd~3~ Te~3~ N'
+_chemical_formula_sum                    'Gd3 N Te3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Y~3~Te~3~N,mP28,14
+_chemical_formula_weight                 868.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+The short series of lanthanoid(III) nitride tellurides with the composition Ln~3~NTe~3~ (Ln= Gd-Ho)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2015
+_journal_volume                          641
+_journal_page_first                      292
+_journal_page_last                       297
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Foltin M.L.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.1528
+_cell_length_b                           12.0092
+_cell_length_c                           8.6607
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.092
+_cell_angle_gamma                        90
+_cell_volume                             801.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Te
+ Gd
+ N
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te2 Te 4 e 0.00722 0.26598 0.18379 1
+ Gd1 Gd 4 e 0.10396 0.02312 0.35879 1
+ N N 4 e 0.1738 0.5345 0.1252 1
+ Gd3 Gd 4 e 0.2692 0.70848 0.16119 1
+ Te1 Te 4 e 0.27494 0.52225 0.58195 1
+ Gd2 Gd 4 e 0.33997 0.40878 0.29643 1
+ Te3 Te 4 e 0.45448 0.31281 0.01354 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.20
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker-Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    27657
+_exptl_absorpt_coefficient_mu            35.14
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2446
+_refine_ls_R_factor_gt                   0.028
+_refine_ls_wR_factor_gt                  0.060
+
+# End of data set 1722827
+
+

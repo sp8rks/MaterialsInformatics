@@ -1,0 +1,177 @@
+##############################################################################
+#                                                                            #
+# Cu-Sn-Tb         # CuTbSn                                        # 1406217 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1406217
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1406217
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Tb Sn'
+_chemical_formula_sum                    'Cu Sn Tb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            LiGaGe,hP6,186
+_chemical_formula_weight                 341.2
+
+# Bibliographic data
+
+_publ_section_title
+'Magnetism of ternary stannides RCuSn (R= Gd-Er)'                             
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1997
+_journal_volume                          257
+_journal_page_first                      5
+_journal_page_last                       13
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Baran S.'
+;
+Cracow Jagiellonian University (UJ)
+Smoluchowski M. Institute of Physics
+Cracow
+Poland
+;
+'Ivanov V.A.'
+;
+Russian Academy of Sciences
+Institute of General Physics
+Moscow
+Russia
+;
+'Leciejewicz J.'
+;
+Warsaw University of Technology (PW)
+Institute of Nuclear Chemistry and Technology
+Warsaw
+Poland
+;
+'St\"usser N.'
+;
+Hahn Meitner Institute
+Berlin
+Germany
+;
+'Szytula A.'
+;
+Cracow Jagiellonian University (UJ)
+Smoluchowski M. Institute of Physics
+Cracow
+Poland
+;
+'Zygmunt A.'
+;
+Polish Academy of Sciences
+Trzebiatowski W. Institute of Low Temperature and Structure Research
+Wroclaw
+Poland
+;
+'Ding Y.F.'
+;
+Hahn Meitner Institute
+Berlin
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.514
+_cell_length_b                           4.514
+_cell_length_c                           7.2675
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             128.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cu
+ Sn
+ Tb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu Cu 2 b 0.333333 0.666667 0.265 1
+ Sn Sn 2 b 0.333333 0.666667 0.68 1
+ Tb Tb 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.84
+_cell_measurement_temperature            1.9
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             2.412
+_pd_proc_wavelength                      2.412
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              1.9
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Germany, Berlin, Hahn-Meitner Institute, Berlin Neutron Scattering Center, BER II reactor, E6
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             2.412
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.030
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.019
+
+# End of data set 1406217
+
+

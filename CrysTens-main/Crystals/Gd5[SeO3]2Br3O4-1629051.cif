@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Br-Gd-O-Se       # Gd5[SeO3]2Br3O4                               # 1629051 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1629051
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1629051
+
+# Entry summary
+
+_chemical_formula_structural             'Gd~5~ [Se O~3~]~2~ Br~3~ O~4~'
+_chemical_formula_sum                    'Br3 Gd5 O10 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Tb~5~[SeO~3~]~2~Cl~3~O~4~,mS40,12
+_chemical_formula_weight                 1343.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Nd~5~O~4~Cl[AsO~3~]~2~ and Gd~5~O~4~Br~3~[SeO~3~]~2~: two lanthanoid oxide halides with complex "lone-pair" oxoanions
+;
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2009
+_journal_volume                          11
+_journal_page_first                      299
+_journal_page_last                       304
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kang D.H.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Wontcheu J.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.437
+_cell_length_b                           5.4991
+_cell_length_c                           10.0528
+_cell_angle_alpha                        90
+_cell_angle_beta                         88.131
+_cell_angle_gamma                        90
+_cell_volume                             687.17
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Br
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.0463 0.2353 0.202 1
+ O1 O 8 j 0.3545 0.2448 0.0581 1
+ Se Se 4 i 0.08494 0 0.30629 1
+ Br2 Br 4 i 0.18097 0 0.63416 1
+ O2 O 4 i 0.2134 0 0.2582 1
+ Gd3 Gd 4 i 0.39226 0 0.23225 1
+ Gd2 Gd 4 i 0.70856 0 0.10297 1
+ Br1 Br 2 d 0 0.5 0.5 1
+ Gd1 Gd 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.50
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker-Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    5914
+_exptl_absorpt_coefficient_mu            37.85
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.030
+_refine_ls_wR_factor_gt                  0.069
+
+# End of data set 1629051
+
+

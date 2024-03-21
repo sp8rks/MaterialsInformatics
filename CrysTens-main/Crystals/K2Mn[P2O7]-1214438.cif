@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# K-Mn-O-P         # K2Mn[P2O7]                                    # 1214438 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1214438
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1214438
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Mn [P~2~ O~7~]'
+_chemical_formula_sum                    'K2 Mn O7 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Mn[P~2~O~7~],mP48,14
+_chemical_formula_weight                 307.1
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis, crystal structure and magnetic properties of K~2~MnP~2~O~7~'      
+_journal_coden_ASTM                      CMCAEK
+_journal_name_full                       'C. R. Acad. Sci., Ser. IIb'
+_journal_year                            1994
+_journal_volume                          318
+_journal_page_first                      765
+_journal_page_last                       770
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'El Maadi A.'
+;
+Rabat Mohammed V University
+Laboratoire de Chimie du Solide Appliqu\'ee
+Rabat
+Morocco
+;
+'Boukhari A.'
+;
+Rabat Mohammed V University
+Laboratoire de Chimie du Solide Appliqu\'ee
+Rabat
+Morocco
+;
+'Holt E.M.'
+;
+Oklahoma Stillwater University
+Department of Chemistry
+Stillwater
+U.S.A. Oklahoma
+;
+'Flandrois S.'
+;
+Talence Bordeaux I University
+Centre de Recherche Paul Pascal
+Talence
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.571
+_cell_length_b                           5.527
+_cell_length_c                           13.8269
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.641
+_cell_angle_gamma                        90
+_cell_volume                             648
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ P
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O13 O 4 e 0.0202 0.269 0.1287 1
+ K1 K 4 e 0.0353 0.7741 0.1766 1
+ P1 P 4 e 0.173 0.2756 0.1213 1
+ O11 O 4 e 0.1886 0.087 0.0488 1
+ O12 O 4 e 0.2203 0.524 0.1043 1
+ O21 O 4 e 0.2502 0.497 0.3557 1
+ O23 O 4 e 0.2575 0.048 0.3876 1
+ O14 O 4 e 0.3125 0.198 0.242 1
+ P2 P 4 e 0.3315 0.2595 0.3626 1
+ O22 O 4 e 0.508 0.275 0.4297 1
+ K2 K 4 e 0.5119 0.2652 0.1428 1
+ Mn1 Mn 4 e 0.7656 0.2414 0.0177 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.15
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            3.724
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 869
+_refine_ls_R_factor_gt                   0.041
+_refine_ls_wR_factor_gt                  0.054
+
+# End of data set 1214438
+
+

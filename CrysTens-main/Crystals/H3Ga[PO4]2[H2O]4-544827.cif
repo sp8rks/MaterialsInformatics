@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Ga-H-O-P         # H3Ga[PO4]2[H2O]4                              #  544827 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_544827
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      544827
+
+# Entry summary
+
+_chemical_formula_structural             'H~3~ Ga [P O~4~]~2~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Ga H11 O12 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~3~Ga[PO~4~]~2~[H~2~O]~4~,mP30,14
+_chemical_formula_weight                 334.7
+
+# Bibliographic data
+
+_publ_section_title
+'GaH~3~(PO~4~)~2~.4H~2~O: Synthesis and Crystal Structure'                    
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1997
+_journal_volume                          42
+_journal_page_first                      1
+_journal_page_last                       4
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lyakhov A.S.'
+;
+Minsk Belarusian State University
+Scientific Research Institute of Physicochemical Problems
+Minsk
+Belarus
+;
+'Selevich A.F.'
+;
+Minsk Belarusian State University
+Scientific Research Institute of Physicochemical Problems
+Minsk
+Belarus
+;
+'Ivashkevich L.S.'
+;
+Minsk Belarusian State University
+Scientific Research Institute of Physicochemical Problems
+Minsk
+Belarus
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.483
+_cell_length_b                           7.521
+_cell_length_c                           8.431
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.82
+_cell_angle_gamma                        90
+_cell_volume                             456.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Ga
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(1) O 4 e 0.0523 0.3137 0.3605 1
+ O(4) O 4 e 0.1533 0.0076 0.4737 1
+ O(2) O 4 e 0.1808 0.1002 0.191 1
+ P P 4 e 0.1849 0.1611 0.3643 1
+ O(3) O 4 e 0.3909 0.217 0.4498 1
+ Ow(2) O 4 e 0.5678 0.0097 0.213 1
+ Ow(1) O 4 e 0.794 0.149 0.0395 1
+ Ga Ga 2 a 0 0 0 1
+ Hw(21) H 4 e 0.383 0.478 0.198 1
+ Hw(22) H 4 e 0.465 0.047 0.185 1
+ Ha(3) H 4 e 0.473 0.291 0.428 1
+ Hw(11) H 4 e 0.731 0.128 0.1 1
+ Hw(12) H 4 e 0.799 0.256 0.053 1
+ Ha(4) H 2 c 0 0 0.5 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.44
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet R3m'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1934
+_exptl_absorpt_coefficient_mu            3.40
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1434
+_refine_ls_R_factor_gt                   0.0260
+_refine_ls_wR_factor_gt                  0.0288
+
+# End of data set 544827
+
+

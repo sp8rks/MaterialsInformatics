@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Eu-P-S           # EuPS3                                         # 1708688 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1708688
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1708688
+
+# Entry summary
+
+_chemical_formula_structural             'Eu P S~3~'
+_chemical_formula_sum                    'Eu P S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            PbPSe~3~,mP20,14
+_chemical_formula_weight                 279.1
+
+# Bibliographic data
+
+_publ_section_title
+'New Hexachalcogeno-Hypodiphosphates of Alkaline-Earth Metals and Europium'   
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2003
+_journal_volume                          629
+_journal_page_first                      429
+_journal_page_last                       433
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'J\"orgens S.'
+;
+D\"usseldorf Heinrich Heine University
+Institut f\"ur Anorganische Chemie und Strukturchemie
+D\"usseldorf
+Germany
+;
+'Mewis A.'
+;
+D\"usseldorf Heinrich Heine University
+Institut f\"ur Anorganische Chemie und Strukturchemie
+D\"usseldorf
+Germany
+;
+'Hoffmann R.D.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'P\"ottgen R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Mosel B.D.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Physikalische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.593
+_cell_length_b                           7.531
+_cell_length_c                           11.3381
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.062
+_cell_angle_gamma                        90
+_cell_volume                             466.37
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Eu
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ X1 S 4 e 0.1413 -0.004 0.2395 1
+ X2 S 4 e 0.2154 0.6902 0.0359 1
+ Eu Eu 4 e 0.29505 0.38901 0.25153 1
+ X3 S 4 e 0.4034 0.2003 0.0561 1
+ P P 4 e 0.6277 0.3921 0.0654 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.98
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet P3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1812
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1453
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.070
+
+# End of data set 1708688
+
+

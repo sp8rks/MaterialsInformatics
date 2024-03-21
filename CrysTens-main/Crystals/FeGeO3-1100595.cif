@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# Fe-Ge-O          # FeGeO3 rt                                     # 1100595 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1100595
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1100595
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Ge O~3~'
+_chemical_formula_sum                    'Fe Ge O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoGeO~3~,mS40,15
+_chemical_formula_weight                 176.4
+
+# Bibliographic data
+
+_publ_section_title
+'Powder X-Ray Study on Iron-Germanium Pyroxenes'                              
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1981
+_journal_volume                          39
+_journal_page_first                      262
+_journal_page_last                       264
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Takayama E.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Kimizuka N.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.793
+_cell_length_b                           9.145
+_cell_length_c                           5.195
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.85
+_cell_angle_gamma                        90
+_cell_volume                             455.3
+_cell_formula_units_Z                    8
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Ge
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.1187 0.4074 0.1351 1
+ O2 O 8 f 0.1412 0.0665 0.0901 1
+ Ge1 Ge 8 f 0.3001 0.4061 0.2153 1
+ O3 O 8 f 0.3831 0.2579 0.3888 1
+ Fe1 Fe 4 e 0 0.2306 0.25 1
+ Fe2 Fe 4 e 0 0.5923 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.15
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Fe Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 2 0 45.8 5
+ 1 1 -1 43.4 5
+ 0 2 1 34 25
+ 2 2 0 33.1 35
+ 3 1 0 30.2 80
+ 2 2 -1 29.73 55
+ 3 1 -1 28.49 25
+ 2 2 1 26.1 55
+ 1 3 -1 25.93 100
+ 0 0 2 25.41 30
+ 4 0 0 23.97 10
+ 0 4 0 22.87 5
+ 1 1 2 22.69 5
+ 3 1 -2 21.61 30
+ 3 3 -1 21.38 5
+ 4 2 -1 20.99 5
+ 0 4 1 20.86 10
+ 2 4 0 20.64 10
+ 2 4 -1 19.75 5
+ 2 2 2 18.9 5
+ 5 1 0 18.76 10
+ 2 4 1 18.56 15
+ 5 3 -1 16.3 25
+ 3 5 0 15.87 30
+ 0 6 0 15.24 15
+ 1 3 -3 15.05 20
+ 6 0 -2 14.98 15
+ 3 5 1 14.73 35
+ 3 5 -2 14.13 10
+
+# End of data set 1100595
+
+

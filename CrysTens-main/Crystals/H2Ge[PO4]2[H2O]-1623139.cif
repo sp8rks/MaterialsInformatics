@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Ge-H-O-P         # H2Ge[PO4]2[H2O]                               # 1623139 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1623139
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1623139
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Ge [P O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'Ge H2 O9 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Zr[PO~4~]~2~[H~2~O],mP48,14
+_chemical_formula_weight                 282.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Redetermination of the crystal structure of Ge(HPO~4~)~2~.H~2~O, and its thermal behaviour in the range 300 >= T >= 16 K
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2007
+_journal_volume                          180
+_journal_page_first                      2363
+_journal_page_last                       2370
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Peters L.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+'Evans J.S.O.'
+;
+Durham University
+Department of Chemistry
+Durham
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.293
+_cell_length_b                           4.7885
+_cell_length_c                           16.4092
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.984
+_cell_angle_gamma                        90
+_cell_volume                             616.18
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ Ge
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P1 P 4 e -0.0077 0.243 0.1035 1
+ O2 O 4 e 0.0531 0.044 0.4208 1
+ O4 O 4 e 0.0821 0.244 0.2056 1
+ O1 O 4 e 0.1212 0.145 0.0616 1
+ O3 O 4 e 0.169 0.56 0.4195 1
+ Ge Ge 4 e 0.245 0.248 0.4908 1
+ O5 O 4 e 0.3077 0.575 0.056 1
+ O8 O 4 e 0.3747 0.141 0.4217 1
+ O6 O 4 e 0.4372 0.059 0.0682 1
+ O7 O 4 e 0.4915 0.252 0.3047 1
+ P2 P 4 e 0.5324 0.257 0.405 1
+ O9 OH2 4 e 0.747 0.276 0.2414 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.05
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 50
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                100
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0706
+_pd_proc_ls_proof_wR_factor              0.0966
+_refine_ls_R_I_factor                    0.0367
+
+# End of data set 1623139
+
+

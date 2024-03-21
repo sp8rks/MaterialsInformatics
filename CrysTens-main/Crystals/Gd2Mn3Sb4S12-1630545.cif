@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# Gd-Mn-S-Sb       # Gd2Mn3Sb4S12                                  # 1630545 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1630545
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1630545
+
+# Entry summary
+
+_chemical_formula_structural             'Gd~2~ Mn~3~ Sb~4~ S~12~'
+_chemical_formula_sum                    'Gd2 Mn3 S12 Sb4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Pr~2~Mn~3~Sb~4~S~12~,mS42,12
+_chemical_formula_weight                 1351.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses, crystal and electronic structures, and physical properties of quaternary semiconductors: Ln~2~Mn~3~Sb~4~S~12~ (Ln= Pr, Nd, Sm, Gd)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2010
+_journal_volume                          49
+_journal_page_first                      5811
+_journal_page_last                       5817
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhao H.J.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Li L.H.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Wu L.M.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Chen L.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           19.9672
+_cell_length_b                           3.8803
+_cell_length_c                           14.901
+_cell_angle_alpha                        90
+_cell_angle_beta                         126.702
+_cell_angle_gamma                        90
+_cell_volume                             925.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ Sb
+ Mn
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 4 i 0.056 0 0.1963 1
+ Sb1 Sb 4 i 0.10642 0 0.55149 1
+ Mn1 Mn 4 i 0.19899 0 0.3787 1
+ Gd1 Gd 4 i 0.24146 0 0.13503 1
+ S5 S 4 i 0.2558 0 0.7096 1
+ S6 S 4 i 0.347 0 0.5497 1
+ S4 S 4 i 0.4101 0 0.346 1
+ Sb2 Sb 4 i 0.46171 0 0.18457 1
+ S2 S 4 i 0.6048 0 0.0248 1
+ S3 S 4 i 0.8284 0 0.1029 1
+ Mn2 Mn 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.85
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1500
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2620
+_diffrn_reflns_theta_min                 1.7
+_diffrn_reflns_theta_max                 25.7
+_exptl_absorpt_coefficient_mu            16.102
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             66
+_refine_ls_number_reflns                 895
+_refine_ls_R_factor_gt                   0.0456
+_refine_ls_wR_factor_gt                  0.1075
+
+# End of data set 1630545
+
+

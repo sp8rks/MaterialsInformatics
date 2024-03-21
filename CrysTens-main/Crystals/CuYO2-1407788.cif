@@ -1,0 +1,199 @@
+##############################################################################
+#                                                                            #
+# Cu-O-Y           # CuYO2 hex                                     # 1407788 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1407788
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1407788
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Y O~2~'
+_chemical_formula_sum                    'Cu O2 Y'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AgFeO~2~,hP8,194
+_chemical_formula_weight                 184.5
+
+# Bibliographic data
+
+_publ_section_title
+'A New Delafossite-Type Compound CuYO~2~. I. Synthesis and Characterization'  
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1983
+_journal_volume                          49
+_journal_page_first                      232
+_journal_page_last                       236
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ishiguro T.'
+;
+Tokyo Institute of Technology
+Department of Inorganic Materials
+Tokyo / Tokyo
+Japan
+;
+'Ishizawa N.'
+;
+Tokyo Institute of Technology
+Department of Inorganic Materials
+Tokyo / Tokyo
+Japan
+;
+'Mizutani N.'
+;
+Tokyo Institute of Technology
+Department of Inorganic Materials
+Tokyo / Tokyo
+Japan
+;
+'Kato M.'
+;
+Tokyo Institute of Technology
+Department of Inorganic Materials
+Tokyo / Tokyo
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.5206
+_cell_length_b                           3.5206
+_cell_length_c                           11.418
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             122.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cu
+ Y
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O O 4 f 0.333333 0.666667 0.0893 1
+ Cu Cu 2 c 0.333333 0.666667 0.25 1
+ Y Y 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.00
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            29
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            40.38
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 286
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 57.167 25
+ 1 0 0 30.491 18
+ 1 0 1 29.45 59
+ 0 0 4 28.559 68
+ 1 0 2 26.929 38
+ 1 0 4 20.84 5
+ 1 0 5 18.268 6
+ 1 1 0 17.603 100
+ 1 1 2 16.823 12
+ 1 0 6 16.14 4
+ 2 0 0 15.242 3
+ 2 0 1 15.105 6
+ 1 1 4 14.986 45
+ 2 0 2 14.733 7
+ 0 0 8 14.276 8
+ 2 1 0 11.526 4
+ 0 0 10 11.465 4
+ 2 1 2 11.296 6
+ 1 1 8 11.088 16
+ 3 0 0 10.163 13
+ 3 0 2 10.006 3
+ 1 1 10 9.575 10
+ 0 0 12 9.515 3
+ 3 0 6 8.964 1
+ 2 2 0 8.801 7
+ 2 2 2 8.698 3
+ 3 1 0 8.456 2
+ 2 2 4 8.412 7
+ 1 1 12 8.37 10
+ 3 0 8 8.278 5
+
+# End of data set 1407788
+
+

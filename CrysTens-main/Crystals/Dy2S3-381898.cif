@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Dy-S             # Dy2S3 mon                                     #  381898 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_381898
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      381898
+
+# Entry summary
+
+_chemical_formula_structural             'Dy~2~ S~3~'
+_chemical_formula_sum                    'Dy2 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ho~2~S~3~,mP30,11
+_chemical_formula_weight                 421.2
+
+# Bibliographic data
+
+_publ_section_title
+'Les sulfures et oxysulfures de gadolinium, dysprosium et erbium'             
+_journal_coden_ASTM                      COREAF
+_journal_name_full                       'C. R. Hebd. Seances Acad. Sci.'
+_journal_year                            1957
+_journal_volume                          245
+_journal_page_first                      2291
+_journal_page_last                       2293
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Flahaut J.'
+;
+Paris University
+Paris
+France
+;
+'Guittard M.'
+;
+Paris University
+Paris
+France
+;
+'Loriers J.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Meudon-Bellevue
+France
+;
+'Patrie M.'
+;
+Paris University
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.17
+_cell_length_b                           4.02
+_cell_length_c                           17.57
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.83
+_cell_angle_gamma                        90
+_cell_volume                             709.8
+_cell_formula_units_Z                    6
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ S
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 2 e 0.0081 0.25 0.7689 1
+ S2 S 2 e 0.0531 0.25 0.0756 1
+ Dy1 Dy 2 e 0.1242 0.25 0.9300 1
+ Dy2 Dy 2 e 0.1872 0.25 0.2203 1
+ Dy3 Dy 2 e 0.1894 0.25 0.5208 1
+ S3 S 2 e 0.2683 0.25 0.3731 1
+ S4 S 2 e 0.3192 0.25 0.6825 1
+ S5 S 2 e 0.3678 0.25 0.0319 1
+ Dy4 Dy 2 e 0.4867 0.25 0.8981 1
+ Dy5 Dy 2 e 0.5494 0.25 0.6156 1
+ S6 S 2 e 0.6167 0.25 0.4672 1
+ S7 S 2 e 0.6372 0.25 0.7808 1
+ S8 S 2 e 0.7108 0.25 0.1306 1
+ Dy6 Dy 2 e 0.8292 0.25 0.2806 1
+ S9 S 2 e 0.9506 0.25 0.4239 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.91
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               film
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 381898
+
+

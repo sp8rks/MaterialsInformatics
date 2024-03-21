@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# H-N-O-Se         # H[NH4][SeO4] rt                               # 1621833 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1621833
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1621833
+
+# Entry summary
+
+_chemical_formula_structural             'H [N H~4~] [Se O~4~]'
+_chemical_formula_sum                    'H5 N O4 Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[NH~4~][SeO~4~],mS36,5
+_chemical_formula_weight                 162.0
+
+# Bibliographic data
+
+_publ_section_title
+'Neutron diffraction study of RbHSeO~4~ and NH~4~HSeO~4~ single crystals'     
+_journal_coden_ASTM                      FEROA8
+_journal_name_full                       Ferroelectrics
+_journal_year                            1990
+_journal_volume                          107
+_journal_page_first                      281
+_journal_page_last                       286
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Makarova I.P.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Muradyan L.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Rider E.E.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Sarin V.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Alexandrova I.P.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Simonov V.I.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           19.754
+_cell_length_b                           7.55
+_cell_length_c                           4.607
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.59
+_cell_angle_gamma                        90
+_cell_volume                             670.6
+_cell_formula_units_Z                    6
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Se
+ N
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 c 0.0301 0.1366 0.284 1
+ Se1 Se 4 c 0.1676 0.4216 0.6991 1
+ O2 O 4 c 0.1939 0.287 0.468 1
+ O3 O 4 c 0.2688 0.026 0.095 1
+ N1 N 4 c 0.335 0.412 0.4272 1
+ O4 O 4 c 0.3686 0.784 0.082 1
+ O5 O 4 c 0.3953 0.047 0.467 1
+ O6 O 4 c 0.4365 0.3826 0.059 1
+ Se2 Se 2 a 0 0.0 0 1
+ N2 N 2 a 0 0.519 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.41
+_cell_measurement_temperature            293
+_cell_measurement_radiation              neutrons
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1621833
+
+

@@ -1,0 +1,200 @@
+##############################################################################
+#                                                                            #
+# C-Fe-H-O-P       # Fe[PH3][CO]4                                  # 1639912 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1639912
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1639912
+
+# Entry summary
+
+_chemical_formula_structural             'Fe [P H~3~] [C O]~4~'
+_chemical_formula_sum                    'C4 Fe H3 O4 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe[PH~3~][CO]~4~,mS40,9
+_chemical_formula_weight                 201.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Stoichiometry-controlled FeP nanoparticles synthesized from a single source precursor
+;
+_journal_coden_ASTM                      CHCOFS
+_journal_name_full                       'Chem. Commun. (Cambridge)'
+_journal_year                            2013
+_journal_volume                          49
+_journal_page_first                      11788
+_journal_page_last                       11790
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hunger C.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+'Delpech F.'
+;
+Toulouse III Paul Sabatier University
+Laboratoire de Physique et Chimie des Nano-Objets
+Toulouse
+France
+;
+'Ojo W.S.'
+;
+Toulouse III Paul Sabatier University
+Laboratoire de Physique et Chimie des Nano-Objets
+Toulouse
+France
+;
+'Bauer S.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+'Xu S.'
+;
+Toulouse III Paul Sabatier University
+Laboratoire de Physique et Chimie des Nano-Objets
+Toulouse
+France
+;
+'Zabel M.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+'Chaudret B.'
+;
+Toulouse III Paul Sabatier University
+Laboratoire de Physique et Chimie des Nano-Objets
+Toulouse
+France
+;
+'Lacroix L.M.'
+;
+Toulouse III Paul Sabatier University
+Laboratoire de Physique et Chimie des Nano-Objets
+Toulouse
+France
+;
+'Scheer M.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+'Nayral C.'
+;
+Toulouse III Paul Sabatier University
+Laboratoire de Physique et Chimie des Nano-Objets
+Toulouse
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.7363
+_cell_length_b                           6.9251
+_cell_length_c                           9.3352
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.518
+_cell_angle_gamma                        90
+_cell_volume                             731.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ Fe
+ O
+ P
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C3 C 4 a 0.0 0.2963 0.0 1
+ Fe1 Fe 4 a 0.0866 0.16715 0.1608 1
+ C4 C 4 a 0.0908 0.0899 0.6739 1
+ C2 C 4 a 0.1626 0.3058 0.3185 1
+ C1 C 4 a 0.2122 0.1664 0.086 1
+ O2 O 4 a 0.2153 0.3941 0.4207 1
+ O1 O 4 a 0.2918 0.1667 0.0408 1
+ P P 4 a 0.42785 0.6655 0.24719 1
+ O3 O 4 a 0.4462 0.1225 0.3983 1
+ O4 O 4 a 0.5939 0.244 0.1798 1
+ H2 H 4 a 0.3425 0.518 0.2134 1
+ H1 H 4 a 0.3455 0.192 0.7004 1
+ H3 H 4 a 0.4305 0.676 0.3864 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.83
+_cell_measurement_temperature            123(1)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1147
+_diffrn_ambient_temperature              123(1)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1971
+_diffrn_reflns_theta_min                 3.6
+_diffrn_reflns_theta_max                 27.1
+_exptl_absorpt_coefficient_mu            2.224
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             103
+_refine_ls_number_reflns                 1153
+_refine_ls_R_factor_gt                   0.0284
+_refine_ls_wR_factor_gt                  0.0914
+
+# End of data set 1639912
+
+

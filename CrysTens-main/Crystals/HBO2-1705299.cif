@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# B-H-O            # HBO2 mon                                      # 1705299 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1705299
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1705299
+
+# Entry summary
+
+_chemical_formula_structural             'H B O~2~'
+_chemical_formula_sum                    'B H O2'
+_chemical_name_mineral                   clinometaborite
+_chemical_compound_source                ?
+_chemical_name_structure_type            HBO~2~,mP36,14
+_chemical_formula_weight                 43.8
+
+# Bibliographic data
+
+_publ_section_title
+'The monoclinic and cubic phases of metaboric acid (precise redeterminations)'
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2000
+_journal_volume                          56
+_journal_page_first                      276
+_journal_page_last                       278
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Freyhardt C.C.'
+;
+Constance (Konstanz) University
+Fakult\"at f\"ur Chemie
+Constance (Konstanz)
+Germany
+;
+'Wiebcke M.'
+;
+Constance (Konstanz) University
+Fakult\"at f\"ur Chemie
+Constance (Konstanz)
+Germany
+;
+'Felsche J.'
+;
+Constance (Konstanz) University
+Fakult\"at f\"ur Chemie
+Constance (Konstanz)
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.758
+_cell_length_b                           8.844
+_cell_length_c                           7.075
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.5
+_cell_angle_gamma                        90
+_cell_volume                             422.1
+_cell_formula_units_Z                    12
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ B
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.00514 0.0601 0.28294 1
+ B2 B 4 e 0.02201 0.21057 0.23785 1
+ O4 O 4 e 0.12194 0.80537 0.21181 1
+ B1 B 4 e 0.17027 0.54305 0.76687 1
+ O2 O 4 e 0.18324 0.2622 0.14568 1
+ O3 O 4 e 0.31767 0.01329 0.14369 1
+ B3 B 4 e 0.32851 0.16278 0.09871 1
+ O6 O 4 e 0.48196 0.21638 0.00069 1
+ O5 O 4 e 0.7227 0.45281 0.03131 1
+ H2 H 4 e 0.178 0.553 0.0703 1
+ H3 H 4 e 0.5633 0.3653 0.4731 1
+ H1 H 4 e 0.638 0.3666 0.006 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.07
+_cell_measurement_temperature            183
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4617
+_exptl_absorpt_coefficient_mu            0.247
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             94
+_refine_ls_number_reflns                 4400
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.087
+
+# End of data set 1705299
+
+

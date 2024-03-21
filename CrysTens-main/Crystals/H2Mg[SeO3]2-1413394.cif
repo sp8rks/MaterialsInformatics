@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# H-Mg-O-Se        # H2Mg[SeO3]2                                   # 1413394 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1413394
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1413394
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Mg [Se O~3~]~2~'
+_chemical_formula_sum                    'H2 Mg O6 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Mg[SeO~3~]~2~,mP18,14
+_chemical_formula_weight                 280.2
+
+# Bibliographic data
+
+_publ_section_title                      'A new acid selenite: Mg(HSeO~3~)~2~'
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1997
+_journal_volume                          53
+_journal_page_first                      666
+_journal_page_last                       668
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Boldt K.'
+;
+Siegen University
+Institut f\"ur Anorganische Chemie
+Siegen
+Germany
+;
+'Engelen B.'
+;
+Siegen University
+Institut f\"ur Anorganische Chemie
+Siegen
+Germany
+;
+'Unterderweide K.'
+;
+Siegen University
+Institut f\"ur Anorganische Chemie
+Siegen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.57
+_cell_length_b                           5.231
+_cell_length_c                           10.5835
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.811
+_cell_angle_gamma                        90
+_cell_volume                             264.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Mg
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.17785 0.0791 0.21835 1
+ O2 O 4 e 0.25289 0.2503 0.46769 1
+ O3 O 4 e 0.31763 0.7172 0.06773 1
+ Se Se 4 e 0.32528 0.31845 0.33453 1
+ Mg Mg 2 a 0 0 0 1
+ H H 4 e 0.313 0.575 0.038 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.51
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            56
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    2980
+_exptl_absorpt_coefficient_mu            14.032
+_exptl_absorpt_correction_type           'empirical and spherical'
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             48
+_refine_ls_number_reflns                 1837
+_refine_ls_R_factor_gt                   0.024
+_refine_ls_wR_factor_gt                  0.056
+
+# End of data set 1413394
+
+

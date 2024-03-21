@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Gd-Ge-H-O        # Gd3GeO5[OH]3                                  # 1802074 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1802074
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1802074
+
+# Entry summary
+
+_chemical_formula_structural             'Gd~3~ Ge O~5~ [O H]~3~'
+_chemical_formula_sum                    'Gd3 Ge H3 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Y~3~GeO~5~([OH]~0.5~F~0.5~)~3~,mP24,11                                        
+_chemical_formula_weight                 675.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and structures of Gd~3~GeO~5~(OH)~3~ and Sm~3~GeO~5~(OH)~3~: A new example of fivefold coordination of germanium
+;
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1989
+_journal_volume                          34
+_journal_page_first                      604
+_journal_page_last                       606
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Genkina E.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Demyanets L.N.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Mamin B.F.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Maksimov B.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.51
+_cell_length_b                           10.277
+_cell_length_c                           6.011
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.89
+_cell_angle_gamma                        90
+_cell_volume                             328.95
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ OH
+ Gd
+ Ge
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 f 0.006 0.1264 0.604 1
+ O2 OH 4 f 0.272 0.4806 0.069 1
+ O4 O 4 f 0.449 0.1309 0.539 1
+ Gd2 Gd 4 f 0.6862 0.0468 0.2992 1
+ O1 O 2 e 0.042 0.25 0.187 1
+ Ge Ge 2 e 0.1908 0.25 0.4808 1
+ O5 OH 2 e 0.531 0.25 0.09 1
+ Gd1 Gd 2 e 0.7752 0.25 0.8133 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.82
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            35.59
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1403
+_refine_ls_R_factor_gt                   0.054
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1802074
+
+

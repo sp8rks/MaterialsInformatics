@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Fe-O-P           # Fe3[PO4]2 gra                                 # 1520504 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1520504
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1520504
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~3~ [P O~4~]~2~'
+_chemical_formula_sum                    'Fe3 O8 P2'
+_chemical_name_mineral                   graftonite
+_chemical_compound_source                ?
+_chemical_name_structure_type
+(Ca~0.13~Mn~0.27~Fe~0.60~)~3~[PO~4~]~2~,mP52,14                               
+_chemical_formula_weight                 357.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Determination of the cation distribution in NiFe~2~(PO~4~)~2~ using resonant X-ray and neutron powder diffraction
+;
+_journal_coden_ASTM                      JACGAR
+_journal_name_full                       'J. Appl. Crystallogr.'
+_journal_year                            1995
+_journal_volume                          28
+_journal_page_first                      494
+_journal_page_last                       502
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Warner J.K.'
+;
+Oxford University
+Department of Chemical Crystallography
+Oxford
+United Kingdom
+;
+'Cheetham A.K.'
+;
+California Santa Barbara University
+Department of Materials
+Santa Barbara
+U.S.A. California
+;
+'Cox D.E.'
+;
+Brookhaven National Laboratory
+Upton
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.8839
+_cell_length_b                           11.1738
+_cell_length_c                           6.1459
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.357
+_cell_angle_gamma                        90
+_cell_volume                             601.97
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0203 0.322 0.1714 1
+ O8 O 4 e 0.0332 0.0379 0.2658 1
+ P2 P 4 e 0.1062 0.9119 0.3038 1
+ Fe3 Fe 4 e 0.1367 0.1945 0.3822 1
+ O4 O 4 e 0.2005 0.8754 0.1202 1
+ Fe2 Fe 4 e 0.2236 0.5803 0.3309 1
+ O6 O 4 e 0.2284 0.5874 0.0222 1
+ O5 O 4 e 0.2721 0.2227 0.1276 1
+ O7 O 4 e 0.3717 0.4406 0.4059 1
+ P1 P 4 e 0.4036 0.1361 0.107 1
+ O1 O 4 e 0.4283 0.0607 0.3236 1
+ Fe1 Fe 4 e 0.5697 0.3836 0.1326 1
+ O3 O 4 e 0.5516 0.2039 0.1031 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             1.7437
+_pd_proc_wavelength                      1.7437
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+U.S.A. New York, Brookhaven National Laboratory, National Synchrotron Light Source NSLS, X7A
+;
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             1.7437
+_diffrn_reflns_number                    540
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             59
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0604
+_pd_proc_ls_proof_wR_factor              0.0769
+_refine_ls_R_I_factor                    0.063
+
+# End of data set 1520504
+
+

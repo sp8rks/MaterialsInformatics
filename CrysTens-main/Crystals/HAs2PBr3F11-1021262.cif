@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# As-Br-F-H-P      # HAs2PBr3F11                                   # 1021262 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1021262
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1021262
+
+# Entry summary
+
+_chemical_formula_structural             'H As~2~ P Br~3~ F~11~'
+_chemical_formula_sum                    'As2 Br3 F11 H P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HAs~2~PBr~3~F~11~,mP34,11
+_chemical_formula_weight                 630.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structures of the trihalogenphosphonium salts X~3~PH^+^As~2~F~11~^-^ (X= Cl, Br)
+;
+_journal_coden_ASTM                      EJICFO
+_journal_name_full                       'Eur. J. Inorg. Chem.'
+_journal_year                            2002
+_journal_volume                          ?
+_journal_page_first                      569
+_journal_page_last                       572
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Minkwitz R.'
+;
+Dortmund Technical University
+Fachbereich Chemie
+Dortmund
+Germany
+;
+'Dzyk M.'
+;
+Dortmund Technical University
+Fachbereich Chemie
+Dortmund
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.177
+_cell_length_b                           8.724
+_cell_length_c                           11.825
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.68
+_cell_angle_gamma                        90
+_cell_volume                             635.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ F
+ Br
+ As
+ P
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F21 F 4 f 0.0194 0.1145 0.379 1
+ F11 F 4 f 0.14 0.0553 0.1107 1
+ Br1 Br 4 f 0.34311 0.05142 0.79474 1
+ F23 F 4 f 0.3986 0.1135 0.4234 1
+ F12 F 2 e 0.0219 0.25 0.9669 1
+ As1 As 2 e 0.1343 0.25 0.10297 1
+ F22 F 2 e 0.1662 0.25 0.5548 1
+ As2 As 2 e 0.2065 0.25 0.41552 1
+ F15 F 2 e 0.2595 0.25 0.2492 1
+ F14 F 2 e 0.3968 0.25 0.0622 1
+ P1 P 2 e 0.5389 0.25 0.8063 1
+ Br2 Br 2 e 0.7614 0.25 0.67995 1
+ F13 F 2 e 0.8844 0.25 0.1555 1
+ H1 H 2 e 0.6694 0.25 0.9186 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.30
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    1490
+_diffrn_reflns_theta_min                 2.9
+_diffrn_reflns_theta_max                 25.56
+_exptl_absorpt_coefficient_mu            14.932
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             94
+_refine_ls_number_reflns                 809
+_refine_ls_R_factor_gt                   0.050
+_refine_ls_wR_factor_gt                  0.1160
+
+# End of data set 1021262
+
+

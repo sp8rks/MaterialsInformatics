@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Br-H-O-Rb-Se-Zn  # H2RbZn[SeO3]2Br                               # 1920025 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1920025
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1920025
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Rb Zn [Se O~3~]~2~ Br'
+_chemical_formula_sum                    'Br H2 O6 Rb Se2 Zn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~RbZn[SeO~3~]~2~Cl,mP22,13
+_chemical_formula_weight                 486.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures of rubidium zinc bis(hydrogenselenate(IV)) chloride, RbZn(HSeO~3~)~2~Cl, and rubidium zinc bis(hydrogenselenate(IV)) bromide, RbZn(HSeO~3~)~2~Br
+;
+_journal_coden_ASTM                      ZKNSFT
+_journal_name_full
+'Z. Kristallogr. - New Cryst. Struct.'                                        
+_journal_year                            2007
+_journal_volume                          222
+_journal_page_first                      91
+_journal_page_last                       92
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Spirovski F.'
+;
+Siegen University
+Institut f\"ur Anorganische Chemie
+Siegen
+Germany
+;
+'Wagener M.'
+;
+Siegen University
+Institut f\"ur Anorganische Chemie
+Siegen
+Germany
+;
+'Stefov V.'
+;
+Skopje Sts. Cyril and Methodius University
+Institute of Chemistry
+Skopje
+Macedonia
+;
+'Engelen B.'
+;
+Siegen University
+Institut f\"ur Anorganische Chemie
+Siegen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.528
+_cell_length_b                           6.218
+_cell_length_c                           10.743
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.57
+_cell_angle_gamma                        90
+_cell_volume                             423.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Rb
+ Br
+ Zn
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 g 0.1888 0.5091 0.1188 1
+ Se Se 4 g 0.20635 0.3135 0.0138 1
+ O1 O 4 g 0.2536 0.5474 0.3871 1
+ O3 O 4 g 0.4631 0.2174 0.0762 1
+ Rb Rb 2 f 0.5 0.83057 0.25 1
+ Br Br 2 e 0 0.05222 0.25 1
+ Zn Zn 2 e 0 0.44687 0.25 1
+ H H 4 g 0.54 0.319 0.075 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.81
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS I'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    4819
+_exptl_absorpt_coefficient_mu            21.881
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 1063
+_refine_ls_R_factor_gt                   0.026
+_refine_ls_wR_factor_gt                  0.062
+
+# End of data set 1920025
+
+

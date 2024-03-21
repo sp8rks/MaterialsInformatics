@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Cl-Cu-O-Se       # Cu5[SeO3]2Cl2O2 geo                           # 1616526 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1616526
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1616526
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~5~ [Se O~3~]~2~ Cl~2~ O~2~'
+_chemical_formula_sum                    'Cl2 Cu5 O8 Se2'
+_chemical_name_mineral                   georgbokiite
+_chemical_compound_source
+'Russia, Kamchatka Peninsula, Tolbachik volcanic complex'                     
+_chemical_name_structure_type            Cu~5~[SeO~3~]~2~Cl~2~O~2~-a,mP34,14
+_chemical_formula_weight                 674.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal chemistry of inorganic compounds based on chains of oxocentered tetrahedra. III. Crystal structure of georgbokiite, Cu~5~O~2~(SeO~3~)~2~Cl~2~
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1999
+_journal_volume                          214
+_journal_page_first                      135
+_journal_page_last                       138
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Krivovichev S.V.'
+;
+Saint Petersburg State University
+Department of Crystallography
+Saint Petersburg
+Russia
+;
+'Shuvalov R.R.'
+;
+Saint Petersburg State University
+Department of Crystallography
+Saint Petersburg
+Russia
+;
+'Semenova T.F.'
+;
+Saint Petersburg State University
+Department of Crystallography
+Saint Petersburg
+Russia
+;
+'Filatov S.K.'
+;
+Saint Petersburg State University
+Department of Crystallography
+Saint Petersburg
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.03
+_cell_length_b                           13.744
+_cell_length_c                           5.562
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.75
+_cell_angle_gamma                        90
+_cell_volume                             458.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cu
+ Cl
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.003 0.5618 0.1805 1
+ Cu1 Cu 4 e 0.0696 0.18954 0.4448 1
+ Cl Cl 4 e 0.1712 0.825 0.2657 1
+ Cu3 Cu 4 e 0.2407 0.5036 0.0132 1
+ O4 O 4 e 0.2531 0.2216 0.1837 1
+ O2 O 4 e 0.2766 0.4404 0.4233 1
+ Se Se 4 e 0.438 0.13521 0.1001 1
+ O3 O 4 e 0.473 0.0728 0.367 1
+ Cu2 Cu 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.88
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 18.65
+_exptl_absorpt_coefficient_mu            19.944
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             79
+_refine_ls_number_reflns                 1052
+_refine_ls_R_factor_gt                   0.043
+_refine_ls_wR_factor_gt                  0.108
+
+# End of data set 1616526
+
+

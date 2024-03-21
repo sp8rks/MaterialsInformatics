@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Cu-H-N-O-V       # CuV2O6[NH3]2 rt                               # 1411239 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1411239
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1411239
+
+# Entry summary
+
+_chemical_formula_structural             'Cu V~2~ O~6~ [N H~3~]~2~'
+_chemical_formula_sum                    'Cu H6 N2 O6 V2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuV~2~O~6~[NH~3~]~2~,mP22,7
+_chemical_formula_weight                 295.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Preparation, crystal structure, thermal and catalytical behaviour of copper diammine divanadate
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1993
+_journal_volume                          28
+_journal_page_first                      45
+_journal_page_last                       58
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Aschwanden S.'
+;
+Zurich University
+Institut f\"ur Anorganische Chemie
+Zurich
+Switzerland
+;
+'Schmalle H.W.'
+;
+Zurich University
+Institut f\"ur Anorganische Chemie
+Zurich
+Switzerland
+;
+'Reller A.'
+;
+Zurich University
+Institut f\"ur Anorganische Chemie
+Zurich
+Switzerland
+;
+'Oswald H.R.'
+;
+Zurich University
+Institut f\"ur Anorganische Chemie
+Zurich
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.616
+_cell_length_b                           5.591
+_cell_length_c                           11.331
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.91
+_cell_angle_gamma                        90
+_cell_volume                             355.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ O
+ V
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N1 N 2 a 0.0 0.5637 0.0 1
+ O3 O 2 a 0.0003 0.119 0.8469 1
+ V1 V 2 a 0.0214 0.0479 0.2281 1
+ O2 O 2 a 0.0713 0.3304 0.2633 1
+ O1 O 2 a 0.2504 0.0675 0.6477 1
+ Cu Cu 2 a 0.255 0.5029 0.38957 1
+ O4 O 2 a 0.4361 0.337 0.0155 1
+ V2 V 2 a 0.49129 0.0484 0.05219 1
+ O6 O 2 a 0.5059 0.1152 0.4371 1
+ N2 N 2 a 0.5207 0.5575 0.2778 1
+ O5 O 2 a 0.7576 0.025 0.128 1
+ H12 H 2 a 0.0594 0.614 0.0501 1
+ H21 H 2 a 0.4794 0.516 0.2161 1
+ H22 H 2 a 0.5384 0.742 0.2651 1
+ H23 H 2 a 0.6904 0.45 0.2861 1
+ H11 H 2 a 0.8844 0.342 0.4711 1
+ H13 H 2 a 0.9344 0.408 0.0351 1
+
+
+_exptl_crystal_colour                    'green dark'
+_exptl_crystal_density_meas              2.74
+_exptl_crystal_density_diffrn            2.76
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5939
+_exptl_absorpt_coefficient_mu            5.453
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             122
+_refine_ls_number_reflns                 1324
+_refine_ls_R_factor_gt                   0.028
+_refine_ls_wR_factor_gt                  0.041
+
+# End of data set 1411239
+
+

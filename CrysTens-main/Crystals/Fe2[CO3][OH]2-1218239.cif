@@ -1,0 +1,219 @@
+##############################################################################
+#                                                                            #
+# C-Fe-H-O         # Fe2[CO3][OH]2                                 # 1218239 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1218239
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1218239
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~2~ [C O~3~] [O H]~2~'
+_chemical_formula_sum                    'C Fe2 H2 O5'
+_chemical_name_mineral                   chukanovite
+_chemical_compound_source
+'Russia, Ryazan region, Kasimov, Dronino, weathered meteorite'                
+_chemical_name_structure_type            Mg~2~[CO~3~][OH]~2~,mP32,14
+_chemical_formula_weight                 205.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Chukanovite, Fe~2~(CO~3~)(OH)~2~, a new mineral from the weathered iron meteorite Dronino
+;
+_journal_coden_ASTM                      EJMIER
+_journal_name_full                       'Eur. J. Mineral.'
+_journal_year                            2007
+_journal_volume                          19
+_journal_page_first                      891
+_journal_page_last                       898
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pekov I.V.'
+;
+Moscow M.V. Lomonosov State University
+Department of Geology
+Moscow
+Russia
+;
+'Perchiazzi N.'
+;
+Pisa University
+Dipartimento di Scienze della Terra
+Pisa
+Italy
+;
+'Merlino S.'
+;
+Pisa University
+Dipartimento di Scienze della Terra
+Pisa
+Italy
+;
+'Kalachev V.N.'
+;
+Moscow M.V. Lomonosov State University
+Department of Geology
+Moscow
+Russia
+;
+'Merlini M.'
+;
+Milan University
+Dipartimento di Scienze della Terra
+Milan
+Italy
+;
+'Zadov A.E.'
+;
+Scientific Production Union Regenerator
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.2152
+_cell_length_b                           9.407
+_cell_length_c                           12.396
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.78
+_cell_angle_gamma                        90
+_cell_volume                             371.47
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ C
+ Fe
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.046 0.168 0.233 1
+ C C 4 e -0.007 0.235 0.143 1
+ O1 O 4 e 0.132 0.865 0.361 1
+ Fe2 Fe 4 e 0.054 0.2675 0.3983 1
+ O3 O 4 e 0.056 0.172 0.055 1
+ OH5 OH 4 e 0.368 0.619 0.073 1
+ Fe1 Fe 4 e 0.521 0.0005 0.2886 1
+ OH4 OH 4 e 0.558 0.4 0.379 1
+
+
+_exptl_crystal_colour                    'green pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.68
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.79593
+_pd_proc_wavelength                      0.79593
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, European Synchrotron Radiation Facility ESRF, GILDA, BM08' 
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.79593
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0343
+_pd_proc_ls_proof_wR_factor              0.0451
+_refine_ls_R_I_factor                    0.0248
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ ? ? ? 95.8 5
+ 1 1 0 75.3 15
+ ? ? ? 65.2 5
+ 2 0 0 61.3 40
+ ? ? ? 57 5
+ 2 1 0 51.5 60
+ 0 2 0 47.3 15
+ ? ? ? 41.8 10
+ 3 1 0 37.3 80
+ ? ? ? 36.1 35
+ ? ? ? 33.8 3
+ 0 0 1 32.1 5
+ 3 2 0 30.5 30
+ 4 1 0 29.16 25
+ 2 3 0 27.98 95
+ 0 2 1 26.45 100
+ 4 2 0 25.6 35
+ 5 1 0 23.61 40
+ -1 3 1 22.36 10
+ 5 2 0 21.71 40
+ -4 2 1 21.37 30
+ 2 3 1 20.4 20
+ 5 3 0 19.66 15
+ -5 2 1 19.01 3
+ 6 2 0 18.75 10
+ -2 4 1 18.5 5
+ 2 5 0 17.97 20
+ 2 4 1 17.66 10
+ -5 3 1 17.33 50
+ 3 4 1 16.67 10
+ -2 0 2 15.92 25
+ -6 3 1 15.76 10
+ 7 3 0 15.28 10
+ 5 5 0 15.09 15
+ ? ? ? 14.89 3
+ -4 2 2 14.28 25
+ 4 6 0 13.97 15
+ -2 6 1 13.82 3
+ -3 6 1 13.56 30
+ -6 1 2 13.35 10
+ 3 7 0 12.82 15
+
+# End of data set 1218239
+
+

@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# C-H-K-Ni-O-S     # K2Ni[C4O2S2]2[H2O]2                           # 1411956 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1411956
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1411956
+
+# Entry summary
+
+_chemical_formula_structural
+'K~2~ Ni [C~4~ O~2~ S~2~]~2~ [H~2~ O]~2~'                                     
+_chemical_formula_sum                    'C8 H4 K2 Ni O6 S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+K~2~Ni[C~4~O~2~S~2~]~2~[H~2~O]~2~,mP42,14                                     
+_chemical_formula_weight                 461.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Metal dithiosquarates. II. Synthesis and characterization of bis(dithiosquarato) tetrahedral and planar complexes. Crystal and molecular structure of potassium bis(dithiosquarato)nickelate(II) dihydrate
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1975
+_journal_volume                          14
+_journal_page_first                      2657
+_journal_page_last                       2665
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Coucouvanis D.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+'Holah D.G.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+'Hollander F.J.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.871
+_cell_length_b                           15.222
+_cell_length_c                           6.406
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.58
+_cell_angle_gamma                        90
+_cell_volume                             763.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ C
+ O
+ K
+ Ni
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 4 e 0.1119 0.57098 0.7818 1
+ S1 S 4 e 0.1178 0.12868 0.1 1
+ C2 C 4 e 0.2176 0.0123 0.4108 1
+ C1 C 4 e 0.2228 0.0979 0.3321 1
+ O3 O 4 e 0.2337 0.7173 0.1641 1
+ C3 C 4 e 0.3301 0.4651 0.0983 1
+ C4 C 4 e 0.3377 0.373 0.0129 1
+ O1 O 4 e 0.4141 0.3064 0.0724 1
+ K K 4 e 0.5552 0.35217 0.4896 1
+ O2 O 4 e 0.6045 0.0022 0.2446 1
+ Ni Ni 2 a 0 0 0 1
+ H1 H 4 e 0.11 0.712 0.21 1
+ H2 H 4 e 0.213 0.694 0.07 1
+
+
+_exptl_crystal_colour                    'brown red'
+_exptl_crystal_density_meas              2.03
+_exptl_crystal_density_diffrn            2.01
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            12
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    1424
+_diffrn_reflns_theta_min                 0
+_diffrn_reflns_theta_max                 20
+_exptl_absorpt_coefficient_mu            2.33
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             105
+_refine_ls_number_reflns                 583
+_refine_ls_R_factor_gt                   0.018
+_refine_ls_wR_factor_gt                  0.020
+
+# End of data set 1411956
+
+

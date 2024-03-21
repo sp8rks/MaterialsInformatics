@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-S         # Cu4[SO4][OH]6                                 # 1225291 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1225291
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1225291
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~4~ [S O~4~] [O H]~6~'
+_chemical_formula_sum                    'Cu4 H6 O10 S'
+_chemical_name_mineral                   brochantite
+_chemical_compound_source
+'U.S.A. Nevada, Yerington, Douglas Hill mine'                                 
+_chemical_name_structure_type            Cu~4~[SO~4~][OH]~6~-a,mP60,14
+_chemical_formula_weight                 452.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Discreditation of "orthobrochantite" (IMA 78-64) as the MDO~1~ polytype of brochantite
+;
+_journal_coden_ASTM                      EJMIER
+_journal_name_full                       'Eur. J. Mineral.'
+_journal_year                            2010
+_journal_volume                          22
+_journal_page_first                      453
+_journal_page_last                       457
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mills S.J.'
+;
+Vancouver British Columbia University
+Department of Earth and Ocean Sciences
+Vancouver
+Canada
+;
+'Kampf A.R.'
+;
+Los Angeles County Museum of Natural History
+Department of Mineral Sciences
+Los Angeles
+U.S.A. California
+;
+'Pasero M.'
+;
+Pisa University
+Dipartimento di Scienze della Terra
+Pisa
+Italy
+;
+'Merlino S.'
+;
+Pisa University
+Dipartimento di Scienze della Terra
+Pisa
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.0307
+_cell_length_b                           9.8654
+_cell_length_c                           13.1117
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.255
+_cell_angle_gamma                        90
+_cell_volume                             759.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cu
+ OH
+ O
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu3 Cu 4 e 0.0217 0.50995 0.29451 1
+ O5 OH 4 e 0.0435 0.117 0.3413 1
+ O10 O 4 e 0.0543 0.8493 0.4417 1
+ O6 OH 4 e 0.08 0.3678 0.4087 1
+ S1 S 4 e 0.1819 0.3028 0.1128 1
+ Cu4 Cu 4 e 0.1854 0.74252 0.11999 1
+ O9 O 4 e 0.1867 0.15 0.1185 1
+ O7 O 4 e 0.2394 0.3594 0.2228 1
+ Cu1 Cu 4 e 0.3167 0.24087 0.3815 1
+ O8 O 4 e 0.3665 0.3504 0.0577 1
+ Cu2 Cu 4 e 0.4761 0.00997 0.20272 1
+ O2 OH 4 e 0.5506 0.1181 0.3444 1
+ O1 OH 4 e 0.5827 0.3671 0.4152 1
+ O3 OH 4 e 0.6938 0.1048 0.1368 1
+ O4 OH 4 e 0.7439 0.4011 0.2413 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.96
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.710747
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku R-AXIS SPIDER'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.710747
+_diffrn_reflns_number                    12655
+_exptl_absorpt_coefficient_mu            11.368
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             137
+_refine_ls_number_reflns                 1724
+_refine_ls_R_factor_gt                   0.0883
+_refine_ls_wR_factor_gt                  0.1116
+
+# End of data set 1225291
+
+

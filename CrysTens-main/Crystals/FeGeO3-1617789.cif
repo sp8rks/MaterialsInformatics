@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# Fe-Ge-O          # FeGeO3 rt                                     # 1617789 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1617789
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1617789
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Ge O~3~'
+_chemical_formula_sum                    'Fe Ge O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            CoGeO~3~,mS40,15
+_chemical_formula_weight                 176.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Single-crystal X-ray diffraction study of FeGeO~3~ high-P clinopyroxene (C2/c) up to 8.2 GPa
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2000
+_journal_volume                          85
+_journal_page_first                      1485
+_journal_page_last                       1491
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hattori T.'
+;
+Toyonaka Osaka University
+Department of Earth and Space Science
+Toyonaka / Osaka
+Japan
+;
+'Nagai T.'
+;
+Toyonaka Osaka University
+Department of Earth and Space Science
+Toyonaka / Osaka
+Japan
+;
+'Yamanaka T.'
+;
+Toyonaka Osaka University
+Department of Earth and Space Science
+Toyonaka / Osaka
+Japan
+;
+'Werner S.'
+;
+Munich Ludwig Maximilian University
+Institut f\"ur Kristallographie und Angewandte Mineralogie
+Munich
+Germany
+;
+'Schultz H.'
+;
+Munich Ludwig Maximilian University
+Institut f\"ur Kristallographie und Angewandte Mineralogie
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.746
+_cell_length_b                           9.084
+_cell_length_c                           5.177
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.52
+_cell_angle_gamma                        90
+_cell_volume                             449.1
+_cell_formula_units_Z                    8
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ge
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.1193 0.4109 0.1366 1
+ O3 O 8 f 0.1399 0.0661 0.0873 1
+ Ge Ge 8 f 0.3011 0.4073 0.2155 1
+ O2 O 8 f 0.3875 0.2582 0.3845 1
+ Fe2 Fe 4 e 0 0.2285 0.25 1
+ Fe1 Fe 4 e 0 0.5916 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.22
+_cell_measurement_temperature            ?
+_cell_measurement_pressure               1.5e+006
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            20
+_diffrn_ambient_pressure                 1.5e+006
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC5'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1083
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 274
+_refine_ls_R_factor_gt                   0.0667
+_refine_ls_wR_factor_gt                  0.0802
+
+# End of data set 1617789
+
+

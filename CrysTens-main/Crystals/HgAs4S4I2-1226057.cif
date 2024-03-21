@@ -1,0 +1,170 @@
+##############################################################################
+#                                                                            #
+# As-Hg-I-S        # HgAs4S4I2                                     # 1226057 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1226057
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1226057
+
+# Entry summary
+
+_chemical_formula_structural             'Hg As~4~ S~4~ I~2~'
+_chemical_formula_sum                    'As4 Hg I2 S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HgAs~4~S~4~I~2~,mP44,14
+_chemical_formula_weight                 882.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Light-induced molecular change in HgI~2~.As~4~S~4~: Evidence by single-crystal X-ray diffraction and Raman spectroscopy
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2011
+_journal_volume                          96
+_journal_page_first                      646
+_journal_page_last                       653
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bonazzi P.'
+;
+Florence University
+Dipartimento di Scienze della Terra
+Florence
+Italy
+;
+'Bindi L.'
+;
+Florence University
+Museo di Storia Naturale
+Florence
+Italy
+;
+'Muniz Miranda M.'
+;
+Florence University
+Dipartimento di Chimica
+Florence
+Italy
+;
+'Chelazzi L.'
+;
+Florence University
+Dipartimento di Scienze della Terra
+Florence
+Italy
+;
+'R\"odl T.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+'Pfitzner A.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.421
+_cell_length_b                           14.982
+_cell_length_c                           11.5926
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.625
+_cell_angle_gamma                        90
+_cell_volume                             1295.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ I
+ As
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 4 e 0.02646 0.12323 0.0262 1
+ I1 I 4 e 0.12333 0.37712 0.15451 1
+ As2 As 4 e 0.1259 0.04369 0.22615 1
+ Hg Hg 4 e 0.20703 0.54548 0.21384 1
+ I2 I 4 e 0.24322 0.71088 0.29512 1
+ S3 S 4 e 0.27513 0.15837 0.37636 1
+ As4 As 4 e 0.2812 0.15688 0.06336 1
+ S1 S 4 e 0.36411 0.01404 0.07411 1
+ S4 S 4 e 0.39032 0.55583 0.07696 1
+ As3 As 4 e 0.47267 0.18982 0.33619 1
+ As1 As 4 e 0.61179 0.46062 0.23446 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.52
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker-Nonius MACH3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    7550
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            27.368
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             100
+_refine_ls_number_reflns                 1954
+_refine_ls_R_factor_gt                   0.0276
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1226057
+
+

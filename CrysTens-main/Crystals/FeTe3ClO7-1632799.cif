@@ -1,0 +1,191 @@
+##############################################################################
+#                                                                            #
+# Cl-Fe-O-Te       # FeTe3ClO7                                     # 1632799 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1632799
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1632799
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Te~3~ Cl O~7~'
+_chemical_formula_sum                    'Cl Fe O7 Te3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            FeTe~3~ClO~7~,mP48,14
+_chemical_formula_weight                 586.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure and magnetic properties of two new antiferromagnetic spin dimer compounds; FeTe~3~O~7~X (X= Cl, Br)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2011
+_journal_volume                          50
+_journal_page_first                      12877
+_journal_page_last                       12885
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhang D.'
+;
+Stockholm University
+Department of Materials and Environmental Chemistry
+Stockholm
+Sweden
+;
+'Kremer R.K.'
+;
+Max Planck Society
+MPI f\"ur Chemische Physik Fester Stoffe
+Stuttgart
+Germany
+;
+'Lemmens P.'
+;
+Braunschweig Technical University
+Institute for Condensed Matter Physics
+Braunschweig
+Germany
+;
+'Choi K.Y.'
+;
+Seoul Chung-Ang University
+Department of Physics
+Seoul
+South Korea
+;
+'Liu J.'
+;
+North Carolina Raleigh University
+Department of Chemistry
+Raleigh
+U.S.A. North Carolina
+;
+'Whangbo M.H.'
+;
+North Carolina Raleigh University
+Department of Chemistry
+Raleigh
+U.S.A. North Carolina
+;
+'Berger H.'
+;
+Ecole Polytechnique Federale de Lausanne (EPFL)
+Institute of Condensed Matter Physics
+Lausanne
+Switzerland
+;
+'Skourski Y.'
+;
+Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
+High Magnetic Field Laboratory
+Dresden
+Germany
+;
+'Johnsson M.'
+;
+Stockholm University
+Department of Materials and Environmental Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.7938
+_cell_length_b                           7.3586
+_cell_length_c                           10.8714
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.041
+_cell_angle_gamma                        90
+_cell_volume                             805.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Te
+ Fe
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0404 0.0089 0.4115 1
+ O3 O 4 e 0.0916 0.6108 0.3368 1
+ Te1 Te 4 e 0.1008 0.0076 0.2681 1
+ Fe1 Fe 4 e 0.118 0.3691 0.0903 1
+ O2 O 4 e 0.1351 0.2598 0.2643 1
+ O4 O 4 e 0.1525 0.1414 0.0328 1
+ Te2 Te 4 e 0.243 0.4763 0.438 1
+ O5 O 4 e 0.2726 0.5018 0.1664 1
+ O6 O 4 e 0.2915 0.8291 0.0686 1
+ Te3 Te 4 e 0.3814 0.6011 0.0835 1
+ Cl1 Cl 4 e 0.494 0.2165 0.1189 1
+ O7 O 4 e 0.7125 0.4908 0.0871 1
+
+
+_exptl_crystal_colour                    'green yellow'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.83
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur 3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    9874
+_diffrn_reflns_theta_min                 4.33
+_diffrn_reflns_theta_max                 26.35
+_exptl_absorpt_coefficient_mu            12.843
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             110
+_refine_ls_number_reflns                 1635
+_refine_ls_R_factor_gt                   0.0151
+_refine_ls_wR_factor_gt                  0.0377
+
+# End of data set 1632799
+
+

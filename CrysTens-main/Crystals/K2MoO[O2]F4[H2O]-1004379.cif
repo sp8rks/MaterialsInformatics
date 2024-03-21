@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# F-H-K-Mo-O       # K2MoO[O2]F4[H2O]                              # 1004379 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1004379
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1004379
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Mo O [O~2~] F~4~ [H~2~ O]'
+_chemical_formula_sum                    'F4 H2 K2 Mo O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~MoO[O~2~]F~4~[H~2~O],mP44,14
+_chemical_formula_weight                 316.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Single-crystal electron paramagnetic resonance investigation of \g-irradiated K~2~[MoO(O~2~)F~4~].H~2~O and molybdenum-doped K~2~[Nb(O~2~)F~5~].H~2~O
+;
+_journal_coden_ASTM                      JCDTBI
+_journal_name_full                       'J. Chem. Soc., Dalton Trans.'
+_journal_year                            1991
+_journal_volume                          ?
+_journal_page_first                      3185
+_journal_page_last                       3191
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ramakrishnan G.'
+;
+Indian Institute of Technology (IIT)
+Regional Sophisticated Instrumentation Center
+Chennai / Tamil Nadu
+India
+;
+'Rao P.S.'
+;
+Indian Institute of Technology (IIT)
+Regional Sophisticated Instrumentation Center
+Chennai / Tamil Nadu
+India
+;
+'Subramanian S.'
+;
+Indian Institute of Technology (IIT)
+Regional Sophisticated Instrumentation Center
+Chennai / Tamil Nadu
+India
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.291
+_cell_length_b                           6.296
+_cell_length_c                           18.158
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.9
+_cell_angle_gamma                        90
+_cell_volume                             714
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ F
+ Mo
+ K
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0394 0.6035 0.6256 1
+ F4 F 4 e 0.0583 0.431 0.1263 1
+ O3 O 4 e 0.0931 0.5787 0.3855 1
+ F1 F 4 e 0.1785 0.1691 0.2408 1
+ Mo Mo 4 e 0.2092 0.156 0.1305 1
+ O1 O 4 e 0.2493 0.1628 0.0391 1
+ K2 K 4 e 0.2518 0.6459 0.2479 1
+ Ow OH2 4 e 0.2869 0.6585 0.0106 1
+ K1 K 4 e 0.3208 0.1422 0.3991 1
+ F2 F 4 e 0.4531 0.3475 0.1606 1
+ F3 F 4 e 0.5628 0.4454 0.3418 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1545
+_refine_ls_R_factor_gt                   0.058
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1004379
+
+

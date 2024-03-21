@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# H-K-Na-O-Pt-Te   # H2K6Na2Pt[TeO6]2[OH]2[H2O]12                  # 1904114 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904114
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904114
+
+# Entry summary
+
+_chemical_formula_structural
+'H~2~ K~6~ Na~2~ Pt [Te O~6~]~2~ [O H]~2~ [H~2~ O]~12~'                       
+_chemical_formula_sum                    'H26 K6 Na2 O26 Pt Te2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~2~K~6~Na~2~Pt[TeO~6~]~2~[OH]~2~[H~2~O]~12~,mS74,12                          
+_chemical_formula_weight                 1175.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Coordination chemistry of higher oxidation states. 37. Tellurato complexes of palladium(IV) and platinum(IV). Crystal structures of Na~8~K~2~H~4~[Pd~2~Te~4~O~24~H~2~].20H~2~O and K~6~Na~2~[Pt(OH)~2~(HTeO~6~)~2~].12H~2~O
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1991
+_journal_volume                          30
+_journal_page_first                      967
+_journal_page_last                       971
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Levason W.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+'Spicer M.D.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+'Webster M.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           21.099
+_cell_length_b                           6.778
+_cell_length_c                           9.041
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.1
+_cell_angle_gamma                        90
+_cell_volume                             1292.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ OH2
+ O
+ OH
+ Te
+ K
+ Na
+ Pt
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 OH2 8 j 0.0618 0.2578 0.4076 1
+ O7 OH2 8 j 0.2026 0.2574 0.2418 1
+ O5 O 8 j 0.3277 0.2936 0.2376 1
+ O2 O 8 j 0.4376 0.3133 0.0892 1
+ O1 OH 4 i 0.0553 0 0.1861 1
+ O3 O 4 i 0.0725 0 0.6468 1
+ Te1 Te 4 i 0.12646 0 0.8435 1
+ O4 O 4 i 0.1695 0 0.0283 1
+ K2 K 4 i 0.1908 0 0.4856 1
+ K3 K 4 i 0.3051 0 0.0251 1
+ O8 OH2 4 i 0.3243 0 0.4247 1
+ K1 K 4 i 0.46 0 0.2929 1
+ O9 OH2 4 i 0.5711 0 0.1056 1
+ Na1 Na 4 i 0.633 0 0.3319 1
+ Pt Pt 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'yellow pale'
+_exptl_crystal_density_meas              2.89(2)
+_exptl_crystal_density_diffrn            3.02
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    1279
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            8.78
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             101
+_refine_ls_number_reflns                 1170
+_refine_ls_R_factor_gt                   0.041
+_refine_ls_wR_factor_gt                  0.051
+
+# End of data set 1904114
+
+

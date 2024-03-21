@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# C-Cu-H-N         # Cu[NC2N2]2[NH3]2 mon                          # 1128640 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1128640
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1128640
+
+# Entry summary
+
+_chemical_formula_structural             'Cu [N C~2~ N~2~]~2~ [N H~3~]~2~'
+_chemical_formula_sum                    'C4 Cu H6 N8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu[NC~2~N~2~]~2~[NH~3~]~2~,mP26,14
+_chemical_formula_weight                 229.7
+
+# Bibliographic data
+
+_publ_section_title
+Poly[diamminedi-\m~3~-dicyanamidocopper(II)]                                  
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2012
+_journal_volume                          68
+_journal_page_first                      i89
+_journal_page_last                       i90
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Diaz J.G.'
+;
+Morelia Michoacan Saint Nicholas of Hidalgo University (UMSNH)
+Faculty Chemistry Engineering
+Morelia
+Mexico
+;
+'Albor A.G.'
+;
+Morelia Michoacan Saint Nicholas of Hidalgo University (UMSNH)
+Comision Federal para la Proteccion contra Riesgos Sanitarios
+Morelia
+Mexico
+;
+'Jaime E.V.'
+;
+Morelia Michoacan Saint Nicholas of Hidalgo University (UMSNH)
+Faculty Chemistry Engineering
+Morelia
+Mexico
+;
+'Vrabel V.'
+;
+Bratislava Slovak University of Technology
+Institute of Analytical Chemistry
+Bratislava
+Slovakia
+;
+'Kozisek J.'
+;
+Bratislava Slovak University of Technology
+Department of Physical Chemistry
+Bratislava
+Slovakia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.131
+_cell_length_b                           9.6301
+_cell_length_c                           7.2162
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.782
+_cell_angle_gamma                        90
+_cell_volume                             453.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N2 N 4 e 0.09027 0.3211 0.42058 1
+ C1 C 4 e 0.125 0.20615 0.40737 1
+ N3 N 4 e 0.15107 0.07772 0.36879 1
+ C2 C 4 e 0.2567 0.50704 0.0168 1
+ N1 N 4 e 0.26849 0.58352 0.54486 1
+ N4 N 4 e 0.346 0.59051 0.13406 1
+ Cu1 Cu 2 a 0 0 0 1
+ H3 H 4 e 0.281 0.838 0.09 1
+ H1 H 4 e 0.649 0.472 0.371 1
+ H2 H 4 e 0.717 0.083 0.072 1
+
+
+_exptl_crystal_colour                    'blue dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.68
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            15460
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Gemini R'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    19836
+_diffrn_reflns_theta_min                 3.74
+_diffrn_reflns_theta_max                 28.28
+_exptl_absorpt_coefficient_mu            2.38
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             74
+_refine_ls_number_reflns                 1019
+_refine_ls_R_factor_gt                   0.017
+_refine_ls_wR_factor_gt                  0.052
+
+# End of data set 1128640
+
+

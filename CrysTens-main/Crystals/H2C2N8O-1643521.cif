@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# C-H-N-O          # H2C2N8O                                       # 1643521 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1643521
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1643521
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ C~2~ N~8~ O'
+_chemical_formula_sum                    'C2 H2 N8 O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~C~2~N~8~O,mP44,14
+_chemical_formula_weight                 154.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, characterization, and energetic properties of 6-aminotetrazolo[1,5-b]-1,2,4,5-tetrazine-7-N-oxide: A nitrogen-rich material with high density
+;
+_journal_coden_ASTM                      CAAJBI
+_journal_name_full                       'Chem. Asian J.'
+_journal_year                            2015
+_journal_volume                          10
+_journal_page_first                      1130
+_journal_page_last                       1132
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wei H.'
+;
+Idaho Moscow University
+Department of Chemistry
+Moscow
+U.S.A. Idaho
+;
+'Zhang J.'
+;
+Idaho Moscow University
+Department of Chemistry
+Moscow
+U.S.A. Idaho
+;
+'Shreeve J.M.'
+;
+Idaho Moscow University
+Department of Chemistry
+Moscow
+U.S.A. Idaho
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.0978
+_cell_length_b                           5.3038
+_cell_length_c                           14.9458
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.732
+_cell_angle_gamma                        90
+_cell_volume                             546.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ N
+ C
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.11315 0.1307 0.36745 1
+ N8 N 4 e 0.15633 0.1795 0.22823 1
+ N5 N 4 e 0.17352 0.2585 0.31162 1
+ C7 C 4 e 0.23204 0.3383 0.17454 1
+ N6 N 4 e 0.2391 0.3154 0.0868 1
+ C2 C 4 e 0.26297 0.4995 0.34477 1
+ N2 N 4 e 0.31526 0.5574 0.20679 1
+ N7 N 4 e 0.32991 0.5251 0.06901 1
+ N1 N 4 e 0.62204 0.1751 0.35994 1
+ N3 N 4 e 0.66589 0.1515 0.20779 1
+ N4 N 4 e 0.73646 0.0501 0.06926 1
+ H4B H 4 e 0.2166 0.446 0.4616 1
+ H4A H 4 e 0.675 0.194 0.044 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.87
+_cell_measurement_temperature            300(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            7867
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS KAPPA APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    16926
+_diffrn_reflns_theta_min                 2.806
+_diffrn_reflns_theta_max                 36.806
+_exptl_absorpt_coefficient_mu            0.156
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             108
+_refine_ls_number_reflns                 1913
+_refine_ls_R_factor_gt                   0.0609
+_refine_ls_wR_factor_gt                  0.2046
+
+# End of data set 1643521
+
+

@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Cu-Gd-Ge-O       # CuGd2[GeO4]2                                  # 1400261 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1400261
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1400261
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Gd~2~ Ge~2~ O~8~'
+_chemical_formula_sum                    'Cu Gd2 Ge2 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuNd~2~[GeO~4~]~2~,mS52,8
+_chemical_formula_weight                 651.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+New Copper(II)-Rare Earth(III) Compounds. II. Crystal Chemistry of CuLn~2~Ge~2~O~8~, CuLn~2~Si~4~O~12~ and CuLn~2~Ge~4~O~12~
+;
+_journal_coden_ASTM                      PODIE2
+_journal_name_full                       'Powder Diffr.'
+_journal_year                            1986
+_journal_volume                          1
+_journal_page_first                      256
+_journal_page_last                       260
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lambert U.'
+;
+Heidelberg University
+Institut f\"ur Mineralogie und Petrologie
+Heidelberg
+Germany
+;
+'Eysel W.'
+;
+Heidelberg University
+Institut f\"ur Mineralogie und Petrologie
+Heidelberg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.597
+_cell_length_b                           15.163
+_cell_length_c                           5.1199
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.763
+_cell_angle_gamma                        90
+_cell_volume                             633.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Cu
+ Ge
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 b 0.0127 0.2595 0.5564 1
+ Cu1 Cu 4 b 0.1344 0.2071 0.3819 1
+ O2 O 4 b 0.1589 0.0928 0.5747 1
+ O3 O 4 b 0.1661 0.4072 0.7593 1
+ O4 O 4 b 0.1667 0.3269 0.2371 1
+ O5 O 4 b 0.1719 0.1731 0.0733 1
+ Ge1 Ge 4 b 0.1802 0.2904 0.9247 1
+ O6 O 4 b 0.3552 0.2664 0.9238 1
+ Gd1 Gd 4 b 0.4188 0.1198 0.1808 1
+ Gd2 Gd 4 b 0.4223 0.3795 0.6759 1
+ O7 O 2 a 0.0 0 0.0 1
+ Ge2 Ge 2 a 0.1639 0 0.3785 1
+ O8 O 2 a 0.3309 0 0.3379 1
+ O9 O 2 a 0.4964 0 0.0069 1
+ Ge3 Ge 2 a 0.6673 0 0.9724 1
+ O10 O 2 a 0.8315 0 0.3437 1
+
+
+_exptl_crystal_colour                    'blue green'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.83
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1400261
+
+

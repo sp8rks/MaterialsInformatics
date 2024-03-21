@@ -1,0 +1,202 @@
+##############################################################################
+#                                                                            #
+# H-Na-Ni-O-P      # H8Na2Ni[PO4]4[H2O]4                           # 1901065 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1901065
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1901065
+
+# Entry summary
+
+_chemical_formula_structural
+'H~8~ Na~2~ Ni [P O~4~]~4~ [H~2~ O]~4~'                                       
+_chemical_formula_sum                    'H8 Na2 Ni O20 P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~8~Na~2~Ni[PO~4~]~4~[H~2~O]~4~,mP54,14                                       
+_chemical_formula_weight                 564.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure cristalline d'un monophosphate acide mixte de nickel-sodium t\'etrahydrat\'e NiNa~2~H~8~(PO~4~)~4~.4H~2~O
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1978
+_journal_volume                          34
+_journal_page_first                      17
+_journal_page_last                       20
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Boudjada A.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+'Durif A.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+'Guitel J.C.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.224
+_cell_length_b                           10.71
+_cell_length_c                           12.1242
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.703
+_cell_angle_gamma                        90
+_cell_volume                             845.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ Na
+ P
+ Ni
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O14 O 4 e 0.00669 0.84738 0.42365 1
+ Ow1 OH2 4 e 0.09323 0.06088 0.35168 1
+ Ow2 OH2 4 e 0.13322 0.37216 0.41773 1
+ O12 O 4 e 0.14957 0.74645 0.28855 1
+ O13 O 4 e 0.18088 0.64039 0.48336 1
+ O22 O 4 e 0.22774 0.03086 0.17346 1
+ Na Na 4 e 0.29448 0.3287 0.04066 1
+ O24 O 4 e 0.4126 0.51494 0.15076 1
+ P2 P 4 e 0.45681 0.04568 0.21749 1
+ O21 O 4 e 0.47181 0.46138 0.36368 1
+ O23 O 4 e 0.49426 0.1843 0.19244 1
+ O11 O 4 e 0.61114 0.32958 0.00995 1
+ P1 P 4 e 0.82055 0.26109 0.08091 1
+ Ni Ni 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.22
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.5608
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 28
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2229
+_refine_ls_R_factor_gt                   0.036
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 76.28 82
+ 0 1 1 59.22 55
+ 1 0 1 55.25 79
+ 2 0 0 54.55 29
+ 0 2 0 53.56 41
+ 2 1 0 48.64 60
+ 1 2 0 48.09 15
+ 0 2 1 42.85 11
+ -1 2 1 41.43 8
+ 1 2 1 38.55 100
+ 2 2 0 38.31 40
+ 2 1 1 37.55 40
+ -2 2 1 35.63 73
+ -3 0 1 35.07 22
+ 1 3 0 33.99 57
+ -2 0 2 32.61 10
+ 2 2 1 32.11 8
+ 0 3 1 31.96 11
+ -1 3 1 31.35 34
+ 1 1 2 30.86 12
+ 3 2 0 30.15 35
+ 2 3 0 29.93 21
+ 0 2 2 29.66 21
+ 3 1 1 29.19 10
+ -2 2 2 27.84 19
+ 0 4 0 26.84 51
+ 2 1 2 26.67 15
+ 3 2 1 26.39 34
+ -4 1 1 26.35 30
+ 1 4 0 26.07 11
+ 3 3 0 25.54 33
+ -1 3 2 25.29 8
+ 0 3 2 25.24 5
+ -3 3 1 25.05 7
+ -3 2 2 25 4
+ 2 2 2 24.59 12
+ -2 3 2 24.11 18
+ 1 3 2 23.95 11
+ 1 1 3 21.91 14
+ 4 3 1 19.99 12
+
+# End of data set 1901065
+
+

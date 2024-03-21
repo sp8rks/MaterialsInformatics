@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# Fe-O-P           # Fe3[PO4]2 sar                                 # 1602886 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1602886
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1602886
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~3~ [P O~4~]~2~'
+_chemical_formula_sum                    'Fe3 O8 P2'
+_chemical_name_mineral                   sarcopside
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            Co~3~[PO~4~]~2~,mP26,14
+_chemical_formula_weight                 357.5
+
+# Bibliographic data
+
+_publ_section_title
+'Electron density ranging in crystals of Fe-sarkopsyde Fe~3~(PO~4~)~2~'       
+_journal_coden_ASTM                      VMUGAR
+_journal_name_full                       'Vestn. Mosk. Univ., Ser. 4'
+_journal_year                            1991
+_journal_volume                          ?
+_journal_issue                           2
+_journal_page_first                      88
+_journal_page_last                       97
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yakubovich O.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Belokoneva E.L.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Tsyrelson V.G.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Urusov V.S.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.033
+_cell_length_b                           4.782
+_cell_length_c                           10.45
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.96
+_cell_angle_gamma                        90
+_cell_volume                             301.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0298 0.2132 0.3378 1
+ P P 4 e 0.23965 0.06598 0.3996 1
+ O4 O 4 e 0.2486 0.3186 0.0366 1
+ Fe2 Fe 4 e 0.26365 0.5153 0.21715 1
+ O1 O 4 e 0.4303 0.1746 0.3178 1
+ O3 O 4 e 0.7787 0.2469 0.1037 1
+ Fe1 Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4406
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1679
+_refine_ls_R_factor_gt                   0.0191
+_refine_ls_wR_factor_gt                  0.0270
+
+# End of data set 1602886
+
+

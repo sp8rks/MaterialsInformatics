@@ -1,0 +1,187 @@
+##############################################################################
+#                                                                            #
+# Cl-K-Pu          # K2PuCl6                                       # 1800567 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1800567
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1800567
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Pu Cl~6~'
+_chemical_formula_sum                    'Cl6 K2 Pu'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~PuCl~6~,mP18,10
+_chemical_formula_weight                 534.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Preparation and Crystal Structures of Plutonium(IV) Hexachloro Complexes, Rb~2~PuCl~6~ and K~2~PuCl~6~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1988
+_journal_volume                          72
+_journal_page_first                      338
+_journal_page_last                       352
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Morss L.R.'
+;
+Argonne National Laboratory
+Chemical Division
+Argonne
+U.S.A. Illinois
+;
+'Fujino T.'
+;
+Japan Atomic Energy Research Institute
+Department of Chemistry
+Tokai / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.218
+_cell_length_b                           7.611
+_cell_length_c                           10.208
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.59
+_cell_angle_gamma                        90
+_cell_volume                             560.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   10
+_space_group_name_H-M_alt                'P 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+loop_
+ _atom_type_symbol
+ Cl
+ K
+ Pu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl4 Cl 4 o 0.2278 0.2595 0.0 1
+ Cl3 Cl 4 o 0.2722 0.2405 0.5 1
+ K1 K 2 n 0.0087 0.5 0.2228 1
+ Cl1 Cl 2 n 0.4901 0.5 0.2481 1
+ Cl2 Cl 2 m 0.0099 0 0.2519 1
+ K2 K 2 m 0.4912 0 0.2772 1
+ Pu1 Pu 1 h 0.5 0.5 0.5 1
+ Pu2 Pu 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'yellow faint'
+_exptl_crystal_density_meas              3.14
+_exptl_crystal_density_diffrn            3.17
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier-Simon film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 40
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                80
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 0.273 10
+ 1 0 -1 0.284 6
+ 1 0 1 0.299 7
+ 1 1 0 0.369 7
+ 0 0 2 0.389 4
+ 0 2 0 0.701 1
+ 1 1 -2 0.74 4
+ 1 1 2 0.771 5
+ 1 2 -1 0.978 3
+ 1 2 1 0.993 2
+ 2 1 -1 1.028 5
+ 0 1 3 1.043 3
+ 0 2 2 1.086 3
+ 2 2 0 1.467 4
+ 0 0 4 1.545 3
+ 0 3 1 1.633 1
+ 1 2 -3 1.735 1
+ 1 3 0 1.75 2
+ 3 0 -1 1.819 2
+ 3 0 1 1.859 2
+ 1 1 -4 1.883 2
+ 1 1 4 1.939 1
+ 0 2 4 2.199 1
+ 3 1 -2 2.247 2
+ 3 1 2 2.342 1
+ 0 3 3 2.424 2
+ 3 2 -1 2.502 1
+ 2 1 4 2.537 1
+ 2 2 -4 2.948 2
+ 1 4 -1 3.068 2
+ 2 3 3 3.26 2
+ 4 1 -1 3.32 1
+ 4 1 1 3.369 1
+ 4 0 2 3.497 1
+ 4 2 0 3.782 2
+ 1 1 6 3.88 1
+ 0 3 5 3.962 1
+ 3 0 -5 4.028 1
+
+# End of data set 1800567
+
+

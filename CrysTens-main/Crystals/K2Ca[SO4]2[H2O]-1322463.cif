@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Ca-H-K-O-S       # K2Ca[SO4]2[H2O]                               # 1322463 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1322463
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1322463
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Ca [S O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'Ca H2 K2 O9 S2'
+_chemical_name_mineral                   syngenite
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            K~2~Ca[SO~4~]~2~[H~2~O],mP28,11
+_chemical_formula_weight                 328.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Refinement of the structure of synthetic syngenite K~2~Ca(SO~4~)~2~.H~2~O from X-ray powder diffraction data
+;
+_journal_coden_ASTM                      NJMIAK
+_journal_name_full                       'Neues Jahrb. Mineral., Abh.'
+_journal_year                            2005
+_journal_volume                          182
+_journal_page_first                      15
+_journal_page_last                       21
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ballirano P.'
+;
+Rome La Sapienza University
+Dipartimento di Scienze della Terra
+Rome
+Italy
+;
+'Belardi G.'
+;
+Rome La Sapienza University
+Dipartimento di Scienze della Terra
+Rome
+Italy
+;
+'Maras A.'
+;
+Rome La Sapienza University
+Dipartimento di Scienze della Terra
+Rome
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.2469
+_cell_length_b                           7.1448
+_cell_length_c                           9.771
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.992
+_cell_angle_gamma                        90
+_cell_volume                             423.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ K
+ O
+ S
+ Ca
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K K 4 f 0.1943 0.0054 0.8345 1
+ O4 O 4 f 0.2845 0.0811 0.2245 1
+ O6 O 4 f 0.3005 0.5824 0.5145 1
+ O1 O 2 e 0.0154 0.25 0.6191 1
+ O2 O 2 e 0.0604 0.25 0.0315 1
+ S2 S 2 e 0.273 0.25 0.138 1
+ Ca Ca 2 e 0.3336 0.25 0.4694 1
+ O3 O 2 e 0.4521 0.25 0.0618 1
+ Ow O 2 e 0.5077 0.25 0.7253 1
+ S1 S 2 e 0.8375 0.25 0.4884 1
+ O5 O 2 e 0.9444 0.25 0.369 1
+ H H 4 f 0.456 0.645 0.211 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.58
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D5005'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 75
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                150
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0526
+_pd_proc_ls_proof_wR_factor              0.0702
+_refine_ls_R_I_factor                    0.0391
+
+# End of data set 1322463
+
+

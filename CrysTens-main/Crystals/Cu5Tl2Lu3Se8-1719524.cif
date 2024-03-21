@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Cu-Lu-Se-Tl      # Cu5Tl2Lu3Se8                                  # 1719524 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1719524
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1719524
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~5~ Tl~2~ Lu~3~ Se~8~'
+_chemical_formula_sum                    'Cu5 Lu3 Se8 Tl2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~5~Tl~2~Lu~3~Se~8~,mS36,8
+_chemical_formula_weight                 1883.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and crystal structure of two new quaternary thallium(I) copper(I) lutetium(III) selenides: TlCu~3~Lu~2~Se~5~ and Tl~2~Cu~5~Lu~3~Se~8~
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2012
+_journal_volume                          638
+_journal_page_first                      2485
+_journal_page_last                       2490
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Babo J.M.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Civil Engineering and Geological Sciences
+Notre Dame
+U.S.A. Indiana
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Albrecht Schmitt T.E.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Civil Engineering and Geological Sciences
+Notre Dame
+U.S.A. Indiana
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.2723
+_cell_length_b                           4.0459
+_cell_length_c                           14.6437
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.52
+_cell_angle_gamma                        90
+_cell_volume                             791.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Se
+ Lu
+ Tl
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se5 Se 2 a 0.0 0 0.0 1
+ Lu1 Lu 2 a 0.01743 0 0.19483 1
+ Tl1 Tl 2 a 0.04471 0 0.61244 1
+ Se8 Se 2 a 0.06783 0 0.39797 1
+ Cu3 Cu 2 a 0.07119 0 0.84363 1
+ Se4 Se 2 a 0.24463 0 0.86047 1
+ Cu4 Cu 2 a 0.26963 0 0.27368 1
+ Cu1 Cu 2 a 0.32578 0 0.61943 1
+ Se3 Se 2 a 0.35834 0 0.45597 1
+ Se6 Se 2 a 0.37605 0 0.16959 1
+ Cu2 Cu 2 a 0.40128 0 0.00403 1
+ Cu5 Cu 2 a 0.46468 0 0.35213 1
+ Se1 Se 2 a 0.47457 0 0.768 1
+ Se7 Se 2 a 0.66546 0 0.22544 1
+ Tl2 Tl 2 a 0.69386 0 0.01814 1
+ Lu2 Lu 2 a 0.71656 0 0.42901 1
+ Se2 Se 2 a 0.72693 0 0.61951 1
+ Lu3 Lu 2 a 0.85283 0 0.81204 1
+
+
+_exptl_crystal_colour                    'orange deep'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.90
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker-Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    10369
+_diffrn_reflns_theta_min                 2.88
+_diffrn_reflns_theta_max                 28.2
+_exptl_absorpt_coefficient_mu            63.69
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             111
+_refine_ls_number_reflns                 2137
+_refine_ls_R_factor_gt                   0.0291
+_refine_ls_wR_factor_gt                  0.0682
+
+# End of data set 1719524
+
+

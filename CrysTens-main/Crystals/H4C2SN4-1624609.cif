@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# C-H-N-S          # H4C2SN4                                       # 1624609 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1624609
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1624609
+
+# Entry summary
+
+_chemical_formula_structural             'H~4~ C~2~ S N~4~'
+_chemical_formula_sum                    'C2 H4 N4 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~4~C~2~SN~4~,mP28,14
+_chemical_formula_weight                 116.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Products of the oxidation of 1-(diaminomethylene)thiourea with hydrogen peroxide
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2008
+_journal_volume                          64
+_journal_page_first                      o609
+_journal_page_last                       o612
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Holynska M.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+'Kubiak M.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.923
+_cell_length_b                           10.701
+_cell_length_c                           11.2265
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.016
+_cell_angle_gamma                        90
+_cell_volume                             450.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ S
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N3 N 4 e 0.015 0.40908 0.3496 1
+ C2 C 4 e 0.18363 0.01205 0.19893 1
+ N4 N 4 e 0.25129 0.09912 0.12569 1
+ N2 N 4 e 0.31761 0.66364 0.03201 1
+ N1 N 4 e 0.3239 0.02103 0.3263 1
+ C1 C 4 e 0.51483 0.12463 0.35233 1
+ S1 S 4 e 0.51639 0.20583 0.2175 1
+ H31 H 4 e 0.1268 0.4123 0.4238 1
+ H32 H 4 e 0.1299 0.3757 0.3029 1
+ H22 H 4 e 0.195 0.7263 0.022 1
+ H21 H 4 e 0.6919 0.3859 0.0289 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.71
+_cell_measurement_temperature            100
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            3013
+_diffrn_ambient_temperature              100
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          KM-4
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3267
+_diffrn_reflns_theta_min                 3.81
+_diffrn_reflns_theta_max                 28.47
+_exptl_absorpt_coefficient_mu            0.56
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             80
+_refine_ls_number_reflns                 960
+_refine_ls_R_factor_gt                   0.025
+_refine_ls_wR_factor_gt                  0.122
+
+# End of data set 1624609
+
+

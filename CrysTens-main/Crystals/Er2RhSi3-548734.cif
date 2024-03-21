@@ -1,0 +1,192 @@
+##############################################################################
+#                                                                            #
+# Er-Rh-Si         # Er2RhSi3                                      #  548734 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_548734
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      548734
+
+# Entry summary
+
+_chemical_formula_structural             'Er~2~ Rh Si~3~'
+_chemical_formula_sum                    'Er2 Rh Si3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Er~2~RhSi~3~,hP24,190
+_chemical_formula_weight                 521.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+A new family of rare earth compounds, the ternary silicides RE~2~RhSi~3~ (RE= Y, La, Ce, Nd, Sm, Gd, Tb, Dy, HO, Er) crystal structure electrical and magnetic properties
+;
+_journal_coden_ASTM                      SSCOA4
+_journal_name_full                       'Solid State Commun.'
+_journal_year                            1984
+_journal_volume                          49
+_journal_page_first                      753
+_journal_page_last                       760
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chevalier B.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Lejay P.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Etourneau J.R.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Hagenmuller P.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.036
+_cell_length_b                           8.036
+_cell_length_c                           7.712
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             431.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   190
+_space_group_name_H-M_alt                'P -6 2 c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, 1/2+z'
+ 11 'y, x, -z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Si
+ Er
+ Rh
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Si Si 12 i 0.167 0.333 0.0 1
+ Er2 Er 6 h 0.019 0.481 0.25 1
+ Rh Rh 4 f 0.333333 0.666667 0.0 1
+ Er1 Er 2 b 0 0 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              7.97
+_exptl_crystal_density_diffrn            8.03
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 69.38 5
+ 1 1 0 40.21 7
+ 0 0 2 38.44 4
+ 2 0 0 34.75 25
+ 1 0 2 33.6 2
+ 1 1 2 27.82 7
+ 2 0 2 25.81 100
+ 2 1 1 24.9 2
+ 1 0 3 24.07 3
+ 3 0 0 23.21 2
+ 3 0 1 22.2 2
+ 2 1 2 21.72 2
+ 2 2 0 20.11 32
+ 3 0 2 19.86 2
+ 0 0 4 19.25 13
+ 1 0 4 18.52 2
+ 2 2 2 17.82 2
+ 4 0 0 17.42 3
+ 3 1 2 17.25 3
+ 2 0 4 16.85 10
+ 4 0 2 15.88 20
+ 3 2 1 15.65 1
+ 2 1 4 15.55 1
+ 4 1 0 15.21 1
+ 4 1 1 14.92 1
+ 4 1 2 14.15 1
+ 2 2 4 13.9 20
+ 5 0 1 13.72 1
+ 3 1 4 13.58 2
+ 3 3 0 13.31 2
+ 4 2 0 13.17 2
+ 4 0 4 12.92 2
+
+# End of data set 548734
+
+

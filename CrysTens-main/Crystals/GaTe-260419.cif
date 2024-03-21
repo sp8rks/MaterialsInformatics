@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Ga-Te            # GaTe                                          #  260419 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_260419
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      260419
+
+# Entry summary
+
+_chemical_formula_structural             'Ga Te'
+_chemical_formula_sum                    'Ga Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            SiAs,mS24,12
+_chemical_formula_weight                 197.3
+_chemical_melting_point                  1121
+
+# Bibliographic data
+
+_publ_section_title                      'Das System Gallium-Tellur'
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1985
+_journal_volume                          113
+_journal_page_first                      L1
+_journal_page_last                       L3
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Blachnik R.'
+;
+Osnabr\"uck University
+Institut f\"ur Chemie
+Osnabr\"uck
+Germany
+;
+'Irle E.'
+;
+Osnabr\"uck University
+Institut f\"ur Chemie
+Osnabr\"uck
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           17.299
+_cell_length_b                           4.081
+_cell_length_c                           10.512
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.55
+_cell_angle_gamma                        90
+_cell_volume                             718.32
+_cell_formula_units_Z                    12
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Ga
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ga1 Ga 4 i 0.1303 0 0.4162 1
+ Te1 Te 4 i 0.1521 0 0.0457 1
+ Te2 Te 4 i 0.1632 0 0.6738 1
+ Ga2 Ga 4 i 0.2387 0 0.2924 1
+ Te3 Te 4 i 0.5369 0 0.3239 1
+ Ga3 Ga 4 i 0.5661 0 0.0884 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.47
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 260419
+
+

@@ -1,0 +1,127 @@
+##############################################################################
+#                                                                            #
+# Ca-H-O-P         # HCa[PO4][H2O]2                                # 1401076 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1401076
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1401076
+
+# Entry summary
+
+_chemical_formula_structural             'H Ca [P O~4~] [H~2~ O]~2~'
+_chemical_formula_sum                    'Ca H4 O6 P'
+_chemical_name_mineral                   brushite
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca[SO~4~][H~2~O]~2~,mS32,15
+_chemical_formula_weight                 172.1
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of dicalcium phosphate dihydrate, CaHPO~4~.2H~2~O'     
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1958
+_journal_volume                          11
+_journal_page_first                      273
+_journal_page_last                       277
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Beevers C.A.'
+;
+Edinburgh University
+Department of Chemistry
+Edinburgh
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.3589
+_cell_length_b                           15.18
+_cell_length_c                           5.812
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.518
+_cell_angle_gamma                        90
+_cell_volume                             493
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ P
+ Ca
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 f 0.1 0.233 0.108 1
+ O1 O 8 f 0.2 0.117 0.45 1
+ O3 OH2 8 f 0.267 0.433 0.1 1
+ P P 4 e 0 0.175 0.25 1
+ Ca Ca 4 e 0 0.675 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.317
+_exptl_crystal_density_diffrn            2.32
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device
+'oscillation and Weissenberg photographs'                                     
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            13.8
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1401076
+
+

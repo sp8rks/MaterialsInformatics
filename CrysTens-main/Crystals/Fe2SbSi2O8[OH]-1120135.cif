@@ -1,0 +1,286 @@
+##############################################################################
+#                                                                            #
+# Fe-H-O-Sb-Si     # Fe2SbSi2O8[OH]                                # 1120135 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1120135
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1120135
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~2~ Sb Si~2~ O~8~ [O H]'
+_chemical_formula_sum                    'Fe2 H O9 Sb Si2'
+_chemical_name_mineral                   chapmanite
+_chemical_compound_source
+'France, Haute-Loire, Massiac, La Bessade mine'                               
+_chemical_name_structure_type            Fe~2~SbSi~2~O~8~[OH],mS28,8
+_chemical_formula_weight                 434.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Rietveld refinement of chapmanite SbFe~2~Si~2~O~8~OH, a TO dioctahedral kaolinite-like mineral
+;
+_journal_coden_ASTM                      PODIE2
+_journal_name_full                       'Powder Diffr.'
+_journal_year                            1998
+_journal_volume                          13
+_journal_page_first                      44
+_journal_page_last                       49
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ballirano P.'
+;
+Rome Tor Vergata University
+Rome
+Italy
+;
+'Maras A.'
+;
+Rome La Sapienza University
+Dipartimento di Scienze della Terra
+Rome
+Italy
+;
+'Marchetti F.'
+;
+Pisa University
+Dipartimento di Chimica e Chimica Industriale
+Pisa
+Italy
+;
+'Merlino S.'
+;
+Pisa University
+Dipartimento di Scienze della Terra
+Pisa
+Italy
+;
+'Perchiazzi N.'
+;
+Pisa University
+Dipartimento di Scienze della Terra
+Pisa
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.2103
+_cell_length_b                           8.99
+_cell_length_c                           7.7813
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.623
+_cell_angle_gamma                        90
+_cell_volume                             357
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Si
+ Fe
+ OH
+ Sb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 b 0.002 0.3354 0.006 1
+ Si Si 4 b 0.004 0.1721 0.4987 1
+ Fe Fe 4 b 0.206 0.1704 0.1336 1
+ O4 O 4 b 0.28 0.247 0.575 1
+ O3 O 4 b 0.428 0.3275 0.2814 1
+ O2 O 2 a 0.0 0 0.0 1
+ O5 O 2 a 0.028 0 0.57 1
+ OH OH 2 a 0.396 0 0.275 1
+ Sb Sb 2 a 0.628 0 0.8724 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.04
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5405
+_pd_proc_wavelength                      1.5405
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1050'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5405
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 9
+_diffrn_reflns_theta_max                 42.5
+_pd_proc_2theta_range_min                18
+_pd_proc_2theta_range_max                85
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.027
+_pd_proc_ls_proof_wR_factor              0.034
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 116 97
+ 0 2 0 197.3 1
+ 1 1 0 199.9 5
+ -1 1 1 213.1 35
+ 0 2 1 229.5 81
+ 0 0 2 233.2 11
+ 1 1 1 249 100
+ -1 1 2 280.4 78
+ 0 2 2 304.3 49
+ 1 1 2 335.4 20
+ 1 3 0 346.9 59
+ 2 0 0 351.4 9
+ 0 0 3 353 18
+ -1 3 1 354.9 14
+ -1 1 3 375.5 7
+ 1 3 1 378.5 13
+ -2 0 2 382.6 6
+ 2 0 1 394 3
+ -1 3 2 400.8 7
+ -2 2 1 402.5 6
+ 2 2 0 406.2 7
+ 0 2 3 407.6 7
+ 0 4 1 418.7 9
+ -2 2 2 434.1 11
+ 1 1 3 440.2 3
+ 1 3 2 442.7 4
+ 2 2 1 444.4 10
+ -2 0 3 449.5 3
+ 2 0 2 466.1 4
+ 0 4 2 468.9 5
+ -1 3 3 475.2 9
+ 0 0 4 476.9 3
+ -1 1 4 485.4 2
+ -2 2 3 495.4 4
+ 2 2 2 510.8 5
+ 0 2 4 520.9 1
+ 1 3 3 530.2 14
+ -3 1 1 537.2 1
+ -2 0 4 538.9 7
+ 1 5 0 540.5 4
+ 2 4 0 543.5 2
+ 0 4 3 544.6 4
+ -1 5 1 546 4
+ 3 1 0 548.8 3
+ -3 1 2 554.4 4
+ 1 1 4 556.8 2
+ 2 0 3 559.3 3
+ 1 5 1 563.1 6
+ -2 4 2 566.1 5
+ -1 3 4 570 6
+ 2 4 1 574.6 5
+ -2 2 4 579.8 8
+ 3 1 1 588 4
+ -3 1 3 598.7 4
+ -1 1 5 606.2 2
+ 0 0 5 607 2
+ 1 5 2 612.4 2
+ -3 3 1 616.9 12
+ -2 4 3 617.9 2
+ 0 6 0 618.7 12
+ 3 3 0 627.5 2
+ 2 4 2 631.3 2
+ 0 6 1 631.9 2
+ -3 3 2 632.6 2
+ 1 3 4 634.9 3
+ -1 5 3 638.7 1
+ 0 4 4 641.8 1
+ 0 2 5 645 3
+ 3 1 2 651.7 1
+ 3 3 1 663.9 1
+ -3 1 4 666.7 1
+ 2 0 4 668.8 3
+ 0 6 2 670.6 1
+ -3 3 3 673.8 1
+ -1 3 5 680.9 5
+ -2 2 5 682 2
+ 1 1 5 684.3 2
+ 1 5 3 684.9 1
+ -2 4 4 692.4 1
+ 2 2 4 705 1
+ 2 4 3 710.2 1
+ -1 5 4 719.6 1
+ 3 3 2 724 2
+ -4 0 1 725.5 2
+ -2 6 1 729.4 3
+ 2 6 0 731.9 2
+ -4 0 2 732.8 3
+ 3 1 3 736.9 1
+ -3 3 4 738.4 2
+ 4 0 0 742.7 1
+ 0 0 6 746.5 1
+ -2 6 2 751.3 1
+ 0 4 5 752.6 1
+ 1 3 5 755.1 1
+ -3 1 5 755.8 1
+ 2 6 1 758.6 1
+ -4 2 1 760.5 1
+ -3 5 1 761.5 1
+ 1 7 0 764.1 1
+ -2 0 6 767.4 1
+ -1 7 1 768.9 1
+ 3 5 0 771.2 1
+ -3 5 2 775.9 1
+ 4 2 0 777.6 2
+ 0 2 6 781.2 1
+ 1 7 1 783.3 1
+ -2 4 5 787.5 1
+ 2 0 5 793.9 1
+ -2 6 3 797.4 1
+ -4 2 3 798.6 1
+
+# End of data set 1120135
+
+

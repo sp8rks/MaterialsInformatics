@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Ga-Ge-O          # Ga4GeO8 rt                                    # 2070197 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2070197
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2070197
+
+# Entry summary
+
+_chemical_formula_structural             'Ga~4~ Ge O~8~'
+_chemical_formula_sum                    'Ga4 Ge O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ga~4~GeO~8~,mS26,12
+_chemical_formula_weight                 479.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+New Gallium Germanates with Tunnel Structures: \a-Ga~4~GeO~8~ and Ga~4~Ge~3~O~12~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1986
+_journal_volume                          65
+_journal_page_first                      377
+_journal_page_last                       382
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kahn A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie Appliqu\'ee de l'Etat Solide
+Vitry-sur-Seine
+France
+;
+'Agafonov V.N.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie Appliqu\'ee de l'Etat Solide
+Vitry-sur-Seine
+France
+;
+'Michel D.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie Appliqu\'ee de l'Etat Solide
+Vitry-sur-Seine
+France
+;
+'Perez Y Jorba M.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie Appliqu\'ee de l'Etat Solide
+Vitry-sur-Seine
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.169
+_cell_length_b                           3.005
+_cell_length_c                           9.414
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.06
+_cell_angle_gamma                        90
+_cell_volume                             281.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Ga
+ Ge
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 i 0.1088 0 0.6936 1
+ O1 O 4 i 0.1627 0 0.2183 1
+ Ga1 Ga 4 i 0.2424 0 0.6404 1
+ O2 O 4 i 0.3554 0 0.5382 1
+ O3 O 4 i 0.4403 0 0.0738 1
+ Ga2 Ga 4 i 0.4621 0 0.2809 1
+ Ge Ge 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.5(1)
+_exptl_crystal_density_diffrn            5.65
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          'Nonius CAD3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    603
+_diffrn_reflns_theta_min                 3.5
+_diffrn_reflns_theta_max                 37
+_exptl_absorpt_coefficient_mu            9.0
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 565
+_refine_ls_R_factor_gt                   0.029
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 2070197
+
+

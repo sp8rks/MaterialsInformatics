@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# Co-Cs-H-O-P      # HCs2Co3[PO4]3[H2O]                            # 1804866 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1804866
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1804866
+
+# Entry summary
+
+_chemical_formula_structural             'H Cs~2~ Co~3~ [P O~4~]~3~ [H~2~ O]'
+_chemical_formula_sum                    'Co3 Cs2 H3 O13 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HCs~2~Co~3~[PO~4~]~3~[H~2~O],mP42,4
+_chemical_formula_weight                 746.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and characterization of a new open-framework cobalt phosphate: Cs~2~Co~3~(HPO~4~)(PO~4~)~2~.H~2~O
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2001
+_journal_volume                          156
+_journal_page_first                      242
+_journal_page_last                       246
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chiang R.K.'
+;
+Tainan Far East College
+Department of Chemical Engineering
+Tainan
+Taiwan
+;
+'Huang C.C.'
+;
+Tainan Far East College
+Department of Chemical Engineering
+Tainan
+Taiwan
+;
+'Lin C.R.'
+;
+Tainan Far East College
+Department of Chemical Engineering
+Tainan
+Taiwan
+;
+'Wur C.S.'
+;
+Tainan Cheng Kung National University
+Department of Physics
+Tainan
+Taiwan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.4711
+_cell_length_b                           5.1129
+_cell_length_c                           13.5584
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.893
+_cell_angle_gamma                        90
+_cell_volume                             682.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cs
+ O
+ Co
+ P
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs(2) Cs 2 a 0.0057 0.6093 0.2551 1
+ O(9) O 2 a 0.0182 0.0784 0.3951 1
+ O(5) O 2 a 0.0658 0.2633 0.0602 1
+ Co(2) Co 2 a 0.1196 0.5907 0.0006 1
+ P(3) P 2 a 0.1605 0.1361 0.4726 1
+ Co(1) Co 2 a 0.1643 0.634 0.6027 1
+ O(11) O 2 a 0.1862 0.4305 0.4876 1
+ O(12) O 2 a 0.1894 0.0042 0.5781 1
+ O(8) O 2 a 0.2024 0.8428 0.1115 1
+ P(2) P 2 a 0.2039 0.1381 0.1304 1
+ O(6) O 2 a 0.2307 0.205 0.2434 1
+ O(10) O 2 a 0.2613 0.0178 0.421 1
+ O(7) O 2 a 0.3083 0.2789 0.0909 1
+ Cs(1) Cs 2 a 0.4976 0.6272 0.2783 1
+ O(13) O 2 a 0.548 0.086 0.4672 1
+ O(2) O 2 a 0.5682 0.0 0.0684 1
+ Co(3) Co 2 a 0.6095 0.6662 0.0086 1
+ O(4) O 2 a 0.6786 0.4371 0.1285 1
+ P(1) P 2 a 0.6974 0.1416 0.1455 1
+ O(1) O 2 a 0.7077 0.0681 0.2556 1
+ O(3) O 2 a 0.8215 0.0453 0.1203 1
+ H(13B) H 2 a 0.4793 0.4323 0.5376 1
+ H(13a) H 2 a 0.5094 0.129 0.4112 1
+ H(10) H 2 a 0.6755 0.4318 0.5434 1
+
+
+_exptl_crystal_colour                    'blue dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.63
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            9.272
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             190
+_refine_ls_number_reflns                 2611
+_refine_ls_R_factor_gt                   0.0227
+_refine_ls_wR_factor_gt                  0.0578
+
+# End of data set 1804866
+
+

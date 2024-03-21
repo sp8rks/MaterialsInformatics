@@ -1,0 +1,170 @@
+##############################################################################
+#                                                                            #
+# Cu-H-Mo-O        # Cu3[MoO4][OH]4 mon                            # 1229084 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1229084
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1229084
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~3~ [Mo O~4~] [O H]~4~'
+_chemical_formula_sum                    'Cu3 H4 Mo O8'
+_chemical_name_mineral                   markascherite
+_chemical_compound_source
+'U.S.A. Arizona, Pinal County, Copper Creek'                                  
+_chemical_name_structure_type            Cu~3~[MoO~4~][OH]~4~,mP24,11
+_chemical_formula_weight                 418.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Markascherite, Cu~3~(MoO~4~)(OH)~4~, a new mineral species polymorphic with szenicsite, from Copper Creek, Pinal County, Arizona, U.S.A.
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2012
+_journal_volume                          97
+_journal_page_first                      197
+_journal_page_last                       202
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yang H.'
+;
+Arizona Tucson University
+Department of Geosciences
+Tucson
+U.S.A. Arizona
+;
+'Jenkins R.A.'
+;
+Arizona Tucson University
+Department of Geosciences
+Tucson
+U.S.A. Arizona
+;
+'Thompson R.M.'
+;
+Arizona Tucson University
+Department of Geosciences
+Tucson
+U.S.A. Arizona
+;
+'Downs R.T.'
+;
+Arizona Tucson University
+Department of Geosciences
+Tucson
+U.S.A. Arizona
+;
+'Evans S.H.'
+;
+Arizona Tucson University
+Department of Geosciences
+Tucson
+U.S.A. Arizona
+;
+'Bloch E.M.'
+;
+Arizona Tucson University
+Department of Geosciences
+Tucson
+U.S.A. Arizona
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.5255
+_cell_length_b                           5.9934
+_cell_length_c                           9.9904
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.428
+_cell_angle_gamma                        90
+_cell_volume                             328.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 f 0.0975 0.5137 0.3636 1
+ OH6 O 4 f 0.3514 0.0029 0.0913 1
+ Mo Mo 2 e 0.07634 0.25 0.67899 1
+ O1 O 2 e 0.1467 0.25 0.8568 1
+ O2 O 2 e 0.3635 0.25 0.606 1
+ Cu1 Cu 2 e 0.50385 0.25 0.00037 1
+ OH5 O 2 e 0.5855 0.25 0.3922 1
+ OH4 O 2 e 0.904 0.25 0.1016 1
+ Cu3 Cu 2 d 0.5 0 0.5 1
+ Cu2 Cu 2 a 0 0 0 1
+ H3 H 4 f 0.337 0.016 0.165 1
+ H2 H 2 e 0.75 0.25 0.367 1
+ H1 H 2 e 0.94 0.25 0.173 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.24
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS X8 APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4919
+_exptl_absorpt_coefficient_mu            11.46
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             75
+_refine_ls_number_reflns                 1167
+_refine_ls_R_factor_gt                   0.026
+_refine_ls_wR_factor_gt                  0.049
+
+# End of data set 1229084
+
+

@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# Al-As-Cu-O       # CuAl[AsO4]O                                   # 1121706 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1121706
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1121706
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Al [As O~4~] O'
+_chemical_formula_sum                    'Al As Cu O5'
+_chemical_name_mineral                   urusovite
+_chemical_compound_source
+'Russia, Kamchatka Peninsula, Tolbachik volcanic complex'                     
+_chemical_name_structure_type            FeAl[PO~4~]O,mP32,14
+_chemical_formula_weight                 245.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of urusovite Cu[AlAsO~5~]: A new type of a tetrahedral aluminoarsenate polyanion
+;
+_journal_coden_ASTM                      KRISAJ
+_journal_name_full                       Kristallografiya
+_journal_year                            2000
+_journal_volume                          45
+_journal_page_first                      793
+_journal_page_last                       797
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Krivovichev S.V.'
+;
+Saint Petersburg State University
+Saint Petersburg
+Russia
+;
+'Molchanov A.V.'
+;
+Saint Petersburg State University
+Saint Petersburg
+Russia
+;
+'Filatov S.K.'
+;
+Saint Petersburg State University
+Saint Petersburg
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.335
+_cell_length_b                           10.255
+_cell_length_c                           5.599
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.79
+_cell_angle_gamma                        90
+_cell_volume                             415
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cu
+ O
+ As
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu Cu 4 e 0.0382 0.35967 0.0905 1
+ O3 O 4 e 0.0707 0.8054 0.047 1
+ O1 O 4 e 0.1231 0.5407 0.1596 1
+ As As 4 e 0.2257 0.60839 0.4261 1
+ O4 O 4 e 0.2646 0.2777 0.2672 1
+ O5 O 4 e 0.3016 0.0136 0.1156 1
+ Al Al 4 e 0.3545 0.177 0.0645 1
+ O2 O 4 e 0.5959 0.1996 0.1255 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.93
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    1333
+_diffrn_reflns_theta_min                 1.4
+_diffrn_reflns_theta_max                 20
+_exptl_absorpt_coefficient_mu            13.292
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1134
+_refine_ls_R_factor_gt                   0.048
+_refine_ls_wR_factor_gt                  0.103
+
+# End of data set 1121706
+
+

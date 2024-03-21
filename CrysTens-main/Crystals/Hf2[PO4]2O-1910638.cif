@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Hf-O-P           # Hf2[PO4]2O rt                                 # 1910638 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1910638
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1910638
+
+# Entry summary
+
+_chemical_formula_structural             'Hf~2~ [P O~4~]~2~ O'
+_chemical_formula_sum                    'Hf2 O9 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Zr~2~[PO~4~]~2~O,mS52,12
+_chemical_formula_weight                 562.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure and thermal evolution of inedite \a-Zr~2~O(PO~4~)~2~ and \a-Hf~2~O(PO~4~)~2~
+;
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2006
+_journal_volume                          8
+_journal_page_first                      1061
+_journal_page_last                       1066
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wallez G.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Chimie de la Mati\`ere Condens\'ee
+Paris
+France
+;
+'Souron J.P.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Chimie de la Mati\`ere Condens\'ee
+Paris
+France
+;
+'Quarton M.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Chimie de la Mati\`ere Condens\'ee
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.6249
+_cell_length_b                           6.5819
+_cell_length_c                           10.0075
+_cell_angle_alpha                        90
+_cell_angle_beta                         131.622
+_cell_angle_gamma                        90
+_cell_volume                             670.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Hf
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O21 O 8 j 0.0671 0.1904 0.3983 1
+ O11 O 8 j 0.1844 0.3101 0.137 1
+ O23 O 4 i 0.0177 0 0.1353 1
+ P2 P 4 i 0.0923 0 0.3368 1
+ Hf1 Hf 4 i 0.1847 0 0.1347 1
+ O22 O 4 i 0.2333 0 0.4094 1
+ O3 O 4 i 0.3853 0 0.3427 1
+ O13 O 4 i 0.4662 0 0.1378 1
+ Hf2 Hf 4 i 0.557 0 0.4016 1
+ P1 P 4 i 0.6729 0 0.0481 1
+ O12 O 4 i 0.7763 0 0.0295 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.57
+_cell_measurement_temperature            293
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.5938
+_pd_proc_wavelength                      1.5938
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D2B'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.5938
+_diffrn_reflns_number                    749
+_diffrn_reflns_theta_min                 0.025
+_diffrn_reflns_theta_max                 80.575
+_pd_proc_2theta_range_min                0.05
+_pd_proc_2theta_range_max                161.15
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             29
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.043
+_pd_proc_ls_proof_wR_factor              0.057
+_refine_ls_R_I_factor                    0.047
+
+# End of data set 1910638
+
+

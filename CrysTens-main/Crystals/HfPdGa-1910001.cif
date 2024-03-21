@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# Ga-Hf-Pd         # HfPdGa                                        # 1910001 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1910001
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1910001
+
+# Entry summary
+
+_chemical_formula_structural             'Hf Pd Ga'
+_chemical_formula_sum                    'Ga Hf Pd'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HfRhSn,hP18,190
+_chemical_formula_weight                 354.6
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of hafnium palladium gallium, HfPdGa'                      
+_journal_coden_ASTM                      ZKNSFT
+_journal_name_full
+'Z. Kristallogr. - New Cryst. Struct.'                                        
+_journal_year                            2006
+_journal_volume                          221
+_journal_page_first                      427
+_journal_page_last                       428
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Demchyna R.O.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Prots Y.M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Burkhardt U.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Schwarz U.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Grin Y.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.1572
+_cell_length_b                           7.1572
+_cell_length_c                           6.8945
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             305.9
+_cell_formula_units_Z                    6
+_space_group_IT_number                   190
+_space_group_name_H-M_alt                'P -6 2 c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, 1/2+z'
+ 11 'y, x, -z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Hf
+ Ga
+ Pd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hf Hf 6 h 0.40871 0.3881 0.25 1
+ Ga Ga 6 g 0.2682 0 0 1
+ Pd(1) Pd 4 f 0.333333 0.666667 0.0304 1
+ Pd(2) Pd 2 b 0 0 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            11.55
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54056
+_pd_proc_wavelength                      1.54056
+_cell_measurement_reflns_used            36
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    3075
+_exptl_absorpt_coefficient_mu            72.31
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 381
+_refine_ls_R_factor_gt                   0.019
+_refine_ls_wR_factor_gt                  0.031
+
+# End of data set 1910001
+
+

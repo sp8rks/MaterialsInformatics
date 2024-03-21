@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# H-O-Pd-S         # H2Pd[S2O7]2                                   # 1641357 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1641357
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1641357
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Pd [S~2~ O~7~]~2~'
+_chemical_formula_sum                    'H2 O14 Pd S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Pd[S~2~O~7~]~2~,mP38,14
+_chemical_formula_weight                 460.6
+
+# Bibliographic data
+
+_publ_section_title
+'Ferromagnetic ordering in the layer-structured Pd(HS~2~O~7~)~2~'             
+_journal_coden_ASTM                      CEUJED
+_journal_name_full                       'Chem. Eur. J.'
+_journal_year                            2014
+_journal_volume                          20
+_journal_page_first                      811
+_journal_page_last                       814
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bruns J.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Chemie
+Oldenburg
+Germany
+;
+'Niehaus O.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'P\"ottgen R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Wickleder M.S.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Chemie
+Oldenburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.278
+_cell_length_b                           6.8258
+_cell_length_c                           9.2084
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.756
+_cell_angle_gamma                        90
+_cell_volume                             516.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ OH
+ Pd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O13 O 4 e 0.0674 0.82209 0.2201 1
+ O121 O 4 e 0.14742 0.00752 0.46492 1
+ O23 O 4 e 0.16987 0.23414 0.1438 1
+ S2 S 4 e 0.27529 0.36218 0.11247 1
+ O21 OH 4 e 0.35649 0.24008 0.03345 1
+ O22 O 4 e 0.38463 0.48302 0.24093 1
+ O12 O 4 e 0.64255 0.37365 0.097 1
+ S1 S 4 e 0.79949 0.32184 0.11481 1
+ O11 O 4 e 0.80071 0.15271 0.02093 1
+ Pd1 Pd 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'blue violet'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.96
+_cell_measurement_temperature            153
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              153
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS KAPPA APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    20673
+_diffrn_reflns_theta_min                 4.96
+_diffrn_reflns_theta_max                 69.93
+_exptl_absorpt_coefficient_mu            2.69
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             90
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0189
+_refine_ls_wR_factor_gt                  0.0439
+
+# End of data set 1641357
+
+

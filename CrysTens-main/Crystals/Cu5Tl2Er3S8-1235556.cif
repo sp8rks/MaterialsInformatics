@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Cu-Er-S-Tl       # Cu5Tl2Er3S8                                   # 1235556 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1235556
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1235556
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~5~ Tl~2~ Er~3~ S~8~'
+_chemical_formula_sum                    'Cu5 Er3 S8 Tl2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~5~Tl~2~Lu~3~Se~8~,mS36,8
+_chemical_formula_weight                 1484.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+A structural comparison of two thallium copper erbium sulfides: TlCu~3~Er~2~S~5~ and Tl~2~Cu~5~Er~3~S~8~
+;
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2014
+_journal_volume                          69
+_journal_page_first                      851
+_journal_page_last                       858
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Eberle M.A.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Babo J.M.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Civil Engineering and Geological Sciences
+Notre Dame
+U.S.A. Indiana
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.8169
+_cell_length_b                           3.9073
+_cell_length_c                           14.3598
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.132
+_cell_angle_gamma                        90
+_cell_volume                             723.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ Er
+ Tl
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S5 S 2 a 0.0 0 0.0 1
+ Er1 Er 2 a 0.02277 0 0.19082 1
+ Tl1 Tl 2 a 0.0598 0 0.5984 1
+ S8 S 2 a 0.0756 0 0.3917 1
+ Cu3 Cu 2 a 0.0814 0 0.8078 1
+ S4 S 2 a 0.2549 0 0.8567 1
+ Cu4 Cu 2 a 0.2727 0 0.2608 1
+ Cu1 Cu 2 a 0.3429 0 0.6162 1
+ S3 S 2 a 0.3651 0 0.4489 1
+ S6 S 2 a 0.3839 0 0.1685 1
+ Cu2 Cu 2 a 0.4025 0 0.0056 1
+ Cu5 Cu 2 a 0.4739 0 0.3561 1
+ S1 S 2 a 0.4844 0 0.7678 1
+ S7 S 2 a 0.6723 0 0.2246 1
+ Tl2 Tl 2 a 0.68829 0 0.01206 1
+ Er2 Er 2 a 0.72627 0 0.42621 1
+ S2 S 2 a 0.7452 0 0.6147 1
+ Er3 Er 2 a 0.86236 0 0.81083 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.82
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    9576
+_exptl_absorpt_coefficient_mu            47.7
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             111
+_refine_ls_number_reflns                 1817
+_refine_ls_R_factor_gt                   0.032
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1235556
+
+

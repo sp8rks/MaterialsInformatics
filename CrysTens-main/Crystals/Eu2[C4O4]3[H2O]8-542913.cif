@@ -1,0 +1,171 @@
+##############################################################################
+#                                                                            #
+# C-Eu-H-O         # Eu2[C4O4]3[H2O]8                              #  542913 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_542913
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      542913
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~2~ [C~4~ O~4~]~3~ [H~2~ O]~8~'
+_chemical_formula_sum                    'C12 Eu2 H16 O20'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Eu~2~[C~4~O~4~]~3~[H~2~O]~8~,mP68,7
+_chemical_formula_weight                 784.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Luminescence and crystal structure of neodymium and europium squarate hydrates
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1992
+_journal_volume                          179
+_journal_page_first                      13
+_journal_page_last                       25
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Huskowska E.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+'Glowiak T.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+'Legendziewicz J.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+'Oremek G.'
+;
+Frankfurt Johann Wolfgang Goethe University
+Frankfurt am Main
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.958
+_cell_length_b                           8.222
+_cell_length_c                           10.127
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.03
+_cell_angle_gamma                        90
+_cell_volume                             990.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Eu
+ O
+ OH2
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Eu(21) Eu 2 a 0.0 0.75119 0.0 1
+ O(21) O 2 a 0.00885 0.3445 0.27426 1
+ H2O(24) OH2 2 a 0.00975 0.6722 0.23236 1
+ O(23) O 2 a 0.04565 0.0129 0.63916 1
+ C(21) C 2 a 0.05695 0.2924 0.17696 1
+ C(23) C 2 a 0.07185 0.1304 0.12396 1
+ C(22) C 2 a 0.10715 0.3723 0.06206 1
+ O(22) O 2 a 0.11845 0.515 0.02456 1
+ C(24) C 2 a 0.13305 0.2059 0.01846 1
+ H2O(23) OH2 2 a 0.18115 0.161 0.44886 1
+ O(24) O 2 a 0.18525 0.1561 0.92046 1
+ O(14) O 2 a 0.32305 0.3347 0.31896 1
+ H2O(14) OH2 2 a 0.32955 0.6643 0.29286 1
+ C(14) C 2 a 0.37025 0.2861 0.22226 1
+ O(13) O 2 a 0.40375 0.0078 0.71526 1
+ C(13) C 2 a 0.40685 0.1316 0.16776 1
+ C(12) C 2 a 0.42705 0.3675 0.12006 1
+ O(12) O 2 a 0.45105 0.5135 0.08796 1
+ C(11) C 2 a 0.45765 0.2167 0.06766 1
+ O(11) O 2 a 0.50025 0.8361 0.46456 1
+ H2O(12) OH2 2 a 0.50345 0.1735 0.50166 1
+ Eu(11) Eu 2 a 0.50825 0.25583 0.73496 1
+ H2O(11) OH2 2 a 0.55475 0.512 0.36666 1
+ H2O(13) OH2 2 a 0.65255 0.0565 0.78706 1
+ O(34) O 2 a 0.65925 0.2649 0.25496 1
+ O(31) O 2 a 0.68735 0.637 0.17276 1
+ C(34) C 2 a 0.71045 0.3422 0.17106 1
+ C(31) C 2 a 0.72895 0.5082 0.13986 1
+ C(33) C 2 a 0.78005 0.2938 0.06826 1
+ O(33) O 2 a 0.80475 0.1625 0.01216 1
+ C(32) C 2 a 0.80725 0.4625 0.04846 1
+ H2O(21) OH2 2 a 0.82835 0.1516 0.57206 1
+ O(32) O 2 a 0.87165 0.4672 0.47836 1
+ H2O(22) OH2 2 a 0.93475 0.0188 0.35926 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.63
+_exptl_crystal_density_diffrn            2.63
+_cell_measurement_temperature            297
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              297
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            6.442
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             305
+_refine_ls_number_reflns                 2603
+_refine_ls_R_factor_gt                   0.035
+_refine_ls_wR_factor_gt                  0.047
+
+# End of data set 542913
+
+

@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-S         # Cu4[SO4][OH]6[H2O]2 lan                       # 2080229 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2080229
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2080229
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~4~ [S O~4~] [O H]~6~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Cu4 H10 O12 S'
+_chemical_name_mineral                   langite
+_chemical_compound_source                'Ireland, County Cork, Allihies mine'
+_chemical_name_structure_type
+Cu~4~[SO~4~][OH]~6~[H~2~O]~2~-b,mP34,7                                        
+_chemical_formula_weight                 488.3
+
+# Bibliographic data
+
+_publ_section_title
+'Structure of langite, Cu~4~[(OH)~6~|SO~4~].2H~2~O'                           
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1984
+_journal_volume                          40
+_journal_page_first                      1309
+_journal_page_last                       1311
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gentsch M.'
+;
+Berlin Technical University
+Institut f\"ur Mineralogie und Kristallographie
+Berlin
+Germany
+;
+'Weber K.'
+;
+Berlin Technical University
+Institut f\"ur Mineralogie und Kristallographie
+Berlin
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.137
+_cell_length_b                           6.031
+_cell_length_c                           11.217
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        90
+_cell_volume                             482.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ Cu
+ O
+ S
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 OH 2 a 0.0 0.2537 0.0 1
+ O9 OH 2 a 0.0166 0.506 0.2201 1
+ O6 OH 2 a 0.024 0.01 0.2167 1
+ Cu4 Cu 2 a 0.1321 0.7544 0.3052 1
+ Cu3 Cu 2 a 0.1385 0.2552 0.3037 1
+ Cu1 Cu 2 a 0.1412 0.5027 0.0569 1
+ Cu2 Cu 2 a 0.1482 0.0081 0.0548 1
+ O10 OH 2 a 0.2524 0.004 0.3941 1
+ O8 OH 2 a 0.2532 0.4985 0.3967 1
+ O5 OH 2 a 0.2803 0.244 0.6169 1
+ O2 O 2 a 0.3585 0.2696 0.1485 1
+ S S 2 a 0.5638 0.3178 0.1398 1
+ O4 O 2 a 0.601 0.4397 0.0289 1
+ O1 O 2 a 0.6215 0.4524 0.243 1
+ O12 OH2 2 a 0.6239 0.0795 0.8604 1
+ O3 O 2 a 0.6652 0.1062 0.1361 1
+ O11 OH2 2 a 0.8798 0.238 0.4592 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.34
+_exptl_crystal_density_diffrn            3.36
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              293(5)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            8.78
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 3093
+_refine_ls_R_factor_gt                   0.044
+_refine_ls_wR_factor_gt                  0.031
+
+# End of data set 2080229
+
+

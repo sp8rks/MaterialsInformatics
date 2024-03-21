@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# H-O-Pr-Se        # H3PrSe2[SeO3]2O5                              # 1122393 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1122393
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1122393
+
+# Entry summary
+
+_chemical_formula_structural             'H~3~ Pr Se~2~ [Se O~3~]~2~ O~5~'
+_chemical_formula_sum                    'H3 O11 Pr Se4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~3~PrSe~2~[SeO~3~]~2~O~5~,mP64,14
+_chemical_formula_weight                 635.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of PrH~3~(SeO~3~)~2~(Se~2~O~5~), a compound with selenite and diselenite groups
+;
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1977
+_journal_volume                          31
+_journal_page_first                      457
+_journal_page_last                       460
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Koskenlinna M.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+'Valkonen J.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.933
+_cell_length_b                           7.334
+_cell_length_c                           10.811
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.68
+_cell_angle_gamma                        90
+_cell_volume                             1025
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ O
+ Pr
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se4 Se 4 e 0.0118 0.3067 0.3294 1
+ O11 O 4 e 0.013 0.108 0.402 1
+ O10 O 4 e 0.0725 0.2609 0.1999 1
+ O9 O 4 e 0.1167 0.3875 0.4333 1
+ Pr Pr 4 e 0.1626 0.4539 0.0513 1
+ O8 O 4 e 0.1645 0.6247 0.2496 1
+ Se3 Se 4 e 0.209 0.5684 0.3922 1
+ Se1 Se 4 e 0.2413 0.0362 0.2115 1
+ O1 O 4 e 0.2671 0.0799 0.3593 1
+ O3 O 4 e 0.2791 0.2229 0.1396 1
+ O5 O 4 e 0.3454 0.5737 0.1018 1
+ Se2 Se 4 e 0.4499 0.4731 0.1533 1
+ O4 OH 4 e 0.4634 0.1426 0.396 1
+ O6 OH 4 e 0.5589 0.0458 0.1879 1
+ O2 OH 4 e 0.645 0.4104 0.3158 1
+ O7 O 4 e 0.8333 0.234 0.0155 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.12
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            14
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            18.86
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.054
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1122393
+
+

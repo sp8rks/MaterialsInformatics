@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# C-K-Mg-O         # K2Mg[CO3]2 hp                                 # 1239152 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1239152
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1239152
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Mg [C O~3~]~2~'
+_chemical_formula_sum                    'C2 K2 Mg O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~Ca[BO~3~]~2~,mS22,12
+_chemical_formula_weight                 222.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure, high-pressure, and high-temperature behavior of carbonates in the K~2~Mg(CO~3~)~2~-Na~2~Mg(CO~3~)~2~ join
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2015
+_journal_volume                          100
+_journal_page_first                      2458
+_journal_page_last                       2467
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Golubkova A.'
+;
+Swiss Federal Institute of Technology (ETH)
+Institute of Geochemistry and Petrology
+Zurich
+Switzerland
+;
+'Merlini M.'
+;
+Milan University
+Dipartimento di Scienze della Terra
+Milan
+Italy
+;
+'Schmidt M.W.'
+;
+Swiss Federal Institute of Technology (ETH)
+Institute of Geochemistry and Petrology
+Zurich
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.718
+_cell_length_b                           5.058
+_cell_length_c                           6.229
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.55
+_cell_angle_gamma                        90
+_cell_volume                             231.53
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ C
+ Mg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 j -0.034 0.2814 0.2044 1
+ K1 K 4 i 0.2137 0 0.6375 1
+ O1 O 4 i 0.2688 0 0.257 1
+ C1 C 4 i 0.4025 0 0.223 1
+ Mg1 Mg 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.19
+_cell_measurement_temperature            ?
+_cell_measurement_pressure               9.47e+006
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.41272
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_pressure                 9.47e+006
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, European Synchrotron Radiation Facility ESRF, ID09'        
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.41272
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'charge flipping'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0564
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1239152
+
+

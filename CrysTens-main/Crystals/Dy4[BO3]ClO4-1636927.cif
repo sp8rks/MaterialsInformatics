@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# B-Cl-Dy-O        # Dy4[BO3]ClO4                                  # 1636927 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1636927
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1636927
+
+# Entry summary
+
+_chemical_formula_structural             'Dy~4~ [B O~3~] Cl O~4~'
+_chemical_formula_sum                    'B Cl Dy4 O7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Eu~4~[BO~3~]ClO~4~,mP52,14
+_chemical_formula_weight                 808.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses and crystal structures of the novel oxide chloride oxoborates Ln~4~O~4~Cl[BO~3~] (Ln= Eu-Tm)
+;
+_journal_coden_ASTM                      ZKCMAJ
+_journal_name_full                       'Z. Kristallogr. - Cryst. Mater.'
+_journal_year                            2013
+_journal_volume                          228
+_journal_page_first                      483
+_journal_page_last                       488
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sch\"afer M.C.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Nikelski T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.6176
+_cell_length_b                           8.0634
+_cell_length_c                           12.3089
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.534
+_cell_angle_gamma                        90
+_cell_volume                             736.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ B
+ Dy
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 4 e 0.0685 0.5068 0.3385 1
+ O7 O 4 e 0.1147 0.2111 0.3647 1
+ B B 4 e 0.1262 0.377 0.412 1
+ Dy4 Dy 4 e 0.18214 0.61483 0.22008 1
+ Dy1 Dy 4 e 0.20065 0.12687 0.21995 1
+ O5 O 4 e 0.2244 0.1125 0.0415 1
+ O3 O 4 e 0.3217 0.3821 0.2173 1
+ Dy3 Dy 4 e 0.42665 0.36317 0.0797 1
+ O1 O 4 e 0.4571 0.1222 0.4027 1
+ O4 O 4 e 0.5693 0.1225 0.0925 1
+ Dy2 Dy 4 e 0.58076 0.38211 0.41238 1
+ O2 O 4 e 0.6928 0.3636 0.277 1
+ Cl Cl 4 e 0.8834 0.3556 0.0341 1
+
+
+_exptl_crystal_colour                    'green yellowish pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.29
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Bruker-Nonius
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    15382
+_exptl_absorpt_coefficient_mu            40.5
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1293
+_refine_ls_R_factor_gt                   0.045
+_refine_ls_wR_factor_gt                  0.118
+
+# End of data set 1636927
+
+

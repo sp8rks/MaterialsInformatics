@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Er-O-W           # Er2WO6 mon                                    # 1000076 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1000076
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1000076
+
+# Entry summary
+
+_chemical_formula_structural             'Er~2~ W O~6~'
+_chemical_formula_sum                    'Er2 O6 W'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Y~2~WO~6~,mP36,13
+_chemical_formula_weight                 614.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Polymorphism of oxytungstates TR~2~WO~6~. Mechanism of structural changes of Er~2~WO~6~
+;
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1987
+_journal_volume                          32
+_journal_page_first                      210
+_journal_page_last                       215
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tyulin A.V.'
+;
+All-Union Research Institute of Chemical Reagents and Especially Pure Chemical
+Scientific Research Institute of Chemical Reagents and Ultrapure Chemicals
+Moscow
+Russia
+;
+'Efremov V.A.'
+;
+Russian Academy of Sciences
+All-Union Research Institute of Reagents and Especially Pure Substances
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.576
+_cell_length_b                           5.317
+_cell_length_c                           11.316
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.48
+_cell_angle_gamma                        90
+_cell_volume                             441.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ W
+ Er
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 g 0.016 0.63 0.392 1
+ O1 O 4 g 0.126 0.147 0.454 1
+ O4 O 4 g 0.211 0.013 0.229 1
+ W W 4 g 0.2195 0.2534 0.6119 1
+ O6 O 4 g 0.287 0.539 0.27 1
+ O3 O 4 g 0.357 0.472 0.072 1
+ O5 O 4 g 0.437 0.042 0.603 1
+ Er3 Er 4 g 0.6997 0.1907 0.5782 1
+ Er1 Er 2 f 0.5 0.2626 0.25 1
+ Er2 Er 2 e 0 0.3154 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.25
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1210
+_refine_ls_R_factor_gt                   0.052
+_refine_ls_wR_factor_gt                  0.066
+
+# End of data set 1000076
+
+

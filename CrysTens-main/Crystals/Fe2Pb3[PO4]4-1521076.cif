@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# Fe-O-P-Pb        # Fe2Pb3[PO4]4                                  # 1521076 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1521076
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1521076
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~2~ Pb~3~ [P O~4~]~4~'
+_chemical_formula_sum                    'Fe2 O16 P4 Pb3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe~2~Pb~3~[PO~4~]~4~,mP50,14
+_chemical_formula_weight                 1113.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, crystal structure and magnetic properties of Fe~2~Pb~3-x~Ba~x~(PO~4~)~4~ (0 <= x < 3)
+;
+_journal_coden_ASTM                      MLETDJ
+_journal_name_full                       'Mater. Lett.'
+_journal_year                            2005
+_journal_volume                          59
+_journal_page_first                      1329
+_journal_page_last                       1333
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sqalli O.'
+;
+F\`es Sidi Mohamed Ben Abdellah University
+Facult\'e des Sciences et Techniques
+F\`es
+Morocco
+;
+'Oulmekki A.'
+;
+F\`es Sidi Mohamed Ben Abdellah University
+Facult\'e des Sciences et Techniques
+F\`es
+Morocco
+;
+'Ijjaali M.'
+;
+F\`es Sidi Mohamed Ben Abdellah University
+Facult\'e des Sciences et Techniques
+F\`es
+Morocco
+;
+'Malaman B.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Laboratoire de Chimie du Solide Min\'erale
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Laaouini M.'
+;
+F\`es Sidi Mohamed Ben Abdellah University
+Laboratoire des Mat\'eriaux et Protection de l'Environnement
+F\`es
+Morocco
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.0106
+_cell_length_b                           9.0632
+_cell_length_c                           9.3101
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.867
+_cell_angle_gamma                        90
+_cell_volume                             678.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ Fe
+ Pb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P2 P 4 e 0.0198 0.1384 0.3441 1
+ O1 O 4 e 0.0771 0.5054 0.2564 1
+ O4 O 4 e 0.093 0.2091 0.2393 1
+ O6 O 4 e 0.0964 0.748 0.1316 1
+ O2 O 4 e 0.1577 0.4106 0.0065 1
+ Fe Fe 4 e 0.247 0.3679 0.2432 1
+ Pb1 Pb 4 e 0.2998 0.7068 0.029 1
+ O7 O 4 e 0.3114 0.5421 0.625 1
+ O5 O 4 e 0.3933 0.3503 0.4761 1
+ O3 O 4 e 0.4057 0.2158 0.2398 1
+ P1 P 4 e 0.4242 0.0884 0.1396 1
+ O8 O 4 e 0.6116 0.0451 0.2438 1
+ Pb2 Pb 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.45
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1579
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             118
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.075
+_refine_ls_wR_factor_gt                  0.086
+
+# End of data set 1521076
+
+

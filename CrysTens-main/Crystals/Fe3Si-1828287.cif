@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Fe3Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65200000
+_cell_length_b   5.65200000
+_cell_length_c   5.65200000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Si
+_chemical_formula_sum   'Fe12 Si4'
+_cell_volume   180.55372781
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.25000000  0.25000000  0.25000000  1.0
+  Fe  Fe1  1  0.75000000  0.75000000  0.75000000  1.0
+  Fe  Fe2  1  0.75000000  0.75000000  0.25000000  1.0
+  Fe  Fe3  1  0.75000000  0.25000000  0.75000000  1.0
+  Fe  Fe4  1  0.75000000  0.25000000  0.25000000  1.0
+  Fe  Fe5  1  0.25000000  0.75000000  0.75000000  1.0
+  Fe  Fe6  1  0.25000000  0.75000000  0.25000000  1.0
+  Fe  Fe7  1  0.25000000  0.25000000  0.75000000  1.0
+  Fe  Fe8  1  0.50000000  0.50000000  0.50000000  1.0
+  Fe  Fe9  1  0.50000000  0.00000000  0.00000000  1.0
+  Fe  Fe10  1  0.00000000  0.50000000  0.00000000  1.0
+  Fe  Fe11  1  0.00000000  0.00000000  0.50000000  1.0
+  Si  Si12  1  0.00000000  0.00000000  0.00000000  1.0
+  Si  Si13  1  0.00000000  0.50000000  0.50000000  1.0
+  Si  Si14  1  0.50000000  0.00000000  0.50000000  1.0
+  Si  Si15  1  0.50000000  0.50000000  0.00000000  1.0

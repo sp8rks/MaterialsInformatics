@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# C-Fe-H-N         # H4Fe[CN]6 rt                                  # 1800776 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1800776
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1800776
+
+# Entry summary
+
+_chemical_formula_structural             'H~4~ Fe [C N]~6~'
+_chemical_formula_sum                    'C6 Fe H4 N6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~4~Fe[CN]~6~,mP26,14
+_chemical_formula_weight                 216.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure cristalline de l'acide ferrocyanhydrique, H~4~[Fe(CN)~6~]
+;
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1966
+_journal_volume                          20
+_journal_page_first                      425
+_journal_page_last                       428
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pierrot M.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Laboratoire de Min\'eralogie et Cristallographie
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Kern R.'
+;
+Strasbourg Louis Pasteur University
+Laboratoire de Chimie Min\'erale Structurale
+Strasbourg
+France
+;
+'Weiss R.'
+;
+Strasbourg Louis Pasteur University
+Laboratoire de Chimie Min\'erale Structurale
+Strasbourg
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.13
+_cell_length_b                           11.34
+_cell_length_c                           6.94
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.25
+_cell_angle_gamma                        90
+_cell_volume                             465.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ Fe
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C(2) C 4 e 0.1308 0.4495 0.2973 1
+ C(3) C 4 e 0.1903 0.6357 0.543 1
+ N(2) N 4 e 0.2119 0.42 0.1752 1
+ C(1) C 4 e 0.2245 0.0792 0.195 1
+ N(3) N 4 e 0.3021 0.781 0.0683 1
+ N(1) N 4 e 0.3592 0.1256 0.3204 1
+ Fe Fe 2 a 0 0 0 1
+ H(II) H 4 e 0.296 0.397 0.058 1
+ H(I) H 4 e 0.554 0.203 0.386 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.54
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Co Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               photographs
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Co Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 310
+_refine_ls_R_factor_gt                   0.084
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1800776
+
+

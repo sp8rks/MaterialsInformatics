@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# Ca-H-K-O-S       # K2Ca[SO4]2[H2O]                               # 1219418 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1219418
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1219418
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Ca [S O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'Ca H2 K2 O9 S2'
+_chemical_name_mineral                   syngenite
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Ca[SO~4~]~2~[H~2~O],mP28,4
+_chemical_formula_weight                 328.4
+
+# Bibliographic data
+
+_publ_section_title
+'Refinement of the crystal structure of syngenite K~2~Ca(SO~4~)~2~.H~2~O'     
+_journal_coden_ASTM                      JSTCAM
+_journal_name_full                       'J. Struct. Chem.'
+_journal_year                            1968
+_journal_volume                          9
+_journal_page_first                      69
+_journal_page_last                       72
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gorogotskaya L.I.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Podberezskaya N.V.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Borisov S.V.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.23
+_cell_length_b                           7.149
+_cell_length_c                           9.71
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.93
+_cell_angle_gamma                        90
+_cell_volume                             419.75
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ K
+ OH2
+ Ca
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 2 a 0.016 0.021 0.118 1
+ O2 O 2 a 0.055 0.514 0.136 1
+ O4 O 2 a 0.063 0.031 0.534 1
+ S1 S 2 a 0.159 0.495 0.01 1
+ K1 K 2 a 0.179 0.752 0.343 1
+ K2 K 2 a 0.207 0.237 0.329 1
+ S2 S 2 a 0.271 0.0 0.637 1
+ O5 O 2 a 0.312 0.333 0.036 1
+ O1 O 2 a 0.31 0.661 0.006 1
+ O3 O 2 a 0.317 0.157 0.737 1
+ O8 O 2 a 0.459 -0.029 0.567 1
+ O9,H2O OH2 2 a 0.505 0.026 0.229 1
+ Ca Ca 2 a 0.666 0.495 0.031 1
+ O7 O 2 a 0.722 0.335 0.264 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               photographs
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.1595
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1219418
+
+

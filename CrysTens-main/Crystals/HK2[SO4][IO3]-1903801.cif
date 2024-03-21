@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# H-I-K-O-S        # HK2[SO4][IO3]                                 # 1903801 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1903801
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1903801
+
+# Entry summary
+
+_chemical_formula_structural             'H K~2~ [S O~4~] [I O~3~]'
+_chemical_formula_sum                    'I K2 O7 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HK~2~[SO~4~][IO~3~],mP44,14
+_chemical_formula_weight                 350.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure cristalline d'un dihydrog\'eno-sulphato-iodate de potassium
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1982
+_journal_volume                          41
+_journal_page_first                      262
+_journal_page_last                       265
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Averbuch Pouchot M.T.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.443
+_cell_length_b                           7.173
+_cell_length_c                           15.3488
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.799
+_cell_angle_gamma                        90
+_cell_volume                             737.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ I
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0398 0.061 0.1747 1
+ O3 O 4 e 0.0408 0.2022 0.0074 1
+ K2 K 4 e 0.0796 0.6586 0.1789 1
+ I I 4 e 0.14478 0.63948 0.45229 1
+ O6 O 4 e 0.3154 0.3252 0.2356 1
+ O5 O 4 e 0.3219 0.2366 0.3892 1
+ K1 K 4 e 0.413 0.3851 0.081 1
+ S S 4 e 0.4177 0.35 0.3419 1
+ O7 O 4 e 0.584 0.0483 0.1329 1
+ O4 O 4 e 0.6294 0.287 0.3756 1
+ O2 O 4 e 0.7973 0.365 0.0796 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.15
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_reflns_number                    1956
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 24
+_exptl_absorpt_coefficient_mu            2.96
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1805
+_refine_ls_R_factor_gt                   0.034
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 2 0 0 69.1 36
+ -1 0 1 66.9 12
+ 1 1 0 63.6 59
+ -1 1 1 49 14
+ 1 1 1 47.7 100
+ -2 1 1 42.1 41
+ -3 0 1 40.1 12
+ 3 1 0 38.67 4
+ 0 0 2 37.12 5
+ 0 2 0 35.81 18
+ -3 1 1 35 5
+ 4 0 0 34.5 5
+ 3 1 1 33.65 14
+ 0 2 1 32.29 71
+ 2 0 2 31.91 42
+ 4 1 0 31.06 31
+ -2 1 2 30.3 45
+ -4 1 1 29.2 16
+ 2 2 1 28.94 24
+ 4 1 1 28.16 6
+ -3 2 1 26.72 4
+ -5 0 1 26.34 28
+ 3 1 2 26.15 6
+ -1 2 2 25.51 4
+ 1 2 2 25.14 5
+ -1 0 3 24.55 7
+ -2 2 2 24.42 20
+
+# End of data set 1903801
+
+

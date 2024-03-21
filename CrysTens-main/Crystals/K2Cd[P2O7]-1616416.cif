@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Cd-K-O-P         # K2Cd[P2O7]                                    # 1616416 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1616416
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1616416
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Cd [P~2~ O~7~]'
+_chemical_formula_sum                    'Cd K2 O7 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Cd[P~2~O~7~],mS48,15
+_chemical_formula_weight                 364.5
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of CaK~2~As~2~O~7~ and CdK~2~P~2~O~7~'                     
+_journal_coden_ASTM                      CJCHAG
+_journal_name_full                       'Can. J. Chem.'
+_journal_year                            1976
+_journal_volume                          54
+_journal_page_first                      3319
+_journal_page_last                       3324
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Faggiani R.'
+;
+Hamilton McMaster University
+Institute of Materials Research
+Hamilton
+Canada
+;
+'Calvo C.'
+;
+Hamilton McMaster University
+Institute of Materials Research
+Hamilton
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.737
+_cell_length_b                           5.548
+_cell_length_c                           12.766
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.5
+_cell_angle_gamma                        90
+_cell_volume                             661.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ K
+ Cd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P P 8 f 0.0281 0.2833 0.3702 1
+ O3 O 8 f 0.114 0.0951 0.4447 1
+ O1 O 8 f 0.1224 0.3209 0.1207 1
+ K K 8 f 0.3505 0.2919 0.3309 1
+ O2 O 8 f 0.394 0.0182 0.1341 1
+ OC O 4 e 0 0.1558 0.25 1
+ Cd Cd 4 c 0.25 0.25 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.69
+_exptl_crystal_density_diffrn            3.66
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.70926
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.70926
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1145
+_refine_ls_R_factor_gt                   0.067
+_refine_ls_wR_factor_gt                  0.066
+
+# End of data set 1616416
+
+

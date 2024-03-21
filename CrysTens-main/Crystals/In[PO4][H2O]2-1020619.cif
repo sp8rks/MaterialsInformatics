@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# H-In-O-P         # In[PO4][H2O]2 mon                             # 1020619 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1020619
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1020619
+
+# Entry summary
+
+_chemical_formula_structural             'In [P O~4~] [H~2~ O]~2~'
+_chemical_formula_sum                    'H4 In O6 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Al[PO~4~][H~2~O]~2~,mP32,14
+_chemical_formula_weight                 245.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and crystal structure of indium arsenate and phosphate dihydrates with variscite and metavariscite structure types
+;
+_journal_coden_ASTM                      JCCYEV
+_journal_name_full                       'J. Chem. Crystallogr.'
+_journal_year                            2001
+_journal_volume                          31
+_journal_page_first                      45
+_journal_page_last                       50
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tang X.J.'
+;
+North Carolina Winston-Salem Wake Forest University
+Department of Chemistry
+Winston-Salem
+U.S.A. North Carolina
+;
+'Gentiletti M.J.'
+;
+North Carolina Winston-Salem Wake Forest University
+Department of Chemistry
+Winston-Salem
+U.S.A. North Carolina
+;
+'Lachgar A.'
+;
+North Carolina Winston-Salem Wake Forest University
+Department of Chemistry
+Winston-Salem
+U.S.A. North Carolina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.4551
+_cell_length_b                           10.2293
+_cell_length_c                           10.3054
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.46
+_cell_angle_gamma                        90
+_cell_volume                             495.69
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ In
+ O
+ P
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ In In 4 e 0.1078 0.66991 0.19831 1
+ O2 O 4 e 0.0801 0.3277 0.2496 1
+ O1 O 4 e 0.1496 0.281 0.0296 1
+ OW1 O 4 e 0.19 0.0452 0.2865 1
+ P P 4 e 0.27117 0.35023 0.18187 1
+ O3 O 4 e 0.2921 0.4988 0.165 1
+ O4 O 4 e 0.5698 0.2947 0.2903 1
+ OW2 O 4 e 0.6178 0.135 0.0619 1
+ H2 H 4 e 0.1199 0.5307 0.7618 1
+ H1 H 4 e 0.3307 0.0614 0.3717 1
+ H3 H 4 e 0.4399 0.1481 0.0105 1
+ H4 H 4 e 0.6425 0.1596 -0.0143 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.29
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            63
+_diffrn_ambient_temperature              298(1)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS P4 SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4428
+_diffrn_reflns_theta_min                 3.04
+_diffrn_reflns_theta_max                 32.49
+_exptl_absorpt_coefficient_mu            5.03
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             90
+_refine_ls_number_reflns                 1670
+_refine_ls_R_factor_gt                   0.0278
+_refine_ls_wR_factor_gt                  0.0741
+
+# End of data set 1020619
+
+

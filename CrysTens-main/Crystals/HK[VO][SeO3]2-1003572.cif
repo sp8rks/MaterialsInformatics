@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# H-K-O-Se-V       # HK[VO][SeO3]2                                 # 1003572 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003572
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003572
+
+# Entry summary
+
+_chemical_formula_structural             'H K [V O] [Se O~3~]~2~'
+_chemical_formula_sum                    'H K O7 Se2 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HK[VO][SeO~3~]~2~,mP22,11
+_chemical_formula_weight                 361.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+K(VO)(SeO~3~)~2~H: A new one-dimensional compound with strong hydrogen bonding
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1996
+_journal_volume                          35
+_journal_page_first                      7394
+_journal_page_last                       7398
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kim Y.H.'
+;
+Suwon Sungkyunkwan University
+Department of Chemistry
+Suwon
+South Korea
+;
+'Lee K.S.'
+;
+Suwon Sungkyunkwan University
+Department of Chemistry
+Suwon
+South Korea
+;
+'Kwon Y.U.'
+;
+Suwon Sungkyunkwan University
+Department of Chemistry
+Suwon
+South Korea
+;
+'Han O.H.'
+;
+Korea Basic Science Institute (IBS)
+Daejeon
+South Korea
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.0872
+_cell_length_b                           10.4298
+_cell_length_c                           7.8659
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.45
+_cell_angle_gamma                        90
+_cell_volume                             333.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ V
+ K
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 f 0.1182 0.0749 0.111 1
+ Se Se 4 f 0.2103 0.0118 0.31 1
+ O3 O 4 f 0.4287 0.6196 0.2613 1
+ O2 O 4 f 0.5145 0.1171 0.3811 1
+ O1 O 2 e 0.0531 0.25 0.5488 1
+ V V 2 e 0.448 0.25 0.5566 1
+ K K 2 e 0.601 0.25 0.0525 1
+ H H 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.60
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.61
+_diffrn_reflns_theta_max                 24.95
+_exptl_absorpt_coefficient_mu            13.024
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0222
+_refine_ls_wR_factor_gt                  0.0571
+
+# End of data set 1003572
+
+

@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# F-H-O-S-Sb       # H2Sb[SO2F]F6                                  # 1420222 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1420222
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1420222
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Sb [S O~2~ F] F~6~'
+_chemical_formula_sum                    'F7 H2 O2 S Sb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Sb[SO~2~F]F~6~,mP44,14
+_chemical_formula_weight                 320.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis of fluorodihydroxysulfonium hexafluoroantimonate [FS(OH)~2~]^+^[SbF~6~]^-^
+;
+_journal_coden_ASTM                      ACIEF5
+_journal_name_full                       'Angew. Chem. Int. Ed.'
+_journal_year                            2005
+_journal_volume                          44
+_journal_page_first                      973
+_journal_page_last                       975
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kornath A.J.'
+;
+Dortmund Technical University
+Fachbereich Chemie
+Dortmund
+Germany
+;
+'Seelbinder R.'
+;
+Dortmund Technical University
+Fachbereich Chemie
+Dortmund
+Germany
+;
+'Minkwitz R.'
+;
+Dortmund Technical University
+Fachbereich Chemie
+Dortmund
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.231
+_cell_length_b                           8.203
+_cell_length_c                           16.216
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.73
+_cell_angle_gamma                        90
+_cell_volume                             695.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ Sb
+ S
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F6 F 4 e 0.0535 0.7401 0.103 1
+ Sb1 Sb 4 e 0.07734 0.05253 0.35073 1
+ F3 F 4 e 0.0891 0.4238 0.0729 1
+ F7 F 4 e 0.1714 0.073 0.0885 1
+ F1 F 4 e 0.2117 0.5318 0.2205 1
+ F5 F 4 e 0.2488 0.1719 0.2714 1
+ F2 F 4 e 0.3675 0.0681 0.4231 1
+ S1 S 4 e 0.4161 0.173 0.10857 1
+ O2 OH 4 e 0.5134 0.1999 0.0211 1
+ O1 OH 4 e 0.5938 0.0343 0.1348 1
+ F4 F 4 e 0.7843 0.363 0.1937 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.06
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    3160
+_exptl_absorpt_coefficient_mu            4.359
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             101
+_refine_ls_number_reflns                 868
+_refine_ls_R_factor_gt                   0.0563
+_refine_ls_wR_factor_gt                  0.1387
+
+# End of data set 1420222
+
+

@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# F-Ga-H-N         # Ga[NH2]F2[NH3]                                # 1702750 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702750
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702750
+
+# Entry summary
+
+_chemical_formula_structural             'Ga [N H~2~] F~2~ [N H~3~]'
+_chemical_formula_sum                    'F2 Ga H5 N2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ga[NH~2~]F~2~[NH~3~],mS20,12
+_chemical_formula_weight                 140.8
+
+# Bibliographic data
+
+_publ_section_title
+'The monoammoniate of gallium amide fluoride, Ga(NH~3~)(NH~2~)F~2~'           
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1999
+_journal_volume                          625
+_journal_page_first                      1839
+_journal_page_last                       1842
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Roos M.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+'Meyer G.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.531
+_cell_length_b                           5.574
+_cell_length_c                           4.842
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.04
+_cell_angle_gamma                        90
+_cell_volume                             284.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ F
+ N
+ Ga
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F F 8 j 0.4409 0.2501 0.2517 1
+ N2 N 4 i 0.1636 0 0.1657 1
+ N1 N 4 i 0.6633 0 0.3313 1
+ Ga1 Ga 2 d 0 0.5 0.5 1
+ Ga2 Ga 2 a 0 0 0 1
+ H2 H 8 j 0.177 0.156 0.187 1
+ H4 H 4 i 0.094 0 0.278 1
+ H1 H 4 i 0.308 0 0.487 1
+ H3 H 4 i 0.68 0 0.125 1
+
+
+_exptl_crystal_colour
+'colorless, in polarized light colored'                                       
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.29
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    2118
+_diffrn_reflns_theta_min                 1.9
+_diffrn_reflns_theta_max                 28.15
+_exptl_absorpt_coefficient_mu            9.492
+_exptl_absorpt_correction_type           numerical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             44
+_refine_ls_number_reflns                 359
+_refine_ls_R_factor_gt                   0.0920
+_refine_ls_wR_factor_gt                  0.0940
+
+# End of data set 1702750
+
+

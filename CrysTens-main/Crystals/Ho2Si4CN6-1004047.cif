@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# C-Ho-N-Si        # Ho2Si4CN6                                     # 1004047 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1004047
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1004047
+
+# Entry summary
+
+_chemical_formula_structural             'Ho~2~ Si~4~ C N~6~'
+_chemical_formula_sum                    'C Ho2 N6 Si4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ho~2~Si~4~CN~6~,mP52,14
+_chemical_formula_weight                 538.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+High-temperature synthesis, crystal structure, optical properties, and magnetism of the carbidonitridosilicates Ho~2~[Si~4~N~6~C] and Tb~2~[Si~4~N~6~C]
+;
+_journal_coden_ASTM                      JMACEP
+_journal_name_full                       'J. Mater. Chem.'
+_journal_year                            2001
+_journal_volume                          11
+_journal_page_first                      3300
+_journal_page_last                       3306
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'H\"oppe H.A.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie
+Munich
+Germany
+;
+'Kotzyba G.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie
+Munich
+Germany
+;
+'P\"ottgen R.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie
+Munich
+Germany
+;
+'Schnick W.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.9314
+_cell_length_b                           9.8974
+_cell_length_c                           11.8859
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.58
+_cell_angle_gamma                        90
+_cell_volume                             606.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Si
+ C
+ N
+ Ho
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Si1 Si 4 e 0.0051 0.4804 0.2492 1
+ C1 C 4 e 0.022 0.2916 0.2519 1
+ N1 N 4 e 0.043 0.211 0.0089 1
+ N2 N 4 e 0.059 0.0456 0.3995 1
+ Si2 Si 4 e 0.1654 0.2137 0.4207 1
+ Si3 Si 4 e 0.2018 0.2059 0.1763 1
+ N3 N 4 e 0.241 0.0356 0.2234 1
+ Ho1 Ho 4 e 0.33162 0.56439 0.09506 1
+ N4 N 4 e 0.507 0.291 0.0016 1
+ N5 N 4 e 0.517 0.2646 0.2452 1
+ Ho2 Ho 4 e 0.66039 0.41486 0.41946 1
+ Si4 Si 4 e 0.6767 0.2281 0.159 1
+ N6 N 4 e 0.699 0.0532 0.1373 1
+
+
+_exptl_crystal_colour                    pink
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.89
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    31309
+_exptl_absorpt_coefficient_mu            26.61
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             119
+_refine_ls_number_reflns                 2187
+_refine_ls_R_factor_gt                   0.0355
+_refine_ls_wR_factor_gt                  0.0879
+
+# End of data set 1004047
+
+

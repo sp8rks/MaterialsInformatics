@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# Cu-K-S-Sb        # K2CuSbS3                                      # 1210315 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1210315
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1210315
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Cu Sb S~3~'
+_chemical_formula_sum                    'Cu K2 S3 Sb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Na~2~CuSbS~3~,mP28,14
+_chemical_formula_weight                 359.7
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis, structure, and electronic structure of K~2~CuSbS~3~'              
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2005
+_journal_volume                          178
+_journal_page_first                      3169
+_journal_page_last                       3175
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Deng B.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Chan G.H.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Ellis D.E.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Van Duyne R.P.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Ibers J.A.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.2712
+_cell_length_b                           17.947
+_cell_length_c                           7.4901
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.573
+_cell_angle_gamma                        90
+_cell_volume                             725.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ K
+ S
+ Sb
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K1 K 4 e 0.08402 0.38126 0.14665 1
+ S1 S 4 e 0.15831 0.56302 0.31367 1
+ S2 S 4 e 0.19114 0.20786 0.07877 1
+ Sb Sb 4 e 0.2357 0.82388 0.00543 1
+ K2 K 4 e 0.35655 0.04214 0.21114 1
+ Cu Cu 4 e 0.38491 0.2209 0.43123 1
+ S3 S 4 e 0.59297 0.37562 0.1492 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.29
+_cell_measurement_temperature            153(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            4840
+_diffrn_ambient_temperature              153(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    6685
+_diffrn_reflns_theta_min                 2.27
+_diffrn_reflns_theta_max                 28.94
+_exptl_absorpt_coefficient_mu            8.54
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             64
+_refine_ls_number_reflns                 1624
+_refine_ls_R_factor_gt                   0.0223
+_refine_ls_wR_factor_gt                  0.0534
+
+# End of data set 1210315
+
+

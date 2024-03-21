@@ -1,0 +1,175 @@
+##############################################################################
+#                                                                            #
+# Ga-S             # Ga2S3 mon                                     # 1600015 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1600015
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1600015
+
+# Entry summary
+
+_chemical_formula_structural             'Ga~2~ S~3~'
+_chemical_formula_sum                    'Ga2 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ga~2~S~3~,mS20,9
+_chemical_formula_weight                 235.6
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of \a-Ga~2~S~3~'                                       
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1963
+_journal_volume                          16
+_journal_page_first                      946
+_journal_page_last                       949
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Goodyear J.'
+;
+Hull University
+Department of Physics
+Hull
+United Kingdom
+;
+'Steigmann G.A.'
+;
+Hull University
+Department of Physics
+Hull
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.14
+_cell_length_b                           6.411
+_cell_length_c                           7.038
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.22
+_cell_angle_gamma                        90
+_cell_volume                             429.85
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ga
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ga1 Ga 4 a 0.0 0.1 0.0 1
+ S1 S 4 a 0.045 0.419 0.147 1
+ S3 S 4 a 0.204 0.09 0.626 1
+ Ga2 Ga 4 a 0.339 0.065 0.01 1
+ S2 S 4 a 0.366 0.42 0.118 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.64
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'oscillation photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           cylindrical
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 73
+_refine_ls_R_factor_gt                   0.0136
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 53.2 6
+ 2 0 0 47.7 5
+ -1 1 1 47.2 3
+ 1 1 1 35.14 3
+ -2 0 2 34.86 4
+ -3 1 1 32.11 8
+ -1 1 2 30.14 7
+ 3 1 0 28.43 4
+ 0 2 1 28.24 6
+ -2 2 1 27.41 4
+ 2 2 0 26.57 3
+ -4 0 2 26.51 3
+ 4 0 0 23.79 2
+ -2 2 2 23.59 2
+ 1 1 2 23.42 2
+ 2 2 1 22.06 5
+ 0 2 2 21.93 3.3
+ -3 1 3 21.82 3.3
+ 2 0 2 20.99 3
+ -4 2 1 20.86 4
+ -5 1 1 20.5 1
+ -1 3 1 20.41 3
+ 4 2 0 19.01 3
+ -2 2 3 18.84 2
+ -6 0 2 18.52 8
+ 5 1 0 18.24 3
+ -1 3 2 18.1 2
+ 2 2 2 17.56 1
+ -4 0 4 17.42 1
+ -2 0 4 17.08 5
+ 0 2 3 17 5
+ -3 1 4 16.93 5
+ 4 2 1 16.35 1
+ -5 1 4 16.21 1
+ -6 2 2 16.03 4
+ 6 0 0 15.86 3.7
+ 3 3 1 15.8 4
+ -3 3 3 15.72 4
+
+# End of data set 1600015
+
+

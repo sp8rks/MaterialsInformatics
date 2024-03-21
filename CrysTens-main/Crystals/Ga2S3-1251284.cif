@@ -1,0 +1,176 @@
+##############################################################################
+#                                                                            #
+# Ga-S             # Ga2S3 mon                                     # 1251284 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1251284
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1251284
+
+# Entry summary
+
+_chemical_formula_structural             'Ga~2~ S~3~'
+_chemical_formula_sum                    'Ga2 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ga~2~S~3~,mS20,9
+_chemical_formula_weight                 235.6
+_chemical_melting_point                  1363
+
+# Bibliographic data
+
+_publ_section_title
+;
+Pr\'eparation et structure de Ga~2~S~3~\a type wurtzite lacunaire
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1976
+_journal_volume                          11
+_journal_page_first                      285
+_journal_page_last                       292
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Collin G.'
+;
+Paris V Ren\'e Descartes University
+Laboratoire de Chimie Min\'erale Structurale
+Paris
+France
+;
+'Flahaut J.'
+;
+Paris University
+Laboratoire de Chimie Min\'erale Structurale
+Paris
+France
+;
+'Guittard M.'
+;
+Paris University
+Laboratoire de Chimie Min\'erale Structurale
+Paris
+France
+;
+'Loireau Lozac'h A.M.'
+;
+Paris University
+Laboratoire de Chimie Min\'erale Structurale
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.094
+_cell_length_b                           6.395
+_cell_length_c                           7.022
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.17
+_cell_angle_gamma                        90
+_cell_volume                             426.26
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ga
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ga2 Ga 4 a 0.0000 0.0975 0.0000 1
+ S3 S 4 a 0.0426 0.4144 0.1405 1
+ S1 S 4 a 0.2001 0.0927 0.6249 1
+ Ga1 Ga 4 a 0.34177 0.0676 0.0097 1
+ S2 S 4 a 0.3637 0.4159 0.1158 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.67
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1129
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 735
+_refine_ls_R_factor_gt                   0.058
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 -1 1 53.7 31
+ 2 -2 0 47.9 39
+ 1 -2 1 35.17 26
+ 3 -2 1 32.29 100
+ 1 1 1 30.35 97
+ 3 -3 1 28.46 68
+ 2 -1 2 27.52 15
+ 2 -2 2 26.65 11
+ 4 -4 0 23.72 6
+ 2 0 2 23.54 8
+ 2 -3 2 22.04 59
+ 2 -4 0 20.92 27
+ 5 -4 1 20.56 13
+ 4 -4 2 19.09 11
+ 1 -2 3 18.94 6
+ 3 -2 3 18.57 81
+ 5 -5 1 18.22 13
+ 2 -4 2 17.57 4
+ 3 -5 1 17 68
+ 4 -5 2 16.41 3
+ 6 -4 2 16.06 19
+ 6 -6 0 15.81 68
+
+# End of data set 1251284
+
+

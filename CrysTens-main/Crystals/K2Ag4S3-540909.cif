@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Ag-K-S           # K2Ag4S3                                       #  540909 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_540909
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      540909
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Ag~4~ S~3~'
+_chemical_formula_sum                    'Ag4 K2 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Ag~4~S~3~,mS36,12
+_chemical_formula_weight                 605.8
+
+# Bibliographic data
+
+_publ_section_title
+'K~2~Ag~4~S~3~ und Rb~2~Ag~4~S~3~, Synthese und Struktur'                     
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1976
+_journal_volume                          425
+_journal_page_first                      109
+_journal_page_last                       116
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bronger W.'
+;
+Aachen RWTH University
+Institut f\"ur Anorganische Chemie
+Aachen
+Germany
+;
+'Burschka C.'
+;
+Aachen RWTH University
+Institut f\"ur Anorganische Chemie
+Aachen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           17.36
+_cell_length_b                           4.296
+_cell_length_c                           11.603
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.32
+_cell_angle_gamma                        90
+_cell_volume                             821.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ag
+ S
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag1 Ag 4 i 0.0106 0 0.3782 1
+ Ag2 Ag 4 i 0.0204 0 0.1334 1
+ S1 S 4 i 0.145 0 0.542 1
+ S2 S 4 i 0.16 0 0.113 1
+ K1 K 4 i 0.332 0 0.66 1
+ Ag3 Ag 4 i 0.4055 0 0.4084 1
+ S3 S 4 i 0.466 0 0.22 1
+ Ag4 Ag 4 i 0.5946 0 0.0129 1
+ K2 K 4 i 0.813 0 0.158 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              4.88
+_exptl_crystal_density_diffrn            4.90
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    530
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.12
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 540909
+
+

@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# H-O-Se-Zn        # H2Zn[SeO3]2[H2O]2                             # 1503531 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1503531
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1503531
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Zn [Se O~3~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'H6 O8 Se2 Zn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Zn[SeO~3~]~2~[H~2~O]~2~,mP22,14
+_chemical_formula_weight                 357.3
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of Zn(HSeO~3~)~2~.2H~2~O'                                  
+_journal_coden_ASTM                      ACACBN
+_journal_name_full                       'Acta Crystallogr. A'
+_journal_year                            1978
+_journal_volume                          34
+_journal_page_first                      S172
+_journal_page_last                       S173
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nozik Y.Z.'
+;
+Russian Academy of Sciences
+Institute of Geochemistry and Analytical Chemistry
+Moscow
+Russia
+;
+'Fykin L.E.'
+;
+Russian Academy of Sciences
+Institute of Geochemistry and Analytical Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.155
+_cell_length_b                           6.888
+_cell_length_c                           8.434
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.42
+_cell_angle_gamma                        90
+_cell_volume                             365.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Zn
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0811 0.3351 0.3364 1
+ O1 O 4 e 0.1909 0.7669 0.0002 1
+ O4 O 4 e 0.2783 0.0792 0.2399 1
+ Se Se 4 e 0.3234 0.2706 0.3749 1
+ O3 O 4 e 0.3537 0.4572 0.2419 1
+ Zn Zn 2 a 0 0 0 1
+ H2 H 4 e 0.1147 0.7882 0.3749 1
+ H1 H 4 e 0.2034 0.6631 0.0818 1
+ H3 H 4 e 0.4975 0.4764 0.2622 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.25
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.157
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Syntex
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.157
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 723
+_refine_ls_R_factor_gt                   0.059
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1503531
+
+

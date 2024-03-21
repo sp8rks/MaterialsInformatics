@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# H-I-O-S          # H[SO4]2I                                      # 1702671 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702671
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702671
+
+# Entry summary
+
+_chemical_formula_structural             'H [S O~4~]~2~ I'
+_chemical_formula_sum                    'H I O8 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[SO~4~]~2~I,mP44,14
+_chemical_formula_weight                 320.0
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and Constitution of HIS~2~O~8~'                                    
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1999
+_journal_volume                          625
+_journal_page_first                      1081
+_journal_page_last                       1085
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jansen M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'M\"uller R.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.72
+_cell_length_b                           6.257
+_cell_length_c                           9.56
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.5
+_cell_angle_gamma                        90
+_cell_volume                             672.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ I
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.029 0.0106 0.2559 1
+ O5 O 4 e 0.0524 0.2139 0.0489 1
+ S1 S 4 e 0.1091 0.1085 0.1803 1
+ I I 4 e 0.16516 0.58757 0.2431 1
+ O2 O 4 e 0.1801 0.2814 0.2929 1
+ O3 O 4 e 0.1979 0.5503 0.6734 1
+ O7 O 4 e 0.3173 0.6274 0.0037 1
+ O8 O 4 e 0.3588 0.2859 0.1002 1
+ S2 S 4 e 0.3851 0.5224 0.128 1
+ O6 O 4 e 0.4915 0.0588 0.3203 1
+ O1 O 4 e 0.662 0.0757 0.2368 1
+ H H 4 e 0.3994 0.212 0.165 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.16
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1152
+_diffrn_reflns_theta_min                 0
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            5.39
+_exptl_absorpt_correction_type           numerical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             104
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  0.103
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 78.24 100
+ 2 0 0 157.1 20.3
+ 1 1 0 161.8 7.4
+ 0 1 1 171.24 4.6
+ -1 1 1 176.64 13.4
+ 0 0 2 193.1 83.9
+ 1 1 1 199.73 67.5
+ 2 1 0 211.85 5.0
+ 1 0 2 228.72 37.4
+ 3 0 0 231.53 32.9
+ -3 0 2 260.08 57.0
+ 1 1 2 269.89 5.0
+ 3 1 0 276.68 3.4
+ 0 2 0 284.84 10.9
+ 0 2 1 301.26 39.3
+
+# End of data set 1702671
+
+

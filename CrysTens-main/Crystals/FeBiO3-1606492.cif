@@ -1,0 +1,176 @@
+##############################################################################
+#                                                                            #
+# Bi-Fe-O          # FeBiO3 rt                                     # 1606492 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1606492
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1606492
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Bi O~3~'
+_chemical_formula_sum                    'Bi Fe O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            (Zr~0.52~Ti~0.48~)PbO~3~,mS20,9
+_chemical_formula_weight                 312.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Strain driven structural phase transformations in dysprosium doped BiFeO~3~ ceramics
+;
+_journal_coden_ASTM                      JMCCCX
+_journal_name_full                       'J. Mater. Chem. C'
+_journal_year                            2014
+_journal_volume                          2
+_journal_page_first                      3345
+_journal_page_last                       3360
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lennox R.C.'
+;
+Ohio Kent University
+School of Physical Sciences
+Kent
+U.S.A. Ohio
+;
+'Price M.C.'
+;
+Ohio Kent University
+School of Physical Sciences
+Kent
+U.S.A. Ohio
+;
+'Jamieson W.'
+;
+Rutherford Appleton Laboratory (STFC)
+ISIS Facility
+Chilton-Didcot
+United Kingdom
+;
+'Jura M.'
+;
+Rutherford Appleton Laboratory (STFC)
+ISIS Facility
+Chilton-Didcot
+United Kingdom
+;
+'Daoud Aladine M.A.'
+;
+Rutherford Appleton Laboratory (STFC)
+ISIS Facility
+Chilton-Didcot
+United Kingdom
+;
+'Murray C.A.'
+;
+Diamond Light Source Ltd.
+Chilton-Didcot
+United Kingdom
+;
+'Tang C.'
+;
+Diamond Light Source Ltd.
+Chilton-Didcot
+United Kingdom
+;
+'Arnold D.C.'
+;
+Ohio Kent University
+School of Physical Sciences
+Kent
+U.S.A. Ohio
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.6695
+_cell_length_b                           5.5816
+_cell_length_c                           5.6402
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.894
+_cell_angle_gamma                        90
+_cell_volume                             249.68
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Fe
+ Bi
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 a 0.0 0.511 0.0 1
+ O3 O 4 a 0.0641 0.0334 0.0013 1
+ Fe Fe 4 a 0.0579 0.2605 0.3083 1
+ O1 O 4 a 0.2977 0.3199 0.5052 1
+ Bi Bi 4 a 0.3367 0.25 0.145 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.32
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'neutrons, time-of-flight'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+United Kingdom, Chilton-Didcot, Rutherford Appleton Laboratory, ISIS Facility, HRPD
+;
+_diffrn_radiation_type                   'neutrons, time-of-flight'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             49
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.1362
+_pd_proc_ls_proof_wR_factor              0.1362
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1606492
+
+

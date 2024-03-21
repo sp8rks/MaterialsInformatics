@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# As-Cu-Fe-H-O     # CuFe2[AsO4]2[OH]2[H2O]4                       # 1714280 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1714280
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1714280
+
+# Entry summary
+
+_chemical_formula_structural
+'Cu Fe~2~ [As O~4~]~2~ [O H]~2~ [H~2~ O]~4~'                                  
+_chemical_formula_sum                    'As2 Cu Fe2 H10 O14'
+_chemical_name_mineral                   arthurite
+_chemical_compound_source
+'U.S.A. Nevada, Pershing Country, Majuba Hill'                                
+_chemical_name_structure_type
+(Mn~0.3~Fe~0.7~)Fe~2~[PO~4~]~2~[OH]~2~[H~2~O]~4~,mP38,14                      
+_chemical_formula_weight                 559.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of arthurite, CuFe^3+^~2~[(H~2~O)~4~|(OH)~2~|(AsO~4~)~2~]
+;
+_journal_coden_ASTM                      NJMIAK
+_journal_name_full                       'Neues Jahrb. Mineral., Abh.'
+_journal_year                            1978
+_journal_volume                          133
+_journal_page_first                      291
+_journal_page_last                       302
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Keller P.'
+;
+Stuttgart University
+Institut f\"ur Mineralogie und Kristallchemie
+Stuttgart
+Germany
+;
+'Hess H.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.189
+_cell_length_b                           9.649
+_cell_length_c                           5.598
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.16
+_cell_angle_gamma                        90
+_cell_volume                             549.97
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Fe
+ OH
+ O
+ As
+ OH2
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Fe Fe 4 e 0.04517 0.36426 0.15815 1
+ OH OH 4 e 0.0411 0.767 0.0751 1
+ O1 O 4 e 0.1024 0.0141 0.3757 1
+ O2 O 4 e 0.1446 0.4898 0.3918 1
+ O4 O 4 e 0.2054 0.2465 0.1678 1
+ As As 4 e 0.20403 0.07177 0.158 1
+ O3 O 4 e 0.3536 0.0072 0.2193 1
+ Ow2 OH2 4 e 0.4514 0.3239 0.3451 1
+ Ow1 OH2 4 e 0.6315 0.1195 0.3268 1
+ Cu Cu 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.38
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1948
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.029
+
+# End of data set 1714280
+
+

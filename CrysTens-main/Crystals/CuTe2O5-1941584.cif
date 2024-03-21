@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Cu-O-Te          # CuTe2O5                                       # 1941584 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1941584
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1941584
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Te~2~ O~5~'
+_chemical_formula_sum                    'Cu O5 Te2'
+_chemical_name_mineral                   rajite
+_chemical_compound_source
+'U.S.A. New Mexico, Catron County, Lone Pine'                                 
+_chemical_name_structure_type            CuTe~2~O~5~,mP32,14
+_chemical_formula_weight                 398.7
+
+# Bibliographic data
+
+_publ_section_title
+'Rajite, naturally occurring cupric pyrotellurite, a new mineral'             
+_journal_coden_ASTM                      MNLMBB
+_journal_name_full                       'Mineral. Mag.'
+_journal_year                            1979
+_journal_volume                          43
+_journal_page_first                      91
+_journal_page_last                       92
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.866
+_cell_length_b                           9.314
+_cell_length_c                           7.598
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.1
+_cell_angle_gamma                        90
+_cell_volume                             459.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Te
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.1044 0.8182 0.0351 1
+ Te1 Te 4 e 0.13182 0.30031 0.08684 1
+ O2 O 4 e 0.1327 0.1268 0.356 1
+ O3 O 4 e 0.3185 0.1517 0.0931 1
+ Cu1 Cu 4 e 0.34117 0.01285 0.29408 1
+ O4 O 4 e 0.5015 0.3944 0.3232 1
+ O5 O 4 e 0.615 0.3726 0.0067 1
+ Te2 Te 4 e 0.6512 0.17651 0.05685 1
+
+
+_exptl_crystal_colour                    'green, bright'
+_exptl_crystal_density_meas              5.75(6)
+_exptl_crystal_density_diffrn            5.77
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cr Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 64.88 3
+ 0 2 0 46.54 8
+ 1 2 0 37.93 6
+ 1 2 -1 36.48 3
+ 0 0 2 35.86 3
+ 1 1 -2 34.29 2
+ 0 1 2 33.48 8
+ 2 0 0 32.43 1
+ 2 1 -1 31.99 2
+ 1 2 1 31.11 7
+ 2 1 0 30.64 10
+ 2 0 -2 29.32 3
+ 0 3 1 28.44 5
+ 2 1 -2 27.96 5
+ 1 3 -1 27.44 7
+
+# End of data set 1941584
+
+

@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# C-H-K-O          # HK[CO3] rt                                    # 1522705 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1522705
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1522705
+
+# Entry summary
+
+_chemical_formula_structural             'H K [C O~3~]'
+_chemical_formula_sum                    'C H K O3'
+_chemical_name_mineral                   kalicinite
+_chemical_compound_source                ?
+_chemical_name_structure_type            HK[CO~3~],mP20,14
+_chemical_formula_weight                 100.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Macroscopic quantum entanglement and "super-rigidity" of protons in the KHCO~3~ crystal from 30 to 300 K
+;
+_journal_coden_ASTM                      JCOMEL
+_journal_name_full                       'J. Phys.: Condens. Matter'
+_journal_year                            2006
+_journal_volume                          18
+_journal_page_first                      3229
+_journal_page_last                       3249
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fillaux F.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Dynamique, Interactions et R\'eactivit\'e (LADIR)
+Thiais
+France
+;
+'Cousson A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire L\'eon Brillouin (LLB)
+Gif-sur-Yvette
+France
+;
+'Gutmann M.J.'
+;
+Rutherford Appleton Laboratory (STFC)
+ISIS Facility
+Chilton-Didcot
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.665
+_cell_length_b                           5.597
+_cell_length_c                           15.0867
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.968
+_cell_angle_gamma                        90
+_cell_volume                             300.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ K
+ O
+ C
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K K 4 e 0.03668 0.53451 0.16579 1
+ O1 O 4 e 0.29209 0.04597 0.19344 1
+ C C 4 e 0.38446 0.02487 0.11963 1
+ O3 O 4 e 0.42766 0.22984 0.07623 1
+ O2 O 4 e 0.55927 0.33014 0.41698 1
+ H H 4 e 0.48262 0.19361 0.01511 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.21
+_cell_measurement_temperature            150
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             0.8305
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              150
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Saclay, Laboratoire Leon Brillouin LLB, ORPHEE reactor, 5C2'         
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             0.8305
+_diffrn_reflns_number                    2137
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 1073
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  0.029
+
+# End of data set 1522705
+
+

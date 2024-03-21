@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# Cu-Ge-Ni-S       # Cu4NiGe2S7                                    #  303453 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_303453
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      303453
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~4~ Ni Ge~2~ S~7~'
+_chemical_formula_sum                    'Cu4 Ge2 Ni S7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~4~NiSi~2~S~7~,mS28,5
+_chemical_formula_weight                 682.5
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure and magnetic properties of Cu~4~NiSi~2~S~7~'               
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1980
+_journal_volume                          15
+_journal_page_first                      933
+_journal_page_last                       937
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sch\"afer W.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Kristallographie
+Freiburg im Breisgau
+Germany
+;
+'Scheunemann K.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Kristallographie
+Freiburg im Breisgau
+Germany
+;
+'Nitsche R.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Kristallographie
+Freiburg im Breisgau
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.703
+_cell_length_b                           5.333
+_cell_length_c                           8.311
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.37
+_cell_angle_gamma                        90
+_cell_volume                             513.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ S
+ Cu
+ Ge
+ Ni
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 4 c 0.138 0.022 0.4107 1
+ S2 S 4 c 0.2139 0.555 0.1503 1
+ Cu1 Cu 4 c 0.29 0.285 0.3605 1
+ Cu2 Cu 4 c 0.3591 0.798 0.064 1
+ S3 S 4 c 0.4373 0.042 0.2826 1
+ Ge1 Ge 4 c 0.5745 0.274 0.2157 1
+ Ni1 Ni 2 b 0 0.279 0.5 1
+ S4 S 2 a 0 0.0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.44
+_exptl_crystal_density_diffrn            4.42
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.541
+_pd_proc_wavelength                      1.541
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 303453
+
+

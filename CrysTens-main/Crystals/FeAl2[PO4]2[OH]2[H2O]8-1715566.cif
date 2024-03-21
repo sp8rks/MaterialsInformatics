@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# Al-Fe-H-O-P      # FeAl2[PO4]2[OH]2[H2O]8 mon                    # 1715566 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1715566
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1715566
+
+# Entry summary
+
+_chemical_formula_structural
+'Fe Al~2~ [P O~4~]~2~ [O H]~2~ [H~2~ O]~8~'                                   
+_chemical_formula_sum                    'Al2 Fe H18 O18 P2'
+_chemical_name_mineral                   metavauxite
+_chemical_compound_source                unknown
+_chemical_name_structure_type
+FeAl~2~[PO~4~]~2~[OH]~2~[H~2~O]~8~,mP46,14                                    
+_chemical_formula_weight                 477.9
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of Metavauxite'                                        
+_journal_coden_ASTM                      NATWAY
+_journal_name_full                       Naturwissenschaften
+_journal_year                            1967
+_journal_volume                          54
+_journal_page_first                      561
+_journal_page_last                       ?
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Baur W.H.'
+;
+Illinois Chicago University
+Department of Geology
+Chicago
+U.S.A. Illinois
+;
+'Rao B.R.'
+;
+Illinois Chicago University
+Department of Geology
+Chicago
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.22
+_cell_length_b                           9.56
+_cell_length_c                           6.94
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.9
+_cell_angle_gamma                        90
+_cell_volume                             671.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ O
+ P
+ OH
+ Al
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ow7 OH2 4 e 0.032 0.102 0.286 1
+ Ow8 OH2 4 e 0.123 0.355 0.379 1
+ Ow9 OH2 4 e 0.17 0.635 0.572 1
+ Op4 O 4 e 0.18 0.507 0.078 1
+ P P 4 e 0.328 0.538 0.074 1
+ Ow6 OH2 4 e 0.357 0.138 0.15 1
+ Op1 O 4 e 0.393 0.4 0.027 1
+ Oh5 OH 4 e 0.507 0.323 0.379 1
+ Al Al 4 e 0.511 0.254 0.129 1
+ Op2 O 4 e 0.612 0.098 0.23 1
+ Op3 O 4 e 0.662 0.358 0.09 1
+ Fe Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.36
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 700
+_refine_ls_R_factor_gt                   0.097
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1715566
+
+

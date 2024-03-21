@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# H-O-P-Th         # HTh2[PO4]3[H2O]                               # 1121779 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1121779
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1121779
+
+# Entry summary
+
+_chemical_formula_structural             'H Th~2~ [P O~4~]~3~ [H~2~ O]'
+_chemical_formula_sum                    'H2 O13 P3 Th2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HTh~2~[PO~4~]~3~[H~2~O],mP36,4
+_chemical_formula_weight                 768.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+New hydrothermal synthesis and structure of Th~2~(PO~4~)~2~(HPO~4~).H~2~O: The first structurally characterized thorium hydrogenphosphate
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2005
+_journal_volume                          44
+_journal_page_first                      3512
+_journal_page_last                       3517
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Salvado M.A.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica y Organica e Inorganica
+Oviedo
+Spain
+;
+'Pertierra P.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica y Organica e Inorganica
+Oviedo
+Spain
+;
+'Bortun A.I.'
+;
+Magnesium Electron
+Flemington
+U.S.A. New Jersey
+;
+'Trobajo C.'
+;
+Oviedo University
+Departamento de Quimica Organica e Inorganica
+Oviedo
+Spain
+;
+'Garcia J.R.'
+;
+Oviedo University
+Departamento de Quimica Organica e Inorganica
+Oviedo
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.7023
+_cell_length_b                           7.015
+_cell_length_c                           11.184
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.242
+_cell_angle_gamma                        90
+_cell_volume                             502.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Th
+ O
+ P
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Th2 Th 2 a 0.0054 0.511 0.2184 1
+ O21 O 2 a 0.008 0.785 0.5914 1
+ O32 O 2 a 0.009 0.84 0.174 1
+ O34 O 2 a 0.02 0.196 0.169 1
+ O24 O 2 a 0.095 0.159 0.6273 1
+ O31 O 2 a 0.108 0.008 0.0026 1
+ P3 P 2 a 0.122 0.013 0.1416 1
+ P2 P 2 a 0.175 0.221 0.5189 1
+ O22 O 2 a 0.286 0.053 0.4785 1
+ O11 O 2 a 0.302 0.467 0.173 1
+ OW OH2 2 a 0.321 0.686 0.4111 1
+ O23 O 2 a 0.329 0.386 0.5614 1
+ O33 O 2 a 0.351 0.008 0.221 1
+ P1 P 2 a 0.497 0.509 0.1332 1
+ O13 O 2 a 0.558 0.0 0.0096 1
+ O14 O 2 a 0.579 0.708 0.178 1
+ O12 O 2 a 0.665 0.361 0.191 1
+ Th1 Th 2 a 0.712 0.013 0.2194 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.08
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5418
+_pd_proc_wavelength                      1.5418
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Seifert XRD-3000'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5418
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3.5
+_diffrn_reflns_theta_max                 53.5
+_pd_proc_2theta_range_min                7
+_pd_proc_2theta_range_max                107
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             65
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.054
+_pd_proc_ls_proof_wR_factor              0.068
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1121779
+
+

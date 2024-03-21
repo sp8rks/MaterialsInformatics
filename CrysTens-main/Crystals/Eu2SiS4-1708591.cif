@@ -1,0 +1,133 @@
+##############################################################################
+#                                                                            #
+# Eu-S-Si          # Eu2SiS4                                       # 1708591 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1708591
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1708591
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~2~ Si S~4~'
+_chemical_formula_sum                    'Eu2 S4 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sr~2~GeS~4~,mP14,11
+_chemical_formula_weight                 460.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Thiosilicates of the Rare-Earth Elements: I. The Isotypic Compounds KCe[SiS~4~] and Eu~2~[SiS~4~]
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2002
+_journal_volume                          628
+_journal_page_first                      1327
+_journal_page_last                       1331
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hartenbach I.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5171
+_cell_length_b                           6.5954
+_cell_length_c                           8.2193
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.437
+_cell_angle_gamma                        90
+_cell_volume                             335.16
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ Eu
+ Si
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 4 f 0.0053 0.0 0.2361 1
+ Eu2 Eu 2 e 0.21482 0.25 0.54762 1
+ Eu1 Eu 2 e 0.27795 0.25 0.07217 1
+ S1 S 2 e 0.5834 0.25 0.8647 1
+ S2 S 2 e 0.6147 0.25 0.4375 1
+ Si Si 2 e 0.7813 0.25 0.7036 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.56
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    4833
+_exptl_absorpt_coefficient_mu            19.83
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1045
+_refine_ls_R_factor_gt                   0.027
+_refine_ls_wR_factor_gt                  0.059
+
+# End of data set 1708591
+
+

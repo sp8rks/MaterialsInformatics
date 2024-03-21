@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# C-Cu-H-O         # Cu2[CO3][OH]2                                 # 1129301 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1129301
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1129301
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ [C O~3~] [O H]~2~'
+_chemical_formula_sum                    'C Cu2 H2 O5'
+_chemical_name_mineral                   malachite
+_chemical_compound_source                unknown
+_chemical_name_structure_type            Cu~2~[CO~3~][OH]~2~,mP32,14
+_chemical_formula_weight                 221.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Phase transition at high pressure in Cu~2~CO~3~(OH)~2~ related to the reduction of the Jahn-Teller effect
+;
+_journal_coden_ASTM                      ASBSDK
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            2012
+_journal_volume                          68
+_journal_page_first                      266
+_journal_page_last                       274
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Merlini M.'
+;
+Milan University
+Dipartimento di Scienze della Terra
+Milan
+Italy
+;
+'Perchiazzi N.'
+;
+Pisa University
+Dipartimento di Scienze della Terra
+Pisa
+Italy
+;
+'Hanfland M.'
+;
+European Synchrotron Radiation Facility (ESRF)
+Grenoble
+France
+;
+'Bossak A.A.'
+;
+European Synchrotron Radiation Facility (ESRF)
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.2377
+_cell_length_b                           11.977
+_cell_length_c                           9.473
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.71
+_cell_angle_gamma                        90
+_cell_volume                             363.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ Cu
+ O
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 OH 4 e 0.082 0.153 0.417 1
+ Cu1 Cu 4 e 0.1064 0.2118 0.0002 1
+ O5 OH 4 e 0.14 0.091 0.1221 1
+ O3 O 4 e 0.367 0.441 0.165 1
+ C C 4 e 0.539 0.355 0.232 1
+ O2 O 4 e 0.541 0.265 0.158 1
+ Cu2 Cu 4 e 0.6112 0.1071 0.2676 1
+ O1 O 4 e 0.657 0.363 0.368 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.04
+_cell_measurement_temperature            ?
+_cell_measurement_pressure               20000
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.414
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_pressure                 20000
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, European Synchrotron Radiation Facility ESRF, ID09A'       
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.414
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0897
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1129301
+
+

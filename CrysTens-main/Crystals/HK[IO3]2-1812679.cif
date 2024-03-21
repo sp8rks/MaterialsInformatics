@@ -1,0 +1,175 @@
+##############################################################################
+#                                                                            #
+# H-I-K-O          # HK[IO3]2 mon1                                 # 1812679 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1812679
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1812679
+
+# Entry summary
+
+_chemical_formula_structural             'H K [I O~3~]~2~'
+_chemical_formula_sum                    'I2 K O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HK[IO~3~]~2~,mP36,14
+_chemical_formula_weight                 389.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Acid potassium iodate; details of the iodine atom electronic structure on the roentgen-neutron difference synthesis
+;
+_journal_coden_ASTM                      DANKAS
+_journal_name_full                       'Dokl. Akad. Nauk SSSR'
+_journal_year                            1978
+_journal_volume                          243
+_journal_page_first                      354
+_journal_page_last                       357
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Treushnikov E.N.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Loshmanov A.A.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Kalinin V.R.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Ilyukhin V.V.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Iamzin I.I.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Fykin L.E.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Dudarev V.Y.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Soloviev S.P.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Belov N.V.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.583
+_cell_length_b                           7.747
+_cell_length_c                           8.626
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.19
+_cell_angle_gamma                        90
+_cell_volume                             654.84
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ I
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O13 O 4 e 0.0303 0.1619 -0.0132 1
+ O11 O 4 e 0.0595 0.5482 0.1858 1
+ J1 I 4 e 0.1258 0.69741 0.07331 1
+ K K 4 e 0.20192 0.2471 0.34049 1
+ O21 O 4 e 0.3258 0.4566 0.1509 1
+ O23 O 4 e 0.4275 0.0292 0.0822 1
+ O22 O 4 e 0.4606 0.1416 0.3868 1
+ J2 I 4 e 0.50717 0.43529 0.20399 1
+ O12 O 4 e 0.7722 0.347 0.2663 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.96
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Enraf-Nonius
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            10.8
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 5592
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  0.027
+
+# End of data set 1812679
+
+

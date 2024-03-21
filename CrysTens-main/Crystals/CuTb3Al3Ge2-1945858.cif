@@ -1,0 +1,195 @@
+##############################################################################
+#                                                                            #
+# Al-Cu-Ge-Tb      # CuTb3Al3Ge2                                   # 1945858 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1945858
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1945858
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Tb~3~ Al~3~ Ge~2~'
+_chemical_formula_sum                    'Al3 Cu Ge2 Tb3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Y~3~NiAl~3~Ge~2~,hP9,189
+_chemical_formula_weight                 766.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure and powder X-ray diffraction data for new Tb~3~CuAl~3~Ge~2~ compound
+;
+_journal_coden_ASTM                      PODIE2
+_journal_name_full                       'Powder Diffr.'
+_journal_year                            2015
+_journal_volume                          30
+_journal_page_first                      63
+_journal_page_last                       66
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.004
+_cell_length_b                           7.004
+_cell_length_c                           4.1771
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             177.5
+_cell_formula_units_Z                    1
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ Al
+ Tb
+ Ge
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Al Al 3 g 0.2279 0 0.5 1
+ Tb Tb 3 f 0.5969 0 0 1
+ Ge Ge 2 d 0.333333 0.666667 0.5 1
+ Cu Cu 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.17
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54056
+_pd_proc_wavelength                      1.54056
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku D/MAX-2500 V'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.54056
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 55
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                110
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             23
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0643
+_pd_proc_ls_proof_wR_factor              0.0865
+_refine_ls_R_I_factor                    0.0481
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 145.95 9
+ 0 0 1 212.43 10
+ 1 1 0 254.03 44
+ 1 0 1 258.71 0.8
+ 2 0 0 294.38 26
+ 1 1 1 333.64 100
+ 2 0 1 365.97 77
+ 2 1 0 392.78 36
+ 0 0 2 432.78 15
+ 3 0 0 448 34
+ 2 1 1 450.81 21
+ 1 0 2 459.25 0.7
+ 3 0 1 500.93 2
+ 1 1 2 508.63 7
+ 2 2 0 522.01 7
+ 2 0 2 532.13 5
+ 3 1 0 544.97 20
+ 2 2 1 569.82 3
+ 3 1 1 591.6 25
+ 2 1 2 598.61 12
+ 3 0 2 640.41 12
+ 3 2 0 672.18 3
+ 2 2 2 700.58 4
+ 4 1 0 711.73 4
+ 3 2 1 713.8 17
+ 3 1 2 720.19 10
+ 1 1 3 730.59 5
+ 2 0 3 749.83 5
+ 4 1 1 752.39 5
+ 5 0 0 788.21 5
+ 2 1 3 806.76 1
+ 3 3 0 825.86 3
+ 5 0 1 827.64 8
+ 3 2 2 833.78 2
+ 3 0 3 843.98 4
+ 4 2 0 844.38 1
+ 3 3 1 864.97 5
+ 4 1 2 870.85 0.8
+ 4 2 1 883.21 4
+ 2 2 3 899.39 0.5
+ 3 1 3 917.81 4
+ 5 0 2 944.98 0.8
+ 0 0 4 950.38 0.5
+ 3 3 2 982.09 0.5
+ 4 2 2 1000.78 1
+ 1 1 4 1006.51 4
+ 4 3 0 1011.55 0.6
+ 2 0 4 1025.21 0.6
+ 3 2 3 1029.8 4
+ 6 0 1 1032.39 2
+ 5 2 0 1049.37 3
+ 4 3 1 1051.58 2
+ 4 1 3 1068 1
+ 2 1 4 1082.77 1
+ 5 2 1 1090.18 0.9
+
+# End of data set 1945858
+
+

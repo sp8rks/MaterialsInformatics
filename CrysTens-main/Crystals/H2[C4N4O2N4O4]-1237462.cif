@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# C-H-N-O          # H2[C4N4O2N4O4] mon1                           # 1237462 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1237462
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1237462
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ [C~4~ N~4~ O~2~ N~4~ O~4~]'
+_chemical_formula_sum                    'C4 H2 N8 O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~[C~4~N~4~O~2~N~4~O~4~],mP36,14
+_chemical_formula_weight                 258.1
+
+# Bibliographic data
+
+_publ_section_title                      'Dense energetic nitraminofurazanes'
+_journal_coden_ASTM                      CEUJED
+_journal_name_full                       'Chem. Eur. J.'
+_journal_year                            2014
+_journal_volume                          20
+_journal_page_first                      6401
+_journal_page_last                       6411
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fischer D.'
+;
+Munich Ludwig Maximilian University
+Department of Chemistry, Energetic Materials Research
+Munich
+Germany
+;
+'Klap\"otke T.M.'
+;
+Munich Ludwig Maximilian University
+Department of Chemistry, Energetic Materials Research
+Munich
+Germany
+;
+'Reymann M.'
+;
+Munich Ludwig Maximilian University
+Department of Chemistry, Energetic Materials Research
+Munich
+Germany
+;
+'Stierstorfer J.'
+;
+Munich Ludwig Maximilian University
+Department of Chemistry, Energetic Materials Research
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.7455
+_cell_length_b                           11.8741
+_cell_length_c                           7.8368
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.065
+_cell_angle_gamma                        90
+_cell_volume                             442.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C2 C 4 e 0.02611 0.51859 0.09791 1
+ N2 N 4 e 0.03695 0.62024 0.34029 1
+ C1 C 4 e 0.05016 0.12164 0.35276 1
+ N1 N 4 e 0.16199 0.45601 0.26272 1
+ O1 O 4 e 0.17171 0.51841 0.41559 1
+ N3 N 4 e 0.17995 0.2178 0.47345 1
+ N4 N 4 e 0.45205 0.29472 0.14279 1
+ O3 O 4 e 0.54202 0.21841 0.26956 1
+ O2 O 4 e 0.58144 0.37788 0.14912 1
+ H3 H 4 e 0.092 0.2645 0.492 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.94
+_cell_measurement_temperature            100
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1628
+_diffrn_ambient_temperature              100
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur 3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3064
+_diffrn_reflns_theta_min                 4.28
+_diffrn_reflns_theta_max                 25.99
+_exptl_absorpt_coefficient_mu            0.180
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             86
+_refine_ls_number_reflns                 777
+_refine_ls_R_factor_gt                   0.0268
+_refine_ls_wR_factor_gt                  0.0665
+
+# End of data set 1237462
+
+

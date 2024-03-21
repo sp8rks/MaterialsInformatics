@@ -1,0 +1,166 @@
+##############################################################################
+#                                                                            #
+# As-Er-Ni         # Er6Ni20As13                                   # 1623308 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1623308
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1623308
+
+# Entry summary
+
+_chemical_formula_structural             'Er~6~ Ni~20~ As~13~'
+_chemical_formula_sum                    'As13 Er6 Ni20'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Zr~6~Ni~20~P~13~,hP39,174
+_chemical_formula_weight                 3151.5
+
+# Bibliographic data
+
+_publ_section_title
+'Solid state phase equilibria in the Er-Ni-P and Er-Ni-As systems at 800 \%C' 
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2007
+_journal_volume                          62
+_journal_page_first                      1143
+_journal_page_last                       1152
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zelinska M.V.'
+;
+Lviv Ivan Franko National University
+Department of Analytical Chemistry
+Lviv
+Ukraine
+;
+'Zhak O.V.'
+;
+Lviv Ivan Franko National University
+Department of Analytical Chemistry
+Lviv
+Ukraine
+;
+'Oryshchyn S.V.'
+;
+Lviv Ivan Franko National University
+Department of Analytical Chemistry
+Lviv
+Ukraine
+;
+'Polianska T.'
+;
+Lviv Ivan Franko National University
+Department of Analytical Chemistry
+Lviv
+Ukraine
+;
+'Pivan J.Y.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie du Solide et Inorganique Mol\'eculaire
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.0798
+_cell_length_b                           13.0798
+_cell_length_c                           3.8308
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             567.6
+_cell_formula_units_Z                    1
+_space_group_IT_number                   174
+_space_group_name_H-M_alt                'P -6'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-y, x-y, -z'
+ 5 '-y, x-y, z'
+ 6 'x, y, -z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Ni
+ Er
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ni1 Ni 3 k 0.0183 0.586 0.5 1
+ Ni2 Ni 3 k 0.0789 0.1623 0.5 1
+ Er1 Er 3 k 0.1888 0.4732 0.5 1
+ As1 As 3 k 0.289 0.2312 0.5 1
+ Ni3 Ni 3 k 0.3238 0.0716 0.5 1
+ As2 As 3 k 0.5279 0.1406 0.5 1
+ As3 As 3 j 0.0483 0.2834 0 1
+ As4 As 3 j 0.139 0.613 0 1
+ Ni4 Ni 3 j 0.2012 0.1068 0 1
+ Ni5 Ni 3 j 0.2473 0.3256 0 1
+ Ni6 Ni 3 j 0.4414 0.0213 0 1
+ Er2 Er 3 j 0.4739 0.2799 0 1
+ Ni7 Ni 1 f 0.666667 0.333333 0.5 1
+ Ni8 Ni 1 c 0.333333 0.666667 0 1
+ As5 As 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.22
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54185
+_pd_proc_wavelength                      1.54185
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1623308
+
+

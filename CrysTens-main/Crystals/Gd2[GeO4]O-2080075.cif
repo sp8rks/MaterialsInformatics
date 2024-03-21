@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# Gd-Ge-O          # Gd2[GeO4]O                                    # 2080075 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2080075
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2080075
+
+# Entry summary
+
+_chemical_formula_structural             'Gd~2~ [Ge O~4~] O'
+_chemical_formula_sum                    'Gd2 Ge O5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Gd~2~[SiO~4~]O,mP32,14
+_chemical_formula_weight                 467.1
+_chemical_melting_point                  2123(50)
+
+# Bibliographic data
+
+_publ_section_title
+'Structure and luminescence of Gd~2~GeO~5~ and Dy~2~GeO~5~'                   
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1985
+_journal_volume                          110
+_journal_page_first                      397
+_journal_page_last                       410
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Brixner L.H.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+'Calabrese J.C.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+'Chen H.Y.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.323
+_cell_length_b                           7.09
+_cell_length_c                           6.838
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.4
+_cell_angle_gamma                        90
+_cell_volume                             435.76
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Gd
+ O
+ Ge
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Gd2 Gd 4 e 0.02487 0.12769 0.23128 1
+ O5 O 4 e 0.1126 0.3817 0.4334 1
+ O1 O 4 e 0.2856 0.0839 0.3318 1
+ Ge1 Ge 4 e 0.3017 0.5906 0.0247 1
+ O2 O 4 e 0.3884 0.4406 0.2223 1
+ Gd1 Gd 4 e 0.36898 0.13501 0.04953 1
+ O3 O 4 e 0.6121 0.2956 0.5045 1
+ O4 O 4 e 0.8873 0.3647 0.0039 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.12
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex R3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1811
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            39.523
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1128
+_refine_ls_R_factor_gt                   0.047
+_refine_ls_wR_factor_gt                  0.043
+
+# End of data set 2080075
+
+

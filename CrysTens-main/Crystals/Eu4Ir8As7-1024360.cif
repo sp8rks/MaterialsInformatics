@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# As-Eu-Ir         # Eu4Ir8As7                                     # 1024360 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1024360
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1024360
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~4~ Ir~8~ As~7~'
+_chemical_formula_sum                    'As7 Eu4 Ir8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~4~Ir~8~P~7~,mP38,11
+_chemical_formula_weight                 2670.1
+
+# Bibliographic data
+
+_publ_section_title
+'Lead-flux growth of Eu~4~Ir~8~As~7~ crystals'                                
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2013
+_journal_volume                          68
+_journal_page_first                      1185
+_journal_page_last                       1190
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pfannenschmidt U.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'P\"ottgen R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.113
+_cell_length_b                           4.084
+_cell_length_c                           13.603
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.45
+_cell_angle_gamma                        90
+_cell_volume                             720.58
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Eu
+ As
+ Ir
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Eu2 Eu 2 e 0.01491 0.25 0.70872 1
+ As3 As 2 e 0.03084 0.25 0.12728 1
+ Ir6 Ir 2 e 0.05369 0.25 0.95162 1
+ As5 As 2 e 0.10887 0.25 0.43812 1
+ Ir7 Ir 2 e 0.16495 0.25 0.27187 1
+ Ir2 Ir 2 e 0.22152 0.25 0.60166 1
+ As1 As 2 e 0.24362 0.25 0.91853 1
+ As4 As 2 e 0.3487 0.25 0.27919 1
+ As2 As 2 e 0.40532 0.25 0.5872 1
+ Ir3 Ir 2 e 0.41996 0.25 0.00183 1
+ Ir8 Ir 2 e 0.48519 0.25 0.42689 1
+ As7 As 2 e 0.55746 0.25 0.89913 1
+ Ir5 Ir 2 e 0.55589 0.25 0.7198 1
+ Eu4 Eu 2 e 0.60408 0.25 0.20618 1
+ Eu1 Eu 2 e 0.71251 0.25 0.56356 1
+ Eu3 Eu 2 e 0.78438 0.25 0.897 1
+ As6 As 2 e 0.81232 0.25 0.31067 1
+ Ir1 Ir 2 e 0.84453 0.25 0.13861 1
+ Ir4 Ir 2 e 0.92621 0.25 0.47032 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            12.31
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    6609
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 28
+_exptl_absorpt_coefficient_mu            106.6
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             95
+_refine_ls_number_reflns                 1679
+_refine_ls_R_factor_gt                   0.0298
+_refine_ls_wR_factor_gt                  0.0611
+
+# End of data set 1024360
+
+

@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# I-In-Sn          # In3SnI5 mon3                                  # 1613330 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1613330
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1613330
+
+# Entry summary
+
+_chemical_formula_structural             'In~3~ Sn I~5~'
+_chemical_formula_sum                    'I5 In3 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            In~3~SnI~5~-b,mP36,14
+_chemical_formula_weight                 1097.7
+
+# Bibliographic data
+
+_publ_section_title
+'Low temperature polymorphs of the compound In~3~SnI~5~'                      
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1994
+_journal_volume                          209
+_journal_page_first                      36
+_journal_page_last                       42
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'St\"owe K.'
+;
+Saarbr\"ucken Saarland University
+Institut f\"ur Anorganische und Analytische Chemie und Radiochemie
+Saarbr\"ucken
+Germany
+;
+'Beck H.P.'
+;
+Saarbr\"ucken Saarland University
+Institut f\"ur Anorganische und Analytische Chemie und Radiochemie
+Saarbr\"ucken
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.943
+_cell_length_b                           8.89
+_cell_length_c                           18.914
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.987
+_cell_angle_gamma                        90
+_cell_volume                             1373.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ I
+ Sn
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I1 I 4 e 0.0338 0.34524 0.39393 1
+ Sn Sn 4 e 0.10523 0.18023 0.08357 1
+ In2 In 4 e 0.11347 0.53358 0.25049 1
+ I3 I 4 e 0.26005 0.1677 0.25962 1
+ I5 I 4 e 0.29016 0.47876 0.10357 1
+ In3 In 4 e 0.42748 0.20286 0.46772 1
+ I4 I 4 e 0.43493 0.01064 0.10105 1
+ In1 In 4 e 0.6109 0.30659 0.25069 1
+ I2 I 4 e 0.81434 0.33418 0.1122 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.31
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            60
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Huber
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2766
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 20
+_exptl_absorpt_coefficient_mu            17.8
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Patterson synthesis'
+_refine_ls_number_parameters             83
+_refine_ls_number_reflns                 1118
+_refine_ls_R_factor_gt                   0.0439
+_refine_ls_wR_factor_gt                  0.0329
+
+# End of data set 1613330
+
+

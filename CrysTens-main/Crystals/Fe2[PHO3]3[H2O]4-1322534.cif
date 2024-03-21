@@ -1,0 +1,175 @@
+##############################################################################
+#                                                                            #
+# Fe-H-O-P         # Fe2[PHO3]3[H2O]4                              # 1322534 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1322534
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1322534
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~2~ [P H O~3~]~3~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Fe2 H11 O13 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ga~2~[PHO~3~]~3~[H~2~O]~4~,mP36,4
+_chemical_formula_weight                 423.7
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and crystal structures of aluminum and iron phosphites'            
+_journal_coden_ASTM                      JCCYEV
+_journal_name_full                       'J. Chem. Crystallogr.'
+_journal_year                            1994
+_journal_volume                          24
+_journal_page_first                      155
+_journal_page_last                       163
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Poojary D.M.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Zhang Y.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Cox D.E.'
+;
+Brookhaven National Laboratory
+National Synchrotron Light Source
+Upton
+U.S.A. New York
+;
+'Rudolf P.R.'
+;
+Dow Chemical Co.
+Analytical Sciences
+Midland
+U.S.A. Michigan
+;
+'Cheng S.'
+;
+Taipei Taiwan National University of Science and Technology
+Taipei
+Taiwan
+;
+'Clearfield A.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.7964
+_cell_length_b                           10.1814
+_cell_length_c                           8.2548
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.94
+_cell_angle_gamma                        90
+_cell_volume                             607.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ PH
+ Fe
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 2 a 0.012 0.009 0.476 1
+ P1 PH 2 a 0.038 0.3937 0.6555 1
+ O7 O 2 a 0.029 0.759 0.434 1
+ Fe1 Fe 2 a 0.0899 0.5922 0.3701 1
+ O6 O 2 a 0.14 0.065 0.812 1
+ OW1 OH2 2 a 0.175 0.416 0.324 1
+ O1 O 2 a 0.197 0.669 0.22 1
+ P3 PH 2 a 0.2641 0.0886 0.0044 1
+ O9 O 2 a 0.256 0.382 0.748 1
+ P2 PH 2 a 0.2722 0.6459 0.0786 1
+ O2 O 2 a 0.304 0.236 0.049 1
+ O3 O 2 a 0.318 0.498 0.064 1
+ OW4 OH2 2 a 0.352 0.17 0.508 1
+ O8 O 2 a 0.419 0.0 0.082 1
+ O4 O 2 a 0.441 0.731 0.103 1
+ Fe2 Fe 2 a 0.5676 0.8684 0.0267 1
+ OW3 OH2 2 a 0.639 0.354 0.213 1
+ OW2 OH2 2 a 0.655 0.108 0.439 1
+
+
+_exptl_crystal_colour                    pink
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.32
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Rigaku
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    533
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 40
+_pd_proc_2theta_range_min                4
+_pd_proc_2theta_range_max                80
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             62
+_refine_ls_number_reflns                 61
+_refine_ls_R_factor_gt                   0.041
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.122
+_pd_proc_ls_proof_wR_factor              0.164
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1322534
+
+

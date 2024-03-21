@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Br-C-K-N-Pt      # K2PtBr2[CN]4                                  # 1709503 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1709503
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1709503
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Pt Br~2~ [C N]~4~'
+_chemical_formula_sum                    'Br2 C4 K2 N4 Pt'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Rb~2~PtBr~2~[CN]~4~,mP26,14
+_chemical_formula_weight                 537.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Kristallzucht und Strukturaufkl\"arung von K~2~[Pt(CN)~4~Cl~2~], K~2~[Pt(CN)~4~Br~2~], K~2~[Pt(CN)~4~I~2~] und K~2~[Pt(CN)~4~Cl~2~].2H~2~O
+;
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2004
+_journal_volume                          59
+_journal_page_first                      567
+_journal_page_last                       572
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'M\"uhle C.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Karpov A.S.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Nuss J.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Jansen M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.16
+_cell_length_b                           8.991
+_cell_length_c                           8.679
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.85
+_cell_angle_gamma                        90
+_cell_volume                             534.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ K
+ N
+ C
+ Br
+ Pt
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K K 4 e 0.0014 0.2228 0.3779 1
+ N1 N 4 e 0.1721 0.0591 0.1687 1
+ N2 N 4 e 0.1846 0.4277 0.1716 1
+ C1 C 4 e 0.2945 0.0377 0.1119 1
+ C2 C 4 e 0.304 0.4528 0.2889 1
+ Br Br 4 e 0.6007 0.2651 0.0327 1
+ Pt Pt 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.34
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    20586
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 46
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             63
+_refine_ls_number_reflns                 3757
+_refine_ls_R_factor_gt                   0.026
+_refine_ls_wR_factor_gt                  0.048
+
+# End of data set 1709503
+
+

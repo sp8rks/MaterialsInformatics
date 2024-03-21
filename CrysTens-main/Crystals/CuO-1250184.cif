@@ -1,0 +1,128 @@
+##############################################################################
+#                                                                            #
+# Cu-O             # CuO lt                                        # 1250184 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1250184
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1250184
+
+# Entry summary
+
+_chemical_formula_structural             'Cu O'
+_chemical_formula_sum                    'Cu O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuO,mS8,9
+_chemical_formula_weight                 79.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+CuO: x-ray single-crystal structure determination at 196 K and room temperature
+;
+_journal_coden_ASTM                      JCOMEL
+_journal_name_full                       'J. Phys.: Condens. Matter'
+_journal_year                            1991
+_journal_volume                          3
+_journal_page_first                      8173
+_journal_page_last                       8180
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'\%Asbrink S.'
+;
+Stockholm University
+Department of Inorganic Chemistry
+Stockholm
+Sweden
+;
+'Waskowska A.'
+;
+Polish Academy of Sciences
+Trzebiatowski W. Institute of Low Temperature and Structure Research
+Wroclaw
+Poland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.6927
+_cell_length_b                           3.4283
+_cell_length_c                           5.137
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.546
+_cell_angle_gamma                        90
+_cell_volume                             81.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O O 4 a 0.0000 0.08230 0.0000 1
+ Cu Cu 4 a 0.7396 0.25330 0.2602 1
+
+
+_exptl_crystal_colour                    'black gray'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.48
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            19
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          STOE
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1648
+_exptl_absorpt_coefficient_mu            24.97
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             18
+_refine_ls_number_reflns                 417
+_refine_ls_R_factor_gt                   0.0416
+_refine_ls_wR_factor_gt                  0.0347
+
+# End of data set 1250184
+
+

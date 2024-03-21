@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# H-Na-O-P-V-Zn    # HNaZn[VO][PO4]2                               # 1004042 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1004042
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1004042
+
+# Entry summary
+
+_chemical_formula_structural             'H Na Zn [V O] [P O~4~]~2~'
+_chemical_formula_sum                    'H Na O9 P2 V Zn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HNaZn[VO][PO~4~]~2~,mP56,14
+_chemical_formula_weight                 346.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+On the new oxovanadium phosphate NaZnVOPO~4~(HPO~4~) obtained at 510 K from hydrothermal treatment
+;
+_journal_coden_ASTM                      JMACEP
+_journal_name_full                       'J. Mater. Chem.'
+_journal_year                            2001
+_journal_volume                          11
+_journal_page_first                      1735
+_journal_page_last                       1739
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Le Fur E.'
+;
+Rennes Ecole Nationale Sup\'erieure de Chimie
+Laboratoire de Physicochimie Analytique
+Rennes
+France
+;
+'Moreno Y.'
+;
+Rennes Ecole Nationale Sup\'erieure de Chimie
+Laboratoire de Physicochimie Analytique
+Rennes
+France
+;
+'Pivan J.Y.'
+;
+Rennes Ecole Nationale Sup\'erieure de Chimie
+Laboratoire de Physicochimie Analytique
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.5441
+_cell_length_b                           8.9831
+_cell_length_c                           9.0836
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.241
+_cell_angle_gamma                        90
+_cell_volume                             697
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ OH
+ Zn
+ Na
+ V
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 O 4 e 0.0356 0.3458 0.126 1
+ P2 P 4 e 0.03731 0.87136 0.22376 1
+ O1 O 4 e 0.0842 0.3967 0.3937 1
+ O9 OH 4 e 0.1331 0.7255 0.1868 1
+ Zn Zn 4 e 0.15008 0.16166 0.08506 1
+ O2 O 4 e 0.1544 0.0008 0.2375 1
+ Na Na 4 e 0.1928 0.5302 0.0218 1
+ O6 O 4 e 0.3767 0.5162 0.2299 1
+ O5 O 4 e 0.3783 0.1454 0.4152 1
+ O8 O 4 e 0.3816 0.159 0.1035 1
+ P1 P 4 e 0.48937 0.25154 0.00164 1
+ V V 4 e 0.56188 0.49943 0.24441 1
+ O3 O 4 e 0.5849 0.3489 0.4034 1
+ O4 O 4 e 0.6067 0.3393 0.0986 1
+
+
+_exptl_crystal_colour                    'blue pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.30
+_cell_measurement_temperature            300
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              300
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Enraf-Nonius
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    11079
+_exptl_absorpt_coefficient_mu            5.33
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             128
+_refine_ls_number_reflns                 1883
+_refine_ls_R_factor_gt                   0.0259
+_refine_ls_wR_factor_gt                  0.0680
+
+# End of data set 1004042
+
+

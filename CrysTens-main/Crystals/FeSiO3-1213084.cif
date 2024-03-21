@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# Fe-O-Si          # FeSiO3 hp                                     # 1213084 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1213084
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1213084
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Si O~3~'
+_chemical_formula_sum                    'Fe O3 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            CoGeO~3~,mS40,15
+_chemical_formula_weight                 131.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+The structure of high-pressure C2/c ferrosilite and crystal chemistry of high-pressure C2/c pyroxenes
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            1994
+_journal_volume                          79
+_journal_page_first                      1032
+_journal_page_last                       1041
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hugh Jones D.A.'
+;
+London College University
+Research School of Geological and Geophysical Sciences
+London
+United Kingdom
+;
+'Woodland A.B.'
+;
+Bayreuth University
+Bayerisches Geoinstitut
+Bayreuth
+Germany
+;
+'Angel R.J.'
+;
+Bayreuth University
+Bayerisches Geoinstitut
+Bayreuth
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.54
+_cell_length_b                           8.996
+_cell_length_c                           5.008
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.01
+_cell_angle_gamma                        90
+_cell_volume                             418.8
+_cell_formula_units_Z                    8
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Si
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.126 0.405 0.154 1
+ O3 O 8 f 0.148 0.053 0.066 1
+ Si Si 8 f 0.2988 0.4118 0.2225 1
+ O2 O 8 f 0.377 0.267 0.373 1
+ Fe2 Fe 4 e 0 0.2279 0.25 1
+ Fe1 Fe 4 e 0 0.5946 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.19
+_cell_measurement_temperature            ?
+_cell_measurement_pressure               1.87e+006
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_pressure                 1.87e+006
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Picker
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    570
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 344
+_refine_ls_R_factor_gt                   0.055
+_refine_ls_wR_factor_gt                  0.047
+
+# End of data set 1213084
+
+

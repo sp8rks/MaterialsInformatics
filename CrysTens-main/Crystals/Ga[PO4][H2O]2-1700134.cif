@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Ga-H-O-P         # Ga[PO4][H2O]2 mon                             # 1700134 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1700134
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1700134
+
+# Entry summary
+
+_chemical_formula_structural             'Ga [P O~4~] [H~2~ O]~2~'
+_chemical_formula_sum                    'Ga H4 O6 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ga[PO~4~][H~2~O]~2~,mP64,14
+_chemical_formula_weight                 200.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of hydrated gallium phosphate of composition GaPO~4~.2H~2~O
+;
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1966
+_journal_volume                          20
+_journal_page_first                      526
+_journal_page_last                       534
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mooney Slater R.C.L.'
+;
+Massachusetts Institute of Technology (MIT)
+Cambridge
+U.S.A. Massachusetts
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.68
+_cell_length_b                           9.64
+_cell_length_c                           12.1479
+_cell_angle_alpha                        90
+_cell_angle_beta                         128.318
+_cell_angle_gamma                        90
+_cell_volume                             889.4
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ga
+ OH2
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0007 0.2073 0.296 1
+ Ga1 Ga 4 e 0.0159 0.5413 0.1287 1
+ Ow1 OH2 4 e 0.0566 0.3547 0.0525 1
+ O4 O 4 e 0.0813 0.4521 0.301 1
+ Ow2 OH2 4 e 0.145 0.0597 0.1494 1
+ P1 P 4 e 0.1603 0.3127 0.3677 1
+ Ow3 OH2 4 e 0.2159 0.637 0.5369 1
+ O6 O 4 e 0.2588 0.5925 0.2059 1
+ O3 O 4 e 0.2599 0.1694 0.0232 1
+ Ga2 Ga 4 e 0.285 0.2307 0.1842 1
+ O1 O 4 e 0.2861 0.2684 0.3383 1
+ P2 P 4 e 0.3547 0.5353 0.1505 1
+ O8 O 4 e 0.4394 0.3894 0.2219 1
+ O7 O 4 e 0.4983 0.1304 0.3132 1
+ Ow4 OH2 4 e 0.6132 0.3163 0.1012 1
+ O5 O 4 e 0.7708 0.4808 0.0078 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.00
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          Nonius
+_diffrn_radiation_type                   'X-rays, Cu K'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.074
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1700134
+
+

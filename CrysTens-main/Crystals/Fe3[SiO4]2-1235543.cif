@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Fe-O-Si          # Fe3[SiO4]2                                    # 1235543 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1235543
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1235543
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~3~ [Si O~4~]~2~'
+_chemical_formula_sum                    'Fe3 O8 Si2'
+_chemical_name_mineral                   laihunite
+_chemical_compound_source                'China, Liaoning Province, Xiaolaihe'
+_chemical_name_structure_type            Co~3~[PO~4~]~2~,mP26,14
+_chemical_formula_weight                 351.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures of laihunite and intermediate phases between laihunite-1M and fayalite: Z-contrast imaging and ab initio study
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2014
+_journal_volume                          99
+_journal_page_first                      881
+_journal_page_last                       889
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Xu H.'
+;
+Wisconsin Madison University
+Department of Geoscience
+Madison
+U.S.A. Wisconsin
+;
+'Shen Z.'
+;
+Wisconsin Madison University
+Department of Geoscience
+Madison
+U.S.A. Wisconsin
+;
+'Konishi H.'
+;
+Wisconsin Madison University
+Department of Geoscience
+Madison
+U.S.A. Wisconsin
+;
+'Fu P.Q.'
+;
+Chinese Academy of Sciences
+Institute of Geochemistry
+Guiyang / Guizhou
+China
+;
+'Szlufarska I.'
+;
+Wisconsin Madison University
+Department of Materials Science and Engineering
+Madison
+U.S.A. Wisconsin
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.8
+_cell_length_b                           4.8
+_cell_length_c                           10.2
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.4
+_cell_angle_gamma                        90
+_cell_volume                             283.88
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Si
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.03123 0.22661 0.329 1
+ Si1 Si 4 e 0.25211 0.0601 0.40521 1
+ O2 O 4 e 0.24005 0.32784 0.05564 1
+ Fe2 Fe 4 e 0.2594 0.50625 0.22833 1
+ O3 O 4 e 0.46055 0.20433 0.32132 1
+ O1 O 4 e 0.76075 0.22426 0.10578 1
+ Fe1 Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.11
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              electrons
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'electron microscopy'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   electrons
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'model derived from HREM images'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1235543
+
+

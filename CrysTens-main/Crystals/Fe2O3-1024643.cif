@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# Fe-O             # Fe2O3 hp3                                     # 1024643 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1024643
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1024643
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~2~ O~3~'
+_chemical_formula_sum                    'Fe2 O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe~2~O~3~,mP20,14
+_chemical_formula_weight                 159.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Novel high pressure monoclinic Fe~2~O~3~ polymorph revealed by single-crystal synchrotron X-ray diffraction studies
+;
+_journal_coden_ASTM                      HPRSEL
+_journal_name_full                       'High Pressure Res.'
+_journal_year                            2013
+_journal_volume                          33
+_journal_page_first                      534
+_journal_page_last                       545
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bykova E.A.'
+;
+Bayreuth University
+Bayerisches Forschungsinstitut f\"ur Experimentelle Geochemie und Geophysik
+Bayreuth
+Germany
+;
+'Bykov M.A.'
+;
+Bayreuth University
+Laboratorium f\"ur Kristallographie
+Bayreuth
+Germany
+;
+'Prakapenka V.B.'
+;
+Illinois Chicago University
+Center for Advanced Radiation Sources
+Chicago
+U.S.A. Illinois
+;
+'Konopkova Z.'
+;
+Hamburg Synchrotron Radiation Laboratory (HASYLAB Desy)
+Photon Science
+Hamburg
+Germany
+;
+'Liermann H.P.'
+;
+Hamburg Synchrotron Radiation Laboratory (HASYLAB Desy)
+Photon Science
+Hamburg
+Germany
+;
+'Dubrovinskaia N.A.'
+;
+Bayreuth University
+Laboratorium f\"ur Kristallographie
+Bayreuth
+Germany
+;
+'Dubrovinsky L.S.'
+;
+Bayreuth University
+Bayerisches Forschungsinstitut f\"ur Experimentelle Geochemie und Geophysik
+Bayreuth
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.588
+_cell_length_b                           4.945
+_cell_length_c                           8.0161
+_cell_angle_alpha                        90
+_cell_angle_beta                         123.594
+_cell_angle_gamma                        90
+_cell_volume                             151.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 e 0.09 0.063 0.238 1
+ O1 O 4 e 0.234 0.685 0.072 1
+ Fe3 Fe 4 e 0.2777 0.4172 0.2495 1
+ O2 O 4 e 0.395 0.181 0.07 1
+ Fe1 Fe 2 d 0.5 0 0.5 1
+ Fe2 Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.00
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_pressure                 5.4e+007
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+U.S.A. Illinois, Argonne National Laboratory, Advanced Photon Source, GSECARS, 13-ID-D beamline
+;
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.3344
+_diffrn_reflns_number                    218
+_diffrn_reflns_theta_min                 2.51
+_diffrn_reflns_theta_max                 10.81
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             19
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.1111
+_refine_ls_wR_factor_gt                  0.3068
+
+# End of data set 1024643
+
+

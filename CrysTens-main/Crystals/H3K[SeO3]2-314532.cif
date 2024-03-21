@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# H-K-O-Se         # H3K[SeO3]2 lt                                 #  314532 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_314532
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      314532
+
+# Entry summary
+
+_chemical_formula_structural             'H~3~ K [Se O~3~]~2~'
+_chemical_formula_sum                    'H3 K O6 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~3~K[SeO~3~]~2~,mP36,14
+_chemical_formula_weight                 296.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Study of the phase transition in KH~3~(SeO~3~)~2~. II. Thermal anomalies and their relation to acoustic phonon instability
+;
+_journal_coden_ASTM                      JUPSAU
+_journal_name_full                       'J. Phys. Soc. Jpn.'
+_journal_year                            1977
+_journal_volume                          43
+_journal_page_first                      181
+_journal_page_last                       187
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Makita Y.'
+;
+Tokyo University of Science
+Department of Applied Physics
+Tokyo / Tokyo
+Japan
+;
+'Yamauchi Y.'
+;
+Tokyo University of Science
+Department of Applied Physics
+Tokyo / Tokyo
+Japan
+;
+'Suzuki S.'
+;
+Tokyo University of Science
+Department of Applied Physics
+Tokyo / Tokyo
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.257
+_cell_length_b                           16.13
+_cell_length_c                           6.206
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.2
+_cell_angle_gamma                        90
+_cell_volume                             626.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Se
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0685 0.6096 0.386 1
+ O2 O 4 e 0.0942 0.2949 0.3109 1
+ O3 O 4 e 0.1385 0.4341 0.1094 1
+ Se1 Se 4 e 0.2149 0.6498 0.1914 1
+ K1 K 4 e 0.2321 0.0005 0.1906 1
+ Se2 Se 4 e 0.2967 0.3483 0.1813 1
+ O4 O 4 e 0.3615 0.5694 0.0939 1
+ O5 O 4 e 0.4267 0.3891 0.3975 1
+ O6 O 4 e 0.5907 0.211 0.1893 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.14
+_cell_measurement_temperature            144
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 314532
+
+

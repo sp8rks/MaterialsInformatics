@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Ge-P             # GeP rt                                        # 1642524 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1642524
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1642524
+
+# Entry summary
+
+_chemical_formula_structural             'Ge P'
+_chemical_formula_sum                    'Ge P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            SiAs,mS24,12
+_chemical_formula_weight                 103.6
+_chemical_melting_point                  1025(10)
+
+# Bibliographic data
+
+_publ_section_title
+;
+GeP and (Ge~1-x~Sn~x~)(P~1-y~Ge~y~) (x \\simeq 0.12, y \\simeq 0.05): Synthesis, structure, and properties of two-dimensional layered tetrel phosphides
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2015
+_journal_volume                          224
+_journal_page_first                      62
+_journal_page_last                       70
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lee K.'
+;
+California Davis University
+Department of Chemistry
+Davis
+U.S.A. California
+;
+'Synnestvedt S.'
+;
+California Davis University
+Department of Chemistry
+Davis
+U.S.A. California
+;
+'Bellard M.'
+;
+California Davis University
+Department of Chemistry
+Davis
+U.S.A. California
+;
+'Kovnir K.'
+;
+California Davis University
+Department of Chemistry
+Davis
+U.S.A. California
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.1948
+_cell_length_b                           3.6337
+_cell_length_c                           9.1941
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.239
+_cell_angle_gamma                        90
+_cell_volume                             497.9
+_cell_formula_units_Z                    12
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ge
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ge2 Ge 4 i 0.12714 0 0.42764 1
+ P5 P 4 i 0.15959 0 0.04701 1
+ P4 P 4 i 0.15278 0 0.68738 1
+ Ge3 Ge 4 i 0.24777 0 0.2861 1
+ P6 P 4 i 0.53478 0 0.33487 1
+ Ge1 Ge 4 i 0.56997 0 0.09338 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.14
+_cell_measurement_temperature            90(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              90(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4924
+_diffrn_reflns_theta_min                 2.26
+_diffrn_reflns_theta_max                 32.5
+_exptl_absorpt_coefficient_mu            18.775
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             37
+_refine_ls_number_reflns                 953
+_refine_ls_R_factor_gt                   0.0167
+_refine_ls_wR_factor_gt                  0.0399
+
+# End of data set 1642524
+
+

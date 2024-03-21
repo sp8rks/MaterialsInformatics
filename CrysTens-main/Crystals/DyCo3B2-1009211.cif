@@ -1,0 +1,176 @@
+##############################################################################
+#                                                                            #
+# B-Co-Dy          # DyCo3B2                                       # 1009211 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1009211
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1009211
+
+# Entry summary
+
+_chemical_formula_structural             'Dy Co~3~ B~2~'
+_chemical_formula_sum                    'B2 Co3 Dy'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CeCo~3~B~2~,hP6,191
+_chemical_formula_weight                 360.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+The Preparation and Crystal Structure of Ternary Rare Earth Borides, RCo~3~B~2~
+;
+_journal_coden_ASTM                      BCSJA8
+_journal_name_full                       'Bull. Chem. Soc. Jpn.'
+_journal_year                            1973
+_journal_volume                          46
+_journal_page_first                      770
+_journal_page_last                       774
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Niihara K.'
+;
+Sendai Miyagi Tohoku University
+Research Institute of Iron, Steel and Other Metals
+Sendai / Miyagi
+Japan
+;
+'Yajima S.'
+;
+Sendai Miyagi Tohoku University
+Research Institute of Iron, Steel and Other Metals
+Sendai / Miyagi
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.031
+_cell_length_b                           5.031
+_cell_length_c                           3.021
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             66.2
+_cell_formula_units_Z                    1
+_space_group_IT_number                   191
+_space_group_name_H-M_alt                'P 6/m m m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, z'
+ 10 '-y, -x, -z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, -z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, -z'
+ 15 'x, x-y, z'
+ 16 'x, y, -z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, z'
+ 23 'y, x, -z'
+ 24 'y, x, z'
+loop_
+ _atom_type_symbol
+ Co
+ B
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Co Co 3 g 0.5 0 0.5 1
+ B B 2 c 0.333333 0.666667 0 1
+ Dy Dy 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.45
+_exptl_crystal_density_diffrn            9.05
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Fe Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Debye-Scherrer film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 43.59 5
+ 1 1 0 25.14 5
+ 1 0 1 24.8 7
+ 2 0 0 21.78 8
+ 1 1 1 19.32 7
+ 2 0 1 17.65 5
+ 2 1 0 16.47 1
+ 0 0 2 15.11 5
+ 2 1 1 14.47 7
+ 1 0 2 14.25 2
+ 3 0 1 13.1 5
+ 1 1 2 12.95 3
+ 2 2 0 12.59 5
+ 2 0 2 12.41 7
+ 3 1 0 12.11 3
+ 3 1 1 11.23 5
+ 2 1 2 11.11 3
+ 4 0 0 10.89 5
+ 3 0 2 10.47 2
+
+# End of data set 1009211
+
+

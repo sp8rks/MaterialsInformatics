@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Fe-P             # FeP4 mon2                                     # 1250519 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1250519
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1250519
+
+# Entry summary
+
+_chemical_formula_structural             'Fe P~4~'
+_chemical_formula_sum                    'Fe P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            FeP~4~,mS40,15
+_chemical_formula_weight                 179.7
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal Structure of a New FeP~4~ Modification'                              
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1987
+_journal_volume                          71
+_journal_page_first                      40
+_journal_page_last                       46
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Evain M.'
+;
+Nantes University
+Laboratoire de Chimie des Solides
+Nantes
+France
+;
+'Brec R.'
+;
+Nantes University
+Laboratoire de Chimie des Solides
+Nantes
+France
+;
+'Fiechter S.'
+;
+Hahn Meitner Institute
+Bereich Strahlenchemie
+Berlin
+Germany
+;
+'Tributsch H.'
+;
+Hahn Meitner Institute
+Bereich Strahlenchemie
+Berlin
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.0543
+_cell_length_b                           10.407
+_cell_length_c                           11.069
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.14
+_cell_angle_gamma                        90
+_cell_volume                             582.12
+_cell_formula_units_Z                    8
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P3 P 8 f 0.0396 0.0926 0.04951 1
+ P4 P 8 f 0.0608 0.3973 0.02394 1
+ P2 P 8 f 0.2001 0.4275 0.21573 1
+ P1 P 8 f 0.2997 0.2328 0.2921 1
+ Fe2 Fe 4 e 0 0.07601 0.25 1
+ Fe1 Fe 4 d 0.25 0.25 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.10
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            7.04
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             49
+_refine_ls_number_reflns                 560
+_refine_ls_R_factor_gt                   0.026
+_refine_ls_wR_factor_gt                  0.031
+
+# End of data set 1250519
+
+

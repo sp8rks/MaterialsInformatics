@@ -1,0 +1,219 @@
+##############################################################################
+#                                                                            #
+# Gd-Pd            # Gd7Pd3                                        #  251739 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_251739
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      251739
+
+# Entry summary
+
+_chemical_formula_structural             'Gd~7~ Pd~3~'
+_chemical_formula_sum                    'Gd7 Pd3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Th~7~Fe~3~,hP20,186
+_chemical_formula_weight                 1419.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ferromagnetic Gd~7~Pd~3~ and other rare-earth-palladium compounds with non-centrosymmetric Th~7~Fe~3~ structure
+;
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1973
+_journal_volume                          32
+_journal_page_first                      91
+_journal_page_last                       96
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Moreau J.M.'
+;
+Geneva University
+Laboratoire de Cristallographie aux Rayons X
+Geneva
+Switzerland
+;
+'Parth\'e E.'
+;
+Geneva University
+Laboratoire de Cristallographie aux Rayons X
+Geneva
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.98
+_cell_length_b                           9.98
+_cell_length_c                           6.276
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             541.35
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Pd
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Pd Pd 6 c 0.1898 0.8102 0.2475 1
+ Gd3 Gd 6 c 0.5395 0.4605 0.0101 1
+ Gd2 Gd 6 c 0.875 0.125 0.31 1
+ Gd1 Gd 2 b 0.333333 0.666667 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.71
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo K'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo K'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, crystal chemical considerations'        
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 332
+_refine_ls_R_factor_gt                   0.055
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 1 0.2304 30
+ 1 1 0 0.2387 22
+ 2 0 0 0.3182 2.5
+ 2 0 1 0.4691 7.5
+ 2 1 0 0.5569 263
+ 0 0 2 0.6035 68
+ 1 0 2 0.6831 1037
+ 2 1 1 0.7078 2693
+ 3 0 0 0.716 409
+ 1 1 2 0.8422 280
+ 3 0 1 0.8669 1599
+ 2 0 2 0.9217 1453
+ 2 2 0 0.9547 1405
+ 3 1 0 1.0342 8.5
+ 2 1 2 1.164 67
+ 3 1 1 1.1851 387
+ 4 0 0 1.2729 103
+ 3 0 2 1.3195 138
+ 4 0 1 1.4238 411
+ 1 0 3 1.4375 99
+ 3 2 0 1.5116 8.5
+ 3 1 2 1.6377 24
+ 3 2 1 1.6624 645
+ 4 1 0 1.6707 45
+ 2 0 3 1.6761 732
+ 4 1 1 1.8216 786
+ 4 0 2 1.8764 248
+ 2 1 3 1.9148 357
+ 5 0 0 1.9889 104
+ 3 0 3 2.0739 1844
+ 3 2 2 2.1151 2088
+ 5 0 1 2.1398 1751
+ 3 3 0 2.148 1610
+ 4 2 0 2.2276 18
+ 4 1 2 2.2742 312
+ 4 2 1 2.3785 101
+ 3 1 3 2.3921 437
+ 0 0 4 2.4141 620
+ 5 1 0 2.4662 21
+ 1 0 4 2.4936 292
+ 5 0 2 2.5924 560
+ 5 1 1 2.6171 169
+ 4 0 3 2.6308 347
+ 1 1 4 2.6527 22
+ 2 0 4 2.7323 54
+ 3 3 2 2.7515 263
+ 4 2 2 2.8311 230
+ 6 0 0 2.864 10
+ 3 2 3 2.8695 710
+ 4 3 0 2.9436 10
+ 2 1 4 2.971 274
+ 6 0 1 3.0149 442
+ 4 1 3 3.0286 760
+ 5 1 2 3.0698 437
+ 4 3 1 3.0945 839
+ 5 2 0 3.1027 273
+ 3 0 4 3.1301 281
+ 5 2 1 3.2536 1382
+ 5 0 3 3.3468 228
+ 2 2 4 3.3687 1009
+ 6 1 0 3.4209 108
+ 3 1 4 3.4483 20
+ 6 0 2 3.4675 30
+ 4 3 2 3.5471 960
+ 6 1 1 3.5718 161
+ 4 2 3 3.5855 57
+ 4 0 4 3.687 54
+ 5 2 2 3.7062 339
+ 4 4 0 3.8187 7.5
+ 5 1 3 3.8242 702
+ 1 0 5 3.8515 13
+ 5 3 0 3.8983 13
+ 3 2 4 3.9256 1151
+
+# End of data set 251739
+
+

@@ -1,0 +1,193 @@
+##############################################################################
+#                                                                            #
+# Cs-H-O-P-Te      # HCs2[PO4]Te[OH]6                              # 1411625 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1411625
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1411625
+
+# Entry summary
+
+_chemical_formula_structural             'H Cs~2~ [P O~4~] Te [O H]~6~'
+_chemical_formula_sum                    'Cs2 H6 O10 P Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HCs~2~[PO~4~]Te[OH]~6~,mP56,14
+_chemical_formula_weight                 591.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures of two cesium phosphate-tellurates: Te(OH)~6~.Cs~2~HPO~4~ and Te(OH)~6~.Cs~2~HPO~4~.2CsH~2~PO~4~
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1980
+_journal_volume                          15
+_journal_page_first                      387
+_journal_page_last                       395
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Averbuch Pouchot M.T.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+'Durif A.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+'Guitel J.C.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.995
+_cell_length_b                           18.416
+_cell_length_c                           10.771
+_cell_angle_alpha                        90
+_cell_angle_beta                         130.388
+_cell_angle_gamma                        90
+_cell_volume                             1056.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ O
+ P
+ Te
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 OH 4 e 0.0144 0.7396 0.1324 1
+ O3 OH 4 e 0.0244 0.3808 0.4104 1
+ O2 O 4 e 0.0303 0.62 0.2713 1
+ P P 4 e 0.0738 0.0463 0.3181 1
+ O10 O 4 e 0.0885 0.0499 0.4695 1
+ O1 O 4 e 0.098 0.4845 0.295 1
+ O7 OH 4 e 0.2043 0.2041 0.1683 1
+ Te Te 4 e 0.25971 0.19505 0.01678 1
+ O9 OH 4 e 0.3415 0.3147 0.3785 1
+ O8 O 4 e 0.3421 0.0371 0.3781 1
+ O5 OH 4 e 0.4746 0.2783 0.1256 1
+ O6 OH 4 e 0.5264 0.128 0.1624 1
+ Cs2 Cs 4 e 0.56867 0.45134 0.33857 1
+ Cs1 Cs 4 e 0.77521 0.34915 0.02121 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.72
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_wavelength             0.5608
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.5608
+_diffrn_reflns_number                    2886
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2431
+_refine_ls_R_factor_gt                   0.036
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 65.2 1
+ 1 2 0 61.1 2
+ 0 2 1 55.5 17
+ 1 0 1 53.1 2
+ 1 1 1 51 3
+ 0 3 1 46 3
+ 2 0 0 40.9 8
+ 1 3 1 40 28
+ 0 4 1 38.38 100
+ 2 2 0 37.37 61
+ 0 0 2 34.88 50
+ 2 1 1 34.69 20
+ 0 1 2 34.26 3
+ 2 3 0 34.05 10
+ 1 5 0 33.55 5
+ 2 2 1 32.96 48
+ 1 1 2 31.63 3
+ 0 6 0 30.6 11
+ 0 3 2 30.3 9
+ 1 6 0 28.68 4
+ 1 3 2 28.43 5
+ 0 6 1 28.03 15
+ 0 4 2 27.79 3
+ 2 5 0 27.35 9
+ 3 1 0 26.99 6
+ 2 0 2 26.54 13
+ 1 4 2 26.31 4
+ 2 2 2 25.52 22
+ 1 7 0 24.99 11
+ 2 6 0 24.51 13
+ 2 3 2 24.35 5
+ 1 5 2 24.18 6
+
+# End of data set 1411625
+
+

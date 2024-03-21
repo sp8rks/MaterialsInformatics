@@ -1,0 +1,106 @@
+##############################################################################
+#                                                                            #
+# Cu-O-Te          # CuTe2O5                                       # 1941577 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1941577
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1941577
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Te~2~ O~5~'
+_chemical_formula_sum                    'Cu O5 Te2'
+_chemical_name_mineral                   rajite
+_chemical_compound_source                ?
+_chemical_name_structure_type            *,mP8,14
+_chemical_formula_weight                 398.7
+
+# Bibliographic data
+
+_publ_section_title
+'On the Crystal Structures of CuTeO~3~ and CuTe~2~O~5~'                       
+_journal_coden_ASTM                      ACSAA4
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1971
+_journal_volume                          25
+_journal_page_first                      740
+_journal_page_last                       ?
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.869
+_cell_length_b                           9.324
+_cell_length_c                           7.608
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.08
+_cell_angle_gamma                        90
+_cell_volume                             460.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te2 Te 4 e 0.1 0.18 0.18 1
+ Te1 Te 4 e 0.62 0.3 0.18 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.75
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1941577
+
+

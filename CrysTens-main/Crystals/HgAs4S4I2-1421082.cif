@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# As-Hg-I-S        # HgAs4S4I2                                     # 1421082 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1421082
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1421082
+
+# Entry summary
+
+_chemical_formula_structural             'Hg As~4~ S~4~ I~2~'
+_chemical_formula_sum                    'As4 Hg I2 S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HgAs~4~S~4~I~2~,mP44,14
+_chemical_formula_weight                 882.3
+_chemical_melting_point                  485
+
+# Bibliographic data
+
+_publ_section_title
+;
+HgI~2~.As~4~S~4~: An adduct from HgI~2~ molecules and undistorted As~4~S~4~ cages
+;
+_journal_coden_ASTM                      ACIEF5
+_journal_name_full                       'Angew. Chem. Int. Ed.'
+_journal_year                            2006
+_journal_volume                          45
+_journal_page_first                      4464
+_journal_page_last                       4467
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Br\"au M.F.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+'Pfitzner A.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.433
+_cell_length_b                           14.986
+_cell_length_c                           11.624
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.72
+_cell_angle_gamma                        90
+_cell_volume                             1299.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ I
+ As
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 4 e 0.0264 0.12311 0.0261 1
+ I1 I 4 e 0.1232 0.37715 0.1544 1
+ As2 As 4 e 0.12583 0.04372 0.22615 1
+ Hg Hg 4 e 0.20703 0.54549 0.21388 1
+ I2 I 4 e 0.24321 0.71086 0.29513 1
+ S3 S 4 e 0.2753 0.15843 0.3764 1
+ As4 As 4 e 0.28121 0.15685 0.06335 1
+ S1 S 4 e 0.3639 0.01409 0.074 1
+ S4 S 4 e 0.3901 0.55587 0.077 1
+ As3 As 4 e 0.47266 0.18976 0.33613 1
+ As1 As 4 e 0.61191 0.46063 0.23444 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.51
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS I'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    16111
+_diffrn_reflns_theta_min                 2.6
+_diffrn_reflns_theta_max                 25.02
+_exptl_absorpt_coefficient_mu            27.287
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             100
+_refine_ls_number_reflns                 1910
+_refine_ls_R_factor_gt                   0.0380
+_refine_ls_wR_factor_gt                  0.0861
+
+# End of data set 1421082
+
+

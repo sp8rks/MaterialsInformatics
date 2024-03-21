@@ -1,0 +1,131 @@
+##############################################################################
+#                                                                            #
+# H-Hg-O-Sb        # Hg4SbO3[OH]3                                  # 1614341 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1614341
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1614341
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~4~ Sb O~3~ [O H]~3~'
+_chemical_formula_sum                    'H3 Hg4 O6 Sb'
+_chemical_name_mineral                   shakhovite
+_chemical_compound_source                'Russia, Buryatia, Kelyana deposit'
+_chemical_name_structure_type            Hg~4~SbO~3~[OH]~3~,mS22,8
+_chemical_formula_weight                 1023.1
+
+# Bibliographic data
+
+_publ_section_title
+'How to Avoid Unnecessarily Low Symmetry in Crystal Structure Determinations' 
+_journal_coden_ASTM                      ASBSDK
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1986
+_journal_volume                          42
+_journal_page_first                      95
+_journal_page_last                       111
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Baur W.H.'
+;
+Illinois Chicago University
+Department of Geological Sciences
+Chicago
+U.S.A. Illinois
+;
+'Tillmanns E.'
+;
+W\"urzburg Julius-Maximilians University
+Institut f\"ur Mineralogie
+W\"urzburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.7003
+_cell_length_b                           15.077
+_cell_length_c                           4.855
+_cell_angle_alpha                        90
+_cell_angle_beta                         126.988
+_cell_angle_gamma                        90
+_cell_volume                             391.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ OH
+ Hg
+ O
+ Sb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1,3 OH 4 b 0.257 0.095 0.814 1
+ Hg2,3 Hg 4 b 0.367 0.3817 0.091 1
+ Hg1,4 Hg 4 b 0.383 0.2194 0.2465 1
+ O4,5 O 4 b 0.463 0.095 0.494 1
+ O6 O 2 a 0.0 0 0.0 1
+ Sb Sb 2 a 0.3606 0 0.1596 1
+ O2 OH 2 a 0.702 0 0.246 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.67
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1614341
+
+

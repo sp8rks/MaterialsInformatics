@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Hg-N             # Hg[N3]                                        # 1810935 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1810935
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1810935
+
+# Entry summary
+
+_chemical_formula_structural             'Hg [N~3~]'
+_chemical_formula_sum                    'Hg N3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg[N~3~],mP16,14
+_chemical_formula_weight                 242.6
+
+# Bibliographic data
+
+_publ_section_title                      'Mercurous Azide, Hg~2~(N~3~)~2~'
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2003
+_journal_volume                          629
+_journal_page_first                      2079
+_journal_page_last                       2082
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nockemann P.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+'Cremer U.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+'Ruschewitz U.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+'Meyer G.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.5795
+_cell_length_b                           12.5907
+_cell_length_c                           6.2097
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.878
+_cell_angle_gamma                        90
+_cell_volume                             261.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Hg
+ N
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hg Hg 4 e 0.0899 0.03505 0.2044 1
+ N1 N 4 e 0.241 0.4013 0.051 1
+ N2 N 4 e 0.383 0.3148 0.086 1
+ N3 N 4 e 0.497 0.2319 0.135 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.16
+_cell_measurement_temperature            15
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              15
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Huber G645'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 45
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                90
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             31
+_refine_ls_number_reflns                 211
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.1360
+_pd_proc_ls_proof_wR_factor              0.1916
+_refine_ls_R_I_factor                    0.0519
+
+# End of data set 1810935
+
+

@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# H-O-S-Se         # H2Se4[S2O7]2                                  # 1904345 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904345
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904345
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Se~4~ [S~2~ O~7~]~2~'
+_chemical_formula_sum                    'O14 S4 Se4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Se~4~[S~2~O~7~]~2~,mP44,14
+_chemical_formula_weight                 670.1
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of tetraselenium bis(hydrogen disulfate)'              
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1971
+_journal_volume                          10
+_journal_page_first                      2319
+_journal_page_last                       2323
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Brown I.D.'
+;
+Hamilton McMaster University
+Department of Chemistry
+Hamilton
+Canada
+;
+'Crump D.B.'
+;
+Hamilton McMaster University
+Department of Chemistry
+Hamilton
+Canada
+;
+'Gillespie R.J.'
+;
+Hamilton McMaster University
+Department of Chemistry
+Hamilton
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.721
+_cell_length_b                           5.606
+_cell_length_c                           17.202
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.78
+_cell_angle_gamma                        90
+_cell_volume                             700.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 e 0.034 0.721 0.41 1
+ O2 O 4 e 0.036 0.802 0.119 1
+ S1 S 4 e 0.1031 0.0405 0.1158 1
+ O7 O 4 e 0.129 0.516 0.244 1
+ O4 O 4 e 0.201 0.091 0.217 1
+ O1 O 4 e 0.248 0.068 0.082 1
+ S2 S 4 e 0.2924 0.3398 0.2529 1
+ Se2 Se 4 e 0.2987 0.4742 0.0085 1
+ O6 O 4 e 0.374 0.298 0.342 1
+ O5 O 4 e 0.402 0.43 0.209 1
+ Se1 Se 4 e 0.573 0.2777 0.062 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              3.1(1)
+_exptl_crystal_density_diffrn            3.18
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'General Electric XRD-6'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1967
+_exptl_absorpt_coefficient_mu            11.2
+_exptl_absorpt_correction_type           no
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 552
+_refine_ls_R_factor_gt                   0.066
+_refine_ls_wR_factor_gt                  0.060
+
+# End of data set 1904345
+
+

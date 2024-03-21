@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# Cu-F-O-W         # CuWO3F2                                       # 1815941 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1815941
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1815941
+
+# Entry summary
+
+_chemical_formula_structural             'Cu W O~3~ F~2~'
+_chemical_formula_sum                    'Cu F2 O3 W'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuWO~3~F~2~,mP14,11
+_chemical_formula_weight                 333.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Caract\'erisation structurale de l'oxyfluorotungstate de cuivre CuWO~3~F~2~
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1986
+_journal_volume                          539
+_journal_page_first                      165
+_journal_page_last                       174
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Moutou J.M.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Porto Francisco R.H.'
+;
+Sao Paulo University (USP)
+Instituto de Fisica e Quimica
+Sao Carlos
+Brazil
+;
+'Chaminade J.P.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Pouchard M.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Hagenmuller P.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.67
+_cell_length_b                           9.599
+_cell_length_c                           5.223
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.26
+_cell_angle_gamma                        90
+_cell_volume                             176.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ F
+ W
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ X2 O 4 f 0.1282 0.61 0.3144 1
+ X1 F 4 f 0.6515 0.1098 0.1438 1
+ X3 O 2 e 0.2498 0.25 0.3802 1
+ W W 2 e 0.7784 0.25 0.4631 1
+ Cu Cu 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              6.32(5)
+_exptl_crystal_density_diffrn            6.27
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71044
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71044
+_diffrn_reflns_number                    942
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            37.0
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.019
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1815941
+
+

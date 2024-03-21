@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# H-Na-O-S         # HNa[SO4][H2O]                                 # 1814761 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814761
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814761
+
+# Entry summary
+
+_chemical_formula_structural             'H Na [S O~4~] [H~2~ O]'
+_chemical_formula_sum                    'H3 Na O5 S'
+_chemical_name_mineral                   matteuccite
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            HNa[SO~4~][H~2~O],mS28,9
+_chemical_formula_weight                 138.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrogen Bonding in the Crystalline State. NaHSO~4~.H~2~O (Matteuccite), a Pseudo-Symmetric Crystal Structure
+;
+_journal_coden_ASTM                      AATFAA
+_journal_name_full
+'Atti Accad. Sci. Torino, Cl. Sci. Fis., Mat., Nat.'                          
+_journal_year                            1975
+_journal_volume                          109
+_journal_page_first                      531
+_journal_page_last                       545
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Catti M.'
+;
+Turin University
+Istituto di Mineralogia, Cristallografia e Geochimica
+Turin
+Italy
+;
+'Ferraris G.'
+;
+Turin University
+Istituto di Mineralogia, Cristallografia e Geochimica
+Turin
+Italy
+;
+'Franchini Angela M.'
+;
+Turin University
+Istituto di Mineralogia, Cristallografia e Geochimica
+Turin
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.811
+_cell_length_b                           7.823
+_cell_length_c                           8.025
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.49
+_cell_angle_gamma                        90
+_cell_volume                             435
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Na
+ S
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 a 0.0 0.0353 0.0 1
+ O3 O 4 a 0.0861 0.1784 0.2881 1
+ Na Na 4 a 0.1579 0.4725 0.4225 1
+ S S 4 a 0.1748 0.12099 0.173 1
+ O4 O 4 a 0.2444 0.2606 0.1025 1
+ O2 O 4 a 0.3171 0.0119 0.7612 1
+ W1 O 4 a 0.6339 0.158 0.1751 1
+ H3 H 4 a 0.0358 0.021 0.432 1
+ H1 H 4 a 0.5188 0.198 0.149 1
+ H2 H 4 a 0.6858 0.25 0.235 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.11
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Philips
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    680
+_exptl_absorpt_coefficient_mu            0.7
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 613
+_refine_ls_R_factor_gt                   0.027
+_refine_ls_wR_factor_gt                  0.034
+
+# End of data set 1814761
+
+

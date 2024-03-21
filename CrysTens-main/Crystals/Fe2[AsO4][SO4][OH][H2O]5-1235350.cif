@@ -1,0 +1,170 @@
+##############################################################################
+#                                                                            #
+# As-Fe-H-O-S      # Fe2[AsO4][SO4][OH][H2O]5                      # 1235350 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1235350
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1235350
+
+# Entry summary
+
+_chemical_formula_structural
+'Fe~2~ [As O~4~] [S O~4~] [O H] [H~2~ O]~5~'                                  
+_chemical_formula_sum                    'As Fe2 H11 O14 S'
+_chemical_name_mineral                   sarmientite
+_chemical_compound_source
+'Argentina, San Juan, Santa Elena mine'                                       
+_chemical_name_structure_type
+Fe~2~[AsO~4~][SO~4~][OH][H~2~O]~5~,mP72,14                                    
+_chemical_formula_weight                 453.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of sarmientite, Fe^3+^~2~(AsO~4~)(SO~4~)(OH).5H~2~O, solved ab initio from laboratory powder diffraction data
+;
+_journal_coden_ASTM                      MNLMBB
+_journal_name_full                       'Mineral. Mag.'
+_journal_year                            2014
+_journal_volume                          78
+_journal_page_first                      347
+_journal_page_last                       360
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Colombo F.'
+;
+Cordoba National University
+CONICET
+Cordoba
+Argentina
+;
+'Rius J.'
+;
+Consejo Superior de Investigaciones Cientificas
+Institut de Ciencia de Materials
+Bellaterra
+Spain
+;
+'Vallcorba O.'
+;
+Consejo Superior de Investigaciones Cientificas
+Institut de Ciencia de Materials
+Bellaterra
+Spain
+;
+'Miner E.V.P.'
+;
+Cordoba National University
+Instituto de Investigaciones en Fisico Quimica de Cordoba
+Cordoba
+Argentina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5298
+_cell_length_b                           18.5228
+_cell_length_c                           10.916
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.936
+_cell_angle_gamma                        90
+_cell_volume                             1155.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ OH2
+ OH
+ Fe
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O13 O 4 e 0.0076 0.3189 0.1277 1
+ S1 S 4 e 0.0176 0.2539 0.0509 1
+ O7 OH2 4 e 0.036 0.4368 0.3551 1
+ O8 OH 4 e 0.0547 0.5952 0.33 1
+ O12 O 4 e 0.0666 0.2154 0.4451 1
+ Fe2 Fe 4 e 0.0817 0.0139 0.2911 1
+ O6 OH2 4 e 0.1879 0.0807 0.4633 1
+ O11 O 4 e 0.1986 0.7843 0.0184 1
+ O2 O 4 e 0.2099 0.4974 0.2022 1
+ O14 O 4 e 0.2142 0.2104 0.1388 1
+ O10 OH2 4 e 0.3585 0.3073 0.4017 1
+ O1 O 4 e 0.407 0.0352 0.307 1
+ O4 O 4 e 0.4338 0.066 0.0697 1
+ As1 As 4 e 0.5082 0.0023 0.1983 1
+ O3 O 4 e 0.6136 0.4271 0.3762 1
+ O9 OH2 4 e 0.6308 0.207 0.1675 1
+ Fe1 Fe 4 e 0.6366 0.134 0.0333 1
+ O5 OH2 4 e 0.7736 0.4347 0.0716 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.61
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3.5
+_diffrn_reflns_theta_max                 48
+_pd_proc_2theta_range_min                7
+_pd_proc_2theta_range_max                96
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.101
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1235350
+
+

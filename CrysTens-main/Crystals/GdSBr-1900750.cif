@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# Br-Gd-S          # GdSBr                                         # 1900750 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1900750
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1900750
+
+# Entry summary
+
+_chemical_formula_structural             'Gd S Br'
+_chemical_formula_sum                    'Br Gd S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            NdSBr,mP12,14
+_chemical_formula_weight                 269.2
+
+# Bibliographic data
+
+_publ_section_title
+'Structure de NdSBr et des sulfobromures de terres rares isotypes'            
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1973
+_journal_volume                          29
+_journal_page_first                      1532
+_journal_page_last                       1535
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Savigny N.'
+;
+Paris University
+Facult\'e de Pharmacie
+Paris
+France
+;
+'Adolphe C.'
+;
+Paris V Ren\'e Descartes University
+Facult\'e de Pharmacie
+Paris
+France
+;
+'Zalkin A.'
+;
+California Berkeley University
+Department of Materials and Molecular Research
+Berkeley
+U.S.A. California
+;
+'Templeton D.H.'
+;
+California Berkeley University
+Department of Materials and Molecular Research
+Berkeley
+U.S.A. California
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.8
+_cell_length_b                           6.96
+_cell_length_c                           6.81
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.23
+_cell_angle_gamma                        90
+_cell_volume                             318.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Br
+ Gd
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br1 Br 4 e 0.0847 0.384 0.2872 1
+ Gd1 Gd 4 e 0.3177 0.0353 0.2106 1
+ S1 S 4 e 0.5543 0.2604 0.0083 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.62
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1900750
+
+

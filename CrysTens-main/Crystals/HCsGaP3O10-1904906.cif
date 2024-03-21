@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# Cs-Ga-H-O-P      # HCsGaP3O10 mon2                               # 1904906 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904906
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904906
+
+# Entry summary
+
+_chemical_formula_structural             'H Cs Ga P~3~ O~10~'
+_chemical_formula_sum                    'Cs Ga H O10 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[NH~4~]AlP~3~O~10~,mP30,13
+_chemical_formula_weight                 456.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal sructure of the 1M-modification of caesium gallium(III) monohydrogen triphosphate, 1M-CsGaHP~3~O~10~
+;
+_journal_coden_ASTM                      ZKNSFT
+_journal_name_full
+'Z. Kristallogr. - New Cryst. Struct.'                                        
+_journal_year                            2003
+_journal_volume                          218
+_journal_page_first                      169
+_journal_page_last                       170
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mi J.X.'
+;
+Xiamen Fujian University
+Department of Chemistry and Chemical Engineering
+Xiamen / Fujian
+China
+;
+'Borrmann H.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Huang Y.X.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Zhao J.T.'
+;
+Chinese Academy of Sciences
+Japan Shanghai Institute of Ceramics
+Shanghai
+China
+;
+'Kniep R.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.843
+_cell_length_b                           4.9523
+_cell_length_c                           11.7432
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.677
+_cell_angle_gamma                        90
+_cell_volume                             459.53
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Cs
+ Ga
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 g 0.0744 0.0861 0.1787 1
+ O1 O 4 g 0.1437 0.3123 0.5539 1
+ O4 O 4 g 0.1425 0.4341 0.3438 1
+ O2 O 4 g 0.1897 0.2074 0.0039 1
+ P1 P 4 g 0.2212 0.501 -0.0065 1
+ O5 O 4 g 0.4101 0.555 0.0487 1
+ Cs1 Cs 2 f 0.5 1.0095 0.25 1
+ P2 P 2 e 0 0.2411 0.25 1
+ Ga1 Ga 2 a 0 0 0 1
+ H1 H 2 b 0.5 0.5 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.30
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    7193
+_exptl_absorpt_coefficient_mu            7.458
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             72
+_refine_ls_number_reflns                 1204
+_refine_ls_R_factor_gt                   0.042
+_refine_ls_wR_factor_gt                  0.123
+
+# End of data set 1904906
+
+

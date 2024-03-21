@@ -1,0 +1,131 @@
+##############################################################################
+#                                                                            #
+# As-H-O-Te        # H[AsO4]TeO mon1                               # 1941771 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1941771
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1941771
+
+# Entry summary
+
+_chemical_formula_structural             'H [As O~4~] Te O'
+_chemical_formula_sum                    'As H O5 Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[AsO~4~]TeO-a,mP28,14
+_chemical_formula_weight                 283.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Two modifications of (TeO)(HAsO~4~) and its dehydration product (Te~3~O~3~)(AsO~4~)~2~ - Three more examples of tellurium(IV) with a fivefold oxygen coordination
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2014
+_journal_volume                          640
+_journal_page_first                      128
+_journal_page_last                       135
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Weil M.'
+;
+Vienna Technical University
+Institute of Chemical Technologies and Analytics
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.4076
+_cell_length_b                           5.9596
+_cell_length_c                           9.5523
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.589
+_cell_angle_gamma                        90
+_cell_volume                             411.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ As
+ Te
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 e 0.0338 0.1134 0.26497 1
+ O4 O 4 e 0.1796 0.1452 0.0133 1
+ O2 O 4 e 0.1943 0.6052 0.00308 1
+ As1 As 4 e 0.20836 0.13186 0.41394 1
+ O3 O 4 e 0.4081 0.1478 0.35472 1
+ O1 O 4 e 0.5764 0.1198 0.10234 1
+ Te1 Te 4 e 0.62154 0.37796 0.41327 1
+ H1 H 4 e 0.056 0.189 0.196 1
+
+
+_exptl_crystal_colour                    'yellow, light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.58
+_cell_measurement_temperature            295(1)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295(1)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS KAPPA APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    11839
+_diffrn_reflns_theta_min                 2.82
+_diffrn_reflns_theta_max                 44.14
+_exptl_absorpt_coefficient_mu            15.107
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             68
+_refine_ls_number_reflns                 2197
+_refine_ls_R_factor_gt                   0.0247
+_refine_ls_wR_factor_gt                  0.0530
+
+# End of data set 1941771
+
+

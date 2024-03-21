@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# I-In-Sn          # In3SnI5 mon2                                  # 1822763 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1822763
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1822763
+
+# Entry summary
+
+_chemical_formula_structural             'In~3~ Sn I~5~'
+_chemical_formula_sum                    'I5 In3 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            In~3~SnI~5~-a,mP36,14
+_chemical_formula_weight                 1097.7
+
+# Bibliographic data
+
+_publ_section_title
+'Zur Neuuntersuchung des Phasendiagramms InI-SnI~2~'                          
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1992
+_journal_volume                          608
+_journal_page_first                      115
+_journal_page_last                       118
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'St\"owe K.'
+;
+Saarbr\"ucken Saarland University
+Institut f\"ur Anorganische und Analytische Chemie und Radiochemie
+Saarbr\"ucken
+Germany
+;
+'Beck H.P.'
+;
+Saarbr\"ucken Saarland University
+Institut f\"ur Anorganische und Analytische Chemie und Radiochemie
+Saarbr\"ucken
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.869
+_cell_length_b                           8.959
+_cell_length_c                           17.524
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.33
+_cell_angle_gamma                        90
+_cell_volume                             1374
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ I
+ In
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I1 I 4 e 0.04302 0.35035 0.10094 1
+ In1 In 4 e 0.11671 0.67549 0.25135 1
+ I2 I 4 e 0.11972 0.37628 0.3951 1
+ Sn1 Sn 4 e 0.20581 0.03484 0.08424 1
+ I3 I 4 e 0.24917 0.03636 0.26009 1
+ In2 In 4 e 0.28707 0.04442 0.4684 1
+ In3 In 4 e 0.38711 0.39828 0.2497 1
+ I4 I 4 e 0.51356 0.20314 0.10475 1
+ I5 I 4 e 0.62998 0.21974 0.38775 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.31
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier-Simon film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1822763
+
+

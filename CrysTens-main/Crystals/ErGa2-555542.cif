@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# Er-Ga            # ErGa2                                         #  555542 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_555542
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      555542
+
+# Entry summary
+
+_chemical_formula_structural             'Er Ga~2~'
+_chemical_formula_sum                    'Er Ga2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AlB~2~,hP3,191
+_chemical_formula_weight                 306.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystalline and magnetic structures in REAl~x~Ga~2-x~ systems (RE= Nd, Er; 0 <= x <= 2). Part II: Magnetic structures
+;
+_journal_coden_ASTM                      JMMMDC
+_journal_name_full                       'J. Magn. Magn. Mater.'
+_journal_year                            1983
+_journal_volume                          37
+_journal_page_first                      231
+_journal_page_last                       236
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Martin O.E.'
+;
+Swiss Federal Institute of Technology (ETH)
+Institut f\"ur Kristallographie und Petrographie
+Zurich
+Switzerland
+;
+'Girgis K.'
+;
+Swiss Federal Institute of Technology (ETH)
+Institut f\"ur Kristallographie und Petrographie
+Zurich
+Switzerland
+;
+'Fischer P.'
+;
+Swiss Federal Institute of Technology (ETH)
+Institut f\"ur Reaktortechnik
+W\"urenlingen
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.186
+_cell_length_b                           4.186
+_cell_length_c                           4.017
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             61
+_cell_formula_units_Z                    1
+_space_group_IT_number                   191
+_space_group_name_H-M_alt                'P 6/m m m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, z'
+ 10 '-y, -x, -z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, -z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, -z'
+ 15 'x, x-y, z'
+ 16 'x, y, -z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, z'
+ 23 'y, x, -z'
+ 24 'y, x, z'
+loop_
+ _atom_type_symbol
+ Ga
+ Er
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ga Ga 2 d 0.333333 0.666667 0.5 1
+ Er Er 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.36
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               film
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 555542
+
+

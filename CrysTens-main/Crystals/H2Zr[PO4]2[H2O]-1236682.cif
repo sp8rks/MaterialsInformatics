@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# H-O-P-Zr         # H2Zr[PO4]2[H2O]                               # 1236682 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1236682
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1236682
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Zr [P O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'H4 O9 P2 Zr'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Zr[PO~4~]~2~[H~2~O],mP48,14
+_chemical_formula_weight                 301.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+In-situ high-pressure powder X-ray diffraction study of \a-zirconium phosphate
+;
+_journal_coden_ASTM                      ACSBDA
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            2014
+_journal_volume                          70
+_journal_page_first                      510
+_journal_page_last                       516
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Readman J.E.'
+;
+Preston Central Lancashire University
+Centre for Materials Science
+Preston
+United Kingdom
+;
+'Lennie A.R.'
+;
+Daresbury Laboratory (STFC)
+Synchrotron Radiation Source
+Warrington
+United Kingdom
+;
+'Hriljac J.A.'
+;
+Birmingham University
+School of Chemistry
+Birmingham
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.3593
+_cell_length_b                           4.9123
+_cell_length_c                           14.7257
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.53
+_cell_angle_gamma                        90
+_cell_volume                             558.54
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ OH
+ Zr
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P2 P 4 e 0.0123 0.253 0.1303 1
+ O5 O 4 e 0.042 0.035 0.413 1
+ O7 OH 4 e 0.0884 0.249 0.2431 1
+ O4 O 4 e 0.1206 0.104 0.0839 1
+ O6 O 4 e 0.1624 0.641 0.393 1
+ Zr1 Zr 4 e 0.246 0.2561 0.497 1
+ O8 O 4 e 0.3161 0.588 0.0711 1
+ O11 O 4 e 0.3466 0.149 0.3833 1
+ O9 O 4 e 0.471 0.044 0.09 1
+ O10 OH 4 e 0.4385 0.249 0.2695 1
+ P3 P 4 e 0.5143 0.25 0.3826 1
+ O12 OH2 4 e 0.739 0.253 0.243 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.58
+_cell_measurement_temperature            298
+_cell_measurement_pressure               1.004e+007
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.444
+_pd_proc_wavelength                      0.444
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_pressure                 1.004e+007
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'United Kingdom, Cheshire, Daresbury Synchrotron Radiation Source, 9.5 station'
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.444
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             44
+_refine_ls_number_reflns                 472
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0082
+_pd_proc_ls_proof_wR_factor              0.0117
+_refine_ls_R_I_factor                    0.14837
+
+# End of data set 1236682
+
+

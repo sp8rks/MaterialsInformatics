@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Cl-Fe-N-Se       # FeSe2NCl6                                     # 1214279 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1214279
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1214279
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Se~2~ N Cl~6~'
+_chemical_formula_sum                    'Cl6 Fe N Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            FeSe~2~NCl~6~,mP40,14
+_chemical_formula_weight                 440.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+[(SeCl)~2~N][FeCl~4~]: Synthesis, Quantumchemical Calculations, Vibrational Data and Single-Crystal X-ray Structure
+;
+_journal_coden_ASTM                      CHBEAM
+_journal_name_full                       'Chem. Ber.'
+_journal_year                            1994
+_journal_volume                          127
+_journal_page_first                      2177
+_journal_page_last                       2179
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Broschag M.'
+;
+Berlin Technical University
+Institut f\"ur Anorganische und Analytische Chemie
+Berlin
+Germany
+;
+'Klap\"otke T.M.'
+;
+Berlin Technical University
+Institut f\"ur Anorganische und Analytische Chemie
+Berlin
+Germany
+;
+'Schulz A.'
+;
+Berlin Technical University
+Institut f\"ur Anorganische und Analytische Chemie
+Berlin
+Germany
+;
+'White P.S.'
+;
+North Carolina Chapel Hill University
+Department of Chemistry
+Chapel Hill
+U.S.A. North Carolina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.4396
+_cell_length_b                           11.5294
+_cell_length_c                           10.3378
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.108
+_cell_angle_gamma                        90
+_cell_volume                             1042.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ Se
+ N
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl2 Cl 4 e 0.0743 0.41946 0.33386 1
+ Cl13 Cl 4 e 0.1047 0.71289 0.42716 1
+ Cl1 Cl 4 e 0.1265 0.13442 0.4108 1
+ Se2 Se 4 e 0.22334 0.04319 0.04606 1
+ Se1 Se 4 e 0.2791 0.31816 0.11794 1
+ N1 N 4 e 0.2818 0.1715 0.1301 1
+ Fe1 Fe 4 e 0.32371 0.69423 0.01107 1
+ Cl12 Cl 4 e 0.3299 0.58882 0.1888 1
+ Cl11 Cl 4 e 0.4929 0.32687 0.42417 1
+ Cl14 Cl 4 e 0.6433 0.41164 0.15153 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.81
+_cell_measurement_temperature            123
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              123
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC6S'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            9.85
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1292
+_refine_ls_R_factor_gt                   0.043
+_refine_ls_wR_factor_gt                  0.051
+
+# End of data set 1214279
+
+

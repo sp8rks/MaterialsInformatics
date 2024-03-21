@@ -1,0 +1,280 @@
+##############################################################################
+#                                                                            #
+# C-H-Na-O         # HNa[CO3]                                      # 1631947 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1631947
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1631947
+
+# Entry summary
+
+_chemical_formula_structural             'H Na [C O~3~]'
+_chemical_formula_sum                    'C H Na O3'
+_chemical_name_mineral                   nahcolite
+_chemical_compound_source                ?
+_chemical_name_structure_type            HNa[CO~3~],mP20,14
+_chemical_formula_weight                 84.0
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Lattice of Sodium Bicarbonate, NaHCO~3~'                         
+_journal_coden_ASTM                      JCPSA6
+_journal_name_full                       'J. Chem. Phys.'
+_journal_year                            1933
+_journal_volume                          1
+_journal_page_first                      634
+_journal_page_last                       639
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zachariasen W.H.'
+;
+Argonne National Laboratory
+Ryerson Physical Laboratory
+Chicago
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.53
+_cell_length_b                           9.7
+_cell_length_c                           8.1111
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.432
+_cell_angle_gamma                        90
+_cell_volume                             256.72
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Na
+ C
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 e -0.005 0.331 0.439 1
+ Na Na 4 e 0.07 0.0 0.278 1
+ C C 4 e 0.255 0.236 0.069 1
+ O1 O 4 e 0.255 0.367 0.069 1
+ O2 O 4 e 0.517 0.169 0.2 1
+ H H 4 e 0.245 0.75 0.181 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.17
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7095
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'oscillation photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7095
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'crystal chemical considerations'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 0.843 3
+ 0 2 0 1.031 6
+ 1 2 0 1.228 3
+ 2 0 0 1.333 3
+ 2 1 0 1.43 7
+ 0 1 1 1.511 5
+ 1 0 -1 1.537 5
+ 1 0 1 1.601 6.5
+ 1 1 -1 1.621 6
+ 1 1 1 1.682 8
+ 1 3 0 1.684 6.5
+ 2 2 0 1.686 7
+ 0 2 1 1.755 2
+ 1 2 -1 1.851 7
+ 1 2 1 1.904 8
+ 2 3 0 2.042 1
+ 2 1 1 2.064 2
+ 3 1 0 2.065 3
+ 0 3 1 2.1 1.5
+ 2 2 -1 2.158 7
+ 1 4 0 2.167 2
+ 2 2 1 2.249 1.5
+ 3 2 0 2.25 8
+ 3 0 -1 2.391 3
+ 3 1 -1 2.446 3
+ 2 3 -1 2.447 7
+ 2 4 0 2.456 7
+ 0 4 1 2.504 6
+ 3 0 1 2.514 8
+ 3 3 0 2.528 7
+ 1 4 -1 2.572 7
+ 3 2 -1 2.604 3
+ 1 4 1 2.61 7
+ 1 5 0 2.663 5
+ 4 0 0 2.667 3
+ 4 1 0 2.716 2
+ 3 2 1 2.717 3
+ 2 4 -1 2.802 4.5
+ 0 0 2 2.841 7
+ 4 2 0 2.86 3
+ 3 4 0 2.873 5
+ 0 1 2 2.887 2
+ 2 5 0 2.902 2
+ 1 1 -2 2.929 7
+ 0 5 1 2.943 3
+ 4 1 -1 2.999 7
+ 0 2 2 3.022 1.5
+ 1 5 1 3.034 5
+ 1 2 -2 3.062 2
+ 2 0 -2 3.074 4.5
+ 0 6 0 3.093 8
+ 2 1 -2 3.117 2.5
+ 4 1 1 3.13 7
+ 3 4 -1 3.158 4.5
+ 1 6 0 3.164 2
+ 2 5 -1 3.2 3
+ 2 0 2 3.202 4.5
+ 0 3 2 3.235 1
+ 2 1 2 3.242 6
+ 3 4 1 3.251 3
+ 4 2 1 3.255 3
+ 2 5 1 3.262 4.5
+ 3 5 0 3.263 4.5
+ 1 3 -2 3.272 3
+ 1 3 2 3.333 1.5
+ 2 2 2 3.364 3
+ 2 6 0 3.368 5
+ 4 4 0 3.371 3
+ 5 1 0 3.373 2.5
+ 0 6 1 3.403 3
+ 3 1 -2 3.426 2.5
+ 4 3 1 3.453 3
+ 1 6 -1 3.454 4.5
+ 1 6 1 3.482 2
+ 5 2 0 3.489 3
+ 0 4 2 3.51 3
+ 3 5 -1 3.516 2.5
+ 3 2 -2 3.54 3
+ 5 0 -1 3.554 3
+ 1 4 2 3.601 3
+ 2 6 -1 3.628 3
+ 1 7 0 3.67 3
+ 5 3 0 3.675 5
+ 2 6 1 3.683 3
+ 3 6 0 3.684 3
+ 5 0 1 3.692 2.5
+ 4 5 0 3.709 4.5
+ 4 4 1 3.712 3
+ 3 3 -2 3.723 7
+ 4 0 -2 3.792 3
+ 2 4 2 3.808 5
+ 2 7 0 3.847 3
+ 1 5 -2 3.868 3
+ 3 3 2 3.881 2.5
+ 3 6 -1 3.91 2.5
+ 1 5 2 3.919 3
+ 5 4 0 3.92 3
+ 4 5 -1 3.921 2.5
+ 1 7 -1 3.923 2.5
+ 1 7 1 3.948 3
+ 3 4 -2 3.965 2
+ 3 6 1 3.986 2
+ 4 0 2 3.998 2.5
+ 6 0 0 4 5
+ 4 5 1 4.022 2.5
+ 6 1 0 4.033 2
+ 4 6 0 4.084 5
+ 2 5 2 4.11 3
+ 3 4 2 4.114 2.5
+ 0 8 0 4.124 5
+ 3 7 0 4.126 2
+ 6 2 0 4.13 2
+ 1 8 0 4.178 2
+ 0 6 2 4.199 2.5
+ 5 5 0 4.214 4.5
+ 3 5 -2 4.256 3
+ 1 6 2 4.276 2.5
+ 3 7 -1 4.329 3
+ 2 8 0 4.334 2.5
+ 2 6 -2 4.36 6
+ 1 8 -1 4.401 2
+ 1 8 1 4.424 3
+ 2 6 2 4.452 3
+ 1 2 3 4.469 3
+ 4 7 0 4.487 5
+ 2 8 -1 4.539 3
+ 5 6 0 4.547 2.5
+ 3 8 0 4.584 4.5
+ 3 6 -2 4.587 2.5
+ 1 7 -2 4.619 5
+ 4 7 -1 4.664 6.5
+ 1 9 0 4.688 2.5
+ 7 1 0 4.695 2.5
+ 3 6 2 4.716 2
+ 2 7 -2 4.74 2
+ 4 7 1 4.749 4.5
+ 6 5 0 4.759 2
+ 3 8 -1 4.767 5
+ 6 0 -2 4.782 2
+ 1 4 3 4.812 2.5
+ 2 9 0 4.828 2.5
+ 3 8 1 4.83 5
+ 1 9 -1 4.888 2.5
+ 1 9 1 4.908 2
+ 4 8 0 4.912 2
+ 7 3 0 4.917 4.5
+
+# End of data set 1631947
+
+

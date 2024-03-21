@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# K-Mn-P-Se        # K2MnP2Se6                                     # 1002555 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1002555
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1002555
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Mn P~2~ Se~6~'
+_chemical_formula_sum                    'K2 Mn P2 Se6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~FeP~2~S~6~,mP22,14
+_chemical_formula_weight                 668.8
+_chemical_melting_point                  990
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis in molten alkali metal polyselenophosphate fluxes: A new family of transition metal selenophosphate compounds, A~2~MP~2~Se~6~ (A= K, Rb, Cs; M= Mn, Fe) and A~2~M'~2~P~2~Se~6~ (A= K, Cs; M'= Cu, Ag)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1995
+_journal_volume                          34
+_journal_page_first                      1257
+_journal_page_last                       1267
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'McCarthy T.J.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5349
+_cell_length_b                           12.696
+_cell_length_c                           8.8624
+_cell_angle_alpha                        90
+_cell_angle_beta                         123.336
+_cell_angle_gamma                        90
+_cell_volume                             614.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ K
+ P
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se2 Se 4 e 0.0634 0.41545 0.2431 1
+ K1 K 4 e 0.3149 0.3097 0.0394 1
+ Se3 Se 4 e 0.4566 0.05995 0.2689 1
+ P1 P 4 e 0.6465 0.0334 0.1335 1
+ Se1 Se 4 e 0.7835 0.17209 0.0707 1
+ Mn1 Mn 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.62
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC6'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1236
+_exptl_absorpt_coefficient_mu            19.519
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             53
+_refine_ls_number_reflns                 755
+_refine_ls_R_factor_gt                   0.029
+_refine_ls_wR_factor_gt                  0.034
+
+# End of data set 1002555
+
+

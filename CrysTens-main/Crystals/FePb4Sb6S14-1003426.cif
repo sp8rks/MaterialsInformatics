@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Fe-Pb-S-Sb       # FePb4Sb6S14                                   # 1003426 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003426
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003426
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Pb~4~ Sb~6~ S~14~'
+_chemical_formula_sum                    'Fe Pb4 S14 Sb6'
+_chemical_name_mineral                   jamesonite
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            FePb~4~Sb~6~S~14~,mP50,14
+_chemical_formula_weight                 2064.0
+_chemical_melting_point                  865
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure and Physical Properties of 1D Magnetic Chalcogenide, Jamesonite (FePb~4~Sb~6~S~14~)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2003
+_journal_volume                          42
+_journal_page_first                      7830
+_journal_page_last                       7838
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Matsushita Y.'
+;
+Kashiwa Chiba Tokyo University
+Laboratory of Materials Design and Characterization
+Kashiwa / Chiba
+Japan
+;
+'Ueda Y.'
+;
+Kashiwa Chiba Tokyo University
+Laboratory of Materials Design and Characterization
+Kashiwa / Chiba
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.03
+_cell_length_b                           19.125
+_cell_length_c                           15.75
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.68
+_cell_angle_gamma                        90
+_cell_volume                             1213.39
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Pb
+ Sb
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 4 e 0.0268 0.0032 0.2843 1
+ S2 S 4 e 0.0108 0.6056 0.5796 1
+ Pb2 Pb 4 e 0.0341 0.14068 0.18298 1
+ S6 S 4 e 0.0467 0.3981 0.0024 1
+ Pb1 Pb 4 e 0.0556 0.23892 0.42571 1
+ S7 S 4 e 0.0747 0.2962 0.2253 1
+ Sb2 Sb 4 e 0.3874 0.54743 0.10379 1
+ Sb3 Sb 4 e 0.4116 0.43658 0.32009 1
+ S3 S 4 e 0.523 0.0436 0.0959 1
+ S5 S 4 e 0.5495 0.1586 0.3167 1
+ S4 S 4 e 0.5681 0.2307 0.0516 1
+ Sb1 Sb 4 e 0.6128 0.3411 0.1312 1
+ Fe Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    gray
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.65
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC6S'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    5084
+_exptl_absorpt_coefficient_mu            35.981
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             116
+_refine_ls_number_reflns                 1284
+_refine_ls_R_factor_gt                   0.0316
+_refine_ls_wR_factor_gt                  0.0892
+
+# End of data set 1003426
+
+

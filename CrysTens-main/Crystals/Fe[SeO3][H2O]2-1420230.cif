@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# Fe-H-O-Se        # Fe[SeO3][H2O]2                                # 1420230 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1420230
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1420230
+
+# Entry summary
+
+_chemical_formula_structural             'Fe [Se O~3~] [H~2~ O]~2~'
+_chemical_formula_sum                    'Fe H4 O5 Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Zn[SeO~3~][H~2~O]~2~,mP28,14
+_chemical_formula_weight                 218.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and structure of a novel three-dimensional metal selenite containing multidirectional intersecting double helical chains: [Fe~2~(H~2~O)~4~(SeO~3~)~2~]
+;
+_journal_coden_ASTM                      JMOSB4
+_journal_name_full                       'J. Mol. Struct.'
+_journal_year                            2005
+_journal_volume                          740
+_journal_page_first                      249
+_journal_page_last                       253
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Xiao D.'
+;
+Changchun Jilin Northeast Normal University
+Department of Chemistry
+Changchun / Jilin
+China
+;
+'An H.'
+;
+Changchun Jilin Northeast Normal University
+Department of Chemistry
+Changchun / Jilin
+China
+;
+'Wang E.'
+;
+Changchun Jilin Northeast Normal University
+Department of Chemistry
+Changchun / Jilin
+China
+;
+'Xu L.'
+;
+Changchun Jilin Northeast Normal University
+Department of Chemistry
+Changchun / Jilin
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5283
+_cell_length_b                           8.8754
+_cell_length_c                           9.2856
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.186
+_cell_angle_gamma                        90
+_cell_volume                             439.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ Fe
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0891 0.8261 0.2657 1
+ O3 O 4 e 0.1382 0.593 0.4664 1
+ OW1 OH2 4 e 0.1606 0.3591 0.0787 1
+ Fe1 Fe 4 e 0.1687 0.13786 0.01761 1
+ Se1 Se 4 e 0.23389 0.65334 0.33737 1
+ OW2 OH2 4 e 0.4102 0.0631 0.2949 1
+ O2 O 4 e 0.4642 0.2012 0.0035 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.31
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1589
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku R-AXIS RAPID'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1589
+_diffrn_reflns_theta_min                 3.53
+_diffrn_reflns_theta_max                 27.24
+_exptl_absorpt_coefficient_mu            11.612
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             65
+_refine_ls_number_reflns                 879
+_refine_ls_R_factor_gt                   0.0372
+_refine_ls_wR_factor_gt                  0.1031
+
+# End of data set 1420230
+
+

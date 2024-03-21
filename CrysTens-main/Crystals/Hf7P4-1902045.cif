@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Hf-P             # Hf7P4                                         # 1902045 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1902045
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1902045
+
+# Entry summary
+
+_chemical_formula_structural             'Hf~7~ P~4~'
+_chemical_formula_sum                    'Hf7 P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Nb~7~P~4~,mS44,12
+_chemical_formula_weight                 1373.3
+
+# Bibliographic data
+
+_publ_section_title
+'Hf~7~P~4~: A New Binary Phosphide Synthesized by a Surprising Route'         
+_journal_coden_ASTM                      ACIEAY
+_journal_name_full                       'Angew. Chem. Int. Ed. Engl.'
+_journal_year                            1996
+_journal_volume                          35
+_journal_page_first                      1934
+_journal_page_last                       1936
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kleinke H.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory
+Ames
+U.S.A. Iowa
+;
+'Franzen H.F.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.488
+_cell_length_b                           3.526
+_cell_length_c                           14.553
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.83
+_cell_angle_gamma                        90
+_cell_volume                             768.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Hf
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hf7 Hf 4 i 0.0038 0 0.1695 1
+ P4 P 4 i 0.0626 0 0.353 1
+ P1 P 4 i 0.175 0 0.6073 1
+ Hf8 Hf 4 i 0.1756 0 0.0394 1
+ Hf5 Hf 4 i 0.2055 0 0.2972 1
+ Hf6 Hf 4 i 0.3391 0 0.5291 1
+ P2 P 4 i 0.374 0 0.1 1
+ Hf3 Hf 4 i 0.4305 0 0.329 1
+ P3 P 4 i 0.6311 0 0.161 1
+ Hf4 Hf 4 i 0.8028 0 0.1876 1
+ Hf1 Hf 2 c 0 0 0.5 1
+ Hf2 Hf 2 b 0 0.5 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            11.87
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            50
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC6R'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    7110
+_exptl_absorpt_coefficient_mu            94.089
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             57
+_refine_ls_number_reflns                 669
+_refine_ls_R_factor_gt                   0.058
+_refine_ls_wR_factor_gt                  0.056
+
+# End of data set 1902045
+
+

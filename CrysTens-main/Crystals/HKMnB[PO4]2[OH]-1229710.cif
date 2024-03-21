@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# B-H-K-Mn-O-P     # HKMnB[PO4]2[OH]                               # 1229710 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1229710
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1229710
+
+# Entry summary
+
+_chemical_formula_structural             'H K Mn B [P O~4~]~2~ [O H]'
+_chemical_formula_sum                    'B H2 K Mn O9 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HNaCoB[PO~4~]~2~[OH],mP56,14
+_chemical_formula_weight                 312.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ionothermal synthesis of the first luminescent open-framework manganese borophosphate with switchable magnetic properties
+;
+_journal_coden_ASTM                      EJICFO
+_journal_name_full                       'Eur. J. Inorg. Chem.'
+_journal_year                            2012
+_journal_volume                          ?
+_journal_page_first                      3032
+_journal_page_last                       3038
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wang G.'
+;
+Bochum Ruhr University
+Fakult\"at f\"ur Chemie
+Bochum
+Germany
+;
+'Valldor M.'
+;
+Cologne (K\"oln) University
+Physikalisches Institut
+Cologne (K\"oln)
+Germany
+;
+'Lorbeer C.'
+;
+Bochum Ruhr University
+Fakult\"at f\"ur Chemie
+Bochum
+Germany
+;
+'Mudring A.V.'
+;
+Bochum Ruhr University
+Fakult\"at f\"ur Chemie
+Bochum
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.6594
+_cell_length_b                           12.049
+_cell_length_c                           9.79
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.12
+_cell_angle_gamma                        90
+_cell_volume                             742.21
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ OH
+ Mn
+ B
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0376 0.1807 0.2907 1
+ P1 P 4 e 0.0023 0.6652 0.0663 1
+ O3 OH 4 e 0.0993 0.4463 0.2471 1
+ Mn1 Mn 4 e 0.1079 0.5851 0.4088 1
+ O4 O 4 e 0.0867 0.7678 0.0192 1
+ O6 O 4 e 0.1673 0.5714 0.0772 1
+ O7 O 4 e 0.2094 0.3747 0.0488 1
+ O5 O 4 e 0.2098 0.0345 0.0824 1
+ B1 B 4 e 0.2274 0.4657 0.1538 1
+ O9 OH 4 e 0.4178 0.1682 0.272 1
+ P2 P 4 e 0.4339 0.0722 0.1678 1
+ O8 O 4 e 0.4565 0.4713 0.2363 1
+ O2 O 4 e 0.5691 0.1144 0.0833 1
+ K1 K 4 e 0.6554 0.332 0.1227 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.80
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS I'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    8713
+_diffrn_reflns_theta_min                 2.78
+_diffrn_reflns_theta_max                 28.08
+_exptl_absorpt_coefficient_mu            2.797
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             136
+_refine_ls_number_reflns                 174
+_refine_ls_R_factor_gt                   0.0324
+_refine_ls_wR_factor_gt                  0.0496
+
+# End of data set 1229710
+
+

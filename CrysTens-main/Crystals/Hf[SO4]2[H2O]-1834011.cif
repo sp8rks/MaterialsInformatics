@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# H-Hf-O-S         # Hf[SO4]2[H2O] mon                             # 1834011 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1834011
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1834011
+
+# Entry summary
+
+_chemical_formula_structural             'Hf [S O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'H2 Hf O9 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Zr[SO~4~]~2~[H~2~O],mP48,14
+_chemical_formula_weight                 388.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+X-ray diffraction investigation of some zirconium, hafnium and tetravalent cerium sulfates
+;
+_journal_coden_ASTM                      JSTCAM
+_journal_name_full                       'J. Struct. Chem.'
+_journal_year                            1972
+_journal_volume                          13
+_journal_page_first                      239
+_journal_page_last                       243
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rogachev D.L.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Antsyshkina A.S.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Potai Koshits M.A.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.23
+_cell_length_b                           8.48
+_cell_length_c                           11.68
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.
+_cell_angle_gamma                        90
+_cell_volume                             688.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Hf
+ S
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0278 0.5487 0.3606 1
+ Hf1 Hf 4 e 0.1031 0.2559 0.111 1
+ O2 O 4 e 0.1056 0.7196 0.0633 1
+ O3 O 4 e 0.1392 0.3184 0.2868 1
+ S1 S 4 e 0.1591 0.4468 0.3774 1
+ O4 O 4 e 0.2197 0.3734 0.492 1
+ O5 O 4 e 0.235 0.4563 0.079 1
+ S2 S 4 e 0.2412 0.6144 0.0234 1
+ O6 OH2 4 e 0.3748 0.1622 0.2088 1
+ O7 O 4 e 0.5666 0.1657 0.4468 1
+ O8 O 4 e 0.6409 0.0218 0.1288 1
+ O9 O 4 e 0.8447 0.3944 0.1046 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.75
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Debye film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1834011
+
+

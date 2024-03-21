@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# As-Fe-H-O        # H6Fe[AsO4]3[H2O]5                             # 1901708 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1901708
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1901708
+
+# Entry summary
+
+_chemical_formula_structural             'H~6~ Fe [As O~4~]~3~ [H~2~ O]~5~'
+_chemical_formula_sum                    'As3 Fe H16 O17'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~6~Fe[AsO~4~]~3~[H~2~O]~5~,mP84,14
+_chemical_formula_weight                 568.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure cristalline d'un orthoars\'eniate acide de fer(III) pentahydrat\'e: Fe(H~2~AsO~4~)~3~.5H~2~O
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1981
+_journal_volume                          37
+_journal_page_first                      1402
+_journal_page_last                       1405
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Boudjada A.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+'Guitel J.C.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.72
+_cell_length_b                           19.6
+_cell_length_c                           15.8215
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.548
+_cell_angle_gamma                        90
+_cell_volume                             1410.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH
+ As
+ OH2
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O31 O 4 e 0.0226 0.1307 0.1346 1
+ O14 OH 4 e 0.0442 0.0073 0.2752 1
+ As1 As 4 e 0.0734 0.58334 0.1974 1
+ O23 O 4 e 0.0994 0.2622 0.2134 1
+ O13 OH 4 e 0.1012 0.5738 0.0932 1
+ As2 As 4 e 0.10919 0.78278 0.22209 1
+ O22 OH 4 e 0.1112 0.3106 0.3762 1
+ Ow5 OH2 4 e 0.1334 0.3592 0.0784 1
+ O11 O 4 e 0.1934 0.1379 0.3154 1
+ O34 OH 4 e 0.2022 0.7875 0.0042 1
+ Ow2 OH2 4 e 0.2048 0.0133 0.0778 1
+ Fe Fe 4 e 0.3507 0.17815 0.2198 1
+ Ow4 OH2 4 e 0.4064 0.4229 0.3194 1
+ Ow3 OH2 4 e 0.4649 0.4758 0.0829 1
+ O33 O 4 e 0.5053 0.2075 0.1203 1
+ Ow1 OH2 4 e 0.525 0.1749 0.483 1
+ O32 OH 4 e 0.5273 0.0974 0.0143 1
+ O12 O 4 e 0.6038 0.0953 0.2318 1
+ O21 O 4 e 0.6704 0.226 0.3034 1
+ O24 OH 4 e 0.708 0.352 0.228 1
+ As3 As 4 e 0.71262 0.16266 0.07322 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.68
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Kb'
+_diffrn_radiation_wavelength             0.6329
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1910
+_refine_ls_R_factor_gt                   0.058
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1901708
+
+

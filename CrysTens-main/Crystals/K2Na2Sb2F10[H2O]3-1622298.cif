@@ -1,0 +1,176 @@
+##############################################################################
+#                                                                            #
+# F-H-K-Na-O-Sb    # K2Na2Sb2F10[H2O]3                             # 1622298 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1622298
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1622298
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Na~2~ Sb~2~ F~10~ [H~2~ O]~3~'
+_chemical_formula_sum                    'F10 H6 K2 Na2 O3 Sb2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+K~2~Na~2~Sb~2~F~10~[H~2~O]~3~,mP38,11                                         
+_chemical_formula_weight                 611.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure and dynamics of water molecules and fluoride ions in NaKSbF~5~.1.5H~2~O and NaRbSbF~5~.1.5H~2~O~5~
+;
+_journal_coden_ASTM                      JSTCAM
+_journal_name_full                       'J. Struct. Chem.'
+_journal_year                            2002
+_journal_volume                          43
+_journal_page_first                      436
+_journal_page_last                       444
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gerasimenko A.V.'
+;
+Russian Academy of Sciences
+Institute of Chemistry
+Vladivostok
+Russia
+;
+'Kavun V.Y.'
+;
+Russian Academy of Sciences
+Institute of Chemistry
+Vladivostok
+Russia
+;
+'Sergienko V.I.'
+;
+Russian Academy of Sciences
+Institute of Chemistry
+Vladivostok
+Russia
+;
+'Popov D.Y.'
+;
+Russian Academy of Sciences
+Institute of Chemistry
+Vladivostok
+Russia
+;
+'Zemnukhova L.A.'
+;
+Russian Academy of Sciences
+Institute of Chemistry
+Vladivostok
+Russia
+;
+'Davidovich R.L.'
+;
+Russian Academy of Sciences
+Institute of Chemistry
+Vladivostok
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.037
+_cell_length_b                           17.481
+_cell_length_c                           6.0383
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.241
+_cell_angle_gamma                        90
+_cell_volume                             637.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ F
+ K
+ Sb
+ Na
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F5 F 4 f 0.0086 0.12183 0.4913 1
+ F2 F 4 f 0.0168 0.10424 0.0081 1
+ F1 F 4 f 0.2237 0.01922 0.277 1
+ K K 4 f 0.24099 0.00005 0.74082 1
+ Sb Sb 4 f 0.25607 0.13128 0.24399 1
+ Na Na 4 f 0.2572 0.61477 0.2427 1
+ F4 F 4 f 0.4828 0.09268 0.0172 1
+ F3 F 4 f 0.492 0.10441 0.483 1
+ Ow3 O 2 e 0.2303 0.25 0.7547 1
+ Ow1 O 2 e 0.6879 0.25 0.813 1
+ Ow2 O 2 e 0.746 0.25 0.2718 1
+ H4 H 4 f 0.195 0.212 0.715 1
+ H3 H 4 f 0.763 0.214 0.367 1
+ H2 H 2 e 0.593 0.25 0.726 1
+ H1 H 2 e 0.709 0.25 0.947 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.19
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens P4 SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5011
+_diffrn_reflns_theta_min                 2.33
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            5.081
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1579
+_refine_ls_R_factor_gt                   0.0258
+_refine_ls_wR_factor_gt                  0.0676
+
+# End of data set 1622298
+
+

@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Eu-Ga            # Eu5Ga3                                        # 1110791 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1110791
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1110791
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~5~ Ga~3~'
+_chemical_formula_sum                    'Eu5 Ga3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Y~5~Ga~3~,mS32,12
+_chemical_formula_weight                 969.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Formation of Gallium Dimers in the Intermetallic Compounds R~5~Ga~3~ (R= Sc, Y, Ho, Er, Tm, Lu). Deformation of the Mn~5~Si~3~-Type Structure
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2001
+_journal_volume                          40
+_journal_page_first                      1352
+_journal_page_last                       1357
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Maggard P.A.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+'Corbett J.D.'
+;
+Iowa State Ames University of Science and Technology
+Department of Chemistry
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.5081
+_cell_length_b                           14.721
+_cell_length_c                           6.3776
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.3
+_cell_angle_gamma                        90
+_cell_volume                             798.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Ga
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ga1 Ga 8 j 0.212 0.301 0.293 1
+ Eu1 Eu 8 j 0.378 0.123 0.264 1
+ Ga2 Ga 4 i 0.11 0 0.198 1
+ Eu2 Eu 4 i 0.73 0 0.226 1
+ Eu3 Eu 4 h 0 0.151 0.5 1
+ Eu4 Eu 4 g 0 0.18 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.06
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54056
+_pd_proc_wavelength                      1.54056
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1110791
+
+

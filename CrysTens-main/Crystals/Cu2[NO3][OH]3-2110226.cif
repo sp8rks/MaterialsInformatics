@@ -1,0 +1,129 @@
+##############################################################################
+#                                                                            #
+# Cu-H-N-O         # Cu2[NO3][OH]3 mon                             # 2110226 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2110226
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2110226
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ [N O~3~] [O H]~3~'
+_chemical_formula_sum                    'Cu2 H3 N O6'
+_chemical_name_mineral                   rouaite
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~[NO~3~][OH]~3~-a,mP18,4
+_chemical_formula_weight                 240.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Verfeinerung der Kristallstruktur des monoklinen Dikupfer(II)-trihydroxi-nitrates Cu~2~(NO~3~)(OH)~3~
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1983
+_journal_volume                          165
+_journal_page_first                      127
+_journal_page_last                       135
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Effenberger H.S.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.605
+_cell_length_b                           6.087
+_cell_length_c                           6.929
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.483
+_cell_angle_gamma                        90
+_cell_volume                             235.68
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cu
+ O
+ N
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu1 Cu 2 a 0.0015 0.259 0.0055 1
+ O23 O 2 a 0.097 0.371 0.492 1
+ O11 O 2 a 0.131 0.007 0.143 1
+ O21 O 2 a 0.207 0.508 0.223 1
+ N N 2 a 0.231 0.5 0.408 1
+ O13 O 2 a 0.313 0.257 0.881 1
+ Cu2 Cu 2 a 0.4909 0.0107 0.0024 1
+ O22 O 2 a 0.613 0.102 0.504 1
+ O12 O 2 a 0.687 0.246 0.121 1
+ H1 H 2 a 0.11 -0.031 0.24 1
+ H22 H 2 a 0.28 0.249 0.77 1
+ H21 H 2 a 0.69 0.229 0.22 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.38
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI 2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    693
+_exptl_absorpt_coefficient_mu            9
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 660
+_refine_ls_R_factor_gt                   0.035
+_refine_ls_wR_factor_gt                  0.034
+
+# End of data set 2110226
+
+

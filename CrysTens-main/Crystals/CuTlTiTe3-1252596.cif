@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# Cu-Te-Ti-Tl      # CuTlTiTe3                                     # 1252596 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1252596
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1252596
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Tl Ti Te~3~'
+_chemical_formula_sum                    'Cu Te3 Ti Tl'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuTlTiTe~3~,mP12,11
+_chemical_formula_weight                 698.6
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and structure of TlCuTiTe~3~'                                      
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1996
+_journal_volume                          240
+_journal_page_first                      37
+_journal_page_last                       41
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pell M.A.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Ibers J.A.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.409
+_cell_length_b                           3.956
+_cell_length_c                           10.261
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.56
+_cell_angle_gamma                        90
+_cell_volume                             317.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Te
+ Cu
+ Tl
+ Ti
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te3 Te 2 e 0.07373 0.25 0.35466 1
+ Cu1 Cu 2 e 0.077 0.25 0.1032 1
+ Tl1 Tl 2 e 0.28015 0.25 0.7894 1
+ Te2 Te 2 e 0.54532 0.25 0.37721 1
+ Ti1 Ti 2 e 0.7108 0.25 0.6732 1
+ Te1 Te 2 e 0.74599 0.25 0.94336 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.31
+_cell_measurement_temperature            115
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7093
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              115
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7093
+_diffrn_reflns_number                    4052
+_diffrn_reflns_theta_min                 2.6
+_diffrn_reflns_theta_max                 31
+_exptl_absorpt_coefficient_mu            43.2
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             37
+_refine_ls_number_reflns                 978
+_refine_ls_R_factor_gt                   0.0438
+_refine_ls_wR_factor_gt                  0.1051
+
+# End of data set 1252596
+
+

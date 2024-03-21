@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Ag-As-K-Se       # K2AgAs3Se6                                    # 1510527 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1510527
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1510527
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Ag As~3~ Se~6~'
+_chemical_formula_sum                    'Ag As3 K2 Se6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~AgAs~3~Se~6~,mP48,14
+_chemical_formula_weight                 884.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Condensation of pyramidal [AsSe~3~]^3-^ anions for the construction of polymeric networks: Solventothermal synthesis of K~3~AgAs~2~Se~5~.0.25MeOH, K~2~AgAs~3~Se~6~, and Rb~2~AgAs~3~Se~6~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1999
+_journal_volume                          38
+_journal_page_first                      3863
+_journal_page_last                       3870
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wachhold M.'
+;
+Michigan East Lansing University
+Department of Chemistry and Center for Fundamental Materials Research
+East Lansing
+U.S.A. Michigan
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry and Center for Fundamental Materials Research
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.5994
+_cell_length_b                           7.498
+_cell_length_c                           17.9097
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.706
+_cell_angle_gamma                        90
+_cell_volume                             1338.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ag
+ K
+ Se
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag Ag 4 e 0.0298 0.4937 0.4266 1
+ K1 K 4 e 0.0852 0.3875 0.239 1
+ Se2 Se 4 e 0.092 0.2718 0.0569 1
+ Se4 Se 4 e 0.1522 0.8126 0.2296 1
+ Se5 Se 4 e 0.2185 0.0989 0.4199 1
+ K2 K 4 e 0.2802 0.6315 0.1132 1
+ As1 As 4 e 0.2846 0.0897 0.1582 1
+ Se3 Se 4 e 0.3842 0.2097 0.3137 1
+ As3 As 4 e 0.3891 0.1675 0.0071 1
+ Se1 Se 4 e 0.4585 0.243 0.1638 1
+ As2 As 4 e 0.6654 0.4438 0.1304 1
+ Se6 Se 4 e 0.7444 0.086 0.0396 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.39
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Siemens
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4524
+_diffrn_reflns_theta_min                 0
+_diffrn_reflns_theta_max                 27.21
+_exptl_absorpt_coefficient_mu            25.752
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             109
+_refine_ls_number_reflns                 2387
+_refine_ls_R_factor_gt                   0.0435
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1510527
+
+

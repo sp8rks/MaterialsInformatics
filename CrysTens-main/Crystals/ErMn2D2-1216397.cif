@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# D-Er-Mn          # ErMn2D2 lt                                    # 1216397 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1216397
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1216397
+
+# Entry summary
+
+_chemical_formula_structural             'Er Mn~2~ D~2~'
+_chemical_formula_sum                    'D2 Er Mn2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            *,mS24,12
+_chemical_formula_weight                 281.2
+
+# Bibliographic data
+
+_publ_section_title
+'Synchrotron X-ray diffraction study of ErMn~2~D~2~'                          
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2007
+_journal_volume                          437
+_journal_page_first                      140
+_journal_page_last                       145
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Maehlen J.P.'
+;
+Institute for Energy Technology
+Department of Physics
+Kjeller
+Norway
+;
+'Yartys V.A.'
+;
+Institute for Energy Technology
+Department of Physics
+Kjeller
+Norway
+;
+'Riabov A.B.'
+;
+Ukrainian Academy of Sciences
+H.V. Karpenko Physico-Mechanical Institute
+Lviv
+Ukraine
+;
+'Budziak A.'
+;
+Polish Academy of Sciences
+Henryk Niewodniczanski Institute of Nuclear Physics
+Cracow
+Poland
+;
+'Figiel H.'
+;
+Cracow AGH University of Science and Technology
+Department of Solid State Physics
+Cracow
+Poland
+;
+'Zukrowski J.'
+;
+Cracow AGH University of Science and Technology
+Department of Solid State Physics
+Cracow
+Poland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.6001
+_cell_length_b                           5.5712
+_cell_length_c                           9.0674
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.392
+_cell_angle_gamma                        90
+_cell_volume                             485
+_cell_formula_units_Z                    8
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Mn
+ Er
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Mn4 Mn 8 j 0.0819 0.242 0.252 1
+ Mn3 Mn 4 i 0.1627 0 0.7483 1
+ Er2 Er 4 i 0.3321 0 0.4395 1
+ Er1 Er 4 i 0.3344 0 0.0681 1
+ Mn2 Mn 2 c 0 0 0.5 1
+ Mn1 Mn 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.70
+_cell_measurement_temperature            200
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.37504
+_pd_proc_wavelength                      0.37504
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              200
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, European Synchrotron Radiation Facility ESRF, SNBL, BM01B' 
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.37504
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0742
+_pd_proc_ls_proof_wR_factor              0.0964
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1216397
+
+

@@ -1,0 +1,122 @@
+##############################################################################
+#                                                                            #
+# C-H-K-O          # HK[CO3] rt                                    #  313489 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_313489
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      313489
+
+# Entry summary
+
+_chemical_formula_structural             'H K [C O~3~]'
+_chemical_formula_sum                    'C K O3'
+_chemical_name_mineral                   kalicinite
+_chemical_compound_source                ?
+_chemical_name_structure_type            HK[CO~3~],mP20,14
+_chemical_formula_weight                 100.1
+
+# Bibliographic data
+
+_publ_section_title
+'Structure du carbonate acide de potassium'                                   
+_journal_coden_ASTM                      COREAF
+_journal_name_full                       'C. R. Hebd. Seances Acad. Sci.'
+_journal_year                            1952
+_journal_volume                          234
+_journal_page_first                      2205
+_journal_page_last                       2207
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Herpin P.'
+;
+Paris VI Pierre et Marie Curie University
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.68
+_cell_length_b                           5.51
+_cell_length_c                           14.998
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.866
+_cell_angle_gamma                        90
+_cell_volume                             295.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ K
+ O
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K K 4 e 0.032 0.525 0.166 1
+ O1 O 4 e 0.3 0.025 0.195 1
+ C C 4 e 0.404 0.025 0.122 1
+ O3 O 4 e 0.449 0.225 0.082 1
+ O2 O 4 e 0.551 0.325 0.418 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.17
+_exptl_crystal_density_diffrn            2.25
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7113
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7113
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 313489
+
+

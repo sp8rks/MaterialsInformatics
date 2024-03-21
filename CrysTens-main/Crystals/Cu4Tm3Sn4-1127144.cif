@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Cu-Sn-Tm         # Cu4Tm3Sn4 rt                                  # 1127144 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1127144
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1127144
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~4~ Tm~3~ Sn~4~'
+_chemical_formula_sum                    'Cu4 Sn4 Tm3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~4~Tm~3~Sn~4~,mS22,12
+_chemical_formula_weight                 1235.7
+
+# Bibliographic data
+
+_publ_section_title
+'A structural phase transition in the intermetallic compound Tm~3~Cu~4~Sn~4~' 
+_journal_coden_ASTM                      JPCSDZ
+_journal_name_full                       'J. Phys. Conf. Ser.'
+_journal_year                            2011
+_journal_volume                          286
+_journal_page_first                      1
+_journal_page_last                       5
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Munoz P\'erez S.'
+;
+Winnipeg Manitoba University
+Department of Physics and Astronomy
+Winnipeg
+Canada
+;
+'Cobas R.'
+;
+Winnipeg Manitoba University
+Department of Physics and Astronomy
+Winnipeg
+Canada
+;
+'Susilo R.A.'
+;
+Winnipeg Manitoba University
+Department of Physics and Astronomy
+Winnipeg
+Canada
+;
+'Cadogan J.M.'
+;
+Winnipeg Manitoba University
+Department of Physics and Astronomy
+Winnipeg
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.9887
+_cell_length_b                           4.3898
+_cell_length_c                           6.8931
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.
+_cell_angle_gamma                        90
+_cell_volume                             438.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Tm
+ Sn
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Tm2 Tm 4 i 0.1298 0 0.6373 1
+ Sn1 Sn 4 i 0.2157 0 0.2056 1
+ Cu2 Cu 4 i 0.3208 0 0.6297 1
+ Cu1 Cu 4 i 0.3358 0 0.0233 1
+ Sn2 Sn 4 i 0.5055 0 0.2997 1
+ Tm1 Tm 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.36
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+PANalytical X'Pert PRO MPD
+;
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.039
+
+# End of data set 1127144
+
+

@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# Cu-Fe-H-O-P      # CuFe2[PO4]2[OH]2                              # 1713297 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1713297
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1713297
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Fe~2~ [P O~4~]~2~ [O H]~2~'
+_chemical_formula_sum                    'Cu Fe2 H2 O10 P2'
+_chemical_name_mineral                   hentschelite
+_chemical_compound_source
+'Germany, Hesse, Odenwald, Reichenbach'                                       
+_chemical_name_structure_type            CuFe~2~[PO~4~]~2~[OH]~2~,mP30,14
+_chemical_formula_weight                 399.2
+
+# Bibliographic data
+
+_publ_section_title
+'Neue Mineraldaten f\"ur Kupferphosphate und -arsenate von Reichenbach/Odw.'  
+_journal_coden_ASTM                      FMNBB6
+_journal_name_full                       'Fortschr. Mineral., Beih.'
+_journal_year                            1984
+_journal_volume                          62
+_journal_page_first                      231
+_journal_page_last                       233
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sieber N.'
+;
+Mainz Johannes Gutenberg University
+Mainz
+Germany
+;
+'Hofmeister W.'
+;
+Mainz Johannes Gutenberg University
+Mainz
+Germany
+;
+'Tillmanns E.'
+;
+Mainz Johannes Gutenberg University
+Mainz
+Germany
+;
+'Abraham K.'
+;
+Bochum Ruhr University
+Bochum
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.977
+_cell_length_b                           7.781
+_cell_length_c                           7.3706
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.277
+_cell_angle_gamma                        90
+_cell_volume                             349
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ OH
+ Fe
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.0486 0.7036 0.0991 1
+ O3 O 4 e 0.1722 0.4683 0.3625 1
+ P P 4 e 0.24807 0.59689 0.2483 1
+ O5 OH 4 e 0.252 0.1286 0.2288 1
+ Fe Fe 4 e 0.26766 0.22612 0.48766 1
+ O1 O 4 e 0.3421 0.4895 0.1352 1
+ O2 O 4 e 0.5725 0.215 0.0968 1
+ Cu Cu 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.80
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1835
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1713297
+
+

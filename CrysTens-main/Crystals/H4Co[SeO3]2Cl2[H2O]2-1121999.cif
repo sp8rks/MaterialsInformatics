@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Cl-Co-H-O-Se     # H4Co[SeO3]2Cl2[H2O]2                          # 1121999 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1121999
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1121999
+
+# Entry summary
+
+_chemical_formula_structural
+'H~4~ Co [Se O~3~]~2~ Cl~2~ [H~2~ O]~2~'                                      
+_chemical_formula_sum                    'Cl2 Co H8 O8 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~4~Co[SeO~3~]~2~Cl~2~[H~2~O]~2~,mP26,14                                      
+_chemical_formula_weight                 423.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Selenious acid as a ligand: Molecular and crystal structure of [Co(H~2~O)~2~Cl~2~(H~2~SeO~3~)~2~]
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2005
+_journal_volume                          631
+_journal_page_first                      2306
+_journal_page_last                       2308
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ben Hamida M.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+'Wickleder M.S.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.1982
+_cell_length_b                           14.626
+_cell_length_c                           6.4309
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.51
+_cell_angle_gamma                        90
+_cell_volume                             488.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Cl
+ Co
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O11 O 4 e 0.0588 0.2416 0.3068 1
+ O12 O 4 e 0.2354 0.1187 0.0 1
+ O1 O 4 e 0.2436 0.5709 0.3082 1
+ Se1 Se 4 e 0.2936 0.3273 0.28201 1
+ O13 O 4 e 0.5366 0.2544 0.3779 1
+ Cl1 Cl 4 e 0.7687 0.44467 0.1883 1
+ Co1 Co 2 a 0 0 0 1
+ H111 H 4 e 0.08 0.206 0.245 1
+ H12 H 4 e 0.24 0.564 0.16 1
+ H11 H 4 e 0.62 0.077 0.153 1
+ H131 H 4 e 0.66 0.26 0.348 1
+
+
+_exptl_crystal_colour                    purple
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.88
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    4204
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             78
+_refine_ls_number_reflns                 636
+_refine_ls_R_factor_gt                   0.0263
+_refine_ls_wR_factor_gt                  0.0391
+
+# End of data set 1121999
+
+

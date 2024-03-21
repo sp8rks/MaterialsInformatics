@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# H-O-P-Zr         # H2Zr[PO4]2[H2O]0.5 rt                         # 1403986 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1403986
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1403986
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Zr [P O~4~]~2~ [H~2~ O]~0.5~'
+_chemical_formula_sum                    'H3 O8.50 P2 Zr'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~2~Zr[PO~4~]~2~[H~2~O]~0.5~,mS48,15                                          
+_chemical_formula_weight                 292.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Preparation, Characterization, and Structure of \a-Zirconium Hydrogen Phosphate Hemihydrate
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1994
+_journal_volume                          113
+_journal_page_first                      289
+_journal_page_last                       295
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Alberti G.'
+;
+Perugia University
+Dipartimento di Chimica
+Perugia
+Italy
+;
+'Costantino U.'
+;
+Perugia University
+Dipartimento di Chimica
+Perugia
+Italy
+;
+'Millini R.'
+;
+EniRicerche S.p.A.
+San Donato Milanese
+Italy
+;
+'Perego G.'
+;
+EniRicerche S.p.A.
+San Donato Milanese
+Italy
+;
+'Vivani R.'
+;
+Perugia University
+Dipartimento di Chimica
+Perugia
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.1478
+_cell_length_b                           5.3242
+_cell_length_c                           15.288
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.848
+_cell_angle_gamma                        90
+_cell_volume                             723
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ OH
+ OH2
+ Zr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.0355 0.287 0.4181 1
+ P P 8 f 0.1327 0.249 0.1116 1
+ O4 OH 8 f 0.18 0.228 0.2167 1
+ O2 O 8 f 0.182 0.001 0.08 1
+ O3 O 8 f 0.215 0.469 0.081 1
+ Ow OH2 4 e 0 0.654 0.25 0.5
+ Zr Zr 4 d 0.25 0.25 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.70
+_exptl_crystal_density_diffrn            2.68
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54178
+_pd_proc_wavelength                      1.54178
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Philips
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54178
+_diffrn_reflns_number                    173
+_diffrn_reflns_theta_min                 7.5
+_diffrn_reflns_theta_max                 36
+_pd_proc_2theta_range_min                15
+_pd_proc_2theta_range_max                72
+_exptl_absorpt_coefficient_mu            17.24
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             27
+_refine_ls_number_reflns                 173
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.079
+_pd_proc_ls_proof_wR_factor              0.102
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1403986
+
+

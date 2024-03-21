@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# As-Cu-O          # Cu3[AsO4]2 mon2                               # 1000675 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1000675
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1000675
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~3~ [As O~4~]~2~'
+_chemical_formula_sum                    'As2 Cu3 O8'
+_chemical_name_mineral                   lammerite-\b
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~3~[AsO~4~]~2~,mP52,14
+_chemical_formula_weight                 468.5
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of Cu~3~(AsO~4~)~2~'                                       
+_journal_coden_ASTM                      CJCHAG
+_journal_name_full                       'Can. J. Chem.'
+_journal_year                            1968
+_journal_volume                          46
+_journal_page_first                      917
+_journal_page_last                       927
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Poulsen S.J.'
+;
+Hamilton McMaster University
+Department of Physics
+Hamilton
+Canada
+;
+'Calvo C.'
+;
+Hamilton McMaster University
+Department of Physics
+Hamilton
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.327
+_cell_length_b                           8.642
+_cell_length_c                           11.313
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.04
+_cell_angle_gamma                        90
+_cell_volume                             618.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cu
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0324 0.2594 0.3937 1
+ O4 O 4 e 0.0853 0.0731 0.121 1
+ Cu3 Cu 4 e 0.0918 0.31 0.0684 1
+ As2 As 4 e 0.104 0.4398 0.3493 1
+ O8 O 4 e 0.1313 0.4472 0.2014 1
+ Cu1 Cu 4 e 0.2415 0.6642 0.1323 1
+ Cu2 Cu 4 e 0.3839 0.0311 0.1223 1
+ O1 O 4 e 0.3938 0.2619 0.0812 1
+ O7 O 4 e 0.4809 0.0705 0.36 1
+ As1 As 4 e 0.5857 0.3866 0.1321 1
+ O5 O 4 e 0.6621 0.3459 0.2716 1
+ O6 O 4 e 0.6701 0.0046 0.0836 1
+ O3 O 4 e 0.7918 0.3691 0.0432 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.83
+_exptl_crystal_density_diffrn            5.03
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'precession photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    299
+_exptl_absorpt_coefficient_mu            22.0
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 111
+_refine_ls_R_factor_gt                   0.09
+_refine_ls_wR_factor_gt                  0.11
+
+# End of data set 1000675
+
+

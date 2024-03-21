@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# F-H-Hg-O-Si      # Hg2SiF6[H2O]2                                 # 1815704 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1815704
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1815704
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~2~ Si F~6~ [H~2~ O]~2~'
+_chemical_formula_sum                    'F6 H4 Hg2 O2 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg~2~SiF~6~[H~2~O]~2~,mP22,14
+_chemical_formula_weight                 579.3
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of Mercury(I) Hexafluorosilicate Dihydrate'            
+_journal_coden_ASTM                      ACSAA4
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1971
+_journal_volume                          25
+_journal_page_first                      1655
+_journal_page_last                       1662
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Dorm E.'
+;
+Stockholm University
+Institute of Inorganic and Physical Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.642
+_cell_length_b                           8.601
+_cell_length_c                           8.822
+_cell_angle_alpha                        90
+_cell_angle_beta                         123.76
+_cell_angle_gamma                        90
+_cell_volume                             355.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ Hg
+ OH2
+ Si
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 e 0.0446 0.3683 0.3732 1
+ F2 F 4 e 0.1174 0.1369 0.1661 1
+ Hg Hg 4 e 0.2034 0.41679 0.03073 1
+ F3 F 4 e 0.3347 0.5662 0.5919 1
+ O OH2 4 e 0.5785 0.3009 0.0665 1
+ Si Si 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              5.37
+_exptl_crystal_density_diffrn            5.41
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             27
+_refine_ls_number_reflns                 341
+_refine_ls_R_factor_gt                   0.076
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 19050 8
+ -1 1 1 26840 5
+ 0 2 0 32030 5
+ -1 0 2 32640 5
+ 1 1 0 34890 7
+ -1 1 2 40690 3
+ 0 2 1 43000 2
+ 0 0 2 44040 7
+ -1 2 1 50960 7
+ 0 1 2 52100 2
+ -1 2 2 64790 5
+ -2 0 2 75320 2
+ 0 2 2 76160 5
+ -1 1 3 76670 3
+ 0 3 1 83250 5
+ -2 1 1 88430 7
+ 1 2 1 89140 7
+ 1 3 0 99050 7
+ -1 2 3 100800 5
+ -1 3 2 104920 5
+ 0 1 3 107250 5
+ -2 2 1 112660 3
+ 2 1 0 115860 3
+ 1 1 2 117460 2
+ -2 2 3 124140 5
+
+# End of data set 1815704
+
+

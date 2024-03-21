@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# H-O-P-U          # H4U[PHO3]4 mon1                               # 1640593 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1640593
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1640593
+
+# Entry summary
+
+_chemical_formula_structural             'H~4~ U [P H O~3~]~4~'
+_chemical_formula_sum                    'H8 O12 P4 U'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~4~U[PHO~3~]~4~,mP68,14
+_chemical_formula_weight                 562.0
+
+# Bibliographic data
+
+_publ_section_title
+'Solid-state actinide acid phosphites from phosphorous acid melts'            
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2014
+_journal_volume                          215
+_journal_page_first                      50
+_journal_page_last                       56
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Oh G.N.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Civil and Environmental Engineering and Earth Sciences
+Notre Dame
+U.S.A. Indiana
+;
+'Burns P.C.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Civil and Environmental Engineering and Earth Sciences
+Notre Dame
+U.S.A. Indiana
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.8274
+_cell_length_b                           13.4222
+_cell_length_c                           13.1006
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.702
+_cell_angle_gamma                        90
+_cell_volume                             1115.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ U
+ OH
+ PH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O9 O 4 e 0.0335 0.504 0.2427 1
+ U1 U 4 e 0.04243 0.34496 0.17742 1
+ O7 OH 4 e 0.0638 0.0601 0.1005 1
+ O10 O 4 e 0.0739 0.6843 0.3067 1
+ P3 PH 4 e 0.09055 0.57587 0.33755 1
+ O5 O 4 e 0.098 0.2427 0.039 1
+ O12 O 4 e 0.1285 0.3276 0.3683 1
+ P4 PH 4 e 0.20734 0.25009 0.45734 1
+ O4 O 4 e 0.2259 0.4474 0.0972 1
+ P2 PH 4 e 0.31096 0.54966 0.08896 1
+ O3 O 4 e 0.3921 0.2958 0.254 1
+ O1 OH 4 e 0.4435 0.0447 0.3812 1
+ O8 OH 4 e 0.4512 0.2383 0.014 1
+ P1 PH 4 e 0.61224 0.33781 0.29184 1
+ O2 OH 4 e 0.614 0.4371 0.3548 1
+ O6 O 4 e 0.6946 0.3555 0.201 1
+ O11 O 4 e 0.7853 0.397 0.0195 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.35
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II QUAZAR'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    17993
+_diffrn_reflns_theta_min                 2.26
+_diffrn_reflns_theta_max                 37.77
+_exptl_absorpt_coefficient_mu            15.182
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             154
+_refine_ls_number_reflns                 2592
+_refine_ls_R_factor_gt                   0.0347
+_refine_ls_wR_factor_gt                  0.0802
+
+# End of data set 1640593
+
+

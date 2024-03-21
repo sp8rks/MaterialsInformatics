@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# Gd-O-Si          # Gd2[Si2O7] hp                                 # 1614223 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1614223
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1614223
+
+# Entry summary
+
+_chemical_formula_structural             'Gd~2~ [Si~2~ O~7~]'
+_chemical_formula_sum                    'Gd2 O7 Si2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Nd~2~[Si~2~O~7~],mP44,14
+_chemical_formula_weight                 482.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+High-Pressure Rare Earth Disilicates REE~2~Si~2~O~7~ (REE= Nd, Sm, Eu, Gd): Type K
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2001
+_journal_volume                          161
+_journal_page_first                      166
+_journal_page_last                       172
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fleet M.E.'
+;
+London Western Ontario University
+Department of Earth Science
+London
+Canada
+;
+'Liu X.'
+;
+London Western Ontario University
+Department of Earth Science
+London
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5558
+_cell_length_b                           6.6469
+_cell_length_c                           12.5343
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.816
+_cell_angle_gamma                        90
+_cell_volume                             520
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Si
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.095 0.2144 0.0317 1
+ Si1 Si 4 e 0.1034 0.1746 0.4152 1
+ O5 O 4 e 0.1244 0.5882 0.1582 1
+ Gd2 Gd 4 e 0.14789 0.68188 0.34417 1
+ O6 O 4 e 0.2068 0.3293 0.3478 1
+ O4 O 4 e 0.2051 0.0066 0.2126 1
+ Si2 Si 4 e 0.2908 0.0753 0.1097 1
+ O7 O 4 e 0.338 0.6098 0.539 1
+ O3 O 4 e 0.4962 0.2195 0.1665 1
+ Gd1 Gd 4 e 0.52938 0.1063 0.36209 1
+ O2 O 4 e 0.7209 0.4901 0.0489 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.17
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.70926
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.710926
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            25.73
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             101
+_refine_ls_number_reflns                 863
+_refine_ls_R_factor_gt                   0.026
+_refine_ls_wR_factor_gt                  0.024
+
+# End of data set 1614223
+
+

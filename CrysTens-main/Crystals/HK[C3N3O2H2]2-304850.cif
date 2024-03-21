@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# C-H-K-N-O        # HK[C3N3O2H2]2                                 #  304850 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_304850
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      304850
+
+# Entry summary
+
+_chemical_formula_structural             'H K [C~3~ N~3~ O~2~ H~2~]~2~'
+_chemical_formula_sum                    'C6 H5 K N6 O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HK[C~3~N~3~O~2~H~2~]~2~,mP34,13
+_chemical_formula_weight                 264.2
+
+# Bibliographic data
+
+_publ_section_title
+'The structure of potassium nitrosocarbamoylcyanomethanide'                   
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1988
+_journal_volume                          33
+_journal_page_first                      1744
+_journal_page_last                       1746
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Domashevskaya O.A.'
+;
+Kiev Taras Shevchenko National University
+Kiev
+Ukraine
+;
+'Mazus M.D.'
+;
+Moldovan Academy of Sciences
+Institute of Applied Physics
+Chisinau
+Moldova
+;
+'Dvorkin A.A.'
+;
+Kiev Taras Shevchenko National University
+Kiev
+Ukraine
+;
+'Simonov Y.A.'
+;
+Moldovan Academy of Sciences
+Institute of Applied Physics
+Chisinau
+Moldova
+;
+'Gerasimchuk N.N.'
+;
+Moldovan Academy of Sciences
+Institute of Applied Physics
+Chisinau
+Moldova
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.51
+_cell_length_b                           3.617
+_cell_length_c                           12.762
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.58
+_cell_angle_gamma                        90
+_cell_volume                             518.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ O
+ C
+ K
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N3 N 4 g 0.1161 0.6066 0.4306 1
+ O1 O 4 g 0.1673 0.6617 0.1992 1
+ C3 C 4 g 0.1902 0.378 0.0058 1
+ C2 C 4 g 0.2639 0.5103 0.2014 1
+ C1 C 4 g 0.2871 0.3569 0.099 1
+ N2 N 4 g 0.3504 0.4803 0.2884 1
+ N1 N 4 g 0.3907 0.2261 0.094 1
+ O2 O 4 g 0.6019 0.1096 0.5042 1
+ K K 2 e 0 0.1211 0.25 1
+ H1(N2) H 4 g 0.342 0.582 0.35 1
+ H2(N2) H 4 g 0.417 0.35 0.291 1
+ H(O-2) H 2 d 0.5 0 0 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.69
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 982
+_refine_ls_R_factor_gt                   0.033
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 304850
+
+

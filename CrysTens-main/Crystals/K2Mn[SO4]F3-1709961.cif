@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# F-K-Mn-O-S       # K2Mn[SO4]F3 lt                                # 1709961 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1709961
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1709961
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Mn [S O~4~] F~3~'
+_chemical_formula_sum                    'F3 K2 Mn O4 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Rb~2~Mn[SO~4~]F~3~,mP44,14
+_chemical_formula_weight                 286.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Jahn-Teller ordering in manganese(III) fluoride sulfates. II. Phase transition and twinning of K~2~[MnF~3~(SO~4~)] and 1D magnetism in compounds A~2~[MnF~3~(SO~4~)] (A= K, NH~4~, Rb, Cs)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2005
+_journal_volume                          631
+_journal_page_first                      1785
+_journal_page_last                       1792
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Klein U.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Hahn F.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Massa W.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Pebler J.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.2113
+_cell_length_b                           10.7251
+_cell_length_c                           8.4409
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.621
+_cell_angle_gamma                        90
+_cell_volume                             652.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ O
+ K
+ S
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 e 0.0238 0.1623 0.0588 1
+ O2 O 4 e 0.1066 0.5595 0.7012 1
+ O3 O 4 e 0.161 0.0954 0.4057 1
+ K2 K 4 e 0.1958 0.6909 0.1734 1
+ S S 4 e 0.2493 0.0005 0.3119 1
+ F3 F 4 e 0.2579 0.4992 0.3898 1
+ K1 K 4 e 0.3072 0.309 0.1723 1
+ O1 O 4 e 0.3907 0.0614 0.2127 1
+ F2 F 4 e 0.5266 0.3379 0.4463 1
+ O4 O 4 e 0.6674 0.4003 0.0953 1
+ Mn2 Mn 2 b 0.5 0 0 1
+ Mn1 Mn 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.91
+_cell_measurement_temperature            200
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              200
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    15968
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             103
+_refine_ls_number_reflns                 1952
+_refine_ls_R_factor_gt                   0.0181
+_refine_ls_wR_factor_gt                  0.050
+
+# End of data set 1709961
+
+

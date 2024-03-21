@@ -1,0 +1,132 @@
+##############################################################################
+#                                                                            #
+# Cl-In-Te         # InTeCl                                        # 1704469 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1704469
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1704469
+
+# Entry summary
+
+_chemical_formula_structural             'In Te Cl'
+_chemical_formula_sum                    'Cl In Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            InTeCl,mP24,14
+_chemical_formula_weight                 277.9
+
+# Bibliographic data
+
+_publ_section_title
+'Zur Struktur der Chalkogenidhalogenide des Indiums'                          
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1962
+_journal_volume                          314
+_journal_page_first                      307
+_journal_page_last                       320
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hahn H.'
+;
+W\"urzburg Julius-Maximilians University
+Institut f\"ur Chemie
+W\"urzburg
+Germany
+;
+'Nickels W.'
+;
+W\"urzburg Julius-Maximilians University
+Institut f\"ur Chemie
+W\"urzburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.13
+_cell_length_b                           14.07
+_cell_length_c                           7.42
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.1
+_cell_angle_gamma                        90
+_cell_volume                             743.9
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Te
+ Cl
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te1 Te 4 e 0.105 0.1725 0.275 1
+ Cl1 Cl 4 e 0.1087 0.8969 0.2283 1
+ In1 In 4 e 0.2947 0.0239 0.1282 1
+ In2 In 4 e 0.318 0.312 0.1266 1
+ Te2 Te 4 e 0.3431 0.5011 0.2395 1
+ Cl2 Cl 4 e 0.5681 0.2653 0.4886 1
+
+
+_exptl_crystal_colour                    'brown red'
+_exptl_crystal_density_meas              4.53
+_exptl_crystal_density_diffrn            4.96
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'rotation photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1704469
+
+

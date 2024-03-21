@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Fe-H-O-Se        # HFeSe2[SeO3]O5                                # 1000728 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1000728
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1000728
+
+# Entry summary
+
+_chemical_formula_structural             'H Fe Se~2~ [Se O~3~] O~5~'
+_chemical_formula_sum                    'Fe H O8 Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HFeSe~2~[SeO~3~]O~5~,mP48,14
+_chemical_formula_weight                 421.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal Structures, Thermal Behaviour and IR Spectra of Iron(III) Diselenite Hydrogenselenite and Iron(III) Tris(hydrogenselenite)
+;
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1987
+_journal_volume                          41
+_journal_page_first                      183
+_journal_page_last                       187
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Muilu H.'
+;
+Jyv\"askyl\"a University
+Department of Chemistry
+Jyv\"askyl\"a
+Finland
+;
+'Valkonen J.'
+;
+Jyv\"askyl\"a University
+Department of Chemistry
+Jyv\"askyl\"a
+Finland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.47
+_cell_length_b                           12.668
+_cell_length_c                           10.456
+_cell_angle_alpha                        90
+_cell_angle_beta                         133.82
+_cell_angle_gamma                        90
+_cell_volume                             713.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ O
+ Fe
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 e 0.01011 0.63105 0.43154 1
+ O4 O 4 e 0.0872 0.7945 0.2326 1
+ O1 O 4 e 0.1007 0.0938 0.2656 1
+ Fe1 Fe 4 e 0.13082 0.17671 0.44284 1
+ O6 O 4 e 0.1533 0.6014 0.1139 1
+ O2 O 4 e 0.1572 0.2388 0.118 1
+ Se3 Se 4 e 0.30134 0.49059 0.23232 1
+ O3 O 4 e 0.3059 0.8131 0.0312 1
+ O7 O 4 e 0.3628 0.4334 0.1221 1
+ O8 OH 4 e 0.4028 0.0458 0.0976 1
+ O5 O 4 e 0.4334 0.2444 0.029 1
+ Se2 Se 4 e 0.65803 0.30123 0.05111 1
+
+
+_exptl_crystal_colour                    'green pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.92
+_cell_measurement_temperature            296(1)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              296(1)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2177
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            17.27
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1485
+_refine_ls_R_factor_gt                   0.022
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1000728
+
+

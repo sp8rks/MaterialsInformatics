@@ -1,0 +1,297 @@
+##############################################################################
+#                                                                            #
+# H-O-P-Ti         # H2Ti[PO4]2                                    # 1613759 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1613759
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1613759
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Ti [P O~4~]~2~'
+_chemical_formula_sum                    'H2 O8 P2 Ti'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Ti[PO~4~]~2~,mP44,14
+_chemical_formula_weight                 239.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Determination of Formation Regions of Titanium Phosphates; Determination of the Crystal Structure of \b-Titanium Phosphate, Ti(PO~4~)(H~2~PO~4~), from Neutron Powder Data
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1998
+_journal_volume                          140
+_journal_page_first                      266
+_journal_page_last                       271
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Krogh Andersen A.M.'
+;
+Odense University
+Department of Chemistry
+Odense
+Denmark
+;
+'Norby P.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Chemistry
+Stony Brook
+U.S.A. New York
+;
+'Vogt T.'
+;
+Brookhaven National Laboratory
+Department of Physics
+Upton
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.1392
+_cell_length_b                           6.3126
+_cell_length_c                           18.2732
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.369
+_cell_angle_gamma                        90
+_cell_volume                             592.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Ti
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 4 e 0.0281 0.2448 0.1009 1
+ O2 O 4 e 0.037 0.751 0.2482 1
+ O8 O 4 e 0.1748 0.236 0.4758 1
+ P2 P 4 e 0.2298 0.2631 0.2863 1
+ O7 O 4 e 0.248 0.59 0.069 1
+ O1 O 4 e 0.2527 0.4597 0.3307 1
+ P1 P 4 e 0.2662 0.339 0.0573 1
+ O3 O 4 e 0.2829 0.0708 0.3399 1
+ O4 O 4 e 0.4349 0.2296 0.2284 1
+ O5 O 4 e 0.5201 0.2478 0.0804 1
+ Ti Ti 4 e 0.7364 0.262 0.1664 1
+ H1 H 4 e 0.1068 0.642 0.0658 1
+ H2 H 4 e 0.3124 0.157 0.4374 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.69
+_cell_measurement_temperature            293
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.8857
+_pd_proc_wavelength                      1.8857
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'U.S.A. New York, Brookhaven National Laboratory, HFBR, H1A'                  
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.8857
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 4.5
+_diffrn_reflns_theta_max                 75.5
+_pd_proc_2theta_range_min                9
+_pd_proc_2theta_range_max                151
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Fourier synthesis'
+_refine_ls_number_parameters             93
+_refine_ls_number_reflns                 697
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.029
+_pd_proc_ls_proof_wR_factor              0.038
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 2 0 0 91.489 100
+ 1 1 0 59.712 1
+ 2 1 0 51.962 23
+ 4 0 0 45.712 2
+ 1 0 1 44.912 14
+ -3 0 1 44.691 14
+ 3 1 0 43.863 14
+ -1 1 1 39.867 7
+ 0 1 1 38.982 10
+ 4 1 0 37.037 7
+ 1 1 1 36.608 4
+ 3 0 1 34.285 34
+ -5 0 1 34.052 24
+ 2 1 1 33.449 1
+ -4 1 1 33.287 1
+ 0 2 0 31.599 9
+ 1 2 0 31.12 1
+ 6 0 0 30.473 1
+ 3 1 1 30.132 4
+ -5 1 1 29.967 5
+ 2 2 0 29.82 1
+ 3 2 0 28.026 1
+ 6 1 0 27.442 2
+ -6 1 1 26.881 1
+ 5 0 1 26.292 1
+ 4 2 0 25.973 1
+ -2 0 2 25.729 2
+ -7 1 1 24.145 10
+ -1 1 2 23.623 1
+ 3 2 1 23.219 1
+ -4 1 2 23.027 1
+ 8 0 0 22.848 19
+ 1 1 2 22.228 1
+ 6 1 1 21.903 2
+ -8 1 1 21.784 1
+ 4 2 1 21.717 1
+ 8 1 0 21.482 1
+ 2 1 2 21.169 1
+ 7 0 1 20.934 1
+ -9 0 1 20.829 9
+ 2 3 0 20.51 2
+ 5 2 1 20.2 1
+ -7 2 1 20.132 1
+ 3 1 2 20.019 1
+ -7 1 2 19.907 1
+ 4 0 2 19.712 3
+ -8 0 2 19.59 13
+ 0 2 2 19.487 13
+ -2 3 1 19.365 1
+ 9 1 0 19.333 1
+ 4 3 0 19.121 1
+ 1 3 1 19.066 1
+ -8 1 2 18.708 1
+ -4 3 1 18.524 1
+ 10 0 0 18.277 3
+ 8 1 1 18.135 1
+ -10 1 1 18.057 1
+ -5 3 1 17.91 1
+ 10 1 0 17.557 10
+ -7 2 2 17.453 1
+ -9 2 1 17.383 1
+ 6 3 0 17.317 2
+ 6 0 2 17.134 2
+ -10 0 2 17.022 2
+ 4 2 2 16.72 1
+ 9 1 1 16.644 1
+ -11 1 1 16.582 1
+ 6 1 2 16.535 2
+ -10 1 2 16.432 3
+ -7 3 1 16.393 2
+ -2 3 2 16.284 1
+ 1 0 3 16.079 2
+ -7 0 3 16.013 1
+ 0 4 0 15.791 1
+ 1 4 0 15.728 1
+ 2 4 0 15.56 1
+ 8 3 0 15.477 1
+ 10 1 1 15.364 1
+ -6 3 2 15.318 1
+ 12 0 0 15.228 4
+ 6 2 2 15.058 1
+ 3 0 3 14.979 1
+ 1 4 1 14.888 1
+ -5 2 3 14.848 1
+ -9 3 1 14.803 1
+ 11 2 0 14.699 1
+ 11 0 1 14.628 1
+ 3 1 3 14.572 1
+ 8 1 2 14.538 1
+ -9 1 3 14.496 1
+ -12 1 2 14.453 2
+ 1 2 3 14.331 1
+ 11 1 1 14.249 6
+ -13 1 1 14.199 3
+ 10 2 1 14.158 1
+ 10 3 0 13.798 2
+ 12 2 0 13.718 1
+ 9 1 2 13.662 1
+ 9 3 1 13.344 1
+ -11 3 1 13.31 1
+ -3 3 3 13.291 1
+ -10 3 2 13.234 1
+ -4 0 4 12.854 1
+ -12 1 3 12.785 1
+ -7 3 3 12.743 1
+ 13 0 1 12.669 4
+ -15 0 1 12.629 1
+ -11 2 3 12.538 1
+ -6 1 4 12.465 1
+ 13 1 1 12.422 3
+ -15 1 1 12.385 1
+ -7 1 4 12.318 1
+ -8 4 2 12.288 1
+ 8 3 2 12.183 1
+ 1 5 1 12.156 1
+ -12 3 2 12.132 1
+ 11 3 1 12.009 2
+ -13 3 1 11.983 1
+ 8 1 3 11.758 1
+ -14 1 3 11.685 1
+ 14 1 1 11.668 1
+ 4 5 1 11.629 1
+ -1 4 3 11.524 1
+ -5 4 3 11.511 1
+ -16 1 2 11.418 1
+ 9 1 3 11.237 2
+ 15 0 1 11.166 1
+ -8 5 1 11.089 1
+ 4 1 4 11.057 1
+ 15 1 1 10.994 1
+ 12 4 0 10.959 1
+
+# End of data set 1613759
+
+

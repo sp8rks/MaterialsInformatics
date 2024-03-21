@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# Br-Ga-Te         # Ga2Te2Br7                                     # 1715433 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1715433
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1715433
+
+# Entry summary
+
+_chemical_formula_structural             'Ga~2~ Te~2~ Br~7~'
+_chemical_formula_sum                    'Br7 Ga2 Te2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ga~2~Te~2~Br~7~,mP44,14
+_chemical_formula_weight                 954.0
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis of main group polycations in molten and pseudo-molten GaBr~3~ media'
+_journal_coden_ASTM                      EJICFO
+_journal_name_full                       'Eur. J. Inorg. Chem.'
+_journal_year                            2005
+_journal_volume                          ?
+_journal_page_first                      4907
+_journal_page_last                       4913
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kuznetsov A.N.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Popovkin B.A.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Stahl K.'
+;
+Lyngby Denmark Technical University
+Department of Chemistry
+Lyngby
+Denmark
+;
+'Lindsj\"o M.'
+;
+KTH Royal Institute of Technology
+Department of Inorganic Chemistry
+Stockholm
+Sweden
+;
+'Kloo L.'
+;
+KTH Royal Institute of Technology
+Department of Inorganic Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.16
+_cell_length_b                           10.8314
+_cell_length_c                           13.8922
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.182
+_cell_angle_gamma                        90
+_cell_volume                             1509.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Br
+ Ga
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br3 Br 4 e 0.00715 0.3642 0.10839 1
+ Br4 Br 4 e 0.06981 0.52384 0.37214 1
+ Ga1 Ga 4 e 0.09268 0.18551 0.17834 1
+ Br2 Br 4 e 0.12332 0.18218 0.34675 1
+ Br5 Br 4 e 0.2555 0.74262 0.21527 1
+ Br1 Br 4 e 0.27754 0.11737 0.11909 1
+ Te2 Te 4 e 0.34148 0.44628 0.04191 1
+ Br6 Br 4 e 0.38188 0.42388 0.29073 1
+ Te1 Te 4 e 0.4247 0.03416 0.36955 1
+ Br7 Br 4 e 0.61075 0.17536 0.01587 1
+ Ga2 Ga 4 e 0.71647 0.10308 0.16086 1
+
+
+_exptl_crystal_colour                    violet
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.20
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            81
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker-Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    15537
+_diffrn_reflns_theta_min                 4.63
+_diffrn_reflns_theta_max                 25.02
+_exptl_absorpt_coefficient_mu            25.85
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             100
+_refine_ls_number_reflns                 2142
+_refine_ls_R_factor_gt                   0.052
+_refine_ls_wR_factor_gt                  0.1282
+
+# End of data set 1715433
+
+

@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# K-Mo-Se          # K2Mo3Se18                                     # 1406547 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1406547
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1406547
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Mo~3~ Se~18~'
+_chemical_formula_sum                    'K2 Mo3 Se18'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Mo~3~Se~18~,mP46,4
+_chemical_formula_weight                 1787.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal polychalcogenide chemistry. Stabilization of [Mo~9~Se~40~]^8-^, a cluster of clusters, and [Mo~3~Se~18~]~n~(2n-), a polymeric polyselenide. Novel phases based on trinuclear [Mo~3~Se~7~]^4+^ building blocks
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1992
+_journal_volume                          31
+_journal_page_first                      431
+_journal_page_last                       439
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Liao J.H.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.277
+_cell_length_b                           12.66
+_cell_length_c                           10.624
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.82
+_cell_angle_gamma                        90
+_cell_volume                             1233.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Se
+ K
+ Mo
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se14 Se 2 a 0.0263 0.277 0.1714 1
+ Se17 Se 2 a 0.0389 0.0 0.331 1
+ Se18 Se 2 a 0.0544 0.0394 0.1217 1
+ Se13 Se 2 a 0.0642 0.4628 0.2027 1
+ Se12 Se 2 a 0.0783 0.4983 0.4262 1
+ K2 K 2 a 0.085 0.2365 0.507 1
+ Se10 Se 2 a 0.1269 0.1815 0.8854 1
+ Se15 Se 2 a 0.2169 0.7374 0.466 1
+ K1 K 2 a 0.236 0.7745 0.161 1
+ Se9 Se 2 a 0.2363 0.3408 0.996 1
+ Mo2 Mo 2 a 0.2514 0.1875 0.1609 1
+ Se11 Se 2 a 0.326 0.4917 0.5976 1
+ Se4 Se 2 a 0.3894 0.5211 0.1891 1
+ Se7 Se 2 a 0.3928 0.1445 0.4308 1
+ Se1 Se 2 a 0.3955 0.0356 0.1358 1
+ Se8 Se 2 a 0.4077 0.3154 0.3543 1
+ Se2 Se 2 a 0.41 0.2714 0.7759 1
+ Mo1 Mo 2 a 0.4101 0.1959 0.0096 1
+ Mo3 Mo 2 a 0.554 0.1748 0.3013 1
+ Se5 Se 2 a 0.6006 0.3251 0.1678 1
+ Se3 Se 2 a 0.6081 0.5884 0.2077 1
+ Se6 Se 2 a 0.6909 0.1623 0.1409 1
+ Se16 Se 2 a 0.7375 0.4222 0.519 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.81
+_cell_measurement_temperature            153
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              153
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet P3F'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1824
+_exptl_absorpt_coefficient_mu            26.7
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             207
+_refine_ls_number_reflns                 1382
+_refine_ls_R_factor_gt                   0.052
+_refine_ls_wR_factor_gt                  0.086
+
+# End of data set 1406547
+
+

@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Hg-N-O           # Hg2[NO3]2                                     # 1810904 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1810904
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1810904
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~2~ [N O~3~]~2~'
+_chemical_formula_sum                    'Hg2 N2 O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg~2~[NO~3~]~2~,mP40,4
+_chemical_formula_weight                 525.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Single Crystal Growth and Crystal Structure of Anhydrous Mercury(I) Nitrate, Hg~2~(NO~3~)~2~
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2003
+_journal_volume                          629
+_journal_page_first                      1547
+_journal_page_last                       1552
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Weil M.'
+;
+Vienna Technical University
+Institut f\"ur Chemische Technologie und Analytik
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.2051
+_cell_length_b                           8.3444
+_cell_length_c                           11.7028
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.564
+_cell_angle_gamma                        90
+_cell_volume                             604.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ N
+ O
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N1 N 2 a 0.0017 0.1589 0.9407 1
+ O13 O 2 a 0.0155 0.0549 0.023 1
+ O23 O 2 a 0.0493 0.0 0.2684 1
+ N2 N 2 a 0.0723 0.1318 0.3299 1
+ O22 O 2 a 0.0882 0.7171 0.6649 1
+ O12 O 2 a 0.1738 0.207 0.9016 1
+ Hg1 Hg 2 a 0.17602 0.66314 0.35944 1
+ O11 O 2 a 0.1776 0.7047 0.0966 1
+ Hg2 Hg 2 a 0.1952 0.04868 0.67651 1
+ O21 O 2 a 0.2486 0.158 0.3779 1
+ O31 O 2 a 0.2763 0.3485 0.1443 1
+ O42 O 2 a 0.3407 0.4696 0.5423 1
+ Hg3 Hg 2 a 0.34879 0.01828 0.09032 1
+ N3 N 2 a 0.4597 0.3959 0.1742 1
+ O33 O 2 a 0.4746 0.4801 0.2701 1
+ N4 N 2 a 0.4951 0.3782 0.5544 1
+ O43 O 2 a 0.5025 0.2816 0.6418 1
+ O32 O 2 a 0.6198 0.371 0.1255 1
+ O41 O 2 a 0.6471 0.3738 0.4906 1
+ Hg4 Hg 2 a 0.72142 0.00697 0.18644 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.77
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4290
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30.28
+_exptl_absorpt_coefficient_mu            50.686
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'not specified'
+_refine_ls_number_parameters             182
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0266
+_refine_ls_wR_factor_gt                  0.0553
+
+# End of data set 1810904
+
+

@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Cl-Gd-H-I-O      # HGdI[ClO4]O5[H2O]4                            # 1810887 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1810887
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1810887
+
+# Entry summary
+
+_chemical_formula_structural             'H Gd I [Cl O~4~] O~5~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Cl Gd H9 I O13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HSmI[ClO~4~]O~5~[H~2~O]~4~,mP64,14
+_chemical_formula_weight                 536.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ln~2~(ClO~4~)~2~(H~2~I~2~O~10~).8H~2~O (Ln= Sm, Gd), a Lanthanide Perchlorate Mesodiperiodate forming a Novel Layer Structure
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2003
+_journal_volume                          629
+_journal_page_first                      634
+_journal_page_last                       636
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fischer A.'
+;
+KTH Royal Institute of Technology
+Inorganic Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.803
+_cell_length_b                           7.111
+_cell_length_c                           13.712
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.66
+_cell_angle_gamma                        90
+_cell_volume                             1031.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Gd
+ I
+ OH2
+ Cl
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 e 0.0063 0.8113 0.3444 1
+ Gd1 Gd 4 e 0.01451 0.14371 0.31706 1
+ O5 O 4 e 0.046 0.4666 0.338 1
+ I1 I 4 e 0.06351 0.63802 0.44175 1
+ O7 O 4 e 0.0791 0.6922 0.0419 1
+ O6 O 4 e 0.1046 0.0677 0.0386 1
+ O2 OH2 4 e 0.1858 0.0911 0.4539 1
+ O1 OH2 4 e 0.2082 0.6577 0.2296 1
+ O4 OH2 4 e 0.2159 0.1164 0.2682 1
+ O10 O 4 e 0.3571 0.3317 0.1534 1
+ O9 O 4 e 0.4155 0.2099 0.0136 1
+ Cl1 Cl 4 e 0.4614 0.2646 0.1142 1
+ O11 O 4 e 0.5189 0.1079 0.1692 1
+ O12 O 4 e 0.5511 0.4144 0.1196 1
+ O13 OH2 4 e 0.6206 0.2636 0.391 1
+ O8 O 4 e 0.7654 0.1504 0.0626 1
+ H8 H 4 e 0.696 0.1302 0.0188 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.46
+_cell_measurement_temperature            297
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              297
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker-Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    7501
+_diffrn_reflns_theta_min                 4.5
+_diffrn_reflns_theta_max                 27.51
+_exptl_absorpt_coefficient_mu            9.74
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             135
+_refine_ls_number_reflns                 994
+_refine_ls_R_factor_gt                   0.0290
+_refine_ls_wR_factor_gt                  0.0636
+
+# End of data set 1810887
+
+

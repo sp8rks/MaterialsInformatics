@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# As-H-O-Zr        # H2Zr[AsO4]2[H2O]                              # 1401602 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1401602
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1401602
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Zr [As O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'As2 H4 O9 Zr'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Zr[PO~4~]~2~[H~2~O],mP48,14
+_chemical_formula_weight                 389.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of the ion exchanger zirconium bis(monohydrogen orthoarsenate) monohydrate
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1969
+_journal_volume                          25
+_journal_page_first                      2658
+_journal_page_last                       2662
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Clearfield A.'
+;
+Ohio Athens University
+Department of Chemistry
+Athens
+U.S.A. Ohio
+;
+'Duax W.L.'
+;
+New York Buffalo Medical Foundation
+Department of Electron Diffraction
+Buffalo
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.178
+_cell_length_b                           5.378
+_cell_length_c                           16.55
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.3
+_cell_angle_gamma                        90
+_cell_volume                             761.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ As
+ O
+ OH
+ Zr
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As2 As 4 e 0.0032 0.2425 0.1144 1
+ O5 O 4 e 0.0545 0.0339 0.4047 1
+ O7 OH 4 e 0.1054 0.2432 0.2231 1
+ O4 O 4 e 0.1204 0.1532 0.0646 1
+ O6 O 4 e 0.1485 0.5498 0.4077 1
+ Zr1 Zr 4 e 0.2401 0.2438 0.4857 1
+ O8 O 4 e 0.318 0.5711 0.0592 1
+ O11 O 4 e 0.3731 0.1615 0.4105 1
+ O9 O 4 e 0.4287 0.0532 0.0687 1
+ O10 OH 4 e 0.4848 0.259 0.2871 1
+ As3 As 4 e 0.5316 0.2641 0.3964 1
+ O12 OH2 4 e 0.7459 0.2838 0.2374 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.3
+_exptl_crystal_density_diffrn            3.40
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5418
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          STOE
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5418
+_diffrn_reflns_number                    741
+_exptl_absorpt_coefficient_mu            2.377
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.075
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1401602
+
+

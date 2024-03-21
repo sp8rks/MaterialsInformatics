@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# H-Na-O-Si        # HNa3[SiO4][H2O]                               # 1405930 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1405930
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1405930
+
+# Entry summary
+
+_chemical_formula_structural             'H Na~3~ [Si O~4~] [H~2~ O]'
+_chemical_formula_sum                    'H3 Na3 O5 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HNa~3~[SiO~4~][H~2~O],mP36,14
+_chemical_formula_weight                 180.1
+
+# Bibliographic data
+
+_publ_section_title
+'Structure of Trisodium Hydrogenorthosilicate Monohydrate'                    
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1990
+_journal_volume                          46
+_journal_page_first                      1365
+_journal_page_last                       1368
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Schmid R.L.'
+;
+Constance (Konstanz) University
+Fakult\"at f\"ur Chemie
+Constance (Konstanz)
+Germany
+;
+'Felsche J.'
+;
+Constance (Konstanz) University
+Fakult\"at f\"ur Chemie
+Constance (Konstanz)
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.898
+_cell_length_b                           5.96
+_cell_length_c                           11.142
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.57
+_cell_angle_gamma                        90
+_cell_volume                             505.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Na
+ O
+ Si
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Na3 Na 4 e 0.0228 0.2561 0.0609 1
+ O5 O 4 e 0.0739 0.3471 0.2789 1
+ O3 O 4 e 0.1902 0.5657 0.6086 1
+ O2 O 4 e 0.2306 0.5138 0.0364 1
+ Na1 Na 4 e 0.25 0.0102 0.3342 1
+ Si Si 4 e 0.3093 0.7087 0.1353 1
+ Na2 Na 4 e 0.399 0.1929 0.0667 1
+ O1 O 4 e 0.4902 0.2715 0.3826 1
+ O4 O 4 e 0.6631 0.1359 0.2198 1
+ H51 H 4 e 0.001 0.602 0.684 1
+ H52 H 4 e 0.143 0.466 0.285 1
+ H11 H 4 e 0.447 0.387 0.344 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.25
+_exptl_crystal_density_diffrn            2.37
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka1'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka1'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    1864
+_exptl_absorpt_coefficient_mu            0.63
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             95
+_refine_ls_number_reflns                 758
+_refine_ls_R_factor_gt                   0.019
+_refine_ls_wR_factor_gt                  0.023
+
+# End of data set 1405930
+
+

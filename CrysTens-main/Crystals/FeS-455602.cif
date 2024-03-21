@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# Fe-S             # FeS tro                                       #  455602 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_455602
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      455602
+
+# Entry summary
+
+_chemical_formula_structural             'Fe S'
+_chemical_formula_sum                    'Fe S'
+_chemical_name_mineral                   troilite
+_chemical_compound_source                ?
+_chemical_name_structure_type            FeS,hP24,190
+_chemical_formula_weight                 87.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural Aspects of the \a Transition in Stoichiometric FeS: Identification of the High-Temperature Phase
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1990
+_journal_volume                          84
+_journal_page_first                      194
+_journal_page_last                       210
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Keller Besrest F.'
+;
+Paris V Ren\'e Descartes University
+Paris
+France
+;
+'Collin G.'
+;
+Paris V Ren\'e Descartes University
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.984
+_cell_length_b                           5.984
+_cell_length_c                           11.742
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             364.13
+_cell_formula_units_Z                    12
+_space_group_IT_number                   190
+_space_group_name_H-M_alt                'P -6 2 c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, 1/2+z'
+ 11 'y, x, -z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Fe
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Fe Fe 12 i 0.3761 0.3234 0.1233 1
+ S3 S 6 h 0.0027 0.3349 0.25 1
+ S2 S 4 f 0.333333 0.666667 0.0189 1
+ S1 S 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.81
+_cell_measurement_temperature            414
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              414
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             23
+_refine_ls_number_reflns                 288
+_refine_ls_R_factor_gt                   0.036
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 455602
+
+

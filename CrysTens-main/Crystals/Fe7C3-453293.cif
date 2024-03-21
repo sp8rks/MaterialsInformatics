@@ -1,0 +1,163 @@
+##############################################################################
+#                                                                            #
+# C-Fe             # Fe7C3 m hex                                   #  453293 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_453293
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      453293
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~7~ C~3~'
+_chemical_formula_sum                    'C3 Fe7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Th~7~Fe~3~,hP20,186
+_chemical_formula_weight                 427.0
+
+# Bibliographic data
+
+_publ_section_title
+'Identification of eckstrom-adcock iron carbide as Fe~7~C~3~'                 
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1964
+_journal_volume                          3
+_journal_page_first                      894
+_journal_page_last                       896
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Herbstein F.H.'
+;
+South African Council for Scientific and Industrial Research
+National Physical Research Laboratory
+Pretoria
+South Africa
+;
+'Snyman J.A.'
+;
+South African Council for Scientific and Industrial Research
+National Physical Research Laboratory
+Pretoria
+South Africa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.882
+_cell_length_b                           6.882
+_cell_length_c                           4.54
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             186.22
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C C 6 c 0.187 0.813 0.238 1
+ FeI Fe 6 c 0.5437 0.4563 0.0 1
+ FeII Fe 6 c 0.8781 0.1219 0.318 1
+ FeIII Fe 2 b 0.333333 0.666667 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.61
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Co Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1010'
+_diffrn_radiation_type                   'X-rays, Co Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 22.7 7
+ 1 2 0 22.55 31
+ 0 1 2 21.22 41
+ 1 2 1 20.19 100
+ 3 0 0 19.89 13
+ 1 1 2 18.95 5
+ 3 0 1 18.2 11
+ 0 2 2 18.07 22
+ 2 2 0 17.2 13
+ 4 0 1 14.17 4
+ 0 2 3 13.49 8
+ 3 0 3 12.04 14
+ 3 2 2 11.71 15
+ 5 0 1 11.53 11
+ 3 3 0 11.46 13
+ 0 0 4 11.31 5
+ 1 3 3 11.17 6
+
+# End of data set 453293
+
+

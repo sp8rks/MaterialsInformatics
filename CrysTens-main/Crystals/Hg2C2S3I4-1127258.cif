@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# C-Hg-I-S         # Hg2C2S3I4                                     # 1127258 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1127258
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1127258
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~2~ C~2~ S~3~ I~4~'
+_chemical_formula_sum                    'C2 Hg2 I4 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg~2~C~2~S~3~I~4~,mP44,14
+_chemical_formula_weight                 1029.0
+
+# Bibliographic data
+
+_publ_section_title
+'Two-dimensional polymeric [Hg~4~(\m~2~-I)~6~I~2~(\m~2~-C~4~S~6~)]~n~'        
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2011
+_journal_volume                          67
+_journal_page_first                      m389
+_journal_page_last                       ?
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hameau A.'
+;
+Besancon Franche Comt\'e University
+Institut UTINAM
+Besancon
+France
+;
+'Guyon F.'
+;
+Besancon Franche Comt\'e University
+Institut UTINAM
+Besancon
+France
+;
+'Knorr M.'
+;
+Besancon Franche Comt\'e University
+Institut UTINAM
+Besancon
+France
+;
+'Colquhoun V.P.'
+;
+Dortmund Technical University
+Anorganische Chemie
+Dortmund
+Germany
+;
+'Strohmann C.'
+;
+Dortmund Technical University
+Anorganische Chemie
+Dortmund
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.5502
+_cell_length_b                           11.2156
+_cell_length_c                           13.4634
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.343
+_cell_angle_gamma                        90
+_cell_volume                             1290.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Hg
+ I
+ S
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hg1 Hg 4 e 0.01629 0.22959 0.33365 1
+ I4 I 4 e 0.04344 0.17333 0.07444 1
+ S2 S 4 e 0.0877 0.5032 0.1535 1
+ C2 C 4 e 0.2561 0.5058 0.0924 1
+ Hg2 Hg 4 e 0.27376 0.0303 0.02174 1
+ I1 I 4 e 0.32359 0.22133 0.33985 1
+ S3 S 4 e 0.4013 0.4043 0.1185 1
+ C1 C 4 e 0.5263 0.4542 0.0288 1
+ I3 I 4 e 0.58558 0.10123 0.11662 1
+ S1 S 4 e 0.7076 0.3973 0.0033 1
+ I2 I 4 e 0.75603 0.35525 0.2981 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.30
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            8987
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    24415
+_diffrn_reflns_theta_min                 2.36
+_diffrn_reflns_theta_max                 26
+_exptl_absorpt_coefficient_mu            33.76
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             100
+_refine_ls_number_reflns                 2337
+_refine_ls_R_factor_gt                   0.039
+_refine_ls_wR_factor_gt                  0.111
+
+# End of data set 1127258
+
+

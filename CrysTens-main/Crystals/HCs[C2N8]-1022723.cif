@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# C-Cs-H-N         # HCs[C2N8]                                     # 1022723 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1022723
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1022723
+
+# Entry summary
+
+_chemical_formula_structural             'H Cs [C~2~ N~8~]'
+_chemical_formula_sum                    'C2 Cs H N8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HCs[C~2~N~8~],mP44,7
+_chemical_formula_weight                 270.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and characterisation of 5,5'-bistetrazolate salts with alkali metal, ammonium and imidazolium cations
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2013
+_journal_volume                          639
+_journal_page_first                      1140
+_journal_page_last                       1152
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Finger L.H.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Schr\"oder F.G.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Sundermeyer J.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.6222
+_cell_length_b                           8.6949
+_cell_length_c                           16.2896
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.123
+_cell_angle_gamma                        90
+_cell_volume                             653
+_cell_formula_units_Z                    4
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ Cs
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N12 N 2 a 0.0 0.3142 0.0 1
+ N16 N 2 a 0.026 0.6486 0.3206 1
+ N11 N 2 a 0.056 0.2606 0.0776 1
+ N5 N 2 a 0.073 0.2443 0.5169 1
+ C2 C 2 a 0.09 0.2128 0.4369 1
+ N15 N 2 a 0.0963 0.6615 0.2424 1
+ C3 C 2 a 0.186 0.7615 0.4553 1
+ C4 C 2 a 0.199 0.7425 0.3677 1
+ N10 N 2 a 0.267 0.1575 0.0791 1
+ C1 C 2 a 0.285 0.2922 0.3838 1
+ N4 N 2 a 0.303 0.2606 0.3034 1
+ N14 N 2 a 0.309 0.2382 0.743 1
+ N9 N 2 a 0.3529 0.1414 0.0012 1
+ N13 N 2 a 0.377 0.1854 0.8199 1
+ N1 N 2 a 0.4671 0.4027 0.4115 1
+ N3 N 2 a 0.5041 0.3583 0.2799 1
+ Cs1 Cs 2 a 0.57857 0.52396 0.10261 1
+ N2 N 2 a 0.603 0.4413 0.3445 1
+ N7 N 2 a 0.7783 0.0677 0.477 1
+ Cs2 Cs 2 a 0.78663 0.04197 0.21551 1
+ N6 N 2 a 0.869 0.1476 0.5417 1
+ N8 N 2 a 0.9068 0.1018 0.4091 1
+ H1 H 2 a 0.643 0.007 0.4751 1
+ H2 H 2 a 0.901 0.586 0.3301 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.75
+_cell_measurement_temperature            100(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            3452
+_diffrn_ambient_temperature              100(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3188
+_diffrn_reflns_theta_min                 2.34
+_diffrn_reflns_theta_max                 26.67
+_exptl_absorpt_coefficient_mu            5.611
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             209
+_refine_ls_number_reflns                 2152
+_refine_ls_R_factor_gt                   0.0266
+_refine_ls_wR_factor_gt                  0.0627
+
+# End of data set 1022723
+
+

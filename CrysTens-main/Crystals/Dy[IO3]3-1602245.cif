@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Dy-I-O           # Dy[IO3]3 mon2                                 # 1602245 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1602245
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1602245
+
+# Entry summary
+
+_chemical_formula_structural             'Dy [I O~3~]~3~'
+_chemical_formula_sum                    'Dy I3 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Bi[IO~3~]~3~,mP52,14
+_chemical_formula_weight                 687.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+New iodate materials as potential laser matrices. Preparation and characterisation of \a-M(IO~3~)~3~ (M= Y, Dy) and \b-M(IO~3~)~3~ (M= Y, Ce, Pr, Nd, Eu, Gd, Tb, Dy, Ho, Er). Structural evolution as a function of the Ln^3+^ cationic radius
+;
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2007
+_journal_volume                          9
+_journal_page_first                      496
+_journal_page_last                       505
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Phanon D.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire Louis N\'eel
+Grenoble
+France
+;
+'Mosset A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire Louis N\'eel
+Grenoble
+France
+;
+'Gautier Luneau I.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire Louis N\'eel
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.73
+_cell_length_b                           5.935
+_cell_length_c                           16.4208
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.01
+_cell_angle_gamma                        90
+_cell_volume                             771.03
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ I
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O23 O 4 e 0.061 0.0544 0.1948 1
+ I2 I 4 e 0.07264 0.31102 0.35352 1
+ O22 O 4 e 0.0926 0.6025 0.1712 1
+ O21 O 4 e 0.1095 0.3875 0.4664 1
+ Dy Dy 4 e 0.14418 0.27718 0.10268 1
+ O33 O 4 e 0.3427 0.3182 0.2562 1
+ I1 I 4 e 0.35452 0.64574 0.02112 1
+ O13 O 4 e 0.3521 0.0707 0.4421 1
+ O31 O 4 e 0.3621 0.0073 0.1349 1
+ O12 O 4 e 0.3941 0.47 0.1181 1
+ I3 I 4 e 0.58069 0.09358 0.19814 1
+ O32 O 4 e 0.6566 0.087 0.1119 1
+ O11 O 4 e 0.8723 0.3804 0.0115 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.92
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_wavelength             0.56087
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4F'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.56087
+_diffrn_reflns_number                    11796
+_diffrn_reflns_theta_min                 3.28
+_diffrn_reflns_theta_max                 21.41
+_exptl_absorpt_coefficient_mu            11.6
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             118
+_refine_ls_number_reflns                 1613
+_refine_ls_R_factor_gt                   0.023
+_refine_ls_wR_factor_gt                  0.0359
+
+# End of data set 1602245
+
+

@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Cl-Eu-H-I-O      # HEuI[ClO4]O5[H2O]4                            # 1321957 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1321957
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1321957
+
+# Entry summary
+
+_chemical_formula_structural             'H Eu I [Cl O~4~] O~5~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Cl Eu H9 I O13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HSmI[ClO~4~]O~5~[H~2~O]~4~,mP64,14
+_chemical_formula_weight                 531.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hexaaqua[\m-di-\m-oxo-bis(hydroxodioxoiodate)]dieuropium(III) bis(perchlorate) dihydrate
+;
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2005
+_journal_volume                          61
+_journal_page_first                      i262
+_journal_page_last                       i264
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fischer A.'
+;
+KTH Royal Institute of Technology
+Inorganic Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.8602
+_cell_length_b                           7.1828
+_cell_length_c                           13.7933
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.584
+_cell_angle_gamma                        90
+_cell_volume                             1054.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Eu
+ I
+ OH2
+ Cl
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 e 0.006 0.8106 0.3448 1
+ Eu Eu 4 e 0.01465 0.14236 0.31779 1
+ O5 O 4 e 0.0471 0.4656 0.3387 1
+ I I 4 e 0.06359 0.63666 0.44168 1
+ O7 O 4 e 0.0802 0.6936 0.0415 1
+ O6 O 4 e 0.1038 0.068 0.0384 1
+ O2 OH2 4 e 0.1879 0.0887 0.4546 1
+ O1 OH2 4 e 0.2106 0.6575 0.2297 1
+ O4 OH2 4 e 0.2189 0.1169 0.2683 1
+ O10 O 4 e 0.3571 0.3315 0.1535 1
+ O9 O 4 e 0.4156 0.2121 0.0142 1
+ Cl Cl 4 e 0.46128 0.26539 0.11494 1
+ O11 O 4 e 0.5174 0.1071 0.1684 1
+ O12 O 4 e 0.5523 0.41 0.1198 1
+ O13 OH2 4 e 0.6201 0.2643 0.3916 1
+ O8 O 4 e 0.7659 0.1488 0.0632 1
+ H8 H 4 e 0.7187 0.1741 0.0154 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.35
+_cell_measurement_temperature            299
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_reflns_used            17576
+_diffrn_ambient_temperature              299
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker-Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_reflns_number                    17576
+_exptl_absorpt_coefficient_mu            4.88
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             145
+_refine_ls_number_reflns                 2723
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.077
+
+# End of data set 1321957
+
+

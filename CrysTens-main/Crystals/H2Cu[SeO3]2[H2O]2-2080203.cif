@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-Se        # H2Cu[SeO3]2[H2O]2                             # 2080203 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2080203
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2080203
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Cu [Se O~3~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Cu H6 O8 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Cu[SeO~3~]~2~[H~2~O]~2~,mP22,14
+_chemical_formula_weight                 355.5
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal Structure of Copper Hydrogenselenite Monohydrate'                    
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1985
+_journal_volume                          39
+_journal_page_first                      809
+_journal_page_last                       812
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hiltunen L.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+'Leskel\"a M.'
+;
+Oulu University
+Oulu
+Finland
+;
+'Niinist\"o L.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+'Tammenmaa M.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.28
+_cell_length_b                           6.255
+_cell_length_c                           9.087
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.01
+_cell_angle_gamma                        90
+_cell_volume                             356.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.1004 0.049 0.1988 1
+ O1 O 4 e 0.2012 0.2822 0.4253 1
+ Se Se 4 e 0.2347 0.2717 0.2426 1
+ O3 O 4 e 0.4955 0.1629 0.2511 1
+ O4 O 4 e 0.7224 0.3 0.0251 1
+ Cu Cu 2 a 0 0 0 1
+ H1 H 4 e 0.361 0.693 0.061 1
+ H3 H 4 e 0.558 0.194 0.217 1
+ H2 H 4 e 0.784 0.425 0.064 1
+
+
+_exptl_crystal_colour                    'blue green'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.31
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    1644
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            14.12
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             65
+_refine_ls_number_reflns                 1246
+_refine_ls_R_factor_gt                   0.041
+_refine_ls_wR_factor_gt                  0.038
+
+# End of data set 2080203
+
+

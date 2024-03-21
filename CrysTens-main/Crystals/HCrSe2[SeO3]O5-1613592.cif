@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Cr-H-O-Se        # HCrSe2[SeO3]O5 mon                            # 1613592 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1613592
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1613592
+
+# Entry summary
+
+_chemical_formula_structural             'H Cr Se~2~ [Se O~3~] O~5~'
+_chemical_formula_sum                    'Cr H O8 Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HFeSe~2~[SeO~3~]O~5~,mP48,14
+_chemical_formula_weight                 417.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures and electronic absorption spectra of two modifications of Cr(SeO~2~OH)(Se~2~O~5~)
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1998
+_journal_volume                          135
+_journal_page_first                      70
+_journal_page_last                       77
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wildner M.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+'Andrut M.'
+;
+Geo Forschungs Zentrum Potsdam
+Potsdam
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.381
+_cell_length_b                           12.516
+_cell_length_c                           10.3999
+_cell_angle_alpha                        90
+_cell_angle_beta                         133.733
+_cell_angle_gamma                        90
+_cell_volume                             694.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ O
+ Cr
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se2 Se 4 e 0.00506 0.63221 0.42475 1
+ O2 O 4 e 0.0866 0.795 0.2258 1
+ O3 O 4 e 0.107 0.0933 0.2739 1
+ Cr Cr 4 e 0.12856 0.17788 0.44446 1
+ O6 O 4 e 0.153 0.603 0.1117 1
+ O4 O 4 e 0.1638 0.2411 0.127 1
+ Se3 Se 4 e 0.29875 0.48985 0.23141 1
+ O8 O 4 e 0.3016 0.8125 0.0247 1
+ O5 O 4 e 0.3628 0.4332 0.1208 1
+ O7 O 4 e 0.4008 0.0435 0.0959 1
+ O1 O 4 e 0.4289 0.2437 0.0309 1
+ Se1 Se 4 e 0.65688 0.30235 0.05649 1
+ H H 4 e 0.434 0.091 0.079 1
+
+
+_exptl_crystal_colour                    'green emerald'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.00
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            35
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    5375
+_exptl_absorpt_coefficient_mu            17.38
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             114
+_refine_ls_number_reflns                 1562
+_refine_ls_R_factor_gt                   0.030
+_refine_ls_wR_factor_gt                  0.065
+
+# End of data set 1613592
+
+

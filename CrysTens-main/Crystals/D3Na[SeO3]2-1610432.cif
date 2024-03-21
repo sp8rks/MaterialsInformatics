@@ -1,0 +1,127 @@
+##############################################################################
+#                                                                            #
+# D-Na-O-Se        # D3Na[SeO3]2 rt                                # 1610432 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1610432
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1610432
+
+# Entry summary
+
+_chemical_formula_structural             'D~3~ Na [Se O~3~]~2~'
+_chemical_formula_sum                    'D3 Na O6 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~3~Na[SeO~3~]~2~,mP18,14
+_chemical_formula_weight                 282.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Room-temperature crystal structure of the ferroelectric sodium trideuteroselenite
+;
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1972
+_journal_volume                          17
+_journal_page_first                      432
+_journal_page_last                       438
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mohan Rao J.K.'
+;
+Indian Institute of Science
+Department of Physics
+Bangalore / Karnataka
+India
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.787
+_cell_length_b                           4.844
+_cell_length_c                           11.794
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.4
+_cell_angle_gamma                        90
+_cell_volume                             290.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OD
+ Se
+ Na
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 e 0.145 0.287 0.195 1
+ O1A O 4 e 0.319 0.305 0.446 0.5
+ O1B OD 4 e 0.319 0.305 0.446 0.5
+ Se Se 4 e 0.3372 0.1136 0.3326 1
+ O2 OD 4 e 0.642 0.209 0.356 1
+ Na Na 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.20
+_exptl_crystal_density_diffrn            3.23
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Cu K'
+_cell_measurement_wavelength             1.5418
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          UNICAM
+_diffrn_radiation_type                   'X-rays, Cu K'
+_diffrn_radiation_wavelength             1.5418
+_diffrn_reflns_number                    576
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           cylindrical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 548
+_refine_ls_R_factor_gt                   0.104
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1610432
+
+

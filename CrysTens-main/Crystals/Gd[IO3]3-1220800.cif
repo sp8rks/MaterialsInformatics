@@ -1,0 +1,161 @@
+##############################################################################
+#                                                                            #
+# Gd-I-O           # Gd[IO3]3 mon2                                 # 1220800 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1220800
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1220800
+
+# Entry summary
+
+_chemical_formula_structural             'Gd [I O~3~]~3~'
+_chemical_formula_sum                    'Gd I3 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Bi[IO~3~]~3~,mP52,14
+_chemical_formula_weight                 682.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Magnetism and Raman spectroscopy of the dimeric lanthanide iodates Ln(IO~3~)~3~ (Ln= Gd, Er) and magnetism of Yb(IO~3~)~3~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2008
+_journal_volume                          181
+_journal_page_first                      1867
+_journal_page_last                       1875
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sykora R.E.'
+;
+South Alabama Mobile University
+Department of Chemistry
+Mobile
+U.S.A. Alabama
+;
+'Khalifah P.G.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Chemistry
+Stony Brook
+U.S.A. New York
+;
+'Assefa Z.'
+;
+North Carolina Greensboro Agricultural and Technical College
+Department of Chemistry
+Greensboro
+U.S.A. North Carolina
+;
+'Albrecht Schmitt T.E.'
+;
+Alabama Auburn University
+Department of Chemistry and Biochemistry
+Auburn
+U.S.A. Alabama
+;
+'Haire R.G.'
+;
+Oak Ridge National Laboratory
+Chemical and Analytical Sciences Division
+Oak Ridge
+U.S.A. Tennessee
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.7615
+_cell_length_b                           5.9081
+_cell_length_c                           16.5309
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.761
+_cell_angle_gamma                        90
+_cell_volume                             777.03
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ I
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 O 4 e 0.0607 0.056 0.1992 1
+ I3 I 4 e 0.0719 0.313 0.3518 1
+ O9 O 4 e 0.0937 0.604 0.1709 1
+ O8 O 4 e 0.1012 0.4002 0.4625 1
+ Gd1 Gd 4 e 0.1418 0.2733 0.1009 1
+ O4 O 4 e 0.3427 0.3159 0.2561 1
+ I1 I 4 e 0.3565 0.6432 0.022 1
+ O3 O 4 e 0.3557 0.0794 0.4445 1
+ O6 O 4 e 0.3642 0.0009 0.1335 1
+ O1 O 4 e 0.3983 0.4691 0.1195 1
+ I2 I 4 e 0.5811 0.0928 0.1986 1
+ O5 O 4 e 0.6599 0.0894 0.1134 1
+ O2 O 4 e 0.8696 0.3919 0.0092 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.83
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    7657
+_exptl_absorpt_coefficient_mu            20.479
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             119
+_refine_ls_number_reflns                 1930
+_refine_ls_R_factor_gt                   0.0168
+_refine_ls_wR_factor_gt                  0.0398
+
+# End of data set 1220800
+
+

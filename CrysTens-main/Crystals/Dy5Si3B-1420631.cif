@@ -1,0 +1,209 @@
+##############################################################################
+#                                                                            #
+# B-Dy-Si          # Dy5Si3B                                       # 1420631 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1420631
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1420631
+
+# Entry summary
+
+_chemical_formula_structural             'Dy~5~ Si~3~ B'
+_chemical_formula_sum                    'B Dy5 Si3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuHf~5~Sn~3~,hP18,193
+_chemical_formula_weight                 907.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Mn~5~Si~3~-type host-interstitial boron rare-earth metal silicide compounds RE~5~Si~3~: Crystal structures, physical properties and theoretical considerations
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2006
+_journal_volume                          179
+_journal_page_first                      2310
+_journal_page_last                       2328
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Roger J.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Halet J.F.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Ben Yahia M.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Babizhetskii V.S.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Bauer J.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Cordier S.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Gu\'erin R.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Hiebl K.'
+;
+Vienna University
+Arbeitsgruppe Neue Materialien
+Vienna
+Austria
+;
+'Rocquefelte X.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Saillard J.Y.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.3675
+_cell_length_b                           8.3675
+_cell_length_c                           6.2594
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             379.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   193
+_space_group_name_H-M_alt                'P 63/m c m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, 1/2+z'
+ 6 '-x, -x+y, 1/2-z'
+ 7 '-x, -x+y, z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, -z'
+ 11 '-y, -x, 1/2+z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, -z'
+ 15 'x, x-y, 1/2+z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, 1/2-z'
+ 18 'x-y, -y, z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, 1/2-z'
+ 24 'y, x, z'
+loop_
+ _atom_type_symbol
+ Dy
+ Si
+ B
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Dy2 Dy 6 g 0.2355 0 0.25 1
+ Si Si 6 g 0.6015 0 0.25 1
+ Dy1 Dy 4 d 0.333333 0.666667 0 1
+ B B 2 b 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    6679
+_diffrn_reflns_theta_min                 4.8
+_diffrn_reflns_theta_max                 37.4
+_exptl_absorpt_coefficient_mu            48.98
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             13
+_refine_ls_number_reflns                 352
+_refine_ls_R_factor_gt                   0.020
+_refine_ls_wR_factor_gt                  0.058
+
+# End of data set 1420631
+
+

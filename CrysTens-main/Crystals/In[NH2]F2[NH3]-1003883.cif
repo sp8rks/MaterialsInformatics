@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# F-H-In-N         # In[NH2]F2[NH3]                                # 1003883 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003883
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003883
+
+# Entry summary
+
+_chemical_formula_structural             'In [N H~2~] F~2~ [N H~3~]'
+_chemical_formula_sum                    'F2 H5 In N2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            In[NH~2~]F~2~[NH~3~],mP20,14
+_chemical_formula_weight                 185.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis of new Group III fluoride-ammonia adducts in supercritical ammonia: structures of AlF~3~(NH~3~)~2~ and InF~2~(NH~2~)(NH~3~)
+;
+_journal_coden_ASTM                      ICHAA3
+_journal_name_full                       'Inorg. Chim. Acta'
+_journal_year                            1999
+_journal_volume                          294
+_journal_page_first                      200
+_journal_page_last                       206
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ketchum D.R.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Schimek G.L.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Pennington W.T.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Kolis J.W.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.723
+_cell_length_b                           5.394
+_cell_length_c                           11.0193
+_cell_angle_alpha                        90
+_cell_angle_beta                         128.716
+_cell_angle_gamma                        90
+_cell_volume                             358.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ N
+ In
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 e 0.0216 0.6907 0.0822 1
+ N2 N 4 e 0.1482 0.1823 0.2249 1
+ In1 In 4 e 0.2836 0.4339 0.142 1
+ F2 F 4 e 0.3177 0.6562 0.0033 1
+ N1 N 4 e 0.4839 0.1448 0.148 1
+ H4 H 4 e 0.0016 0.2422 0.1885 1
+ H3 H 4 e 0.0963 0.0461 0.1627 1
+ H5 H 4 e 0.2288 0.1739 0.3116 1
+ H2 H 4 e 0.4009 0.0296 0.0818 1
+ H1 H 4 e 0.543 0.1851 0.1059 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.45
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet R3m/V'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1595
+_exptl_absorpt_coefficient_mu            6.45
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 974
+_refine_ls_R_factor_gt                   0.023
+_refine_ls_wR_factor_gt                  0.031
+
+# End of data set 1003883
+
+

@@ -1,0 +1,181 @@
+##############################################################################
+#                                                                            #
+# Fe-Ga            # Fe3Ga4                                        # 1251707 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1251707
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1251707
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~3~ Ga~4~'
+_chemical_formula_sum                    'Fe3 Ga4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe~3~Ga~4~,mS42,12
+_chemical_formula_weight                 446.4
+
+# Bibliographic data
+
+_publ_section_title
+'Structures cristallines des phases Fe~3~Ga~4~ et Cr~3~Ga~4~'                 
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1975
+_journal_volume                          31
+_journal_page_first                      477
+_journal_page_last                       482
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Philippe M.J.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Malaman B.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie du Solide
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Roques B.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Courtois A.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Protas J.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Vandoeuvre-l\`es-Nancy
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.091
+_cell_length_b                           7.666
+_cell_length_c                           7.866
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.67
+_cell_angle_gamma                        90
+_cell_volume                             582.92
+_cell_formula_units_Z                    6
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ga
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ga3 Ga 8 j 0.1082 0.2966 0.1509 1
+ Ga4 Ga 8 j 0.3520 0.1857 0.4501 1
+ Fe4 Fe 8 j 0.3642 0.2984 0.1521 1
+ Ga2 Ga 4 i 0.0419 0 0.3482 1
+ Fe3 Fe 4 i 0.2237 0 0.6374 1
+ Ga1 Ga 4 i 0.2689 0 0.0844 1
+ Fe2 Fe 4 i 0.4954 0 0.3106 1
+ Fe1 Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              7.58
+_exptl_crystal_density_diffrn            7.63
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius CAD3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    915
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 661
+_refine_ls_R_factor_gt                   0.095
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 3 1 0 29.7 30
+ -3 1 2 27.1 20
+ 2 2 1 26.4 50
+ -2 2 2 25.8 40
+ -4 0 1 25.2 40
+ -1 1 3 24.8 40
+ 1 3 0 24.7 40
+ 4 0 0 24.3 10
+ 1 3 1 23 20
+ -1 3 2 21.4 60
+ -2 2 3 21.2 10
+ -4 2 1 21.06 70
+ 3 1 2 20.91 40
+ -4 0 3 20.5 100
+ -3 3 1 20.27 40
+ 2 0 3 20.16 10
+ 3 3 0 20.04 10
+ 0 4 0 19.19 30
+ -1 1 4 18.97 10
+ 5 1 0 18.77 10
+ 2 2 3 17.82 5
+
+# End of data set 1251707
+
+

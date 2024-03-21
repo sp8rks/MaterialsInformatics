@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Fe-H-O-S         # Fe[SO4][OH][H2O]2 mon                         # 1615532 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1615532
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1615532
+
+# Entry summary
+
+_chemical_formula_structural             'Fe [S O~4~] [O H] [H~2~ O]~2~'
+_chemical_formula_sum                    'Fe H5 O7 S'
+_chemical_name_mineral                   butlerite
+_chemical_compound_source                'U.S.A. Arizona, Jerome'
+_chemical_name_structure_type            Fe[SO~4~][OH][H~2~O]~2~,mP18,11
+_chemical_formula_weight                 204.9
+
+# Bibliographic data
+
+_publ_section_title                      'The crystal structure of butlerite'
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            1971
+_journal_volume                          56
+_journal_page_first                      751
+_journal_page_last                       757
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fanfani L.'
+;
+Perugia University
+Istituto di Mineralogia
+Perugia
+Italy
+;
+'Nunzi A.'
+;
+Perugia University
+Istituto di Mineralogia
+Perugia
+Italy
+;
+'Zanazzi P.F.'
+;
+Perugia University
+Istituto di Mineralogia
+Perugia
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.84
+_cell_length_b                           7.37
+_cell_length_c                           6.5
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.38
+_cell_angle_gamma                        90
+_cell_volume                             265.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ OH2
+ O
+ OH
+ S
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ H2O OH2 4 f 0.2353 0.0133 0.8156 1
+ O1 O 4 f 0.2697 0.5885 0.2476 1
+ OH OH 2 e 0.0886 0.25 0.1023 1
+ O2 O 2 e 0.3902 0.25 0.5441 1
+ S S 2 e 0.647 0.25 0.6191 1
+ O3 O 2 e 0.737 0.25 0.4413 1
+ Fe Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.55
+_exptl_crystal_density_diffrn            2.56
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    366
+_exptl_absorpt_coefficient_mu            26.57
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'Patterson and Fourier synthesis, crystal chemical considerations'            
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.12
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1615532
+
+

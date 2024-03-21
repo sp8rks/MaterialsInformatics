@@ -1,0 +1,163 @@
+##############################################################################
+#                                                                            #
+# Cu-Ge-S-W        # Cu6WGeS8                                      # 1123510 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1123510
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1123510
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~6~ W Ge S~8~'
+_chemical_formula_sum                    'Cu6 Ge S8 W'
+_chemical_name_mineral                   catamarcaite
+_chemical_compound_source
+'Argentina, Catamarca, La Rosario vein, Capillitas mine'                      
+_chemical_name_structure_type            Cu~6~WGeS~8~,hP32,186
+_chemical_formula_weight                 894.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Catamarcaite, Cu~6~GeWS~8~, a new germanium sulfide mineral species from Capillitas, Catamarca, Argentina: description, paragenesis and crystal structure
+;
+_journal_coden_ASTM                      CAMIA6
+_journal_name_full                       'Can. Mineral.'
+_journal_year                            2006
+_journal_volume                          44
+_journal_page_first                      1481
+_journal_page_last                       1497
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Putz H.'
+;
+Salzburg University
+Institut f\"ur Materialwissenschaften
+Salzburg
+Austria
+;
+'Paar W.H.'
+;
+Salzburg University
+Institut f\"ur Materialwissenschaften
+Salzburg
+Austria
+;
+'Topa D.'
+;
+Salzburg University
+Institut f\"ur Materialwissenschaften
+Salzburg
+Austria
+;
+'Makovicky E.'
+;
+Copenhagen University
+Department of Geology
+Copenhagen
+Denmark
+;
+'Roberts A.C.'
+;
+Canada Geological Survey
+Ottawa
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.5238
+_cell_length_b                           7.5238
+_cell_length_c                           12.39
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             607.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Cu
+ W
+ Ge
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 6 c 0.5032 0.4968 0.4892 1
+ Cu2 Cu 6 c 0.5044 0.4956 0.1775 1
+ S3 S 6 c 0.8381 0.1619 0.2407 1
+ Cu1 Cu 6 c 0.8402 0.1598 0.4262 1
+ W W 2 b 0.333333 0.666667 0.0501 1
+ S1 S 2 b 0.333333 0.666667 0.2309 1
+ S4 S 2 a 0 0 0.0 1
+ Ge Ge 2 a 0 0 0.1798 1
+
+
+_exptl_crystal_colour                    gray
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.89
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    9154
+_exptl_absorpt_coefficient_mu            23.48
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             42
+_refine_ls_number_reflns                 616
+_refine_ls_R_factor_gt                   0.0486
+_refine_ls_wR_factor_gt                  0.1127
+
+# End of data set 1123510
+
+

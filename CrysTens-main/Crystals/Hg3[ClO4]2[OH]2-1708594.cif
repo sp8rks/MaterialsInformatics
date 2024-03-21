@@ -1,0 +1,131 @@
+##############################################################################
+#                                                                            #
+# Cl-H-Hg-O        # Hg3[ClO4]2[OH]2                               # 1708594 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1708594
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1708594
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~3~ [Cl O~4~]~2~ [O H]~2~'
+_chemical_formula_sum                    'Cl2 H2 Hg3 O10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg~3~[ClO~4~]~2~[OH]~2~,mS60,15
+_chemical_formula_weight                 834.7
+
+# Bibliographic data
+
+_publ_section_title
+'(Hg~2~)Hg(OH)~2~(ClO~4~)~2~: The First Mixed Valent Mercury Perchlorate'     
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2002
+_journal_volume                          628
+_journal_page_first                      1459
+_journal_page_last                       1460
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wickleder M.S.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           18.477
+_cell_length_b                           4.908
+_cell_length_c                           10.862
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.8
+_cell_angle_gamma                        90
+_cell_volume                             982.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Hg
+ O
+ OH
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hg2 Hg 8 f 0.06742 0.47804 0.01582 1
+ O13 O 8 f 0.0744 0.018 0.177 1
+ O14 O 8 f 0.1135 0.046 0.39 1
+ O1 OH 8 f 0.1841 0.443 0.044 1
+ O11 O 8 f 0.2 0.01 0.24 1
+ Cl Cl 8 f 0.3724 0.4296 0.2293 1
+ O12 O 8 f 0.3755 0.137 0.222 1
+ Hg1 Hg 4 d 0.25 0.25 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.64
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    3343
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 510
+_refine_ls_R_factor_gt                   0.0400
+_refine_ls_wR_factor_gt                  0.0781
+
+# End of data set 1708594
+
+

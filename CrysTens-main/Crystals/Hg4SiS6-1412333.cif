@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# Hg-S-Si          # Hg4SiS6                                       # 1412333 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1412333
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1412333
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~4~ Si S~6~'
+_chemical_formula_sum                    'Hg4 S6 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cd~4~GeS~6~,mS44,9
+_chemical_formula_weight                 1022.8
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of the Hg~4~SiS~6~ and Hg~4~SiSe~6~ compounds'             
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2002
+_journal_volume                          347
+_journal_page_first                      115
+_journal_page_last                       120
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gulay L.D.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Olekseyuk I.D.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+'Parasyuk O.V.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.302
+_cell_length_b                           7.1031
+_cell_length_c                           12.2791
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.721
+_cell_angle_gamma                        90
+_cell_volume                             1010.04
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Si
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S4 S 4 a 0.0 0.004 0.0 1
+ S6 S 4 a 0.008 0.273 0.261 1
+ S2 S 4 a 0.039 0.543 0.035 1
+ Si Si 4 a 0.082 0.239 0.44 1
+ Hg3 Hg 4 a 0.1328 0.0585 0.2059 1
+ S3 S 4 a 0.262 0.276 0.506 1
+ Hg1 Hg 4 a 0.302 0.5925 0.1976 1
+ S1 S 4 a 0.336 0.26 0.196 1
+ Hg2 Hg 4 a 0.3192 0.1224 0.0099 1
+ Hg4 Hg 4 a 0.5085 0.1953 0.3623 1
+ S5 S 4 a 0.71 0.265 0.32 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.73
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54178
+_pd_proc_wavelength                      1.54178
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          DRON-4.13
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54178
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            126.148
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             48
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0900
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.0571
+
+# End of data set 1412333
+
+

@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Co-Dy-Si         # Dy2CoSi2                                      # 1120397 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1120397
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1120397
+
+# Entry summary
+
+_chemical_formula_structural             'Dy~2~ Co Si~2~'
+_chemical_formula_sum                    'Co Dy2 Si2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sc~2~CoSi~2~,mS20,12
+_chemical_formula_weight                 440.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+The structure and magnetism of the new intermetallic compounds R~2~CoSi~2~ (R= Y, Gd, Tb, Dy)
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2004
+_journal_volume                          372
+_journal_page_first                      30
+_journal_page_last                       39
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Merlo F.'
+;
+Genova University
+Dipartimento di Chimica e Chimica Industriale
+Genova
+Italy
+;
+'Pani M.'
+;
+Genova University
+Dipartimento di Chimica e Chimica Industriale
+Genova
+Italy
+;
+'Napoletano M.'
+;
+Genova University
+Dipartimento di Chimica e Chimica Industriale
+Genova
+Italy
+;
+'Canepa F.'
+;
+Genova University
+Dipartimento di Chimica e Chimica Industriale
+Genova
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.395
+_cell_length_b                           4.134
+_cell_length_c                           9.966
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.87
+_cell_angle_gamma                        90
+_cell_volume                             375
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Dy
+ Co
+ Si
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Dy1 Dy 4 i 0.0003 0 0.32727 1
+ Dy2 Dy 4 i 0.18806 0 0.10662 1
+ Co Co 4 i 0.2729 0 0.6264 1
+ Si1 Si 4 i 0.3529 0 0.4351 1
+ Si2 Si 4 i 0.4945 0 0.1234 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.79
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius MACH3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1445
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            44.2
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             31
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.034
+_refine_ls_wR_factor_gt                  0.071
+
+# End of data set 1120397
+
+

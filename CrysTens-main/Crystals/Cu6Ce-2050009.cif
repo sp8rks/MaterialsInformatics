@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# Ce-Cu            # Cu6Ce lt                                      # 2050009 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2050009
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2050009
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~6~ Ce'
+_chemical_formula_sum                    'Ce Cu6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~6~La,mP28,14
+_chemical_formula_weight                 521.4
+
+# Bibliographic data
+
+_publ_section_title
+'Neutron Diffraction Study on the Low-Temperature Monoclinic Form of CeCu~6~' 
+_journal_coden_ASTM                      JUPSAU
+_journal_name_full                       'J. Phys. Soc. Jpn.'
+_journal_year                            1986
+_journal_volume                          55
+_journal_page_first                      454
+_journal_page_last                       456
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Asano H.'
+;
+Tsukuba Ibaraki University
+Institute of Materials Science
+Tsukuba / Ibaraki
+Japan
+;
+'Umino M.'
+;
+Tsukuba Ibaraki University
+Institute of Materials Science
+Tsukuba / Ibaraki
+Japan
+;
+'Onuki Y.'
+;
+Tsukuba Ibaraki University
+Institute of Materials Science
+Tsukuba / Ibaraki
+Japan
+;
+'Komatsubara T.'
+;
+Tsukuba Ibaraki University
+Institute of Materials Science
+Tsukuba / Ibaraki
+Japan
+;
+'Izumi F.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Watanabe N.'
+;
+National Laboratory of High Energy Physics
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.08
+_cell_length_b                           10.121
+_cell_length_c                           8.067
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.36
+_cell_angle_gamma                        90
+_cell_volume                             414.65
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cu
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu2 Cu 4 e 0.003 0.308 0.068 1
+ Ce Ce 4 e 0.243 0.064 0.242 1
+ Cu4 Cu 4 e 0.247 0.757 0.181 1
+ Cu6 Cu 4 e 0.252 0.517 0.1 1
+ Cu3 Cu 4 e 0.258 0.36 0.354 1
+ Cu1 Cu 4 e 0.492 0.312 0.063 1
+ Cu5 Cu 4 e 0.73 0.094 0.062 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.35
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              65
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Japan, Tsukuba, High Energy Accelerator Research Organization (KEK), KENS, HRP
+;
+_diffrn_radiation_type                   'neutrons, time-of-flight'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1979
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.067
+_pd_proc_ls_proof_wR_factor              0.051
+_refine_ls_R_I_factor                    0.038
+
+# End of data set 2050009
+
+

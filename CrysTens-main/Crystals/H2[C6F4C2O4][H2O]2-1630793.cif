@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# C-F-H-O          # H2[C6F4C2O4][H2O]2                            # 1630793 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1630793
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1630793
+
+# Entry summary
+
+_chemical_formula_structural
+'H~2~ [C~6~ F~4~ C~2~ O~4~] [H~2~ O]~2~'                                      
+_chemical_formula_sum                    'C8 F4 H6 O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~2~[C~6~F~4~C~2~O~4~][H~2~O]~2~,mP36,14                                      
+_chemical_formula_weight                 274.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Optimized synthesis of tetrafluoroterephthalic acid: A versatile linking ligand for the construction of new coordination polymers and metal-organic frameworks
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2010
+_journal_volume                          49
+_journal_page_first                      9350
+_journal_page_last                       9357
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Orthaber A.'
+;
+Graz Karl Franzen University
+Institut f\"ur Anorganische Chemie
+Graz
+Austria
+;
+'Seidel C.'
+;
+Cologne (K\"oln) University
+Department of Chemistry
+Cologne (K\"oln)
+Germany
+;
+'Belaj F.'
+;
+Graz Karl Franzen University
+Institut f\"ur Anorganische Chemie
+Graz
+Austria
+;
+'Albering J.H.'
+;
+Graz Technical University
+Institute of Chemistry and Technology of Materials
+Graz
+Austria
+;
+'Pietschnig R.'
+;
+Graz Karl Franzen University
+Institut f\"ur Anorganische Chemie
+Graz
+Austria
+;
+'Ruschewitz U.'
+;
+Cologne (K\"oln) University
+Department of Chemistry
+Cologne (K\"oln)
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.5206
+_cell_length_b                           7.991
+_cell_length_c                           7.2845
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.739
+_cell_angle_gamma                        90
+_cell_volume                             488.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ F
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C3 C 4 e 0.04372 0.05012 0.1822 1
+ F3 F 4 e 0.09338 0.09567 0.35971 1
+ C1 C 4 e 0.11669 0.51694 0.38284 1
+ C2 C 4 e 0.15687 0.03232 0.06795 1
+ O2 O 4 e 0.224 0.65489 0.14715 1
+ C4 C 4 e 0.24196 0.52764 0.26089 1
+ F2 F 4 e 0.30974 0.05777 0.14328 1
+ O1 O 4 e 0.34757 0.42339 0.27084 1
+ O3 O 4 e 0.53912 0.29594 0.01595 1
+ H2 H 4 e 0.315 0.666 0.088 1
+ H32 H 4 e 0.459 0.272 0.446 1
+ H31 H 4 e 0.484 0.362 0.092 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.86
+_cell_measurement_temperature            95
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            67
+_diffrn_ambient_temperature              95
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI 4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    2758
+_diffrn_reflns_theta_min                 3.52
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            0.203
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             94
+_refine_ls_number_reflns                 1314
+_refine_ls_R_factor_gt                   0.0350
+_refine_ls_wR_factor_gt                  0.0883
+
+# End of data set 1630793
+
+

@@ -1,0 +1,161 @@
+##############################################################################
+#                                                                            #
+# Cl-Dy-Mo-O       # Dy[MoO4]Cl                                    # 1822543 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1822543
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1822543
+
+# Entry summary
+
+_chemical_formula_structural             'Dy [Mo O~4~] Cl'
+_chemical_formula_sum                    'Cl Dy Mo O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Gd[WO~4~]Cl,mS28,12
+_chemical_formula_weight                 357.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Chloride derivatives of lanthanide ortho-oxomolybdates: 1. Structural comparison, magnetic properties, and luminescence of the LnCl[MoO~4~] representatives with the smaller lanthanides (Ln= Sm-Lu)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2009
+_journal_volume                          635
+_journal_page_first                      966
+_journal_page_last                       975
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hartenbach I.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Strobel S.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Kr\"amer K.W.'
+;
+Bern University
+Institut f\"ur Chemie und Biochemie
+Bern
+Switzerland
+;
+'Dorhout P.K.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.2199
+_cell_length_b                           7.2367
+_cell_length_c                           6.8322
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.057
+_cell_angle_gamma                        90
+_cell_volume                             483.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ Dy
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.3019 0.3118 0.346 1
+ O2 O 4 i 0.041 0 0.2961 1
+ Mo Mo 4 i 0.13691 0 0.76915 1
+ O1 O 4 i 0.2046 0 0.034 1
+ Dy Dy 4 i 0.27931 0 0.38996 1
+ Cl Cl 4 i 0.50998 0 0.2621 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.92
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    6186
+_diffrn_reflns_theta_min                 3.12
+_diffrn_reflns_theta_max                 28.16
+_exptl_absorpt_coefficient_mu            18.39
+_exptl_absorpt_correction_type           numerical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 599
+_refine_ls_R_factor_gt                   0.020
+_refine_ls_wR_factor_gt                  0.041
+
+# End of data set 1822543
+
+

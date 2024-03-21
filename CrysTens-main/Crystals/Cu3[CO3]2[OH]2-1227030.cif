@@ -1,0 +1,190 @@
+##############################################################################
+#                                                                            #
+# C-Cu-H-O         # Cu3[CO3]2[OH]2                                # 1227030 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1227030
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1227030
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~3~ [C O~3~]~2~ [O H]~2~'
+_chemical_formula_sum                    'C2 Cu3 H2 O8'
+_chemical_name_mineral                   azurite
+_chemical_compound_source                unknown
+_chemical_name_structure_type            Cu~3~[CO~3~]~2~[OH]~2~-c,mP26,14
+_chemical_formula_weight                 344.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Magnetic and crystal structure of azurite Cu~3~(CO~3~)~2~(OH)~2~ as determined by neutron diffraction
+;
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            2011
+_journal_volume                          83
+_journal_page_first                      1
+_journal_page_last                       8
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rule K.C.'
+;
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Lang M.'
+;
+Frankfurt Johann Wolfgang Goethe University
+Frankfurt am Main
+Germany
+;
+'Reehuis M.'
+;
+Hahn Meitner Institute
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Gibson M.C.R.'
+;
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Ouladdiaf B.'
+;
+Grenoble Laue-Langevin Institute
+Institut Laue Langevin
+Grenoble
+France
+;
+'Gutmann M.J.'
+;
+Rutherford Appleton Laboratory (STFC)
+ISIS Facility
+Chilton-Didcot
+United Kingdom
+;
+'Hoffmann J.U.'
+;
+Berlin Neutron Scattering Center
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Gerischer S.'
+;
+Helmholtz-Zentrum Berlin f\"ur Materialien und Energie GmbH
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Tennant D.A.'
+;
+Hahn Meitner Institute
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'S\"ullow S.'
+;
+Braunschweig Technical University
+Institut f\"ur Physik der Kondensierten Materie
+Braunschweig
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.9999
+_cell_length_b                           5.8226
+_cell_length_c                           10.3372
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.21
+_cell_angle_gamma                        90
+_cell_volume                             300.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ C
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 e 0.0497 0.2907 0.0821 1
+ O4 O 4 e 0.0683 0.2054 0.2928 1
+ C C 4 e 0.1697 0.2008 0.1822 1
+ Cu2 Cu 4 e 0.2484 0.0023 0.4166 1
+ O1 O 4 e 0.3984 0.1008 0.1691 1
+ O2 O 4 e 0.5743 0.1881 0.445 1
+ Cu1 Cu 2 b 0.5 0 0 1
+ H H 4 e 0.3167 0.7004 0.1314 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.81
+_cell_measurement_temperature            1.28
+_cell_measurement_radiation              'neutrons, time-of-flight'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              0.200
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D10'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.26
+_diffrn_reflns_number                    1771
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.089
+_refine_ls_wR_factor_gt                  0.110
+
+# End of data set 1227030
+
+

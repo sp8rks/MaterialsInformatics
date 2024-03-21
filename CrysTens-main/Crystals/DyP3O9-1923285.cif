@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Dy-O-P           # DyP3O9 rt                                     # 1923285 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1923285
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1923285
+
+# Entry summary
+
+_chemical_formula_structural             'Dy P~3~ O~9~'
+_chemical_formula_sum                    'Dy O9 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            ScP~3~O~9~,mS52,9
+_chemical_formula_weight                 399.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures of incommensurately modulated Ln(PO~3~)~3~ (Ln= Tb-Yb) and commensurate Gd(PO~3~)~3~ and Lu(PO~3~)~3~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2007
+_journal_volume                          46
+_journal_page_first                      3467
+_journal_page_last                       3474
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'H\"oppe H.A.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'Sedlmaier S.J.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.174
+_cell_length_b                           6.7096
+_cell_length_c                           10.095
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.62
+_cell_angle_gamma                        90
+_cell_volume                             760.44
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P2 P 4 a 0.0 0.5845 0.0 1
+ O23 O 4 a -0.0012 0.267 0.3803 1
+ P3 P 4 a 0.0965 0.0978 0.4164 1
+ O201 O 4 a 0.0981 0.47 0.1058 1
+ O301 O 4 a 0.1335 0.029 0.0578 1
+ O302 O 4 a 0.1957 0.178 0.4088 1
+ Dy1 Dy 4 a 0.2468 0.251 0.2528 1
+ O101 O 4 a 0.3299 0.34 0.1308 1
+ O102 O 4 a 0.3692 0.478 0.4625 1
+ O202 O 4 a 0.3851 0.013 0.367 1
+ P1 P 4 a 0.407 0.3952 0.0988 1
+ O12 O 4 a 0.4537 0.205 0.0795 1
+ O31 O 4 a 0.528 0.476 0.2618 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.49
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    22845
+_diffrn_reflns_theta_min                 2.65
+_diffrn_reflns_theta_max                 30.05
+_exptl_absorpt_coefficient_mu            10.48
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             196
+_refine_ls_number_reflns                 1868
+_refine_ls_R_factor_gt                   0.057
+_refine_ls_wR_factor_gt                  0.071
+
+# End of data set 1923285
+
+

@@ -1,0 +1,194 @@
+##############################################################################
+#                                                                            #
+# C-H-Hg-K-N-O-Pt  # K2HgPt[CN]6[H2O]2                             # 1420154 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1420154
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1420154
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Hg Pt [C N]~6~ [H~2~ O]~2~'
+_chemical_formula_sum                    'C6 H4 Hg K2 N6 O2 Pt'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~HgPt[CN]~6~[H~2~O]~2~,mP36,14
+_chemical_formula_weight                 666.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Metal-metal bond or isolated metal centers? Interaction of Hg(CN)~2~ with square planar transition metal cyanides
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2005
+_journal_volume                          44
+_journal_page_first                      9643
+_journal_page_last                       9651
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Joszai R.'
+;
+Debrecen University
+Department of Inorganic and Analytical Chemistry
+Debrecen
+Hungary
+;
+'Beszeda I.'
+;
+Debrecen University
+Department of Solid State Physics
+Debrecen
+Hungary
+;
+'B\'enyei A.C.'
+;
+Debrecen University
+Department of Chemistry
+Debrecen
+Hungary
+;
+'Fischer A.'
+;
+KTH Royal Institute of Technology
+Inorganic Chemistry
+Stockholm
+Sweden
+;
+'Kovacs M.'
+;
+Veszprem Pannonia University
+Department of General and Inorganic Chemistry
+Veszprem
+Hungary
+;
+'Maliarik M.'
+;
+Link\"oping University
+Department of Physics, Chemistry and Biology
+Link\"oping
+Sweden
+;
+'Nagy P.'
+;
+Debrecen University
+Department of Inorganic and Analytical Chemistry
+Debrecen
+Hungary
+;
+'Shchukarev S.A.'
+;
+Umea University
+Department of Chemistry, Inorganic Chemistry
+Umea
+Sweden
+;
+'Toth I.'
+;
+Debrecen University
+Department of Inorganic and Analytical Chemistry
+Debrecen
+Hungary
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.988
+_cell_length_b                           6.9208
+_cell_length_c                           11.2143
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.
+_cell_angle_gamma                        90
+_cell_volume                             713.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ K
+ O
+ Pt
+ Hg
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C2 C 4 e 0.0579 0.0459 0.3526 1
+ N2 N 4 e 0.096 0.0706 0.2685 1
+ C1 C 4 e 0.2073 0.5281 0.1164 1
+ C3 C 4 e 0.211 0.0242 0.0254 1
+ N1 N 4 e 0.3278 0.5455 0.1832 1
+ N3 N 4 e 0.3293 0.0452 0.0426 1
+ K1 K 4 e 0.4318 0.23 0.3608 1
+ O1 O 4 e 0.6177 0.3445 0.1144 1
+ Pt1 Pt 2 c 0 0 0.5 1
+ Hg1 Hg 2 a 0 0 0 1
+ H2O1 H 4 e 0.528 0.372 0.083 1
+ H1O1 H 4 e 0.709 0.352 0.133 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.10
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius MACH3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1594
+_diffrn_reflns_theta_min                 2.46
+_diffrn_reflns_theta_max                 29.9
+_exptl_absorpt_coefficient_mu            21.12
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             92
+_refine_ls_number_reflns                 1594
+_refine_ls_R_factor_gt                   0.0224
+_refine_ls_wR_factor_gt                  0.0935
+
+# End of data set 1420154
+
+

@@ -1,0 +1,175 @@
+##############################################################################
+#                                                                            #
+# Dy-Ni-O          # DyNiO3 rt                                     # 1627575 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1627575
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1627575
+
+# Entry summary
+
+_chemical_formula_structural             'Dy Ni O~3~'
+_chemical_formula_sum                    'Dy Ni O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HoNiO~3~,mP20,14
+_chemical_formula_weight                 269.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+On the evolution of the DyNiO~3~ perovskite across the metal-insulator transition though neutron diffraction and M\"ossbauer spectroscopy studies
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2008
+_journal_volume                          ?
+_journal_page_first                      6584
+_journal_page_last                       6592
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Alonso J.A.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales
+Madrid
+Spain
+;
+'Martinez Lope M.J.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales
+Madrid
+Spain
+;
+'Demazeau G.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Fernandez Diaz M.T.'
+;
+Grenoble Laue-Langevin Institute
+Grenoble
+France
+;
+'Presniakov I.A.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Rusakov V.S.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Gubaidulina T.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Sobolev A.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.2063
+_cell_length_b                           5.5056
+_cell_length_c                           9.0828
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.941
+_cell_angle_gamma                        90
+_cell_volume                             213.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Dy
+ Ni
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.1488 0.027 0.247 1
+ O3 O 4 e 0.231 0.707 0.042 1
+ Dy Dy 4 e 0.2662 0.4305 0.2485 1
+ O2 O 4 e 0.353 0.189 0.058 1
+ Ni1 Ni 2 d 0.5 0 0.5 1
+ Ni2 Ni 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.38
+_cell_measurement_temperature            295
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.594
+_pd_proc_wavelength                      1.594
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D2B'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.594
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0207
+_pd_proc_ls_proof_wR_factor              0.0256
+_refine_ls_R_I_factor                    0.0626
+
+# End of data set 1627575
+
+

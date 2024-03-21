@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# As-F-H-K-O-Sb    # HKSb[AsO4]F2                                  # 1707010 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1707010
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1707010
+
+# Entry summary
+
+_chemical_formula_structural             'H K Sb [As O~4~] F~2~'
+_chemical_formula_sum                    'As F2 K O4 Sb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HKSb[AsO~4~]F~2~,mP36,14
+_chemical_formula_weight                 338.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Antimon(III) compounds with SbF~n~O~m~ coordination spheres. Crystal structures of K(SbF~2~)HAsO~4~, NH~4~(SbF~2~)HAsO~4~ and Sb~3~O~2~F~5~
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1989
+_journal_volume                          578
+_journal_page_first                      133
+_journal_page_last                       142
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Holz K.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Mattes R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.265
+_cell_length_b                           7.261
+_cell_length_c                           11.073
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.1
+_cell_angle_gamma                        90
+_cell_volume                             573.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ Sb
+ O
+ K
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F2 F 4 e 0.0512 0.1852 0.4067 1
+ Sb Sb 4 e 0.186 0.4033 0.3589 1
+ O1 O 4 e 0.2239 0.2593 0.1951 1
+ O4 O 4 e 0.2384 0.5278 0.5387 1
+ K K 4 e 0.2619 0.5758 0.0338 1
+ As As 4 e 0.3341 0.0613 0.1757 1
+ F1 F 4 e 0.4025 0.2544 0.4327 1
+ O3 O 4 e 0.5688 0.0883 0.1984 1
+ O2 O 4 e 0.714 0.4102 0.2146 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.82
+_exptl_crystal_density_diffrn            3.93
+_cell_measurement_temperature            140
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              140
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            11.61
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             82
+_refine_ls_number_reflns                 1160
+_refine_ls_R_factor_gt                   0.022
+_refine_ls_wR_factor_gt                  0.026
+
+# End of data set 1707010
+
+

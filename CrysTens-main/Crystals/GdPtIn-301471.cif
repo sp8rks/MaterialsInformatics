@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Gd-In-Pt         # GdPtIn                                        #  301471 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_301471
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      301471
+
+# Entry summary
+
+_chemical_formula_structural             'Gd Pt In'
+_chemical_formula_sum                    'Gd In Pt'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            ZrNiAl,hP9,189
+_chemical_formula_weight                 467.2
+
+# Bibliographic data
+
+_publ_section_title
+'On Some Ternary Alloys of the Rare Earths Having the Fe~2~P-Type Structure'  
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1974
+_journal_volume                          410
+_journal_page_first                      219
+_journal_page_last                       224
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ferro R.'
+;
+Genova University
+Istituto di Chimica Generale e Inorganica
+Genova
+Italy
+;
+'Marazza R.'
+;
+Genova University
+Istituto di Chimica Generale e Inorganica
+Genova
+Italy
+;
+'Rambaldi G.'
+;
+Genova University
+Istituto di Chimica Generale e Inorganica
+Genova
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.573
+_cell_length_b                           7.573
+_cell_length_c                           3.917
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             194.5
+_cell_formula_units_Z                    3
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ In
+ Gd
+ Pt
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ In In 3 g 0.245 0 0.5 1
+ Gd Gd 3 f 0.585 0 0 1
+ Pt1 Pt 2 d 0.333333 0.666667 0.5 1
+ Pt2 Pt 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    gray
+_exptl_crystal_density_meas              11.74
+_exptl_crystal_density_diffrn            11.96
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka, Fe Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Straumanis film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka, Fe Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 301471
+
+

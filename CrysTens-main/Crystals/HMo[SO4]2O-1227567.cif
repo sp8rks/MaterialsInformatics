@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# H-Mo-O-S         # HMo[SO4]2O                                    # 1227567 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1227567
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1227567
+
+# Entry summary
+
+_chemical_formula_structural             'H Mo [S O~4~]~2~ O'
+_chemical_formula_sum                    'H Mo O9 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HMo[SO~4~]~2~O,mP48,14
+_chemical_formula_weight                 305.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Stabilizing low-valent refractory metals in a strongly oxidizing medium: The first molybdenum(V) sulfate - MoO(HSO~4~)(SO~4~) - from Mo(CO)~6~ in oleum
+;
+_journal_coden_ASTM                      CEUJED
+_journal_name_full                       'Chem. Eur. J.'
+_journal_year                            2011
+_journal_volume                          17
+_journal_page_first                      8538
+_journal_page_last                       8541
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Betke U.'
+;
+Oldenburg Karl von Ossietzky University
+Institute of Pure and Applied Chemistry
+Oldenburg
+Germany
+;
+'Neuschulz K.'
+;
+Oldenburg Karl von Ossietzky University
+Institute of Pure and Applied Chemistry
+Oldenburg
+Germany
+;
+'Wickleder M.S.'
+;
+Oldenburg Karl von Ossietzky University
+Institute of Pure and Applied Chemistry
+Oldenburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.2814
+_cell_length_b                           8.5572
+_cell_length_c                           8.8589
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.97
+_cell_angle_gamma                        90
+_cell_volume                             627.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ Mo
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O31 O 4 e 0.0117 0.1667 0.0412 1
+ O11 O 4 e 0.0761 0.5859 0.1582 1
+ S3 S 4 e 0.172 0.3139 0.4916 1
+ O32 O 4 e 0.1948 0.3447 0.3289 1
+ O33 O 4 e 0.2361 0.3478 0.0103 1
+ Mo1 Mo 4 e 0.2573 0.5107 0.1757 1
+ O34 O 4 e 0.2923 0.0814 0.0738 1
+ O24 O 4 e 0.3684 0.649 0.0232 1
+ O22 O 4 e 0.4937 0.3892 0.2096 1
+ S2 S 4 e 0.6415 0.3284 0.1448 1
+ O23 O 4 e 0.6471 0.1543 0.1637 1
+ O21 O 4 e 0.7842 0.3992 0.2111 1
+ H1 H 4 e 0.248 0.033 0.128 1
+
+
+_exptl_crystal_colour                    'blue dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.23
+_cell_measurement_temperature            153(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              153(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS KAPPA APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    10388
+_diffrn_reflns_theta_min                 3.31
+_diffrn_reflns_theta_max                 30.06
+_exptl_absorpt_coefficient_mu            2.777
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             112
+_refine_ls_number_reflns                 1832
+_refine_ls_R_factor_gt                   0.0225
+_refine_ls_wR_factor_gt                  0.0481
+
+# End of data set 1227567
+
+

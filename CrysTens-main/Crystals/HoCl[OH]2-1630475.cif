@@ -1,0 +1,171 @@
+##############################################################################
+#                                                                            #
+# Cl-H-Ho-O        # HoCl[OH]2 rt                                  # 1630475 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1630475
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1630475
+
+# Entry summary
+
+_chemical_formula_structural             'Ho Cl [O H]~2~'
+_chemical_formula_sum                    'Cl H2 Ho O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            YCl[OH]~2~,mP8,11
+_chemical_formula_weight                 234.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Investigation of the structural properties of an extended series of lanthanide bis-hydroxychlorides Ln(OH)~2~Cl (Ln= Nd-Lu, except Pm and Sm)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2010
+_journal_volume                          49
+_journal_page_first                      4781
+_journal_page_last                       4790
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zehnder R.A.'
+;
+Louisiana Monroe University
+Department of Chemistry
+Monroe
+U.S.A. Louisiana
+;
+'Clark D.L.'
+;
+Los Alamos National Laboratory
+Glenn T. Seaborg Institute for Transactinium Science
+Los Alamos
+U.S.A. New Mexico
+;
+'Scott B.L.'
+;
+Los Alamos National Laboratory
+Chemistry Division
+Los Alamos
+U.S.A. New Mexico
+;
+'Donohoe R.J.'
+;
+Los Alamos National Laboratory
+Bioscience Division
+Los Alamos
+U.S.A. New Mexico
+;
+'Palmer P.D.'
+;
+Los Alamos National Laboratory
+Chemistry Division
+Los Alamos
+U.S.A. New Mexico
+;
+'Runde W.H.'
+;
+Los Alamos National Laboratory
+Chemistry Division
+Los Alamos
+U.S.A. New Mexico
+;
+'Hobart D.E.'
+;
+Los Alamos National Laboratory
+Chemistry Division
+Los Alamos
+U.S.A. New Mexico
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.2134
+_cell_length_b                           3.6224
+_cell_length_c                           6.616
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.051
+_cell_angle_gamma                        90
+_cell_volume                             142.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cl
+ O
+ Ho
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 2 e 0.267 0.25 0.0717 1
+ O1 O 2 e 0.3954 0.25 0.5899 1
+ Ho1 Ho 2 e 0.78667 0.25 0.61399 1
+ O2 O 2 e 0.9502 0.25 0.337 1
+ H1 H 2 e 0.3724 0.25 0.7302 1
+ H2 H 2 e 0.8389 0.25 0.197 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.47
+_cell_measurement_temperature            140
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              140
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8 SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1508
+_diffrn_reflns_theta_min                 3.22
+_diffrn_reflns_theta_max                 28.54
+_exptl_absorpt_coefficient_mu            28.440
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             25
+_refine_ls_number_reflns                 377
+_refine_ls_R_factor_gt                   0.0157
+_refine_ls_wR_factor_gt                  0.0476
+
+# End of data set 1630475
+
+

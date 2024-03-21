@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# B-Br-C-Gd        # Gd4BC2Br3                                     # 1711487 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1711487
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1711487
+
+# Entry summary
+
+_chemical_formula_structural             'Gd~4~ B C~2~ Br~3~'
+_chemical_formula_sum                    'B Br3 C2 Gd4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Gd~4~BC~2~Br~3~,mP20,11
+_chemical_formula_weight                 903.5
+
+# Bibliographic data
+
+_publ_section_title
+'Bromide von Seltenerdmetallboridcarbiden - ein Baukastensystem'              
+_journal_coden_ASTM                      ANCEAD
+_journal_name_full                       'Angew. Chem.'
+_journal_year                            1995
+_journal_volume                          107
+_journal_page_first                      1764
+_journal_page_last                       1766
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mattausch H.J.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Simon A.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.547
+_cell_length_b                           3.693
+_cell_length_c                           12.445
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.68
+_cell_angle_gamma                        90
+_cell_volume                             420.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Br
+ Gd
+ C
+ B
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br1 Br 2 e 0.0314 0.25 0.6322 1
+ Br3 Br 2 e 0.2136 0.25 0.2238 1
+ Gd4 Gd 2 e 0.2406 0.25 0.4793 1
+ Gd1 Gd 2 e 0.3734 0.25 0.0404 1
+ C1 C 2 e 0.4509 0.25 0.867 1
+ B1 B 2 e 0.4647 0.25 0.5217 1
+ Gd2 Gd 2 e 0.5435 0.25 0.6942 1
+ C2 C 2 e 0.6296 0.25 0.3951 1
+ Gd3 Gd 2 e 0.7187 0.25 0.2336 1
+ Br2 Br 2 e 0.8642 0.25 0.0557 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.14
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2775
+_refine_ls_R_factor_gt                   0.053
+_refine_ls_wR_factor_gt                  0.113
+
+# End of data set 1711487
+
+

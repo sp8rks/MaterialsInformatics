@@ -1,0 +1,188 @@
+##############################################################################
+#                                                                            #
+# Cu-Ge-Nd-O       # CuNd2[GeO4]2                                  # 1101709 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1101709
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1101709
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Nd~2~ [Ge O~4~]~2~'
+_chemical_formula_sum                    'Cu Ge2 Nd2 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuNd~2~[GeO~4~]~2~,mS52,8
+_chemical_formula_weight                 625.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+CuNd~2~Ge~2~O~8~: Crystal Growth, Crystal Structure, and Magnetic and Spectroscopic Properties
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1995
+_journal_volume                          120
+_journal_page_first                      254
+_journal_page_last                       259
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Campa J.A.'
+;
+Madrid Complutense University
+Facultad de Ciencias Geologicas
+Madrid
+Spain
+;
+'Guti\'errez Puebla E.'
+;
+Madrid Complutense University
+Departamento de Cristallografia
+Madrid
+Spain
+;
+'Monge M.A.'
+;
+Madrid Complutense University
+Departamento de Cristallografia
+Madrid
+Spain
+;
+'Ruiz Valero C.'
+;
+Madrid Complutense University
+Departamento de Cristallografia
+Madrid
+Spain
+;
+'Mira J.'
+;
+Santiago de Compostela University
+Departamento de Fisica Aplicada
+Santiago de Compostela
+Spain
+;
+'Rivas J.'
+;
+Santiago de Compostela University
+Departamento de Fisica Aplicada
+Santiago de Compostela
+Spain
+;
+'Caseales C.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales
+Madrid
+Spain
+;
+'Rasines I.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales
+Madrid
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.7485
+_cell_length_b                           15.335
+_cell_length_c                           5.1478
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.234
+_cell_angle_gamma                        90
+_cell_volume                             658
+_cell_formula_units_Z                    4
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Cu
+ Ge
+ Nd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O9 O 4 b 0.0127 0.2595 0.5564 1
+ Cu Cu 4 b 0.1344 0.2071 0.3819 1
+ O7 O 4 b 0.1589 0.0928 0.5747 1
+ O5 O 4 b 0.1661 0.4072 0.7593 1
+ O6 O 4 b 0.1667 0.3269 0.2371 1
+ O8 O 4 b 0.1719 0.1731 0.0733 1
+ Ge3 Ge 4 b 0.1802 0.2904 0.9247 1
+ O10 O 4 b 0.3552 0.2664 0.9238 1
+ Nd2 Nd 4 b 0.4188 0.1198 0.1808 1
+ Nd1 Nd 4 b 0.4223 0.3795 0.6759 1
+ O3 O 2 a 0.0 0 0.0 1
+ Ge2 Ge 2 a 0.1639 0 0.3785 1
+ O2 O 2 a 0.3309 0 0.3379 1
+ O1 O 2 a 0.4964 0 0.0069 1
+ Ge1 Ge 2 a 0.6673 0 0.9724 1
+ O4 O 2 a 0.8315 0 0.3437 1
+
+
+_exptl_crystal_colour                    blue
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.31
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            22.7
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 946
+_refine_ls_R_factor_gt                   0.051
+_refine_ls_wR_factor_gt                  0.057
+
+# End of data set 1101709
+
+

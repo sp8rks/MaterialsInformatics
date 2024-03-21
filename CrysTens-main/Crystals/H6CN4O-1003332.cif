@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# C-H-N-O          # H6CN4O                                        # 1003332 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003332
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003332
+
+# Entry summary
+
+_chemical_formula_structural             'H~6~ C N~4~ O'
+_chemical_formula_sum                    'C H6 N4 O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~6~CN~4~O,mP24,14
+_chemical_formula_weight                 90.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+The Structure and Electron Deformation Density Distribution of Carbonohydrazide (Carbohydrazide) at 85 K
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1979
+_journal_volume                          35
+_journal_page_first                      373
+_journal_page_last                       378
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ottersen T.'
+;
+Oslo University
+Kjemisk Institutt
+Oslo
+Norway
+;
+'Hope H.'
+;
+California Davis University
+Department of Chemistry
+Davis
+U.S.A. California
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.625
+_cell_length_b                           8.794
+_cell_length_c                           12.456
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.17
+_cell_angle_gamma                        90
+_cell_volume                             381.37
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ O
+ N
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C C 4 e 0.01163 0.27985 0.3869 1
+ O O 4 e 0.08216 0.40923 0.35696 1
+ N1 N 4 e 0.10749 0.23715 0.49597 1
+ N3 N 4 e 0.16345 0.67395 0.18966 1
+ N4 N 4 e 0.2713 0.53114 0.15547 1
+ N2 N 4 e 0.35603 0.17154 0.07806 1
+ H1 H 4 e 0.0833 0.3759 0.0206 1
+ H5 H 4 e 0.2281 0.4524 0.2106 1
+ H2 H 4 e 0.2155 0.0867 0.0983 1
+ H6 H 4 e 0.4052 0.0119 0.3325 1
+ H3 H 4 e 0.5608 0.1336 0.0552 1
+ H4 H 4 e 0.6719 0.2106 0.2374 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.57
+_cell_measurement_temperature            85
+_cell_measurement_radiation              'X-rays, Mo Ka1'
+_cell_measurement_reflns_used            14
+_diffrn_ambient_temperature              85
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Picker
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    3720
+_exptl_absorpt_coefficient_mu            0.143
+_exptl_absorpt_correction_type           no
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             79
+_refine_ls_number_reflns                 2471
+_refine_ls_R_factor_gt                   0.0239
+_refine_ls_wR_factor_gt                  0.0215
+
+# End of data set 1003332
+
+

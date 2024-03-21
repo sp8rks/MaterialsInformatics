@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Eu-H-O-S         # Eu[SO4][OH]                                   # 1218494 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1218494
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1218494
+
+# Entry summary
+
+_chemical_formula_structural             'Eu [S O~4~] [O H]'
+_chemical_formula_sum                    'Eu H O5 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Eu[SO~4~][OH],mP28,14
+_chemical_formula_weight                 265.0
+
+# Bibliographic data
+
+_publ_section_title                      'Europium(III) sulfate hydroxide'
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2006
+_journal_volume                          62
+_journal_page_first                      i269
+_journal_page_last                       i271
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ding S.H.'
+;
+Dalian Liaoning Normal University
+Institute of Chemistry for Functionalized Materials
+Dalian / Liaoning
+China
+;
+'Sun X.C.'
+;
+Dalian Liaoning Normal University
+Institute of Chemistry for Functionalized Materials
+Dalian / Liaoning
+China
+;
+'Zhu Y.L.'
+;
+Dalian Liaoning Normal University
+Institute of Chemistry for Functionalized Materials
+Dalian / Liaoning
+China
+;
+'Chen Q.'
+;
+Dalian Liaoning Normal University
+Chemical Analysis Center
+Dalian / Liaoning
+China
+;
+'Xu Y.'
+;
+Dalian Liaoning Normal University
+Institute of Chemistry for Functionalized Materials
+Dalian / Liaoning
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.4195
+_cell_length_b                           12.28
+_cell_length_c                           6.9802
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.014
+_cell_angle_gamma                        90
+_cell_volume                             353.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ Eu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.0243 0.0979 0.2804 1
+ S1 S 4 e 0.0918 0.14754 0.1085 1
+ O1 O 4 e 0.2032 0.8338 0.0677 1
+ O3 O 4 e 0.2686 0.2491 0.1761 1
+ O2 O 4 e 0.3045 0.07 0.0482 1
+ Eu1 Eu 4 e 0.33888 0.43746 0.19892 1
+ O5 O 4 e 0.7364 0.4169 0.0414 1
+ H1 H 4 e 0.703 0.352 0.004 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.98
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1879
+_exptl_absorpt_coefficient_mu            18.20
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             68
+_refine_ls_number_reflns                 701
+_refine_ls_R_factor_gt                   0.022
+_refine_ls_wR_factor_gt                  0.052
+
+# End of data set 1218494
+
+

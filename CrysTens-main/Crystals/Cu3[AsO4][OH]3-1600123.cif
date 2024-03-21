@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# As-Cu-H-O        # Cu3[AsO4][OH]3 mon                            # 1600123 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1600123
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1600123
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~3~ [As O~4~] [O H]~3~'
+_chemical_formula_sum                    'As Cu3 H3 O7'
+_chemical_name_mineral                   clinoclase
+_chemical_compound_source                'U.S.A. Nevada, Majuba Hill'
+_chemical_name_structure_type            Cu~3~[AsO~4~][OH]~3~,mP44,14
+_chemical_formula_weight                 380.6
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of clinoclase, Cu~3~AsO~4~(OH)~3~'                     
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1965
+_journal_volume                          18
+_journal_page_first                      777
+_journal_page_last                       787
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ghose S.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Kristallographie
+Zurich
+Switzerland
+;
+'Fehlmann M.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Kristallographie
+Zurich
+Switzerland
+;
+'Sundaralingam M.'
+;
+Washington Seattle University
+Department of Biological Structure
+Seattle
+U.S.A. Washington
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.24
+_cell_length_b                           6.46
+_cell_length_c                           12.38
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.5
+_cell_angle_gamma                        90
+_cell_volume                             571.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cu
+ As
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.0272 0.2173 0.2139 1
+ O1 O 4 e 0.0879 0.0667 0.4276 1
+ Cu3 Cu 4 e 0.1128 0.3532 0.0873 1
+ As As 4 e 0.1912 0.151 0.3204 1
+ OH(2) OH 4 e 0.3089 0.5979 0.1791 1
+ OH(3) OH 4 e 0.322 0.1736 0.092 1
+ O2 O 4 e 0.3377 0.3453 0.3654 1
+ O3 O 4 e 0.6758 0.4432 0.2141 1
+ Cu2 Cu 4 e 0.685 0.3824 0.3725 1
+ Cu1 Cu 4 e 0.7123 0.1389 0.1709 1
+ OH(1) OH 4 e 0.7203 0.2026 0.0209 1
+
+
+_exptl_crystal_colour                    'green bluish dark'
+_exptl_crystal_density_meas              4.38
+_exptl_crystal_density_diffrn            4.43
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            20.14
+_exptl_absorpt_correction_type           cylindrical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             49
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.137
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1600123
+
+

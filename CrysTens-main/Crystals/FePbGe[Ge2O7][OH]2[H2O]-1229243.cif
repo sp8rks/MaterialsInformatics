@@ -1,0 +1,171 @@
+##############################################################################
+#                                                                            #
+# Fe-Ge-H-O-Pb     # FePbGe[Ge2O7][OH]2[H2O]                       # 1229243 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1229243
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1229243
+
+# Entry summary
+
+_chemical_formula_structural
+'Fe Pb Ge [Ge~2~ O~7~] [O H]~2~ [H~2~ O]'                                     
+_chemical_formula_sum                    'Fe Ge3 H4 O10 Pb'
+_chemical_name_mineral                   bartelkeite
+_chemical_compound_source                'Namibia, Tsumeb, Tsumeb mine'
+_chemical_name_structure_type
+CaAl~2~[Si~2~O~7~][OH]~2~[H~2~O],mP30,11                                      
+_chemical_formula_weight                 644.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of bartelkeite, with a revised chemical formula, PbFeGe^(6)^(Ge^(4)^~2~O~7~)(OH)~2~.H~2~O, isotypic with high-pressure P2~1~/m lawsonite
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2012
+_journal_volume                          97
+_journal_page_first                      1812
+_journal_page_last                       1815
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Origlieri M.J.'
+;
+Arizona Tucson University
+Department of Geosciences
+Tucson
+U.S.A. Arizona
+;
+'Yang H.'
+;
+Arizona Tucson University
+Department of Geosciences
+Tucson
+U.S.A. Arizona
+;
+'Downs R.T.'
+;
+Arizona Tucson University
+Department of Geosciences
+Tucson
+U.S.A. Arizona
+;
+'Posner E.S.'
+;
+Arizona Tucson University
+Department of Geosciences
+Tucson
+U.S.A. Arizona
+;
+'Domanik K.J.'
+;
+Arizona Tucson University
+Lunar and Planetary Laboratory
+Tucson
+U.S.A. Arizona
+;
+'Pinch W.W.'
+;
+Pittsford
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.4033
+_cell_length_b                           13.615
+_cell_length_c                           5.8279
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.76
+_cell_angle_gamma                        90
+_cell_volume                             398.19
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Ge
+ Pb
+ Fe
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5H O 4 f 0.1036 0.5524 0.3143 1
+ O3 O 4 f 0.3663 0.11471 0.6484 1
+ O4 O 4 f 0.339 0.0625 0.1227 1
+ Ge2 Ge 4 f 0.49604 0.62998 0.03467 1
+ O2 O 4 f 0.8455 0.11151 0.0967 1
+ Pb Pb 2 e 0.17674 0.25 0.35187 1
+ O1 O 2 e 0.435 0.25 0.0337 1
+ O6W O 2 e 0.8216 0.25 0.5599 1
+ Fe Fe 2 d 0.5 0 0.5 1
+ Ge1 Ge 2 a 0 0 0 1
+ H1 H 4 f 0.003 0.077 0.647 1
+ H2 H 4 f 0.144 0.701 0.356 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.38
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS X8 APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    8266
+_diffrn_reflns_theta_min                 2.99
+_diffrn_reflns_theta_max                 35.05
+_exptl_absorpt_coefficient_mu            34.08
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             85
+_refine_ls_number_reflns                 1594
+_refine_ls_R_factor_gt                   0.023
+_refine_ls_wR_factor_gt                  0.043
+
+# End of data set 1229243
+
+

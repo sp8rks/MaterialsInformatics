@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Fe-Ge-O          # Fe3.2Ge1.8O8                                  # 1713452 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1713452
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1713452
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~3~ Ge~2~ O~8~'
+_chemical_formula_sum                    'Fe3 Ge2 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe~3~(Fe~0.2~Ge~0.8~)GeO~8~,mP52,14
+_chemical_formula_weight                 440.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Kristallstruktur von Fe~3~Ge~2~O~8~ Ein neues Eisen(II,III)-germanat mit kubisch-dichtester Sauerstoff-Packung
+;
+_journal_coden_ASTM                      NATWAY
+_journal_name_full                       Naturwissenschaften
+_journal_year                            1979
+_journal_volume                          66
+_journal_page_first                      616
+_journal_page_last                       617
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kato K.I.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Takayama E.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Kimizuka N.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.479
+_cell_length_b                           8.333
+_cell_length_c                           9.196
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.7
+_cell_angle_gamma                        90
+_cell_volume                             575.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ge
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O8 O 4 e 0.0677 0.1508 0.1191 1
+ O7 O 4 e 0.0906 0.6104 0.1385 1
+ Ge2 Ge 4 e 0.12849 0.75205 0.01172 1
+ Fe2 Fe 4 e 0.15721 0.1162 0.3635 1
+ O4 O 4 e 0.2043 0.371 0.3858 1
+ Ge1 Ge 4 e 0.28003 0.47985 0.26749 1
+ Fe3 Fe 4 e 0.30509 0.11646 0.12666 1
+ O6 O 4 e 0.3271 0.3599 0.13 1
+ O2 O 4 e 0.4119 0.0987 0.3725 1
+ O1 O 4 e 0.549 0.1234 0.1333 1
+ Fe1 Fe 4 e 0.5705 0.35719 0.10726 1
+ O5 O 4 e 0.7025 0.3817 0.3594 1
+ O3 O 4 e 0.7967 0.3682 0.0979 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.04(5)
+_exptl_crystal_density_diffrn            5.09
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'crystal chemical considerations'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 3191
+_refine_ls_R_factor_gt                   0.049
+_refine_ls_wR_factor_gt                  0.032
+
+# End of data set 1713452
+
+

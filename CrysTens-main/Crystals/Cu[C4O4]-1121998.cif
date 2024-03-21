@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# C-Cu-O           # Cu[C4O4]                                      # 1121998 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1121998
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1121998
+
+# Entry summary
+
+_chemical_formula_structural             'Cu [C~4~ O~4~]'
+_chemical_formula_sum                    'C4 Cu O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu[C~4~O~4~],mS36,15
+_chemical_formula_weight                 175.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Anhydrous CuC~4~O~4~, a Channel Structure solved from X-ray Powder Diffraction Data
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2005
+_journal_volume                          631
+_journal_page_first                      2328
+_journal_page_last                       2332
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Dinnebier R.E.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Nuss H.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Jansen M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.6869
+_cell_length_b                           8.9394
+_cell_length_c                           5.6747
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.596
+_cell_angle_gamma                        90
+_cell_volume                             480.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ C
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.11785 0.25993 0.21545 1
+ C1 C 8 f 0.1901 0.2545 0.09766 1
+ C2 C 8 f 0.30918 0.16588 0.12377 1
+ O2 O 8 f 0.38056 0.06442 0.27306 1
+ Cu Cu 4 e 0 0.407 0.25 1
+
+
+_exptl_crystal_colour                    'brown green'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.43
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI P'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 45
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                90
+_exptl_absorpt_coefficient_mu            5.450
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'crystal chemical considerations'
+_refine_ls_number_parameters             27
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0606
+_pd_proc_ls_proof_wR_factor              0.0774
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1121998
+
+

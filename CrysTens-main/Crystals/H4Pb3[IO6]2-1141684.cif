@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# H-I-O-Pb         # H4Pb3[IO6]2                                   # 1141684 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1141684
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1141684
+
+# Entry summary
+
+_chemical_formula_structural             'H~4~ Pb~3~ [I O~6~]~2~'
+_chemical_formula_sum                    'H4 I2 O12 Pb3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~4~Pb~3~[IO~6~]~2~,mP68,14
+_chemical_formula_weight                 1071.4
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of Pb~3~(IO~4~(OH)~2~)~2~'                                 
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2014
+_journal_volume                          70
+_journal_page_first                      14
+_journal_page_last                       17
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Weil M.'
+;
+Vienna Technical University
+Institute of Chemical Technologies and Analytics
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.9653
+_cell_length_b                           9.2113
+_cell_length_c                           12.8052
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.042
+_cell_angle_gamma                        90
+_cell_volume                             1037.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ I
+ O
+ OH
+ Pb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I1 I 4 e 0.0067 0.23313 0.36046 1
+ O1 O 4 e 0.0343 0.3332 0.0015 1
+ O2 O 4 e 0.0389 0.7922 0.2811 1
+ O3 O 4 e 0.1058 0.4046 0.409 1
+ O4 OH 4 e 0.1088 0.5549 0.1797 1
+ Pb1 Pb 4 e 0.12192 0.13042 0.11904 1
+ O5 OH 4 e 0.1831 0.81 0.1159 1
+ O6 O 4 e 0.1842 0.1429 0.3433 1
+ Pb2 Pb 4 e 0.25685 0.51903 0.0154 1
+ O7 O 4 e 0.3161 0.326 0.1618 1
+ Pb3 Pb 4 e 0.37507 0.36874 0.38134 1
+ O8 O 4 e 0.4052 0.0832 0.0785 1
+ O9 O 4 e 0.4802 0.3391 0.0121 1
+ I2 I 4 e 0.50186 0.24738 0.14267 1
+ O10 OH 4 e 0.5247 0.1474 0.2794 1
+ O11 O 4 e 0.6146 0.3912 0.217 1
+ O12 OH 4 e 0.6856 0.1562 0.1172 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.86
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            3673
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3196
+_diffrn_reflns_theta_min                 2.31
+_diffrn_reflns_theta_max                 30.58
+_exptl_absorpt_coefficient_mu            54.55
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             94
+_refine_ls_number_reflns                 2587
+_refine_ls_R_factor_gt                   0.0412
+_refine_ls_wR_factor_gt                  0.0825
+
+# End of data set 1141684
+
+

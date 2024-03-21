@@ -1,0 +1,130 @@
+##############################################################################
+#                                                                            #
+# H-Hg-O-Se        # Hg[SeO4][H2O]                                 # 2110019 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2110019
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2110019
+
+# Entry summary
+
+_chemical_formula_structural             'Hg [Se O~4~] [H~2~ O]'
+_chemical_formula_sum                    'H2 Hg O5 Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cd[SO~4~][H~2~O],mP28,14
+_chemical_formula_weight                 361.6
+
+# Bibliographic data
+
+_publ_section_title
+'A Neutron Diffraction Study of Mercury(H) Selenate Monohydrate'              
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1978
+_journal_volume                          34
+_journal_page_first                      1408
+_journal_page_last                       1411
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Stalhandske C.'
+;
+Lund University
+Division of Inorganic Chemistry 2
+Lund
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.7446
+_cell_length_b                           7.7174
+_cell_length_c                           8.2481
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.96
+_cell_angle_gamma                        90
+_cell_volume                             427.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Hg
+ Se
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.11224 0.2705 0.00524 1
+ O1 O 4 e 0.11884 0.51196 0.3382 1
+ Hg1 Hg 4 e 0.20171 0.76856 0.25768 1
+ Se1 Se 4 e 0.26303 0.11406 0.01593 1
+ O5 O 4 e 0.27301 0.59351 0.04288 1
+ O2 O 4 e 0.34474 0.00545 0.21324 1
+ O3 O 4 e 0.45091 0.1952 0.00713 1
+ H1 H 4 e 0.20521 0.48108 0.02118 1
+ H2 H 4 e 0.58416 0.06593 0.38266 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.62
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'Sweden, Studsvik Neutron Research Laboratory, R2 reactor'                    
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.21
+_diffrn_reflns_number                    1084
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 904
+_refine_ls_R_factor_gt                   0.026
+_refine_ls_wR_factor_gt                  0.020
+
+# End of data set 2110019
+
+

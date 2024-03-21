@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# Cl-Dy-H-N-O-Pt   # DyPt[NO3]Cl6[H2O]11 rt                        # 1926596 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1926596
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1926596
+
+# Entry summary
+
+_chemical_formula_structural             'Dy Pt [N O~3~] Cl~6~ [H~2~ O]~11~'
+_chemical_formula_sum                    'Cl6 Dy H22 N O14 Pt'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            GdPt[NO~3~]Cl~6~[H~2~O]~11~,mP92,14
+_chemical_formula_weight                 830.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hexachloroplatinates of the lanthanides: Syntheses and thermal decomposition of [M(NO~3~)~2~(H~2~O)~6~]~2~[PtCl~6~].2H~2~O (M= La, Pr) and [M(NO~3~)(H~2~O)~7~][PtCl~6~].4H~2~O (M= Gd, Dy)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2008
+_journal_volume                          634
+_journal_page_first                      431
+_journal_page_last                       435
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Arndt A.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+'Posavec D.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+'Schwarzer S.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+'Wickleder M.S.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.384
+_cell_length_b                           21.395
+_cell_length_c                           13.4881
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.51
+_cell_angle_gamma                        90
+_cell_volume                             2040.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Pt
+ Cl
+ O
+ OH2
+ N
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Pt1 Pt 4 e 0.01205 0.001 0.2511 1
+ Cl13 Cl 4 e 0.0347 0.39546 0.234 1
+ O23 O 4 e 0.0505 0.2494 0.2684 1
+ O9 OH2 4 e 0.0509 0.6362 0.026 1
+ Cl14 Cl 4 e 0.0592 0.10601 0.2345 1
+ O8 OH2 4 e 0.0649 0.6372 0.5387 1
+ O22 O 4 e 0.1368 0.2457 0.1411 1
+ Cl16 Cl 4 e 0.1719 0.49303 0.4522 1
+ N2 N 4 e 0.1767 0.249 0.2461 1
+ Cl12 Cl 4 e 0.193 0.01023 0.4551 1
+ Cl15 Cl 4 e 0.257 0.52485 0.2476 1
+ O1 OH2 4 e 0.257 0.7486 0.1236 1
+ O4 OH2 4 e 0.2732 0.3068 0.0122 1
+ O5 OH2 4 e 0.2976 0.1742 0.0261 1
+ O21 O 4 e 0.3466 0.2507 0.3261 1
+ O3 OH2 4 e 0.462 0.3502 0.2468 1
+ Dy1 Dy 4 e 0.46578 0.24523 0.18617 1
+ O6 OH2 4 e 0.4708 0.144 0.2639 1
+ O11 OH2 4 e 0.4903 0.4003 0.4434 1
+ O10 OH2 4 e 0.5236 0.1059 0.4726 1
+ O2 OH2 4 e 0.6623 0.3043 0.1454 1
+ O7 OH2 4 e 0.683 0.1783 0.1711 1
+ Cl11 Cl 4 e 0.7178 0.47837 0.2502 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.70
+_cell_measurement_temperature            200
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              200
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS I'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    24429
+_diffrn_reflns_theta_min                 1.65
+_diffrn_reflns_theta_max                 26.05
+_exptl_absorpt_coefficient_mu            11.323
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 3375
+_refine_ls_R_factor_gt                   0.0295
+_refine_ls_wR_factor_gt                  0.0810
+
+# End of data set 1926596
+
+

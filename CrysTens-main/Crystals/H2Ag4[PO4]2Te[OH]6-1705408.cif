@@ -1,0 +1,179 @@
+##############################################################################
+#                                                                            #
+# Ag-H-O-P-Te      # H2Ag4[PO4]2Te[OH]6                            # 1705408 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1705408
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1705408
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Ag~4~ [P O~4~]~2~ Te [O H]~6~'
+_chemical_formula_sum                    'Ag4 H6 O14 P2 Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~2~Ag~4~[PO~4~]~2~Te[OH]~6~,mP42,14                                          
+_chemical_formula_weight                 853.1
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of a silver phosphate-tellurate: Te(OH)~6~.2Ag~2~HPO~4~'   
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1981
+_journal_volume                          472
+_journal_page_first                      129
+_journal_page_last                       132
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Durif A.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+'Averbuch Pouchot M.T.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.829
+_cell_length_b                           20.52
+_cell_length_c                           5.9002
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.038
+_cell_angle_gamma                        90
+_cell_volume                             617
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ag
+ OH
+ P
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.021 0.6875 0.062 1
+ Ag1 Ag 4 e 0.029 0.19213 0.0522 1
+ O2 OH 4 e 0.162 0.4204 0.473 1
+ O1 OH 4 e 0.164 0.0131 0.366 1
+ P P 4 e 0.2894 0.66577 0.1052 1
+ O3 OH 4 e 0.297 0.5505 0.551 1
+ Ag2 Ag 4 e 0.3298 0.38728 0.1344 1
+ O7 O 4 e 0.34 0.5929 0.159 1
+ O5 O 4 e 0.493 0.2009 0.136 1
+ O6 O 4 e 0.652 0.3132 0.117 1
+ Te Te 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.59
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_wavelength             0.5608
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.5608
+_diffrn_reflns_number                    3131
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2534
+_refine_ls_R_factor_gt                   0.048
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ -1 0 1 50.9 38
+ 1 1 0 50 14
+ -1 1 1 49.3 19
+ 0 1 1 49 37
+ 1 2 0 45.9 4
+ 0 2 1 45.3 17
+ 1 3 0 41 17
+ 0 3 1 40.7 27
+ 1 4 0 36.26 16
+ -1 4 1 36.04 75
+ 0 6 0 34.15 20
+ 1 5 0 32.06 100
+ -1 5 1 31.84 69
+ 1 0 1 29.44 92
+ -1 1 2 28.82 66
+ -1 6 1 28.33 50
+ -2 3 1 27.23 19
+ -1 3 2 26.79 13
+ 2 0 0 25.74 21
+ 0 8 0 25.53 33
+ 1 7 0 25.45 22
+ -1 7 1 25.38 19
+ -2 2 2 24.64 4
+ 0 2 2 24.52 4
+ -2 3 2 23.83 7
+ -1 5 2 23.72 7
+ 2 4 0 23 7
+ 0 8 1 22.79 18
+ 0 4 2 22.65 21
+
+# End of data set 1705408
+
+

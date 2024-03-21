@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Cs-F-H-O-S       # HCs[SO3F]2                                    # 1811336 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1811336
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1811336
+
+# Entry summary
+
+_chemical_formula_structural             'H Cs [S O~3~ F]~2~'
+_chemical_formula_sum                    'Cs F2 H O6 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HCs[SO~3~F]~2~,mS44,15
+_chemical_formula_weight                 332.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Superacid Anions: Crystal and Molecular Structures of Oxonium Undecafluorodiantimonate(V), [H~3~O][Sb~2~F~11~], Cesium Fluorosulfate, CsSO~3~F, Cesium Hydrogen Bis(fluorosulfate), Cs[H(SO~3~F)~2~], Cesium Tetrakis(fluorosulfato)aurate(III), Cs[Au(SO^3^
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1996
+_journal_volume                          35
+_journal_page_first                      6113
+_journal_page_last                       6130
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhang D.'
+;
+Vancouver British Columbia University
+Department of Chemistry
+Vancouver
+Canada
+;
+'Rettig S.J.'
+;
+Vancouver British Columbia University
+Department of Chemistry
+Vancouver
+Canada
+;
+'Trotter J.'
+;
+Vancouver British Columbia University
+Department of Chemistry
+Vancouver
+Canada
+;
+'Aubke F.'
+;
+Vancouver British Columbia University
+Department of Chemistry
+Vancouver
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.371
+_cell_length_b                           7.731
+_cell_length_c                           9.485
+_cell_angle_alpha                        90
+_cell_angle_beta                         128.375
+_cell_angle_gamma                        90
+_cell_volume                             768.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ O
+ S
+ Cs
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 8 f 0.1003 0.4856 0.2031 1
+ O3 O 8 f 0.229 0.1621 0.0847 1
+ O2 O 8 f 0.2837 0.1186 0.3749 1
+ S1 S 8 f 0.33046 0.15138 0.2802 1
+ O1 O 8 f 0.4229 0.2824 0.3495 1
+ Cs1 Cs 4 e 0 0.11572 0.25 1
+ H1 H 4 c 0.25 0.25 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.87
+_cell_measurement_temperature            294
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              294
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            5.383
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.027
+_refine_ls_wR_factor_gt                  0.026
+
+# End of data set 1811336
+
+

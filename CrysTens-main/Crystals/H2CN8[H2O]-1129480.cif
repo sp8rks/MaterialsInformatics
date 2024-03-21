@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# C-H-N-O          # H2CN8[H2O]                                    # 1129480 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1129480
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1129480
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ C N~8~ [H~2~ O]'
+_chemical_formula_sum                    'C H4 N8 O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~CN~8~[H~2~O],mP20,4
+_chemical_formula_weight                 144.1
+
+# Bibliographic data
+
+_publ_section_title
+'New azidotetrazoles: Structurally interesting and extremely sensitive'       
+_journal_coden_ASTM                      CAAJBI
+_journal_name_full                       'Chem. Asian J.'
+_journal_year                            2012
+_journal_volume                          7
+_journal_page_first                      214
+_journal_page_last                       224
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Klap\"otke T.M.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+'Krumm B.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+'Martin F.A.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+'Stierstorfer J.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.7942
+_cell_length_b                           8.0012
+_cell_length_c                           7.765
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.566
+_cell_angle_gamma                        90
+_cell_volume                             293.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N6 N 2 a 0.0284 0.0 0.0521 1
+ N7 N 2 a 0.0563 0.5157 0.1082 1
+ N8 N 2 a 0.1566 0.5163 0.2496 1
+ C1 C 2 a 0.2583 0.0991 0.1139 1
+ O1 O 2 a 0.2618 0.29531 0.6553 1
+ N5 N 2 a 0.2632 0.0109 0.4157 1
+ N1 N 2 a 0.3605 0.1032 0.2849 1
+ N4 N 2 a 0.4077 0.1999 0.0303 1
+ N2 N 2 a 0.5849 0.2091 0.311 1
+ N3 N 2 a 0.6092 0.2669 0.1583 1
+ H1B H 2 a 0.108 0.3581 0.65 1
+ H5B H 2 a 0.254 0.0771 0.503 1
+ H1A H 2 a 0.307 0.2831 0.766 1
+ H5A H 2 a 0.599 0.4341 0.548 1
+
+
+_exptl_crystal_colour                    'yellow light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.63
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            936
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur 3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1588
+_diffrn_reflns_theta_min                 4.31
+_diffrn_reflns_theta_max                 26.5
+_exptl_absorpt_coefficient_mu            0.138
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             103
+_refine_ls_number_reflns                 581
+_refine_ls_R_factor_gt                   0.0239
+_refine_ls_wR_factor_gt                  0.0502
+
+# End of data set 1129480
+
+

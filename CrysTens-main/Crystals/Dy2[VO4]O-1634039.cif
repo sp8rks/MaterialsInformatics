@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# Dy-O-V           # Dy2[VO4]O mon1                                # 1634039 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1634039
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1634039
+
+# Entry summary
+
+_chemical_formula_structural             'Dy~2~ [V O~4~] O'
+_chemical_formula_sum                    'Dy2 O5 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Gd~2~[SiO~4~]O,mP32,14
+_chemical_formula_weight                 455.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal synthesis and comparative coordination chemistry of new rare-earth V^4+^ compounds
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2012
+_journal_volume                          51
+_journal_page_first                      3588
+_journal_page_last                       3596
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kimani M.M.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'McMillen C.D.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Kolis J.W.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.0699
+_cell_length_b                           6.9545
+_cell_length_c                           6.6987
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.79
+_cell_angle_gamma                        90
+_cell_volume                             404.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Dy
+ O
+ V
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Dy2 Dy 4 e 0.02425 0.1258 0.2341 1
+ O1 O 4 e 0.1139 0.3806 0.442 1
+ O2 O 4 e 0.2923 0.072 0.3466 1
+ V1 V 4 e 0.2992 0.5892 0.0333 1
+ O4 O 4 e 0.3717 0.4525 0.235 1
+ Dy1 Dy 4 e 0.38058 0.14113 0.07212 1
+ O5 O 4 e 0.5993 0.277 0.468 1
+ O3 O 4 e 0.8845 0.3648 0.008 1
+
+
+_exptl_crystal_colour                    blue
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.49
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            3722
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC8S'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3722
+_diffrn_reflns_theta_min                 2.35
+_diffrn_reflns_theta_max                 29.59
+_exptl_absorpt_coefficient_mu            38.724
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             74
+_refine_ls_number_reflns                 903
+_refine_ls_R_factor_gt                   0.0577
+_refine_ls_wR_factor_gt                  0.1606
+
+# End of data set 1634039
+
+

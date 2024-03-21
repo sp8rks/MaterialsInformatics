@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# C-Er-H-O         # Er2[CO3][OH]4                                 # 1122497 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1122497
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1122497
+
+# Entry summary
+
+_chemical_formula_structural             'Er~2~ [C O~3~] [O H]~4~'
+_chemical_formula_sum                    'C Er2 H4 O7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ho~2~[CO~3~][OH]~4~,mP40,14
+_chemical_formula_weight                 462.6
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of Ho~2~(OH)~4~CO~3~'                                  
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1984
+_journal_volume                          38
+_journal_page_first                      157
+_journal_page_last                       161
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Christensen A.N.'
+;
+\%Arhus University
+Department of Inorganic Chemistry
+\%Arhus
+Denmark
+;
+'Hazell R.G.'
+;
+\%Arhus University
+Department of Inorganic Chemistry
+\%Arhus
+Denmark
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.249
+_cell_length_b                           6.007
+_cell_length_c                           15.34
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.46
+_cell_angle_gamma                        90
+_cell_volume                             571
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Er
+ OH
+ O
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Er1 Er 4 e 0.0794 0.264 0.3189 1
+ Er2 Er 4 e 0.0905 0.2515 0.0665 1
+ O1 OH 4 e 0.125 0.632 0.56 1
+ O2 OH 4 e 0.168 0.473 0.189 1
+ O3 OH 4 e 0.18 0.047 0.448 1
+ O4 OH 4 e 0.191 0.003 0.231 1
+ O5 O 4 e 0.198 0.612 0.376 1
+ O6 O 4 e 0.456 0.382 0.356 1
+ O7 O 4 e 0.463 0.218 0.088 1
+ C1 C 4 e 0.599 0.076 0.117 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.38
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1122497
+
+

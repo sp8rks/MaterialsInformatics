@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# Br-Eu-H-O        # Eu[BrO3]3[H2O]9                               # 1826747 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1826747
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1826747
+
+# Entry summary
+
+_chemical_formula_structural             'Eu [Br O~3~]~3~ [H~2~ O]~9~'
+_chemical_formula_sum                    'Br3 Eu H18 O18'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Nd[BrO~3~]~3~[H~2~O]~9~,hP44,186
+_chemical_formula_weight                 697.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural and luminescence study of europium and terbium tris(bromate) nonahydrates
+;
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1991
+_journal_volume                          171
+_journal_page_first                      273
+_journal_page_last                       300
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Moret E.'
+;
+Ecole Polytechnique Federale de Lausanne (EPFL)
+Lausanne
+Switzerland
+;
+'Nicolo F.'
+;
+Ecole Polytechnique Federale de Lausanne (EPFL)
+Lausanne
+Switzerland
+;
+'B\"unzli J.C.G.'
+;
+Ecole Polytechnique Federale de Lausanne (EPFL)
+Lausanne
+Switzerland
+;
+'Chapuis G.'
+;
+Lausanne University
+Institut de Cristallographie
+Lausanne
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.714
+_cell_length_b                           11.714
+_cell_length_c                           6.687
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             794.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ O
+ Br
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 OH2 12 d 0.3601 0.0685 0.013 1
+ O1 O 6 c 0.2114 0.7886 0.009 1
+ O3 O 6 c 0.416 0.584 0.249 1
+ O2 O 6 c 0.5744 0.4256 0.258 1
+ Br Br 6 c 0.87019 0.12981 0.0037 1
+ O5 OH2 6 c 0.9051 0.0949 0.205 1
+ Eu Eu 2 b 0.333333 0.666667 0.0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.92
+_cell_measurement_temperature            200
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              200
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet R3m'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3.5
+_diffrn_reflns_theta_max                 27.5
+_exptl_absorpt_coefficient_mu            11.511
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             44
+_refine_ls_number_reflns                 400
+_refine_ls_R_factor_gt                   0.026
+_refine_ls_wR_factor_gt                  0.028
+
+# End of data set 1826747
+
+

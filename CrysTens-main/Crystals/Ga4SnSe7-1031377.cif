@@ -1,0 +1,174 @@
+##############################################################################
+#                                                                            #
+# Ga-Se-Sn         # Ga4SnSe7 ht                                   # 1031377 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1031377
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1031377
+
+# Entry summary
+
+_chemical_formula_structural             'Ga~4~ Sn Se~7~'
+_chemical_formula_sum                    'Ga4 Se7 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ga~4~SnS~7~,mP24,7
+_chemical_formula_weight                 950.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+SHG materials SnGa~4~Q~7~ (Q= S, Se) appearing with large conversion efficiencies, high damage thresholds, and wide transparencies in the mid-infrared region
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2014
+_journal_volume                          26
+_journal_page_first                      2743
+_journal_page_last                       2749
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Luo Z.Z.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Lin C.S.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Cui H.H.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhang W.L.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhang H.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'He Z.Z.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Cheng W.D.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.577
+_cell_length_b                           6.666
+_cell_length_c                           13.023
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.68
+_cell_angle_gamma                        90
+_cell_volume                             630.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Ga
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se5 Se 2 a 0.0 0.2449 0.0 1
+ Ga1 Ga 2 a 0.037 0.5765 0.0834 1
+ Se3 Se 2 a 0.1567 0.588 0.27066 1
+ Ga3 Ga 2 a 0.1602 0.2482 0.31793 1
+ Se4 Se 2 a 0.2733 0.2689 0.51485 1
+ Ga2 Ga 2 a 0.2918 0.0732 0.07812 1
+ Se2 Se 2 a 0.39715 0.056 0.27164 1
+ Se6 Se 2 a 0.5167 0.2666 0.02633 1
+ Sn1 Sn 2 a 0.6343 0.3718 0.26709 1
+ Se7 Se 2 a 0.7425 0.2755 0.51095 1
+ Ga4 Ga 2 a 0.7879 0.0616 0.07585 1
+ Se1 Se 2 a 0.87788 0.0601 0.26995 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.01
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1707
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4669
+_diffrn_reflns_theta_min                 2.81
+_diffrn_reflns_theta_max                 27.49
+_exptl_absorpt_coefficient_mu            30.560
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             110
+_refine_ls_number_reflns                 2504
+_refine_ls_R_factor_gt                   0.0489
+_refine_ls_wR_factor_gt                  0.1099
+
+# End of data set 1031377
+
+

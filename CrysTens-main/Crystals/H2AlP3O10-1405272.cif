@@ -1,0 +1,201 @@
+##############################################################################
+#                                                                            #
+# Al-H-O-P         # H2AlP3O10                                     # 1405272 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1405272
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1405272
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Al P~3~ O~10~'
+_chemical_formula_sum                    'Al H2 O10 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~AlP~3~O~10~,mP56,14
+_chemical_formula_weight                 281.9
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of the new aluminum triorthophosphate Al[P~3~O~8~(OH)~2~]' 
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1984
+_journal_volume                          29
+_journal_page_first                      128
+_journal_page_last                       130
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Genkina I.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Gorbunov Y.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Maksimov B.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Shternberg A.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Mel'nikov O.K.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.234
+_cell_length_b                           8.522
+_cell_length_c                           12.3493
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.016
+_cell_angle_gamma                        90
+_cell_volume                             700.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ OH
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O8 O 4 e 0.0095 0.3516 0.0812 1
+ O5 O 4 e 0.0738 0.5707 0.2467 1
+ P2 P 4 e 0.1442 0.1086 0.2933 1
+ O6 O 4 e 0.1987 0.2793 0.3107 1
+ O1 OH 4 e 0.2181 0.0746 0.009 1
+ O4 O 4 e 0.2271 0.0328 0.2053 1
+ Al Al 4 e 0.2423 0.4298 0.205 1
+ O7 O 4 e 0.2669 0.0255 0.414 1
+ O9 O 4 e 0.2872 0.5763 0.1065 1
+ P1 P 4 e 0.3592 0.106 0.1384 1
+ O3 O 4 e 0.3923 0.2762 0.1689 1
+ O2 O 4 e 0.5435 0.0081 0.1693 1
+ O10 OH 4 e 0.6636 0.2425 0.0342 1
+ P3 P 4 e 0.7895 0.3818 0.0202 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.67
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4F'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            1.026
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1898
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 67.5 30
+ 0 2 0 56.6 15
+ 1 0 1 54 10
+ -1 1 1 52.3 35
+ 0 2 1 47.2 45
+ 1 1 1 46.2 40
+ -1 2 1 42.7 55
+ 0 1 2 39.7 30
+ 1 2 1 36.4 70
+ 2 0 0 35.3 25
+ -1 3 1 33.6 100
+ -2 2 0 33.2 75
+ -1 2 2 32.2 30
+ 2 1 1 29.8 6
+ 1 2 2 29.2 65
+ 1 3 1 28.9 35
+ 0 4 0 28.3 5
+ -2 3 1 27.4 6
+ 0 4 1 26.9 7
+ 2 2 1 26.2 15
+ -1 1 3 26.1 3
+ 2 1 2 25.5 50
+ 1 1 3 25.2 3
+ -2 4 0 24.7 3
+ -3 1 0 24 5
+ -1 5 0 23 40
+ -1 3 3 22.4 2
+ 3 1 0 22.2 2
+ 0 0 4 21.3 5
+ 0 1 4 20.9 15
+ 3 0 2 20.6 10
+ 1 5 0 20.4 10
+ 2 4 0 20.2 15
+
+# End of data set 1405272
+
+

@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# B-Cl-Eu-O        # Eu4[BO3]ClO4                                  # 1636924 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1636924
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1636924
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~4~ [B O~3~] Cl O~4~'
+_chemical_formula_sum                    'B Cl Eu4 O7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Eu~4~[BO~3~]ClO~4~,mP52,14
+_chemical_formula_weight                 766.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses and crystal structures of the novel oxide chloride oxoborates Ln~4~O~4~Cl[BO~3~] (Ln= Eu-Tm)
+;
+_journal_coden_ASTM                      ZKCMAJ
+_journal_name_full                       'Z. Kristallogr. - Cryst. Mater.'
+_journal_year                            2013
+_journal_volume                          228
+_journal_page_first                      483
+_journal_page_last                       488
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sch\"afer M.C.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Nikelski T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.7821
+_cell_length_b                           8.1842
+_cell_length_c                           12.5727
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.707
+_cell_angle_gamma                        90
+_cell_volume                             768.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ B
+ Eu
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 4 e 0.0797 0.5126 0.3454 1
+ O7 O 4 e 0.1114 0.2206 0.3598 1
+ B B 4 e 0.1297 0.3725 0.4134 1
+ Eu4 Eu 4 e 0.18308 0.61489 0.21945 1
+ Eu1 Eu 4 e 0.19796 0.12939 0.2179 1
+ O5 O 4 e 0.2187 0.1208 0.041 1
+ O3 O 4 e 0.3251 0.3837 0.2199 1
+ Eu3 Eu 4 e 0.42285 0.36507 0.07846 1
+ O1 O 4 e 0.4584 0.1229 0.404 1
+ O4 O 4 e 0.565 0.124 0.0916 1
+ Eu2 Eu 4 e 0.58771 0.38218 0.41688 1
+ O2 O 4 e 0.6957 0.3644 0.2784 1
+ Cl Cl 4 e 0.8841 0.3647 0.0376 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.62
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Bruker-Nonius
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    22730
+_exptl_absorpt_coefficient_mu            32.5
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1564
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.063
+
+# End of data set 1636924
+
+

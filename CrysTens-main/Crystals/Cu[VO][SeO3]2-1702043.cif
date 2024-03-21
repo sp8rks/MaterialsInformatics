@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Cu-O-Se-V        # Cu[VO][SeO3]2 mon                             # 1702043 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702043
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702043
+
+# Entry summary
+
+_chemical_formula_structural             'Cu [V O] [Se O~3~]~2~'
+_chemical_formula_sum                    'Cu O7 Se2 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu[VO][SeO~3~]~2~,mP44,14
+_chemical_formula_weight                 384.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Cu(VO)(SeO~3~)~2~ (A) and (B) forms: Synthesis and crystal structures of new copper(II)-vanadyl(IV) diselenites
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1999
+_journal_volume                          147
+_journal_page_first                      296
+_journal_page_last                       303
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Millet P.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Centre d'Elaboration de Mat\'eriaux et d'Etudes Structurales (CEMES)
+Toulouse
+France
+;
+'Enjalbert R.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Centre d'Elaboration de Mat\'eriaux et d'Etudes Structurales (CEMES)
+Toulouse
+France
+;
+'Galy J.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Centre d'Elaboration de Mat\'eriaux et d'Etudes Structurales (CEMES)
+Toulouse
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.983
+_cell_length_b                           8.877
+_cell_length_c                           8.437
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.62
+_cell_angle_gamma                        90
+_cell_volume                             587.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ V
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 4 e 0.0582 0.0953 0.1109 1
+ O2 O 4 e 0.08 0.0914 0.43 1
+ O5 O 4 e 0.0845 0.3443 0.2734 1
+ Se2 Se 4 e 0.17396 0.17152 0.28339 1
+ V V 4 e 0.1964 0.4927 0.4433 1
+ O1 O 4 e 0.2273 0.8168 0.0743 1
+ O4 O 4 e 0.2717 0.6047 0.2655 1
+ O7 O 4 e 0.3603 0.1062 0.0148 1
+ Se1 Se 4 e 0.62616 0.26892 0.25556 1
+ O3 O 4 e 0.6755 0.3914 0.121 1
+ Cu Cu 4 e 0.87204 0.37731 0.01904 1
+
+
+_exptl_crystal_colour                    brown
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.35
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    2873
+_exptl_absorpt_coefficient_mu            17.58
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             100
+_refine_ls_number_reflns                 1707
+_refine_ls_R_factor_gt                   0.0347
+_refine_ls_wR_factor_gt                  0.0808
+
+# End of data set 1702043
+
+

@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# D-N-O-S          # D[ND4]3[SO4]2 rt                              # 2090087 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2090087
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2090087
+
+# Entry summary
+
+_chemical_formula_structural             'D [N D~4~]~3~ [S O~4~]~2~'
+_chemical_formula_sum                    'D13 N3 O8 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[NH~4~]~3~[SO~4~]~2~,mP52,3
+_chemical_formula_weight                 260.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure of deuterated triammonium hydrogendisulfate, (ND~4~)~3~D(SO~4~)~2~. Phases (III') and (VI)
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1986
+_journal_volume                          42
+_journal_page_first                      776
+_journal_page_last                       780
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tanaka M.'
+;
+Sapporo Hokkaido University
+Department of Physics
+Sapporo / Hokkaido
+Japan
+;
+'Shiozaki Y.'
+;
+Sapporo Hokkaido University
+Department of Physics
+Sapporo / Hokkaido
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.087
+_cell_length_b                           5.835
+_cell_length_c                           15.542
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.71
+_cell_angle_gamma                        90
+_cell_volume                             895.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   3
+_space_group_name_H-M_alt                'P 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+loop_
+ _atom_type_symbol
+ ND4
+ O
+ OD
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N21 ND4 2 e 0.0943 0.0466 0.3005 1
+ N24 ND4 2 e 0.1022 0.5538 0.7983 1
+ O9 O 2 e 0.1309 0.8202 0.6466 1
+ O8 O 2 e 0.1327 0.6966 0.1307 1
+ O5 O 2 e 0.144 0.0844 0.8483 1
+ O10 O 2 e 0.1442 0.5189 0.3514 1
+ O6 O 2 e 0.1637 0.2889 0.1535 1
+ O15 O 2 e 0.1641 0.2249 0.6263 1
+ O18 O 2 e 0.1874 0.4649 0.0159 1
+ O19 OD 2 e 0.2004 0.9585 0.513 1
+ S3 S 2 e 0.21 0.5 0.1159 1
+ S1 S 2 e 0.2128 0.9934 0.611 1
+ S4 S 2 e 0.2891 0.559 0.3834 1
+ O20 O 2 e 0.3128 0.5858 0.4838 1
+ O11 O 2 e 0.3354 0.767 0.3488 1
+ O14 O 2 e 0.3552 0.5305 0.1475 1
+ O7 O 2 e 0.3697 0.3555 0.3688 1
+ N23 ND4 2 e 0.4067 0.0022 0.199 1
+ N22 ND4 2 e 0.6007 0.492 0.2991 1
+ O12 O 2 e 0.6301 0.2343 0.142 1
+ O13 O 2 e 0.6428 0.9631 0.3495 1
+ O16 O 2 e 0.6675 0.8294 0.1242 1
+ O17 OD 2 e 0.6939 0.0973 0.0137 1
+ S2 S 2 e 0.7121 0.0616 0.111 1
+ N14 ND4 1 d 0.5 0.0376 0.5 1
+ N13 ND4 1 c 0.5 0.5431 0 1
+ N11 ND4 1 b 0 0.5009 0.5 1
+ N12 ND4 1 a 0 0.0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.93
+_cell_measurement_temperature            189
+_cell_measurement_pressure               100
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            17
+_diffrn_ambient_pressure                 100
+_diffrn_ambient_temperature              189
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Rigaku
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    6557
+_exptl_absorpt_coefficient_mu            0.60
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             340
+_refine_ls_number_reflns                 2156
+_refine_ls_R_factor_gt                   0.028
+_refine_ls_wR_factor_gt                  0.040
+
+# End of data set 2090087
+
+

@@ -1,0 +1,193 @@
+##############################################################################
+#                                                                            #
+# Bi-Ir            # IrBi2                                         # 1719459 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1719459
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1719459
+
+# Entry summary
+
+_chemical_formula_structural             'Ir Bi~2~'
+_chemical_formula_sum                    'Bi2 Ir'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoSb~2~,mP12,14
+_chemical_formula_weight                 610.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Semimetallic paramagnetic nano-Bi~2~Ir and superconducting ferromagnetic nano-Bi~3~Ni by microwave-assisted synthesis and room temperature pseudomorphosis
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2012
+_journal_volume                          638
+_journal_page_first                      2035
+_journal_page_last                       2043
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Boldt R.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+'Wosnitza J.'
+;
+Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
+High Magnetic Field Laboratory
+Dresden
+Germany
+;
+'Grigas A.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+'Heise M.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+'Herrmannsd\"orfer T.'
+;
+Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
+High Magnetic Field Laboratory
+Dresden
+Germany
+;
+'Isaeva A.A.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+'Kaskel S.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+'K\"ohler D.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+'Ruck M.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+'Skrotzki R.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.9011
+_cell_length_b                           6.7885
+_cell_length_c                           6.9617
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.454
+_cell_angle_gamma                        90
+_cell_volume                             292
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Bi
+ Ir
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Bi1 Bi 4 e 0.15499 0.6401 0.32681 1
+ Ir1 Ir 4 e 0.22727 0.0032 0.21174 1
+ Bi2 Bi 4 e 0.35448 0.36056 0.12441 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            13.88
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+PANalytical X'Pert PRO MPD
+;
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 45
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                90
+_exptl_absorpt_coefficient_mu            314.3
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.056
+_pd_proc_ls_proof_wR_factor              0.080
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1719459
+
+

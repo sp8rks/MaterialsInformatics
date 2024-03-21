@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# K-Mo-O-S         # K2MoS2O2 mon2                                 # 1934425 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1934425
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1934425
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Mo S~2~ O~2~'
+_chemical_formula_sum                    'K2 Mo O2 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~MoS~2~O~2~,mP28,14
+_chemical_formula_weight                 270.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Mixed alkali oxidosulfidomolybdates A~2~[MoO~x~S~4-x~] (x= 1, 2, 3; A= K, Rb, Cs, NH~4~). Synthesis, crystal structure and properties
+;
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2012
+_journal_volume                          67
+_journal_page_first                      127
+_journal_page_last                       148
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lehner A.J.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'Kraut K.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'R\"ohr C.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5446
+_cell_length_b                           8.2291
+_cell_length_c                           13.618
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.73
+_cell_angle_gamma                        90
+_cell_volume                             666.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ K
+ Mo
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0667 0.2073 0.1333 1
+ S1 S 4 e 0.1495 0.16074 0.42798 1
+ K2 K 4 e 0.1512 0.48115 0.29836 1
+ Mo Mo 4 e 0.27426 0.20613 0.08396 1
+ K1 K 4 e 0.32852 0.68383 0.05153 1
+ O1 O 4 e 0.3475 0.0125 0.0631 1
+ S2 S 4 e 0.5737 0.33375 0.19924 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.69
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    12293
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 29.2
+_exptl_absorpt_coefficient_mu            3.7
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             65
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0383
+_refine_ls_wR_factor_gt                  0.0873
+
+# End of data set 1934425
+
+

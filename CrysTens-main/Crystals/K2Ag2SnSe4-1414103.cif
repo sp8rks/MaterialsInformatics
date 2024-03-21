@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# Ag-K-Se-Sn       # K2Ag2SnSe4                                    # 1414103 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1414103
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1414103
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Ag~2~ Sn Se~4~'
+_chemical_formula_sum                    'Ag2 K2 Se4 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Mn~3~S~4~,mP18,13
+_chemical_formula_weight                 728.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+From 1D Chain to 3D Network: Syntheses, Structures, and Properties of K~2~MnSn~2~Se~6~, K~2~MnSnSe~4~, and K~2~Ag~2~SnSe~4~
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2000
+_journal_volume                          12
+_journal_page_first                      2385
+_journal_page_last                       2391
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chen X.'
+;
+Rutgers (New Jersey State) University
+Department of Chemistry
+Camden
+U.S.A. New Jersey
+;
+'Huang X.'
+;
+Rutgers (New Jersey State) University
+Department of Chemistry
+Camden
+U.S.A. New Jersey
+;
+'Fu A.'
+;
+Rutgers (New Jersey State) University
+Department of Chemistry
+Camden
+U.S.A. New Jersey
+;
+'Li J.'
+;
+Rutgers (New Jersey State) University
+Department of Chemistry
+Camden
+U.S.A. New Jersey
+;
+'Zhang L.D.'
+;
+Beijing University of Science and Technology
+Department of Applied Chemistry
+Beijing
+China
+;
+'Guo H.Y.'
+;
+Beijing University of Science and Technology
+Department of Applied Chemistry
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.575
+_cell_length_b                           5.92
+_cell_length_c                           12.148
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.56
+_cell_angle_gamma                        90
+_cell_volume                             499.35
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Ag
+ Sn
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 g 0.2672 0.0306 0.3104 1
+ Se2 Se 4 g 0.2667 0.4701 0.0746 1
+ Ag Ag 4 g 0.4991 0.2499 0.5331 1
+ Sn Sn 2 f 0.5 0.2491 0.25 1
+ K1 K 2 e 0 0.5228 0.25 1
+ K2 K 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.84
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1527
+_exptl_absorpt_coefficient_mu            21.696
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             45
+_refine_ls_number_reflns                 1098
+_refine_ls_R_factor_gt                   0.0595
+_refine_ls_wR_factor_gt                  0.0814
+
+# End of data set 1414103
+
+

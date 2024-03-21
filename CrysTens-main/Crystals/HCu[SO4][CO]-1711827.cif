@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# C-Cu-H-O-S       # HCu[SO4][CO]                                  # 1711827 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1711827
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1711827
+
+# Entry summary
+
+_chemical_formula_structural             'H Cu [S O~4~] [C O]'
+_chemical_formula_sum                    'C Cu H O5 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HCu[SO~4~][CO],mP32,14
+_chemical_formula_weight                 188.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Preparation and Crystal Structure of Copper(I) Carbonyl Hydrogensulfate, obtained by Carbonylation in Sulphuric Acid
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2002
+_journal_volume                          628
+_journal_page_first                      1868
+_journal_page_last                       1872
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Dell'Amico D.B.'
+;
+Pisa University
+Dipartimento di Chimica e Chimica Industriale
+Pisa
+Italy
+;
+'Calderazzo F.'
+;
+Pisa University
+Dipartimento di Chimica e Chimica Industriale
+Pisa
+Italy
+;
+'Labella L.'
+;
+Pisa University
+Dipartimento di Chimica e Chimica Industriale
+Pisa
+Italy
+;
+'Lorenzini F.'
+;
+Pisa University
+Dipartimento di Chimica e Chimica Industriale
+Pisa
+Italy
+;
+'Marchetti F.'
+;
+Pisa University
+Dipartimento di Chimica e Chimica Industriale
+Pisa
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.59
+_cell_length_b                           4.898
+_cell_length_c                           12.027
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.193
+_cell_angle_gamma                        90
+_cell_volume                             503.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ Cu
+ C
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 e 0.037 0.1265 0.12162 1
+ O4 O 4 e 0.1083 0.0449 0.40485 1
+ S S 4 e 0.11631 0.75726 0.37895 1
+ O2 O 4 e 0.1663 0.7316 0.25829 1
+ Cu Cu 4 e 0.23246 0.24759 0.03407 1
+ C C 4 e 0.3962 0.3996 0.1165 1
+ O1 O 4 e 0.5061 0.007 0.3361 1
+ O3 O 4 e 0.7622 0.1146 0.05288 1
+ H H 4 e 0.124 0.828 0.215 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.49
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            26
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS P4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2461
+_diffrn_reflns_theta_min                 2.38
+_diffrn_reflns_theta_max                 31.99
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             78
+_refine_ls_number_reflns                 1271
+_refine_ls_R_factor_gt                   0.0436
+_refine_ls_wR_factor_gt                  0.1248
+
+# End of data set 1711827
+
+

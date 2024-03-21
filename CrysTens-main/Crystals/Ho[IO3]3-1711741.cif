@@ -1,0 +1,170 @@
+##############################################################################
+#                                                                            #
+# Ho-I-O           # Ho[IO3]3                                      # 1711741 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1711741
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1711741
+
+# Entry summary
+
+_chemical_formula_structural             'Ho [I O~3~]~3~'
+_chemical_formula_sum                    'Ho I3 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Gd[IO~3~]~3~,mP52,14
+_chemical_formula_weight                 689.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal Synthesis of Rare Earth Iodates frm the Corresponding Periodates: II. Synthesis and Structures of Ln(IO~3~)~3~ (Ln= Pr, Nd, Sm, Eu, Gd, Tb, Ho, Er) and Ln(IO~3~)~3~.2H~2~O (Ln= Eu, Gd, Dy, Er, Tm, Yb)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2004
+_journal_volume                          630
+_journal_page_first                      479
+_journal_page_last                       483
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Douglas P.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+'Hector A.L.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+'Levason W.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+'Light M.E.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+'Matthews M.L.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+'Webster M.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.054
+_cell_length_b                           8.449
+_cell_length_c                           13.305
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.668
+_cell_angle_gamma                        90
+_cell_volume                             781.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ I
+ Ho
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0241 0.52782 0.3873 1
+ O2 O 4 e 0.03251 0.1679 0.48724 1
+ O3 O 4 e 0.14494 0.81276 0.32357 1
+ O4 O 4 e 0.16114 0.52965 0.18209 1
+ I1 I 4 e 0.16731 0.70902 0.11109 1
+ Ho1 Ho 4 e 0.1734 0.24609 0.14459 1
+ O5 O 4 e 0.23274 0.29266 0.32555 1
+ I2 I 4 e 0.27095 0.4796 0.39118 1
+ O6 O 4 e 0.32242 0.07747 0.02133 1
+ O7 O 4 e 0.34067 0.03217 0.23142 1
+ O8 O 4 e 0.36268 0.66848 0.04635 1
+ O9 O 4 e 0.47478 0.32633 0.13598 1
+ I3 I 4 e 0.67043 0.45822 0.14328 1
+
+
+_exptl_crystal_colour                    pink
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.86
+_cell_measurement_temperature            120
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1711741
+
+

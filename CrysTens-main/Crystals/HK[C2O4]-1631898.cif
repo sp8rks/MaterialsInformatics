@@ -1,0 +1,165 @@
+##############################################################################
+#                                                                            #
+# C-H-K-O          # HK[C2O4]                                      # 1631898 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1631898
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1631898
+
+# Entry summary
+
+_chemical_formula_structural             'H K [C~2~ O~4~]'
+_chemical_formula_sum                    'C2 H K O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HK[C~2~O~4~],mP28,14
+_chemical_formula_weight                 128.1
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of Potassium Hydrogen Oxalate, KHC~2~O~4~'             
+_journal_coden_ASTM                      ACSAA4
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1968
+_journal_volume                          22
+_journal_page_first                      2953
+_journal_page_last                       2964
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pedersen B.F.'
+;
+Oslo University
+Central Institute for Industrial Research
+Oslo
+Norway
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.319
+_cell_length_b                           12.89
+_cell_length_c                           7.66
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.96
+_cell_angle_gamma                        90
+_cell_volume                             417.19
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ C
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.1441 0.2303 0.1666 1
+ K K 4 e 0.1867 0.4308 0.2729 1
+ O3 O 4 e 0.2507 0.601 0.0481 1
+ O4 O 4 e 0.294 0.0647 0.1505 1
+ C2 C 4 e 0.3207 0.1525 0.2146 1
+ C1 C 4 e 0.5984 0.1729 0.3732 1
+ O1 O 4 e 0.6622 0.2694 0.4136 1
+ H H 4 e 0.86 0.23 0.02 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.06
+_exptl_crystal_density_diffrn            2.04
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device
+'oscillation and Weissenberg photographs'                                     
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    450
+_exptl_absorpt_coefficient_mu            10.3
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.056
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 0.3673 3
+ 1 1 -1 0.3951 3
+ 0 0 2 0.4221 5
+ 1 2 -1 0.5035 7
+ 1 1 1 0.5507 5
+ 0 2 2 0.5648 5
+ 1 0 -2 0.6 3
+ 1 1 -2 0.6346 7
+ 1 3 0 0.6533 7
+ 0 4 1 0.6773 7
+ 0 3 2 0.744 6.5
+ 1 0 2 0.9101 5
+ 1 4 -1 0.9313 5
+ 1 1 2 0.9483 5
+ 0 1 3 0.9864 5
+ 1 2 2 1.0535 5
+ 0 2 3 1.0951 6
+ 1 3 2 1.2326 7
+ 1 5 -1 1.2509 3
+ 0 6 0 1.2856 5
+ 0 5 2 1.3162 5
+ 2 0 0 1.3295 6
+ 2 1 0 1.3659 5
+ 1 5 1 1.4097 3
+ 1 5 -2 1.44936 3
+ 2 2 0 1.4717 3
+ 0 4 3 1.5238 5
+ 1 1 3 1.551 3
+ 1 4 -3 1.6237 5
+ 0 1 4 1.7256 5
+
+# End of data set 1631898
+
+

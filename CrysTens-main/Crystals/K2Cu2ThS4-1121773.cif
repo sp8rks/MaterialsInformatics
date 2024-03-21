@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Cu-K-S-Th        # K2Cu2ThS4                                     # 1121773 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1121773
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1121773
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Cu~2~ Th S~4~'
+_chemical_formula_sum                    'Cu2 K2 S4 Th'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Cu~2~CeS~4~,mS18,12
+_chemical_formula_weight                 565.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Three New Phases in the K/Cu/Th/S System: KCuThS~3~, K~2~Cu~2~ThS~4~, and K~3~Cu~3~Th~2~S~7~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2005
+_journal_volume                          44
+_journal_page_first                      6463
+_journal_page_last                       6469
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Selby H.D.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+'Chan B.C.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+'Hess R.F.'
+;
+Los Alamos National Laboratory
+Nuclear Materials Technology Division
+Los Alamos
+U.S.A. New Mexico
+;
+'Abney K.D.'
+;
+Los Alamos National Laboratory
+Nuclear Materials Technology Division
+Los Alamos
+U.S.A. New Mexico
+;
+'Dorhout P.K.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.522
+_cell_length_b                           4.026
+_cell_length_c                           7.566
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.949
+_cell_angle_gamma                        90
+_cell_volume                             415.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ K
+ S
+ Cu
+ Th
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ K1 K 4 i 0.13822 0 0.5648 1
+ S2 S 4 i 0.2022 0 0.1772 1
+ Cu1 Cu 4 i 0.31887 0 0.0112 1
+ S1 S 4 i 0.4791 0 0.2396 1
+ Th1 Th 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.52
+_cell_measurement_temperature            298(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0337
+_refine_ls_wR_factor_gt                  0.0708
+
+# End of data set 1121773
+
+

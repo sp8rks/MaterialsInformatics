@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# K-P-Se           # K2PSe3                                        # 1121022 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1121022
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1121022
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ P Se~3~'
+_chemical_formula_sum                    'K2 P Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~PSe~3~,mP48,14
+_chemical_formula_weight                 346.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of tetrapotassium hexaselenidohypodiphosphate, K~4~P~2~Se~6~
+;
+_journal_coden_ASTM                      ZKNSFT
+_journal_name_full
+'Z. Kristallogr. - New Cryst. Struct.'                                        
+_journal_year                            2005
+_journal_volume                          220
+_journal_page_first                      9
+_journal_page_last                       10
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chan B.C.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+'Feng P.L.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+'Hulvey Z.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+'Dorhout P.K.'
+;
+Colorado Fort Collins University
+Department of Chemistry
+Fort Collins
+U.S.A. Colorado
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.664
+_cell_length_b                           12.3993
+_cell_length_c                           8.7631
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.267
+_cell_angle_gamma                        90
+_cell_volume                             1484.3
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ P
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se2 Se 4 e 0.04038 0.02949 0.30646 1
+ P2 P 4 e 0.0689 0.029 0.0625 1
+ K1 K 4 e 0.0848 0.7649 0.2761 1
+ Se1 Se 4 e 0.09677 0.30791 0.47885 1
+ K2 K 4 e 0.1855 0.4322 0.1733 1
+ Se3 Se 4 e 0.18591 0.58264 0.5013 1
+ K4 K 4 e 0.294 0.1083 0.2135 1
+ Se6 Se 4 e 0.39102 0.32222 0.047 1
+ P1 P 4 e 0.4312 0.4921 0.0694 1
+ Se5 Se 4 e 0.53473 0.03588 0.19542 1
+ K3 K 4 e 0.567 0.2939 0.3404 1
+ Se4 Se 4 e 0.67907 0.40206 0.03618 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.10
+_cell_measurement_temperature            571
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              571
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    13680
+_exptl_absorpt_coefficient_mu            16.083
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             110
+_refine_ls_number_reflns                 3162
+_refine_ls_R_factor_gt                   0.047
+_refine_ls_wR_factor_gt                  0.083
+
+# End of data set 1121022
+
+

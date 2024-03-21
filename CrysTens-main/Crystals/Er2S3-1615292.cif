@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Er-S             # Er2S3 mon2                                    # 1615292 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1615292
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1615292
+
+# Entry summary
+
+_chemical_formula_structural             'Er~2~ S~3~'
+_chemical_formula_sum                    'Er2 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ho~2~S~3~,mP30,11
+_chemical_formula_weight                 430.7
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure and microstructure of \s-Er~2~S~3~'                        
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2001
+_journal_volume                          323/324
+_journal_page_first                      91
+_journal_page_last                       96
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Landa Canovas A.R.'
+;
+Madrid Complutense University
+Centro de Microscopia Electronica (CME) Luis Bru
+Madrid
+Spain
+;
+'Amador U.'
+;
+Madrid San Pablo-CEU University
+Departamento de Quimica Inorganica y Materiales
+Madrid
+Spain
+;
+'Otero Diaz L.C.'
+;
+Madrid Complutense University
+Centro de Microscopia Electronica (CME) Luis Bru
+Madrid
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.072
+_cell_length_b                           3.976
+_cell_length_c                           17.389
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.66
+_cell_angle_gamma                        90
+_cell_volume                             688.4
+_cell_formula_units_Z                    6
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ Er
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S7 S 2 e 0.0075 0.25 0.7677 1
+ S2 S 2 e 0.0526 0.25 0.0756 1
+ Er6 Er 2 e 0.1245 0.25 0.93 1
+ Er1 Er 2 e 0.187 0.25 0.2204 1
+ Er4 Er 2 e 0.189 0.25 0.5206 1
+ S4 S 2 e 0.2679 0.25 0.3731 1
+ S3 S 2 e 0.3205 0.25 0.6829 1
+ S6 S 2 e 0.3669 0.25 0.0315 1
+ Er3 Er 2 e 0.4868 0.25 0.8986 1
+ Er5 Er 2 e 0.5492 0.25 0.6151 1
+ S9 S 2 e 0.6153 0.25 0.4665 1
+ S5 S 2 e 0.637 0.25 0.7824 1
+ S8 S 2 e 0.7108 0.25 0.1312 1
+ Er2 Er 2 e 0.8295 0.25 0.2812 1
+ S1 S 2 e 0.9519 0.25 0.4238 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.23
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            37.94
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1745
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.037
+
+# End of data set 1615292
+
+

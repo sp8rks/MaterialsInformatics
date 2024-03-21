@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# H-O-S            # H2[SO4] hp                                    # 1322837 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1322837
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1322837
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ [S O~4~]'
+_chemical_formula_sum                    'H2 O4 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~[SO~4~],mP20,14
+_chemical_formula_weight                 98.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Comparison of the high-pressure and low-temperature structures of sulfuric acid
+;
+_journal_coden_ASTM                      JCSDAA
+_journal_name_full                       'J. Chem. Soc., Dalton Trans.'
+_journal_year                            2002
+_journal_volume                          ?
+_journal_page_first                      1867
+_journal_page_last                       1871
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Allan D.R.'
+;
+Edinburgh University
+Department of Physics and Astronomy
+Edinburgh
+United Kingdom
+;
+'Clark S.J.'
+;
+Durham University
+Department of Physics
+Durham
+United Kingdom
+;
+'Dawson A.'
+;
+Edinburgh University
+Department of Chemistry
+Edinburgh
+United Kingdom
+;
+'McGregor P.A.'
+;
+Edinburgh University
+Department of Physics and Astronomy
+Edinburgh
+United Kingdom
+;
+'Parsons S.'
+;
+Edinburgh University
+Department of Chemistry
+Edinburgh
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.695
+_cell_length_b                           4.559
+_cell_length_c                           8.378
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.42
+_cell_angle_gamma                        90
+_cell_volume                             280.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0994 0.611 0.1901 1
+ O4 O 4 e 0.199 0.1462 0.1292 1
+ S S 4 e 0.2639 0.4328 0.1787 1
+ O2 O 4 e 0.316 0.565 0.0318 1
+ O3 O 4 e 0.4062 0.466 0.3289 1
+ H1 H 4 e 0.131 0.789 0.209 1
+ H2 H 4 e 0.62 0.22 0.436 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.32
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             27
+_refine_ls_number_reflns                 178
+_refine_ls_R_factor_gt                   0.0599
+_refine_ls_wR_factor_gt                  0.0381
+
+# End of data set 1322837
+
+

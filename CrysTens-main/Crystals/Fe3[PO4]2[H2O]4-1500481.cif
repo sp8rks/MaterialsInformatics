@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Fe-H-O-P         # Fe3[PO4]2[H2O]4                               # 1500481 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1500481
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1500481
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~3~ [P O~4~]~2~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Fe3 H8 O12 P2'
+_chemical_name_mineral                   ludlamite
+_chemical_compound_source
+'Japan, Tochigi Prefecture, Ashio mine'                                       
+_chemical_name_structure_type            Fe~3~[PO~4~]~2~[H~2~O]~4~,mP34,14
+_chemical_formula_weight                 429.5
+
+# Bibliographic data
+
+_publ_section_title                      'The Crystal Structure of Ludlamite'
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1951
+_journal_volume                          4
+_journal_page_first                      412
+_journal_page_last                       416
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ito T.'
+;
+Tokyo University
+Institute of Mineralogy
+Tokyo / Tokyo
+Japan
+;
+'Mori H.'
+;
+Tokyo University
+Institute of Mineralogy
+Tokyo / Tokyo
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.25
+_cell_length_b                           4.65
+_cell_length_c                           10.45
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.5
+_cell_angle_gamma                        90
+_cell_volume                             441.95
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ Fe
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.102 0.19 0.408 1
+ aq1 OH2 4 e 0.112 0.27 0.162 1
+ O1 O 4 e 0.198 0.82 0.036 1
+ Fe2 Fe 4 e 0.328 0.08 0.17 1
+ O4 O 4 e 0.36 0.38 0.035 1
+ aq2 OH2 4 e 0.446 0.38 0.332 1
+ O3 O 4 e 0.71 0.36 0.175 1
+ P P 4 e 0.767 0.46 0.045 1
+ Fe1 Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.01
+_exptl_crystal_density_diffrn            3.23
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71
+_diffrn_reflns_number                    344
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.36
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1500481
+
+

@@ -1,0 +1,171 @@
+##############################################################################
+#                                                                            #
+# C-H-N-O          # H[CON4H7][CN6O2]                              # 1931202 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1931202
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1931202
+
+# Entry summary
+
+_chemical_formula_structural             'H [C O N~4~ H~7~] [C N~6~ O~2~]'
+_chemical_formula_sum                    'C2 H8 N10 O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[CON~4~H~7~][CN~6~O~2~],mP30,7
+_chemical_formula_weight                 220.2
+_chemical_melting_point                  453
+
+# Bibliographic data
+
+_publ_section_title
+'Diaminouronium nitriminotetrazolates - thermally stable explosives'          
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2010
+_journal_volume                          636
+_journal_page_first                      2357
+_journal_page_last                       2363
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fischer N.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie
+Munich
+Germany
+;
+'Klap\"otke T.M.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie
+Munich
+Germany
+;
+'Piercey D.G.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie
+Munich
+Germany
+;
+'Scheutzow S.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie
+Munich
+Germany
+;
+'Stierstorfer J.'
+;
+Munich Ludwig Maximilian University
+Department f\"ur Chemie
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.7569
+_cell_length_b                           12.3854
+_cell_length_c                           9.3569
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.55
+_cell_angle_gamma                        90
+_cell_volume                             404.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N5 N 2 a 0.0 0.24288 0.0 1
+ C2 C 2 a 0.0012 0.11714 0.4067 1
+ N1 N 2 a 0.0239 0.55905 0.4593 1
+ O3 O 2 a 0.04933 0.07321 0.29553 1
+ N9 N 2 a 0.0939 0.0635 0.5457 1
+ C1 C 2 a 0.1278 0.34737 0.0347 1
+ N2 N 2 a 0.2473 0.52041 0.0441 1
+ N10 N 2 a 0.3282 0.02858 0.0583 1
+ N4 N 2 a 0.4168 0.3671 0.1659 1
+ N3 N 2 a 0.4821 0.47476 0.1676 1
+ O1 O 2 a 0.52297 0.69439 0.29057 1
+ O2 O 2 a 0.58822 0.13327 0.84092 1
+ N6 N 2 a 0.6982 0.7699 0.3736 1
+ N8 N 2 a 0.7804 0.25362 0.5314 1
+ N7 N 2 a 0.8556 0.2156 0.4024 1
+ H9 H 2 a 0.1596 0.102 0.6348 1
+ H10C H 2 a 0.1946 0.088 0.0638 1
+ H10B H 2 a 0.3706 0.037 0.9678 1
+ H8A H 2 a 0.5456 0.2749 0.4988 1
+ H10A H 2 a 0.5676 0.026 0.1288 1
+ H7 H 2 a 0.7626 0.247 0.3168 1
+ H1 H 2 a 0.8656 0.551 0.3768 1
+ H8B H 2 a 0.9356 0.314 0.5658 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.81
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur 3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2072
+_diffrn_reflns_theta_min                 4.7
+_diffrn_reflns_theta_max                 26
+_exptl_absorpt_coefficient_mu            0.159
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             168
+_refine_ls_number_reflns                 995
+_refine_ls_R_factor_gt                   0.0265
+_refine_ls_wR_factor_gt                  0.0548
+
+# End of data set 1931202
+
+

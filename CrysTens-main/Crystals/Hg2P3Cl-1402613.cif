@@ -1,0 +1,181 @@
+##############################################################################
+#                                                                            #
+# Cl-Hg-P          # Hg2P3Cl rt                                    # 1402613 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1402613
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1402613
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~2~ P~3~ Cl'
+_chemical_formula_sum                    'Cl Hg2 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cd~2~As~3~I,mS24,15
+_chemical_formula_weight                 529.6
+
+# Bibliographic data
+
+_publ_section_title
+'The Syntheses of Hg~2~P~3~X Where X= Cl and Br'                              
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1973
+_journal_volume                          6
+_journal_page_first                      587
+_journal_page_last                       589
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Donohue P.C.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.84
+_cell_length_b                           8.849
+_cell_length_c                           7.593
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.63
+_cell_angle_gamma                        90
+_cell_volume                             520.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Hg
+ P
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hg1 Hg 8 f 0.2451 0.3556 0.29 1
+ P1 P 8 f 0.3757 0.0472 0.0307 1
+ Cl1 Cl 4 e 0 0.1264 0.25 1
+ P2 P 4 e 0 0.7095 0.25 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.75
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier-Haegg film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ -1 1 1 48.805 40
+ 1 1 1 43.728 75
+ 2 0 0 38.752 75
+ 0 2 1 38.123 90
+ 0 0 2 37.547 75
+ -1 1 2 33.313 60
+ 1 1 2 30.055 85
+ -2 0 2 29.238 50
+ 0 2 2 28.618 30
+ -2 2 1 28.276 100
+ 1 3 0 27.566 10
+ -1 3 1 26.32 15
+ 2 2 1 26.193 65
+ 1 3 1 25.444 10
+ 2 0 2 25.145 5
+ 3 1 0 24.791 10
+ -1 1 3 23.996 75
+ -1 3 2 22.807 60
+ 3 1 1 22.598 40
+ 0 4 0 22.113 80
+ 1 3 2 21.675 45
+ 0 4 1 21.222 5
+ -2 2 3 20.143 25
+ 3 1 2 19.436 45
+ 4 0 0 19.377 20
+ 2 4 0 19.21 50
+ -1 3 3 19.043 75
+ -1 1 4 18.479 40
+ 3 3 1 18.316 30
+ -3 3 2 18.112 20
+ 1 3 3 18.054 15
+ -4 2 1 17.827 40
+ 4 2 0 17.747 10
+ -2 4 2 17.646 35
+ 1 1 4 17.302 10
+ -1 5 1 16.937 15
+ 4 2 1 16.764 10
+ 1 5 1 16.688 15
+ 3 3 2 16.509 20
+ 3 1 3 16.467 15
+ -3 3 3 16.256 10
+ -3 1 4 16.121 35
+ 2 0 4 15.973 20
+ -1 3 4 15.911 35
+ -2 4 3 15.813 10
+
+# End of data set 1402613
+
+

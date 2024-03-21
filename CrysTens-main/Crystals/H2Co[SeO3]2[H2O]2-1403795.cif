@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# Co-H-O-Se        # H2Co[SeO3]2[H2O]2                             # 1403795 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1403795
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1403795
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Co [Se O~3~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Co H6 O8 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Zn[SeO~3~]~2~[H~2~O]~2~,mP22,14
+_chemical_formula_weight                 350.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal Structure, Thermal Behavior, and Infrared Absorption Spectrum of Cobalt(II) Hydrogen Selenite Dihydrate Co(HSeO~3~)~2~.2H~2~O
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1994
+_journal_volume                          112
+_journal_page_first                      237
+_journal_page_last                       242
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Micka Z.'
+;
+Prague Charles University
+Department of Inorganic Chemistry
+Prague
+Czech Republic
+;
+'Nemec I.'
+;
+Prague Charles University
+Department of Inorganic Chemistry
+Prague
+Czech Republic
+;
+'Vojtisek P.'
+;
+Prague Charles University
+Department of Inorganic Chemistry
+Prague
+Czech Republic
+;
+'Ondracek J.'
+;
+Academy of Sciences of the Czech Republic
+Prague
+Czech Republic
+;
+'H\"ols\"a J.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.1357
+_cell_length_b                           6.8759
+_cell_length_c                           8.3844
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.282
+_cell_angle_gamma                        90
+_cell_volume                             362.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Co
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0794 0.3342 0.3364 1
+ O4 O 4 e 0.1931 0.7662 0.0015 1
+ O2 O 4 e 0.278 0.0776 0.241 1
+ Se Se 4 e 0.3232 0.2691 0.3764 1
+ O3 O 4 e 0.3524 0.4551 0.242 1
+ Co Co 2 a 0 0 0 1
+ H1O4 H 4 e 0.1121 0.7927 0.3934 1
+ H2O4 H 4 e 0.2127 0.6717 0.0986 1
+ HO3 H 4 e 0.5084 0.4665 0.2653 1
+
+
+_exptl_crystal_colour                    purple
+_exptl_crystal_density_meas              3.214
+_exptl_crystal_density_diffrn            3.22
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2532
+_exptl_absorpt_coefficient_mu            12.316
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             55
+_refine_ls_number_reflns                 596
+_refine_ls_R_factor_gt                   0.020
+_refine_ls_wR_factor_gt                  0.022
+
+# End of data set 1403795
+
+

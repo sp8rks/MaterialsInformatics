@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# As-Ge            # GeAs                                          #  542159 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_542159
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      542159
+
+# Entry summary
+
+_chemical_formula_structural             'Ge As'
+_chemical_formula_sum                    'As Ge'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            SiAs,mS24,12
+_chemical_formula_weight                 147.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Etude structurale du monoars\'eniure de germanium
+;
+_journal_coden_ASTM                      CRSUDO
+_journal_name_full                       'C. R. Seances Acad. Sci., Ser. 2'
+_journal_year                            1981
+_journal_volume                          293
+_journal_page_first                      965
+_journal_page_last                       967
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mentzen B.F.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physico-Chimie Min\'erale
+Villeurbanne
+France
+;
+'Hillel R.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physico-Chimie Min\'erale
+Villeurbanne
+France
+;
+'Michaelides A.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physico-Chimie Min\'erale
+Villeurbanne
+France
+;
+'Tranquard A.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physico-Chimie Min\'erale
+Villeurbanne
+France
+;
+'Bouix J.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physico-Chimie Min\'erale
+Villeurbanne
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.517
+_cell_length_b                           3.775
+_cell_length_c                           9.455
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.03
+_cell_angle_gamma                        90
+_cell_volume                             543.61
+_cell_formula_units_Z                    12
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ge
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ge2 Ge 4 i 0.1282 0 0.4243 1
+ As3 As 4 i 0.1599 0 0.0416 1
+ As1 As 4 i 0.1535 0 0.687 1
+ Ge1 Ge 4 i 0.2452 0 0.2865 1
+ As2 As 4 i 0.5323 0 0.3328 1
+ Ge3 Ge 4 i 0.5691 0 0.0893 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.371
+_exptl_crystal_density_diffrn            5.41
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_reflns_number                    473
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 15
+_exptl_absorpt_coefficient_mu            18.07
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 168
+_refine_ls_R_factor_gt                   0.066
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 542159
+
+

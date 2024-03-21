@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# Ce-H-O-S         # HCe[SO4]2[H2O]2                               # 1407755 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1407755
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1407755
+
+# Entry summary
+
+_chemical_formula_structural             'H Ce [S O~4~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Ce H5 O10 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HCe[SO~4~]~2~[H~2~O]~2~,mP52,14
+_chemical_formula_weight                 369.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of hydrogen cerium(III) sulfate hydrate, [H~3~O][Ce(SO~4~)~2~].H~2~O
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1981
+_journal_volume                          38
+_journal_page_first                      116
+_journal_page_last                       120
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gatehouse B.M.'
+;
+Clayton Monash University
+Department of Chemistry
+Clayton
+Australia
+;
+'Pring A.'
+;
+Clayton Monash University
+Department of Chemistry
+Clayton
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.444
+_cell_length_b                           9.926
+_cell_length_c                           11.8709
+_cell_angle_alpha                        90
+_cell_angle_beta                         128.438
+_cell_angle_gamma                        90
+_cell_volume                             779.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ S
+ Ce
+ OH3
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O6 O 4 e 0.0924 0.8571 0.428 1
+ O9 OH2 4 e 0.1316 0.154 0.2943 1
+ O4 O 4 e 0.1472 0.4585 0.3675 1
+ O2 O 4 e 0.1901 0.1677 0.0598 1
+ O7 O 4 e 0.1943 0.5862 0.1638 1
+ S2 S 4 e 0.2578 0.5927 0.0731 1
+ Ce Ce 4 e 0.2834 0.3395 0.2512 1
+ S1 S 4 e 0.2956 0.0883 0.02 1
+ O8 O 4 e 0.3124 0.4513 0.0642 1
+ O3 O 4 e 0.4409 0.173 0.0214 1
+ O5 O 4 e 0.5662 0.1804 0.3625 1
+ O1 O 4 e 0.6065 0.4704 0.3843 1
+ O10 OH3 4 e 0.7428 0.3573 0.2292 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              3.12
+_exptl_crystal_density_diffrn            3.15
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    3759
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            6.03
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1787
+_refine_ls_R_factor_gt                   0.0465
+_refine_ls_wR_factor_gt                  0.0413
+
+# End of data set 1407755
+
+

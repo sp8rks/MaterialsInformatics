@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# C-H-N-O          # H3[C3N3O3]                                    # 1003360 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003360
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003360
+
+# Entry summary
+
+_chemical_formula_structural             'H~3~ [C~3~ N~3~ O~3~]'
+_chemical_formula_sum                    'C3 H3 N3 O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~3~[C~3~N~3~O~3~],mS36,15
+_chemical_formula_weight                 129.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Electron Density Distribution in Cyanuric Acid. II. Neutron Diffraction Study at Liquid Nitrogen Temperature and Comparison of X-ray and Neutron Diffraction Results
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1971
+_journal_volume                          27
+_journal_page_first                      146
+_journal_page_last                       158
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Coppens P.'
+;
+New York Buffalo University of SUNY (New York State University)
+Department of Chemistry
+Buffalo
+U.S.A. New York
+;
+'Vos A.'
+;
+Groningen National University
+Laboratorium voor Struktuurchemie
+Groningen
+Netherlands
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.749
+_cell_length_b                           6.736
+_cell_length_c                           9.0323
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.109
+_cell_angle_gamma                        90
+_cell_volume                             471.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N2 N 8 f 0.09414 0.30901 0.15046 1
+ C2 C 8 f 0.09902 0.10588 0.14623 1
+ O2 O 8 f 0.1855 0.01375 0.05712 1
+ N1 N 4 e 0 0.01141 0.25 1
+ C1 C 4 e 0 0.41791 0.25 1
+ O1 O 4 e 0 0.59818 0.25 1
+ H2 H 8 f 0.16859 0.3845 0.07366 1
+ H1 H 4 e 0 0.85904 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.82
+_cell_measurement_temperature            125
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.067
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              125
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'U.S.A. New York, Brookhaven National Laboratory, HFBR, H6M'                  
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.067
+_diffrn_reflns_number                    1345
+_exptl_absorpt_coefficient_mu            0.172
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1287
+_refine_ls_R_factor_gt                   0.030
+_refine_ls_wR_factor_gt                  0.027
+
+# End of data set 1003360
+
+

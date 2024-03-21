@@ -1,0 +1,125 @@
+##############################################################################
+#                                                                            #
+# Hg-O-Se-Te       # Hg3[TeO3]2[SeO4]                              # 1944007 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1944007
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1944007
+
+# Entry summary
+
+_chemical_formula_structural             'Hg~3~ [Te O~3~]~2~ [Se O~4~]'
+_chemical_formula_sum                    'Hg3 O10 Se Te2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg~3~[SeO~3~]~2~[SeO~4~],mP32,4
+_chemical_formula_weight                 1095.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal studies in the system Hg/Se/Te/O: The first Te^4+^/Se^6+^ oxocompounds Hg~3~SeTe~2~O~10~ and Hg~3~SeTe~4~O~14~, and the mixed-valent Hg~5~Se~2~O~8~
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2015
+_journal_volume                          641
+_journal_page_first                      1459
+_journal_page_last                       1466
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.3885
+_cell_length_b                           5.4452
+_cell_length_c                           11.1584
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.372
+_cell_angle_gamma                        90
+_cell_volume                             480.83
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Hg
+ O
+ Te
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hg3 Hg 2 a -0.00536 0.29527 0.12899 1
+ Hg2 Hg 2 a -0.00962 0.30973 0.61571 1
+ O5 O 2 a 0.087 0.161 0.8147 1
+ O2 O 2 a 0.1198 0.442 0.489 1
+ O4 O 2 a 0.1571 0.116 0.3096 1
+ O1 O 2 a 0.148 0.485 0.0147 1
+ O9 O 2 a 0.247 0.0 0.0422 1
+ O10 O 2 a 0.3 0.598 0.3555 1
+ Te2 Te 2 a 0.27463 0.2765 0.94799 1
+ Te1 Te 2 a 0.29671 0.3153 0.44338 1
+ Hg1 Hg 2 a 0.31526 0.7936 0.20104 1
+ O8 O 2 a 0.5254 0.099 0.3294 1
+ O7 O 2 a 0.5254 0.465 0.1665 1
+ Se1 Se 2 a 0.64534 0.2945 0.28328 1
+ O3 O 2 a 0.7515 0.468 0.4018 1
+ O6 O 2 a 0.7695 0.125 0.2259 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.57
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    12411
+_diffrn_reflns_theta_min                 1.935
+_diffrn_reflns_theta_max                 36.925
+_exptl_absorpt_coefficient_mu            57.549
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             147
+_refine_ls_number_reflns                 2384
+_refine_ls_R_factor_gt                   0.0396
+_refine_ls_wR_factor_gt                  0.0903
+
+# End of data set 1944007
+
+

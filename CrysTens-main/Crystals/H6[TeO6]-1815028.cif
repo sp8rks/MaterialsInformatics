@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# H-O-Te           # H6[TeO6] mon                                  # 1815028 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1815028
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1815028
+
+# Entry summary
+
+_chemical_formula_structural             'H~6~ [Te O~6~]'
+_chemical_formula_sum                    'H6 O6 Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~6~[TeO~6~],mP28,14
+_chemical_formula_weight                 229.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+A neutron diffraction refinement of the crystal structure of telluric acid, Te(OH)~6~ (mon)
+;
+_journal_coden_ASTM                      ACSAA4
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1973
+_journal_volume                          27
+_journal_page_first                      85
+_journal_page_last                       95
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lindqvist O.'
+;
+Chalmers University of Technology
+Department of Inorganic Chemistry
+Gothenburg
+Sweden
+;
+'Lehmann M.S.'
+;
+\%Arhus University
+Department of Inorganic Chemistry
+\%Arhus
+Denmark
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.495
+_cell_length_b                           9.32
+_cell_length_c                           8.3308
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.689
+_cell_angle_gamma                        90
+_cell_volume                             497.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Te
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 e 0.0401 0.0489 0.285 1
+ O6 O 4 e 0.1404 0.327 0.0789 1
+ O4 O 4 e 0.2624 0.5968 0.0455 1
+ O1 O 4 e 0.3381 0.3457 0.3943 1
+ O2 O 4 e 0.4214 0.0486 0.2038 1
+ O3 O 4 e 0.7363 0.1249 0.0378 1
+ Te2 Te 2 c 0 0 0.5 1
+ Te1 Te 2 b 0.5 0 0 1
+ H3 H 4 e 0.1526 0.5931 0.3754 1
+ H5 H 4 e 0.1838 0.0359 0.2638 1
+ H6 H 4 e 0.2042 0.3332 0.1941 1
+ H4 H 4 e 0.2536 0.6989 0.0127 1
+ H1 H 4 e 0.2709 0.2864 0.4688 1
+ H2 H 4 e 0.5393 0.0695 0.2913 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.07
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'Denmark, Roskilde, Riso National Laboratory, DR3 reactor, TAS1'              
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.025
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            0.190
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 591
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1815028
+
+

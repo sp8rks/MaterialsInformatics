@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# C-F-H-O-P        # H[C6F5][PHO2]                                 # 1723818 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1723818
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1723818
+
+# Entry summary
+
+_chemical_formula_structural             'H [C~6~ F~5~] [P H O~2~]'
+_chemical_formula_sum                    'C6 F5 H2 O2 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[C~6~F~5~][PHO~2~],mP28,4
+_chemical_formula_weight                 232.0
+
+# Bibliographic data
+
+_publ_section_title
+'Functionalized pentafluoroethylphosphanes'                                   
+_journal_coden_ASTM                      CEUJED
+_journal_name_full                       'Chem. Eur. J.'
+_journal_year                            2015
+_journal_volume                          21
+_journal_page_first                      12326
+_journal_page_last                       12336
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Allefeld N.'
+;
+Bielefeld University
+Fakult\"at f\"ur Chemie
+Bielefeld
+Germany
+;
+'Neumann B.'
+;
+Bielefeld University
+Fakult\"at f\"ur Chemie
+Bielefeld
+Germany
+;
+'Stammler H.G.'
+;
+Bielefeld University
+Fakult\"at f\"ur Chemie
+Bielefeld
+Germany
+;
+'Ignat'ev N.A.'
+;
+Merck KGaA
+PM-APR-FT
+Darmstadt
+Germany
+;
+'Hoge B.'
+;
+Bielefeld University
+Fakult\"at f\"ur Chemie
+Bielefeld
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.0181
+_cell_length_b                           5.7994
+_cell_length_c                           11.1804
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.168
+_cell_angle_gamma                        90
+_cell_volume                             388
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ F
+ O
+ P
+ C
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F4 F 2 a 0.0874 0.1101 0.09358 1
+ O2 O 2 a 0.2465 0.5096 0.47295 1
+ P1 P 2 a 0.26427 0.3583 0.58724 1
+ F2 F 2 a 0.2659 0.0728 0.85588 1
+ F5 F 2 a 0.2691 0.8149 0.25988 1
+ C5 C 2 a 0.2926 0.1502 0.1475 1
+ F3 F 2 a 0.3165 0.4915 0.03539 1
+ O1 O 2 a 0.378 0.1317 0.58173 1
+ C6 C 2 a 0.3902 0.0 0.2336 1
+ C4 C 2 a 0.4096 0.344 0.1177 1
+ C1 C 2 a 0.6031 0.0356 0.292 1
+ C3 C 2 a 0.6225 0.3847 0.1725 1
+ C2 C 2 a 0.7152 0.2314 0.2583 1
+ F1 F 2 a 0.9213 0.2756 0.31118 1
+ H1 H 2 a 0.061 0.3376 0.609 1
+ H2 H 2 a 0.373 0.5426 0.457 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.99
+_cell_measurement_temperature            100.0(1)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            7876
+_diffrn_ambient_temperature              100.0(1)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker-Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    17453
+_diffrn_reflns_theta_min                 3.405
+_diffrn_reflns_theta_max                 29.977
+_exptl_absorpt_coefficient_mu            0.414
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             135
+_refine_ls_number_reflns                 2163
+_refine_ls_R_factor_gt                   0.0292
+_refine_ls_wR_factor_gt                  0.0735
+
+# End of data set 1723818
+
+

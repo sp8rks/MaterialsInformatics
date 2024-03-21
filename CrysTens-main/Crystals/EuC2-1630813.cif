@@ -1,0 +1,190 @@
+##############################################################################
+#                                                                            #
+# C-Eu             # EuC2 rt                                       # 1630813 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1630813
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1630813
+
+# Entry summary
+
+_chemical_formula_structural             'Eu C~2~'
+_chemical_formula_sum                    'C2 Eu'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            ThC~2~,mS12,15
+_chemical_formula_weight                 176.0
+
+# Bibliographic data
+
+_publ_section_title
+'Structural phase transitions in EuC~2~'                                      
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2010
+_journal_volume                          49
+_journal_page_first                      312
+_journal_page_last                       318
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wandner D.'
+;
+Cologne (K\"oln) University
+Department of Chemistry
+Cologne (K\"oln)
+Germany
+;
+'Link P.'
+;
+Cologne (K\"oln) University
+Department of Chemistry
+Cologne (K\"oln)
+Germany
+;
+'Heyer O.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Physik
+Cologne (K\"oln)
+Germany
+;
+'Mydosh J.A.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Physik
+Cologne (K\"oln)
+Germany
+;
+'Ahmida M.A.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Physik
+Cologne (K\"oln)
+Germany
+;
+'Abd Elmeguid M.M.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Physik
+Cologne (K\"oln)
+Germany
+;
+'Speldrich M.'
+;
+Aachen RWTH University
+Institut f\"ur Anorganische Chemie
+Aachen
+Germany
+;
+'Lueken H.'
+;
+Aachen RWTH University
+Institut f\"ur Anorganische Chemie
+Aachen
+Germany
+;
+'Ruschewitz U.'
+;
+Cologne (K\"oln) University
+Department of Chemistry
+Cologne (K\"oln)
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.0075
+_cell_length_b                           4.4098
+_cell_length_c                           7.591
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.918
+_cell_angle_gamma                        90
+_cell_volume                             224.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C C 8 f 0.283 0.151 0.0541 1
+ Eu Eu 4 e 0 0.1828 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.21
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.499604
+_pd_proc_wavelength                      0.499604
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Germany, Hamburg, Deutsches Elektronen-Synchrotron DESY, HASYLAB, DORIS III reactor, B2
+;
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.499604
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 17.5
+_pd_proc_2theta_range_min                6
+_pd_proc_2theta_range_max                35
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0476
+_pd_proc_ls_proof_wR_factor              0.0625
+_refine_ls_R_I_factor                    0.0814
+
+# End of data set 1630813
+
+

@@ -1,0 +1,184 @@
+##############################################################################
+#                                                                            #
+# Dy-Fe-Ga-S       # Dy3FeGaS7                                     # 1230720 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1230720
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1230720
+
+# Entry summary
+
+_chemical_formula_structural             'Dy~3~ Fe Ga S~7~'
+_chemical_formula_sum                    'Dy3 Fe Ga S7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~3~Mn~0.5~SiS~7~,hP24,173
+_chemical_formula_weight                 837.5
+
+# Bibliographic data
+
+_publ_section_title
+'Ln~3~FeGaQ~7~: A new series of transition-metal rare-earth chalcogenides'    
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2013
+_journal_volume                          202
+_journal_page_first                      269
+_journal_page_last                       275
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yin W.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Wang W.'
+;
+Beijing University of Posts and Telecommunications
+Beijing
+China
+;
+'Kang L.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Lin Z.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Feng K.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Shi Y.'
+;
+Chinese Academy of Sciences
+Institute of Physics
+Beijing
+China
+;
+'Hao W.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Yao J.L.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Wu Y.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.5946
+_cell_length_b                           9.5946
+_cell_length_c                           6.1114
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             487.22
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Dy
+ Ga
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 6 c 0.0876 0.5202 -0.0524 1
+ S3 S 6 c 0.1368 0.2412 0.2606 1
+ Dy Dy 6 c 0.37767 0.15483 0.17937 1
+ Ga Ga 2 b 0.333333 0.666667 0.105 1
+ S2 S 2 b 0.333333 0.666667 0.471 1
+ Fe Fe 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.71
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1673
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Gemini S Ultra'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2451
+_diffrn_reflns_theta_min                 4.14
+_diffrn_reflns_theta_max                 26.34
+_exptl_absorpt_coefficient_mu            28.330
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             38
+_refine_ls_number_reflns                 572
+_refine_ls_R_factor_gt                   0.0238
+_refine_ls_wR_factor_gt                  0.0475
+
+# End of data set 1230720
+
+

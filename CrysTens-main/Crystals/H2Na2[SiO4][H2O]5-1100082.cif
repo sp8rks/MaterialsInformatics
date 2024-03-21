@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# H-Na-O-Si        # H2Na2[SiO4][H2O]5                             # 1100082 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1100082
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1100082
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Na~2~ [Si O~4~] [H~2~ O]~5~'
+_chemical_formula_sum                    'H12 Na2 O9 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Na~2~[SiO~4~][H~2~O]~5~,mP24,4
+_chemical_formula_weight                 230.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Sodium silicate hydrates. IV. Location of hydrogen atoms in Na~2~O.SiO~2~.6H~2~O by neutron diffraction
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1971
+_journal_volume                          27
+_journal_page_first                      2269
+_journal_page_last                       2275
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Williams P.P.'
+;
+New Zealand Institute for Industrial Research and Development
+Department of Chemistry
+Petone
+New Zealand
+;
+'Dent Glasser L.S.'
+;
+Aberdeen University
+Department of Chemistry
+Aberdeen
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.34
+_cell_length_b                           5.96
+_cell_length_c                           11.43
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.1
+_cell_angle_gamma                        90
+_cell_volume                             422.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ Na
+ Si
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 2 a 0.0487 0.6425 0.3987 1
+ O9 OH2 2 a 0.0563 0.0728 0.3148 1
+ O8 OH2 2 a 0.0562 0.2795 0.9185 1
+ Na1 Na 2 a 0.0737 0.1649 0.1171 1
+ Si Si 2 a 0.2091 0.115 0.626 1
+ O5 OH2 2 a 0.2514 0.4854 0.2258 1
+ O3 OH 2 a 0.3089 0.3125 0.5475 1
+ O1 O 2 a 0.3332 0.1387 0.763 1
+ Na2 Na 2 a 0.4347 0.1277 0.3737 1
+ O7 OH2 2 a 0.4367 0.0 0.1612 1
+ O6 OH2 2 a 0.7055 0.3068 0.0861 1
+ O4 OH 2 a 0.7257 0.3673 0.4196 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.81
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1316
+_refine_ls_R_factor_gt                   0.071
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1100082
+
+

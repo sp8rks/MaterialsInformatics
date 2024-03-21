@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# Fe-H-O-S         # Fe2[SO4]3[H2O]5                               # 1601159 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1601159
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1601159
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~2~ [S O~4~]~3~ [H~2~ O]~5~'
+_chemical_formula_sum                    'Fe2 H10 O17 S3'
+_chemical_name_mineral                   lausenite
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            Fe~2~[SO~4~]~3~[H~2~O]~5~,mP44,11
+_chemical_formula_weight                 489.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structures of synthetic Fe~2~(SO~4~)~3~(H~2~O)~5~ and the type specimen of lausenite
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2005
+_journal_volume                          90
+_journal_page_first                      411
+_journal_page_last                       416
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Majzlan J.'
+;
+New Jersey Princeton University
+Department of Geoscience
+Princeton
+U.S.A. New Jersey
+;
+'Botez C.E.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Physics and Astronomy
+Stony Brook
+U.S.A. New York
+;
+'Stephens P.W.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Physics and Astronomy
+Stony Brook
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.5747
+_cell_length_b                           11.085
+_cell_length_c                           10.711
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.853
+_cell_angle_gamma                        90
+_cell_volume                             654
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ OH2
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 f 0.07 0.5399 0.3327 1
+ O6 O 4 f 0.1287 0.1471 0.0723 1
+ S2 S 4 f 0.1695 0.002 0.7233 1
+ O3 O 4 f 0.205 0.0072 0.8627 1
+ Ow1 OH2 4 f 0.291 0.5853 0.1015 1
+ O4 O 4 f 0.376 0.0657 0.6902 1
+ Ow3 OH2 4 f 0.388 0.1272 0.4464 1
+ O7 O 4 f 0.795 0.1238 0.3145 1
+ S1 S 2 e 0.2837 0.25 0.0944 1
+ O2 O 2 e 0.361 0.25 0.2311 1
+ O1 O 2 e 0.494 0.25 0.0271 1
+ Fe2 Fe 2 e 0.6067 0.25 0.3738 1
+ Ow2 OH2 2 e 0.814 0.25 0.5518 1
+ Fe1 Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.49
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             1.14959
+_pd_proc_wavelength                      1.14959
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+U.S.A. New York, Brookhaven National Laboratory, National Synchrotron Light Source NSLS, SUNY, X3B1
+;
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             1.14959
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.95
+_diffrn_reflns_theta_max                 32.95
+_pd_proc_2theta_range_min                5.9
+_pd_proc_2theta_range_max                65.9
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.147
+_refine_ls_R_I_factor                    0.0405
+
+# End of data set 1601159
+
+

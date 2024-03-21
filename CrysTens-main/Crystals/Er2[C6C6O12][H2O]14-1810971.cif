@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# C-Er-H-O         # Er2[C6C6O12][H2O]14                           # 1810971 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1810971
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1810971
+
+# Entry summary
+
+_chemical_formula_structural
+'Er~2~ [C~6~ C~6~ O~12~] [H~2~ O]~14~'                                        
+_chemical_formula_sum                    'C6 Er H14 O13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Er~2~[C~6~C~6~O~12~][H~2~O]~14~,mP88,14                                       
+_chemical_formula_weight                 922.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+catena-Poly[[bis[pentaaquaerbium(III)]-\m-benzenehexacarboxylato]tetrahydrate]
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2003
+_journal_volume                          59
+_journal_page_first                      m277
+_journal_page_last                       m279
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Deluzet A.'
+;
+Rennes National Institute of Applied Sciences
+Laboratoire de Chimie Inorganique des Lanthanides
+Rennes
+France
+;
+'Guillou O.'
+;
+Rennes National Institute of Applied Sciences
+Laboratoire de Chimie Inorganique des Lanthanides
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.4499
+_cell_length_b                           9.2595
+_cell_length_c                           16.9526
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.025
+_cell_angle_gamma                        90
+_cell_volume                             1253.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ OH2
+ O
+ Er
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C11 C 4 e 0.0063 0.1155 0.0537 1
+ C12 C 4 e 0.02 0.2457 0.1092 1
+ O2 OH2 4 e 0.0211 0.4668 0.2775 1
+ O11 O 4 e 0.0607 0.7442 0.3394 1
+ O12 O 4 e 0.1115 0.3468 0.102 1
+ O1W OH2 4 e 0.1289 0.1476 0.4346 0.5
+ C21 C 4 e 0.1412 0.5886 0.513 1
+ C31 C 4 e 0.1462 0.0276 0.0658 1
+ O5 OH2 4 e 0.1763 0.6657 0.1932 1
+ O2W OH2 4 e 0.181 0.1202 0.39 0.5
+ Er Er 4 e 0.28017 0.59373 0.33303 1
+ O32 O 4 e 0.2916 0.0705 0.2082 1
+ C22 C 4 e 0.2932 0.8177 0.027 1
+ C32 C 4 e 0.3045 0.0595 0.1375 1
+ O1 OH2 4 e 0.3064 0.3929 0.4212 1
+ O4 OH2 4 e 0.3403 0.3978 0.2582 1
+ O3W OH2 4 e 0.3752 0.469 0.0462 0.5
+ O4W OH2 4 e 0.4209 0.0362 0.4184 0.5
+ O31 O 4 e 0.4358 0.0687 0.1181 1
+ O3 OH2 4 e 0.6164 0.3262 0.1793 1
+ O21 O 4 e 0.6406 0.1855 0.0308 1
+ O22 O 4 e 0.6529 0.2482 0.4068 1
+
+
+_exptl_crystal_colour                    'pink pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.44
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    17561
+_exptl_absorpt_coefficient_mu            6.76
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             199
+_refine_ls_number_reflns                 3648
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  0.093
+
+# End of data set 1810971
+
+

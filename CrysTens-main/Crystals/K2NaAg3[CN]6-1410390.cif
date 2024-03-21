@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# Ag-C-K-N-Na      # K2NaAg3[CN]6 lt                               # 1410390 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1410390
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1410390
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Na Ag~3~ [C N]~6~'
+_chemical_formula_sum                    'Ag3 C6 K2 N6 Na'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~NaAg~3~[CN]~6~,mS36,12
+_chemical_formula_weight                 580.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Reversible luminescence thermochromism in dipotassiumsodium tris[dicyanoargentate(I)] and the role of structural phase transitions
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2002
+_journal_volume                          168
+_journal_page_first                      267
+_journal_page_last                       274
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fischer P.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Neutronenstreuung
+Villigen
+Switzerland
+;
+'Lucas B.W.'
+;
+Brisbane Queensland University
+Department of Physics
+Brisbane
+Australia
+;
+'Omary M.A.'
+;
+North Texas Denton University
+Department of Chemistry
+Denton
+U.S.A. Texas
+;
+'Larochelle C.L.'
+;
+Pennsylvania Lancaster Franklin and Marshall College
+Lancaster
+U.S.A. Pennsylvania
+;
+'Patterson H.H.'
+;
+Maine Orono University
+Department of Chemistry
+Orono
+U.S.A. Maine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.948
+_cell_length_b                           12.007
+_cell_length_c                           8.645
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.036
+_cell_angle_gamma                        90
+_cell_volume                             721.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ K
+ Ag
+ Na
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N2 N 8 j 0.1486 0.3519 0.3341 1
+ C2 C 8 j 0.182 0.3184 0.211 1
+ C1 C 4 i 0.135 0 0.2116 1
+ N1 N 4 i 0.2063 0 0.3331 1
+ K K 4 h 0 0.167 0.5 1
+ Ag2 Ag 4 e 0.25 0.25 0 1
+ Na Na 2 d 0 0.5 0.5 1
+ Ag1 Ag 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.68
+_cell_measurement_temperature            99
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.8856
+_pd_proc_wavelength                      1.8856
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              99
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Switzerland, Villigen, Paul Scherrer Institute, Laboratory for Neutron Scattering, SINQ, HRPT
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.8856
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.0494
+_refine_ls_R_I_factor                    0.0516
+
+# End of data set 1410390
+
+

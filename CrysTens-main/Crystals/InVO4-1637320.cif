@@ -1,0 +1,180 @@
+##############################################################################
+#                                                                            #
+# In-O-V           # InVO4 hp2                                     # 1637320 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1637320
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1637320
+
+# Entry summary
+
+_chemical_formula_structural             'In V O~4~'
+_chemical_formula_sum                    'In O4 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            MgWO~4~,mP12,13
+_chemical_formula_weight                 229.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+New polymorph of InVO~4~: A high-pressure structure with six-coordinated vanadium
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2013
+_journal_volume                          52
+_journal_page_first                      12790
+_journal_page_last                       12798
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Errandonea D.'
+;
+Burjassot Valencia University
+Departamento de Fisica Aplicada
+Burjassot
+Spain
+;
+'Gomis O.'
+;
+Valencia Polytechnic University
+Centro de Tecnologias Fisicas
+Valencia
+Spain
+;
+'Garcia Domene B.'
+;
+Burjassot Valencia University
+Departamento de Fisica Aplicada
+Burjassot
+Spain
+;
+'Pellicer Porres J.'
+;
+Burjassot Valencia University
+Departamento de Fisica Aplicada
+Burjassot
+Spain
+;
+'Katari V.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Chemistry Division
+Trombay / Maharashtra
+India
+;
+'Achary S.N.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Chemistry Division
+Trombay / Maharashtra
+India
+;
+'Tyagi A.K.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Chemistry Division
+Trombay / Maharashtra
+India
+;
+'Popescu C.'
+;
+ALBA Synchrotron Light Facility
+CELLS
+Cerdanyola del Valles
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.714
+_cell_length_b                           5.459
+_cell_length_c                           4.903
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.8
+_cell_angle_gamma                        90
+_cell_volume                             125.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 g 0.258 0.093 0.601 1
+ O1 O 4 g 0.286 0.361 0.008 1
+ V V 2 f 0.5 0.659 0.25 1
+ In In 2 e 0 0.211 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.06
+_cell_measurement_temperature            ?
+_cell_measurement_pressure               8.2e+006
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.4246
+_pd_proc_wavelength                      0.4246
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_pressure                 8.2e+006
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'Spain, Barcelona, CELLS-ALBA Synchrotron Light Facility, BL04-MSPD beamline' 
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.4246
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0632
+_pd_proc_ls_proof_wR_factor              0.0879
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1637320
+
+

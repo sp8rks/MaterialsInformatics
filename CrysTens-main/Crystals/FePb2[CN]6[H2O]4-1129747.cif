@@ -1,0 +1,178 @@
+##############################################################################
+#                                                                            #
+# C-Fe-H-N-O-Pb    # FePb2[CN]6[H2O]4                              # 1129747 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1129747
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1129747
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Pb~2~ [C N]~6~ [H~2~ O]~4~'
+_chemical_formula_sum                    'C6 Fe H8 N6 O4 Pb2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            FePb~2~[CN]~6~[H~2~O]~4~,mP38,14
+_chemical_formula_weight                 698.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Lead hexacyanoferrate(II) tetrahydrate: Crystal structure, FTIR spectroscopy and thermal decomposition studies
+;
+_journal_coden_ASTM                      PLYHDE
+_journal_name_full                       Polyhedron
+_journal_year                            2012
+_journal_volume                          33
+_journal_page_first                      450
+_journal_page_last                       455
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gil D.M.'
+;
+San Miguel de Tucuman National University
+Instituto de Quimica Inorganica
+San Miguel de Tucuman
+Argentina
+;
+'Avila M.'
+;
+Mexico City National Polytechnic Institute (IPN)
+Centro de Investigacion en Ciencia Aplicada y Tecnologia Avanzada
+Mexico City
+Mexico
+;
+'Reguera E.'
+;
+Mexico City National Polytechnic Institute (IPN)
+Centro de Investigacion en Ciencia Aplicada y Tecnologia Avanzada
+Mexico City
+Mexico
+;
+'Pagola S.'
+;
+William and Mary College
+Department of Applied Science
+Williamsburg
+U.S.A. Virginia
+;
+'Gomez M.I.'
+;
+San Miguel de Tucuman National University
+Instituto de Quimica Inorganica
+San Miguel de Tucuman
+Argentina
+;
+'Carbonio R.E.'
+;
+Cordoba National University
+Departamento de Fisicoquimica
+Cordoba
+Argentina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.5701
+_cell_length_b                           7.6283
+_cell_length_c                           12.8458
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.401
+_cell_angle_gamma                        90
+_cell_volume                             709.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ OH2
+ Pb
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 4 e 0.1063 0.5053 0.403 1
+ C3 C 4 e 0.1492 0.178 0.1112 1
+ C2 C 4 e 0.155 0.814 0.099 1
+ N1 N 4 e 0.1619 0.489 0.34 1
+ O2 OH2 4 e 0.2051 0.002 0.4192 1
+ N2 N 4 e 0.2436 0.692 0.1416 1
+ N3 N 4 e 0.264 0.273 0.174 1
+ Pb Pb 4 e 0.4395 0.4979 0.329 1
+ O1 OH2 4 e 0.5214 0.2814 0.011 1
+ Fe Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.27
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.699204
+_pd_proc_wavelength                      0.699204
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+U.S.A. New York, Brookhaven National Laboratory, National Synchrotron Light Source NSLS, SUNY, X16C
+;
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.699204
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 0.5
+_diffrn_reflns_theta_max                 21.771
+_pd_proc_2theta_range_min                1
+_pd_proc_2theta_range_max                43.542
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Patterson synthesis'
+_refine_ls_number_parameters             48
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.174
+_refine_ls_R_I_factor                    0.072
+
+# End of data set 1129747
+
+

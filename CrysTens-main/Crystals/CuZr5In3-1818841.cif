@@ -1,0 +1,312 @@
+##############################################################################
+#                                                                            #
+# Cu-In-Zr         # CuZr5In3                                      # 1818841 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1818841
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1818841
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Zr~5~ In~3~'
+_chemical_formula_sum                    'Cu In3 Zr5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuHf~5~Sn~3~,hP18,193
+_chemical_formula_weight                 864.1
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal Structrure of Zr~5~MIn~3~(M=Cu, Ag)'                                 
+_journal_coden_ASTM                      NMATEI
+_journal_name_full                       'Neorg. Mater.'
+_journal_year                            1999
+_journal_volume                          35
+_journal_page_first                      572
+_journal_page_last                       576
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gulai L.D.'
+;
+Lviv Ivan Franko National University
+Department of Inorganic Chemistry
+Lviv
+Ukraine
+;
+'Zaremba V.I.'
+;
+Lviv Ivan Franko National University
+Department of Inorganic Chemistry
+Lviv
+Ukraine
+;
+'Kalychak Y.M.'
+;
+Lviv Ivan Franko National University
+Department of Inorganic Chemistry
+Lviv
+Ukraine
+;
+'Kobluyk N.A.'
+;
+Lviv Ivan Franko National University
+Department of Inorganic Chemistry
+Lviv
+Ukraine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.671
+_cell_length_b                           8.671
+_cell_length_c                           5.917
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             385.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   193
+_space_group_name_H-M_alt                'P 63/m c m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, 1/2+z'
+ 6 '-x, -x+y, 1/2-z'
+ 7 '-x, -x+y, z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, -z'
+ 11 '-y, -x, 1/2+z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, -z'
+ 15 'x, x-y, 1/2+z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, 1/2-z'
+ 18 'x-y, -y, z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, 1/2-z'
+ 24 'y, x, z'
+loop_
+ _atom_type_symbol
+ Zr
+ In
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Zr1 Zr 6 g 0.2755 0 0.25 1
+ In In 6 g 0.6229 0 0.25 1
+ Zr2 Zr 4 d 0.333333 0.666667 0 1
+ Cu Cu 2 b 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.45
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          HZG-4A
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 147
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0285
+_pd_proc_ls_proof_wR_factor              0.0457
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 0 74.892 18
+ 1 1 0 43.29 11
+ 0 2 0 37.498 3
+ 1 1 1 34.931 79
+ 0 0 2 29.556 236
+ 1 2 0 28.356 145
+ 0 1 2 27.501 29
+ 1 2 1 25.57 1860
+ 0 3 0 25.011 3384
+ 1 1 2 24.418 3348
+ 0 2 2 23.221 60
+ 2 2 0 21.663 6
+ 1 3 0 20.814 83
+ 1 2 2 20.469 9
+ 2 2 1 20.342 126
+ 1 3 1 19.634 643
+ 0 3 2 19.099 241
+ 0 4 0 18.763 29
+ 1 1 3 17.944 27
+ 2 2 2 17.478 835
+ 2 3 0 17.219 1
+ 1 3 2 17.023 3
+ 2 3 1 16.533 323
+ 1 4 0 16.38 64
+ 1 2 3 16.19 424
+ 0 4 2 15.845 129
+ 1 4 1 15.786 41
+ 0 5 0 15.013 56
+ 2 3 2 14.882 60
+ 0 0 4 14.787 266
+ 2 2 3 14.583 30
+ 0 1 4 14.508 3
+ 3 3 0 14.447 210
+ 1 4 2 14.33 614
+ 1 3 3 14.316 201
+ 2 4 0 14.186 144
+ 3 3 1 14.034 31
+ 1 1 4 13.995 1
+ 2 4 1 13.796 406
+ 0 2 4 13.759 0
+ 1 5 0 13.483 68
+ 0 5 2 13.388 184
+ 1 5 1 13.146 349
+ 1 2 4 13.114 39
+ 3 3 2 12.982 14
+ 2 3 3 12.971 191
+ 2 4 2 12.792 43
+ 0 3 4 12.731 631
+ 1 4 3 12.601 11
+ 0 6 0 12.512 67
+ 3 4 0 12.342 1
+ 1 5 2 12.269 17
+ 2 2 4 12.216 6
+ 3 4 1 12.082 66
+ 1 3 4 12.057 15
+ 2 5 0 12.022 47
+ 2 5 1 11.781 55
+ 3 3 3 11.655 11
+ 0 4 4 11.616 2
+ 0 6 2 11.524 185
+ 1 6 0 11.449 41
+ 1 1 5 11.414 4
+ 3 4 2 11.391 36
+ 1 6 1 11.241 132
+ 2 3 4 11.221 0
+ 2 5 2 11.137 164
+ 1 5 3 11.131 176
+ 1 4 4 10.978 25
+ 1 2 5 10.921 84
+ 4 4 0 10.837 41
+ 0 7 0 10.726 35
+ 1 6 2 10.678 9
+ 4 4 1 10.66 2
+ 3 5 1 10.554 24
+ 0 5 4 10.537 35
+ 3 4 3 10.463 51
+ 2 6 0 10.412 5
+ 2 2 5 10.385 9
+ 3 3 4 10.336 140
+ 1 3 5 10.287 61
+ 2 5 3 10.265 42
+ 2 6 1 10.254 45
+ 2 4 4 10.239 91
+ 4 4 2 10.176 35
+ 0 7 2 10.084 311
+ 1 5 4 9.965 57
+ 1 7 0 9.945 71
+ 1 6 3 9.902 70
+ 0 0 6 9.86 12
+ 2 6 2 9.822 8
+ 1 7 1 9.807 0
+ 0 1 6 9.776 5
+ 2 3 5 9.753 50
+ 1 1 6 9.615 170
+ 4 5 0 9.614 50
+ 1 4 5 9.593 6
+ 0 6 4 9.553 79
+ 0 2 6 9.537 8
+ 4 4 3 9.498 1
+ 4 5 1 9.489 92
+ 3 4 4 9.477 0
+ 3 6 0 9.46 19
+ 1 7 2 9.427 70
+ 3 5 3 9.423 13
+ 0 8 0 9.386 56
+ 3 6 1 9.341 116
+ 2 5 4 9.33 61
+ 1 2 6 9.314 1
+ 2 6 3 9.208 36
+ 0 3 6 9.174 102
+ 3 3 5 9.155 13
+ 4 5 2 9.143 17
+ 2 4 5 9.088 121
+ 2 7 1 9.065 44
+ 1 6 4 9.054 60
+ 3 6 2 9.01 178
+ 2 2 6 8.976 124
+ 0 8 2 8.946 184
+ 1 3 6 8.912 5
+ 1 5 5 8.895 103
+ 1 7 3 8.88 0
+ 1 8 0 8.788 31
+ 2 7 2 8.762 35
+ 4 4 4 8.742 76
+ 0 4 6 8.73 27
+ 1 8 1 8.693 23
+ 0 7 4 8.684 44
+ 5 5 0 8.67 32
+ 4 5 3 8.642 62
+ 4 6 0 8.613 15
+ 5 5 1 8.579 33
+ 2 3 6 8.558 26
+ 3 4 5 8.542 32
+ 3 6 3 8.53 135
+ 4 6 1 8.523 57
+ 1 4 6 8.449 254
+ 2 5 5 8.434 49
+ 3 7 1 8.363 48
+ 0 9 0 8.343 11
+
+# End of data set 1818841
+
+

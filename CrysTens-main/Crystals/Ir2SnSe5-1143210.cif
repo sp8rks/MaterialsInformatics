@@ -1,0 +1,127 @@
+##############################################################################
+#                                                                            #
+# Ir-Se-Sn         # Ir2SnSe5                                      # 1143210 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1143210
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1143210
+
+# Entry summary
+
+_chemical_formula_structural             'Ir~2~ Sn Se~5~'
+_chemical_formula_sum                    'Ir2 Se5 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ir~2~SnSe~5~,mP32,11
+_chemical_formula_weight                 897.9
+
+# Bibliographic data
+
+_publ_section_title
+'Anion-anion bonding and topology in ternary iridium seleno-stannides'        
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2015
+_journal_volume                          54
+_journal_page_first                      11993
+_journal_page_last                       12001
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.6577
+_cell_length_b                           7.5103
+_cell_length_c                           12.4974
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.083
+_cell_angle_gamma                        90
+_cell_volume                             702.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Se
+ Ir
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se2 Se 4 f 0.04123 0.00413 0.28207 1
+ Ir1 Ir 4 f 0.24386 0.00147 0.65063 1
+ Se7 Se 4 f 0.24978 0.0023 0.02016 1
+ Se1 Se 4 f 0.45528 0.5038 0.39094 1
+ Se3 Se 2 e 0.1694 0.25 0.52769 1
+ Ir2 Ir 2 e 0.25254 0.25 0.36048 1
+ Se6 Se 2 e 0.31668 0.25 0.78348 1
+ Sn2 Sn 2 e 0.33491 0.25 0.16403 1
+ Sn1 Sn 2 e 0.66478 0.25 0.84866 1
+ Se5 Se 2 e 0.68393 0.25 0.19957 1
+ Ir3 Ir 2 e 0.75264 0.25 0.66357 1
+ Se4 Se 2 e 0.8323 0.25 0.47785 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.49
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.41388
+_pd_proc_wavelength                      0.41388
+_cell_measurement_reflns_used            4332
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+U.S.A. Illinois, Argonne National Laboratory, Advanced Photon Source, XSD-SRS, 11-BM-B beamline
+;
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.41388
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'simulated annealing'
+_refine_ls_number_parameters             95
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0979
+_pd_proc_ls_proof_wR_factor              0.1208
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1143210
+
+

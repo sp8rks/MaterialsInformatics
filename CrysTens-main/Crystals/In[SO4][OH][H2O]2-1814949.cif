@@ -1,0 +1,178 @@
+##############################################################################
+#                                                                            #
+# H-In-O-S         # In[SO4][OH][H2O]2                             # 1814949 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814949
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814949
+
+# Entry summary
+
+_chemical_formula_structural             'In [S O~4~] [O H] [H~2~ O]~2~'
+_chemical_formula_sum                    'H5 In O7 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            In[SO~4~][OH][H~2~O]~2~,mP36,11
+_chemical_formula_weight                 263.9
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of InOHSO~4~(H~2~O)~2~'                                
+_journal_coden_ASTM                      ACSAA4
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1961
+_journal_volume                          15
+_journal_page_first                      1437
+_journal_page_last                       1453
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Johansson G.'
+;
+KTH Royal Institute of Technology
+Department of Inorganic Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.058
+_cell_length_b                           7.894
+_cell_length_c                           12.2865
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.55
+_cell_angle_gamma                        90
+_cell_volume                             577.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ S
+ OH
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 f 0.112 0.099 0.354 1
+ O4 O 4 f 0.279 0.599 0.103 1
+ O9 OH2 4 f 0.338 0.01 0.6 1
+ O10 OH2 4 f 0.773 0.0 0.14 1
+ O3 O 2 e 0.101 0.25 0.179 1
+ S1 S 2 e 0.181 0.25 0.303 1
+ O8 OH 2 e 0.398 0.25 0.04 1
+ O2 O 2 e 0.428 0.25 0.32 1
+ O6 O 2 e 0.506 0.25 0.742 1
+ S2 S 2 e 0.716 0.25 0.826 1
+ O5 O 2 e 0.906 0.25 0.77 1
+ O7 OH 2 e 0.929 0.25 0.55 1
+ In1 In 2 c 0 0 0.5 1
+ In2 In 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.00
+_exptl_crystal_density_diffrn            3.03
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu K'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 205
+_refine_ls_R_factor_gt                   0.125
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 1650 5
+ 1 0 0 1790 5
+ 1 0 -2 2390 7
+ 0 1 2 2590 2
+ 1 1 0 2750 2
+ 0 2 0 3810 5
+ 1 0 2 4450 5
+ 0 2 2 5450 7
+ 1 2 0 5590 7
+ 1 0 -4 6250 3
+ 0 0 4 6530 1
+ 2 0 -2 6710 2
+ 2 0 0 7160 2
+ 0 1 4 7480 2
+ 2 1 0 8050 2
+ 1 2 2 8250 3
+ 1 0 -5 9470 3
+ 1 2 -4 10050 3
+ 0 2 4 10340 2
+ 2 2 -2 10500 2
+ 1 2 3 10840 2
+ 2 2 0 10960 2
+ 2 2 -4 13340 3
+ 1 2 4 14180 2
+ 2 2 2 14640 2
+ 0 4 0 15220 3
+ 0 1 6 15620 2
+ 3 0 0 16010 2
+ 3 0 -4 16380 2
+ 0 4 2 16840 2
+ 1 4 0 17010 2
+ 1 2 -6 17160 2
+ 1 4 -2 17590 2
+ 3 2 -2 18390 2
+ 2 2 -6 19410 2
+ 1 4 2 19660 3
+ 3 2 -4 20170 2
+
+# End of data set 1814949
+
+

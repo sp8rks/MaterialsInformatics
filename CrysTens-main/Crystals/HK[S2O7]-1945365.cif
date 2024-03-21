@@ -1,0 +1,124 @@
+##############################################################################
+#                                                                            #
+# H-K-O-S          # HK[S2O7]                                      # 1945365 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1945365
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1945365
+
+# Entry summary
+
+_chemical_formula_structural             'H K [S~2~ O~7~]'
+_chemical_formula_sum                    'H K O7 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[NH~4~][S~2~O~7~],mP40,14
+_chemical_formula_weight                 216.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Dimers and chains of hydrogen bonded [HS~2~O~7~]^-^ anions in the crystal structures of M[HS~2~O~7~] (M= K, [NH~4~], [NO], Rb, Cs)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2015
+_journal_volume                          641
+_journal_page_first                      2604
+_journal_page_last                       2609
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.1667
+_cell_length_b                           10.4357
+_cell_length_c                           8.2878
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.884
+_cell_angle_gamma                        90
+_cell_volume                             589.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ K
+ S
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O21 O 4 e 0.00723 0.12942 0.28398 1
+ K1 K 4 e 0.1598 0.79528 0.03661 1
+ S2 S 4 e 0.17213 0.05809 0.38547 1
+ O23 O 4 e 0.22103 0.41213 0.06436 1
+ O11 O 4 e 0.22782 0.09903 0.03333 1
+ O121 O 4 e 0.36739 0.12346 0.34382 1
+ S1 S 4 e 0.40776 0.09905 0.16791 1
+ O13 O 4 e 0.51514 0.46141 0.31717 1
+ O12 O 4 e 0.55826 0.18868 0.17045 1
+ O22 O 4 e 0.82036 0.42502 0.15455 1
+ H13 H 4 e 0.416 0.4557 0.23 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.43
+_cell_measurement_temperature            100
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            9828
+_diffrn_ambient_temperature              100
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    67412
+_diffrn_reflns_theta_min                 2.88
+_diffrn_reflns_theta_max                 30.03
+_exptl_absorpt_coefficient_mu            1.588
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             96
+_refine_ls_number_reflns                 3581
+_refine_ls_R_factor_gt                   0.0141
+_refine_ls_wR_factor_gt                  0.0404
+
+# End of data set 1945365
+
+

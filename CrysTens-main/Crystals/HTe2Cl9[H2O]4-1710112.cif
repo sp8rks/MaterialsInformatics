@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Cl-H-O-Te        # HTe2Cl9[H2O]4                                 # 1710112 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1710112
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1710112
+
+# Entry summary
+
+_chemical_formula_structural             'H Te~2~ Cl~9~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Cl9 H8 O4 Te2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HTe~2~Cl~9~[H~2~O]~4~,mS68,15
+_chemical_formula_weight                 647.3
+_chemical_melting_point                  293
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structure and properties of nonachloroditellurous and tetrachlorohydroxotellurous acid hydrates. Crystal structures of the oxonium salts [H~9~O~4~]~n~[Te~2~Cl~9~]~n~ and [H~9~O~4~][TeCl~4~OH].H~2~O
+;
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1992
+_journal_volume                          47
+_journal_page_first                      93
+_journal_page_last                       103
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Krebs B.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Bonmann S.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Gretenkord K.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.642
+_cell_length_b                           13.012
+_cell_length_c                           12.2504
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.048
+_cell_angle_gamma                        90
+_cell_volume                             1667.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ OH2
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 8 f 0.09234 0.04449 0.41432 1
+ O1 OH2 8 f 0.1577 0.2099 0.0909 1
+ Te Te 8 f 0.21834 0.39262 0.42679 1
+ Cl3 Cl 8 f 0.26668 0.46799 0.27523 1
+ Cl4 Cl 8 f 0.34757 0.20997 0.41039 1
+ O2 OH2 8 f 0.3698 0.2937 0.1292 0.5
+ Cl2 Cl 8 f 0.39983 0.03646 0.06895 1
+ O2' OH2 8 f 0.4292 0.2826 0.1814 0.5
+ Cl5 Cl 4 e 0 0.30219 0.25 1
+
+
+_exptl_crystal_colour                    'yellow light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.58
+_cell_measurement_temperature            140(3)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            22
+_diffrn_ambient_temperature              140(3)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    2899
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 27
+_exptl_absorpt_coefficient_mu            4.96
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             79
+_refine_ls_number_reflns                 1776
+_refine_ls_R_factor_gt                   0.0478
+_refine_ls_wR_factor_gt                  0.0585
+
+# End of data set 1710112
+
+

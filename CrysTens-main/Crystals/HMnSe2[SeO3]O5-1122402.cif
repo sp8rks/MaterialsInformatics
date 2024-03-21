@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# H-Mn-O-Se        # HMnSe2[SeO3]O5                                # 1122402 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1122402
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1122402
+
+# Entry summary
+
+_chemical_formula_structural             'H Mn Se~2~ [Se O~3~] O~5~'
+_chemical_formula_sum                    'H Mn O8 Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HFeSe~2~[SeO~3~]O~5~,mP48,14
+_chemical_formula_weight                 420.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of manganese(III) hydrogen selenite diselenite, MnH(SeO~3~)(Se~2~O~5~)
+;
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1977
+_journal_volume                          31
+_journal_page_first                      638
+_journal_page_last                       640
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Koskenlinna M.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+'Valkonen J.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.575
+_cell_length_b                           12.583
+_cell_length_c                           10.3607
+_cell_angle_alpha                        90
+_cell_angle_beta                         134.087
+_cell_angle_gamma                        90
+_cell_volume                             709.34
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ O
+ Mn
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se2 Se 4 e 0.0009 0.633 0.4332 1
+ O2 O 4 e 0.0698 0.793 0.2258 1
+ O3 O 4 e 0.109 0.097 0.2667 1
+ Mn Mn 4 e 0.1332 0.1792 0.4387 1
+ O6 O 4 e 0.1516 0.596 0.1099 1
+ O4 O 4 e 0.1712 0.2397 0.1222 1
+ Se3 Se 4 e 0.2977 0.4852 0.2258 1
+ O8 O 4 e 0.2873 0.807 0.0384 1
+ O5 O 4 e 0.3575 0.428 0.1109 1
+ O7 OH 4 e 0.4038 0.0394 0.1001 1
+ O1 O 4 e 0.4557 0.2353 0.0337 1
+ Se1 Se 4 e 0.6651 0.2988 0.052 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 27.5
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1366
+_refine_ls_R_factor_gt                   0.035
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1122402
+
+

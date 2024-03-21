@@ -1,0 +1,168 @@
+##############################################################################
+#                                                                            #
+# Al-Ba-H-O-P      # HBaAl3[PO4]2[OH]6 mon                         # 1140206 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1140206
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1140206
+
+# Entry summary
+
+_chemical_formula_structural
+'Ba Al~3~ [P O~4~]~2~ [O H]~5~ [H~2~ O]'                                      
+_chemical_formula_sum                    'Al3 Ba H7 O14 P2'
+_chemical_name_mineral                   'gorceixite M'
+_chemical_compound_source                'Canada, Yukon, Rapid Creek area'
+_chemical_name_structure_type            HBaAl~3~[PO~4~]~2~[OH]~6~,mS40,8
+_chemical_formula_weight                 511.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+New X-Ray Powder Data for Gorceixite, BaAl~3~(PO~4~)~2~(OH)~5~.H~2~O, an Evaluation of d-Spacings and Intensities, Pseudosymmetry and Its Influence on the Figure of Merit
+;
+_journal_coden_ASTM                      PODIE2
+_journal_name_full                       'Powder Diffr.'
+_journal_year                            1989
+_journal_volume                          4
+_journal_page_first                      227
+_journal_page_last                       230
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.217
+_cell_length_b                           7.056
+_cell_length_c                           7.061
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.21
+_cell_angle_gamma                        90
+_cell_volume                             497.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Al
+ OH
+ P
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 b 0.0162 0.3255 0.6586 1
+ Al1 Al 4 b 0.0923 0.2636 0.5091 1
+ O2 O 4 b 0.1758 0.1809 0.3504 1
+ O3 OH 4 b 0.2643 0.3125 0.7598 1
+ O4 OH 4 b 0.4159 0.3087 0.2269 1
+ O5 O 2 a 0.0 0 0.0 1
+ O6 OH 2 a 0.1097 0 0.6232 1
+ P1 P 2 a 0.1402 0 0.2079 1
+ O7 OH 2 a 0.2354 0 0.1154 1
+ O8 O 2 a 0.4552 0 0.8926 1
+ P2 P 2 a 0.5387 0 0.8078 1
+ O9 OH 2 a 0.5776 0 0.3974 1
+ O10 O 2 a 0.6934 0 0.0186 1
+ Al2 Al 2 a 0.8359 0 0.0044 1
+ Ba1 Ba 2 a 0.8417 0 0.5052 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.41
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            28
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ -1 1 0 153.46 93
+ -3 1 1 252.14 56
+ -3 1 2 296.58 100
+ 0 0 2 309.7 15
+ -2 2 2 359.64 11
+ 1 1 2 392.68 39
+ -1 3 1 403.78 23
+ -1 1 3 444.25 11
+ -3 3 2 473.13 29
+ -6 2 2 518.29 20
+ -5 1 4 543.11 10
+ 1 1 3 551.25 4
+ -2 4 2 584.4 1
+ 5 3 0 607.96 5
+ -2 2 4 615.37 18
+ 4 4 0 646.67 3
+ -2 4 3 668.89 9
+ 1 3 3 675.67 3
+ -6 4 2 706 4
+ -9 1 4 727.65 9
+ -4 4 4 762.28 1
+ 1 5 2 783.77 5
+ -2 4 4 790.45 5
+ -9 3 3 818.61 4
+ -5 1 6 837.86 5
+ 4 4 2 845.32 2
+ -10 2 2 873.45 2
+ -9 1 6 893.65 2
+
+# End of data set 1140206
+
+

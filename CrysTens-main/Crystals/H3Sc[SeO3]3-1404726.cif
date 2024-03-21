@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# H-O-Sc-Se        # H3Sc[SeO3]3                                   # 1404726 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1404726
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1404726
+
+# Entry summary
+
+_chemical_formula_structural             'H~3~ Sc [Se O~3~]~3~'
+_chemical_formula_sum                    'H3 O9 Sc Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~3~Sc[SeO~3~]~3~,mS52,9
+_chemical_formula_weight                 428.9
+
+# Bibliographic data
+
+_publ_section_title                      'Scandium Hydrogenselenite'
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1978
+_journal_volume                          34
+_journal_page_first                      1323
+_journal_page_last                       1326
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Valkonen J.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+'Leskel\"a M.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.13
+_cell_length_b                           9.506
+_cell_length_c                           7.598
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.59
+_cell_angle_gamma                        90
+_cell_volume                             796.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH
+ Se
+ Sc
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 a 0.0 0.1443 0.0 1
+ O9 OH 4 a 0.0071 0.3637 0.3281 1
+ O3 OH 4 a 0.1139 0.0724 0.6311 1
+ Se1 Se 4 a 0.1423 0.0961 0.046 1
+ O1 O 4 a 0.185 0.1826 0.2402 1
+ O6 OH 4 a 0.2124 0.6388 0.3864 1
+ O4 O 4 a 0.2624 0.3095 0.5709 1
+ O5 O 4 a 0.3091 0.4382 0.2067 1
+ Se2 Se 4 a 0.3297 0.611 0.2566 1
+ Sc1 Sc 4 a 0.358 0.2498 0.3531 1
+ O7 O 4 a 0.3867 0.0531 0.4679 1
+ O8 O 4 a 0.4307 0.1832 0.1347 1
+ Se3 Se 4 a 0.4988 0.0548 0.0385 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.57
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            18
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1297
+_exptl_absorpt_coefficient_mu            14.53
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1109
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1404726
+
+

@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# As-F-Ga-H-O-Rb   # H2RbGa[AsO4]F3                                # 1530356 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1530356
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1530356
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Rb Ga [As O~4~] F~3~'
+_chemical_formula_sum                    'As F3 Ga H2 O4 Rb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~RbGa[AsO~4~]F~3~,mS40,15
+_chemical_formula_weight                 353.1
+
+# Bibliographic data
+
+_publ_section_title                      'Gallium fluoroarsenates'
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2015
+_journal_volume                          44
+_journal_page_first                      12804
+_journal_page_last                       12811
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Marshall K.L.'
+;
+Bath University
+Department of Chemistry
+Bath
+United Kingdom
+;
+'Armstrong J.A.'
+;
+Southampton University
+School of Chemistry
+Southampton
+United Kingdom
+;
+'Weller M.T.'
+;
+Bath University
+Department of Chemistry
+Bath
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.8591
+_cell_length_b                           8.6109
+_cell_length_c                           7.25
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.616
+_cell_angle_gamma                        90
+_cell_volume                             637.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ O
+ As
+ Rb
+ Ga
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 8 f 0.1742 0.0643 0.111 1
+ O1 O 8 f 0.3795 0.0744 0.0729 1
+ O2 O 8 f 0.438 0.298 0.3716 1
+ F2 F 4 e 0 0.0819 0.25 1
+ As1 As 4 e 0 0.6956 0.25 1
+ Rb1 Rb 4 d 0.25 0.25 0.5 1
+ Ga1 Ga 4 a 0 0 0 1
+ H1 H 8 f 0.309 0.083 0.073 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.68
+_cell_measurement_temperature            120(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            3550
+_diffrn_ambient_temperature              120(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker-Nonius APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3771
+_diffrn_reflns_theta_min                 3.095
+_diffrn_reflns_theta_max                 27.552
+_exptl_absorpt_coefficient_mu            17.08
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             54
+_refine_ls_number_reflns                 623
+_refine_ls_R_factor_gt                   0.0436
+_refine_ls_wR_factor_gt                  0.0810
+
+# End of data set 1530356
+
+

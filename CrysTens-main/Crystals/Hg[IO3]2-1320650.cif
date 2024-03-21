@@ -1,0 +1,129 @@
+##############################################################################
+#                                                                            #
+# Hg-I-O           # Hg[IO3]2                                      # 1320650 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1320650
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1320650
+
+# Entry summary
+
+_chemical_formula_structural             'Hg [I O~3~]~2~'
+_chemical_formula_sum                    'Hg I2 O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg[IO~3~]~2~,mP18,4
+_chemical_formula_weight                 550.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Dimorphism in mercury(II) iodate(V): Preparation and thermal behaviour of \a- and \b-Hg(IO~3~)~2~, and single crystal structure analysis of \b-Hg(IO~3~)~2~
+;
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2003
+_journal_volume                          58
+_journal_page_first                      627
+_journal_page_last                       632
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Weil M.'
+;
+Vienna Technical University
+Institut f\"ur Chemische Technologie und Analytik
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.7818
+_cell_length_b                           5.6077
+_cell_length_c                           8.9849
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.89
+_cell_angle_gamma                        90
+_cell_volume                             284
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Hg
+ I
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 2 a 0.0343 0.0599 0.5872 1
+ Hg Hg 2 a 0.06995 0.74945 0.17305 1
+ O2 O 2 a 0.1704 0.4208 0.0661 1
+ O3 O 2 a 0.2411 0.4288 0.7421 1
+ I1 I 2 a 0.27243 0.26195 0.57293 1
+ O4 O 2 a 0.2934 0.0784 0.2937 1
+ O5 O 2 a 0.3299 0.0 0.0043 1
+ I2 I 2 a 0.42326 0.22742 0.14913 1
+ O6 O 2 a 0.4744 0.5735 0.3474 1
+
+
+_exptl_crystal_colour                    'colorless almost'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.44
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4233
+_diffrn_reflns_theta_min                 2.33
+_diffrn_reflns_theta_max                 30.47
+_exptl_absorpt_coefficient_mu            37.93
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             83
+_refine_ls_number_reflns                 1604
+_refine_ls_R_factor_gt                   0.0175
+_refine_ls_wR_factor_gt                  0.0382
+
+# End of data set 1320650
+
+

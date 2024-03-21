@@ -1,0 +1,165 @@
+##############################################################################
+#                                                                            #
+# B-H-Na           # H6NaB6                                        # 1717620 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1717620
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1717620
+
+# Entry summary
+
+_chemical_formula_structural             'H~6~ Na B~6~'
+_chemical_formula_sum                    'B6 H6 Na'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~6~NaB~6~,mP28,14
+_chemical_formula_weight                 93.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Role of cation size on the structural behavior of the alkali-metal dodecahydro-closo-dodecaborates
+;
+_journal_coden_ASTM                      JPCCCK
+_journal_name_full                       'J. Phys. Chem. C'
+_journal_year                            2009
+_journal_volume                          113
+_journal_page_first                      11187
+_journal_page_last                       11189
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Her J.H.'
+;
+National Institute of Standards and Technology (NIST)
+Center for Neutron Research
+Gaithersburg
+U.S.A. Maryland
+;
+'Zhou W.'
+;
+National Institute of Standards and Technology (NIST)
+Center for Neutron Research
+Gaithersburg
+U.S.A. Maryland
+;
+'Stavila V.'
+;
+Sandia National Laboratory
+Livermore
+U.S.A. California
+;
+'Brown C.M.'
+;
+National Institute of Standards and Technology (NIST)
+Center for Neutron Research
+Gaithersburg
+U.S.A. Maryland
+;
+'Udovic T.J.'
+;
+National Institute of Standards and Technology (NIST)
+Center for Neutron Research
+Gaithersburg
+U.S.A. Maryland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.0093
+_cell_length_b                           10.654
+_cell_length_c                           9.5145
+_cell_angle_alpha                        90
+_cell_angle_beta                         132.568
+_cell_angle_gamma                        90
+_cell_volume                             523.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ B
+ Na
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ B4 B 4 e 0.00083 0.54799 0.33002 1
+ B5 B 4 e 0.08737 0.60843 0.66574 1
+ B3 B 4 e 0.09392 0.15044 0.07759 1
+ B1 B 4 e 0.23662 0.60265 0.57072 1
+ B6 B 4 e 0.24066 0.05733 0.01624 1
+ B2 B 4 e 0.29415 0.01998 0.22373 1
+ Na1 Na 4 e 0.38794 0.30535 0.01007 1
+ H4 H 4 e 0.00139 0.58123 0.21227 1
+ H5 H 4 e 0.14789 0.81646 0.28054 1
+ H3 H 4 e 0.15896 0.25464 0.13134 1
+ H6 H 4 e 0.40736 0.09705 0.0275 1
+ H2 H 4 e 0.49789 0.03382 0.3787 1
+ H1 H 4 e 0.59949 0.32624 0.3803 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.19
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku D/MAX Ultima III'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 50
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                100
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             61
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.051
+_pd_proc_ls_proof_wR_factor              0.069
+_refine_ls_R_I_factor                    0.010
+
+# End of data set 1717620
+
+

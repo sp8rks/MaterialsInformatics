@@ -1,0 +1,170 @@
+##############################################################################
+#                                                                            #
+# Gd-O             # Gd2O3 ht1                                     # 1400970 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1400970
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1400970
+
+# Entry summary
+
+_chemical_formula_structural             'Gd~2~ O~3~'
+_chemical_formula_sum                    'Gd2 O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sm~2~O~3~,mS30,12
+_chemical_formula_weight                 362.5
+
+# Bibliographic data
+
+_publ_section_title
+'The monoclinic modification of gadolinium sesquioxide Gd~2~O~3~'             
+_journal_coden_ASTM                      ACCRA9
+_journal_name_full                       'Acta Crystallogr.'
+_journal_year                            1958
+_journal_volume                          11
+_journal_page_first                      746
+_journal_page_last                       ?
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Guentert O.J.'
+;
+Raytheon Co.
+Research Division
+Waltham
+U.S.A. Massachusetts
+;
+'Mozzi R.L.'
+;
+Raytheon Co.
+Research Division
+Waltham
+U.S.A. Massachusetts
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.061
+_cell_length_b                           3.566
+_cell_length_c                           8.76
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.1
+_cell_angle_gamma                        90
+_cell_volume                             432.4
+_cell_formula_units_Z                    6
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Gd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 i 0.0259 0 0.6562 1
+ Gd1 Gd 4 i 0.13463 0 0.49003 1
+ Gd2 Gd 4 i 0.18996 0 0.13782 1
+ O2 O 4 i 0.2984 0 0.3738 1
+ O3 O 4 i 0.3250 0 0.0265 1
+ Gd3 Gd 4 i 0.46627 0 0.18794 1
+ O4 O 4 i 0.6289 0 0.2864 1
+ O5 O 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              8.22
+_exptl_crystal_density_diffrn            8.35
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 2 0 -1 59 3
+ 2 0 -2 39.65 4
+ 2 0 2 33.96 10
+ 1 1 1 31.55 70
+ 4 0 1 30.28 60
+ 4 0 -2 29.61 100
+ 0 0 3 28.68 50
+ 3 1 0 28.2 75
+ 1 1 -2 27.52 75
+ 6 0 0 23.08 10
+ 1 1 -3 22.58 5
+ 6 0 -2 21.95 20
+ 3 1 -3 21.31 45
+ 3 1 3 19.15 40
+ 0 2 0 17.84 25
+ 8 0 -1 17.59 10
+ 4 0 4 17 30
+ 4 0 -5 16.65 20
+ 5 1 -4 16.51 30
+ 1 1 -5 15.71 10
+ 4 2 1 15.39 15
+ 4 2 -2 15.3 20
+ 1 1 5 15.18 15
+ 8 0 -4 14.82 7
+
+# End of data set 1400970
+
+

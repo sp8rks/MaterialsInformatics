@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Ho-O-P           # HoP3O9 mon2                                   # 1834702 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1834702
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1834702
+
+# Entry summary
+
+_chemical_formula_structural             'Ho P~3~ O~9~'
+_chemical_formula_sum                    'Ho O9 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            RuP~3~O~9~,mS52,15
+_chemical_formula_weight                 401.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+(3+1)-Dimensional incommensurately modulated structure and photoluminescence property of polyphosphate Ho(PO~3~)~3~
+;
+_journal_coden_ASTM                      MLETDJ
+_journal_name_full                       'Mater. Lett.'
+_journal_year                            2015
+_journal_volume                          157
+_journal_page_first                      219
+_journal_page_last                       221
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhao D.'
+;
+Henan Polytechnic University
+Department of Physics and Chemistry
+Jiaozuo / Henan
+China
+;
+'Zhang R.H.'
+;
+Henan Polytechnic University
+Department of Physics and Chemistry
+Jiaozuo / Henan
+China
+;
+'Ma F.X.'
+;
+Henan Polytechnic University
+Department of Physics and Chemistry
+Jiaozuo / Henan
+China
+;
+'Li F.F.'
+;
+Henan Polytechnic University
+Department of Physics and Chemistry
+Jiaozuo / Henan
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.127
+_cell_length_b                           6.693
+_cell_length_c                           10.068
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.612
+_cell_angle_gamma                        90
+_cell_volume                             754.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Ho
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 f 0.0224 0.2781 0.1503 1
+ P1 P 8 f 0.09521 0.1016 0.15941 1
+ O1 O 8 f 0.1823 0.1727 0.1398 1
+ O4 O 8 f 0.3666 0.4744 0.1996 1
+ O2 O 8 f 0.3935 0.0271 0.1295 1
+ P2 P 4 e 0 0.4174 0.25 1
+ Ho1 Ho 4 c 0.25 0.25 0 1
+ O5 O 4 a 0 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.54
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8 SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    10186
+_exptl_absorpt_coefficient_mu            11.15
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'charge flipping'
+_refine_ls_number_parameters             226
+_refine_ls_number_reflns                 1817
+_refine_ls_R_factor_gt                   0.048
+_refine_ls_wR_factor_gt                  0.051
+
+# End of data set 1834702
+
+

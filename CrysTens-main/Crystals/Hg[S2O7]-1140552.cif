@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Hg-O-S           # Hg[S2O7]                                      # 1140552 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1140552
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1140552
+
+# Entry summary
+
+_chemical_formula_structural             'Hg [S~2~ O~7~]'
+_chemical_formula_sum                    'Hg O7 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Si[P~2~O~7~]-b,mP40,14
+_chemical_formula_weight                 376.7
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of mercury disulfate, Hg[S~2~O~7~], HgO~7~S~2~'            
+_journal_coden_ASTM                      ZKNSFT
+_journal_name_full
+'Z. Kristallogr. - New Cryst. Struct.'                                        
+_journal_year                            2013
+_journal_volume                          228
+_journal_page_first                      161
+_journal_page_last                       162
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Logemann C.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+'Wickleder M.S.'
+;
+Oldenburg Karl von Ossietzky University
+Institut f\"ur Reine und Angewandte Chemie
+Oldenburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.1467
+_cell_length_b                           12.9327
+_cell_length_c                           9.5028
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.238
+_cell_angle_gamma                        90
+_cell_volume                             546.45
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O13 O 4 e -0.0556 0.4388 0.1201 1
+ O23 O 4 e 0.0072 0.203 0.07 1
+ S1 S 4 e 0.1394 0.02068 0.3069 1
+ O121 O 4 e 0.1837 0.5582 0.3428 1
+ O12 O 4 e 0.2712 0.1096 0.4115 1
+ Hg1 Hg 4 e 0.35287 0.34222 0.17116 1
+ O22 O 4 e 0.4707 0.3347 0.4406 1
+ O11 O 4 e 0.6923 0.4857 0.2685 1
+ O21 O 4 e 0.735 0.2357 0.2144 1
+ S2 S 4 e 0.7555 0.17584 0.0903 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.58
+_cell_measurement_temperature            153
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              153
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    13782
+_exptl_absorpt_coefficient_mu            28.907
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             92
+_refine_ls_number_reflns                 1519
+_refine_ls_R_factor_gt                   0.0170
+_refine_ls_wR_factor_gt                  0.0450
+
+# End of data set 1140552
+
+

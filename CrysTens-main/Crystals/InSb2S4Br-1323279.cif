@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# Br-In-S-Sb       # InSb2S4Br                                     # 1323279 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1323279
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1323279
+
+# Entry summary
+
+_chemical_formula_structural             'In Sb~2~ S~4~ Br'
+_chemical_formula_sum                    'Br In S4 Sb2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CdSb~2~Se~3~Br~2~,mS32,12
+_chemical_formula_weight                 566.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+A new series of chalcohalide semiconductors with composite CdBr~2~/Sb~2~Se~3~ lattices: Synthesis and characterization of CdSb~2~Se~3~Br~2~ and indium derivatives InSb~2~S~4~X (X= Cl and Br) and InM~2~Se~4~Br (M= Sb and Bi)
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2007
+_journal_volume                          19
+_journal_page_first                      6212
+_journal_page_last                       6221
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wang L.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Hwu S.J.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           20.177
+_cell_length_b                           3.867
+_cell_length_c                           11.66
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.13
+_cell_angle_gamma                        90
+_cell_volume                             794.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Sb
+ S
+ Br
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sb1 Sb 4 i 0.04659 0 0.2831 1
+ S3 S 4 i 0.1013 0 0.5247 1
+ Br Br 4 i 0.10398 0 0.03472 1
+ Sb2 Sb 4 i 0.29506 0 0.40304 1
+ S2 S 4 i 0.3195 0 0.6315 1
+ In In 4 i 0.33668 0 0.06622 1
+ S4 S 4 i 0.4634 0 0.2878 1
+ S1 S 4 i 0.7877 0 0.1518 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.73
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC8S'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0480
+_refine_ls_wR_factor_gt                  0.0989
+
+# End of data set 1323279
+
+

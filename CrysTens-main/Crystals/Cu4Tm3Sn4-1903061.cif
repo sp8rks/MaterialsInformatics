@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Cu-Sn-Tm         # Cu4Tm3Sn4 rt                                  # 1903061 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1903061
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1903061
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~4~ Tm~3~ Sn~4~'
+_chemical_formula_sum                    'Cu4 Sn4 Tm3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~4~Tm~3~Sn~4~,mS22,12
+_chemical_formula_weight                 1235.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structures cristallines de Sc~3~Cu~4~Ge~4~, TR~3~Cu~4~Sn~4~ (TR= Y, Gd, Tb, Dy, Ho, Er), isotypes de Gd~3~Cu~4~Ge~4~, et de la phase apparent\'ee Tm~3~Cu~4~Sn~4~
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1983
+_journal_volume                          18
+_journal_page_first                      1537
+_journal_page_last                       1542
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Thirion F.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Laboratoire de Chimie Min\'erale
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Steinmetz J.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Laboratoire de Chimie Min\'erale
+Vandoeuvre-l\`es-Nancy
+France
+;
+'Malaman B.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Laboratoire de Chimie Min\'erale
+Vandoeuvre-l\`es-Nancy
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.999
+_cell_length_b                           4.3935
+_cell_length_c                           6.896
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.979
+_cell_angle_gamma                        90
+_cell_volume                             439.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Tm
+ Sn
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Tm2 Tm 4 i 0.1304 0 0.6386 1
+ Sn1 Sn 4 i 0.216 0 0.2056 1
+ Cu1 Cu 4 i 0.3209 0 0.6268 1
+ Cu2 Cu 4 i 0.3355 0 0.0191 1
+ Sn2 Sn 4 i 0.5059 0 0.3034 1
+ Tm1 Tm 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.34
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius CAD4F'
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    745
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            52
+_exptl_absorpt_correction_type           no
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 558
+_refine_ls_R_factor_gt                   0.056
+_refine_ls_wR_factor_gt                  0.058
+
+# End of data set 1903061
+
+

@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# Cu-Sn            # Cu6Sn5 rt                                     # 1252089 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1252089
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1252089
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~5~ Sn~4~'
+_chemical_formula_sum                    'Cu5 Sn4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~5~Sn~4~,mP36,14
+_chemical_formula_weight                 792.5
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure modulations in \h-Cu~5~Sn~4~'                              
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1995
+_journal_volume                          210
+_journal_page_first                      832
+_journal_page_last                       837
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Larsson A.K.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Stenberg L.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Lidin S.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.84
+_cell_length_b                           7.27
+_cell_length_c                           9.84
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.5
+_cell_angle_gamma                        90
+_cell_volume                             624.39
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Sn
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sn4 Sn 4 e 0.051 0.088 0.167 1
+ Cu4 Cu 4 e 0.072 0.244 0.428 1
+ Cu3 Cu 4 e 0.184 0.774 0.320 1
+ Sn3 Sn 4 e 0.186 0.589 0.080 1
+ Cu2 Cu 4 e 0.311 0.248 0.188 1
+ Cu' Cu 4 e 0.312 0.090 0.437 1
+ Sn2 Sn 4 e 0.320 0.441 0.440 1
+ Cu1 Cu 4 e 0.557 0.222 0.444 1
+ Sn1 Sn 4 e 0.569 0.405 0.210 1
+
+
+_exptl_crystal_colour                    'gray silver'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.43
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              electrons
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'electron diffraction'
+_diffrn_measurement_device_type          'JEOL JEM-2000EX'
+_diffrn_radiation_type                   electrons
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'crystal chemical considerations'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1252089
+
+

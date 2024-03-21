@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Co-K-O           # K2CoO2                                        # 1707859 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1707859
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1707859
+
+# Entry summary
+
+_chemical_formula_structural             'K~2~ Co O~2~'
+_chemical_formula_sum                    'Co K2 O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~CoO~2~,mP20,14
+_chemical_formula_weight                 169.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+The first oxocobaltate of the type A~2~Co^2+^O~2~: K~2~CoO~2~ = K~4~[OCoO~2~CoO]
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1994
+_journal_volume                          620
+_journal_page_first                      586
+_journal_page_last                       591
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bernhardt F.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Hoppe R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.515
+_cell_length_b                           9.5298
+_cell_length_c                           6.957
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.29
+_cell_angle_gamma                        90
+_cell_volume                             383.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Co
+ K
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0117 0.0189 0.3017 1
+ Co Co 4 e 0.1898 0.4336 0.0868 1
+ K1 K 4 e 0.2818 0.0863 0.0992 1
+ O2 O 4 e 0.4461 0.3509 0.2708 1
+ K2 K 4 e 0.744 0.2636 0.1349 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.93
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    6276
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 34
+_exptl_absorpt_coefficient_mu            5.138
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             46
+_refine_ls_number_reflns                 1567
+_refine_ls_R_factor_gt                   0.0325
+_refine_ls_wR_factor_gt                  0.0267
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 -1 245.2 3
+ 1 2 0 438 1
+ 0 1 2 686.2 4
+ 2 0 0 708 3
+ 1 2 -2 755 3
+ 1 3 0 764.9 10
+
+# End of data set 1707859
+
+

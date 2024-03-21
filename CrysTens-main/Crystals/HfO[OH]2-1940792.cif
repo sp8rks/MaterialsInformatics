@@ -1,0 +1,163 @@
+##############################################################################
+#                                                                            #
+# H-Hf-O           # HfO[OH]2                                      # 1940792 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1940792
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1940792
+
+# Entry summary
+
+_chemical_formula_structural             'Hf O [O H]~2~'
+_chemical_formula_sum                    'H2 Hf O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HfO[OH]~2~,mP16,14
+_chemical_formula_weight                 228.5
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of a new HfO(OH)~2~ oxyhydroxide'                          
+_journal_coden_ASTM                      PODIE2
+_journal_name_full                       'Powder Diffr.'
+_journal_year                            2013
+_journal_volume                          28
+_journal_page_first                      S510
+_journal_page_last                       S518
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tarakina N.V.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Tyutyunnik A.P.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Baklanova I.V.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Maksimova L.G.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Denisova T.A.'
+;
+Russian Academy of Sciences
+Institute of Solid State Chemistry
+Ekaterinburg
+Russia
+;
+'Neder R.B.'
+;
+Erlangen University
+Crystallography and Structural Physics
+Erlangen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.5578
+_cell_length_b                           9.0701
+_cell_length_c                           5.7174
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.746
+_cell_angle_gamma                        90
+_cell_volume                             250.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ Hf
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 OH 4 e 0.168 0.1535 0.0247 1
+ O2 OH 4 e 0.186 0.5396 0.2279 1
+ Hf Hf 4 e 0.2235 0.10294 0.45375 1
+ O1 O 4 e 0.695 0.4342 0.1954 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.07
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI P'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 60
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                120
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0265
+_pd_proc_ls_proof_wR_factor              0.0364
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1940792
+
+

@@ -1,0 +1,125 @@
+##############################################################################
+#                                                                            #
+# C-Cl-H-N-O       # H2C2N4ClO4                                    # 1143530 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1143530
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1143530
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ C~2~ N~4~ Cl O~4~'
+_chemical_formula_sum                    'C2 Cl H2 N4 O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~C~2~N~4~ClO~4~,mP44,14
+_chemical_formula_weight                 181.5
+
+# Bibliographic data
+
+_publ_section_title
+'The many faces of FOX-7: A precursor to high-performance energetic materials'
+_journal_coden_ASTM                      ACIEF5
+_journal_name_full                       'Angew. Chem. Int. Ed.'
+_journal_year                            2015
+_journal_volume                          54
+_journal_page_first                      6335
+_journal_page_last                       6338
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.3022
+_cell_length_b                           5.9107
+_cell_length_c                           14.2245
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.739
+_cell_angle_gamma                        90
+_cell_volume                             618.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ O
+ C
+ Cl
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N4 N 4 e 0.0507 0.4479 0.4843 1
+ O1 O 4 e 0.0875 0.14 0.3271 1
+ C2 C 4 e 0.1556 0.2084 0.0597 1
+ N3 N 4 e 0.174 0.2757 0.1562 1
+ N1 N 4 e 0.2151 0.2474 0.4111 1
+ Cl1 Cl 4 e 0.2751 0.6176 0.0432 1
+ C1 C 4 e 0.2752 0.3262 0.0354 1
+ O2 O 4 e 0.2964 0.3985 0.4091 1
+ N2 N 4 e 0.4771 0.2385 0.1254 1
+ O4 O 4 e 0.4906 0.0594 0.1724 1
+ O3 O 4 e 0.5934 0.3518 0.1379 1
+ H3A H 4 e 0.1036 0.201 0.169 1
+ H3B H 4 e 0.249 0.392 0.193 1
+
+
+_exptl_crystal_colour                    'yellow light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.95
+_cell_measurement_temperature            100(2)
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54178
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              100(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8 VENTURE'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54178
+_diffrn_reflns_number                    15103
+_diffrn_reflns_theta_min                 6.02
+_diffrn_reflns_theta_max                 68.22
+_exptl_absorpt_coefficient_mu            5.387
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             108
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0366
+_refine_ls_wR_factor_gt                  0.0984
+
+# End of data set 1143530
+
+

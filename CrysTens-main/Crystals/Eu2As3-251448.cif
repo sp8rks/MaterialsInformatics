@@ -1,0 +1,201 @@
+##############################################################################
+#                                                                            #
+# As-Eu            # Eu2As3 rt                                     #  251448 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_251448
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      251448
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~2~ As~3~'
+_chemical_formula_sum                    'As3 Eu2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~2~As~3~,mP40,13
+_chemical_formula_weight                 528.7
+_chemical_melting_point                  1203
+
+# Bibliographic data
+
+_publ_section_title
+'Rare-earth pnictides: The arsenic-rich europium arsenides'                   
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1971
+_journal_volume                          25
+_journal_page_first                      287
+_journal_page_last                       294
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ono S.'
+;
+National Research Council of Canada (NRCC)
+Division of Chemistry
+Ottawa
+Canada
+;
+'Hui F.L.'
+;
+National Research Council of Canada (NRCC)
+Division of Chemistry
+Ottawa
+Canada
+;
+'Despault G.J.G.'
+;
+National Research Council of Canada (NRCC)
+Division of Chemistry
+Ottawa
+Canada
+;
+'Calvert L.D.'
+;
+National Research Council of Canada (NRCC)
+Division of Chemistry
+Ottawa
+Canada
+;
+'Taylor J.B.'
+;
+National Research Council of Canada (NRCC)
+Division of Chemistry
+Ottawa
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.325
+_cell_length_b                           5.9559
+_cell_length_c                           18.6109
+_cell_angle_alpha                        90
+_cell_angle_beta                         130.723
+_cell_angle_gamma                        90
+_cell_volume                             1035.37
+_cell_formula_units_Z                    8
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ As
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As1 As 4 g 0.0747 0.5465 0.3413 1
+ Eu1 Eu 4 g 0.1339 0.2618 0.5095 1
+ As2 As 4 g 0.1588 0.0509 0.6720 1
+ As3 As 4 g 0.1876 0.2224 0.0783 1
+ Eu2 Eu 4 g 0.2394 0.4527 0.2481 1
+ As4 As 4 g 0.2841 0.2712 0.4214 1
+ Eu3 Eu 4 g 0.3754 0.2441 0.0010 1
+ As5 As 4 g 0.4544 0.6072 0.1658 1
+ As6 As 4 g 0.6050 0.0982 0.6557 1
+ Eu4 Eu 2 f 0.5 0.0980 0.25 1
+ Eu5 Eu 2 e 0 0.0366 0.25 1
+
+
+_exptl_crystal_colour                    'gray, dark'
+_exptl_crystal_density_meas              6.59
+_exptl_crystal_density_diffrn            6.78
+_cell_measurement_temperature            299
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 2 0 0 70.53 2
+ 1 1 0 54.95 2
+ 1 1 -2 41.12 3
+ 1 1 2 40.92 2
+ 2 1 -2 36.73 3
+ 2 1 2 36.46 3
+ 2 0 3 35.3 5
+ 3 1 -2 31.79 5
+ 3 1 2 31.52 5
+ 4 0 -2 30.77 3
+ 4 0 2 30.47 3
+ 1 2 -1 28.37 7
+ 2 0 4 28.1 7
+ 2 2 0 27.43 8
+ 4 1 -2 27.34 3
+ 4 1 2 27.12 5
+ 0 2 2 26.8 3
+ 1 2 -2 26.37 5
+ 1 2 2 26.31 5
+ 5 1 0 25.5 3
+ 5 1 -1 25.01 3
+ 3 1 -4 23.77 2
+ 5 1 -2 23.65 3
+ 3 1 4 23.52 2
+ 5 1 2 23.46 2
+ 2 2 3 22.75 2
+ 0 2 4 21.41 7
+ 6 1 -2 20.69 5
+ 6 1 2 20.53 5
+ 2 2 -5 18.38 2
+ 7 1 -2 18.3 3
+ 7 0 -3 18.18 2
+
+# End of data set 251448
+
+

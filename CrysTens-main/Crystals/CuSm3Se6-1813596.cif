@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Cu-Se-Sm         # CuSm3Se6 mon                                  # 1813596 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1813596
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1813596
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Sm~3~ Se~6~'
+_chemical_formula_sum                    'Cu Se6 Sm3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuSm~3~Se~6~,mP40,11
+_chemical_formula_weight                 988.5
+
+# Bibliographic data
+
+_publ_section_title
+'An ordered polymorph of copper trisamarium hexaselenide, CuSm~3~Se~6~'       
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2004
+_journal_volume                          60
+_journal_page_first                      i89
+_journal_page_last                       i90
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ijjaali I.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Ibers J.A.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.1357
+_cell_length_b                           16.986
+_cell_length_c                           7.8957
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.585
+_cell_angle_gamma                        90
+_cell_volume                             957
+_cell_formula_units_Z                    4
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cu
+ Se
+ Sm
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu Cu 4 f 0.1045 0.02915 0.7935 1
+ Se1 Se 4 f 0.11069 0.08227 0.09093 1
+ Se2 Se 4 f 0.11745 0.58195 0.40358 1
+ Sm1 Sm 4 f 0.25766 0.08696 0.44 1
+ Sm2 Sm 4 f 0.27305 0.58962 0.05685 1
+ Se3 Se 4 f 0.41961 0.17705 0.74452 1
+ Se4 Se 4 f 0.5702 0.00053 0.25244 1
+ Se5 Se 4 f 0.5711 0.17658 0.24961 1
+ Se6 Se 2 e 0.11781 0.25 0.39813 1
+ Sm3 Sm 2 e 0.23408 0.25 0.05439 1
+ Sm4 Sm 2 e 0.76271 0.25 0.55643 1
+ Se7 Se 2 e 0.87119 0.25 0.90384 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.86
+_cell_measurement_temperature            153
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              153
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    11410
+_diffrn_reflns_theta_min                 2.6
+_diffrn_reflns_theta_max                 29
+_exptl_absorpt_coefficient_mu            43.07
+_exptl_absorpt_correction_type           numerical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             98
+_refine_ls_number_reflns                 2435
+_refine_ls_R_factor_gt                   0.039
+_refine_ls_wR_factor_gt                  0.103
+
+# End of data set 1813596
+
+

@@ -1,0 +1,132 @@
+##############################################################################
+#                                                                            #
+# Cl-Gd            # Gd2Cl3                                        # 1935087 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1935087
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1935087
+
+# Entry summary
+
+_chemical_formula_structural             'Gd~2~ Cl~3~'
+_chemical_formula_sum                    'Cl3 Gd2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Gd~2~Cl~3~,mS20,8
+_chemical_formula_weight                 420.9
+
+# Bibliographic data
+
+_publ_section_title
+'Gadolinium Sesquichloride, an Unusual Example of Metal-Metal Bonding'        
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            1970
+_journal_volume                          92
+_journal_page_first                      1799
+_journal_page_last                       1800
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lokken D.A.'
+;
+Iowa State Ames University of Science and Technology
+Institute for Atomic Research
+Ames
+U.S.A. Iowa
+;
+'Corbett J.D.'
+;
+Iowa State Ames University of Science and Technology
+Institute for Atomic Research
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.237
+_cell_length_b                           3.896
+_cell_length_c                           10.179
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.66
+_cell_angle_gamma                        90
+_cell_volume                             535.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Gd
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Gd3 Gd 2 a 0.0 0 0.0 1
+ Cl7 Cl 2 a 0.0881 0 0.5623 1
+ Cl8 Cl 2 a 0.1873 0 0.0248 1
+ Gd2 Gd 2 a 0.2726 0 0.5849 1
+ Cl5 Cl 2 a 0.3677 0 0.4081 1
+ Cl6 Cl 2 a 0.4751 0 0.7775 1
+ Gd1 Gd 2 a 0.5463 0 0.3417 1
+ Gd4 Gd 2 a 0.7256 0 0.2388 1
+ Cl9 Cl 2 a 0.7931 0 0.8027 1
+ Cl10 Cl 2 a 0.9058 0 0.1735 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.14(30)
+_exptl_crystal_density_diffrn            5.22
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1331
+_refine_ls_R_factor_gt                   0.052
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1935087
+
+

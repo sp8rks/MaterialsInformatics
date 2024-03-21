@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# As-Co-H-O        # H2Co2[AsO4]2[H2O]5                            # 1223865 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1223865
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1223865
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Co~2~ [As O~4~]~2~ [H~2~ O]~5~'
+_chemical_formula_sum                    'As2 Co2 H12 O13'
+_chemical_name_mineral                   burgessite
+_chemical_compound_source
+'Canada, Ontario, Timiskaming County, Keeley mine'                            
+_chemical_name_structure_type
+H~2~Co~2~[AsO~4~]~2~[H~2~O]~5~,mP36,14                                        
+_chemical_formula_weight                 487.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of burgessite, Co~2~(H~2~O)~4~[AsO~3~(OH)]~2~(H~2~O), and its relation to erythrite
+;
+_journal_coden_ASTM                      CAMIA6
+_journal_name_full                       'Can. Mineral.'
+_journal_year                            2009
+_journal_volume                          47
+_journal_page_first                      165
+_journal_page_last                       172
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cooper M.A.'
+;
+Winnipeg Manitoba University
+Department of Geological Sciences
+Winnipeg
+Canada
+;
+'Hawthorne F.C.'
+;
+Winnipeg Manitoba University
+Department of Geological Sciences
+Winnipeg
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.7058
+_cell_length_b                           9.299
+_cell_length_c                           12.8758
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.231
+_cell_angle_gamma                        90
+_cell_volume                             550.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ Co
+ O
+ As
+ OH
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 OH2 4 e 0.0162 0.052 0.0722 0.5
+ Co Co 4 e 0.07112 0.4601 0.12132 1
+ O6 O 4 e 0.1067 0.8317 0.2767 1
+ O1 O 4 e 0.2109 0.1329 0.3589 1
+ O2 O 4 e 0.2356 0.5917 0.0168 1
+ O3 O 4 e 0.3395 0.2968 0.0805 1
+ As As 4 e 0.45122 0.18791 0.46752 1
+ O4 OH 4 e 0.5324 0.3615 0.4324 1
+ O5 O 4 e 0.6218 0.0311 0.2488 1
+ H4 H 4 e 0.032 0.272 0.272 1
+ H2 H 4 e 0.453 0.073 0.271 1
+ H1 H 4 e 0.454 0.47 0.314 1
+ H3 H 4 e 0.728 0.27 0.188 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.93
+_exptl_crystal_density_diffrn            2.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS P4 APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2353
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 494
+_refine_ls_R_factor_gt                   0.043
+_refine_ls_wR_factor_gt                  0.048
+
+# End of data set 1223865
+
+

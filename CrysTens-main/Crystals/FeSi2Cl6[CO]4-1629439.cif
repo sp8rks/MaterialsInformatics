@@ -1,0 +1,166 @@
+##############################################################################
+#                                                                            #
+# C-Cl-Fe-O-Si     # FeSi2Cl6[CO]4                                 # 1629439 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1629439
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1629439
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Si~2~ Cl~6~ [C O]~4~'
+_chemical_formula_sum                    'C4 Cl6 Fe O4 Si2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            RuGe~2~Cl~6~[CO]~4~,mP34,14
+_chemical_formula_weight                 436.8
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and Crystal Structure of (SiCl~3~)~2~Fe(CO)~4~'                    
+_journal_coden_ASTM                      JHUADF
+_journal_name_full                       'Jiegou Huaxue'
+_journal_year                            2009
+_journal_volume                          28
+_journal_page_first                      287
+_journal_page_last                       290
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tao X.'
+;
+Nanjing Jiangsu University of Aeronautics and Astronautics
+Department of Applied Chemistry
+Nanjing / Jiangsu
+China
+;
+'Feng M.'
+;
+Nanjing Jiangsu University of Aeronautics and Astronautics
+Department of Applied Chemistry
+Nanjing / Jiangsu
+China
+;
+'Zhang Y.Y.'
+;
+Nanjing Jiangsu University of Aeronautics and Astronautics
+Department of Applied Chemistry
+Nanjing / Jiangsu
+China
+;
+'Li Y.Q.'
+;
+Nanjing Jiangsu University of Aeronautics and Astronautics
+Department of Applied Chemistry
+Nanjing / Jiangsu
+China
+;
+'Wang N.'
+;
+Nanjing Jiangsu University of Aeronautics and Astronautics
+Department of Applied Chemistry
+Nanjing / Jiangsu
+China
+;
+'Shen Y.Z.'
+;
+Nanjing Jiangsu University of Aeronautics and Astronautics
+Department of Applied Chemistry
+Nanjing / Jiangsu
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.287
+_cell_length_b                           9.829
+_cell_length_c                           11.5876
+_cell_angle_alpha                        90
+_cell_angle_beta                         129.126
+_cell_angle_gamma                        90
+_cell_volume                             732.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ O
+ C
+ Si
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 4 e 0.01159 0.1607 0.20389 1
+ O2 O 4 e 0.1972 0.463 0.1742 1
+ O1 O 4 e 0.2873 0.2082 0.0433 1
+ C2 C 4 e 0.3114 0.4777 0.2992 1
+ C1 C 4 e 0.3705 0.1304 0.027 1
+ Cl3 Cl 4 e 0.3888 0.64187 0.0226 1
+ Si1 Si 4 e 0.71105 0.16157 0.00816 1
+ Cl2 Cl 4 e 0.7411 0.36714 0.34709 1
+ Fe1 Fe 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.98
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1533
+_diffrn_reflns_theta_min                 3.1
+_diffrn_reflns_theta_max                 26
+_exptl_absorpt_coefficient_mu            2.282
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             79
+_refine_ls_number_reflns                 1109
+_refine_ls_R_factor_gt                   0.0470
+_refine_ls_wR_factor_gt                  0.1126
+
+# End of data set 1629439
+
+

@@ -1,0 +1,199 @@
+##############################################################################
+#                                                                            #
+# B-Eu-O           # Eu2B2O5                                       #  383741 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_383741
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      383741
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~2~ B~2~ O~5~'
+_chemical_formula_sum                    'B2 Eu2 O5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sr~2~B~2~O~5~,mP36,14
+_chemical_formula_weight                 405.5
+_chemical_melting_point                  1273(130)
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and characterization of divalent-europium (Eu^2+^) compounds, EuB~4~O~7~, EuB~2~O~4~ and Eu~2~B~2~O~5~
+;
+_journal_coden_ASTM                      JINCAO
+_journal_name_full                       'J. Inorg. Nucl. Chem.'
+_journal_year                            1979
+_journal_volume                          41
+_journal_page_first                      1425
+_journal_page_last                       1430
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Machida K.I.'
+;
+Suita Osaka University
+Department of Applied Chemistry
+Suita / Osaka
+Japan
+;
+'Hata H.'
+;
+Suita Osaka University
+Department of Applied Chemistry
+Suita / Osaka
+Japan
+;
+'Okuno K.'
+;
+Suita Osaka University
+Department of Applied Chemistry
+Suita / Osaka
+Japan
+;
+'Adachi G.Y.'
+;
+Suita Osaka University
+Department of Applied Chemistry
+Suita / Osaka
+Japan
+;
+'Shiokawa J.'
+;
+Suita Osaka University
+Department of Applied Chemistry
+Suita / Osaka
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.74
+_cell_length_b                           5.36
+_cell_length_c                           11.91
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.7
+_cell_angle_gamma                        90
+_cell_volume                             493.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Eu
+ B
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.112 0.297 0.135 1
+ Eu1 Eu 4 e 0.1232 0.0921 0.3399 1
+ O2 O 4 e 0.141 0.845 0.15 1
+ B1 B 4 e 0.161 0.07 0.093 1
+ O3 O 4 e 0.244 0.399 0.496 1
+ Eu2 Eu 4 e 0.3823 0.5519 0.1323 1
+ O4 O 4 e 0.402 0.406 0.331 1
+ O5 O 4 e 0.644 0.301 0.07 1
+ B2 B 4 e 0.663 0.05 0.085 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              5.45
+_exptl_crystal_density_diffrn            5.46
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5418
+_pd_proc_wavelength                      1.5418
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 2 0 0 59.26 8
+ 1 1 0 48.66 27
+ 2 1 0 39.71 24
+ 2 1 1 34.73 7
+ -2 0 2 33.28 32
+ 3 1 0 31.85 74
+ 0 1 2 31.46 27
+ -1 1 2 30.64 78
+ 1 1 2 30.08 100
+ 4 0 0 29.65 73
+ 3 1 1 28.96 25
+ -3 0 2 28.21 8
+ 3 0 2 26.89 8
+ 0 2 0 26.7 25
+ 4 1 0 26.04 21
+ -3 1 2 25.08 10
+ -4 0 2 24.18 12
+ 4 0 2 23.12 13
+ 3 2 0 22.26 2
+ -4 1 2 22.03 8
+ -1 2 2 21.75 6
+ 1 2 2 21.56 6
+ -5 1 1 21.19 5
+ -2 2 2 20.83 16
+ 2 2 2 20.52 8
+ 6 0 0 19.81 14
+ -3 2 2 19.45 42
+ 0 0 4 19.32 23
+ 6 0 1 19.02 24
+
+# End of data set 383741
+
+

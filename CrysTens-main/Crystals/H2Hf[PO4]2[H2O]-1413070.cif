@@ -1,0 +1,178 @@
+##############################################################################
+#                                                                            #
+# H-Hf-O-P         # H2Hf[PO4]2[H2O]                               # 1413070 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1413070
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1413070
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Hf [P O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'H4 Hf O9 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Zr[PO~4~]~2~[H~2~O],mP48,14
+_chemical_formula_weight                 388.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Neutron powder diffraction study of \a-Ti(HPO~4~)~2~.H~2~O and \a-Hf(HPO~4~)~2~.H~2~O; H-atom positions
+;
+_journal_coden_ASTM                      ASBSDK
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1996
+_journal_volume                          52
+_journal_page_first                      896
+_journal_page_last                       898
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Salvado M.A.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica y Organica e Inorganica
+Oviedo
+Spain
+;
+'Pertierra P.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica y Organica e Inorganica
+Oviedo
+Spain
+;
+'Garcia Granda S.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica y Organica e Inorganica
+Oviedo
+Spain
+;
+'Garcia J.R.'
+;
+Oviedo University
+Departamento de Quimica Organica e Inorganica
+Oviedo
+Spain
+;
+'Rodriguez J.'
+;
+Oviedo University
+Departamento de Quimica Organica e Inorganica
+Oviedo
+Spain
+;
+'Fernandez Diaz M.T.'
+;
+Grenoble Laue-Langevin Institute
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.9955
+_cell_length_b                           5.2439
+_cell_length_c                           16.224
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.234
+_cell_angle_gamma                        90
+_cell_volume                             713.35
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ OH
+ Hf
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P2 P 4 e -0.0024 0.266 0.1129 1
+ O6 O 4 e 0.0713 0.017 0.4045 1
+ O8 OH 4 e 0.1004 0.241 0.211 1
+ O7 O 4 e 0.0981 0.197 0.0571 1
+ O5 O 4 e 0.1361 0.553 0.4099 1
+ Hf1 Hf 4 e 0.2373 0.2519 0.4853 1
+ O3 O 4 e 0.3339 0.561 0.061 1
+ O1 O 4 e 0.3769 0.187 0.4032 1
+ O2 O 4 e 0.417 0.028 0.0713 1
+ O4 OH 4 e 0.488 0.254 0.2933 1
+ P1 P 4 e 0.5238 0.247 0.3905 1
+ O9 OH2 4 e 0.737 0.278 0.2406 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.62
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.59
+_pd_proc_wavelength                      1.59
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D2B'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.59
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 79.5
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                159
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure, Fourier synthesis'           
+_refine_ls_number_parameters             71
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.0166
+_refine_ls_R_I_factor                    0.0438
+
+# End of data set 1413070
+
+

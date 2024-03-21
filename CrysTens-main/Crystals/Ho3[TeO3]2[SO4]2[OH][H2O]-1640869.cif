@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# H-Ho-O-S-Te      # Ho3[TeO3]2[SO4]2[OH][H2O]                     # 1640869 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1640869
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1640869
+
+# Entry summary
+
+_chemical_formula_structural
+'Ho~3~ [Te O~3~]~2~ [S O~4~]~2~ [O H] [H~2~ O]'                               
+_chemical_formula_sum                    'H3 Ho3 O16 S2 Te2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Ho~3~[TeO~3~]~2~[SO~4~]~2~[OH][H~2~O],mP46,11                                 
+_chemical_formula_weight                 1073.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Dimensional and coordination number reductions in a large family of lanthanide tellurite sulfates
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2014
+_journal_volume                          53
+_journal_page_first                      8555
+_journal_page_last                       8564
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lin J.'
+;
+Florida Tallahassee State University
+Department of Chemistry and Biochemistry
+Tallahassee
+U.S.A. Florida
+;
+'Diefenbach K.'
+;
+Florida Tallahassee State University
+Department of Chemistry and Biochemistry
+Tallahassee
+U.S.A. Florida
+;
+'Kikugawa N.'
+;
+Florida Tallahassee State University
+National High Magnetic Field Laboratory
+Tallahassee
+U.S.A. Florida
+;
+'Baumbach R.E.'
+;
+Florida Tallahassee State University
+v
+Tallahassee
+U.S.A. Florida
+;
+'Albrecht Schmitt T.E.'
+;
+Florida Tallahassee State University
+Department of Chemistry and Biochemistry
+Tallahassee
+U.S.A. Florida
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.4548
+_cell_length_b                           15.3443
+_cell_length_c                           8.0291
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.492
+_cell_angle_gamma                        90
+_cell_volume                             662.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Ho
+ S
+ Te
+ OH
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 f 0.0706 0.1386 0.3201 1
+ O7 O 4 f 0.1174 0.6462 0.1567 1
+ Ho1 Ho 4 f 0.2023 0.09912 0.05703 1
+ O4 O 4 f 0.3605 0.5183 0.25 1
+ S1 S 4 f 0.3622 0.61531 0.2376 1
+ O3 O 4 f 0.5526 0.1483 0.2434 1
+ O6 O 4 f 0.5567 0.6421 0.1426 1
+ O5 O 4 f 0.5834 0.1521 0.5903 1
+ Te1 Te 4 f 0.79587 0.06747 0.32279 1
+ O2 O 4 f 0.8338 0.024 0.1114 1
+ O8 OH 2 e 0.1182 0.25 0.6131 1
+ O9 OH2 2 e 0.1844 0.25 0.0857 1
+ Ho2 Ho 2 e 0.3456 0.25 0.39145 1
+
+
+_exptl_crystal_colour                    pink
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.38
+_cell_measurement_temperature            100(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1740
+_diffrn_ambient_temperature              100(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8 QUEST'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    7777
+_diffrn_reflns_theta_min                 2.57
+_diffrn_reflns_theta_max                 28.52
+_exptl_absorpt_coefficient_mu            22.450
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             109
+_refine_ls_number_reflns                 1638
+_refine_ls_R_factor_gt                   0.0239
+_refine_ls_wR_factor_gt                  0.0603
+
+# End of data set 1640869
+
+

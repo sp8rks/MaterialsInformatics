@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# As-Fe-H-O-Pb     # FePb[AsO3][AsO4][OH]                          # 1323636 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1323636
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1323636
+
+# Entry summary
+
+_chemical_formula_structural             'Fe Pb [As O~3~] [As O~4~] [O H]'
+_chemical_formula_sum                    'As2 Fe H O8 Pb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            FePb[AsO~3~][AsO~4~][OH],mP48,14
+_chemical_formula_weight                 541.9
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of PbFe[AsO~4~][AsO~3~(OH)]'                           
+_journal_coden_ASTM                      MOCMB7
+_journal_name_full                       'Monatsh. Chem.'
+_journal_year                            1996
+_journal_volume                          127
+_journal_page_first                      127
+_journal_page_last                       133
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Effenberger H.S.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+'Hejny C.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+'Pertlik F.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.846
+_cell_length_b                           8.482
+_cell_length_c                           16.0679
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.711
+_cell_angle_gamma                        90
+_cell_volume                             638.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Fe
+ As
+ OH
+ Pb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O13 O 4 e 0.0567 0.7012 0.4291 1
+ O12 O 4 e 0.0796 0.3629 0.4183 1
+ Fe Fe 4 e 0.18059 0.54587 0.35137 1
+ O23 O 4 e 0.1989 0.0874 0.237 1
+ As1 As 4 e 0.21856 0.1841 0.02346 1
+ O21 O 4 e 0.256 0.4099 0.2572 1
+ O14 O 4 e 0.35 0.368 0.0279 1
+ As2 As 4 e 0.4266 0.23862 0.2597 1
+ O11 O 4 e 0.4337 0.0396 0.0744 1
+ O24 OH 4 e 0.608 0.1954 0.3643 1
+ O22 O 4 e 0.6613 0.2459 0.1996 1
+ Pb Pb 4 e 0.80215 0.46372 0.11279 1
+
+
+_exptl_crystal_colour                    'green light, almost colorless'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.63
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            60
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4164
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            38.8
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             110
+_refine_ls_number_reflns                 1545
+_refine_ls_R_factor_gt                   0.042
+_refine_ls_wR_factor_gt                  0.031
+
+# End of data set 1323636
+
+

@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Cu-H-O-Pb-S      # CuPb[SO4][OH]2                                # 1223862 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1223862
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1223862
+
+# Entry summary
+
+_chemical_formula_structural             'Cu Pb [S O~4~] [O H]~2~'
+_chemical_formula_sum                    'Cu H2 O6 Pb S'
+_chemical_name_mineral                   linarite
+_chemical_compound_source
+'United Kingdom, Scotland, Leadhills region'                                  
+_chemical_name_structure_type            CuPb[SO~4~][OH]~2~-b,mP18,11
+_chemical_formula_weight                 400.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Proton location and hydrogen bonding in the hydrous lead copper sulfates linarite, PbCu(SO~4~)(OH)~2~, and caledonite, Pb~5~Cu~2~(SO~4~)~3~CO~3~(OH)~6~
+;
+_journal_coden_ASTM                      CAMIA6
+_journal_name_full                       'Can. Mineral.'
+_journal_year                            2009
+_journal_volume                          47
+_journal_page_first                      649
+_journal_page_last                       662
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Schofield P.F.'
+;
+British Museum of Natural History
+Department of Mineralogy
+London
+United Kingdom
+;
+'Wilson C.C.'
+;
+Glasgow University
+Department of Chemistry
+Glasgow
+United Kingdom
+;
+'Knight K.S.'
+;
+Rutherford Appleton Laboratory (STFC)
+ISIS Facility
+Chilton-Didcot
+United Kingdom
+;
+'Kirk C.A.'
+;
+Loughborough University
+Department of Chemistry
+Loughborough
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.683
+_cell_length_b                           5.646
+_cell_length_c                           9.7876
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.169
+_cell_angle_gamma                        90
+_cell_volume                             249.77
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ S
+ Pb
+ Cu
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 f 0.058 0.0372 0.2473 1
+ S S 2 e 0.1127 0.25 0.1687 1
+ O5 O 2 e 0.2694 0.25 0.5959 1
+ Pb Pb 2 e 0.3297 0.25 0.842 1
+ O2 O 2 e 0.4284 0.25 0.1624 1
+ O4 O 2 e 0.7136 0.25 0.4662 1
+ O1 O 2 e 0.9354 0.25 0.0254 1
+ Cu Cu 2 c 0 0 0.5 1
+ H5 H 2 e 0.4505 0.25 0.5555 1
+ H4 H 2 e 0.6122 0.25 0.3682 1
+
+
+_exptl_crystal_colour                    'blue dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.33
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'neutrons, time-of-flight'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+United Kingdom, Chilton-Didcot, Rutherford Appleton Laboratory, ISIS Facility, SXD
+;
+_diffrn_radiation_type                   'neutrons, time-of-flight'
+_diffrn_reflns_number                    2064
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             64
+_refine_ls_number_reflns                 869
+_refine_ls_R_factor_gt                   0.082
+_refine_ls_wR_factor_gt                  0.085
+
+# End of data set 1223862
+
+

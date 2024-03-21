@@ -1,0 +1,190 @@
+##############################################################################
+#                                                                            #
+# Eu-Sb            # Eu2Sb3                                        # 1217436 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1217436
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1217436
+
+# Entry summary
+
+_chemical_formula_structural             'Eu~2~ Sb~3~'
+_chemical_formula_sum                    'Eu2 Sb3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~2~As~3~,mP40,13
+_chemical_formula_weight                 669.2
+
+# Bibliographic data
+
+_publ_section_title
+'Powder data for some new europium antimonides and bismuthides'               
+_journal_coden_ASTM                      JACGAR
+_journal_name_full                       'J. Appl. Crystallogr.'
+_journal_year                            1979
+_journal_volume                          12
+_journal_page_first                      249
+_journal_page_last                       251
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Taylor J.B.'
+;
+National Research Council of Canada (NRCC)
+Division of Chemistry
+Ottawa
+Canada
+;
+'Calbert L.D.'
+;
+National Research Council of Canada (NRCC)
+Division of Chemistry
+Ottawa
+Canada
+;
+'Wang Y.'
+;
+National Research Council of Canada (NRCC)
+Division of Chemistry
+Ottawa
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.148
+_cell_length_b                           6.38
+_cell_length_c                           19.9708
+_cell_angle_alpha                        90
+_cell_angle_beta                         131.175
+_cell_angle_gamma                        90
+_cell_volume                             1260.95
+_cell_formula_units_Z                    8
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Sb
+ Eu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sb1 Sb 4 g 0.0747 0.5465 0.3413 1
+ Eu2 Eu 4 g 0.1339 0.2618 0.5095 1
+ Sb4 Sb 4 g 0.1588 0.0509 0.672 1
+ Sb5 Sb 4 g 0.1876 0.2224 0.0783 1
+ Eu3 Eu 4 g 0.2394 0.4527 0.2481 1
+ Sb2 Sb 4 g 0.2841 0.2712 0.4214 1
+ Eu1 Eu 4 g 0.375 0.2441 0.001 1
+ Sb3 Sb 4 g 0.4544 0.6072 0.1658 1
+ Sb6 Sb 4 g 0.605 0.0984 0.6557 1
+ Eu5 Eu 2 f 0.5 0.098 0.25 1
+ Eu4 Eu 2 e 0 0.0366 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.05
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.54051
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 2 45.78 3
+ 2 1 2 39.1 2
+ 4 0 0 37.58 2
+ 4 0 2 32.6 3
+ 2 0 4 30.1 8
+ 2 2 0 29.36 8
+ 4 1 2 29.04 8
+ 1 1 4 28.68 2
+ 1 2 2 28.2 8
+ 5 1 0 27.21 5
+ 2 2 2 26.81 3
+ 3 1 4 25.22 5
+ 5 1 2 25.14 5
+ 4 1 4 23.07 2
+ 0 2 4 22.9 7
+ 4 2 2 22.81 2
+ 1 2 4 22.64 2
+ 6 1 2 21.99 5
+ 2 0 6 21.04 3
+ 3 2 4 20.84 2
+ 1 1 6 20.54 2
+ 7 1 0 20.34 2
+ 2 1 6 19.99 2
+ 2 2 5 19.59 3
+ 7 1 2 19.45 3
+ 4 1 6 18.15 2
+ 1 2 6 17.93 2
+ 2 3 4 17.36 2
+ 5 1 6 17.06 2
+ 4 2 6 16.27 2
+ 0 4 0 15.95 2
+ 2 2 7 15.81 2
+ 9 1 2 15.68 2
+ 2 4 0 15.6 2
+ 1 4 2 15.42 3
+
+# End of data set 1217436
+
+

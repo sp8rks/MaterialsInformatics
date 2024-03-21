@@ -1,0 +1,198 @@
+##############################################################################
+#                                                                            #
+# C-H-Na-O-P-V     # H2Na2[VO]2[PO4]2[C2O4][H2O]2                  # 1211943 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1211943
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1211943
+
+# Entry summary
+
+_chemical_formula_structural
+'H~2~ Na~2~ [V O]~2~ [P O~4~]~2~ [C~2~ O~4~] [H~2~ O]~2~'                     
+_chemical_formula_sum                    'C2 H6 Na2 O16 P2 V2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+H~2~Na~2~[VO]~2~[PO~4~]~2~[C~2~O~4~][H~2~O]~2~,mP48,4                         
+_chemical_formula_weight                 495.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Na~2~[(VO)~2~(HPO~4~)~2~C~2~O~4~].2H~2~O: Crystal structure determination from combined powder diffraction and solid-state NMR
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2006
+_journal_volume                          45
+_journal_page_first                      6034
+_journal_page_last                       6040
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Colin J.F.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Bataille T.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Ashbrook S.E.'
+;
+Cambridge University
+Department of Earth Science
+Cambridge
+United Kingdom
+;
+'Audebrand N.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Le Poll\`es L.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Pivan J.Y.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+'Le Fur E.'
+;
+Rennes I University
+Sciences Chimiques
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.3534
+_cell_length_b                           17.1614
+_cell_length_c                           6.5632
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.597
+_cell_angle_gamma                        90
+_cell_volume                             685.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Na
+ C
+ V
+ P
+ OH
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O11 O 2 a 0.088 0.0 0.12 1
+ O21 O 2 a 0.093 0.7185 0.092 1
+ Na2 Na 2 a 0.1133 0.2191 0.3633 1
+ O1 O 2 a 0.158 0.1477 0.7 1
+ Na1 Na 2 a 0.1663 0.4916 0.3753 1
+ O32 O 2 a 0.183 0.2908 0.687 1
+ C1 C 2 a 0.218 0.3538 0.796 1
+ O31 O 2 a 0.22 0.4234 0.727 1
+ V1 V 2 a 0.2255 0.1951 0.8979 1
+ O41 O 2 a 0.256 0.2857 0.124 1
+ O12 O 2 a 0.257 0.1281 0.137 1
+ C2 C 2 a 0.266 0.3509 0.0461 1
+ O22 O 2 a 0.272 0.587 0.153 1
+ P2 P 2 a 0.294 0.6725 0.1651 1
+ O42 O 2 a 0.302 0.4182 0.135 1
+ P1 P 2 a 0.303 0.0397 0.179 1
+ O13 OH 2 a 0.397 0.0193 0.438 1
+ O14 O 2 a 0.425 0.0058 0.039 1
+ O24 O 2 a 0.466 0.6994 0.064 1
+ O23 OH 2 a 0.589 0.1805 0.601 1
+ V2 V 2 a 0.7778 0.0195 0.1092 1
+ Ow2 OH2 2 a 0.782 0.2784 0.339 1
+ Ow1 OH2 2 a 0.782 0.4449 0.308 1
+ O2 O 2 a 0.824 0.0952 0.304 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.40
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D500'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 4
+_diffrn_reflns_theta_max                 60
+_pd_proc_2theta_range_min                8
+_pd_proc_2theta_range_max                120
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.044
+_pd_proc_ls_proof_wR_factor              0.058
+_refine_ls_R_I_factor                    0.052
+
+# End of data set 1211943
+
+

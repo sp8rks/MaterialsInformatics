@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# In-O-P           # InP3O9                                        #  543624 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_543624
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      543624
+
+# Entry summary
+
+_chemical_formula_structural             'In P~3~ O~9~'
+_chemical_formula_sum                    'In O9 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            ScP~3~O~9~,mS52,9
+_chemical_formula_weight                 351.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of indium polyphosphate In(PO~3~)~3~-C'
+;
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1993
+_journal_volume                          38
+_journal_page_first                      1179
+_journal_page_last                       1180
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Palkina K.K.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Maksimova S.I.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Chibiskova N.T.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Chudinova N.N.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Karmanovskaya N.B.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.55
+_cell_length_b                           6.538
+_cell_length_c                           9.6651
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.194
+_cell_angle_gamma                        90
+_cell_volume                             682.07
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P(2) P 4 a 0.0 0.5747 0.0 1
+ O(1) O 4 a 0.01 0.26 0.381 1
+ P(1) P 4 a 0.1061 0.0865 0.4256 1
+ O(2) O 4 a 0.105 0.488 0.137 1
+ O(6) O 4 a 0.145 0.003 0.102 1
+ O(4) O 4 a 0.205 0.145 0.417 1
+ In In 4 a 0.252 0.256 0.258 1
+ O(5) O 4 a 0.292 0.378 0.099 1
+ O(9) O 4 a 0.388 0.424 0.483 1
+ O(3) O 4 a 0.395 0.058 0.345 1
+ P(3) P 4 a 0.3976 0.4083 0.0887 1
+ O(7) O 4 a 0.417 0.198 0.036 1
+ O(8) O 4 a 0.532 0.431 0.283 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.43
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.057
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 543624
+
+

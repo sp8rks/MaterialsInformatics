@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# H-O-Rb-Se-U      # HRb[UO2][SeO3]2                               # 1002984 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1002984
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1002984
+
+# Entry summary
+
+_chemical_formula_structural             'H Rb [U O~2~] [Se O~3~]~2~'
+_chemical_formula_sum                    'O8 Rb Se2 U'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H[NH~4~][UO~2~][SeO~3~]~2~,mP48,14
+_chemical_formula_weight                 610.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal Syntheses, Structures, and Properties of the New Uranyl Selenites Ag~2~(UO~2~)(SeO~3~)~2~, M[(UO~2~)(HSeO~3~)(SeO~3~)] (M= K, Rb, Cs, Tl), and Pb(UO~2~)(SeO~3~)~2~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2002
+_journal_volume                          41
+_journal_page_first                      1177
+_journal_page_last                       1183
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Almond P.M.'
+;
+Alabama Auburn University
+Department of Chemistry
+Auburn
+U.S.A. Alabama
+;
+'Albrecht Schmitt T.E.'
+;
+Alabama Auburn University
+Department of Chemistry
+Auburn
+U.S.A. Alabama
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.4167
+_cell_length_b                           10.2581
+_cell_length_c                           12.1751
+_cell_angle_alpha                        90
+_cell_angle_beta                         126.521
+_cell_angle_gamma                        90
+_cell_volume                             844.78
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ U
+ Se
+ Rb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.0836 0.3181 0.3775 1
+ O2 O 4 e 0.1116 0.0969 0.262 1
+ U1 U 4 e 0.18308 0.70704 0.31291 1
+ O7 O 4 e 0.1808 0.6054 0.1921 1
+ Se1 Se 4 e 0.19094 0.02468 0.17936 1
+ Rb1 Rb 4 e 0.27021 0.43892 0.04873 1
+ Se2 Se 4 e 0.29368 0.37637 0.40641 1
+ O1 O 4 e 0.3976 0.1272 0.2432 1
+ O5 O 4 e 0.4611 0.1983 0.0577 1
+ O6 O 4 e 0.6867 0.3968 0.223 1
+ O3 O 4 e 0.7094 0.0285 0.0402 1
+ O8 O 4 e 0.8297 0.3003 0.0697 1
+
+
+_exptl_crystal_colour                    'yellow bright'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.80
+_cell_measurement_temperature            193
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              193
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    7570
+_diffrn_reflns_theta_min                 2.88
+_diffrn_reflns_theta_max                 28.3
+_exptl_absorpt_coefficient_mu            33.562
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             110
+_refine_ls_number_reflns                 1949
+_refine_ls_R_factor_gt                   0.0285
+_refine_ls_wR_factor_gt                  0.0743
+
+# End of data set 1002984
+
+

@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# H-Mo-O-P         # HMo[PO4]O2[H2O]                               # 1814963 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814963
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814963
+
+# Entry summary
+
+_chemical_formula_structural             'Mo [P O~4~] [O H]~3~'
+_chemical_formula_sum                    'H3 Mo O7 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HMo[PO~4~]O~2~[H~2~O],mP18,11
+_chemical_formula_weight                 241.9
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of Mo(OH)~3~PO~4~'                                     
+_journal_coden_ASTM                      ACSAA4
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1958
+_journal_volume                          12
+_journal_page_first                      1701
+_journal_page_last                       1714
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kierkegaard P.'
+;
+Stockholm University
+Institute of Inorganic and Physical Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.731
+_cell_length_b                           6.319
+_cell_length_c                           7.034
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.16
+_cell_angle_gamma                        90
+_cell_volume                             280.85
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ OH
+ Mo
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 f 0.29 0.54 0.19 1
+ O6 OH 2 e 0.0 0.25 0.21 1
+ O4 OH 2 e 0.15 0.25 0.89 1
+ Mo Mo 2 e 0.282 0.25 0.176 1
+ O2 O 2 e 0.44 0.25 0.51 1
+ O5 OH 2 e 0.57 0.25 0.16 1
+ P P 2 e 0.673 0.25 0.662 1
+ O3 O 2 e 0.83 0.25 0.54 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              2.82
+_exptl_crystal_density_diffrn            2.86
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.545
+_pd_proc_wavelength                      1.545
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device
+'rotation and Weissenberg photographs'                                        
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 1360 3
+ 1 0 0 1490 3
+ 1 0 -1 1870 8
+ 0 1 1 2890 5
+ 1 1 0 2960 3
+ 1 1 -1 3340 5
+ 1 0 1 3820 7
+ 1 0 -2 4970 2
+ 1 1 1 5300 3
+ 2 0 -1 5330 3
+ 0 0 2 5430 3
+ 0 2 0 5920 9
+ 2 1 -1 6810 1
+ 0 1 2 6900 7
+ 1 2 0 7390 1
+ 2 0 -2 7440 1
+ 1 2 -1 7780 5
+ 1 0 2 8910 1
+ 1 2 1 9720 2
+ 1 1 2 10330 3
+ 2 2 -1 11220 2
+ 0 2 2 11340 1
+ 3 0 -1 11820 2
+ 0 0 3 12220 5
+ 3 0 -2 12890 3
+ 3 1 -1 13230 2
+ 2 2 -2 13320 1
+ 0 1 3 13680 1
+ 0 3 1 14640 3
+ 1 3 0 14760 3
+ 1 3 -1 15150 3
+ 2 0 2 15280 1
+
+# End of data set 1814963
+
+

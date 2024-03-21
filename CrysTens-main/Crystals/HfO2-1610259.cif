@@ -1,0 +1,126 @@
+##############################################################################
+#                                                                            #
+# Hf-O             # HfO2 rt                                       # 1610259 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1610259
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1610259
+
+# Entry summary
+
+_chemical_formula_structural             'Hf O~2~'
+_chemical_formula_sum                    'Hf O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            ZrO~2~-b,mP12,14
+_chemical_formula_weight                 210.5
+
+# Bibliographic data
+
+_publ_section_title
+'Anomalous thermal expansion of ZrO~2~ and HfO~2~ over the range 20-1200 \%C' 
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1970
+_journal_volume                          14
+_journal_page_first                      696
+_journal_page_last                       699
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Filatov S.K.'
+;
+Saint Petersburg State University
+Saint Petersburg
+Russia
+;
+'Frank Kamenetskii V.A.'
+;
+Saint Petersburg State University
+Saint Petersburg
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.117
+_cell_length_b                           5.173
+_cell_length_c                           5.289
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.4
+_cell_angle_gamma                        90
+_cell_volume                             138.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Hf
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0703 0.3359 0.3406 1
+ Hf1 Hf 4 e 0.2758 0.0411 0.2082 1
+ O2 O 4 e 0.5577 0.2549 0.0211 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            10.12
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1610259
+
+

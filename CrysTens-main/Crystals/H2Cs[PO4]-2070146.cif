@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# Cs-H-O-P         # H2Cs[PO4] rt                                  # 2070146 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2070146
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2070146
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Cs [P O~4~]'
+_chemical_formula_sum                    'Cs H2 O4 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            H~2~Cs[PO~4~],mP12,11
+_chemical_formula_weight                 229.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+X-ray structural study of ferroelectric cesium dihydrogen phosphate at room temperature
+;
+_journal_coden_ASTM                      JUPSAU
+_journal_name_full                       'J. Phys. Soc. Jpn.'
+_journal_year                            1980
+_journal_volume                          48
+_journal_page_first                      2011
+_journal_page_last                       2014
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Matsunaga H.'
+;
+Hiroshima Higashihiroshima University
+Faculty of Science
+Hiroshima / Higashihiroshima
+Japan
+;
+'Itoh K.'
+;
+Hiroshima Higashihiroshima University
+Faculty of Science
+Hiroshima / Higashihiroshima
+Japan
+;
+'Nakamura E.'
+;
+Hiroshima Higashihiroshima University
+Faculty of Science
+Hiroshima / Higashihiroshima
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.8802
+_cell_length_b                           6.383
+_cell_length_c                           7.912
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.73
+_cell_angle_gamma                        90
+_cell_volume                             234.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Cs
+ P
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 f 0.5822 0.054 0.3734 1
+ Cs Cs 2 e 0.0354 0.25 0.76569 1
+ O2 O 2 e 0.1553 0.25 0.1778 1
+ P P 2 e 0.4707 0.25 0.263 1
+ O1 O 2 e 0.6126 0.25 0.1102 1
+ H1 H 2 e 0.805 0.25 0.152 1
+ H2 H 2 d 0.5 0 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.25
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Rigaku
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    822
+_exptl_absorpt_coefficient_mu            8.30
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 780
+_refine_ls_R_factor_gt                   0.029
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 2070146
+
+

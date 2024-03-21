@@ -1,0 +1,182 @@
+##############################################################################
+#                                                                            #
+# Ge-Se            # GeSe2 ht                                      #  309210 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_309210
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      309210
+
+# Entry summary
+
+_chemical_formula_structural             'Ge Se~2~'
+_chemical_formula_sum                    'Ge Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            GeS~2~,mP48,14
+_chemical_formula_weight                 230.5
+_chemical_melting_point                  1016
+
+# Bibliographic data
+
+_publ_section_title
+'Investigation of the system Ge-S-Se over the cross section GeS~2~-GeSe~2~'   
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            1976
+_journal_volume                          12
+_journal_page_first                      1219
+_journal_page_last                       1221
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Karakhanova M.I.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Sokolova L.P.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Novoselova A.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Pashinkin A.S.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.05
+_cell_length_b                           16.91
+_cell_length_c                           11.88
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.8
+_cell_angle_gamma                        90
+_cell_volume                             1416.1
+_cell_formula_units_Z                    16
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Se
+ Ge
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 e 0.0728 0.1681 0.1000 1
+ Ge1 Ge 4 e 0.1570 0.3469 0.2787 1
+ Se2 Se 4 e 0.1687 0.8227 0.2141 1
+ Ge2 Ge 4 e 0.1734 0.6927 0.2777 1
+ Se3 Se 4 e 0.1767 0.6091 0.1236 1
+ Se4 Se 4 e 0.2210 0.4630 0.3774 1
+ Se5 Se 4 e 0.2708 0.3874 0.1067 1
+ Se6 Se 4 e 0.3274 0.2436 0.3631 1
+ Ge3 Ge 4 e 0.3286 0.1514 0.2202 1
+ Se7 Se 4 e 0.3339 0.0255 0.2989 1
+ Ge4 Ge 4 e 0.3396 0.5026 0.2057 1
+ Se8 Se 4 e 0.5789 0.1684 0.0980 1
+
+
+_exptl_crystal_colour                    golden
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.32
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'rotation photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 2 0 0.139 5
+ 1 2 0 0.211 20
+ 0 1 1 0.236 15
+ 2 0 0 0.284 50
+ 1 1 1 0.309 50
+ 0 2 1 0.342 5
+ 1 3 0 0.386 20
+ 1 2 1 0.412 5
+ 0 3 1 0.519 5
+ 0 4 0 0.632 5
+ 1 4 0 0.633 5
+ 0 4 1 0.765 5
+ 0 0 2 0.808 100
+ 1 4 1 0.839 5
+ 3 1 1 0.872 5
+ 1 1 2 0.921 10
+ 1 5 0 0.95 30
+ 1 2 2 1.024 20
+ 2 4 1 1.053 40
+ 0 5 1 1.081 40
+ 4 0 0 1.137 20
+ 1 5 1 1.16 20
+ 1 3 2 1.195 10
+ 3 4 0 1.205 5
+ 0 6 0 1.262 20
+
+# End of data set 309210
+
+

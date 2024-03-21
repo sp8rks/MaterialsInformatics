@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# H-Ho-I-O         # H2Ho[IO6][H2O]3                               #  546065 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_546065
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      546065
+
+# Entry summary
+
+_chemical_formula_structural             'H~2~ Ho [I O~6~] [H~2~ O]~3~'
+_chemical_formula_sum                    'H8 Ho I O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~2~Ho[IO~6~][H~2~O]~3~,mP44,14
+_chemical_formula_weight                 443.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Rare-earth element periodates LnIO~5~.4H~2~O - Compounds with isolated IO~4~(OH)~2~ octahedra
+;
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1975
+_journal_volume                          20
+_journal_page_first                      31
+_journal_page_last                       33
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Shamrai N.B.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Varfolomeev M.B.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Saf'yanov Y.N.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Kuz'min E.A.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+'Plyukhin V.V.'
+;
+Russian Academy of Sciences
+Lomonosov Moscow Institute of Fine Chemical Technology
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.516
+_cell_length_b                           10.4
+_cell_length_c                           10.4
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.68
+_cell_angle_gamma                        90
+_cell_volume                             713.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ I
+ OH
+ O
+ Ho
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I I 4 e 0.02 0.174 0.261 1
+ O7 OH 4 e 0.049 0.796 0.399 1
+ O1 OH 4 e 0.039 0.074 0.412 1
+ O8 O 4 e 0.107 0.786 0.177 1
+ O2 O 4 e 0.101 0.063 0.176 1
+ O6 O 4 e 0.214 0.586 0.327 1
+ Ho Ho 4 e 0.233 0.428 0.18 1
+ O3 O 4 e 0.233 0.273 0.344 1
+ O5 OH2 4 e 0.323 0.577 0.078 1
+ O4 OH2 4 e 0.432 0.306 0.113 1
+ O9 OH2 4 e 0.561 0.462 0.404 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.15
+_exptl_crystal_density_diffrn            4.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               photographs
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.19
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 546065
+
+

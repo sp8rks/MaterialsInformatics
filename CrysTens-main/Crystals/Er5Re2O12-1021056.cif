@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# Er-O-Re          # Er5Re2O12                                     # 1021056 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1021056
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1021056
+
+# Entry summary
+
+_chemical_formula_structural             'Er~5~ Re~2~ O~12~'
+_chemical_formula_sum                    'Er5 O12 Re2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Y~5~Mo~2~O~12~,mS38,12
+_chemical_formula_weight                 1400.7
+
+# Bibliographic data
+
+_publ_section_title
+'Resonant X-ray diffraction using high-resolution image-plate data'           
+_journal_coden_ASTM                      JACGAR
+_journal_name_full                       'J. Appl. Crystallogr.'
+_journal_year                            2000
+_journal_volume                          33
+_journal_page_first                      953
+_journal_page_last                       957
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ehrenberg H.'
+;
+Darmstadt University of Technology
+Institute for Materials Science
+Darmstadt
+Germany
+;
+'Knapp M.'
+;
+Darmstadt University of Technology
+Institute for Materials Science
+Darmstadt
+Germany
+;
+'Hartmann T.'
+;
+Darmstadt University of Technology
+Institute for Materials Science
+Darmstadt
+Germany
+;
+'Fuess H.'
+;
+Darmstadt University of Technology
+Institute for Materials Science
+Darmstadt
+Germany
+;
+'Wroblewski T.'
+;
+Hamburg Synchrotron Radiation Laboratory (HASYLAB Desy)
+Hamburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.3215
+_cell_length_b                           5.6244
+_cell_length_c                           7.4402
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.844
+_cell_angle_gamma                        90
+_cell_volume                             490.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Er
+ Re
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.1539 0.2608 0.0784 1
+ O4 O 8 j 0.3397 0.2444 0.4126 1
+ O2 O 4 i 0.0021 0 0.3047 1
+ Er3 Er 4 i 0.30411 0 0.14236 1
+ Er2 Er 4 i 0.31362 0 0.67199 1
+ O1 O 4 i 0.4971 0 0.3009 1
+ Re Re 4 h 0 0.21477 0.5 1
+ Er1 Er 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.48
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Germany, Hamburg, Deutsches Elektronen-Synchrotron DESY, HASYLAB, DORIS III reactor, B2
+;
+_diffrn_radiation_type                   X-rays
+_diffrn_radiation_wavelength             1.475
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1021056
+
+

@@ -1,0 +1,209 @@
+##############################################################################
+#                                                                            #
+# Hg               # Hg hp3                                        # 1924114 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1924114
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1924114
+
+# Entry summary
+
+_chemical_formula_structural             Hg
+_chemical_formula_sum                    Hg
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg,mS6,12
+_chemical_formula_weight                 200.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of the high-pressure \g phase of mercury: A novel monoclinic distortion of the close-packed structure
+;
+_journal_coden_ASTM                      JUPSAU
+_journal_name_full                       'J. Phys. Soc. Jpn.'
+_journal_year                            2007
+_journal_volume                          76
+_journal_page_first                      1
+_journal_page_last                       5
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Takemura K.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Fujihisa H.'
+;
+National Institute of Advanced Industrial Science and Technology (AIST)
+Tsukuba / Ibaraki
+Japan
+;
+'Nakamoto Y.'
+;
+Toyonaka Osaka University
+Center for Quantum Science and Technology under Extreme Conditions
+Toyonaka / Osaka
+Japan
+;
+'Nakano S.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Ohishi Y.'
+;
+Japan Synchrotron Radiation Research Institute (JASRI)
+Sayo / Hyogo
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.179
+_cell_length_b                           2.797
+_cell_length_c                           7.964
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.96
+_cell_angle_gamma                        90
+_cell_volume                             109.7
+_cell_formula_units_Z                    6
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hg2 Hg 4 i 0.238 0 0.667 1
+ Hg1 Hg 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            18.21
+_cell_measurement_temperature            ?
+_cell_measurement_pressure               2e+007
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.4125
+_pd_proc_wavelength                      0.4125
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_pressure                 2e+007
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Japan, Hyogo, Japan Synchrotron Radiation Research Institute, SPring-8, BL10XU
+;
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.4125
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'crystal chemical considerations'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.075
+_pd_proc_ls_proof_wR_factor              0.109
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 2 0 -1 25.889 34.99
+ 0 0 3 25.25 100.00
+ 2 0 0 24.639 9.67
+ 2 0 -2 24.358 64.88
+ 1 -1 1 22.201 48.72
+ 1 1 -2 22.051 49.76
+ 2 0 1 21.562 40.02
+ -2 0 3 21.221 7.05
+ 1 -1 2 19.182 4.61
+ 1 1 -3 19.023 9.11
+ 2 0 2 18.24 17.13
+ -2 0 4 17.922 15.76
+ 1 -1 3 16.316 5.98
+ 1 1 -4 16.182 3.08
+ 2 0 3 15.413 3.59
+ -2 0 5 15.156 18.69
+ -3 1 1 14.637 36.66
+ 3 -1 0 14.16 1.07
+ 1 -1 4 13.952 33.57
+ 1 1 -5 13.838 24.85
+ 3 -1 1 13.304 0.68
+ 2 0 4 13.15 39.15
+ -2 0 6 12.964 2.51
+ 4 0 -3 12.724 17.45
+ 0 0 6 12.635 17.42
+ 4 0 0 12.318 16.84
+ 3 -1 2 12.24 29.52
+ -2 -2 2 12.13 9.30
+ -1 -1 6 11.983 2.94
+ 2 -2 1 11.736 5.75
+ -2 -2 3 11.677 1.40
+ 2 0 5 11.429 4.48
+ -2 0 7 11.275 3.95
+ 2 -2 2 11.108 3.23
+ -2 -2 4 11.026 3.66
+ -4 0 6 10.593 8.66
+ -1 -1 7 10.542 2.92
+ 2 2 3 10.356 0.41
+ -2 -2 5 10.279 2.42
+ -3 -1 7 9.953 5.92
+ 4 0 3 9.93 1.09
+ 5 -1 -2 9.697 4.51
+ 2 -2 4 9.586 0.51
+
+# End of data set 1924114
+
+

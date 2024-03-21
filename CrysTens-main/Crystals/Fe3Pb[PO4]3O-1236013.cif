@@ -1,0 +1,195 @@
+##############################################################################
+#                                                                            #
+# Fe-O-P-Pb        # Fe3Pb[PO4]3O                                  # 1236013 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1236013
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1236013
+
+# Entry summary
+
+_chemical_formula_structural             'Fe~3~ Pb [P O~4~]~3~ O'
+_chemical_formula_sum                    'Fe3 O13 P3 Pb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe~3~Bi~0.4~[PO~4~]~3~O,mP40,11
+_chemical_formula_weight                 675.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Magnetic, M\"ossbauer and optical spectroscopic properties of the AFe~3~O(PO~4~)~3~ (A= Ca, Sr, Pb) series of powder compounds
+;
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2014
+_journal_volume                          36
+_journal_page_first                      52
+_journal_page_last                       61
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'El Hafid H.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Velazquez M.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'El Jazouli A.'
+;
+Casablanca Ben M'Sik Faculty of Sciences
+Laboratoire de Chimie des Mat\'eriaux Solides
+Casablanca
+Morocco
+;
+'Wattiaux A.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Carlier D.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Decourt R.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Couzi M.'
+;
+Talence Bordeaux I University
+Institut des Sciences Mol\'eculaires
+Talence
+France
+;
+'Goldner P.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Institut de Recherche Chimie Paris
+Paris
+France
+;
+'Delmas C.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.5601
+_cell_length_b                           6.361
+_cell_length_c                           10.3908
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.947
+_cell_angle_gamma                        90
+_cell_volume                             492.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ P
+ Pb
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 f 0.2488 0.0608 0.5846 1
+ O2 O 4 f 0.3797 0.5626 0.2129 1
+ O3 O 4 f 0.7891 0.0486 0.0936 1
+ O4 O 2 e 0.0251 0.25 0.4099 1
+ O5 O 2 e 0.1238 0.25 0.0928 1
+ P1 P 2 e 0.2166 0.25 0.4884 1
+ Pb1 Pb 2 e 0.3409 0.25 0.80629 1
+ O6 O 2 e 0.3489 0.25 0.3924 1
+ Fe1 Fe 2 e 0.3504 0.25 0.20185 1
+ O7 O 2 e 0.4922 0.25 0.031 1
+ O8 O 2 e 0.6415 0.25 0.2563 1
+ P2 P 2 e 0.6827 0.25 0.1129 1
+ P3 P 2 e 0.7366 0.25 0.7606 1
+ O9 O 2 e 0.785 0.25 0.6256 1
+ Fe2 Fe 2 e 0.7857 0.25 0.43654 1
+ O10 O 2 e 0.9171 0.25 0.8657 1
+ Fe3 Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'red deep'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.56
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1236013
+
+

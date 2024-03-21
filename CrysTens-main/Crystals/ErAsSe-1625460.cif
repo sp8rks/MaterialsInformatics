@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# As-Er-Se         # ErAsSe                                        # 1625460 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1625460
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1625460
+
+# Entry summary
+
+_chemical_formula_structural             'Er As Se'
+_chemical_formula_sum                    'As Er Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CeAsS,mP12,14
+_chemical_formula_weight                 321.1
+
+# Bibliographic data
+
+_publ_section_title
+'On the Rare-Earth Pnigochalcogenides LnAsSe'                                 
+_journal_coden_ASTM                      ZNBAD2
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1981
+_journal_volume                          36
+_journal_page_first                      463
+_journal_page_last                       469
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Schmelczer R.'
+;
+Lausanne University
+Institut de Cristallographie
+Lausanne
+Switzerland
+;
+'Schwarzenbach D.'
+;
+Lausanne University
+Institut de Cristallographie
+Lausanne
+Switzerland
+;
+'Hulliger F.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Festk\"orperphysik
+Zurich
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.859
+_cell_length_b                           17.234
+_cell_length_c                           5.4825
+_cell_angle_alpha                        90
+_cell_angle_beta                         134.729
+_cell_angle_gamma                        90
+_cell_volume                             259
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Er
+ Se
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Er1 Er 4 e 0.0216 0.3544 0.2718 1
+ Se1 Se 4 e 0.0224 0.1859 0.2714 1
+ As1 As 4 e 0.543 0.0019 0.297 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.23
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1625460
+
+

@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# C-Er-Fe-H-N-O    # ErFe[CN]6[H2O]4 mon                           # 1402106 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1402106
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1402106
+
+# Entry summary
+
+_chemical_formula_structural             'Er Fe [C N]~6~ [H~2~ O]~4~'
+_chemical_formula_sum                    'C6 Er Fe H8 N6 O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            FeBi[CN]~6~[H~2~O]~4~,mP36,11
+_chemical_formula_weight                 451.3
+
+# Bibliographic data
+
+_publ_section_title
+'Structure of monoclinic ErFe(CN)~6~.4H~2~O'                                  
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1989
+_journal_volume                          45
+_journal_page_first                      330
+_journal_page_last                       331
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mullica D.F.'
+;
+Texas Waco Baylor University
+Department of Chemistry and Physics
+Waco
+U.S.A. Texas
+;
+'Perkins H.O.'
+;
+Texas Waco Baylor University
+Department of Chemistry and Physics
+Waco
+U.S.A. Texas
+;
+'Sappenfield E.L.'
+;
+Texas Waco Baylor University
+Department of Chemistry and Physics
+Waco
+U.S.A. Texas
+;
+'Leschnitzer D.'
+;
+Texas Waco Baylor University
+Department of Chemistry and Physics
+Waco
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.4308
+_cell_length_b                           13.729
+_cell_length_c                           7.431
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.963
+_cell_angle_gamma                        90
+_cell_volume                             656.77
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ OH2
+ Er
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C2 C 4 f 0.1362 0.0596 0.8638 1
+ C3 C 4 f 0.1377 0.0886 0.2308 1
+ N2 N 4 f 0.2167 0.0964 0.7846 1
+ N3 N 4 f 0.2208 0.1392 0.3715 1
+ C1 C 4 f 0.2312 0.5895 0.138 1
+ N1 N 4 f 0.3826 0.6392 0.231 1
+ O1 OH2 4 f 0.6561 0.0999 0.3455 1
+ Er Er 2 e 0.32358 0.25 0.67652 1
+ O3 OH2 2 e 0.481 0.25 0.051 1
+ O2 OH2 2 e 0.951 0.25 0.52 1
+ Fe Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              2.280
+_exptl_crystal_density_diffrn            2.28
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1208
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            7.57
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             84
+_refine_ls_number_reflns                 962
+_refine_ls_R_factor_gt                   0.0241
+_refine_ls_wR_factor_gt                  0.0241
+
+# End of data set 1402106
+
+

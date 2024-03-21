@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# H-Hg-N-O         # Hg[NO3][H2O]                                  # 1003296 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003296
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003296
+
+# Entry summary
+
+_chemical_formula_structural             'Hg [N O~3~] [H~2~ O]'
+_chemical_formula_sum                    'H2 Hg N O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Hg[NO~3~][H~2~O]-b,mP24,14
+_chemical_formula_weight                 280.6
+
+# Bibliographic data
+
+_publ_section_title
+'A redetermination of the crystal structure of mercury(I) nitrate dihydrate'  
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1975
+_journal_volume                          31
+_journal_page_first                      2174
+_journal_page_last                       2175
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Grdenic D.'
+;
+Zagreb University
+Laboratory of General and Inorganic Chemistry
+Zagreb
+Croatia
+;
+'Sikirica M.'
+;
+Zagreb University
+Laboratory of General and Inorganic Chemistry
+Zagreb
+Croatia
+;
+'Vickovic I.'
+;
+Zagreb University
+Laboratory of General and Inorganic Chemistry
+Zagreb
+Croatia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.256
+_cell_length_b                           7.506
+_cell_length_c                           9.3755
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.591
+_cell_angle_gamma                        90
+_cell_volume                             393.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ N
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.1285 0.3973 0.4005 1
+ O OH2 4 e 0.1634 0.6118 0.1829 1
+ N N 4 e 0.2528 0.0791 0.0487 1
+ O3 O 4 e 0.2796 0.1955 0.1496 1
+ Hg Hg 4 e 0.3992 0.5367 0.0858 1
+ O1 O 4 e 0.6257 0.4385 0.4014 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.785
+_exptl_crystal_density_diffrn            4.73
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            40.27
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 736
+_refine_ls_R_factor_gt                   0.054
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1003296
+
+

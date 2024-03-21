@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Ca-H-K-O-P       # HK3Ca[PO4]2                                   # 1405723 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1405723
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1405723
+
+# Entry summary
+
+_chemical_formula_structural             'H K~3~ Ca [P O~4~]~2~'
+_chemical_formula_sum                    'Ca H K3 O8 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HK~3~Ca[PO~4~]~2~,mS28,12
+_chemical_formula_weight                 348.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+A glaserite-type structure: Calcium tripotassium hydrogenbis(phosphate), CaK~3~H(PO~4~)~2~
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1983
+_journal_volume                          39
+_journal_page_first                      166
+_journal_page_last                       169
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Takagi S.'
+;
+National Bureau of Standards (NBS)
+American Dental Association Health Foundation
+Washington
+U.S.A. Washington D.C.
+;
+'Mathew M.'
+;
+National Bureau of Standards (NBS)
+American Dental Association Health Foundation
+Washington
+U.S.A. Washington D.C.
+;
+'Brown W.E.'
+;
+National Bureau of Standards (NBS)
+American Dental Association Health Foundation
+Washington
+U.S.A. Washington D.C.
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.878
+_cell_length_b                           5.735
+_cell_length_c                           7.436
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.28
+_cell_angle_gamma                        90
+_cell_volume                             420.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ K
+ Ca
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.4014 0.2186 0.1718 1
+ O1 O 4 i 0.1852 0 0.2172 1
+ P P 4 i 0.33947 0 0.2511 1
+ O2 O 4 i 0.3759 0 0.4589 1
+ K2 K 4 i 0.66953 0 0.19096 1
+ K1 K 2 c 0 0 0.5 1
+ Ca Ca 2 a 0 0 0 1
+ H H 2 d 0 0.5 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.77
+_exptl_crystal_density_diffrn            2.75
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    1767
+_exptl_absorpt_coefficient_mu            2.65
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 512
+_refine_ls_R_factor_gt                   0.017
+_refine_ls_wR_factor_gt                  0.021
+
+# End of data set 1405723
+
+

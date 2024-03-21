@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# H-Li-O-Se        # H3Li[SeO3]2 hp-ht                             # 1501910 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1501910
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1501910
+
+# Entry summary
+
+_chemical_formula_structural             'H~3~ Li [Se O~3~]~2~'
+_chemical_formula_sum                    'H3 Li O6 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            H~3~Li[SeO~3~]~2~,mP18,7
+_chemical_formula_weight                 263.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrogen bond studies. 54. A neutron diffraction study of the ferroelectric lithium trihydrogen selenite, LiH~3~(SeO~3~)~2~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1972
+_journal_volume                          4
+_journal_page_first                      255
+_journal_page_last                       261
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tellgren R.'
+;
+Uppsala University
+Institute of Chemistry
+Uppsala
+Sweden
+;
+'Liminga R.'
+;
+Uppsala University
+Institute of Chemistry
+Uppsala
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.4339
+_cell_length_b                           7.8823
+_cell_length_c                           7.1197
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.074
+_cell_angle_gamma                        90
+_cell_volume                             258.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Li
+ Se
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 2 a 0.0 0.27253 0.0 1
+ O5 O 2 a 0.09843 0.02359 0.28636 1
+ Li Li 2 a 0.19582 0.74866 0.30989 1
+ O6 O 2 a 0.27629 0.47553 0.32665 1
+ O2 O 2 a 0.37078 0.22634 0.60564 1
+ Se2 Se 2 a 0.53002 0.60074 0.07438 1
+ O3 O 2 a 0.61394 0.20886 0.10924 1
+ O4 O 2 a 0.77279 0.29807 0.51692 1
+ Se1 Se 2 a 0.81907 0.10493 0.04048 1
+ H1 H 2 a 0.10225 0.35315 0.13628 1
+ H2 H 2 a 0.2233 0.11823 0.42745 1
+ H3 H 2 a 0.69665 0.26916 0.35799 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.39
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cr Ka1'
+_cell_measurement_wavelength             2.28962
+_pd_proc_wavelength                      2.28962
+_cell_measurement_reflns_used            38
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'Sweden, Studsvik Neutron Research Laboratory, R2 reactor'                    
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.097
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            0.12
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             108
+_refine_ls_number_reflns                 815
+_refine_ls_R_factor_gt                   0.029
+_refine_ls_wR_factor_gt                  0.039
+
+# End of data set 1501910
+
+

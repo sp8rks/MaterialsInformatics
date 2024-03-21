@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Fe-H-O-Se        # HFe[SeO3]2                                    # 1122408 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1122408
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1122408
+
+# Entry summary
+
+_chemical_formula_structural             'H Fe [Se O~3~]~2~'
+_chemical_formula_sum                    'Fe H O6 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            HIn[SeO~3~]~2~,mP36,14
+_chemical_formula_weight                 310.8
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of iron(III) hydrogen biselenite, FeH(SeO~3~)~2~'      
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1978
+_journal_volume                          32
+_journal_page_first                      603
+_journal_page_last                       606
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Valkonen J.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+'Koskenlinna M.'
+;
+Espoo Helsinki University of Technology
+Department of Chemistry
+Espoo
+Finland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.409
+_cell_length_b                           9.921
+_cell_length_c                           8.108
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.76
+_cell_angle_gamma                        90
+_cell_volume                             514.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ Se
+ O
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 OH 4 e 0.0257 0.364 0.4043 1
+ Se1 Se 4 e 0.0691 0.4074 0.2016 1
+ O3 O 4 e 0.144 0.0021 0.3402 1
+ O1 O 4 e 0.2488 0.5279 0.2313 1
+ O4 O 4 e 0.3938 0.125 0.1076 1
+ Fe Fe 4 e 0.4448 0.0066 0.2989 1
+ O5 O 4 e 0.4774 0.3714 0.0024 1
+ O6 O 4 e 0.5632 0.336 0.3219 1
+ Se2 Se 4 e 0.594 0.2132 0.0213 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              4.0
+_exptl_crystal_density_diffrn            4.01
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            16.88
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1193
+_refine_ls_R_factor_gt                   0.047
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1122408
+
+

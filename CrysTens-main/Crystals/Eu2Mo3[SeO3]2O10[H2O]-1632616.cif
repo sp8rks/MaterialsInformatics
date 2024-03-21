@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Eu-H-Mo-O-Se     # Eu2Mo3[SeO3]2O10[H2O]                         # 1632616 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1632616
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1632616
+
+# Entry summary
+
+_chemical_formula_structural
+'Eu~2~ Mo~3~ [Se O~3~]~2~ O~10~ [H~2~ O]'                                     
+_chemical_formula_sum                    'Eu2 H2 Mo3 O17 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Eu~2~Mo~3~[SeO~3~]~2~O~10~[H~2~O],mP48,11                                     
+_chemical_formula_weight                 1023.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses, crystal structures, magnetic and luminescent properties of two classes of molybdenum(VI) rich quaternary lanthanide selenites
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2011
+_journal_volume                          50
+_journal_page_first                      4934
+_journal_page_last                       4943
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhang S.Y.'
+;
+Chinese Academy of Sciences
+State Key Laboratory of Structural Chemistry
+Fuzhou / Fujian
+China
+;
+'Mao J.G.'
+;
+Chinese Academy of Sciences
+State Key Laboratory of Structural Chemistry
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.8535
+_cell_length_b                           7.2488
+_cell_length_c                           14.206
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.473
+_cell_angle_gamma                        90
+_cell_volume                             694
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ Eu
+ Se
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 O 4 f 0.0483 0.5728 0.1517 1
+ O1 O 4 f 0.1624 0.0751 0.5558 1
+ O6 O 4 f 0.2498 0.0623 0.0213 1
+ Mo1 Mo 4 f 0.28281 0.50453 0.14055 1
+ O8 O 4 f 0.3885 0.0068 0.2862 1
+ O4 O 4 f 0.6086 0.0638 0.1395 1
+ O10 O 2 e 0.1336 0.25 0.3566 1
+ O2 O 2 e 0.2041 0.25 0.7184 1
+ Eu2 Eu 2 e 0.25806 0.25 0.8804 1
+ O9 O 2 e 0.2623 0.25 0.1771 1
+ Se1 Se 2 e 0.29919 0.25 0.61657 1
+ Mo2 Mo 2 e 0.37006 0.25 0.33242 1
+ O11 O 2 e 0.5245 0.25 0.4441 1
+ O5 O 2 e 0.6 0.25 0.8662 1
+ O3 O 2 e 0.6957 0.25 0.3001 1
+ Se2 Se 2 e 0.74608 0.25 0.18675 1
+ O1W O 2 e 0.8206 0.25 0.6178 1
+ Eu1 Eu 2 e 0.88378 0.25 0.45781 1
+ H1WA H 4 f 0.2455 0.6543 0.3736 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.90
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1850
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Mercury'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5353
+_diffrn_reflns_theta_min                 2.92
+_diffrn_reflns_theta_max                 27.51
+_exptl_absorpt_coefficient_mu            16.880
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             127
+_refine_ls_number_reflns                 1462
+_refine_ls_R_factor_gt                   0.0400
+_refine_ls_wR_factor_gt                  0.0821
+
+# End of data set 1632616
+
+
