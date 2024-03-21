@@ -1,0 +1,133 @@
+##############################################################################
+#                                                                            #
+# As-S             # AsS rea                                       # 1229214 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1229214
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1229214
+
+# Entry summary
+
+_chemical_formula_structural             'As S'
+_chemical_formula_sum                    'As S'
+_chemical_name_mineral                   realgar
+_chemical_compound_source
+'Italy, Latium, Cerveteri area, Monte Sughereto'                              
+_chemical_name_structure_type            AsS-a,mP32,14
+_chemical_formula_weight                 107.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Thermal behavior of realgar As~4~S~4~, and of arsenolite As~2~O~3~ and non-stoichiometric As~8~S~8+x~ crystals produced from As~4~S~4~ melt recrystallization
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2012
+_journal_volume                          97
+_journal_page_first                      1320
+_journal_page_last                       1329
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ballirano P.'
+;
+Rome La Sapienza University
+Dipartimento di Scienze della Terra
+Rome
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.6416
+_cell_length_b                           13.657
+_cell_length_c                           9.8794
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.998
+_cell_angle_gamma                        90
+_cell_volume                             818.64
+_cell_formula_units_Z                    16
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S4 S 4 e 0.0589 0.29104 0.1082 1
+ S2 S 4 e 0.1 0.52205 0.2137 1
+ AS3 As 4 e 0.14842 0.37418 0.32032 1
+ AS4 As 4 e 0.32474 0.33987 0.03884 1
+ S1 S 4 e 0.35889 0.00788 0.15549 1
+ AS1 As 4 e 0.35804 0.51974 0.12204 1
+ AS2 As 4 e 0.57042 0.36243 0.42092 1
+ S3 S 4 e 0.6007 0.27642 0.2371 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.47
+_cell_measurement_temperature            503
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              503
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8 ADVANCE'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 70
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                140
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             73
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0375
+_pd_proc_ls_proof_wR_factor              0.0472
+_refine_ls_R_I_factor                    0.12723
+
+# End of data set 1229214
+
+

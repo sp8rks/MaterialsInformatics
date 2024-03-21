@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# C-Cs-K-Mn-N      # Cs2KMn[CN]6                                   # 1811094 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1811094
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1811094
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ K Mn [C N]~6~'
+_chemical_formula_sum                    'C6 Cs2 K Mn N6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~LiCr[CN]~6~,mP32,14
+_chemical_formula_weight                 516.0
+
+# Bibliographic data
+
+_publ_section_title
+'Cs~2~K[Mn(CN)~6~] at 293, 85 and 10 K'                                       
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2000
+_journal_volume                          56
+_journal_page_first                      735
+_journal_page_last                       737
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Figgis B.N.'
+;
+Nedlands Western Australia University
+Department of Chemistry
+Nedlands
+Australia
+;
+'Sobolev A.N.'
+;
+Nedlands Western Australia University
+Department of Chemistry
+Nedlands
+Australia
+;
+'Kucharski E.S.'
+;
+Nedlands Western Australia University
+Department of Chemistry
+Nedlands
+Australia
+;
+'Broughton V.'
+;
+Nedlands Western Australia University
+Department of Chemistry
+Nedlands
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.6135
+_cell_length_b                           8.227
+_cell_length_c                           13.3343
+_cell_angle_alpha                        90
+_cell_angle_beta                         123.863
+_cell_angle_gamma                        90
+_cell_volume                             693.54
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ Cs
+ N
+ K
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C3 C 4 e 0.08972 0.02607 0.17055 1
+ C1 C 4 e 0.24907 0.12958 0.03499 1
+ Cs Cs 4 e 0.27969 0.42195 0.25271 1
+ N2 N 4 e 0.27297 0.6792 0.07206 1
+ N3 N 4 e 0.13998 0.04553 0.26977 1
+ N1 N 4 e 0.39672 0.20445 0.05787 1
+ C2 C 4 e 0.82928 0.20376 -0.04456 1
+ K K 2 d 0.5 0 0.5 1
+ Mn Mn 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'brown red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.47
+_cell_measurement_temperature            10
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              10
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Huber 512'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    28154
+_exptl_absorpt_coefficient_mu            6.407
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'not specified'
+_refine_ls_number_parameters             77
+_refine_ls_number_reflns                 7317
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.077
+
+# End of data set 1811094
+
+

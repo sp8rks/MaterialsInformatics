@@ -1,0 +1,192 @@
+##############################################################################
+#                                                                            #
+# Al-Ba-F          # BaAlF5 ht2                                    # 1822747 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1822747
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1822747
+
+# Entry summary
+
+_chemical_formula_structural             'Ba Al F~5~'
+_chemical_formula_sum                    'Al Ba F5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            BaAlF~5~,mP28,4
+_chemical_formula_weight                 259.3
+_chemical_melting_point                  1193
+
+# Bibliographic data
+
+_publ_section_title                      'The Binary System BaF~2~/AlF~3~'
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1992
+_journal_volume                          613
+_journal_page_first                      98
+_journal_page_last                       104
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kozak A.D.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Cristallochimie du Solide
+Paris
+France
+;
+'Samouel M.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Cristallochimie du Solide
+Paris
+France
+;
+'Renaudin J.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+'F\'erey G.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.258
+_cell_length_b                           9.73
+_cell_length_c                           7.37
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.88
+_cell_angle_gamma                        90
+_cell_volume                             377
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ F
+ Al
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 2 a 0.0084 0.2509 0.8991 1
+ Al1 Al 2 a 0.0101 0.1156 0.0701 1
+ Ba1 Ba 2 a 0.0105 0.489 0.3864 1
+ F2 F 2 a 0.0387 0.0 0.2553 1
+ F3 F 2 a 0.2518 0.5354 0.0324 1
+ F4 F 2 a 0.2519 0.7426 0.4442 1
+ F5 F 2 a 0.2677 0.2235 0.5329 1
+ F6 F 2 a 0.2832 0.2176 0.1782 1
+ Ba2 Ba 2 a 0.4871 0.8362 0.1389 1
+ F7 F 2 a 0.5064 0.4055 0.3419 1
+ Al2 Al 2 a 0.5145 0.2224 0.368 1
+ F8 F 2 a 0.5515 0.0459 0.365 1
+ F9 F 2 a 0.7654 0.5251 0.0553 1
+ F10 F 2 a 0.7924 0.2339 0.2038 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.57
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 58.83 2
+ 0 2 0 48.72 10
+ 1 0 -1 43.12 5
+ 1 0 1 42.5 8
+ 0 2 1 40.6 10
+ 1 1 -1 39.42 30
+ 1 1 1 38.97 20
+ 1 2 0 35.71 100
+ 0 1 2 34.46 50
+ 1 2 -1 32.24 30
+ 1 2 1 31.98 30
+ 0 3 1 29.68 40
+ 0 2 2 29.39 5
+ 1 1 -2 29 25
+ 1 1 2 28.61 25
+ 2 0 0 26.27 30
+ 0 4 0 24.33 30
+ 0 1 3 23.81 10
+ 0 4 1 23.1 65
+ 1 0 -3 22.38 10
+ 1 4 0 22.07 55
+ 2 2 1 21.98 55
+ 1 1 3 21.57 15
+ 2 1 -2 21.05 20
+ 2 1 2 20.76 20
+ 2 3 -1 19.74 20
+ 0 3 3 19.59 25
+ 0 5 1 18.82 5
+ 0 0 4 18.42 10
+ 1 5 -1 17.74 25
+ 1 5 1 17.69 25
+
+# End of data set 1822747
+
+

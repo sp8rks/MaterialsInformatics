@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# Cu-S-Sn          # Cu2SnS3                                       # 1411679 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1411679
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1411679
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ Sn S~3~'
+_chemical_formula_sum                    'Cu2 S3 Sn'
+_chemical_name_mineral                   mohite
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~GeS~3~,mS24,9
+_chemical_formula_weight                 342.0
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure and twinning of monoclinic Cu~2~SnS~3~'                    
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            2000
+_journal_volume                          35
+_journal_page_first                      1563
+_journal_page_last                       1570
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Onoda M.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Chen X.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Sato A.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Wada H.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.653
+_cell_length_b                           11.537
+_cell_length_c                           6.665
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.39
+_cell_angle_gamma                        90
+_cell_volume                             482.56
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Sn
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 4 a 0.0044 0.4222 0.0056 1
+ S1 S 4 a -0.019 0.0905 -0.0006 1
+ Sn Sn 4 a 0.3589 0.0898 0.1179 1
+ Cu2 Cu 4 a 0.3722 0.2563 0.6195 1
+ Cu1 Cu 4 a 0.3842 0.4125 0.136 1
+ S2 S 4 a 0.5 0.2621 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.71
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka1'
+_cell_measurement_wavelength             0.7093
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka1'
+_diffrn_radiation_wavelength             0.7093
+_diffrn_reflns_number                    6609
+_exptl_absorpt_coefficient_mu            15.00
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             55
+_refine_ls_number_reflns                 1237
+_refine_ls_R_factor_gt                   0.036
+_refine_ls_wR_factor_gt                  0.038
+
+# End of data set 1411679
+
+

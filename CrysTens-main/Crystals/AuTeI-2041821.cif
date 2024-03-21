@@ -1,0 +1,126 @@
+##############################################################################
+#                                                                            #
+# Au-I-Te          # AuTeI                                         # 2041821 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2041821
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2041821
+
+# Entry summary
+
+_chemical_formula_structural             'Au Te I'
+_chemical_formula_sum                    'Au I Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AuTeI,mP12,14
+_chemical_formula_weight                 451.5
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of Gold Telluride Iodide AuTeI'                        
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1978
+_journal_volume                          24
+_journal_page_first                      367
+_journal_page_last                       369
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fenner J.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Mootz D.'
+;
+D\"usseldorf Heinrich Heine University
+Institut f\"ur Anorganische Chemie und Strukturchemie
+D\"usseldorf
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.313
+_cell_length_b                           7.6242
+_cell_length_c                           7.255
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.263
+_cell_angle_gamma                        90
+_cell_volume                             388.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Au
+ I
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Au Au 4 e 0.0346 0.1395 0.263 1
+ I I 4 e 0.3242 0.0857 0.1108 1
+ Te Te 4 e 0.828 0.3699 0.009 1
+
+
+_exptl_crystal_colour                    'black grayish'
+_exptl_crystal_density_meas              7.73
+_exptl_crystal_density_diffrn            7.72
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            54.52
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1172
+_refine_ls_R_factor_gt                   0.055
+_refine_ls_wR_factor_gt                  0.052
+
+# End of data set 2041821
+
+

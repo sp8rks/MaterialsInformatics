@@ -1,0 +1,240 @@
+##############################################################################
+#                                                                            #
+# Cm-Co            # Cm2Co17                                       # 1024301 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1024301
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1024301
+
+# Entry summary
+
+_chemical_formula_structural             'Cm~2~ Co~17~'
+_chemical_formula_sum                    'Cm2 Co17'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Th~2~Ni~17~,hP38,194
+_chemical_formula_weight                 1495.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and study of binary actinide and lanthanide compounds: XXIV. Curium cobalt alloys
+;
+_journal_coden_ASTM                      RDIOEO
+_journal_name_full                       'Radiochemistry (Moscow)'
+_journal_year                            2004
+_journal_volume                          46
+_journal_page_first                      1
+_journal_page_last                       5
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Radchenko V.M.'
+;
+State Scientific Center of the Russian Federation
+Research Institute of Nuclear Reactor
+Dimitrovgrad
+Russia
+;
+'Seleznev A.G.'
+;
+State Scientific Center of the Russian Federation
+Research Institute of Nuclear Reactor
+Dimitrovgrad
+Russia
+;
+'Droznik R.'
+;
+State Scientific Center of the Russian Federation
+Research Institute of Nuclear Reactor
+Dimitrovgrad
+Russia
+;
+'Ryabinin M.'
+;
+State Scientific Center of the Russian Federation
+Research Institute of Nuclear Reactor
+Dimitrovgrad
+Russia
+;
+'Nagaitsev V.G.'
+;
+State Scientific Center of the Russian Federation
+Research Institute of Nuclear Reactor
+Dimitrovgrad
+Russia
+;
+'Chernakova T.'
+;
+State Scientific Center of the Russian Federation
+Research Institute of Nuclear Reactor
+Dimitrovgrad
+Russia
+;
+'Shushakov V.D.'
+;
+State Scientific Center of the Russian Federation
+Research Institute of Nuclear Reactor
+Dimitrovgrad
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.378
+_cell_length_b                           8.378
+_cell_length_c                           8.07
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             490.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Co
+ Cm
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Co1 Co 12 k 0.1667 0.3334 0.0 1
+ Co2 Co 12 j 0.0 0.3333 0.25 1
+ Co3 Co 6 g 0.5 0 0 1
+ Co4 Co 4 f 0.333333 0.666667 0.61 1
+ Cm1 Cm 2 c 0.333333 0.666667 0.25 1
+ Cm2 Cm 2 b 0 0 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            10.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ ? ? ? 43.475 3
+ 1 1 0 42.467 3
+ 0 0 2 40.956 9
+ ? ? ? 32.616 356
+ ? ? ? 30.557 4
+ 1 1 2 29.8397 7
+ ? ? ? 28.193 47
+ ? ? ? 27.733 4
+ 2 1 1 26.092 14
+ ? ? ? 26.026 20
+ ? ? ? 25.714 9
+ 1 0 3 25.467 5
+ ? ? ? 24.602 1
+ ? ? ? 22.139 13
+ 2 0 3 21.751 7
+ 3 0 2 20.905 1
+ ? ? ? 20.482 83
+ ? ? ? 19.935 66
+ 2 1 3 19.193 12
+ 2 0 4 17.739 50
+ ? ? ? 17.44 2
+ ? ? ? 16.987 46
+ 2 1 4 16.279 24
+ ? ? ? 14.884 5
+ ? ? ? 14.084 6
+ ? ? ? 12.936 17
+ ? ? ? 12.712 3
+ 3 1 5 12.628 6
+ ? ? ? 12.576 11
+ ? ? ? 12.536 39
+ ? ? ? 11.505 12
+ ? ? ? 10.845 8
+ ? ? ? 10.688 9
+ ? ? ? 9.527 5
+ ? ? ? 9.388 4
+ ? ? ? 9.045 2
+ ? ? ? 8.874 3
+ ? ? ? 8.593 3
+ ? ? ? 8.485 4
+ ? ? ? 8.132 7
+ ? ? ? 8.047 3
+ ? ? ? 7.928 3
+ ? ? ? 7.903 3
+
+# End of data set 1024301
+
+

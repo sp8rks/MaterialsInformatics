@@ -1,0 +1,198 @@
+##############################################################################
+#                                                                            #
+# Ag-O             # Ag3O4 rt                                      # 1251095 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1251095
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1251095
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~3~ O~4~'
+_chemical_formula_sum                    'Ag3 O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~3~O~4~,mP14,14
+_chemical_formula_weight                 387.6
+
+# Bibliographic data
+
+_publ_section_title
+'Darstellung und Kristallstruktur von Ag~3~O~4~'                              
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1987
+_journal_volume                          67
+_journal_page_first                      278
+_journal_page_last                       284
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Standke B.'
+;
+Hannover Gottfried Wilhelm Leibniz University
+Institut f\"ur Anorganische Chemie
+Hannover
+Germany
+;
+'Jansen M.'
+;
+Hannover Gottfried Wilhelm Leibniz University
+Institut f\"ur Anorganische Chemie
+Hannover
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.5787
+_cell_length_b                           9.2079
+_cell_length_c                           5.6771
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.135
+_cell_angle_gamma                        90
+_cell_volume                             179.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+ O ?
+ Ag3+ 3
+ Ag2+ 2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0366 0.3119 0.3244 1
+ Ag2 Ag3+ 4 e 0.2849 0.3580 0.0481 1
+ O1 O 4 e 0.4879 0.0499 0.2736 1
+ Ag1 Ag2+ 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.16
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            53
+_diffrn_ambient_temperature              233
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens-STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    780
+_diffrn_reflns_theta_min                 6
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            14.777
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             35
+_refine_ls_number_reflns                 372
+_refine_ls_R_factor_gt                   0.0414
+_refine_ls_wR_factor_gt                  0.034
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 46.886 20
+ 0 2 0 46.008 100
+ 0 2 1 35.18 100
+ 1 0 0 34.366 50
+ 1 1 0 32.185 600
+ 1 1 -1 31.557 250
+ 1 2 0 27.543 100
+ 0 0 2 27.275 400
+ 1 2 -1 27.154 400
+ 0 3 1 26.755 1000
+ 0 1 2 26.145 50
+ 1 1 1 25.039 600
+ 1 1 -2 24.153 300
+ 0 2 2 23.469 50
+ 0 4 0 23.041 50
+ 1 3 0 22.9 100
+ 1 3 -1 22.645 500
+ 1 2 -2 21.979 200
+ 0 4 1 21.201 50
+ 0 3 2 20.385 20
+ 1 3 -2 19.39 50
+ 1 4 0 19.128 100
+ 1 4 -1 18.99 50
+ 1 1 2 18.563 50
+ 2 1 -1 17.553 200
+ 1 2 2 17.526 100
+ 0 5 1 17.448 100
+ 1 4 1 17.2364 10
+ 1 2 -3 17.0151 100
+ 0 2 3 16.9062 100
+ 2 0 -2 16.7973 40
+ 1 5 0 16.2321 150
+ 1 5 -1 16.1406 40
+ 1 3 2 16.1261 20
+ 2 2 0 16.1003 50
+ 2 2 -2 15.7839 50
+ 1 3 -3 15.7239 200
+ 0 3 3 15.6378 200
+ 0 6 0 15.3498 100
+ 0 5 2 15.2595 50
+ 1 5 1 15.03 150
+ 1 5 -2 14.8301 100
+ 1 4 2 14.6329 150
+ 2 1 -3 14.5104 100
+ 2 2 1 14.4561 50
+ 1 1 3 14.3156 100
+ 1 0 -4 14.0889 100
+ 1 6 -1 13.9625 100
+ 2 4 0 13.773 200
+ 0 0 4 13.6349 50
+ 2 4 -2 13.5702 150
+ 0 6 2 13.3744 100
+ 1 6 1 13.2189 50
+ 0 2 4 13.0814 50
+ 1 5 -3 12.982 20
+ 0 5 3 12.9359 20
+ 2 1 2 12.874 50
+ 2 2 -4 12.0678 20
+
+# End of data set 1251095
+
+

@@ -1,0 +1,233 @@
+##############################################################################
+#                                                                            #
+# Cu-Se-Tl-Zr      # Cu2Tl2Zr3Se8                                  # 1120409 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1120409
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1120409
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ Tl~2~ Zr~3~ Se~8~'
+_chemical_formula_sum                    'Cu2 Se8 Tl2 Zr3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~Tl~2~Hf~3~Se~8~,mS30,12
+_chemical_formula_weight                 1441.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Quaternary chalcogenides of the IVa metals with layered structures: 1. Preparation and structural characterization of Tl~2~Cu~2~Hf~3~Se~8~, Tl~2~Cu~2~Zr~3~S~8~ and Tl~2~Cu~2~Zr~3~Se~8~
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1996
+_journal_volume                          239
+_journal_page_first                      1
+_journal_page_last                       7
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Klepp K.O.'
+;
+Linz Johannes Kepler University
+Abteilung f\"ur Anorganische Chemie
+Linz
+Austria
+;
+'Gurtner D.'
+;
+Linz Johannes Kepler University
+Abteilung f\"ur Anorganische Chemie
+Linz
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.392
+_cell_length_b                           3.828
+_cell_length_c                           14.387
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.69
+_cell_angle_gamma                        90
+_cell_volume                             725.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Se
+ Zr
+ Tl
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 i 0.1434 0 0.1911 1
+ Zr1 Zr 4 i 0.15425 0 0.38103 1
+ Tl1 Tl 4 i 0.17191 0 0.80395 1
+ Se2 Se 4 i 0.2017 0 0.5823 1
+ Se3 Se 4 i 0.3888 0 0.0388 1
+ Se4 Se 4 i 0.517 0 0.3578 1
+ Cu1 Cu 4 i 0.5379 0 0.1978 1
+ Zr2 Zr 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.59
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54076
+_pd_proc_wavelength                      1.54076
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 66.3 200.3
+ 2 0 -1 123.5 86.4
+ 2 0 0 134 12.7
+ 0 0 2 134 224.5
+ 2 0 -2 146.8 87.6
+ 2 0 1 172.8 79.5
+ 2 0 -3 192.3 251.8
+ 0 0 3 201.5 18.6
+ 2 0 2 225 191.3
+ 1 1 0 241.2 32.7
+ 1 1 -1 243.2 69.9
+ 4 0 -1 250 53.8
+ 1 1 1 258.3 72.8
+ 1 1 -2 263.8 48.1
+ 4 0 0 269.9 37.4
+ 2 0 3 285.2 73.8
+ 4 0 -4 296 196.8
+ 3 1 -1 298.5 211.5
+ 3 1 -2 303 461.7
+ 4 0 1 304.8 193.6
+ 3 1 0 309.5 1000.0
+ 3 1 -3 322.8 440.4
+ 1 1 3 334.8 136.8
+ 0 0 5 340.1 611.0
+ 1 1 -4 344.6 202.4
+ 3 1 -4 355.1 123.1
+ 3 1 2 371.5 256.8
+ 6 0 -3 376 18.3
+ 1 1 4 386.8 85.1
+ 5 1 -2 391 141.7
+ 3 1 -5 397.5 211.5
+ 4 0 3 402.7 40.9
+ 6 0 0 410.5 194.7
+ 5 1 0 416 108.5
+ 6 0 -5 416 166.5
+ 3 1 3 417.2 27.8
+ 5 1 -5 444.6 144.7
+ 5 1 1 444.6 78.6
+ 4 0 -7 447.9 43.0
+ 3 1 4 469.8 70.6
+ 0 2 0 474.5 371.6
+ 0 0 7 483.3 38.4
+ 2 0 6 486.5 17.3
+ 0 2 2 495.7 12.9
+ 3 1 -7 503.4 151.1
+ 8 0 -3 506.9 110.5
+ 7 1 -4 510.4 64.0
+ 2 2 -3 516.9 33.6
+ 7 1 -1 520.1 26.8
+ 5 1 -7 528.1 31.9
+ 3 1 5 528.1 248.2
+ 2 2 2 532.1 35.1
+ 7 1 0 543.3 16.3
+ 8 0 -6 545.3 43.0
+ 3 1 -8 565.2 104.8
+ 4 2 -4 570 57.6
+ 7 1 1 574.2 127.6
+ 2 2 -5 578.2 52.1
+ 7 1 -7 587.9 90.7
+ 6 0 4 592.1 30.7
+ 3 1 6 592.1 12.4
+ 0 2 5 596.6 240.7
+ 6 0 -9 602.8 17.9
+ 8 0 -8 615.3 26.3
+ 6 2 -3 621.2 7.3
+ 4 2 -6 630.9 7.1
+ 2 0 8 634.2 16.9
+ 4 2 3 639.6 20.1
+ 6 2 0 645.1 105.4
+ 6 2 -5 648.8 91.9
+ 6 0 5 652.6 36.5
+ 1 1 -9 659.3 40.1
+ 3 1 7 659.3 38.5
+ 2 0 -10 665 32.0
+ 2 2 -7 670 21.6
+ 4 2 -7 672.7 25.3
+ 5 1 -10 701.5 36.3
+ 6 2 2 703 27.4
+ 2 2 6 703 12.5
+ 0 0 10 715.3 18.9
+ 8 2 -3 719.6 86.5
+
+# End of data set 1120409
+
+

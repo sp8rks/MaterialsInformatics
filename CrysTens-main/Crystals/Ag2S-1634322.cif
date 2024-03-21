@@ -1,0 +1,185 @@
+##############################################################################
+#                                                                            #
+# Ag-S             # Ag2S lt                                       # 1634322 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1634322
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1634322
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ S'
+_chemical_formula_sum                    'Ag2 S'
+_chemical_name_mineral                   acanthite
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~S-a,mP12,14
+_chemical_formula_weight                 247.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Compression of silver sulfide: X-ray diffraction measurements and total-energy calculations
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2012
+_journal_volume                          51
+_journal_page_first                      5289
+_journal_page_last                       5298
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Santamaria P\'erez D.'
+;
+Madrid Complutense University
+Departamento de Quimica Fisica
+Madrid
+Spain
+;
+'Marqu\'es M.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica
+Oviedo
+Spain
+;
+'Chuliai Jordan R.'
+;
+Madrid Complutense University
+Departamento de Quimica Fisica
+Madrid
+Spain
+;
+'Menendez J.M.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica
+Oviedo
+Spain
+;
+'Gomis O.'
+;
+Valencia Polytechnic University
+Centro de Tecnologias Fisicas: Acustica, Materiales y Astrofisica
+Valencia
+Spain
+;
+'Ruiz Fuertes J.'
+;
+Valencia University
+Departamento de Fisica Aplicada
+Valencia
+Spain
+;
+'Sans J.A.'
+;
+Valencia University
+Departamento de Fisica Aplicada
+Valencia
+Spain
+;
+'Errandonea D.'
+;
+Valencia University
+Departamento de Fisica Aplicada
+Valencia
+Spain
+;
+'Recio J.M.'
+;
+Oviedo University
+Departamento de Quimica Fisica y Analitica
+Oviedo
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.1266
+_cell_length_b                           6.6989
+_cell_length_c                           8.2219
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.983
+_cell_angle_gamma                        90
+_cell_volume                             213.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ag
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag1 Ag 4 e 0.08364 0.0269 0.32764 1
+ S1 S 4 e 0.3052 0.2526 0.1313 1
+ Ag2 Ag 4 e 0.687 0.3406 0.4402 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.71
+_cell_measurement_temperature            293
+_cell_measurement_pressure               3.2e+006
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.4246
+_pd_proc_wavelength                      0.4246
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_pressure                 3.2e+006
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'United Kingdom, Didcot, Diamond Light Source, I15 beamline'                  
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.4246
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0539
+_pd_proc_ls_proof_wR_factor              0.0735
+_refine_ls_R_I_factor                    0.0248
+
+# End of data set 1634322
+
+

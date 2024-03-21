@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Ag-Nb-S          # Ag7NbS6 lt1                                   # 1622151 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1622151
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1622151
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~7~ Nb S~6~'
+_chemical_formula_sum                    'Ag7 Nb S6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~7~NbS~6~,mP28,7
+_chemical_formula_weight                 1040.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Rietveld analysis of a low-temperature phase (phase II) of Ag~7~NbS~6~ based on a commensurately modulated structure approach
+;
+_journal_coden_ASTM                      FEROA8
+_journal_name_full                       Ferroelectrics
+_journal_year                            1997
+_journal_volume                          203
+_journal_page_first                      299
+_journal_page_last                       307
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Onoda M.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Wada H.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Tansho M.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Ishii M.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.368
+_cell_length_b                           7.385
+_cell_length_c                           12.768
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.28
+_cell_angle_gamma                        90
+_cell_volume                             574.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Ag
+ Nb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 2 a 0.0 0.466 0.0 1
+ Ag1 Ag 2 a 0.017 0.338 0.183 1
+ S4 S 2 a 0.024 0.018 0.019 1
+ S2 S 2 a 0.054 0.722 0.264 1
+ Nb Nb 2 a 0.124 0.264 0.616 1
+ Ag3 Ag 2 a 0.133 0.014 0.344 1
+ S5 S 2 a 0.364 0.212 0.339 1
+ Ag7 Ag 2 a 0.372 0.088 0.191 1
+ Ag5 Ag 2 a 0.502 0.166 0.883 1
+ S1 S 2 a 0.51 0.73 0.233 1
+ Ag2 Ag 2 a 0.562 0.478 0.395 1
+ S6 S 2 a 0.644 0.27 0.135 1
+ Ag6 Ag 2 a 0.788 0.064 0.577 1
+ Ag4 Ag 2 a 0.792 0.15 0.371 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.02
+_cell_measurement_temperature            245
+_cell_measurement_radiation              'X-rays, Cu Ka1, Cu Ka2'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              245
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Rigaku
+_diffrn_radiation_type                   'X-rays, Cu Ka1, Cu Ka2'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  0.088
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1622151
+
+

@@ -1,0 +1,127 @@
+##############################################################################
+#                                                                            #
+# Ba-C-Ca-O        # BaCa[CO3]2 mon                                # 1213034 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1213034
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1213034
+
+# Entry summary
+
+_chemical_formula_structural             'Ba Ca [C O~3~]~2~'
+_chemical_formula_sum                    'Ba C2 Ca O6'
+_chemical_name_mineral                   barytocalcite
+_chemical_compound_source
+'United Kingdom, England, Cumberland, Alston Moor'                            
+_chemical_name_structure_type            BaCa[CO~3~]~2~-b,mP20,4
+_chemical_formula_weight                 297.4
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of barytocalcite BaCa(CO~3~)~2~'                       
+_journal_coden_ASTM                      AMNGAX
+_journal_name_full                       'Ark. Mineral. Geol.'
+_journal_year                            1960
+_journal_volume                          2
+_journal_page_first                      399
+_journal_page_last                       410
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Alm K.F.'
+;
+Swedish Museum of Natural History
+Department of Mineralogy
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.58
+_cell_length_b                           5.22
+_cell_length_c                           8.15
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.13
+_cell_angle_gamma                        90
+_cell_volume                             268.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ C
+ Ba
+ Ca
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 2 a 0.078 0.16 0.213 1
+ O3 O 2 a 0.139 0.0 0.633 1
+ O2 O 2 a 0.197 0.424 0.605 1
+ C2 C 2 a 0.201 0.22 0.142 1
+ Ba Ba 2 a 0.217 0.73 0.358 1
+ C1 C 2 a 0.27 0.185 0.583 1
+ O5 O 2 a 0.274 0.454 0.121 1
+ O6 O 2 a 0.332 0.03 0.093 1
+ O1 O 2 a 0.393 0.13 0.512 1
+ Ca Ca 2 a 0.7 0.214 0.117 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.67
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, crystal chemical considerations'        
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1213034
+
+

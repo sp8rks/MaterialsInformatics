@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# Ag-As-S          # Ag2AsS2                                       # 1232400 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1232400
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1232400
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ As S~2~'
+_chemical_formula_sum                    'Ag2 As S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source
+'Switzerland, Valais (Wallis), Binntal, Lengenbach'                           
+_chemical_name_structure_type            Ag~2~AsS~2~,mP40,7
+_chemical_formula_weight                 354.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Dervillite, Ag~2~AsS~2~, from Lengenbach quarry, Binn valley, Switzerland: Occurrence and crystal structure
+;
+_journal_coden_ASTM                      MNLMBB
+_journal_name_full                       'Mineral. Mag.'
+_journal_year                            2013
+_journal_volume                          77
+_journal_page_first                      3105
+_journal_page_last                       3112
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bindi L.'
+;
+Florence University
+Dipartimento di Scienze della Terra
+Florence
+Italy
+;
+'Nestola F.'
+;
+Padua University
+Dipartimento di Geoscienze
+Padua
+Italy
+;
+'De Battisti L.'
+;
+Forschungsgemeinschaft Lengenbach (FGL)
+Milan
+Italy
+;
+'Guastoni A.'
+;
+Padua University
+Museo di Mineralogia
+Padua
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.6155
+_cell_length_b                           12.9331
+_cell_length_c                           6.8616
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.352
+_cell_angle_gamma                        90
+_cell_volume                             842
+_cell_formula_units_Z                    8
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ag
+ S
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag8 Ag 2 a 0.0 0.1868 0.0 1
+ Ag6 Ag 2 a 0.0005 0.2898 0.4592 1
+ Ag2 Ag 2 a 0.0806 0.5861 0.3782 1
+ S7 S 2 a 0.1306 0.3957 0.2563 1
+ S1 S 2 a 0.192 0.0813 0.202 1
+ S3 S 2 a 0.2314 0.7545 0.3093 1
+ Ag1 Ag 2 a 0.2761 0.0959 0.5749 1
+ As3 As 2 a 0.3486 0.3309 0.3319 1
+ As1 As 2 a 0.3515 0.1854 0.0906 1
+ Ag4 Ag 2 a 0.3965 0.6071 0.2813 1
+ S8 S 2 a 0.4662 0.436 0.164 1
+ S6 S 2 a 0.5532 0.0672 0.6744 1
+ Ag5 Ag 2 a 0.604 0.1059 0.0476 1
+ As2 As 2 a 0.6568 0.1817 0.5033 1
+ As4 As 2 a 0.665 0.6784 0.2555 1
+ Ag3 Ag 2 a 0.7321 0.4071 0.2744 1
+ S4 S 2 a 0.7723 0.2506 0.0436 1
+ S2 S 2 a 0.8308 0.5813 0.1519 1
+ Ag7 Ag 2 a 0.8777 0.0073 0.3038 1
+ S5 S 2 a 0.8864 0.1291 0.5669 1
+
+
+_exptl_crystal_colour                    'gray dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.60
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI 4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    13927
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure, Fourier synthesis'           
+_refine_ls_number_parameters             182
+_refine_ls_number_reflns                 2370
+_refine_ls_R_factor_gt                   0.0599
+_refine_ls_wR_factor_gt                  0.1424
+
+# End of data set 1232400
+
+

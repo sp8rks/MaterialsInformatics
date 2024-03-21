@@ -1,0 +1,161 @@
+##############################################################################
+#                                                                            #
+# Br-Cd-S-Sb       # CdSbS2Br                                      # 1522477 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1522477
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1522477
+
+# Entry summary
+
+_chemical_formula_structural             'Cd Sb S~2~ Br'
+_chemical_formula_sum                    'Br Cd S2 Sb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            MnSbSe~2~I,mS20,12
+_chemical_formula_weight                 378.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structure, and properties of a new family of mixed-framework chalcohalide semiconductors: CdSbS~2~X (X= Cl, Br), CdBiS~2~X (X= Cl, Br), and CdBiSe~2~X (X= Br, I)
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2006
+_journal_volume                          18
+_journal_page_first                      1219
+_journal_page_last                       1225
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wang L.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Hung Y.C.'
+;
+Texas Houston Rice University
+Department of Chemistry
+Houston
+U.S.A. Texas
+;
+'Hwu S.J.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Koo H.J.'
+;
+Seoul Kyunghee University
+Department of Chemistry
+Seoul
+South Korea
+;
+'Whangbo M.H.'
+;
+North Carolina Raleigh University
+Department of Chemistry
+Raleigh
+U.S.A. North Carolina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.938
+_cell_length_b                           3.931
+_cell_length_c                           9.661
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.11
+_cell_angle_gamma                        90
+_cell_volume                             491.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ Sb
+ Br
+ Cd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 4 i 0.08461 0 0.25877 1
+ Sb Sb 4 i 0.28673 0 0.68815 1
+ S1 S 4 i 0.35424 0 0.45029 1
+ Br Br 4 i 0.36487 0 0.07589 1
+ Cd2 Cd 2 c 0 0 0.5 1
+ Cd1 Cd 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.11
+_cell_measurement_temperature            293.15
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1664
+_diffrn_ambient_temperature              293.15
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC8S'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2284
+_diffrn_reflns_theta_min                 3.15
+_diffrn_reflns_theta_max                 26.02
+_exptl_absorpt_coefficient_mu            18.617
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             34
+_refine_ls_number_reflns                 555
+_refine_ls_R_factor_gt                   0.0287
+_refine_ls_wR_factor_gt                  0.0551
+
+# End of data set 1522477
+
+

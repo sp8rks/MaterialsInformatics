@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Br-Cs-H-N-O-Ru   # Cs2RuBr5[NO][H2O]2                            #  544299 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_544299
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      544299
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Ru Br~5~ [N O] [H~2~ O]~2~'
+_chemical_formula_sum                    'Br5 Cs2 H4 N O3 Ru'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Rb~2~Ru[NO]Cl~5~[H~2~O]~2~,mP48,14
+_chemical_formula_weight                 832.4
+
+# Bibliographic data
+
+_publ_section_title
+'The tetrahalogenoaquonitrosylruthenates M~2~[RuX~4~(H~2~O)(NO)]X.H~2~O'      
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1990
+_journal_volume                          35
+_journal_page_first                      653
+_journal_page_last                       657
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nevskii N.N.'
+;
+Russian Academy of Sciences
+Moscow Institute of Radiotechnology, Electronics and Automation
+Moscow
+Russia
+;
+'Sinitsyn M.N.'
+;
+Russian Academy of Sciences
+Moscow Institute of Radiotechnology, Electronics and Automation
+Moscow
+Russia
+;
+'Svetlov A.A.'
+;
+Russian Academy of Sciences
+Institute of Chemical Reagents
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.181
+_cell_length_b                           7.256
+_cell_length_c                           16.878
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.09
+_cell_angle_gamma                        90
+_cell_volume                             1446.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Br
+ Cs
+ OH2
+ Ru
+ N
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br5 Br 4 e 0.0517 0.5222 0.3795 1
+ Cs1 Cs 4 e 0.0525 0.0296 0.3394 1
+ O1 OH2 4 e 0.151 0.179 0.052 1
+ Br3 Br 4 e 0.1736 0.6125 0.0575 1
+ Br2 Br 4 e 0.2398 0.3279 0.2332 1
+ Ru Ru 4 e 0.2963 0.3356 0.1002 1
+ Br1 Br 4 e 0.3399 0.1717 0.462 1
+ Br4 Br 4 e 0.4045 0.0398 0.1367 1
+ N N 4 e 0.411 0.472 0.14 1
+ O2 O 4 e 0.51 0.066 0.339 1
+ Cs2 Cs 4 e 0.6565 0.1652 0.0724 1
+ O3 OH2 4 e 0.762 0.336 0.244 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.82
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.056
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 544299
+
+

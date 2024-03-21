@@ -1,0 +1,249 @@
+##############################################################################
+#                                                                            #
+# Ba-O-Sr-Ta       # Ba3SrTa2O9                                    # 2080004 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2080004
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2080004
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Sr Ta~2~ O~9~'
+_chemical_formula_sum                    'Ba3 O9 Sr Ta2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Ba~3~(W~0.5~Fe~0.5~)~2~FeO~9~,hP30,194                                        
+_chemical_formula_weight                 1005.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+\"Uber Verbindungen vom Typ Ba~3~B^2+^M^5+^~2~O~9~ mit B^2+^= Mg, Ca, Sr, Ba und M^5+^= Nb, Ta
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1981
+_journal_volume                          479
+_journal_page_first                      177
+_journal_page_last                       183
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kemmler Sack S.'
+;
+T\"ubingen Eberhard Karl University
+Institut f\"ur Anorganische Chemie
+T\"ubingen
+Germany
+;
+'Thumm I.'
+;
+T\"ubingen Eberhard Karl University
+Institut f\"ur Anorganische Chemie
+T\"ubingen
+Germany
+;
+'Herrmann M.'
+;
+T\"ubingen Eberhard Karl University
+Institut f\"ur Anorganische Chemie
+T\"ubingen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.079
+_cell_length_b                           6.079
+_cell_length_c                           15.32
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             490.29
+_cell_formula_units_Z                    2
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ba
+ Ta
+ Sr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 12 k 0.16667 0.33334 0.58333 1
+ O1 O 6 h 0.5 0.0 0.25 1
+ Ba2 Ba 4 f 0.333333 0.666667 0.12 1
+ Ta Ta 4 f 0.333333 0.666667 0.654 1
+ Ba1 Ba 2 b 0 0 0.25 1
+ Sr Sr 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              6.53
+_exptl_crystal_density_diffrn            6.81
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Philips
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.090
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 1000 92
+ 1 0 0 2140 45
+ 1 0 1 2390 124
+ 1 0 2 3150 9
+ 0 0 4 4030 94
+ 1 0 3 4400 50
+ 1 0 4 6170 1748
+ 1 1 0 6430 ?
+ 1 1 2 7450 45
+ 1 0 5 8460 86
+ 2 0 0 8640 ?
+ 2 0 1 8830 ?
+ 2 0 2 9600 11
+ 1 1 4 10460 117
+ 2 0 3 10850 48
+ 1 0 6 11260 27
+ 2 0 4 12630 368
+ 1 0 7 14540 88
+ 2 0 5 14900 43
+ 2 1 0 15070 ?
+ 2 1 1 15230 63
+ 1 1 6 15550 ?
+ 2 1 2 16020 40
+ 0 0 8 16180 ?
+ 2 1 3 17280 40
+ 2 0 6 17660 ?
+ 1 0 8 18350 8
+ 2 1 4 19050 468
+ 3 0 0 19330 ?
+ 3 0 2 20310 9
+ 2 0 7 21040 133
+ 2 1 5 21350 ?
+ 1 1 8 22610 109
+ 3 0 4 23360 45
+ 2 1 6 24100 28
+ 2 0 8 24830 8
+ 0 0 10 25270 160
+ 2 2 0 25740 ?
+ 2 2 2 26760 10
+ 2 1 7 27440 77
+ 3 1 0 27880 32
+ 3 1 1 28110 ?
+ 3 0 6 28360 ?
+ 3 1 2 29050 12
+ 2 2 4 29790 36
+ 3 1 3 30170 ?
+ 2 1 8 31220 129
+ 1 1 10 31700 ?
+ 3 1 4 31930 ?
+ 1 0 11 32730 56
+ 3 1 5 34180 30
+ 4 0 0 34380 ?
+ 2 2 6 34860 ?
+ 3 0 8 35500 60
+ 4 0 3 36680 15
+ 3 1 6 36990 ?
+ 4 0 4 38330 47
+ 1 0 12 38550 ?
+ 2 0 11 39200 39
+ 3 1 7 40250 59
+ 4 0 5 40560 ?
+ 3 2 0 40770 ?
+ 3 2 1 41010 ?
+ 2 2 8 41930 43
+ 1 1 12 42830 29
+ 3 2 3 43030 ?
+ 4 0 6 43470 ?
+ 3 1 8 44080 252
+ 3 0 10 44730 ?
+ 1 0 13 44940 ?
+ 4 1 0 45030 ?
+ 2 1 11 45650 ?
+ 4 1 2 46100 ?
+ 4 0 7 46760 31
+ 3 2 5 47100 ?
+ 4 1 4 49130 26
+ 3 2 6 49820 5
+
+# End of data set 2080004
+
+

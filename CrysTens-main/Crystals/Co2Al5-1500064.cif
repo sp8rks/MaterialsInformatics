@@ -1,0 +1,200 @@
+##############################################################################
+#                                                                            #
+# Al-Co            # Co2Al5                                        # 1500064 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1500064
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1500064
+
+# Entry summary
+
+_chemical_formula_structural             'Co~2~ Al~5~'
+_chemical_formula_sum                    'Al5 Co2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Co~2~Al~5~,hP28,194
+_chemical_formula_weight                 252.8
+_chemical_melting_point                  1461
+
+# Bibliographic data
+
+_publ_section_title
+'The constitution of aluminum-cobalt alloys between Al~5~Co~2~ and Al~9~Co~2~'
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1996
+_journal_volume                          233
+_journal_page_first                      279
+_journal_page_last                       287
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Grushko B.'
+;
+J\"ulich Nuclear Research Center
+Institut f\"ur Festk\"orperforschung
+J\"ulich
+Germany
+;
+'Wittenberg R.'
+;
+J\"ulich Nuclear Research Center
+Institut f\"ur Festk\"orperforschung
+J\"ulich
+Germany
+;
+'Bickmann K.'
+;
+J\"ulich Nuclear Research Center
+Zentralabteilung f\"ur Chemische Analysen
+J\"ulich
+Germany
+;
+'Freiburg C.'
+;
+J\"ulich Nuclear Research Center
+Zentralabteilung f\"ur Chemische Analysen
+J\"ulich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.6581
+_cell_length_b                           7.6581
+_cell_length_c                           7.6044
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             386.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Al
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Al1 Al 12 k 0.1946 0.3892 0.0580 1
+ Al2 Al 6 h 0.5298 0.0596 0.25 1
+ Co1 Co 6 h 0.8732 0.7464 0.25 1
+ Co2 Co 2 c 0.333333 0.666667 0.25 1
+ Al3 Al 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.35
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Co Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 6.6451 32
+ 1 0 1 5.0014 9
+ 0 0 2 3.8001 37
+ 2 0 0 3.3155 12
+ 2 0 1 3.0386 54
+ 1 0 3 2.3659 12
+ 3 0 0 2.2089 10
+ 3 0 1 2.1212 71
+ 2 1 2 2.0918 100
+ 2 0 3 2.0143 95
+ 2 2 0 1.9157 48
+ 0 0 4 1.9023 23
+ 1 0 4 1.8273 5
+ 3 1 1 1.7884 12
+ 3 0 3 1.6667 7
+ 2 1 4 1.515 7
+ 3 2 1 1.4892 6
+ 1 0 5 1.4821 5
+ 4 1 1 1.4217 12
+ 3 2 2 1.412 9
+ 4 0 3 1.3875 9
+ 2 2 4 1.3488 13
+ 3 2 3 1.3044 11
+ 3 3 0 1.2763 12
+ 0 0 6 1.2674 9
+ 3 0 5 1.2525 44
+
+# End of data set 1500064
+
+

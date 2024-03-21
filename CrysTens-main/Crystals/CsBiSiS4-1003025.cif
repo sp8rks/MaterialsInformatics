@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# Bi-Cs-S-Si       # CsBiSiS4                                      # 1003025 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003025
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003025
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Bi Si S~4~'
+_chemical_formula_sum                    'Bi Cs S4 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsBiSiS~4~,mP28,14
+_chemical_formula_weight                 498.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+New Quaternary Bismuth Sulfides: Syntheses, Structures, and Band Structures of AMBiS~4~ (A= Rb, Cs; M= Si, Ge)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2002
+_journal_volume                          41
+_journal_page_first                      7094
+_journal_page_last                       7099
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yao J.L.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Deng B.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Ellis D.E.'
+;
+Illinois Evanston Northwestern University
+Department of Physics and Astronomy
+Evanston
+U.S.A. Illinois
+;
+'Ibers J.A.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.3351
+_cell_length_b                           6.9313
+_cell_length_c                           12.8115
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.096
+_cell_angle_gamma                        90
+_cell_volume                             783.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Bi
+ S
+ Si
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Bi Bi 4 e 0.05474 0.34772 0.36729 1
+ S1 S 4 e 0.05649 0.7083 0.43965 1
+ Si Si 4 e 0.1813 0.2352 0.155 1
+ S2 S 4 e 0.2138 0.4953 0.24633 1
+ S3 S 4 e 0.22152 0.0031 0.26689 1
+ S4 S 4 e 0.3117 0.2326 0.04912 1
+ Cs Cs 4 e 0.57259 0.23856 0.39729 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.22
+_cell_measurement_temperature            153
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              153
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    6745
+_diffrn_reflns_theta_min                 2.31
+_diffrn_reflns_theta_max                 29.07
+_exptl_absorpt_coefficient_mu            28.196
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             64
+_refine_ls_number_reflns                 1677
+_refine_ls_R_factor_gt                   0.0293
+_refine_ls_wR_factor_gt                  0.0665
+
+# End of data set 1003025
+
+

@@ -1,0 +1,178 @@
+##############################################################################
+#                                                                            #
+# Ce-Ru-Sn         # CeRuSn rt                                     # 1128281 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1128281
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1128281
+
+# Entry summary
+
+_chemical_formula_structural             'Ce Ru Sn'
+_chemical_formula_sum                    'Ce Ru Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CeRuSn,mS24,12
+_chemical_formula_weight                 359.9
+
+# Bibliographic data
+
+_publ_section_title
+'Physics of polymorphic transitions in CeRuSn'                                
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            2012
+_journal_volume                          86
+_journal_page_first                      1
+_journal_page_last                       8
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fikacek J.'
+;
+Prague Charles University
+Faculty of Mathematics and Physics
+Prague
+Czech Republic
+;
+'Prokleska J.'
+;
+Prague Charles University
+Faculty of Mathematics and Physics
+Prague
+Czech Republic
+;
+'Misek M.'
+;
+Prague Charles University
+Faculty of Mathematics and Physics
+Prague
+Czech Republic
+;
+'Custers J.'
+;
+Prague Charles University
+Faculty of Mathematics and Physics
+Prague
+Czech Republic
+;
+'Danis S.'
+;
+Prague Charles University
+Faculty of Mathematics and Physics
+Prague
+Czech Republic
+;
+'Prchal J.'
+;
+Prague Charles University
+Faculty of Mathematics and Physics
+Prague
+Czech Republic
+;
+'Sechovsky V.'
+;
+Prague Charles University
+Faculty of Mathematics and Physics
+Prague
+Czech Republic
+;
+'Cisarova I.'
+;
+Prague Charles University
+Department of Inorganic Chemistry
+Prague
+Czech Republic
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.565
+_cell_length_b                           4.7529
+_cell_length_c                           10.2299
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.028
+_cell_angle_gamma                        90
+_cell_volume                             547.8
+_cell_formula_units_Z                    8
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Sn
+ Ru
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sn1 Sn 4 i 0.0735 0 0.1531 1
+ Sn2 Sn 4 i 0.0957 0 0.6514 1
+ Ru2 Ru 4 i 0.3017 0 0.3027 1
+ Ce1 Ce 4 i 0.3604 0 0.0854 1
+ Ce2 Ce 4 i 0.3775 0 0.5937 1
+ Ru1 Ru 4 i 0.6827 0 0.1481 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.73
+_cell_measurement_temperature            297
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              297
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1128281
+
+

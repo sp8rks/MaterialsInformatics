@@ -1,0 +1,207 @@
+##############################################################################
+#                                                                            #
+# Ag-Ge-I-O        # Ag9[GeO4]2I                                   # 1929412 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1929412
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1929412
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~9~ [Ge O~4~]~2~ I'
+_chemical_formula_sum                    'Ag9 Ge2 I O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~9~[GeO~4~]~2~I,mS40,12
+_chemical_formula_weight                 1370.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ag~9~I(GeO~4~)~2~ - Containing two-dimensionally linked [IAg~12~] metallo complexes
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2009
+_journal_volume                          635
+_journal_page_first                      1106
+_journal_page_last                       1109
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pitzschke D.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Curda J.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Jansen M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           17.3736
+_cell_length_b                           6.9177
+_cell_length_c                           5.7176
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.501
+_cell_angle_gamma                        90
+_cell_volume                             662.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ag
+ O
+ Ge
+ I
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag2 Ag 8 j 0.1711 0.2293 0.2738 1
+ O2 O 8 j 0.3748 0.2065 0.4025 1
+ Ag1 Ag 4 i 0.1682 0 0.7407 1
+ O3 O 4 i 0.2362 0 0.138 1
+ Ge1 Ge 4 i 0.3394 0 0.2273 1
+ O1 O 4 i 0.625 0 0.033 1
+ Ag4 Ag 4 h 0 0.264 0.5 1
+ Ag3 Ag 2 b 0 0.5 0 1
+ I1 I 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.88
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3872
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            15.54
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             57
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0626
+_refine_ls_wR_factor_gt                  0.1413
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 3 1 1 31.095 5.1
+ 5 1 0 30.128 8.7
+ 4 0 1 29.708 6.8
+ 5 -1 -1 29.601 3.5
+ 0 2 1 29.283 44.4
+ 2 -2 -1 28.953 15.2
+ 2 0 -2 28.519 52.9
+ 6 0 -1 28.096 6.3
+ 6 0 0 27.893 87.8
+ 0 0 2 27.536 22.1
+ 4 2 0 26.653 17.0
+ 2 2 1 26.49 59.8
+ 4 0 -2 26.483 68.4
+ 1 -1 -2 26.283 12.8
+ 3 -1 -2 25.811 1.3
+ 4 -2 -1 25.775 100.0
+ 1 1 2 24.399 16.3
+ 2 0 2 24.298 39.0
+ 5 1 1 24.101 10.0
+ 5 -1 -2 23.311 7.5
+ 7 -1 -1 23.051 4.1
+ 6 0 -2 22.895 7.9
+ 6 0 1 22.6 4.2
+ 4 2 1 22.533 5.9
+ 6 -2 -1 21.805 15.4
+ 6 2 0 21.71 3.6
+ 1 -3 -1 21.372 6.7
+ 3 1 2 21.332 1.8
+ 8 0 0 20.92 3.3
+ 4 0 2 20.609 9.4
+ 8 0 -2 19.334 14.4
+ 6 2 1 18.899 12.7
+ 0 4 0 17.288 35.1
+ 2 -2 -3 16.7 49.4
+ 4 -2 -3 16.5 4.2
+ 10 0 -2 16.377 27.4
+ 0 2 3 16.201 1.7
+ 8 0 -3 16.096 2.5
+ 8 2 1 15.981 46.1
+ 4 4 0 15.978 9.3
+ 9 1 1 15.905 1.6
+ 4 -4 -1 15.782 1.4
+ 6 -2 -3 15.724 2.7
+ 7 1 2 15.637 1.8
+ 10 -2 -1 15.512 60.1
+ 4 0 3 15.366 6.5
+ 2 2 3 15.259 3.5
+ 7 3 1 15.132 2.7
+
+# End of data set 1929412
+
+

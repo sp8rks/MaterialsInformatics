@@ -1,0 +1,127 @@
+##############################################################################
+#                                                                            #
+# Ba-O-Ti          # Ba4Ti5O10 tf                                  # 1944140 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1944140
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1944140
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~4~ Ti~5~ O~10~'
+_chemical_formula_sum                    'Ba4 O10 Ti5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~4~Ti~5~O~10~,mS38,8
+_chemical_formula_weight                 948.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Two new superstructures Ba~4~Ti~5~O~10~ and Ba~4~Ti~4~O~11~ in epitaxial barium titanate nanodomains determined by nanobeam electron diffraction and high-resolution transmission electron microscopy
+;
+_journal_coden_ASTM                      PMHABF
+_journal_name_full                       'Philos. Mag.'
+_journal_year                            2014
+_journal_volume                          94
+_journal_page_first                      1686
+_journal_page_last                       1710
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           16.49
+_cell_length_b                           3.94
+_cell_length_c                           8.94
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.
+_cell_angle_gamma                        90
+_cell_volume                             566
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Ti
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O9 O 2 a 0.0 0 0.0 1
+ O8 O 2 a 0.051 0 0.726 1
+ Ti3 Ti 2 a 0.059 0 0.216 1
+ O6 O 2 a 0.107 0 0.433 1
+ Ti2 Ti 2 a 0.161 0 0.666 1
+ O4 O 2 a 0.169 0 0.166 1
+ O3 O 2 a 0.225 0 0.8886 1
+ O2 O 2 a 0.271 0 0.613 1
+ O1 O 2 a 0.326 0 0.333 1
+ Ti5 Ti 2 a 0.401 0 0.064 1
+ Ti4 Ti 2 a 0.447 0 0.777 1
+ Ba4 Ba 2 a 0.503 0 0.5 1
+ O7 O 2 a 0.559 0 0.216 1
+ Ba3 Ba 2 a 0.614 0 0.944 1
+ O5 O 2 a 0.669 0 0.666 1
+ Ba2 Ba 2 a 0.716 0 0.389 1
+ Ti1 Ti 2 a 0.78 0 0.111 1
+ Ba1 Ba 2 a 0.836 0 0.833 1
+ O10 O 2 a 0.893 0 0.56 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.57
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              electrons
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'electron diffraction and microscopy'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   electrons
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'model derived from HREM images'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1944140
+
+

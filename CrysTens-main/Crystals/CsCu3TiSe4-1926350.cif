@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Cs-Cu-Se-Ti      # CsCu3TiSe4                                    # 1926350 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1926350
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1926350
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Cu~3~ Ti Se~4~'
+_chemical_formula_sum                    'Cs Cu3 Se4 Ti'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsCu~3~TiSe~4~,mP18,11
+_chemical_formula_weight                 687.3
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and structure of CsCu~3~TiSe~4~'                                   
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2008
+_journal_volume                          462
+_journal_page_first                      38
+_journal_page_last                       41
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Huang F.Q.'
+;
+Chinese Academy of Sciences
+Japan Shanghai Institute of Ceramics
+Shanghai
+China
+;
+'Yao J.L.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Yang J.'
+;
+Chinese Academy of Sciences
+Japan Shanghai Institute of Ceramics
+Shanghai
+China
+;
+'Ibers J.A.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.7864
+_cell_length_b                           7.7671
+_cell_length_c                           10.1837
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.491
+_cell_angle_gamma                        90
+_cell_volume                             438.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Se
+ Cu
+ Ti
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 f 0.09907 0.00495 0.21477 1
+ Cu1 Cu 4 f 0.22456 0.50754 0.00222 1
+ Ti Ti 2 e 0.14518 0.25 0.79088 1
+ Se3 Se 2 e 0.29365 0.25 0.60009 1
+ Se2 Se 2 e 0.48148 0.25 0.00277 1
+ Cu2 Cu 2 e 0.64774 0.25 0.79609 1
+ Cs Cs 2 e 0.67802 0.25 0.37717 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.20
+_cell_measurement_temperature            153(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            3364
+_diffrn_ambient_temperature              153(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5222
+_diffrn_reflns_theta_min                 2.09
+_diffrn_reflns_theta_max                 28.61
+_exptl_absorpt_coefficient_mu            28.628
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             50
+_refine_ls_number_reflns                 1088
+_refine_ls_R_factor_gt                   0.0304
+_refine_ls_wR_factor_gt                  0.1077
+
+# End of data set 1926350
+
+

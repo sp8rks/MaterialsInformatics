@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# B-Cd-Lu-O        # Cd4Lu[BO3]3O                                  # 1022196 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1022196
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1022196
+
+# Entry summary
+
+_chemical_formula_structural             'Cd~4~ Lu [B O~3~]~3~ O'
+_chemical_formula_sum                    'B3 Cd4 Lu O10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~4~Sm[BO~3~]~3~O,mS36,8
+_chemical_formula_weight                 817.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Cadmium-rare earth oxyborates Cd~4~REO(BO~3~)~3~ (RE= Y, Gd, Lu): Congruently melting compounds with large SHG responses
+;
+_journal_coden_ASTM                      JMACEP
+_journal_name_full                       'J. Mater. Chem.'
+_journal_year                            2012
+_journal_volume                          22
+_journal_page_first                      19911
+_journal_page_last                       19918
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zou G.T.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Ma Z.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Wu K.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Ye N.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.937
+_cell_length_b                           15.778
+_cell_length_c                           3.436
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.972
+_cell_angle_gamma                        90
+_cell_volume                             423.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cd
+ O
+ B
+ Lu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cd2 Cd 4 b 0.0661 0.1779 0.0566 1
+ O2 O 4 b 0.094 0.3218 0.298 1
+ B1 B 4 b 0.257 0.3 0.495 1
+ O3 O 4 b 0.265 0.0767 0.174 1
+ O5 O 4 b 0.28 0.2282 0.721 1
+ O4 O 4 b 0.391 0.3587 0.497 1
+ Cd1 Cd 4 b 0.45157 0.11207 0.7535 1
+ O6 O 2 a 0.0 0 0.0 1
+ B2 B 2 a 0.196 0 0.134 1
+ O1 O 2 a 0.633 0 0.836 1
+ Lu2 Lu 2 a 0.8085 0 0.4201 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.40
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            686
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Rigaku
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2017
+_diffrn_reflns_theta_min                 2.91
+_diffrn_reflns_theta_max                 27.41
+_exptl_absorpt_coefficient_mu            21.458
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 865
+_refine_ls_R_factor_gt                   0.0514
+_refine_ls_wR_factor_gt                  0.1316
+
+# End of data set 1022196
+
+

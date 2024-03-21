@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# As-F-N-S         # As[S3N2]F6 mon                                # 1920234 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1920234
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1920234
+
+# Entry summary
+
+_chemical_formula_structural             'As S~3~ N~2~ F~6~'
+_chemical_formula_sum                    'As F6 N2 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AsS~3~N~2~F~6~,mP48,14
+_chemical_formula_weight                 313.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+The Radical Ion S~3~N~2~^+^. Preparation, Electron Spin Resonance Spectrum, and Crystal Structure of Thiodithiazyl Hexafluoroarsenate S~3~N~2~^+^AsF~6~^-^
+;
+_journal_coden_ASTM                      CJCHAG
+_journal_name_full                       'Can. J. Chem.'
+_journal_year                            1975
+_journal_volume                          53
+_journal_page_first                      3147
+_journal_page_last                       3152
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gillespie R.J.'
+;
+Hamilton McMaster University
+Department of Chemistry
+Hamilton
+Canada
+;
+'Ireland P.R.'
+;
+Hamilton McMaster University
+Department of Chemistry
+Hamilton
+Canada
+;
+'Vekris J.E.'
+;
+Hamilton McMaster University
+Department of Chemistry
+Hamilton
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.499
+_cell_length_b                           8.298
+_cell_length_c                           11.069
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.59
+_cell_angle_gamma                        90
+_cell_volume                             778.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ F
+ N
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 4 e 0.0432 0.1579 0.1138 1
+ F6 F 4 e 0.0948 0.5238 0.1611 1
+ S3 S 4 e 0.1502 0.3625 0.4452 1
+ F2 F 4 e 0.1644 0.7785 0.0798 1
+ N1 N 4 e 0.1979 0.1141 0.1993 1
+ As1 As 4 e 0.26963 0.60706 0.12376 1
+ N2 N 4 e 0.3233 0.0871 0.0024 1
+ S1 S 4 e 0.3559 0.0712 0.1413 1
+ F4 F 4 e 0.368 0.4379 0.1711 1
+ F5 F 4 e 0.5616 0.1966 0.4024 1
+ F3 F 4 e 0.7075 0.1871 0.2345 1
+ F1 F 4 e 0.7653 0.4749 0.0124 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.67
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            12
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            5.44
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 798
+_refine_ls_R_factor_gt                   0.028
+_refine_ls_wR_factor_gt                  0.031
+
+# End of data set 1920234
+
+

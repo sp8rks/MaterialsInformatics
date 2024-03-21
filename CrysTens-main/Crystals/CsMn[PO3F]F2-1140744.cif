@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Cs-F-Mn-O-P      # CsMn[PO3F]F2 mon                              # 1140744 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1140744
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1140744
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Mn [P O~3~ F] F~2~'
+_chemical_formula_sum                    'Cs F3 Mn O3 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsMn[PO~3~F]F~2~,mP36,4
+_chemical_formula_weight                 323.8
+
+# Bibliographic data
+
+_publ_section_title
+'Manganese(III) fluorophosphate frameworks'                                   
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2013
+_journal_volume                          42
+_journal_page_first                      2302
+_journal_page_last                       2308
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Armstrong J.A.'
+;
+Bath University
+Department of Chemistry
+Bath
+United Kingdom
+;
+'Williams E.R.'
+;
+Bath University
+Department of Chemistry
+Bath
+United Kingdom
+;
+'Weller M.T.'
+;
+Bath University
+Department of Chemistry
+Bath
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.5744
+_cell_length_b                           9.9846
+_cell_length_c                           7.5979
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.723
+_cell_angle_gamma                        90
+_cell_volume                             564.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ F
+ O
+ P
+ Mn
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F5 F 2 a 0.0473 0.1077 0.338 1
+ O5 O 2 a 0.0786 0.2909 0.1209 1
+ P2 P 2 a 0.0911 0.1379 0.1476 1
+ F4 F 2 a 0.1494 0.4259 0.4914 1
+ F3 F 2 a 0.1635 0.3295 0.8043 1
+ Mn2 Mn 2 a 0.235 0.4118 0.0273 1
+ Cs2 Cs 2 a 0.23704 0.02136 0.72412 1
+ Cs1 Cs 2 a 0.27546 0.78071 0.21237 1
+ O2 O 2 a 0.2823 0.0846 0.1535 1
+ O3 O 2 a 0.3256 0.4812 0.2594 1
+ P1 P 2 a 0.3418 0.4163 0.4423 1
+ O6 O 2 a 0.4033 0.2722 0.4469 1
+ F1 F 2 a 0.4856 0.2862 0.0942 1
+ Mn1 Mn 2 a 0.5094 0.1483 0.2662 1
+ O1 O 2 a 0.5253 0.0 0.4248 1
+ F6 F 2 a 0.6161 0.0273 0.0686 1
+ F2 F 2 a 0.7392 0.2109 0.3646 1
+ O4 O 2 a 0.9666 0.0649 0.0028 1
+
+
+_exptl_crystal_colour                    brown
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.81
+_cell_measurement_temperature            100(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1486
+_diffrn_ambient_temperature              100(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Rigaku
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5313
+_diffrn_reflns_theta_min                 2.7
+_diffrn_reflns_theta_max                 27.6
+_exptl_absorpt_coefficient_mu            8.971
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             133
+_refine_ls_number_reflns                 2360
+_refine_ls_R_factor_gt                   0.0515
+_refine_ls_wR_factor_gt                  0.1133
+
+# End of data set 1140744
+
+

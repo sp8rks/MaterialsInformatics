@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# C-H-N-O          # CN[NH][NH2]2[NO2]                             # 1934439 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1934439
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1934439
+
+# Entry summary
+
+_chemical_formula_structural             'C N [N H] [N H~2~]~2~ [N O~2~]'
+_chemical_formula_sum                    'C H5 N5 O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CN[NH][NH~2~]~2~[NO~2~],mP32,14
+_chemical_formula_weight                 119.1
+
+# Bibliographic data
+
+_publ_section_title
+'1-Amino-3-nitroguanidine (ANQ) in high-performance ionic energetic materials'
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2012
+_journal_volume                          67
+_journal_page_first                      573
+_journal_page_last                       588
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fischer N.'
+;
+Munich Ludwig Maximilian University
+Department of Chemistry
+Munich
+Germany
+;
+'Klap\"otke T.M.'
+;
+Munich Ludwig Maximilian University
+Department of Chemistry
+Munich
+Germany
+;
+'Stierstorfer J.'
+;
+Munich Ludwig Maximilian University
+Department of Chemistry
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.8301
+_cell_length_b                           9.4491
+_cell_length_c                           7.1192
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.
+_cell_angle_gamma                        90
+_cell_volume                             459.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N3 N 4 e 0.0676 0.71182 0.4861 1
+ C1 C 4 e 0.1156 0.21744 0.0786 1
+ N2 N 4 e 0.1706 0.66099 0.0208 1
+ N5 N 4 e 0.1916 0.08428 0.1052 1
+ N4 N 4 e 0.1983 0.34129 0.1106 1
+ N6 N 4 e 0.3729 0.07132 0.1736 1
+ O1 O 4 e 0.4823 0.17283 0.2112 1
+ O2 O 4 e 0.5724 0.44615 0.3008 1
+ H3 H 4 e 0.112 0.627 0.515 1
+ H4A H 4 e 0.132 0.419 0.092 1
+ H2A H 4 e 0.254 0.673 0.123 1
+ H4B H 4 e 0.317 0.341 0.162 1
+ H2B H 4 e 0.738 0.347 0.073 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.72
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            738
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur 3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2578
+_diffrn_reflns_theta_min                 4.13
+_diffrn_reflns_theta_max                 26.99
+_exptl_absorpt_coefficient_mu            0.155
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             94
+_refine_ls_number_reflns                 859
+_refine_ls_R_factor_gt                   0.0358
+_refine_ls_wR_factor_gt                  0.0734
+
+# End of data set 1934439
+
+

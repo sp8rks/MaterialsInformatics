@@ -1,0 +1,178 @@
+##############################################################################
+#                                                                            #
+# Co               # Co m hex                                      # 1251888 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1251888
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1251888
+
+# Entry summary
+
+_chemical_formula_structural             Co
+_chemical_formula_sum                    Co
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Co,hP46,186
+_chemical_formula_weight                 58.9
+
+# Bibliographic data
+
+_publ_section_title
+'Nachweis einer neuen Phase bei der funkenerosiven Behandlung von Kobalt'     
+_journal_coden_ASTM                      ZEMTAE
+_journal_name_full                       'Z. Metallkd.'
+_journal_year                            1970
+_journal_volume                          61
+_journal_page_first                      350
+_journal_page_last                       354
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Krainer E.'
+;
+Edelstahlwerk Gebr. B\"ohler and Co. A.G.
+Kapfenberg
+Austria
+;
+'Robitsch J.'
+;
+Edelstahlwerk Gebr. B\"ohler and Co. A.G.
+Kapfenberg
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.288
+_cell_length_b                           8.288
+_cell_length_c                           10.542
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             627.12
+_cell_formula_units_Z                    46
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ CoIX Co 6 c 0.1448 0.8552 0.3686 1
+ CoVII Co 6 c 0.1846 0.8154 0.1376 1
+ CoXI Co 6 c 0.4740 0.5260 0.4242 1
+ CoX Co 6 c 0.5076 0.4924 0.1613 1
+ CoVIII Co 6 c 0.8060 0.1940 0.3696 1
+ CoVI Co 6 c 0.8440 0.1560 0.1046 1
+ CoV Co 2 b 0.333333 0.666667 0.0134 1
+ CoIV Co 2 b 0.333333 0.666667 0.2868 1
+ CoIII Co 2 b 0.333333 0.666667 0.5616 1
+ CoII Co 2 a 0 0 0.0 1
+ CoI Co 2 a 0 0 0.2371 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.18
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Co Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens Kristalloflex IV'
+_diffrn_radiation_type                   'X-rays, Co Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 40
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                80
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'crystal chemical considerations'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 11
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.746
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 4 22.4 10
+ 2 1 3 21.55 10
+ 2 2 0 20.65 56
+ ? ? ? 20.44 32
+ ? ? ? 20.26 36
+ 3 0 3 19.87 35
+ ? ? ? 19.09 45
+ 3 0 4 17.82 115
+ 4 1 1 15.49 4
+ 4 0 4 14.79 6
+ 1 0 8 12.97 5
+ ? ? ? 12.58 21
+ ? ? ? 12.49 11
+ 4 2 4 12.09 3
+ 5 2 1 11.48 7
+ 3 2 7 11.12 3
+ ? ? ? 10.82 18
+ ? ? ? 10.7 16
+ ? ? ? 10.66 41
+ 4 4 0 10.35 2
+ ? ? ? 10.22 8
+ ? ? ? 10.15 3
+ 3 2 9 9.56 3
+ 2 0 11 9.26 2
+
+# End of data set 1251888
+
+

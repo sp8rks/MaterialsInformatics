@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# Ba-Sb            # Ba2Sb3                                        #  534412 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_534412
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      534412
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Sb~3~'
+_chemical_formula_sum                    'Ba2 Sb3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sr~2~Sb~3~,mP40,14
+_chemical_formula_weight                 639.9
+
+# Bibliographic data
+
+_publ_section_title
+'Ba~2~Sb~3~, eine neue Zintlphase mit Sb~6~-Ketten'                           
+_journal_coden_ASTM                      ZNBAD2
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1985
+_journal_volume                          40
+_journal_page_first                      1603
+_journal_page_last                       1606
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Eisenmann B.'
+;
+Darmstadt University of Technology
+Institut f\"ur Anorganische Chemie
+Darmstadt
+Germany
+;
+'Jordan H.'
+;
+Darmstadt University of Technology
+Institut f\"ur Anorganische Chemie
+Darmstadt
+Germany
+;
+'Sch\"afer H.'
+;
+Darmstadt University of Technology
+Institut f\"ur Anorganische Chemie
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.934
+_cell_length_b                           13.453
+_cell_length_c                           15.817
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.25
+_cell_angle_gamma                        90
+_cell_volume                             1475.44
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ba
+ Sb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba(3) Ba 4 e 0.0241 0.2728 0.2387 1
+ Sb(5) Sb 4 e 0.0025 0.0215 0.1679 1
+ Sb(4) Sb 4 e 0.1018 0.5481 0.1577 1
+ Sb(6) Sb 4 e 0.2416 0.3839 0.4202 1
+ Ba(2) Ba 4 e 0.2509 0.1263 0.4924 1
+ Ba(1) Ba 4 e 0.2478 0.6227 0.5079 1
+ Sb(2) Sb 4 e 0.4929 0.2291 0.159 1
+ Ba(4) Ba 4 e 0.5267 0.4754 0.2553 1
+ Sb(3) Sb 4 e 0.59 0.205 0.3352 1
+ Sb(1) Sb 4 e 0.7402 0.3664 0.0708 1
+
+
+_exptl_crystal_colour                    gray
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.76
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4624
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            20.776
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             91
+_refine_ls_number_reflns                 620
+_refine_ls_R_factor_gt                   0.100
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 534412
+
+

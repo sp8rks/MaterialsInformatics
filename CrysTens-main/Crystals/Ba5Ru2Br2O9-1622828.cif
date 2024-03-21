@@ -1,0 +1,165 @@
+##############################################################################
+#                                                                            #
+# Ba-Br-O-Ru       # Ba5Ru2Br2O9                                   # 1622828 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1622828
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1622828
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~5~ Ru~2~ Br~2~ O~9~'
+_chemical_formula_sum                    'Ba5 Br2 O9 Ru2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Ba~5~(W~0.2~Ru~0.8~)~2~Cl~2~O~9~,hP36,194                                     
+_chemical_formula_weight                 1192.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Layered ruthenium hexagonal perovskites: The new series [Ba~2~Br~2-2x~(CO~3~)~x~][Ba~n+1~Ru~n~O~3n+3~] with n= 2, 3, 4, 5
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2007
+_journal_volume                          180
+_journal_page_first                      1957
+_journal_page_last                       1966
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kauffmann M.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Equipe de Chimie du Solide
+Villeneuve d'Ascq
+France
+;
+'Roussel P.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Equipe de Chimie du Solide
+Villeneuve d'Ascq
+France
+;
+'Abraham F.'
+;
+Villeneuve d'Ascq Lille University of Sciences and Technologies
+Equipe de Chimie du Solide
+Villeneuve d'Ascq
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.8344
+_cell_length_b                           5.8344
+_cell_length_c                           25.637
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             755.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Br
+ Ba
+ Ru
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 12 k 0.164 0.328 0.6576 1
+ O3 O 6 h 0.146 0.292 0.25 1
+ Br1 Br 4 f 0.333333 0.666667 0.048 1
+ Ba2 Ba 4 f 0.333333 0.666667 0.17207 1
+ Ba1 Ba 4 f 0.333333 0.666667 0.58084 1
+ Ru1 Ru 4 e 0 0 0.19579 1
+ Ba3 Ba 2 d 0.333333 0.666667 0.75 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.24
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS X8 APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    21589
+_diffrn_reflns_theta_min                 3.18
+_diffrn_reflns_theta_max                 84.64
+_exptl_absorpt_coefficient_mu            20.065
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1074
+_refine_ls_R_factor_gt                   0.1221
+_refine_ls_wR_factor_gt                  0.1198
+
+# End of data set 1622828
+
+

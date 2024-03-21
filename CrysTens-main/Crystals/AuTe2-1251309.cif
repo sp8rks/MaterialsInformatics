@@ -1,0 +1,121 @@
+##############################################################################
+#                                                                            #
+# Au-Te            # AuTe2 rt                                      # 1251309 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1251309
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1251309
+
+# Entry summary
+
+_chemical_formula_structural             'Au Te~2~'
+_chemical_formula_sum                    'Au Te2'
+_chemical_name_mineral                   calaverite
+_chemical_compound_source                'U.S.A. Colorado, Cripple Creek mine'
+_chemical_name_structure_type            AuTe~2~,mP12,7
+_chemical_formula_weight                 452.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Kristallchemie nat\"urlicher Telluride. III. Die Kristallstruktur des Minerals Calaverit, AuTe~2~
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1984
+_journal_volume                          169
+_journal_page_first                      227
+_journal_page_last                       236
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pertlik F.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.76
+_cell_length_b                           4.41
+_cell_length_c                           10.15
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.2
+_cell_angle_gamma                        90
+_cell_volume                             320.41
+_cell_formula_units_Z                    4
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Te
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te1 Te 2 a 0.0000 0.0138 0.0000 1
+ Te3 Te 2 a 0.1224 0.4464 0.3481 1
+ Au2 Au 2 a 0.3109 0.0059 0.3003 1
+ Te4 Te 2 a 0.5012 0.5585 0.2507 1
+ Te2 Te 2 a 0.6234 0.0520 0.6019 1
+ Au1 Au 2 a 0.8132 0.4938 0.0515 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.37
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          'STOE STADI 2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2572
+_exptl_absorpt_coefficient_mu            63.8
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             53
+_refine_ls_number_reflns                 577
+_refine_ls_R_factor_gt                   0.082
+_refine_ls_wR_factor_gt                  0.063
+
+# End of data set 1251309
+
+

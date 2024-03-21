@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# As-Se            # AsSe                                          #  451609 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_451609
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      451609
+
+# Entry summary
+
+_chemical_formula_structural             'As Se'
+_chemical_formula_sum                    'As Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AsS-a,mP32,14
+_chemical_formula_weight                 153.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+The Crystal and Molecular Structure of Tetrameric Arsenic Selenide, Ad~4~Se~4~
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1974
+_journal_volume                          30
+_journal_page_first                      915
+_journal_page_last                       920
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Goldstein P.'
+;
+Xerox Corp.
+Research Laboratory
+Rochester
+U.S.A. New York
+;
+'Paton A.'
+;
+Xerox Corp.
+Research Laboratory
+Rochester
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.719
+_cell_length_b                           13.801
+_cell_length_c                           10.0029
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.669
+_cell_angle_gamma                        90
+_cell_volume                             849.53
+_cell_formula_units_Z                    16
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se(4) Se 4 e 0.05221 0.28197 0.10211 1
+ Se(2) Se 4 e 0.08959 0.52465 0.21289 1
+ As(3) As 4 e 0.14967 0.36896 0.32513 1
+ As(4) As 4 e 0.33447 0.33978 0.03746 1
+ Se(1) Se 4 e 0.34488 0.00958 0.15075 1
+ As(1) As 4 e 0.35891 0.51809 0.11545 1
+ As(2) As 4 e 0.56411 0.35946 0.42758 1
+ Se(3) Se 4 e 0.61478 0.26785 0.242 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.81
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_pd_proc_wavelength                      0.71069
+_cell_measurement_reflns_used            44
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          Picker
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    5000
+_exptl_absorpt_coefficient_mu            34.7
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             73
+_refine_ls_number_reflns                 1466
+_refine_ls_R_factor_gt                   0.054
+_refine_ls_wR_factor_gt                  0.097
+
+# End of data set 451609
+
+

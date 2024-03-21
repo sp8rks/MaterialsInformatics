@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Ce-O-Si          # Ce2[Si2O7] ht                                 # 1415027 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1415027
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1415027
+
+# Entry summary
+
+_chemical_formula_structural             'Ce~2~ [Si~2~ O~7~]'
+_chemical_formula_sum                    'Ce2 O7 Si2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~2~[P~2~O~7~],mP44,14
+_chemical_formula_weight                 448.4
+
+# Bibliographic data
+
+_publ_section_title
+'X-Ray Crystallographic Study of Ce~2~Si~2~O~7~'                              
+_journal_coden_ASTM                      ACHSE7
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1994
+_journal_volume                          48
+_journal_page_first                      1012
+_journal_page_last                       1014
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Christensen A.N.'
+;
+\%Arhus University
+Department of Inorganic Chemistry
+\%Arhus
+Denmark
+;
+'Hazell R.G.'
+;
+\%Arhus University
+Department of Inorganic Chemistry
+\%Arhus
+Denmark
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.4116
+_cell_length_b                           8.742
+_cell_length_c                           14.195
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.622
+_cell_angle_gamma                        90
+_cell_volume                             619.87
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ce
+ O
+ Si
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ce1 Ce 4 e 0.02121 0.80856 0.26796 1
+ O2 O 4 e 0.0713 0.3483 0.0594 1
+ O4 O 4 e 0.221 0.2348 0.4063 1
+ O6 O 4 e 0.2494 0.0819 0.2428 1
+ O5 O 4 e 0.2713 0.5363 0.2536 1
+ Si1 Si 4 e 0.2924 0.2556 0.0266 1
+ O1 O 4 e 0.3305 0.0803 0.0665 1
+ Ce2 Ce 4 e 0.34586 0.60802 0.08957 1
+ Si2 Si 4 e 0.4144 0.0072 0.1796 1
+ O3 O 4 e 0.5635 0.3553 0.0753 1
+ O7 O 4 e 0.6622 0.3287 0.3265 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.81
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            23
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Huber
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    5298
+_exptl_absorpt_coefficient_mu            15.1
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2806
+_refine_ls_R_factor_gt                   0.070
+_refine_ls_wR_factor_gt                  0.071
+
+# End of data set 1415027
+
+

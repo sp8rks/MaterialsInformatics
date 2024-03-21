@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Cs-H-Np-O-S      # Cs2Np[SO4]3[H2O]2                             # 1625303 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1625303
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1625303
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Np [S O~4~]~3~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Cs2 H4 Np O14 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~Np[SO~4~]~3~[H~2~O]~2~,mP40,4
+_chemical_formula_weight                 827.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, crystal structure, and characteristics of double cesium neptunium(IV) sulfate
+;
+_journal_coden_ASTM                      RDIOEO
+_journal_name_full                       'Radiochemistry (Moscow)'
+_journal_year                            2000
+_journal_volume                          42
+_journal_page_first                      42
+_journal_page_last                       47
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Charaushnikova I.A.'
+;
+Russian Academy of Sciences
+Institute of Physical Chemistry
+Moscow
+Russia
+;
+'Krot N.N.'
+;
+Russian Academy of Sciences
+Institute of Physical Chemistry
+Moscow
+Russia
+;
+'Starikova Z.A.'
+;
+Russian Academy of Sciences
+Nesmeyanov A.N. Institute of Organoelement Compounds
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.434
+_cell_length_b                           9.522
+_cell_length_c                           11.111
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.56
+_cell_angle_gamma                        90
+_cell_volume                             680
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cs
+ O
+ S
+ OH2
+ Np
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs2 Cs 2 a 0.0075 0.7827 0.1082 1
+ O11 O 2 a 0.0079 0.8076 0.6485 1
+ S3 S 2 a 0.0462 0.3795 0.2425 1
+ Cs1 Cs 2 a 0.1404 0.5376 0.5454 1
+ O12 O 2 a 0.173 0.2921 0.1613 1
+ O1 O 2 a 0.1754 0.2284 0.6408 1
+ O9 O 2 a 0.1819 0.5042 0.2696 1
+ O8 O 2 a 0.2708 0.5336 0.0251 1
+ Ow2 OH2 2 a 0.2769 0.0 0.3201 1
+ O7 O 2 a 0.3773 0.0189 0.0162 1
+ S1 S 2 a 0.385 0.1764 0.655 1
+ O3 O 2 a 0.3979 0.0233 0.6235 1
+ Ow1 OH2 2 a 0.4916 0.2581 0.3395 1
+ Np Np 2 a 0.4967 0.4323 0.1805 1
+ O2 O 2 a 0.5323 0.2571 0.5861 1
+ O4 O 2 a 0.5479 0.6755 0.2123 1
+ O5 O 2 a 0.5657 0.2274 0.0752 1
+ S2 S 2 a 0.5759 0.0728 0.0678 1
+ O6 O 2 a 0.633 0.0111 0.1827 1
+ O10 O 2 a 0.8586 0.4269 0.1742 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.04
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens P3/PC'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            13.445
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             181
+_refine_ls_number_reflns                 1790
+_refine_ls_R_factor_gt                   0.0238
+_refine_ls_wR_factor_gt                  0.0711
+
+# End of data set 1625303
+
+

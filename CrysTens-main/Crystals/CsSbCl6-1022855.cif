@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-Sb         # CsSbCl6 rt                                    # 1022855 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1022855
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1022855
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Sb Cl~6~'
+_chemical_formula_sum                    'Cl6 Cs Sb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsSbCl~6~,mS32,9
+_chemical_formula_weight                 467.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal and molecular structures of cesium phenylpentachloroantimonate Cs[PhSbCl~5~], potassium phenylpentabromoantimonate K[PhSbBr~5~], and cesium hexachloroantimonate Cs[SbCl~6~]
+;
+_journal_coden_ASTM                      JSTCAM
+_journal_name_full                       'J. Struct. Chem.'
+_journal_year                            1990
+_journal_volume                          31
+_journal_page_first                      92
+_journal_page_last                       97
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zaitseva E.G.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Medvedev S.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Aslanov L.A.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.284
+_cell_length_b                           6.433
+_cell_length_c                           12.366
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.38
+_cell_angle_gamma                        90
+_cell_volume                             954.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ Sb
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 4 a 0.0 0.1211 0.0 1
+ Cl4 Cl 4 a 0.0821 0.5521 0.1464 1
+ Cl2 Cl 4 a 0.1356 0.0771 0.2602 1
+ Sb Sb 4 a 0.1733 0.2503 0.1033 1
+ Cl5 Cl 4 a 0.2069 0.5836 0.4428 1
+ Cl6 Cl 4 a 0.2686 0.0452 0.5623 1
+ Cl3 Cl 4 a 0.3414 0.3738 0.2135 1
+ Cs Cs 4 a 0.4242 0.12392 0.8542 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.25
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1250
+_refine_ls_R_factor_gt                   0.024
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1022855
+
+

@@ -1,0 +1,168 @@
+##############################################################################
+#                                                                            #
+# Ag-Fe-S-Si       # Ag2FeSiS4                                     # 1636782 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1636782
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1636782
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ Fe Si S~4~'
+_chemical_formula_sum                    'Ag2 Fe S4 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Na~2~Zn[SiO~4~],mP16,7
+_chemical_formula_weight                 427.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+The impact of three new quaternary sulfides on the current predictive tools for structure and composition of diamond-like materials
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2013
+_journal_volume                          574
+_journal_page_first                      495
+_journal_page_last                       503
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Brunetta C.D.'
+;
+Pennsylvania Pittsburgh Duquesne University
+Department of Chemistry and Biochemistry
+Pittsburgh
+U.S.A. Pennsylvania
+;
+'Brant J.A.'
+;
+Pennsylvania Pittsburgh Duquesne University
+Department of Chemistry and Biochemistry
+Pittsburgh
+U.S.A. Pennsylvania
+;
+'Rosmus K.A.'
+;
+Pennsylvania Pittsburgh Duquesne University
+Department of Chemistry and Biochemistry
+Pittsburgh
+U.S.A. Pennsylvania
+;
+'Henline K.M.'
+;
+Pennsylvania Pittsburgh Duquesne University
+Department of Chemistry and Biochemistry
+Pittsburgh
+U.S.A. Pennsylvania
+;
+'Karey E.'
+;
+Pennsylvania Pittsburgh Chatham University
+Department of Chemistry
+Pittsburgh
+U.S.A. Pennsylvania
+;
+'MacNeil J.H.'
+;
+Pennsylvania Pittsburgh Chatham University
+Department of Chemistry
+Pittsburgh
+U.S.A. Pennsylvania
+;
+'Aitken J.A.'
+;
+Pennsylvania Pittsburgh Duquesne University
+Department of Chemistry and Biochemistry
+Pittsburgh
+U.S.A. Pennsylvania
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.422
+_cell_length_b                           6.6185
+_cell_length_c                           10.1004
+_cell_angle_alpha                        90
+_cell_angle_beta                         128.864
+_cell_angle_gamma                        90
+_cell_volume                             334.27
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Fe
+ Si
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S4 S 2 a 0.0 0.1613 0.0 1
+ Fe1 Fe 2 a 0.0758 0.184 0.4809 1
+ S1 S 2 a 0.2059 0.6205 0.2142 1
+ Si1 Si 2 a 0.3212 0.3143 0.2273 1
+ S2 S 2 a 0.41 0.181 0.4476 1
+ Ag1 Ag 2 a 0.58301 0.8196 0.47293 1
+ S3 S 2 a 0.6632 0.3014 0.2391 1
+ Ag2 Ag 2 a 0.81565 0.64939 0.21897 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.25
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4330
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             75
+_refine_ls_number_reflns                 1470
+_refine_ls_R_factor_gt                   0.0235
+_refine_ls_wR_factor_gt                  0.0627
+
+# End of data set 1636782
+
+

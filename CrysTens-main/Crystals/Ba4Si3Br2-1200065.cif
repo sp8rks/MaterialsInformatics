@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Ba-Br-Si         # Ba4Si3Br2                                     # 1200065 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1200065
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1200065
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~4~ Si~3~ Br~2~'
+_chemical_formula_sum                    'Ba4 Br2 Si3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~4~Si~3~Br~2~,mP36,14
+_chemical_formula_weight                 793.4
+_chemical_melting_point                  1090
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ba~4~Si~3~Br~2~: A Double Salt of Barium Bromide and Barium Silicide Containing a Novel Cyclotrisilicide Unit
+;
+_journal_coden_ASTM                      CEUJED
+_journal_name_full                       'Chem. Eur. J.'
+_journal_year                            2001
+_journal_volume                          7
+_journal_page_first                      3209
+_journal_page_last                       3213
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wengert S.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Anorganische Chemie
+Zurich
+Switzerland
+;
+'Willems J.B.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Anorganische Chemie
+Zurich
+Switzerland
+;
+'Nesper R.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Anorganische Chemie
+Zurich
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.041
+_cell_length_b                           8.845
+_cell_length_c                           8.802
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.93
+_cell_angle_gamma                        90
+_cell_volume                             1145.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Br
+ Ba
+ Si
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br2 Br 4 e 0.0072 0.14 0.3661 1
+ Br1 Br 4 e 0.133 0.0066 0.0523 1
+ Ba3 Ba 4 e 0.1687 0.3359 0.2363 1
+ Si1 Si 4 e 0.3005 0.6328 0.1978 1
+ Si2 Si 4 e 0.3132 0.4307 0.0076 1
+ Ba2 Ba 4 e 0.3521 0.0569 0.1263 1
+ Si3 Si 4 e 0.413 0.4378 0.2601 1
+ Ba4 Ba 4 e 0.5436 0.2904 0.0203 1
+ Ba1 Ba 4 e 0.8491 0.3224 0.1193 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.60
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            91
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI P'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    16608
+_diffrn_reflns_theta_min                 1.38
+_diffrn_reflns_theta_max                 32.03
+_exptl_absorpt_coefficient_mu            20.786
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             82
+_refine_ls_number_reflns                 4761
+_refine_ls_R_factor_gt                   0.041
+_refine_ls_wR_factor_gt                  0.079
+
+# End of data set 1200065
+
+

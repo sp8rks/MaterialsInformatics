@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Al-As-Cl-S       # AlAs3S5Cl4                                    # 1121995 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1121995
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1121995
+
+# Entry summary
+
+_chemical_formula_structural             'Al As~3~ S~5~ Cl~4~'
+_chemical_formula_sum                    'Al As3 Cl4 S5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AlAs~3~S~5~Cl~4~,mP26,11
+_chemical_formula_weight                 553.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+The Polycationic Main Group Element Clusters (As~3~S~5~)^+^ and (As~3~Se~4~)^+^ - Syntheses from Chloroaluminate Melts, Crystal Structures, and Vibrational Spectra
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2005
+_journal_volume                          631
+_journal_page_first                      2450
+_journal_page_last                       2456
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Beck J.'
+;
+Bonn Rheinich Friedrich Wilhelm University
+Institut f\"ur Anorganische Chemie
+Bonn
+Germany
+;
+'Schl\"uter S.'
+;
+Bonn Rheinich Friedrich Wilhelm University
+Institut f\"ur Anorganische Chemie
+Bonn
+Germany
+;
+'Zotov N.'
+;
+Bonn Rheinich Friedrich Wilhelm University
+Institut f\"ur Mineralogie und Petrologie
+Bonn
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.4048
+_cell_length_b                           9.7754
+_cell_length_c                           11.4639
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.003
+_cell_angle_gamma                        90
+_cell_volume                             696.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cl
+ As
+ S
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 4 f 0.1188 0.0716 0.8741 1
+ As1 As 4 f 0.4441 0.08042 0.16624 1
+ S3 S 4 f 0.5774 0.0685 0.3637 1
+ Cl3 Cl 2 e 0.0199 0.25 0.6022 1
+ S4 S 2 e 0.1243 0.25 0.3353 1
+ S1 S 2 e 0.1783 0.25 0.1696 1
+ As2 As 2 e 0.4683 0.25 0.45063 1
+ S2 S 2 e 0.6232 0.25 0.102 1
+ Cl2 Cl 2 e 0.6454 0.25 0.7775 1
+ Al Al 2 e 0.9783 0.25 0.7794 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.64
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Nonius
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    7735
+_diffrn_reflns_theta_min                 2.91
+_diffrn_reflns_theta_max                 27.69
+_exptl_absorpt_coefficient_mu            8.69
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             71
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.046
+_refine_ls_wR_factor_gt                  0.124
+
+# End of data set 1121995
+
+

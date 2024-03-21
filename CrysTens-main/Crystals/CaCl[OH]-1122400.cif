@@ -1,0 +1,178 @@
+##############################################################################
+#                                                                            #
+# Ca-Cl-H-O        # CaCl[OH]                                      # 1122400 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1122400
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1122400
+
+# Entry summary
+
+_chemical_formula_structural             'Ca Cl [O H]'
+_chemical_formula_sum                    'Ca Cl H O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CdCl[OH],hP6,186
+_chemical_formula_weight                 92.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+X-ray investigations of ammines of alkaline earth metal halides. I. The structures of CaCl~2~(NH~3~)~8~, CaCl~2~(NH~3~)~2~ and the decomposition product CaClOH
+;
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1981
+_journal_volume                          35
+_journal_page_first                      467
+_journal_page_last                       472
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Westman S.'
+;
+Stockholm University
+Department of Structural Chemistry
+Stockholm
+Sweden
+;
+'Werner P.E.'
+;
+Stockholm University
+Department of Structural Chemistry
+Stockholm
+Sweden
+;
+'Sch\"uler T.'
+;
+KTH Royal Institute of Technology
+Department of Physical Chemistry
+Stockholm
+Sweden
+;
+'Raldow W.'
+;
+KTH Royal Institute of Technology
+Department of Physical Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.8641
+_cell_length_b                           3.8641
+_cell_length_c                           9.9044
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             128.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ Ca
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl Cl 2 b 0.333333 0.666667 0.237 1
+ Ca Ca 2 b 0.333333 0.666667 0.557 1
+ O OH 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.40
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier-Haegg film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 179.62 127
+ 1 0 0 266.61 82
+ 1 0 1 281.52 558
+ 1 0 2 322.77 259
+ 0 0 4 362.47 116
+ 1 0 3 382.57 1000
+ 1 1 0 469.95 388
+ 1 1 2 506.63 64
+ 0 0 6 556.46 87
+ 1 1 4 607.7 142
+ 2 0 3 621.32 180
+ 1 0 6 627.06 60
+ 2 1 1 757.54 97
+
+# End of data set 1122400
+
+

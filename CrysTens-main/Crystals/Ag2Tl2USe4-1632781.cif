@@ -1,0 +1,188 @@
+##############################################################################
+#                                                                            #
+# Ag-Se-Tl-U       # Ag2Tl2USe4                                    # 1632781 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1632781
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1632781
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ Tl~2~ U Se~4~'
+_chemical_formula_sum                    'Ag2 Se4 Tl2 U'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~Tl~2~USe~4~,mS18,12
+_chemical_formula_weight                 1178.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Pentavalent and tetravalent uranium selenides, Tl~3~Cu~4~USe~6~ and Tl~2~Ag~2~USe~4~: Syntheses, characterization, and structural comparison to other layered actinide chalcogenide compounds
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2011
+_journal_volume                          50
+_journal_page_first                      6656
+_journal_page_last                       6666
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bugaris D.E.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Choi E.S.'
+;
+Florida Tallahassee State University
+Department of Physics and National High Magnetic Field Laboratory
+Tallahassee
+U.S.A. Florida
+;
+'Copping R.'
+;
+Lawrence Berkeley National Laboratory
+Chemical Sciences Division
+Berkeley
+U.S.A. California
+;
+'Glans P.A.'
+;
+Lawrence Berkeley National Laboratory
+Advanced Light Source
+Berkeley
+U.S.A. California
+;
+'Minasian S.G.'
+;
+Lawrence Berkeley National Laboratory
+Chemical Sciences Division
+Berkeley
+U.S.A. California
+;
+'Tyliszczak T.'
+;
+Lawrence Berkeley National Laboratory
+Advanced Light Source
+Berkeley
+U.S.A. California
+;
+'Kozimor S.A.'
+;
+Los Alamos National Laboratory
+Chemistry Division
+Los Alamos
+U.S.A. New Mexico
+;
+'Shuh D.K.'
+;
+Lawrence Berkeley National Laboratory
+Chemical Sciences Division
+Berkeley
+U.S.A. California
+;
+'Ibers J.A.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.4919
+_cell_length_b                           4.2301
+_cell_length_c                           9.4745
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.3
+_cell_angle_gamma                        90
+_cell_volume                             462
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Se
+ Ag
+ Tl
+ U
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 i 0.07178 0 0.3547 1
+ Ag1 Ag 4 i 0.31027 0 0.63105 1
+ Tl1 Tl 4 i 0.37149 0 0.29072 1
+ Se2 Se 4 i 0.65566 0 0.0621 1
+ U1 U 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.47
+_cell_measurement_temperature            100
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1852
+_diffrn_ambient_temperature              100
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2705
+_diffrn_reflns_theta_min                 2.7
+_diffrn_reflns_theta_max                 28.42
+_exptl_absorpt_coefficient_mu            72.058
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             30
+_refine_ls_number_reflns                 601
+_refine_ls_R_factor_gt                   0.0371
+_refine_ls_wR_factor_gt                  0.1191
+
+# End of data set 1632781
+
+

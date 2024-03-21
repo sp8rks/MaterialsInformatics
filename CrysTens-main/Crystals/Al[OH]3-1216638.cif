@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Al-H-O           # Al[OH]3 hp mon                                # 1216638 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1216638
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1216638
+
+# Entry summary
+
+_chemical_formula_structural             'Al [O H]~3~'
+_chemical_formula_sum                    'Al H3 O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source
+'Norway, Oslo Region, Langesundsfjorden, Lille Aro Island'                    
+_chemical_name_structure_type            Al[OH]~3~-c,mP32,14
+_chemical_formula_weight                 78.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures of high-pressure phases in the alumina-water system: I.Single crystal X-ray diffraction and molecular dynamics simulation of \h-Al(OH)~3~
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            2007
+_journal_volume                          222
+_journal_page_first                      1
+_journal_page_last                       12
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Komatsu K.'
+;
+Sendai Miyagi Tohoku University
+Institute of Mineralogy, Petrology and Economic Geology
+Sendai / Miyagi
+Japan
+;
+'Kuribayashi T.'
+;
+Sendai Miyagi Tohoku University
+Institute of Mineralogy, Petrology and Economic Geology
+Sendai / Miyagi
+Japan
+;
+'Kudoh Y.'
+;
+Sendai Miyagi Tohoku University
+Institute of Mineralogy, Petrology and Economic Geology
+Sendai / Miyagi
+Japan
+;
+'Kagi H.'
+;
+Bunkyo Tokyo University
+Graduate School of Science
+Bunkyo / Tokyo
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.194
+_cell_length_b                           8.612
+_cell_length_c                           5.013
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.34
+_cell_angle_gamma                        90
+_cell_volume                             396.9
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Al
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Al1 Al 4 e 0.0091 0.3343 0.0282 1
+ O2 OH 4 e 0.097 0.829 0.149 1
+ O1 OH 4 e 0.111 0.514 0.131 1
+ O3 OH 4 e 0.124 0.195 0.222 1
+ O4 OH 4 e 0.387 0.015 0.129 1
+ O5 OH 4 e 0.4 0.329 0.148 1
+ Al2 Al 4 e 0.51 0.334 0.4715 1
+ O6 OH 4 e 0.622 0.196 0.278 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.61
+_cell_measurement_temperature            ?
+_cell_measurement_pressure               3e+006
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.7003
+_cell_measurement_reflns_used            45
+_diffrn_ambient_pressure                 3e+006
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Japan, Tsukuba, High Energy Accelerator Research Organization (KEK), Photon Factory, BL-10A
+;
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.7003
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             33
+_refine_ls_number_reflns                 159
+_refine_ls_R_factor_gt                   0.0625
+_refine_ls_wR_factor_gt                  0.1733
+
+# End of data set 1216638
+
+

@@ -1,0 +1,192 @@
+##############################################################################
+#                                                                            #
+# As-Ca-Cl-O-Pb    # Ca2Pb3[AsO4]3Cl                               # 1616044 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1616044
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1616044
+
+# Entry summary
+
+_chemical_formula_structural             'Ca~2~ Pb~3~ [As O~4~]~3~ Cl'
+_chemical_formula_sum                    'As3 Ca2 Cl O12 Pb3'
+_chemical_name_mineral                   hedyphane
+_chemical_compound_source                'Sweden, V\"armland, Langban'
+_chemical_name_structure_type
+Na~2~(Na~0.33~Pb~0.67~)~3~[SO~4~]~3~Cl,hP42,176                               
+_chemical_formula_weight                 1154.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hedyphane from Franklin, New Jersey and Langban, Sweden: cation ordering in an arsenate apatite
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            1984
+_journal_volume                          69
+_journal_page_first                      920
+_journal_page_last                       927
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rouse R.C.'
+;
+Michigan Ann Arbor University
+Department of Geological Sciences
+Ann Arbor
+U.S.A. Michigan
+;
+'Dunn P.J.'
+;
+Smithsonian Institution
+Department of Mineral Sciences
+Washington
+U.S.A. Washington D.C.
+;
+'Peacor D.R.'
+;
+Michigan Ann Arbor University
+Department of Geological Sciences
+Ann Arbor
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.14
+_cell_length_b                           10.14
+_cell_length_c                           7.185
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             639.78
+_cell_formula_units_Z                    2
+_space_group_IT_number                   176
+_space_group_name_H-M_alt                'P 63/m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, x, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, -z'
+ 12 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ As
+ Pb
+ Ca
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 12 i 0.089 0.365 0.065 1
+ As As 6 h 0.0126 0.4021 0.25 1
+ O2 O 6 h 0.142 0.616 0.25 1
+ Pb Pb 6 h 0.2439 0.2581 0.25 1
+ O1 O 6 h 0.523 0.159 0.25 1
+ Ca Ca 4 f 0.333333 0.666667 -0.009 1
+ Cl Cl 2 b 0 0 0 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              5.85
+_exptl_crystal_density_diffrn            5.99
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Buerger-Supper Pace-Picker'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    550
+_exptl_absorpt_coefficient_mu            47.5
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 493
+_refine_ls_R_factor_gt                   0.076
+_refine_ls_wR_factor_gt                  0.062
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 87.7 4
+ 1 0 1 55.5 0.5
+ 1 1 0 50.7 4
+ 2 0 0 43.93 0.5
+ 1 1 1 41.35 5
+ 2 0 1 37.42 1
+ 0 0 2 35.86 7
+ 1 0 2 33.16 4
+ 2 1 1 30.14 10
+ 1 1 2 29.29 8
+ 2 1 2 24.4 4
+ 3 1 1 23.09 1
+ 4 0 0 21.99 2
+ 1 1 3 21.66 2
+ 2 2 2 20.72 2
+ 3 1 2 20.16 2
+ 2 1 3 19.43 8
+ 4 1 0 19.11 1
+ 4 0 2 18.75 3
+ 3 0 3 18.53 1
+ 0 0 4 17.96 2
+ 3 2 2 17.56 1
+ 3 1 3 17.04 0.5
+ 4 2 0 16.58 0.5
+ 3 3 1 16.41 2
+ 5 0 2 15.75 2
+ 3 2 3 15.38 3
+ 3 0 4 15.26 2
+ 4 2 2 15.04 1
+ 3 1 4 14.44 1
+ 6 0 1 14.32 0.5
+ 4 0 4 13.9 1
+ 3 3 3 13.8 2
+
+# End of data set 1616044
+
+

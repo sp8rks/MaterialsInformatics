@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-H-O-Re     # Cs2Re2Cl8[H2O]                                # 1412504 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1412504
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1412504
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Re~2~ Cl~8~ [H~2~ O]'
+_chemical_formula_sum                    'Cl8 Cs2 H2 O Re2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~Re~2~Cl~8~[H~2~O],mP52,14
+_chemical_formula_weight                 939.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Cesium octachlorodirhenate(III) hydrate. The correct structure and its significance with respect to the nature of metal-metal multiple bonding
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1977
+_journal_volume                          16
+_journal_page_first                      1867
+_journal_page_last                       1871
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cotton F.A.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Hall W.T.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.323
+_cell_length_b                           13.377
+_cell_length_c                           11.979
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.13
+_cell_angle_gamma                        90
+_cell_volume                             1488
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ Re
+ Cs
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl3 Cl 4 e 0.0166 0.1522 0.1619 1
+ Cl2 Cl 4 e 0.0577 0.4243 0.289 1
+ Re1 Re 4 e 0.0736 0.00119 0.07901 1
+ Cs2 Cs 4 e 0.1175 0.1869 0.4544 1
+ Cl4 Cl 4 e 0.1978 0.8516 0.0706 1
+ Cl5 Cl 4 e 0.2203 0.5564 0.0429 1
+ Cl1 Cl 4 e 0.2775 0.0799 0.0192 1
+ Cl6 Cl 4 e 0.3159 0.0246 0.3056 1
+ Cl8 Cl 4 e 0.4113 0.3765 0.1705 1
+ Cl7 Cl 4 e 0.5018 0.2012 0.434 1
+ Re2 Re 4 e 0.5644 0.43808 0.04396 1
+ Cs1 Cs 4 e 0.6191 0.1039 0.176 1
+ O1 OH2 4 e 0.728 0.306 0.162 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.20
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2412
+_diffrn_reflns_theta_min                 0
+_diffrn_reflns_theta_max                 21
+_exptl_absorpt_coefficient_mu            23.42
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1430
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  0.048
+
+# End of data set 1412504
+
+

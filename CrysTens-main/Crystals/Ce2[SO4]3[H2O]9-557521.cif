@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Ce-H-O-S         # Ce2[SO4]3[H2O]9                               #  557521 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_557521
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      557521
+
+# Entry summary
+
+_chemical_formula_structural             'Ce~2~ [S O~4~]~3~ [H~2~ O]~9~'
+_chemical_formula_sum                    'Ce2 H18 O21 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~2~[SO~4~]~3~[H~2~O]~9~,hP52,176
+_chemical_formula_weight                 730.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure cristalline du sulfate de c\'erium enn\'eahydrat\'e Ce~2~(SO~4~)~3~.9H~2~O
+;
+_journal_coden_ASTM                      BSCFAS
+_journal_name_full                       'Bull. Soc. Chim. Fr.'
+_journal_year                            1968
+_journal_volume                          ?
+_journal_page_first                      174
+_journal_page_last                       180
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Dereigne A.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Cin\'etique Chimique
+Paris
+France
+;
+'Pannetier G.'
+;
+Paris University
+Laboratoire de Cin\'etique Chimique
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.997
+_cell_length_b                           10.997
+_cell_length_c                           8.018
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             839.74
+_cell_formula_units_Z                    2
+_space_group_IT_number                   176
+_space_group_name_H-M_alt                'P 63/m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, x, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, -z'
+ 12 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ S
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 12 i 0.225 0.26 0.105 1
+ O5w OH2 12 i 0.545 0.155 0.025 1
+ O4w OH2 6 h 0.099 0.437 0.25 1
+ O1 O 6 h 0.171 0.066 0.25 1
+ S S 6 h 0.261 0.211 0.25 1
+ O2 O 6 h 0.404 0.238 0.25 1
+ Ce2 Ce 2 d 0.666667 0.333333 0.25 1
+ Ce1 Ce 2 b 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.83
+_exptl_crystal_density_diffrn            2.89
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    665
+_exptl_absorpt_coefficient_mu            43.32
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.07
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 557521
+
+

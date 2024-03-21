@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Ag-Cu-O          # AgCuO2                                        # 1614196 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1614196
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1614196
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Cu O~2~'
+_chemical_formula_sum                    'Ag Cu O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AgCuO~2~,mP8,14
+_chemical_formula_weight                 203.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+AgCuO~2~-Synthesis, Crystal Structure, and Structural Relationship with CuO and Ag^1+^Ag^2+^O~2~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2001
+_journal_volume                          162
+_journal_page_first                      220
+_journal_page_last                       224
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Curda J.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Klein W.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Jansen M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.8657
+_cell_length_b                           2.8062
+_cell_length_c                           6.077
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.106
+_cell_angle_gamma                        90
+_cell_volume                             95.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cu
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O O 4 e 0.2031 0.004 0.1439 1
+ Cu Cu 2 c 0 0 0.5 1
+ Ag Ag 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.11
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI P'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 47.5
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                95
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             24
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0664
+_pd_proc_ls_proof_wR_factor              0.0900
+_refine_ls_R_I_factor                    0.0551
+
+# End of data set 1614196
+
+

@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Am-I-O           # Am[IO3]3 mon2                                 # 1211950 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1211950
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1211950
+
+# Entry summary
+
+_chemical_formula_structural             'Am [I O~3~]~3~'
+_chemical_formula_sum                    'Am I3 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Bi[IO~3~]~3~,mP52,14
+_chemical_formula_weight                 767.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and characterization of f-element iodate architechures with variable dimensionality, \a- and \b-Am(IO~3~)~3~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2006
+_journal_volume                          45
+_journal_page_first                      2479
+_journal_page_last                       2482
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Runde W.H.'
+;
+Los Alamos National Laboratory
+Nuclear Materials Technology Division
+Los Alamos
+U.S.A. New Mexico
+;
+'Bean A.C.'
+;
+Los Alamos National Laboratory
+Nuclear Materials Technology Division
+Los Alamos
+U.S.A. New Mexico
+;
+'Brodnax L.F.'
+;
+Los Alamos National Laboratory
+Nuclear Materials Technology Division
+Los Alamos
+U.S.A. New Mexico
+;
+'Scott B.L.'
+;
+Los Alamos National Laboratory
+Nuclear Materials Technology Division
+Los Alamos
+U.S.A. New Mexico
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.871
+_cell_length_b                           5.933
+_cell_length_c                           16.7444
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.781
+_cell_angle_gamma                        90
+_cell_volume                             800.13
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ I
+ Am
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.0621 0.0507 0.2045 1
+ I2 I 4 e 0.07007 0.31172 0.34989 1
+ O9 O 4 e 0.0925 0.6052 0.1699 1
+ O5 O 4 e 0.0935 0.4104 0.4576 1
+ Am1 Am 4 e 0.13907 0.26586 0.09991 1
+ O6 O 4 e 0.3407 0.3119 0.2556 1
+ I1 I 4 e 0.35753 0.63906 0.02266 1
+ O8 O 4 e 0.3563 0.0846 0.4463 1
+ O2 O 4 e 0.3692 -0.0018 0.133 1
+ O1 O 4 e 0.4033 0.4691 0.12 1
+ I3 I 4 e 0.58271 0.09035 0.19831 1
+ O3 O 4 e 0.6632 0.0911 0.1148 1
+ O7 O 4 e 0.8654 0.3975 0.0075 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.37
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS P4 SMART'
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0307
+_refine_ls_wR_factor_gt                  0.0786
+
+# End of data set 1211950
+
+

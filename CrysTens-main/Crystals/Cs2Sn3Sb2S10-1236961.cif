@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Cs-S-Sb-Sn       # Cs2Sn3Sb2S10                                  # 1236961 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1236961
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1236961
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Sn~3~ Sb~2~ S~10~'
+_chemical_formula_sum                    'Cs2 S10 Sb2 Sn3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Sn~3~Sb~2~S~10~,mP34,14
+_chemical_formula_weight                 1186.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses and characterization of one-dimensional alkali metal antimony(III) thiostannates(IV), A~2~Sb~2~Sn~3~S~10~ (A= K, Rb, Cs)
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2015
+_journal_volume                          221
+_journal_page_first                      426
+_journal_page_last                       432
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yohannan J.P.'
+;
+Indian Institute of Technology (IIT)
+Department of Chemistry
+Chennai / Tamil Nadu
+India
+;
+'Vidyasagar K.'
+;
+Indian Institute of Technology (IIT)
+Department of Chemistry
+Chennai / Tamil Nadu
+India
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.0036
+_cell_length_b                           13.459
+_cell_length_c                           12.0613
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.733
+_cell_angle_gamma                        90
+_cell_volume                             977.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Cs
+ Sn
+ Sb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 4 e 0.0049 0.0604 0.2036 1
+ Cs Cs 4 e 0.0384 0.3351 0.1552 1
+ S1 S 4 e 0.0974 0.3284 0.4608 1
+ Sn2 Sn 4 e 0.3933 0.0533 0.348 1
+ S5 S 4 e 0.4308 0.3966 0.057 1
+ Sb Sb 4 e 0.4941 0.1427 0.096 1
+ S4 S 4 e 0.573 0.1925 0.3163 1
+ S2 S 4 e 0.576 0.4705 0.3684 1
+ Sn1 Sn 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'orange yellow'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.03
+_cell_measurement_temperature            298(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    6889
+_diffrn_reflns_theta_min                 2.48
+_diffrn_reflns_theta_max                 28.52
+_exptl_absorpt_coefficient_mu            11.225
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             79
+_refine_ls_number_reflns                 2290
+_refine_ls_R_factor_gt                   0.0195
+_refine_ls_wR_factor_gt                  0.0469
+
+# End of data set 1236961
+
+

@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Cs-O-Ta-V        # CsTa[VO4]2                                    # 1530445 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1530445
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1530445
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Ta [V O~4~]~2~'
+_chemical_formula_sum                    'Cs O8 Ta V2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsNb[VO~4~]~2~,mP48,11
+_chemical_formula_weight                 543.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and structural characterization of AMV~2~O~8~ (A= K, Rb, Tl, Cs; M= Nb, Ta) vanadates: A structural comparison of A^+^M^5+^V~2~O~8~ vanadates and A^+^M^5+^P~2~O~8~ phosphates
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2015
+_journal_volume                          44
+_journal_page_first                      17399
+_journal_page_last                       17408
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Paidi A.K.'
+;
+Indian Institute of Technology (IIT)
+Department of Chemistry
+Chennai / Tamil Nadu
+India
+;
+'Devi R.N.'
+;
+Indian Institute of Technology (IIT)
+Department of Chemistry
+Chennai / Tamil Nadu
+India
+;
+'Vidyasagar K.'
+;
+Indian Institute of Technology (IIT)
+Department of Chemistry
+Chennai / Tamil Nadu
+India
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.9874
+_cell_length_b                           5.6412
+_cell_length_c                           16.6261
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.431
+_cell_angle_gamma                        90
+_cell_volume                             812.55
+_cell_formula_units_Z                    4
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Cs
+ V
+ Ta
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 f 0.2565 0.0066 0.8104 1
+ O3 O 4 f 0.2918 0.507 0.29 1
+ O1 O 4 f 0.4236 0.0046 0.5893 1
+ O7 O 4 f 0.4232 0.5033 0.1131 1
+ O11 O 2 e 0.0256 0.25 0.2055 1
+ Cs2 Cs 2 e 0.0839 0.25 0.6234 1
+ O12 O 2 e 0.1329 0.25 0.3784 1
+ O9 O 2 e 0.1624 0.25 0.0459 1
+ V4 V 2 e 0.1888 0.25 0.2951 1
+ V2 V 2 e 0.3462 0.25 0.0554 1
+ O6 O 2 e 0.3795 0.25 0.9586 1
+ Ta2 Ta 2 e 0.4246 0.25 0.8474 1
+ O4 O 2 e 0.4578 0.25 0.7383 1
+ Ta1 Ta 2 e 0.5587 0.25 0.6505 1
+ V1 V 2 e 0.6692 0.25 0.4593 1
+ O2 O 2 e 0.6783 0.25 0.5633 1
+ O10 O 2 e 0.7974 0.25 0.0617 1
+ V3 V 2 e 0.822 0.25 0.1611 1
+ O8 O 2 e 0.8441 0.25 0.4502 1
+ Cs1 Cs 2 e 0.9006 0.25 0.8867 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.44
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    8106
+_diffrn_reflns_theta_min                 2.4
+_diffrn_reflns_theta_max                 28.3
+_exptl_absorpt_coefficient_mu            20.1
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             134
+_refine_ls_number_reflns                 2219
+_refine_ls_R_factor_gt                   0.0153
+_refine_ls_wR_factor_gt                  0.0334
+
+# End of data set 1530445
+
+

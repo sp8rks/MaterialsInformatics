@@ -1,0 +1,120 @@
+##############################################################################
+#                                                                            #
+# Ce-P-Ru          # Ce2Ru12P7                                     # 1947550 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1947550
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1947550
+
+# Entry summary
+
+_chemical_formula_structural             'Ce~2~ Ru~12~ P~7~'
+_chemical_formula_sum                    'Ce2 P7 Ru12'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Zr~2~Fe~12~P~7~,hP21,174
+_chemical_formula_weight                 1709.9
+
+# Bibliographic data
+
+_publ_section_title
+'Lead flux crystal growth of Ce~2~Ru~12~P~7~'                                 
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2016
+_journal_volume                          71
+_journal_page_first                      919
+_journal_page_last                       923
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.407
+_cell_length_b                           9.407
+_cell_length_c                           3.898
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             298.7
+_cell_formula_units_Z                    1
+_space_group_IT_number                   174
+_space_group_name_H-M_alt                'P -6'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-y, x-y, -z'
+ 5 '-y, x-y, z'
+ 6 'x, y, -z'
+loop_
+ _atom_type_symbol
+ Ru
+ P
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ru1 Ru 3 k 0.05279 0.44142 0.5 1
+ Ru3 Ru 3 k 0.2136 0.12232 0.5 1
+ P1 P 3 k 0.2862 0.3987 0.5 1
+ Ru4 Ru 3 j 0.11266 0.27174 0 1
+ P2 P 3 j 0.4178 0.1114 0 1
+ Ru2 Ru 3 j 0.4292 0.36163 0 1
+ Ce1 Ce 1 f 0.666667 0.333333 0.5 1
+ Ce2 Ce 1 c 0.333333 0.666667 0 1
+ P3 P 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.51
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADIVARI'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    11592
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            23.0
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             45
+_refine_ls_number_reflns                 918
+_refine_ls_R_factor_gt                   0.0155
+_refine_ls_wR_factor_gt                  0.0339
+
+# End of data set 1947550
+
+

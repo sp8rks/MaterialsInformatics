@@ -1,0 +1,161 @@
+##############################################################################
+#                                                                            #
+# Cs-Cu-P-S        # CsCuPS3                                       # 1414139 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1414139
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1414139
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Cu P S~3~'
+_chemical_formula_sum                    'Cs Cu P S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsCuPSe~3~,mP48,14
+_chemical_formula_weight                 323.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+A~2~CuP~3~S~9~ (A= K, Rb), Cs~2~Cu~2~P~2~S~6~, and K~3~CuP~2~S~7~: New Phases from the Dissolution of Copper in Molten Polythiophosphate Fluxes
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            1998
+_journal_volume                          10
+_journal_page_first                      3040
+_journal_page_last                       3049
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hanko J.A.'
+;
+Michigan East Lansing University
+Department of Chemistry and Center for Fundamental Materials Research
+East Lansing
+U.S.A. Michigan
+;
+'Sayettat J.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+'Jobic S.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+'Brec R.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry and Center for Fundamental Materials Research
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.538
+_cell_length_b                           12.793
+_cell_length_c                           10.429
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.76
+_cell_angle_gamma                        90
+_cell_volume                             1236
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Cu
+ Cs
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S6 S 4 e 0.0112 0.0952 0.2616 1
+ Cu1 Cu 4 e 0.017 0.1008 0.0418 1
+ Cs2 Cs 4 e 0.138 0.3482 0.172 1
+ S7 S 4 e 0.1604 0.8308 0.1203 1
+ P2 P 4 e 0.2142 0.0412 0.3347 1
+ S5 S 4 e 0.2466 0.07 0.02 1
+ P1 P 4 e 0.282 0.5377 0.667 1
+ S4 S 4 e 0.3608 0.1576 0.3917 1
+ S2 S 4 e 0.5079 0.4245 0.264 1
+ Cu2 Cu 4 e 0.5514 0.0468 0.4032 1
+ Cs1 Cs 4 e 0.6118 0.1828 0.119 1
+ S3 S 4 e 0.7797 0.431 0.0226 1
+
+
+_exptl_crystal_colour                    'violet dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.48
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC6S'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            10.46
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.023
+_refine_ls_wR_factor_gt                  0.028
+
+# End of data set 1414139
+
+

@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Cs-Ir-O          # Cs4IrO4                                       # 1707368 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1707368
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1707368
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~4~ Ir O~4~'
+_chemical_formula_sum                    'Cs4 Ir O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~4~IrO~4~,mS18,12
+_chemical_formula_weight                 787.8
+
+# Bibliographic data
+
+_publ_section_title
+'Cs~4~[IrO~4~], a new iridate with planar anion [IrO~4~]^4-^'                 
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1992
+_journal_volume                          614
+_journal_page_first                      30
+_journal_page_last                       34
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mader K.H.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Hoppe R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.3166
+_cell_length_b                           6.7161
+_cell_length_c                           6.6044
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.118
+_cell_angle_gamma                        90
+_cell_volume                             434.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Cs
+ Ir
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O O 8 j 0.1051 0.2017 0.1819 1
+ Cs1 Cs 4 i 0.1907 0 0.5945 1
+ Cs2 Cs 4 i 0.3848 0 0.1611 1
+ Ir1 Ir 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.02
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.5609
+_diffrn_reflns_number                    3529
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 26
+_exptl_absorpt_coefficient_mu            15.770
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             26
+_refine_ls_number_reflns                 841
+_refine_ls_R_factor_gt                   0.0675
+_refine_ls_wR_factor_gt                  0.0490
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 2 0 1 518.1 5
+ 0 2 0 527.8 5
+ 3 1 -1 659.4 10
+
+# End of data set 1707368
+
+

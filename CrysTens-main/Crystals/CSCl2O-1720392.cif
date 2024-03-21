@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# C-Cl-O-S         # CSCl2O                                        # 1720392 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1720392
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1720392
+
+# Entry summary
+
+_chemical_formula_structural             'C S Cl~2~ O'
+_chemical_formula_sum                    'C Cl2 O S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CSCl~2~O,mP20,14
+_chemical_formula_weight                 131.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural and vibrational properties of ClC(O)SY compounds with Y= Cl and CH~3~
+;
+_journal_coden_ASTM                      NJCHE5
+_journal_name_full                       'New J. Chem.'
+_journal_year                            2003
+_journal_volume                          27
+_journal_page_first                      514
+_journal_page_last                       519
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Romano R.M.'
+;
+La Plata National University
+Departamento de Quimica
+La Plata
+Argentina
+;
+'Della V\'edova C.O.'
+;
+La Plata National University
+Departamento de Quimica
+La Plata
+Argentina
+;
+'Downs A.J.'
+;
+Oxford University
+Department of Inorganic Chemistry
+Oxford
+United Kingdom
+;
+'Parsons S.'
+;
+Edinburgh University
+Department of Chemistry
+Edinburgh
+United Kingdom
+;
+'Smith C.'
+;
+Edinburgh University
+Department of Chemistry
+Edinburgh
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.034
+_cell_length_b                           10.311
+_cell_length_c                           7.226
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.72
+_cell_angle_gamma                        90
+_cell_volume                             443.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ O
+ S
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 4 e 0.0451 0.1528 0.2276 1
+ O1 O 4 e 0.0849 0.2607 0.1976 1
+ S1 S 4 e 0.1993 0.56244 0.3366 1
+ Cl1 Cl 4 e 0.2454 0.04418 0.3514 1
+ Cl2 Cl 4 e 0.5986 0.19427 0.0167 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.96
+_cell_measurement_temperature            130(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            28
+_diffrn_ambient_temperature              130(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI 4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2640
+_diffrn_reflns_theta_min                 3.43
+_diffrn_reflns_theta_max                 25.02
+_exptl_absorpt_coefficient_mu            1.744
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             46
+_refine_ls_number_reflns                 565
+_refine_ls_R_factor_gt                   0.0660
+_refine_ls_wR_factor_gt                  0.1650
+
+# End of data set 1720392
+
+

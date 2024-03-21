@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Ag-In-O-P        # Ag3In[PO4]2                                   # 1620441 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1620441
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1620441
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~3~ In [P O~4~]~2~'
+_chemical_formula_sum                    'Ag3 In O8 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~3~In[PO~4~]~2~,mS28,12
+_chemical_formula_weight                 628.4
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and crystal structure of three silver indium double phosphates'    
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2006
+_journal_volume                          179
+_journal_page_first                      3664
+_journal_page_last                       3671
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Strelkov M.A.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Zhizhin M.G.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Komissarova L.N.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.7037
+_cell_length_b                           5.4885
+_cell_length_c                           7.3404
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.897
+_cell_angle_gamma                        90
+_cell_volume                             349.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Ag
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.4457 0.2181 0.2927 1
+ O2 O 4 i 0.2367 0 0.4493 1
+ O1 O 4 i 0.2464 0 0.1073 1
+ P P 4 i 0.3415 0 0.292 1
+ Ag1 Ag 4 i 0.6723 0 0.1812 1
+ In In 2 c 0 0 0.5 1
+ Ag2 Ag 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.97
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1, Cu Ka2'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D500'
+_diffrn_radiation_type                   'X-rays, Cu Ka1, Cu Ka2'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 50
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                100
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             58
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0647
+_pd_proc_ls_proof_wR_factor              0.0854
+_refine_ls_R_I_factor                    0.1182
+
+# End of data set 1620441
+
+

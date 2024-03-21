@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Ba-H-N-O         # Ba[NO2]2[H2O]                                 # 1707168 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1707168
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1707168
+
+# Entry summary
+
+_chemical_formula_structural             'Ba [N O~2~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'Ba H2 N2 O5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba[NO~2~]~2~[H~2~O],hP48,169
+_chemical_formula_weight                 247.4
+
+# Bibliographic data
+
+_publ_section_title
+'Die Struktur von Bariumnitrit-Monohydrat Ba(NO~2~)~2~.H~2~O'                 
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1981
+_journal_volume                          155
+_journal_page_first                      75
+_journal_page_last                       79
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sch\"afer G.F.'
+;
+Saarbr\"ucken Saarland University
+Fachbereich Kristallographie
+Saarbr\"ucken
+Germany
+;
+'Fischer K.F.'
+;
+Saarbr\"ucken Saarland University
+Fachbereich Kristallographie
+Saarbr\"ucken
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.0833
+_cell_length_b                           7.0833
+_cell_length_c                           17.967
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             780.7
+_cell_formula_units_Z                    6
+_space_group_IT_number                   169
+_space_group_name_H-M_alt                'P 61'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -1/3+z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, 1/3+z'
+ 5 'x-y, x, 1/6+z'
+ 6 'y, -x+y, -1/6+z'
+loop_
+ _atom_type_symbol
+ OH2
+ O
+ N
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ H2O OH2 6 a 0.0766 0.2307 0.08397 1
+ O2A O 6 a 0.2449 0.1095 0.3886 1
+ N2 N 6 a 0.2469 0.0297 0.18853 1
+ Ba Ba 6 a 0.42458 0.57338 0.0 1
+ O2B O 6 a 0.4388 0.1038 0.21123 1
+ N1 N 6 a 0.5659 0.1162 0.00807 1
+ O1A O 6 a 0.5871 0.2896 0.03627 1
+ O1B O 6 a 0.6172 0.0146 0.05157 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.16
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Enraf-Nonius
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            7.98
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 780
+_refine_ls_R_factor_gt                   0.021
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1707168
+
+

@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Ba-O-V           # BaV6O11 lt                                    # 1125415 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1125415
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1125415
+
+# Entry summary
+
+_chemical_formula_structural             'Ba V~6~ O~11~'
+_chemical_formula_sum                    'Ba O11 V6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            NaV~6~O~11~,hP36,186
+_chemical_formula_weight                 619.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Characterization of the pressure-induced secondorder phase transition in the mixed-valence vanadate BaV~6~O~11~
+;
+_journal_coden_ASTM                      ASBSDK
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            2009
+_journal_volume                          65
+_journal_page_first                      326
+_journal_page_last                       333
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Friese K.'
+;
+Bilbao Pais Vasco University
+Departamento de Fisica de la Materia Condensada
+Bilbao
+Spain
+;
+'Kanke Y.'
+;
+National Institute for Materials Science (NIMS)
+Laboratory of Advanced Materials
+Tsukuba / Ibaraki
+Japan
+;
+'Grzechnik A.'
+;
+Bilbao Pais Vasco University
+Departamento de Fisica de la Materia Condensada
+Bilbao
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.754
+_cell_length_b                           5.754
+_cell_length_c                           13.182
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             378
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1a O 6 c 0.172 0.828 0.266 1
+ V1a V 6 c 0.4923 0.5077 0.3506 1
+ O1b O 6 c 0.828 0.172 0.4248 1
+ O2a O 6 c 0.8512 0.1488 0.0954 1
+ Baa Ba 2 b 0.333333 0.666667 0.0954 1
+ O3b O 2 b 0.333333 0.666667 0.4371 1
+ V3a V 2 b 0.333333 0.666667 0.6079 1
+ O3a O 2 b 0.333333 0.666667 0.7537 1
+ V2b V 2 a 0 0 0.0 1
+ V2a V 2 a 0 0 0.2079 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.44
+_cell_measurement_temperature            293
+_cell_measurement_pressure               3.98e+006
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_pressure                 3.98e+006
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1506
+_exptl_absorpt_coefficient_mu            12.28
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             17
+_refine_ls_number_reflns                 150
+_refine_ls_R_factor_gt                   0.032
+_refine_ls_wR_factor_gt                  0.028
+
+# End of data set 1125415
+
+

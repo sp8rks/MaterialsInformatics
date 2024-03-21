@@ -1,0 +1,130 @@
+##############################################################################
+#                                                                            #
+# Cu-Mn-O          # Cu2Mn3O8                                      #  377518 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_377518
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      377518
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ Mn~3~ O~8~'
+_chemical_formula_sum                    'Cu2 Mn3 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~Mn~3~O~8~,mS26,12
+_chemical_formula_weight                 419.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Un nouveau compos\'e ternaire oxyg\'en\'e du mangan\`ese t\'etravalent: Cu~2~Mn~3~O~8~
+;
+_journal_coden_ASTM                      CHDCAQ
+_journal_name_full                       'C. R. Seances Acad. Sci., Ser. C'
+_journal_year                            1973
+_journal_volume                          277
+_journal_page_first                      969
+_journal_page_last                       971
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lecerf A.'
+;
+Rennes National Institute of Applied Sciences
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.695
+_cell_length_b                           5.635
+_cell_length_c                           4.912
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.52
+_cell_angle_gamma                        90
+_cell_volume                             262.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Cu
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 j 0.3812 0.2272 0.1335 1
+ O2 O 4 i 0.1036 0 0.3887 1
+ Cu1 Cu 4 i 0.2197 0 0.0693 1
+ O3 O 4 i 0.6021 0 0.3634 1
+ Mn1 Mn 4 h 0 0.2411 0.5 1
+ Mn2 Mn 2 b 0 0.5 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.25
+_exptl_crystal_density_diffrn            5.30
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Fe Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 377518
+
+

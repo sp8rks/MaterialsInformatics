@@ -1,0 +1,220 @@
+##############################################################################
+#                                                                            #
+# Bi-Cs-Se         # Cs2Bi8Se13                                    # 1520085 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1520085
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1520085
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Bi~8~ Se~13~'
+_chemical_formula_sum                    'Bi8 Cs2 Se13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Rb~2~Bi~8~Se~13~,mP46,11
+_chemical_formula_weight                 2964.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+A~2~Bi~8~Se~13~ (A= Rb, Cs), CsBi~3.67~Se~6~, and BaBi~2~Se~4~: New Ternary Semiconducting Bismuth Selenides
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2001
+_journal_volume                          13
+_journal_page_first                      622
+_journal_page_last                       633
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Iordanidis L.'
+;
+Michigan East Lansing University
+Department of Chemistry and Center for Fundamental Materials Research
+East Lansing
+U.S.A. Michigan
+;
+'Ghelani N.A.'
+;
+Michigan East Lansing University
+Department of Electrical and Computer Engineering
+East Lansing
+U.S.A. Michigan
+;
+'Hogan T.P.'
+;
+Michigan East Lansing University
+Department of Electrical and Computer Engineering
+East Lansing
+U.S.A. Michigan
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry and Center for Fundamental Materials Research
+East Lansing
+U.S.A. Michigan
+;
+'Brazis P.W.'
+;
+Illinois Evanston Northwestern University
+Department of Electrical Engineering and Computer Science
+Evanston
+U.S.A. Illinois
+;
+'Kyratsi T.'
+;
+Michigan East Lansing University
+Department of Chemistry and Center for Fundamental Materials Research
+East Lansing
+U.S.A. Michigan
+;
+'Ireland J.R.'
+;
+Illinois Evanston Northwestern University
+Department of Electrical Engineering and Computer Science
+Evanston
+U.S.A. Illinois
+;
+'Lane M.'
+;
+Illinois Evanston Northwestern University
+Department of Electrical Engineering and Computer Science
+Evanston
+U.S.A. Illinois
+;
+'Kannewurf C.R.'
+;
+Illinois Evanston Northwestern University
+Department of Electrical Engineering and Computer Science
+Evanston
+U.S.A. Illinois
+;
+'Chen W.'
+;
+Michigan Ann Arbor University
+Department of Physics
+Ann Arbor
+U.S.A. Michigan
+;
+'Dyck J.S.'
+;
+Michigan Ann Arbor University
+Department of Physics
+Ann Arbor
+U.S.A. Michigan
+;
+'Uher C.'
+;
+Michigan Ann Arbor University
+Department of Physics
+Ann Arbor
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.704
+_cell_length_b                           4.1532
+_cell_length_c                           25.008
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.848
+_cell_angle_gamma                        90
+_cell_volume                             1413.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Se
+ Bi
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se3 Se 2 e 0.0269 0.25 0.1799 1
+ Se4 Se 2 e 0.0366 0.25 0.6833 1
+ Bi5 Bi 2 e 0.1178 0.25 0.8087 1
+ Bi2 Bi 2 e 0.1251 0.25 0.2868 1
+ Se6 Se 2 e 0.1885 0.25 0.4115 1
+ Se2 Se 2 e 0.1953 0.25 0.9154 1
+ Cs1 Cs 2 e 0.2739 0.25 0.1379 1
+ Bi3 Bi 2 e 0.2764 0.25 0.5329 1
+ Se9 Se 2 e 0.3245 0.25 0.6464 1
+ Se13 Se 2 e 0.39 0.25 0.0143 1
+ Bi4 Bi 2 e 0.4357 0.25 0.7673 1
+ Se11 Se 2 e 0.446 0.25 0.2604 1
+ Se12 Se 2 e 0.5111 0.25 0.8724 1
+ Bi8 Bi 2 e 0.5762 0.25 0.0637 1
+ Cs2 Cs 2 e 0.5824 0.25 0.6183 1
+ Se8 Se 2 e 0.5928 0.25 0.4767 1
+ Se10 Se 2 e 0.7394 0.25 0.2181 1
+ Se5 Se 2 e 0.7536 0.25 0.7369 1
+ Bi7 Bi 2 e 0.8085 0.25 0.3294 1
+ Se7 Se 2 e 0.8969 0.25 0.4509 1
+ Se1 Se 2 e 0.9007 0.25 0.9496 1
+ Bi1 Bi 2 e 0.9472 0.25 0.059 1
+ Bi6 Bi 2 e 0.9523 0.25 0.5706 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.97
+_cell_measurement_temperature            173.1
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            4524
+_diffrn_ambient_temperature              173.1
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    8004
+_diffrn_reflns_theta_min                 1.62
+_diffrn_reflns_theta_max                 25.99
+_exptl_absorpt_coefficient_mu            68.892
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             140
+_refine_ls_number_reflns                 3155
+_refine_ls_R_factor_gt                   0.0497
+_refine_ls_wR_factor_gt                  0.1123
+
+# End of data set 1520085
+
+

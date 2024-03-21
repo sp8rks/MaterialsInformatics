@@ -1,0 +1,216 @@
+##############################################################################
+#                                                                            #
+# Ba-S-Ta          # Ba3Ta2S8                                      #  540584 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_540584
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      540584
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Ta~2~ S~8~'
+_chemical_formula_sum                    'Ba3 S8 Ta2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~Ta~2~S~8~,mP39,10
+_chemical_formula_weight                 1030.4
+
+# Bibliographic data
+
+_publ_section_title
+'New barium tantalum sulphides. Part 2. Ba~3~Ta~2~S~8~'                       
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1989
+_journal_volume                          24
+_journal_page_first                      625
+_journal_page_last                       631
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Onoda M.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Saeki M.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.9571
+_cell_length_b                           6.8501
+_cell_length_c                           12.6156
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.94
+_cell_angle_gamma                        90
+_cell_volume                             977.4
+_cell_formula_units_Z                    3
+_space_group_IT_number                   10
+_space_group_name_H-M_alt                'P 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+loop_
+ _atom_type_symbol
+ S
+ Ba
+ Ta
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S(7) S 4 o 0.107 0.272 0.823 1
+ S(8) S 4 o 0.19 0.265 0.195 1
+ S(6) S 4 o 0.356 0.256 0.501 1
+ S(5) S 4 o 0.583 0.261 0.132 1
+ S(3) S 2 n 0.075 0.5 0.398 1
+ Ba(3) Ba 2 n 0.2203 0.5 0.6587 1
+ Ta(4) Ta 2 n 0.233 0.5 0.3233 1
+ Ba(5) Ba 2 n 0.3192 0.5 0.0397 1
+ S(1) S 2 n 0.446 0.5 0.296 1
+ Ba(4) Ba 2 m 0.0947 0 0.3608 1
+ S(2) S 2 m 0.176 0 0.633 1
+ S(4) S 2 m 0.32 0 0.052 1
+ Ba(2) Ba 2 m 0.4608 0 0.3107 1
+ Ta(3) Ta 2 m 0.7704 0 0.1723 1
+ Ta(2) Ta 1 h 0.5 0.5 0.5 1
+ Ta(1) Ta 1 d 0.5 0 0 1
+ Ba(1) Ba 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.21
+_exptl_crystal_density_diffrn            5.25
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'crystal chemical considerations'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0273
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0526
+_pd_proc_ls_proof_wR_factor              0.0700
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 113.2 10
+ 1 0 1 71.3 1
+ 0 1 0 68.6 1
+ 2 0 -1 61.7 28
+ 1 1 0 59.5 26
+ 0 0 2 56.5 22
+ 2 0 -2 49.9 5
+ 1 1 1 49.5 3
+ 2 1 -1 45.7 1
+ 2 1 0 44.9 2
+ 0 1 2 43.6 26
+ 3 0 -1 42.1 1
+ 1 0 -3 39.8 26
+ 2 1 1 38.7 21
+ 2 0 -3 37.7 10
+ 3 1 -1 35.7 12
+ 1 1 -3 34.3 56
+ 3 1 -2 33.9 100
+ 0 1 3 32.9 3
+ 1 2 1 30.9 2
+ 3 1 1 30.6 2
+ 2 2 -1 29.72 32
+ 0 2 2 29.28 1
+ 4 0 -3 28.27 8
+ 4 1 -2 28.03 15
+ 3 0 -4 27.67 17
+ 1 1 -4 27.3 19
+ 4 0 1 26.77 16
+ 3 1 2 26.3 36
+ 1 2 -3 25.96 84
+ 3 1 -4 25.66 3
+ 2 2 -3 25.36 5
+ 5 0 -2 25.05 15
+ 2 2 2 24.7 10
+ 1 1 4 24.06 9
+ 2 0 -5 23.88 13
+ 4 0 2 23.44 4
+ 3 0 3 23.15 1
+ 4 2 -2 22.91 3
+ 5 1 -3 22.63 8
+ 5 1 0 22.53 12
+ 3 1 -5 21.92 5
+ 0 2 4 21.81 21
+ 3 2 -4 21.52 1
+ 0 3 2 21.1 23
+ 4 1 -5 20.72 7
+ 6 0 -3 20.54 5
+ 5 2 -1 20.23 4
+ 6 1 -2 20.09 9
+ 2 0 -6 19.89 22
+ 3 3 -2 19.71 24
+ 2 2 -5 19.59 9
+ 6 0 -4 19.52 12
+ 4 2 2 19.34 8
+ 5 1 -5 19.17 1
+ 4 0 -6 18.92 11
+ 1 3 3 18.78 7
+ 2 1 5 18.48 3
+ 1 3 -4 18.12 5
+ 3 3 2 17.82 9
+ 1 0 6 17.75 5
+ 6 2 -3 17.63 1
+ 4 2 3 17.52 1
+ 4 1 4 17.13 48
+ 6 2 -4 16.96 27
+ 3 1 5 16.86 6
+
+# End of data set 540584
+
+

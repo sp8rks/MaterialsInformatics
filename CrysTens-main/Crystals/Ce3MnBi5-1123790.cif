@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Bi-Ce-Mn         # Ce3MnBi5                                      # 1123790 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1123790
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1123790
+
+# Entry summary
+
+_chemical_formula_structural             'Ce~3~ Mn Bi~5~'
+_chemical_formula_sum                    'Bi5 Ce3 Mn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuHf~5~Sn~3~,hP18,193
+_chemical_formula_weight                 1520.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ternary rare-earth manganese bismuthides: structures and physical properties of RE~3~MnBi~5~ (RE= La-Nd) and Sm~2~Mn~3~Bi~6~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2008
+_journal_volume                          47
+_journal_page_first                      297
+_journal_page_last                       305
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zelinska O.Y.'
+;
+Lviv Ivan Franko National University
+Department of Inorganic Chemistry
+Lviv
+Ukraine
+;
+'Mar A.'
+;
+Edmonton Alberta University
+Department of Chemistry
+Edmonton
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.6229
+_cell_length_b                           9.6229
+_cell_length_c                           6.442
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             516.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   193
+_space_group_name_H-M_alt                'P 63/m c m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, 1/2+z'
+ 6 '-x, -x+y, 1/2-z'
+ 7 '-x, -x+y, z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, -z'
+ 11 '-y, -x, 1/2+z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, -z'
+ 15 'x, x-y, 1/2+z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, 1/2-z'
+ 18 'x-y, -y, z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, 1/2-z'
+ 24 'y, x, z'
+loop_
+ _atom_type_symbol
+ Bi
+ Ce
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Bi1 Bi 6 g 0.25956 0 0.25 1
+ Ce Ce 6 g 0.6189 0 0.25 1
+ Bi2 Bi 4 d 0.333333 0.666667 0 1
+ Mn Mn 2 b 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.77
+_cell_measurement_temperature            193
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              193
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3764
+_diffrn_reflns_theta_min                 2.44
+_diffrn_reflns_theta_max                 26.34
+_exptl_absorpt_coefficient_mu            98.84
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             14
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.014
+_refine_ls_wR_factor_gt                  0.033
+
+# End of data set 1123790
+
+

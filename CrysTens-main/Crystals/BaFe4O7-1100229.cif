@@ -1,0 +1,173 @@
+##############################################################################
+#                                                                            #
+# Ba-Fe-O          # BaFe4O7                                       # 1100229 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1100229
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1100229
+
+# Entry summary
+
+_chemical_formula_structural             'Ba Fe~4~ O~7~'
+_chemical_formula_sum                    'Ba Fe4 O7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            BaFe~4~O~7~,hP24,176
+_chemical_formula_weight                 472.7
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of Barium Diferrite'                                   
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1973
+_journal_volume                          29
+_journal_page_first                      832
+_journal_page_last                       838
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Okamoto S.I.'
+;
+National Institute of Physical and Chemical Research (RIKEN)
+Wako / Saitama
+Japan
+;
+'Okamoto S.I.'
+;
+National Institute of Physical and Chemical Research (RIKEN)
+Wako / Saitama
+Japan
+;
+'Ito T.'
+;
+National Institute of Physical and Chemical Research (RIKEN)
+Wako / Saitama
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.16
+_cell_length_b                           5.16
+_cell_length_c                           13.811
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             318.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   176
+_space_group_name_H-M_alt                'P 63/m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, x, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, -z'
+ 12 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Fe
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 12 i 0.3435 0.0058 0.079 1
+ Fe2 Fe 4 f 0.333333 0.666667 0.0089 1
+ Fe1 Fe 4 e 0 0 0.1149 1
+ Ba Ba 2 d 0.666667 0.333333 0.25 1
+ O1 O 2 a 0 0 0.25 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              4.93
+_exptl_crystal_density_diffrn            4.93
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Co Ka'
+_cell_measurement_wavelength             1.7902
+_pd_proc_wavelength                      1.7902
+_cell_measurement_reflns_used            8
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 111
+_refine_ls_R_factor_gt                   0.08
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 69 45
+ 1 0 1 42.6 60
+ 0 0 4 34.6 70
+ 1 0 3 32.1 60
+ 1 0 4 27.3 95
+ 1 1 0 25.8 35
+ 1 0 5 23.5 20
+ 0 0 6 23.03 100
+ 1 1 3 22.52 8
+ 2 0 1 22.07 8
+ 1 1 4 20.69 20
+ 2 0 3 20.12 8
+ 2 0 4 18.77 25
+ 1 0 7 18.06 40
+ 0 0 8 17.27 65
+ 2 1 1 16.77 6
+ 2 1 3 15.87 8
+ 2 1 4 15.18 12
+ 3 0 0 14.91 8
+ 2 0 7 14.8 8
+ 1 0 9 14.53 8
+ 1 1 8 14.35 40
+
+# End of data set 1100229
+
+

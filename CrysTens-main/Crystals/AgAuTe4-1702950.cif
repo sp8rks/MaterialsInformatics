@@ -1,0 +1,124 @@
+##############################################################################
+#                                                                            #
+# Ag-Au-Te         # AgAuTe4                                       # 1702950 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702950
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702950
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Au Te~4~'
+_chemical_formula_sum                    'Ag Au Te4'
+_chemical_name_mineral                   sylvanite
+_chemical_compound_source                'Romania, Baia de Aries'
+_chemical_name_structure_type            AgAuTe~4~,mP12,13
+_chemical_formula_weight                 815.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Kristallchemie nat\"urlicher Telluride I: Verfeinerung der Kristallstruktur des Sylvanits, AuAgTe~4~
+;
+_journal_coden_ASTM                      TTMMDZ
+_journal_name_full
+'TMPM, Tschermaks Mineral. Petrogr. Mitt.'                                    
+_journal_year                            1984
+_journal_volume                          33
+_journal_page_first                      203
+_journal_page_last                       212
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pertlik F.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.8636
+_cell_length_b                           4.478
+_cell_length_c                           10.1778
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.444
+_cell_angle_gamma                        90
+_cell_volume                             333.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Te
+ Ag
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te2 Te 4 g 0.1911 0.4045 0.4545 1
+ Te1 Te 4 g 0.2986 0.0278 0.2989 1
+ Ag Ag 2 f 0.5 0.4818 0.25 1
+ Au Au 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              8.1
+_exptl_crystal_density_diffrn            8.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI 2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            42.2
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 886
+_refine_ls_R_factor_gt                   0.072
+_refine_ls_wR_factor_gt                  0.060
+
+# End of data set 1702950
+
+

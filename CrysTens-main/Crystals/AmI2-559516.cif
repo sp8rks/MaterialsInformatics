@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Am-I             # AmI2                                          #  559516 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_559516
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      559516
+
+# Entry summary
+
+_chemical_formula_structural             'Am I~2~'
+_chemical_formula_sum                    'Am I2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            EuI~2~,mP12,14
+_chemical_formula_weight                 496.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Divalent americium: The crystal structure and magnetic susceptibility of AmI~2~
+;
+_journal_coden_ASTM                      JINCAO
+_journal_name_full                       'J. Inorg. Nucl. Chem.'
+_journal_year                            1972
+_journal_volume                          34
+_journal_page_first                      3427
+_journal_page_last                       3431
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Baybarz R.D.'
+;
+Oak Ridge National Laboratory
+Oak Ridge
+U.S.A. Tennessee
+;
+'Asprey L.B.'
+;
+Los Alamos National Laboratory
+Los Alamos
+U.S.A. New Mexico
+;
+'Strouse C.E.'
+;
+Los Alamos National Laboratory
+Los Alamos
+U.S.A. New Mexico
+;
+'Fukushima E.'
+;
+Los Alamos National Laboratory
+Los Alamos
+U.S.A. New Mexico
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.677
+_cell_length_b                           8.311
+_cell_length_c                           7.925
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.46
+_cell_angle_gamma                        90
+_cell_volume                             500.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ I
+ Am
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I1 I 4 e 0.09907 0.39067 0.28423 1
+ Am1 Am 4 e 0.28625 0.05272 0.19479 1
+ I2 I 4 e 0.57653 0.26998 0.00487 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54178
+_pd_proc_wavelength                      1.54178
+_cell_measurement_reflns_used            57
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Debye-Scherrer film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 559516
+
+

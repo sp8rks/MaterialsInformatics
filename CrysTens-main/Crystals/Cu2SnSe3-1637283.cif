@@ -1,0 +1,176 @@
+##############################################################################
+#                                                                            #
+# Cu-Se-Sn         # Cu2SnSe3 mon3                                 # 1637283 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1637283
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1637283
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ Sn Se~3~'
+_chemical_formula_sum                    'Cu2 Se3 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~SnSe~3~,mS48,9
+_chemical_formula_weight                 482.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+New monoclinic phase at the composition Cu~2~SnSe~3~ and its thermoelectric properties
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2013
+_journal_volume                          52
+_journal_page_first                      11067
+_journal_page_last                       11074
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fan J.'
+;
+Max Planck Society
+MPI f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Carrillo Cabrera W.'
+;
+Max Planck Society
+MPI f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Akselrud L.G.'
+;
+Max Planck Society
+MPI f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Antonyshyn I.'
+;
+Max Planck Society
+MPI f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Chen L.'
+;
+Chinese Academy of Sciences
+Shanghai Institute of Ceramics
+Shanghai
+China
+;
+'Grin Y.'
+;
+Max Planck Society
+MPI f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.9714
+_cell_length_b                           12.0787
+_cell_length_c                           13.3935
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.865
+_cell_angle_gamma                        90
+_cell_volume                             1111.1
+_cell_formula_units_Z                    8
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Cu
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se5 Se 4 a 0.0 0.4073 0.0 1
+ Se6 Se 4 a 0.0211 0.079 0.0001 1
+ Cu2 Cu 4 a 0.1857 0.248 0.0622 1
+ Cu1 Cu 4 a 0.1927 0.0824 0.5675 1
+ Sn2 Sn 4 a 0.1932 0.5796 0.0622 1
+ Se1 Se 4 a 0.2396 0.0817 0.7503 1
+ Se2 Se 4 a 0.2445 0.5745 0.2575 1
+ Se4 Se 4 a 0.2654 0.2439 0.2508 1
+ Cu3 Cu 4 a 0.4317 0.0818 0.3139 1
+ Cu4 Cu 4 a 0.4414 0.4136 0.3129 1
+ Sn1 Sn 4 a 0.445 0.75 0.308 1
+ Se3 Se 4 a 0.4965 0.2541 0.0033 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.77
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.43046
+_pd_proc_wavelength                      0.43046
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, European Synchrotron Radiation Facility ESRF, ID31'        
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.43046
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 0.5
+_diffrn_reflns_theta_max                 22
+_pd_proc_2theta_range_min                1
+_pd_proc_2theta_range_max                44
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.103
+_pd_proc_ls_proof_wR_factor              0.156
+_refine_ls_R_I_factor                    0.060
+
+# End of data set 1637283
+
+

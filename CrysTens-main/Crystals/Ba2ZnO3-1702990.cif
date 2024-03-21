@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Ba-O-Zn          # Ba2ZnO3                                       # 1702990 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702990
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702990
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Zn O~3~'
+_chemical_formula_sum                    'Ba2 O3 Zn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~ZnO~3~,mS48,15
+_chemical_formula_weight                 388.0
+
+# Bibliographic data
+
+_publ_section_title
+'Zur Kristallstruktur von Ba~2~ZnO~3~'                                        
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1992
+_journal_volume                          612
+_journal_page_first                      17
+_journal_page_last                       20
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Scheikowski M.'
+;
+Kiel Christian Albrecht University
+Institut f\"ur Anorganische Chemie
+Kiel
+Germany
+;
+'M\"uller Buschbaum H.K.'
+;
+Kiel Christian Albrecht University
+Institut f\"ur Anorganische Chemie
+Kiel
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.833
+_cell_length_b                           11.376
+_cell_length_c                           12.585
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.63
+_cell_angle_gamma                        90
+_cell_volume                             833.4
+_cell_formula_units_Z                    8
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ba
+ Zn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 8 f 0.226 0.103 0.534 1
+ Ba2 Ba 8 f 0.232 0.2054 0.3475 1
+ Ba1 Ba 8 f 0.2577 0.3955 0.0747 1
+ Zn Zn 8 f 0.2709 0.0014 0.1646 1
+ O1 O 8 f 0.322 0.175 0.135 1
+ O3 O 4 e 0 0.004 0.25 1
+ O2 O 4 e 0 0.409 0.25 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.19
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1389
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             25
+_refine_ls_number_reflns                 451
+_refine_ls_R_factor_gt                   0.047
+_refine_ls_wR_factor_gt                  0.039
+
+# End of data set 1702990
+
+

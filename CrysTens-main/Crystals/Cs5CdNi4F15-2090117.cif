@@ -1,0 +1,208 @@
+##############################################################################
+#                                                                            #
+# Cd-Cs-F-Ni       # Cs5CdNi4F15 ht                                # 2090117 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2090117
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2090117
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~5~ Cd Ni~4~ F~15~'
+_chemical_formula_sum                    'Cd Cs5 F15 Ni4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Cs~5~Cd(Cd~0.12~Ni~0.88~)~2~Ni~2~F~15~,hP50,194                               
+_chemical_formula_weight                 1296.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of the high temperature form of Cs~4~Ni~3~CdF~12~: A new 10H hexagonal perovskite type
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1984
+_journal_volume                          508
+_journal_page_first                      93
+_journal_page_last                       99
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Dance J.M.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Darriet J.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Tressaud A.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Hagenmuller P.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.2145
+_cell_length_b                           6.2145
+_cell_length_c                           25.215
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             843.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ F
+ Ni
+ Cs
+ Cd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 12 k 0.1728 0.3456 0.0497 1
+ F2 F 12 k 0.5256 0.0512 0.6469 1
+ F3 F 6 h 0.1931 0.3862 0.25 1
+ Ni1 Ni 4 f 0.333333 0.666667 0.08987 1
+ Ni2 Ni 4 f 0.333333 0.666667 0.1973 1
+ Cs1 Cs 4 f 0.333333 0.666667 0.5581 1
+ Cs2 Cs 4 e 0 0 0.15556 1
+ Cs3 Cs 2 d 0.333333 0.666667 0.75 1
+ Cd1 Cd 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.11
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 127 10
+ 1 0 4 41.03 5
+ 1 0 5 36.85 35
+ 1 0 6 33.12 70
+ 1 1 0 31.04 100
+ 1 0 8 27.25 10
+ 0 0 10 25.22 65
+ 1 0 9 24.84 6
+ 2 0 4 24.77 7
+ 0 2 5 23.75 30
+ 0 2 6 22.67 40
+ 1 0 11 21.09 20
+ 0 0 12 21.04 20
+ 0 2 8 20.48 5
+ 1 0 12 19.58 5
+ 0 2 9 19.42 15
+ 2 1 5 18.87 5
+ 2 1 6 18.31 20
+ 3 0 0 17.94 15
+ 2 0 11 17.45 15
+ 2 1 9 16.44 5
+ 3 0 7 16.05 5
+ 0 0 16 15.77 1
+ 2 2 0 15.33 15
+ 2 1 11 15.22 5
+ 2 0 14 14.98 5
+
+# End of data set 2090117
+
+

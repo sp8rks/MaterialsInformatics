@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Au-Cs-Se         # Cs2Au2Se3                                     # 1414857 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1414857
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1414857
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Au~2~ Se~3~'
+_chemical_formula_sum                    'Au2 Cs2 Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~Au~2~Se~3~,mS28,15
+_chemical_formula_weight                 896.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Polychalcogenoaurates(I) with pseudo-onedimensional structures: Preparation and crystal structure of Cs~2~Au~2~Se~3~
+;
+_journal_coden_ASTM                      EJSCE5
+_journal_name_full                       'Eur. J. Solid State Inorg. Chem.'
+_journal_year                            1998
+_journal_volume                          35
+_journal_page_first                      101
+_journal_page_last                       110
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Klepp K.O.'
+;
+Linz Johannes Kepler University
+Abteilung f\"ur Anorganische Chemie
+Linz
+Austria
+;
+'Weithaler C.'
+;
+Linz Johannes Kepler University
+Abteilung f\"ur Anorganische Chemie
+Linz
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.769
+_cell_length_b                           13.44
+_cell_length_c                           7.178
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.69
+_cell_angle_gamma                        90
+_cell_volume                             942.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Au
+ Cs
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Au Au 8 f 0.0639 0.20925 0.4563 1
+ Cs Cs 8 f 0.2355 0.395 0.1384 1
+ Se2 Se 8 f 0.3917 0.1557 0.3319 1
+ Se1 Se 4 e 0 0.076 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.32
+_cell_measurement_temperature            294
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              294
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1235
+_exptl_absorpt_coefficient_mu            50.008
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             34
+_refine_ls_number_reflns                 674
+_refine_ls_R_factor_gt                   0.042
+_refine_ls_wR_factor_gt                  0.039
+
+# End of data set 1414857
+
+

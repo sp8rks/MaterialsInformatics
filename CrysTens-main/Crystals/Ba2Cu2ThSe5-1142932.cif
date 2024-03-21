@@ -1,0 +1,123 @@
+##############################################################################
+#                                                                            #
+# Ba-Cu-Se-Th      # Ba2Cu2ThSe5                                   # 1142932 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1142932
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1142932
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Cu~2~ Th Se~5~'
+_chemical_formula_sum                    'Ba2 Cu2 Se5 Th'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~Cu~2~US~5~,mS20,12
+_chemical_formula_weight                 1028.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Four new actinide chalcogenides Ba~2~Cu~4~USe~6~, Ba~2~Cu~2~ThSe~5~, Ba~2~Cu~2~USe~5~, and Sr~2~Cu~2~US~5~: Crystal structures and physical properties
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2015
+_journal_volume                          54
+_journal_page_first                      9138
+_journal_page_last                       9145
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.0702
+_cell_length_b                           4.2692
+_cell_length_c                           9.7338
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.891
+_cell_angle_gamma                        90
+_cell_volume                             526
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Se
+ Ba
+ Cu
+ Th
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 i 0.15196 0 0.31633 1
+ Ba1 Ba 4 i 0.17452 0 0.69379 1
+ Se2 Se 4 i 0.37978 0 0.06277 1
+ Cu1 Cu 4 i 0.55391 0 0.2938 1
+ Se3 Se 2 d 0 0.5 0.5 1
+ Th1 Th 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.49
+_cell_measurement_temperature            100(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              100(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS KAPPA APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4873
+_diffrn_reflns_theta_min                 4.35
+_diffrn_reflns_theta_max                 30.04
+_exptl_absorpt_coefficient_mu            42.665
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             33
+_refine_ls_number_reflns                 824
+_refine_ls_R_factor_gt                   0.0247
+_refine_ls_wR_factor_gt                  0.0857
+
+# End of data set 1142932
+
+

@@ -1,0 +1,131 @@
+##############################################################################
+#                                                                            #
+# Am-Cl-H-O        # AmCl3[H2O]6                                   # 1904308 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904308
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904308
+
+# Entry summary
+
+_chemical_formula_structural             'Am Cl~3~ [H~2~ O]~6~'
+_chemical_formula_sum                    'Am Cl3 H12 O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            GdCl~3~[H~2~O]~6~,mP20,13
+_chemical_formula_weight                 457.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structures of americium trichloride hexahydrate and berkelium trichloride hexahydrate
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1971
+_journal_volume                          10
+_journal_page_first                      147
+_journal_page_last                       151
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Aoyama T.'
+;
+Oak Ridge National Laboratory
+Transuranium Research Laboratory
+Oak Ridge
+U.S.A. Tennessee
+;
+'Ohba S.'
+;
+Oak Ridge National Laboratory
+Transuranium Research Laboratory
+Oak Ridge
+U.S.A. Tennessee
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.009
+_cell_length_b                           6.567
+_cell_length_c                           12.1844
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.376
+_cell_angle_gamma                        90
+_cell_volume                             509.26
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ Cl
+ Am
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 OH2 4 g 0.1623 0.3002 0.0579 1
+ O1 OH2 4 g 0.2348 0.0445 0.2816 1
+ Cl2 Cl 4 g 0.2978 0.1685 0.5567 1
+ O2 OH2 4 g 0.5608 0.4265 0.1462 1
+ Am Am 2 f 0.5 0.147 0.25 1
+ Cl1 Cl 2 e 0 0.6211 0.25 1
+
+
+_exptl_crystal_colour                    'rose yellow'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.98
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Picker
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            10.38
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             46
+_refine_ls_number_reflns                 1468
+_refine_ls_R_factor_gt                   0.039
+_refine_ls_wR_factor_gt                  0.096
+
+# End of data set 1904308
+
+

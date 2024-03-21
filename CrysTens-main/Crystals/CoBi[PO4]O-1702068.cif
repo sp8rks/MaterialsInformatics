@@ -1,0 +1,190 @@
+##############################################################################
+#                                                                            #
+# Bi-Co-O-P        # CoBi[PO4]O                                    # 1702068 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702068
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702068
+
+# Entry summary
+
+_chemical_formula_structural             'Co Bi [P O~4~] O'
+_chemical_formula_sum                    'Bi Co O5 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            NiBi[PO~4~]O,mP32,14
+_chemical_formula_weight                 378.9
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal Structure and Physical Properties of BiCoPO~5~'                      
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1999
+_journal_volume                          148
+_journal_page_first                      295
+_journal_page_last                       301
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nadir S.'
+;
+Texas Austin University
+Texas Materials Institute
+Austin
+U.S.A. Texas
+;
+'Swinnea J.S.'
+;
+Texas Austin University
+Texas Materials Institute
+Austin
+U.S.A. Texas
+;
+'Steinfink H.'
+;
+Texas Austin University
+Texas Materials Institute
+Austin
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.217
+_cell_length_b                           11.27
+_cell_length_c                           7.5146
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.526
+_cell_angle_gamma                        90
+_cell_volume                             405.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Co
+ O
+ P
+ Bi
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Co Co 4 e 0.0585 0.5838 0.1868 1
+ O2 O 4 e 0.1746 0.2244 0.4882 1
+ O1 O 4 e 0.215 0.0814 0.1627 1
+ O3 O 4 e 0.2216 0.4188 0.3311 1
+ O4 O 4 e 0.263 0.5229 0.0177 1
+ P P 4 e 0.3052 0.1515 0.021 1
+ Bi Bi 4 e 0.5773 0.4019 0.1904 1
+ O5 O 4 e 0.6272 0.1724 0.1094 1
+
+
+_exptl_crystal_colour                    'violet light'
+_exptl_crystal_density_meas              6.309(1)
+_exptl_crystal_density_diffrn            6.21
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2350
+_diffrn_reflns_theta_min                 3.47
+_diffrn_reflns_theta_max                 29.95
+_exptl_absorpt_coefficient_mu            47.773
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             49
+_refine_ls_number_reflns                 1179
+_refine_ls_R_factor_gt                   0.0250
+_refine_ls_wR_factor_gt                  0.0593
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 152.06 5.2
+ 0 2 0 158.51 11.8
+ -1 0 1 186.62 19.6
+ 0 1 1 196.69 8.9
+ 1 2 0 204.76 29.5
+ -1 2 1 240 32.4
+ 2 0 0 245.23 1.3
+ 1 1 1 259.42 12.3
+ 1 3 0 264.41 59.0
+ -1 3 1 301.3 14.9
+ 2 2 0 303.38 27.0
+ -2 2 0 305.02 12.5
+ -2 2 1 311.37 100
+ 0 4 0 318.38 28.2
+ 1 4 0 344.63 24.4
+ 1 3 1 348.58 45.3
+ -1 1 2 354.37 44.3
+ 0 4 1 367.38 18.0
+ 2 1 1 369.78 37.2
+ 0 1 2 371.21 29.5
+ -3 0 1 378.42 10.0
+ -2 1 2 385.27 7.8
+ 3 1 0 401.38 26.7
+ 2 4 0 414.43 27.5
+ -2 4 1 419.39 35.6
+ 1 5 0 422.04 7.7
+ 3 2 0 425.43 6.2
+ 1 1 2 431.38 64.7
+ 2 3 1 433.65 2.2
+ 0 3 2 437.39 26.3
+ 0 5 1 441.76 18.5
+ -2 3 2 449.76 14.6
+ -3 1 2 456.16 5.9
+ 3 3 0 463.42 5.8
+ -3 2 2 477.98 8.7
+ 0 6 0 484.8 26.1
+ 3 1 1 492.22 6.7
+ -2 4 2 500.59 10.4
+
+# End of data set 1702068
+
+

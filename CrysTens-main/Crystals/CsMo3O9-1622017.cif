@@ -1,0 +1,133 @@
+##############################################################################
+#                                                                            #
+# Cs-Mo-O          # CsMo3O9                                       # 1622017 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1622017
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1622017
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Mo~3~ O~9~'
+_chemical_formula_sum                    'Cs Mo3 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsMo~3~O~9~,mP26,11
+_chemical_formula_weight                 564.7
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of the Molybdenum Bronze Cs~x~MoO~3~ (x \\simeq 0.25)' 
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1970
+_journal_volume                          2
+_journal_page_first                      16
+_journal_page_last                       23
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mumme W.G.'
+;
+Commonwealth Scientific and Industrial Research Organization (CSIRO)
+Division of Mineral Chemistry
+Melbourne
+Australia
+;
+'Watts J.A.'
+;
+Commonwealth Scientific and Industrial Research Organization (CSIRO)
+Division of Mineral Chemistry
+Melbourne
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.425
+_cell_length_b                           7.543
+_cell_length_c                           8.169
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.5
+_cell_angle_gamma                        90
+_cell_volume                             393.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 O 4 f 0.2218 0.0397 0.3032 1
+ Mo2 Mo 4 f 0.2715 0.0047 0.106 1
+ O6 O 4 f 0.603 0.5085 0.1458 1
+ O5 O 2 e 0.0942 0.25 0.7214 1
+ O2 O 2 e 0.2991 0.25 0.0405 1
+ Mo1 Mo 2 e 0.3482 0.25 0.7753 1
+ O4 O 2 e 0.4635 0.25 0.5958 1
+ O3 O 2 e 0.6957 0.25 0.9073 1
+ Cs Cs 2 e 0.8215 0.25 0.3887 1
+ O1 O 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'red coppery'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.77
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               photographs
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            67.5
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.125
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1622017
+
+

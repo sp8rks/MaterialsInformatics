@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# Ce-Cs-O-P        # CsCeP4O12                                     # 1628029 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1628029
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1628029
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Ce P~4~ O~12~'
+_chemical_formula_sum                    'Ce Cs O12 P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsNdP~4~O~12~,mP36,4
+_chemical_formula_weight                 588.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses and Structures of Alkali Metal Rare Earth Polyphosphates CsLn(PO~3~)~4~ (Ln= La, Ce)
+;
+_journal_coden_ASTM                      JHUADF
+_journal_name_full                       'Jiegou Huaxue'
+_journal_year                            2008
+_journal_volume                          27
+_journal_page_first                      471
+_journal_page_last                       476
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhu J.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Cheng W.D.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhang H.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Wu D.S.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhao D.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.197
+_cell_length_b                           9.234
+_cell_length_c                           8.85
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.521
+_cell_angle_gamma                        90
+_cell_volume                             580
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Cs
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O10 O 2 a 0.0066 0.5659 0.8186 1
+ O12 O 2 a 0.039 0.5891 0.4904 1
+ P4 P 2 a 0.14587 0.15998 0.54299 1
+ O4 O 2 a 0.1614 0.2933 0.6353 1
+ Cs Cs 2 a 0.17293 0.69959 0.17482 1
+ P1 P 2 a 0.19267 0.11022 0.22702 1
+ O3 O 2 a 0.2207 0.1938 0.3867 1
+ O8 O 2 a 0.2293 0.2392 0.1149 1
+ O1 O 2 a 0.2891 0.0482 0.6332 1
+ O9 O 2 a 0.343 0.0 0.2324 1
+ O6 O 2 a 0.3586 0.3842 0.9243 1
+ P3 P 2 a 0.41743 0.3114 0.07244 1
+ O7 O 2 a 0.4227 0.4814 0.4678 1
+ O5 O 2 a 0.4597 0.4349 0.2002 1
+ P2 P 2 a 0.5599 0.42623 0.3758 1
+ O11 O 2 a 0.5748 0.2046 0.0906 1
+ O2 O 2 a 0.6486 0.2827 0.4069 1
+ Ce Ce 2 a 0.70167 0.03434 0.30275 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.37
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1802
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Mercury'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4348
+_diffrn_reflns_theta_min                 2.33
+_diffrn_reflns_theta_max                 27.48
+_exptl_absorpt_coefficient_mu            7.624
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             164
+_refine_ls_number_reflns                 2534
+_refine_ls_R_factor_gt                   0.0174
+_refine_ls_wR_factor_gt                  0.0394
+
+# End of data set 1628029
+
+

@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-Hg         # CsHgCl3 lt                                    # 1219447 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1219447
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1219447
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Hg Cl~3~'
+_chemical_formula_sum                    'Cl3 Cs Hg'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsHgCl~3~,mP40,14
+_chemical_formula_weight                 439.9
+
+# Bibliographic data
+
+_publ_section_title
+'On the nature of complex formation in some inorganic halides'                
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1993
+_journal_volume                          38
+_journal_page_first                      1402
+_journal_page_last                       1408
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pakhomov V.I.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Goryunov A.V.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.287
+_cell_length_b                           15.222
+_cell_length_c                           10.7473
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.014
+_cell_angle_gamma                        90
+_cell_volume                             1244.3
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cs
+ Cl
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs3 Cs 4 e 0.005 0.258 0.259 1
+ Cl1 Cl 4 e 0.031 0.011 0.241 1
+ Cl4 Cl 4 e 0.226 0.111 0.127 1
+ Cl2 Cl 4 e 0.235 0.612 0.116 1
+ Cl5 Cl 4 e 0.289 0.363 0.146 1
+ Hg3 Hg 4 e 0.495 0.2564 0.251 1
+ Cl6 Cl 4 e 0.526 0.249 0.037 1
+ Cl3 Cl 4 e 0.706 0.39 0.353 1
+ Cs2 Cs 2 d 0.5 0 0.5 1
+ Hg1 Hg 2 c 0 0 0.5 1
+ Cs1 Cs 2 b 0.5 0 0 1
+ Hg2 Hg 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.70
+_cell_measurement_temperature            150
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              150
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    562
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 480
+_refine_ls_R_factor_gt                   0.0405
+_refine_ls_wR_factor_gt                  0.0389
+
+# End of data set 1219447
+
+

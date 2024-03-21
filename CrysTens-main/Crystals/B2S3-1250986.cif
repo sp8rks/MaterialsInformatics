@@ -1,0 +1,132 @@
+##############################################################################
+#                                                                            #
+# B-S              # B2S3                                          # 1250986 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1250986
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1250986
+
+# Entry summary
+
+_chemical_formula_structural             'B~2~ S~3~'
+_chemical_formula_sum                    'B2 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            B~2~S~3~,mP40,14
+_chemical_formula_weight                 117.8
+
+# Bibliographic data
+
+_publ_section_title
+'Kristallstruktur von B~2~S~3~: B~2~S~2~-Vierringe neben B~3~S~3~-Sechsringen'
+_journal_coden_ASTM                      ANCEAD
+_journal_name_full                       'Angew. Chem.'
+_journal_year                            1977
+_journal_volume                          89
+_journal_page_first                      327
+_journal_page_last                       328
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Diercks H.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Krebs B.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.039
+_cell_length_b                           10.722
+_cell_length_c                           18.62
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.23
+_cell_angle_gamma                        90
+_cell_volume                             801.6
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ B
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 4 e 0.009 0.5501 0.2435 1
+ B2 B 4 e 0.035 0.2169 0.2406 1
+ S1 S 4 e 0.067 0.7929 0.1763 1
+ B1 B 4 e 0.086 0.5361 0.6798 1
+ S3 S 4 e 0.187 0.295 0.1656 1
+ S4 S 4 e 0.194 0.0168 0.0951 1
+ B3 B 4 e 0.241 0.1858 0.0960 1
+ S5 S 4 e 0.392 0.2339 0.0113 1
+ S6 S 4 e 0.417 0.5278 0.0709 1
+ B4 B 4 e 0.455 0.3995 0.0098 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              1.93(3)
+_exptl_crystal_density_diffrn            1.95
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.057
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1250986
+
+

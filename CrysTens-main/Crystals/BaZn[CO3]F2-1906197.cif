@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# Ba-C-F-O-Zn      # BaZn[CO3]F2                                   # 1906197 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1906197
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1906197
+
+# Entry summary
+
+_chemical_formula_structural             'Ba Zn [C O~3~] F~2~'
+_chemical_formula_sum                    'Ba C F2 O3 Zn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            BaGa[BO~3~]F~2~,hP16,176
+_chemical_formula_weight                 300.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and crystal structure of BaZn(CO~3~)F~2~; revision of the structure of BaMn(CO~3~)F~2~
+;
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2002
+_journal_volume                          4
+_journal_page_first                      891
+_journal_page_last                       894
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ben Ali A.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+'Maisonneuve V.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+'Smiri L.S.'
+;
+Zarzouna Faculty of Sciences
+Laboratoire de Chimie Inorganique et Structurale
+Zarzouna
+Tunisia
+;
+'Leblanc M.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.8523
+_cell_length_b                           4.8523
+_cell_length_c                           9.854
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             200.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   176
+_space_group_name_H-M_alt                'P 63/m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, x, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, -z'
+ 12 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ F
+ C
+ Zn
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O O 6 h 0.3759 0.1048 0.25 1
+ F F 4 f 0.333333 0.666667 0.0472 1
+ C C 2 d 0.666667 0.333333 0.25 1
+ Zn Zn 2 c 0.333333 0.666667 0.25 1
+ Ba Ba 2 b 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.97
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    434
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            15.65
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             17
+_refine_ls_number_reflns                 193
+_refine_ls_R_factor_gt                   0.016
+_refine_ls_wR_factor_gt                  0.039
+
+# End of data set 1906197
+
+

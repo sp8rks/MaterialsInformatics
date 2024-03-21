@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Ce-S-Yb          # CeYb3S6                                       #  460474 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_460474
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      460474
+
+# Entry summary
+
+_chemical_formula_structural             'Ce Yb~3~ S~6~'
+_chemical_formula_sum                    'Ce S6 Yb3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CeYb~3~S~6~,mP20,11
+_chemical_formula_weight                 851.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Sulfures mixtes du type CeYb~3~S~6~ form\'es par deux \'el\'ements IIIA (scandium, yttrium et lanthanides)
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1976
+_journal_volume                          11
+_journal_page_first                      1209
+_journal_page_last                       1218
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rodier N.'
+;
+Chatenay-Malabry Paris Sud XI University
+Laboratoire de Chimie Min\'erale
+Chatenay-Malabry
+France
+;
+'Vo Van T.'
+;
+Paris University
+Laboratoire de Chimie Min\'erale Structurale
+Paris
+France
+;
+'Guittard M.'
+;
+Paris University
+Laboratoire de Chimie Min\'erale Structurale
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.86
+_cell_length_b                           3.92
+_cell_length_c                           11.16
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.8
+_cell_angle_gamma                        90
+_cell_volume                             449.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Ce
+ S
+ Yb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ce1 Ce 2 e 0.0513 0.25 0.6964 1
+ S1 S 2 e 0.1196 0.25 0.4635 1
+ Yb1 Yb 2 e 0.1613 0.25 0.0873 1
+ S2 S 2 e 0.3924 0.25 0.0561 1
+ Yb2 Yb 2 e 0.444 0.25 0.8336 1
+ S3 S 2 e 0.4797 0.25 0.6135 1
+ Yb3 Yb 2 e 0.6802 0.25 0.5012 1
+ S4 S 2 e 0.7317 0.25 0.2698 1
+ S5 S 2 e 0.8027 0.25 0.752 1
+ S6 S 2 e 0.9182 0.25 0.0929 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.29
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               film
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 460474
+
+

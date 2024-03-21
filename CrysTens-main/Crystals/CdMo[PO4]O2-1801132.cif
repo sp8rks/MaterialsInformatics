@@ -1,0 +1,208 @@
+##############################################################################
+#                                                                            #
+# Cd-Mo-O-P        # CdMo[PO4]O2                                   # 1801132 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1801132
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1801132
+
+# Entry summary
+
+_chemical_formula_structural             'Cd Mo [P O~4~] O~2~'
+_chemical_formula_sum                    'Cd Mo O6 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CdMo[PO~4~]O~2~,mP36,14
+_chemical_formula_weight                 335.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+A Mo(V) Monophosphate Built Up from Cd~2~O~10~ and Mo~2~O~10~ Bioctahedra: CdMoO~2~PO~4~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1996
+_journal_volume                          122
+_journal_page_first                      343
+_journal_page_last                       348
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Guesdon A.'
+;
+Caen University
+Laboratoire de Cristallographie et Sciences des Mat\'eriaux (CRISMAT)
+Caen
+France
+;
+'Leclaire A.'
+;
+Caen University
+Laboratoire de Cristallographie et Sciences des Mat\'eriaux (CRISMAT)
+Caen
+France
+;
+'Borel M.M.'
+;
+Caen University
+Laboratoire de Cristallographie et Sciences des Mat\'eriaux (CRISMAT)
+Caen
+France
+;
+'Raveau B.'
+;
+Caen University
+Laboratoire de Cristallographie et Sciences des Mat\'eriaux (CRISMAT)
+Caen
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.9229
+_cell_length_b                           8.55
+_cell_length_c                           11.418
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.193
+_cell_angle_gamma                        90
+_cell_volume                             453.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cd
+ P
+ Mo
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(5) O 4 e 0.0889 0.5316 0.3145 1
+ O(6) O 4 e 0.1672 0.0185 0.4162 1
+ Cd Cd 4 e 0.17273 0.34165 0.08449 1
+ P P 4 e 0.18869 0.06563 0.28998 1
+ O(1) O 4 e 0.2249 0.8037 0.0537 1
+ O(3) O 4 e 0.2434 0.2427 0.2836 1
+ O(4) O 4 e 0.3463 0.1247 0.0376 1
+ Mo Mo 4 e 0.48548 0.42331 0.39897 1
+ O(2) O 4 e 0.5543 0.4741 0.2283 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.91
+_cell_measurement_temperature            294
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              294
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4023
+_exptl_absorpt_coefficient_mu            7.67
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             83
+_refine_ls_number_reflns                 2998
+_refine_ls_R_factor_gt                   0.018
+_refine_ls_wR_factor_gt                  0.022
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 66.62 3.0
+ 0 0 2 53.7 9.1
+ 1 0 0 46.45 1.8
+ 0 1 2 45.58 3.3
+ 1 1 -1 42.38 34.7
+ 1 1 0 40.76 36.2
+ 0 2 1 39.64 23.9
+ 1 1 -2 38.2 10.7
+ 1 1 1 34.95 31.9
+ 0 2 2 33.45 6.7
+ 1 2 -1 32.16 30.2
+ 1 1 -3 31.9 6.4
+ 1 2 0 31.42 8.4
+ 1 0 2 30.6 6.6
+ 1 2 -2 30.21 19.5
+ 1 1 2 28.77 16.9
+ 1 2 1 28.53 4.1
+ 0 3 1 27.5 100.0
+ 0 0 4 26.92 7.1
+ 1 1 -4 26.22 11.5
+ 0 1 4 25.7 8.0
+ 0 3 2 25.17 7.2
+ 1 2 2 24.86 4.3
+ 1 3 -1 24.6 12.8
+ 1 3 0 24.29 4.2
+ 1 3 -2 23.72 8.3
+ 2 1 -2 23.48 9.7
+ 0 2 4 22.8 0.6
+ 2 1 -3 22.49 3.7
+ 1 3 -3 21.94 6.7
+ 1 1 -5 21.86 16.0
+ 0 4 0 21.38 3.2
+ 2 2 -1 21.19 4.7
+ 1 3 2 20.84 11.4
+ 2 1 -4 20.78 7.7
+ 2 1 1 20.69 8.0
+ 1 0 4 20.57 4.4
+ 2 2 0 20.41 5.1
+ 1 1 4 19.97 6.1
+ 0 4 2 19.87 7.6
+ 1 3 -4 19.84 7.3
+ 1 4 -1 19.57 1.7
+ 2 2 1 19.08 10.5
+ 1 0 -6 19.02 4.7
+ 2 1 -5 18.81 6.6
+ 1 3 3 18.67 21.9
+ 2 3 -2 18.61 8.9
+ 2 3 -1 18.53 7.0
+
+# End of data set 1801132
+
+

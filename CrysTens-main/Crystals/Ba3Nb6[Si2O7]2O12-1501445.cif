@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Ba-Nb-O-Si       # Ba3Nb6[Si2O7]2O12                             # 1501445 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1501445
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1501445
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Nb~6~ [Si~2~ O~7~]~2~ O~12~'
+_chemical_formula_sum                    'Ba3 Nb6 O26 Si4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Ba~3~Nb~6~[Si~2~O~7~]~2~O~12~,hP39,189                                        
+_chemical_formula_weight                 1497.8
+_chemical_melting_point                  1473
+
+# Bibliographic data
+
+_publ_section_title
+;
+The Structure of Barium Silicon Niobium Oxide, Ba~3~Si~4~Nb~6~O~26~: A Compound with Linear Silicon-Oxygen-Silicon Groups
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1970
+_journal_volume                          26
+_journal_page_first                      105
+_journal_page_last                       109
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Shannon J.'
+;
+Connecticut Storrs University
+Department of Chemistry
+Storrs
+U.S.A. Connecticut
+;
+'Katz L.'
+;
+Connecticut Storrs University
+Department of Chemistry
+Storrs
+U.S.A. Connecticut
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9
+_cell_length_b                           9
+_cell_length_c                           7.89
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             553.5
+_cell_formula_units_Z                    1
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ O
+ Nb
+ Si
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 12 l 0.183 0.4888 0.2159 1
+ Nb Nb 6 i 0.23809 0 0.26061 1
+ O3 O 6 i 0.8188 0 0.2642 1
+ Si Si 4 h 0.333333 0.666667 0.29691 1
+ O2 O 3 g 0.2734 0 0.5 1
+ O5 O 3 f 0.2269 0 0 1
+ Ba Ba 3 f 0.59952 0 0 1
+ O1 O 2 d 0.333333 0.666667 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.49
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'General Electric XRD-5'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            8.71
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 847
+_refine_ls_R_factor_gt                   0.046
+_refine_ls_wR_factor_gt                  0.050
+
+# End of data set 1501445
+
+

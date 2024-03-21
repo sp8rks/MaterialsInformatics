@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# Ba-La-O-Ta       # Ba2LaTaO6 rt                                  # 1623025 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1623025
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1623025
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ La Ta O~6~'
+_chemical_formula_sum                    'Ba2 La O6 Ta'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~NdBiO~6~,mS20,12
+_chemical_formula_weight                 690.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structures and crystal chemistry of the double perovskites Ba~2~LnB'O~6~ (Ln= lanthanide B'= Nb^5+^ and Ta^5+^): Part I. Investigation of Ba~2~LnTaO~6~ using synchrotron X-ray and neutron powder diffraction
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2007
+_journal_volume                          180
+_journal_page_first                      2991
+_journal_page_last                       3000
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Saines P.J.'
+;
+Sydney University
+School of Chemistry
+Sydney
+Australia
+;
+'Spencer J.R.'
+;
+Sydney University
+School of Chemistry
+Sydney
+Australia
+;
+'Kennedy B.J.'
+;
+Sydney University
+School of Chemistry
+Sydney
+Australia
+;
+'Avdeev M.'
+;
+Australian Nuclear Science and Technology Organisation (ANSTO)
+Bragg Institute
+Menai
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.5506
+_cell_length_b                           6.0964
+_cell_length_c                           6.1486
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.3
+_cell_angle_gamma                        90
+_cell_volume                             322.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Ba
+ Ta
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 j 0.0343 0.269 0.3084 1
+ Ba Ba 4 i 0.247 0 0.742 1
+ O1 O 4 i 0.2721 0 0.2079 1
+ Ta Ta 2 d 0 0.5 0.5 1
+ La La 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.11
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.4918
+_pd_proc_wavelength                      1.4918
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Australia, Lucas Heights, Australian Nuclear Science and Technology Organisation, HIFAR reactor, HRPD
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.4918
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 75
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                150
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.048
+_pd_proc_ls_proof_wR_factor              0.058
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1623025
+
+

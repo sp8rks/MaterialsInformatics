@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# C-Cs-Fe-N-Rb     # Cs2RbFe[CN]6                                  # 1714214 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1714214
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1714214
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Rb Fe [C N]~6~'
+_chemical_formula_sum                    'C6 Cs2 Fe N6 Rb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~LiCr[CN]~6~,mP32,14
+_chemical_formula_weight                 563.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Einkristall-Strukturdaten einiger Fluoride und Cyanide A^1+^~2~B^1+^M^3+^X~6~ der Elpasolithfamilie
+;
+_journal_coden_ASTM                      ZNBAD2
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1975
+_journal_volume                          30
+_journal_page_first                      462
+_journal_page_last                       464
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Haegele R.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Verscharen W.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Babel D.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.78
+_cell_length_b                           8.13
+_cell_length_c                           13.6692
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.391
+_cell_angle_gamma                        90
+_cell_volume                             713.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ C
+ Cs
+ N
+ Rb
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 4 e 0.1935 0.0 0.1905 1
+ C2 C 4 e 0.216 0.163 0.004 1
+ Cs1 Cs 4 e 0.2499 0.4915 0.2499 1
+ N1 N 4 e 0.264 0.67 0.0 1
+ N2 N 4 e 0.2937 0.004 0.2977 1
+ N3 N 4 e 0.326 0.265 0.001 1
+ C3 C 4 e 0.827 0.207 0.002 1
+ Rb1 Rb 2 d 0.5 0 0.5 1
+ Fe1 Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.62
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1714214
+
+

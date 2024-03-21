@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Ba-O-Re          # Ba5Re3O15[O2]                                 # 1925280 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1925280
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1925280
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~5~ Re~3~ O~15~ [O~2~]'
+_chemical_formula_sum                    'Ba5 O17 Re3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~5~Re~3~BrO~15~,hP48,185
+_chemical_formula_weight                 1517.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Mise en \'evidence de l'ion O~2~^-^ dans l'apatite au rh\'enium Ba~5~(ReO~5~)~3~O~2~
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1980
+_journal_volume                          15
+_journal_page_first                      1255
+_journal_page_last                       1261
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Besse J.P.'
+;
+Aubi\`ere Clermont-Ferrand II University
+Laboratoire de Cristallographie et Physico-Chimie des Mat\'eriaux
+Aubi\`ere
+France
+;
+'Baud G.'
+;
+Aubi\`ere Clermont-Ferrand II University
+Laboratoire de Cristallographie et Physico-Chimie des Mat\'eriaux
+Aubi\`ere
+France
+;
+'Chevalier R.'
+;
+Aubi\`ere Clermont-Ferrand II University
+Laboratoire de Cristallographie et Physico-Chimie des Mat\'eriaux
+Aubi\`ere
+France
+;
+'Zarembowitch J.'
+;
+Paris University
+Laboratoire de Spectrom\'etrie Vibrationnelle
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.912
+_cell_length_b                           10.912
+_cell_length_c                           7.774
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             801.65
+_cell_formula_units_Z                    2
+_space_group_IT_number                   185
+_space_group_name_H-M_alt                'P 63 c m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, 1/2+z'
+ 4 '-x, -x+y, z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, 1/2+z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, 1/2+z'
+ 9 'x-y, -y, z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ O
+ Re
+ Ba
+ O2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 12 d 0.1329 0.5776 0.204 1
+ O3 O 12 d 0.1319 0.387 0.0328 1
+ O1 O 6 c 0.2942 0 0.353 1
+ Re Re 6 c 0.3919 0 0.1737 1
+ Ba2 Ba 6 c 0.7384 0 0.2275 1
+ Ba1 Ba 4 b 0.333333 0.666667 0.4673 1
+ O2 O2 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.29
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius CAD4'
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 902
+_refine_ls_R_factor_gt                   0.039
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1925280
+
+

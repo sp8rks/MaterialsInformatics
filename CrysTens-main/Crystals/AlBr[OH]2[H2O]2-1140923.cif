@@ -1,0 +1,182 @@
+##############################################################################
+#                                                                            #
+# Al-Br-H-O        # AlBr[OH]2[H2O]2                               # 1140923 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1140923
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1140923
+
+# Entry summary
+
+_chemical_formula_structural             'Al Br [O H]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Al Br H6 O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AlI[OH]~2~[H~2~O]~2~,mS24,15
+_chemical_formula_weight                 176.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+One-dimensional infinite chain structures of [Al~2~(OH)~4~(H~2~O)~4~]X~2~ (X= I, Br, Cl): An aggregate of Al~2~ species and a precursor of Al(OH)~3~
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2013
+_journal_volume                          42
+_journal_page_first                      12956
+_journal_page_last                       12964
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sun Z.'
+;
+Hohhot Inner Mongolia University of Science and Technology
+College of Chemistry and Chemical Engineering
+Hohhot / Inner Mongolia
+China
+;
+'Wang H.'
+;
+Hohhot Inner Mongolia University of Science and Technology
+College of Chemistry and Chemical Engineering
+Hohhot / Inner Mongolia
+China
+;
+'Zhang Y.'
+;
+Hohhot Inner Mongolia University of Science and Technology
+College of Chemistry and Chemical Engineering
+Hohhot / Inner Mongolia
+China
+;
+'Li J.'
+;
+Hohhot Inner Mongolia University of Science and Technology
+College of Chemistry and Chemical Engineering
+Hohhot / Inner Mongolia
+China
+;
+'Zhao Y.'
+;
+Hohhot Inner Mongolia University of Science and Technology
+College of Chemistry and Chemical Engineering
+Hohhot / Inner Mongolia
+China
+;
+'Jiang W.'
+;
+Hohhot Inner Mongolia University of Science and Technology
+College of Chemistry and Chemical Engineering
+Hohhot / Inner Mongolia
+China
+;
+'Wang L.'
+;
+Hohhot Inner Mongolia University of Science and Technology
+College of Chemistry and Chemical Engineering
+Hohhot / Inner Mongolia
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.112
+_cell_length_b                           13.372
+_cell_length_c                           5.145
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.96
+_cell_angle_gamma                        90
+_cell_volume                             526
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Br
+ Al
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.13765 0.46084 0.187 1
+ O2 O 8 f 0.3521 0.16168 0.2317 1
+ Br Br 4 e 0 0.15537 0.25 1
+ Al Al 4 e 0 0.54755 0.25 1
+ H1 H 8 f 0.2311 0.434 0.3127 1
+ H2A H 8 f 0.2658 0.1509 0.239 1
+ H2B H 8 f 0.3843 0.2185 0.298 1
+
+
+_exptl_crystal_colour                    'yellow light'
+_exptl_crystal_density_meas              2.22
+_exptl_crystal_density_diffrn            2.23
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54178
+_pd_proc_wavelength                      1.54178
+_cell_measurement_reflns_used            392
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku D/MAX-2500'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54178
+_diffrn_reflns_number                    414
+_diffrn_reflns_theta_min                 6.62
+_diffrn_reflns_theta_max                 59.94
+_pd_proc_2theta_range_min                13.24
+_pd_proc_2theta_range_max                119.88
+_exptl_absorpt_coefficient_mu            11.588
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             35
+_refine_ls_number_reflns                 390
+_refine_ls_R_factor_gt                   0.0205
+_refine_ls_wR_factor_gt                  0.0580
+_pd_proc_ls_proof_R_factor               0.0860
+_pd_proc_ls_proof_wR_factor              0.1152
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1140923
+
+

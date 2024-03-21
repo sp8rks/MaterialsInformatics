@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-H-O-U      # Cs3[UO2]6ClO4[OH]6[H2O]3                      # 1413972 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1413972
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1413972
+
+# Entry summary
+
+_chemical_formula_structural
+'Cs~3~ [U O~2~]~6~ Cl O~4~ [O H]~6~ [H~2~ O]~3~'                              
+_chemical_formula_sum                    'Cl Cs3 H12 O25 U6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Cs~3~[UO~2~]~6~ClO~4~[OH]~6~[H~2~O]~3~,mS70,5                                 
+_chemical_formula_weight                 2274.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structural characterization, and topological rearrangement of a novel open framework U-O material: (NH~4~)~3~(H~2~O)~2~{[(UO~2~)~10~O~10~(OH)][(UO~4~)(H~2~O)~2~]}
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2001
+_journal_volume                          13
+_journal_page_first                      4026
+_journal_page_last                       4031
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Li Y.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Civil Engineering and Geological Sciences
+Notre Dame
+U.S.A. Indiana
+;
+'Cahill C.L.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Civil Engineering and Geological Sciences
+Notre Dame
+U.S.A. Indiana
+;
+'Burns P.C.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Civil Engineering and Geological Sciences
+Notre Dame
+U.S.A. Indiana
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           19.615
+_cell_length_b                           7.239
+_cell_length_c                           12.064
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.929
+_cell_angle_gamma                        90
+_cell_volume                             1351.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cs
+ O
+ OH
+ U
+ OH2
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs1 Cs 4 c 0.0 0.3077 0.2183 1
+ O2 O 4 c 0.1041 0.432 0.108 1
+ O1 O 4 c 0.1482 0.499 0.506 1
+ OH10 OH 4 c 0.2045 0.68 0.062 1
+ U3 U 4 c 0.2203 0.4376 0.2202 1
+ O7 O 4 c 0.226 0.315 0.393 1
+ O8 O 4 c 0.228 0.321 0.063 1
+ U1 U 4 c 0.2412 0.0089 0.0502 1
+ U2 U 4 c 0.2413 0.0089 0.4323 1
+ OH9 OH 4 c 0.2903 0.186 0.656 1
+ OH11 OH 4 c 0.3039 0.212 0.189 1
+ O4 O 4 c 0.336 0.459 0.339 1
+ O6 O 4 c 0.3481 0.003 0.209 1
+ O3 O 4 c 0.3661 0.496 0.628 1
+ O5 O 4 c 0.367 0.495 0.103 1
+ OW12 OH2 4 c 0.504 0.212 0.189 1
+ OW13 OH2 2 b 0 0.221 0.5 1
+ Cs2 Cs 2 b 0 0.6742 0.5 1
+ Cl1 Cl 2 a 0 0.0 0 1
+
+
+_exptl_crystal_colour                    'yellow greenish'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.59
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    3750
+_diffrn_reflns_theta_min                 2.14
+_diffrn_reflns_theta_max                 28.28
+_exptl_absorpt_coefficient_mu            40.0
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1800
+_refine_ls_R_factor_gt                   0.0720
+_refine_ls_wR_factor_gt                  0.1596
+
+# End of data set 1413972
+
+

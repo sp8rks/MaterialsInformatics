@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# Al-Cl-O-Sn       # Al2SnCl6O                                     # 1708430 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1708430
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1708430
+
+# Entry summary
+
+_chemical_formula_structural             'Al~2~ Sn Cl~6~ O'
+_chemical_formula_sum                    'Al2 Cl6 O Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Al~2~SnCl~6~O,mP40,14
+_chemical_formula_weight                 401.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+SnAl~2~OCl~6~, a Quaternary Oxide-Chloride with Edge-Sharing [Al~4~O~2~Cl~10~] Tetramers and [(SnCl~2/2~Cl~5~)~2~] Dimers
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2001
+_journal_volume                          627
+_journal_page_first                      921
+_journal_page_last                       924
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Assoud A.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+'Meyer G.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.423
+_cell_length_b                           12.258
+_cell_length_c                           12.5998
+_cell_angle_alpha                        90
+_cell_angle_beta                         131.583
+_cell_angle_gamma                        90
+_cell_volume                             1088.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ Al
+ Sn
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl3 Cl 4 e 0.0185 0.3285 0.1612 1
+ Cl1 Cl 4 e 0.0621 0.019 0.1886 1
+ Al2 Al 4 e 0.1323 0.39023 0.3613 1
+ Cl6 Cl 4 e 0.1727 0.2227 0.0049 1
+ Cl5 Cl 4 e 0.2696 0.6234 0.2177 1
+ Sn Sn 4 e 0.27818 0.02499 0.48491 1
+ O O 4 e 0.3554 0.447 0.4445 1
+ Cl2 Cl 4 e 0.512 0.13583 0.4788 1
+ Al1 Al 4 e 0.545 0.0077 0.1236 1
+ Cl4 Cl 4 e 0.5567 0.4012 0.3075 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.45
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 24
+_exptl_absorpt_coefficient_mu            3.9
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1221
+_refine_ls_R_factor_gt                   0.0224
+_refine_ls_wR_factor_gt                  0.0402
+
+# End of data set 1708430
+
+

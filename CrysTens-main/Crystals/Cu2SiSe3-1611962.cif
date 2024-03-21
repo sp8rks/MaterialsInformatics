@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Cu-Se-Si         # Cu2SiSe3                                      # 1611962 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1611962
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1611962
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ Si Se~3~'
+_chemical_formula_sum                    'Cu2 Se3 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~GeS~3~,mS24,9
+_chemical_formula_weight                 392.1
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis, structure, and electronic properties of Cu~2~SiQ~3~ (Q= S, Se)'   
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1999
+_journal_volume                          290
+_journal_page_first                      91
+_journal_page_last                       96
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chen X.A.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Wada H.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Sato A.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Nozaki H.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.669
+_cell_length_b                           11.797
+_cell_length_c                           6.633
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.67
+_cell_angle_gamma                        90
+_cell_volume                             497.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Si
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se3 Se 4 a 0.0 0.4237 0.0 1
+ Se1 Se 4 a 0.0106 0.0838 0.0304 1
+ Si Si 4 a 0.3626 0.0835 0.1246 1
+ Cu2 Cu 4 a 0.3811 0.2453 0.6466 1
+ Cu1 Cu 4 a 0.3938 0.4106 0.1495 1
+ Se2 Se 4 a 0.5026 0.238 0.0244 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.24
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3380
+_exptl_absorpt_coefficient_mu            30.570
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution
+'starting values derived from related structure, Fourier synthesis'           
+_refine_ls_number_parameters             54
+_refine_ls_number_reflns                 1976
+_refine_ls_R_factor_gt                   0.0279
+_refine_ls_wR_factor_gt                  0.0746
+
+# End of data set 1611962
+
+

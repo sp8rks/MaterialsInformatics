@@ -1,0 +1,192 @@
+##############################################################################
+#                                                                            #
+# B-Ce-Cl-H-O      # CeB4ClO6[OH]2                                 # 1935762 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1935762
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1935762
+
+# Entry summary
+
+_chemical_formula_structural             'Ce B~4~ Cl O~6~ [O H]~2~'
+_chemical_formula_sum                    'B4 Ce Cl H2 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            PrB~4~ClO~6~[OH]~2~,mS56,9
+_chemical_formula_weight                 348.8
+
+# Bibliographic data
+
+_publ_section_title
+'Differentiating between trivalent lanthanides and actinides'                 
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            2012
+_journal_volume                          134
+_journal_page_first                      10682
+_journal_page_last                       10692
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Polinski M.J.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Chemistry and Biochemistry
+Notre Dame
+U.S.A. Indiana
+;
+'Grant D.J.'
+;
+Minnesota Minneapolis University (Twin Cities)
+Department of Chemistry
+Minneapolis
+U.S.A. Minnesota
+;
+'Wang S.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Chemistry and Biochemistry
+Notre Dame
+U.S.A. Indiana
+;
+'Alekseev E.V.'
+;
+J\"ulich Nuclear Research Center
+Institute for Energy and Climate Research
+J\"ulich
+Germany
+;
+'Cross J.N.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Chemistry and Biochemistry
+Notre Dame
+U.S.A. Indiana
+;
+'Villa E.M.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Chemistry and Biochemistry
+Notre Dame
+U.S.A. Indiana
+;
+'Depmeier W.'
+;
+Aachen RWTH University
+Institut f\"ur Kristallographie
+Aachen
+Germany
+;
+'Gagliardi L.'
+;
+Minnesota Minneapolis University (Twin Cities)
+Department of Chemistry
+Minneapolis
+U.S.A. Minnesota
+;
+'Albrecht Schmitt T.E.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Chemistry and Biochemistry
+Notre Dame
+U.S.A. Indiana
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.5079
+_cell_length_b                           11.2082
+_cell_length_c                           9.7133
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.25
+_cell_angle_gamma                        90
+_cell_volume                             683.56
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ B
+ OH
+ Ce
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 a 0.0 0.46172 0.0 1
+ B3 B 4 a 0.03485 0.09457 0.08171 1
+ O3 O 4 a 0.07239 0.2177 0.05175 1
+ O7 OH 4 a 0.07656 0.07287 0.23614 1
+ O6 O 4 a 0.17193 0.01472 0.02089 1
+ Ce1 Ce 4 a 0.18785 0.2068 0.45248 1
+ B4 B 4 a 0.21825 0.46573 0.01349 1
+ B2 B 4 a 0.29075 0.25507 0.10498 1
+ O4 O 4 a 0.30963 0.57405 0.00828 1
+ Cl1 Cl 4 a 0.32668 0.17536 0.75869 1
+ O5 O 4 a 0.33707 0.36379 0.03053 1
+ O2 OH 4 a 0.34196 0.27595 0.25898 1
+ B1 B 4 a 0.37685 0.05321 0.03291 1
+ O8 O 4 a 0.44446 0.16442 0.07518 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.39
+_cell_measurement_temperature            100(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1704
+_diffrn_ambient_temperature              100(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3799
+_diffrn_reflns_theta_min                 3.64
+_diffrn_reflns_theta_max                 30.03
+_exptl_absorpt_coefficient_mu            7.060
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             128
+_refine_ls_number_reflns                 1677
+_refine_ls_R_factor_gt                   0.0169
+_refine_ls_wR_factor_gt                  0.0389
+
+# End of data set 1935762
+
+

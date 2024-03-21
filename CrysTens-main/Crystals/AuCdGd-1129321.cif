@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# Au-Cd-Gd         # AuCdGd                                        # 1129321 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1129321
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1129321
+
+# Entry summary
+
+_chemical_formula_structural             'Au Cd Gd'
+_chemical_formula_sum                    'Au Cd Gd'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            ZrNiAl,hP9,189
+_chemical_formula_weight                 466.6
+
+# Bibliographic data
+
+_publ_section_title                      'Magnetic ordering in GdAuCd'
+_journal_coden_ASTM                      JMMMDC
+_journal_name_full                       'J. Magn. Magn. Mater.'
+_journal_year                            2004
+_journal_volume                          280
+_journal_page_first                      90
+_journal_page_last                       100
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Latka K.'
+;
+Cracow Jagiellonian University (UJ)
+Smoluchowski M. Institute of Physics
+Cracow
+Poland
+;
+'Kmiec R.'
+;
+Polish Academy of Sciences
+Henryk Niewodniczanski Institute of Nuclear Physics
+Cracow
+Poland
+;
+'Pacyna A.W.'
+;
+Polish Academy of Sciences
+Henryk Niewodniczanski Institute of Nuclear Physics
+Cracow
+Poland
+;
+'Fickenscher T.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Hoffmann R.D.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'P\"ottgen R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.701
+_cell_length_b                           7.701
+_cell_length_c                           3.96
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             203.4
+_cell_formula_units_Z                    3
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ Cd
+ Gd
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cd Cd 3 g 0.2579 0 0.5 1
+ Gd Gd 3 f 0.5943 0 0 1
+ Au1 Au 2 d 0.333333 0.666667 0.5 1
+ Au2 Au 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'gray light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            11.43
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2372
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            85.5
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             14
+_refine_ls_number_reflns                 238
+_refine_ls_R_factor_gt                   0.0222
+_refine_ls_wR_factor_gt                  0.0487
+
+# End of data set 1129321
+
+

@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Bi-C-Co-O        # Co3Bi[CO]9                                    # 1905272 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1905272
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1905272
+
+# Entry summary
+
+_chemical_formula_structural             'Co~3~ Bi [C O]~9~'
+_chemical_formula_sum                    'Bi C9 Co3 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Co~3~Bi[CO]~9~,hP44,186
+_chemical_formula_weight                 637.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Isolation and Characterization of the "Strained" Cluster Complex, (\m~3~-Bi)Co~3~(CO)~6~(\m-CO)~3~; the Application of Thermogravimetric Analysis to Rational Cluster Reactions
+;
+_journal_coden_ASTM                      JCCCAT
+_journal_name_full                       'J. Chem. Soc., Chem. Commun.'
+_journal_year                            1987
+_journal_volume                          ?
+_journal_page_first                      926
+_journal_page_last                       927
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Whitmire K.H.'
+;
+Texas Houston Rice University
+Department of Chemistry
+Houston
+U.S.A. Texas
+;
+'Leigh J.S.'
+;
+Texas Houston Rice University
+Department of Chemistry
+Houston
+U.S.A. Texas
+;
+'Gross M.E.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.076
+_cell_length_b                           11.076
+_cell_length_c                           7.301
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             775.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ C
+ Co
+ Bi
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 6 c 0.133 0.867 0.0712 1
+ C2 C 6 c 0.184 0.816 0.1592 1
+ Co Co 6 c 0.2574 0.7426 0.2971 1
+ C1 C 6 c 0.452 0.548 0.3182 1
+ O1 O 6 c 0.509 0.491 0.3162 1
+ C3 C 6 c 0.786 0.214 0.0242 1
+ O3 O 6 c 0.813 0.187 0.1582 1
+ Bi Bi 2 b 0.333333 0.666667 0.0 1
+
+
+_exptl_crystal_colour                    brown
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.73
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.056
+_refine_ls_wR_factor_gt                  0.066
+
+# End of data set 1905272
+
+

@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# As-Cr            # Cr2As ht                                      #  532585 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_532585
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      532585
+
+# Entry summary
+
+_chemical_formula_structural             'Cr~2~ As'
+_chemical_formula_sum                    'As Cr2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe~2~P,hP9,189
+_chemical_formula_weight                 178.9
+
+# Bibliographic data
+
+_publ_section_title                      'Eine Cr~2~As-Phase mit Fe~2~P-Typ'
+_journal_coden_ASTM                      MOCMB7
+_journal_name_full                       'Monatsh. Chem.'
+_journal_year                            1968
+_journal_volume                          99
+_journal_page_first                      1230
+_journal_page_last                       1233
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wolfsgruber H.'
+;
+Vienna University
+Institut f\"ur Physikalische Chemie
+Vienna
+Austria
+;
+'Boller H.'
+;
+Vienna University
+Institut f\"ur Physikalische Chemie
+Vienna
+Austria
+;
+'Nowotny H.'
+;
+Vienna University
+Institut f\"ur Physikalische Chemie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.307
+_cell_length_b                           6.307
+_cell_length_c                           3.445
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             118.68
+_cell_formula_units_Z                    3
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ Cr
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ CrI Cr 3 g 0.25 0 0.5 1
+ CrII Cr 3 f 0.594 0 0 1
+ AsII As 2 d 0.333333 0.666667 0.5 1
+ AsI As 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.51
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cr Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device
+'rotation and Weissenberg photographs'                                        
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 1103 1
+ 1 1 0 1320 5
+ 1 0 1 1552 4
+ 1 1 1 2425 8
+ 2 0 1 2871 8.5
+ 2 1 0 3072 7
+ 3 0 0 3953 7
+ 2 1 1 4183 7.5
+ 0 0 2 4425 6
+ 3 0 1 5070 1
+ 2 2 0 5279 3
+ 3 1 0 5713 1.5
+ 1 1 2 5748 3
+ 2 0 2 6176 2
+ 2 2 1 6378 2
+ 3 1 1 6824 4
+ 2 1 2 7500 7
+ 3 2 0 8346 1
+ 3 0 2 8384 8
+ 4 1 0 9240 8
+ 3 2 1 9463 9
+ 2 2 2 9698 7
+
+# End of data set 532585
+
+

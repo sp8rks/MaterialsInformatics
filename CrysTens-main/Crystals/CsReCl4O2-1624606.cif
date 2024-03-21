@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-O-Re       # CsReCl4O2                                     # 1624606 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1624606
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1624606
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Re Cl~4~ O~2~'
+_chemical_formula_sum                    'Cl4 Cs O2 Re'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsReCl~4~O~2~,mP32,14
+_chemical_formula_weight                 492.9
+
+# Bibliographic data
+
+_publ_section_title
+'Caesium cis-tetrachloridodioxido-rhenate(VII)'                               
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2008
+_journal_volume                          64
+_journal_page_first                      i18
+_journal_page_last                       i20
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Holynska M.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+'Lis T.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.609
+_cell_length_b                           10.322
+_cell_length_c                           11.714
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.04
+_cell_angle_gamma                        90
+_cell_volume                             798.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ Cs
+ O
+ Re
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 4 e 0.00397 0.28427 0.11685 1
+ Cl4 Cl 4 e 0.12065 0.39979 0.40766 1
+ Cs1 Cs 4 e 0.18718 0.61079 0.15308 1
+ O2 O 4 e 0.2905 0.0656 0.1465 1
+ Cl2 Cl 4 e 0.31506 0.11337 0.43331 1
+ Re1 Re 4 e 0.32362 0.18896 0.05238 1
+ Cl3 Cl 4 e 0.47873 0.32298 0.18952 1
+ O1 O 4 e 0.5451 0.3495 0.492 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.10
+_cell_measurement_temperature            110
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              110
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur PX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    14688
+_diffrn_reflns_theta_min                 4.98
+_diffrn_reflns_theta_max                 41.97
+_exptl_absorpt_coefficient_mu            20.98
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             73
+_refine_ls_number_reflns                 2402
+_refine_ls_R_factor_gt                   0.032
+_refine_ls_wR_factor_gt                  0.034
+
+# End of data set 1624606
+
+

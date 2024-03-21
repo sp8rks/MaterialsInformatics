@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Ag-Ho-S          # AgHoS2                                        #  542865 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_542865
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      542865
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Ho S~2~'
+_chemical_formula_sum                    'Ag Ho S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AgGdS~2~,mP32,4
+_chemical_formula_weight                 336.9
+
+# Bibliographic data
+
+_publ_section_title
+'Syntheses and structures of AgLnS~2~ (Ln= Sm-Yb) compounds'                  
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1992
+_journal_volume                          178
+_journal_page_first                      57
+_journal_page_last                       70
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lee A.'
+;
+Groningen National University
+Laboratorium voor Anorganische Chemie
+Groningen
+Netherlands
+;
+'Belt R.'
+;
+Groningen National University
+Laboratorium voor Anorganische Chemie
+Groningen
+Netherlands
+;
+'Wiegers G.A.'
+;
+Groningen National University
+Laboratorium voor Anorganische Chemie
+Groningen
+Netherlands
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.633
+_cell_length_b                           7.637
+_cell_length_c                           11.958
+_cell_angle_alpha                        90
+_cell_angle_beta                         89.93
+_cell_angle_gamma                        90
+_cell_volume                             697.07
+_cell_formula_units_Z                    8
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Ho
+ Ag
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ho2 Ho 2 a -0.0017 0.2671 0.75191 1
+ Ag2 Ag 2 a 0.0 0.272 0.262 1
+ S7 S 2 a 0.0207 0.787 0.0205 1
+ S1 S 2 a 0.0218 0.288 0.5238 1
+ S6 S 2 a 0.239 0.025 0.2775 1
+ S5 S 2 a 0.243 0.008 0.7333 1
+ Ho4 Ho 2 a 0.2484 0.0138 0.5035 1
+ Ag3 Ag 2 a 0.249 0.019 0.014 1
+ Ag4 Ag 2 a 0.2458 0.522 0.515 1
+ Ho1 Ho 2 a 0.2522 0.513 0.0039 1
+ S3 S 2 a 0.261 0.525 0.2316 1
+ S8 S 2 a 0.4782 0.243 0.0237 1
+ Ho3 Ho 2 a 0.5017 0.2605 0.2517 1
+ Ag1 Ag 2 a 0.499 0.776 0.245 1
+ S2 S 2 a 0.5209 0.241 0.4787 1
+ S4 S 2 a 0.738 0.0 0.2233 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              6.3(3)
+_exptl_crystal_density_diffrn            6.42
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5405
+_pd_proc_wavelength                      1.5405
+_cell_measurement_reflns_used            22
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    7954
+_diffrn_reflns_theta_min                 1.7
+_diffrn_reflns_theta_max                 40
+_exptl_absorpt_coefficient_mu            29.30
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             105
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.142
+_refine_ls_wR_factor_gt                  0.104
+
+# End of data set 542865
+
+

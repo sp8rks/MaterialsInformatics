@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# Bi-Co-O-P        # CoBi[PO4]O                                    # 1627792 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1627792
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1627792
+
+# Entry summary
+
+_chemical_formula_structural             'Co Bi [P O~4~] O'
+_chemical_formula_sum                    'Bi Co O5 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            NiBi[PO~4~]O,mP32,14
+_chemical_formula_weight                 378.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Magnetic structure and analysis of the exchange interactions in BiMO(PO~4~) (M= Co, Ni)
+;
+_journal_coden_ASTM                      JCOMEL
+_journal_name_full                       'J. Phys.: Condens. Matter'
+_journal_year                            2008
+_journal_volume                          20
+_journal_page_first                      1
+_journal_page_last                       9
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mentr\'e O.'
+;
+Ecole Nationale Sup\'erieure de Chimie de Lille
+Unit\'e de Catalyse et de Chimie du Solide
+Villeneuve d'Ascq
+France
+;
+'Bour\'ee Vigneron F.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire L\'eon Brillouin (LLB)
+Gif-sur-Yvette
+France
+;
+'Rodriguez Carvajal J.'
+;
+Grenoble Laue-Langevin Institute
+Grenoble
+France
+;
+'El Jazouli A.'
+;
+Casablanca Ben M'Sik Faculty of Sciences
+Laboratoire de Chimie des Mat\'eriaux Solides
+Casablanca
+Morocco
+;
+'El Khayati N.'
+;
+Rabat Mohammed V University
+D\'epartement de Physique
+Rabat
+Morocco
+;
+'Ketatni E.M.'
+;
+B\'eni Mellal Cadi Ayyad University
+Laboratoire de Spectro-Chimie Appliqu\'e et Environnement
+B\'eni Mellal
+Morocco
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.2258
+_cell_length_b                           11.2828
+_cell_length_c                           7.5226
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.556
+_cell_angle_gamma                        90
+_cell_volume                             406.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Co
+ O
+ P
+ Bi
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ M Co 4 e 0.0579 0.5864 0.1869 1
+ O2 O 4 e 0.1737 0.2237 0.4874 1
+ O1 O 4 e 0.2141 0.0814 0.1611 1
+ O3 O 4 e 0.222 0.4179 0.3306 1
+ O4 O 4 e 0.2632 0.5227 0.016 1
+ P P 4 e 0.3037 0.1522 0.0207 1
+ Bi Bi 4 e 0.5783 0.4022 0.1914 1
+ O5 O 4 e 0.623 0.1719 0.108 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.19
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.2251
+_pd_proc_wavelength                      1.2251
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Saclay, Laboratoire Leon Brillouin LLB, ORPHEE reactor, 3T2'         
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.2251
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 62.5
+_pd_proc_2theta_range_min                6
+_pd_proc_2theta_range_max                125
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0604
+_pd_proc_ls_proof_wR_factor              0.0620
+_refine_ls_R_I_factor                    0.0287
+
+# End of data set 1627792
+
+

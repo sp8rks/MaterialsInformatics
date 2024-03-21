@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Ag-F-H-I-O       # Ag2IF[H2O]                                    # 1407843 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1407843
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1407843
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ I F [H~2~ O]'
+_chemical_formula_sum                    'Ag2 F H2 I O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~IF[H~2~O],mP10,4
+_chemical_formula_weight                 379.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+The Crystal Structure of Ag~2~IF.H~2~O - A Compound Containing Ag~2~^2+^ Pairs
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1982
+_journal_volume                          42
+_journal_page_first                      1
+_journal_page_last                       10
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Persson K.'
+;
+Lund University
+Physical Chemistry 1
+Lund
+Sweden
+;
+'Holmberg B.'
+;
+Lund University
+Physical Chemistry 1
+Lund
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.7206
+_cell_length_b                           7.8117
+_cell_length_c                           6.3747
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.345
+_cell_angle_gamma                        90
+_cell_volume                             234.67
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ I
+ F
+ O
+ Ag
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I I 2 a 0.1667 0.3257 0.5088 1
+ F F 2 a 0.2199 0.0 -0.0084 1
+ O O 2 a 0.2418 0.6693 0.0213 1
+ Ag2 Ag 2 a 0.4747 0.0837 0.2793 1
+ Ag1 Ag 2 a 0.5416 0.5499 0.2886 1
+ H2 H 2 a 0.036 0.0866 0.0107 1
+ H1 H 2 a 0.1867 0.2968 0.0139 1
+
+
+_exptl_crystal_colour                    'colorless or yellow'
+_exptl_crystal_density_meas              5.35
+_exptl_crystal_density_diffrn            5.37
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7093
+_cell_measurement_reflns_used            60
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'Sweden, Studsvik Neutron Research Laboratory, R2 reactor'                    
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.21
+_diffrn_reflns_number                    706
+_exptl_absorpt_coefficient_mu            0.117
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             65
+_refine_ls_number_reflns                 262
+_refine_ls_R_factor_gt                   0.09
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1407843
+
+

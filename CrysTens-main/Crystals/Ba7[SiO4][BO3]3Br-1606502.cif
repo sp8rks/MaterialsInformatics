@@ -1,0 +1,206 @@
+##############################################################################
+#                                                                            #
+# B-Ba-Br-O-Si     # Ba7[SiO4][BO3]3Br                             # 1606502 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1606502
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1606502
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~7~ [Si O~4~] [B O~3~]~3~ Br'
+_chemical_formula_sum                    'B3 Ba7 Br O13 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~7~[SiO~4~][BO~3~]~3~Br,hP50,186
+_chemical_formula_weight                 1309.7
+_chemical_melting_point                  1588
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ba~4~(BO~3~)~3~(SiO~4~).Ba~3~X (X= Cl, Br): New salt-inclusion borosilicate halides as potential deep UV nonlinear optical materials
+;
+_journal_coden_ASTM                      JMCCCX
+_journal_name_full                       'J. Mater. Chem. C'
+_journal_year                            2014
+_journal_volume                          2
+_journal_page_first                      4257
+_journal_page_last                       4264
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lin X.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Wang Z.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Zhang F.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Pan S.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Yu H.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Zhang F.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Dong X.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Han S.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Dong L.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+'Bai C.'
+;
+Chinese Academy of Sciences
+Xinjiang Technical Institute of Physics and Chemistry
+Urumqi / Xinjiang
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.279
+_cell_length_b                           11.279
+_cell_length_c                           7.324
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             806.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ B
+ Ba
+ Si
+ Br
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 12 d 0.093 0.3972 0.0808 1
+ O2 O 6 c 0.1595 0.8405 0.3438 1
+ B1 B 6 c 0.1829 0.8171 0.1698 1
+ Ba3 Ba 6 c 0.47434 0.52566 0.3788 1
+ O3 O 6 c 0.5914 0.4086 0.1938 1
+ Ba2 Ba 6 c 0.85508 0.14492 0.22381 1
+ Ba1 Ba 2 b 0.333333 0.666667 0.0193 1
+ O4 O 2 b 0.333333 0.666667 0.3888 1
+ Si1 Si 2 b 0.333333 0.666667 0.6106 1
+ Br1 Br 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.39
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1420
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    9456
+_diffrn_reflns_theta_min                 2.08
+_diffrn_reflns_theta_max                 27.4
+_exptl_absorpt_coefficient_mu            19.407
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             53
+_refine_ls_number_reflns                 639
+_refine_ls_R_factor_gt                   0.0322
+_refine_ls_wR_factor_gt                  0.0655
+
+# End of data set 1606502
+
+

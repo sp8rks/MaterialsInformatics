@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# Ba-Fe-O          # Ba2FeO4                                       # 1003040 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003040
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003040
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Fe O~4~'
+_chemical_formula_sum                    'Ba2 Fe O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~2~[SiO~4~],mP28,14
+_chemical_formula_weight                 394.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Study of the Structural, Electronic, and Magnetic Properties of the Barium-Rich Iron(IV) Oxides, Ba~2~FeO~4~ and Ba~3~FeO~5~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2002
+_journal_volume                          41
+_journal_page_first                      2834
+_journal_page_last                       2838
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Delattre J.L.'
+;
+California Berkeley University
+Department of Chemistry
+Berkeley
+U.S.A. California
+;
+'Stacy A.M.'
+;
+California Berkeley University
+Department of Chemistry
+Berkeley
+U.S.A. California
+;
+'Young V.G. Jr.'
+;
+Minnesota Minneapolis University (Twin Cities)
+Department of Chemistry
+Minneapolis
+U.S.A. Minnesota
+;
+'Long G.J.'
+;
+Missouri Rolla University
+Department of Chemistry
+Rolla
+U.S.A. Missouri
+;
+'Hermann R.P.'
+;
+Li\`ege University
+Institut de Physique
+Li\`ege
+Belgium
+;
+'Grandjean F.'
+;
+Sart-Tilman Li\`ege University
+Institut de Physique
+Sart-Tilman
+Belgium
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.034
+_cell_length_b                           7.647
+_cell_length_c                           11.5501
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.518
+_cell_angle_gamma                        90
+_cell_volume                             468.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ba
+ O
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba2 Ba 4 e 0.03342 0.00352 0.30462 1
+ O3 O 4 e 0.1288 0.1886 0.1349 1
+ O4 O 4 e 0.2236 0.3305 0.4273 1
+ O1 O 4 e 0.3185 0.5067 0.1025 1
+ Fe1 Fe 4 e 0.3384 0.2777 0.0824 1
+ O2 O 4 e 0.6638 0.233 0.1591 1
+ Ba1 Ba 4 e 0.67521 0.34859 0.41931 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.60
+_cell_measurement_temperature            138
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3.34
+_diffrn_reflns_theta_max                 25.13
+_exptl_absorpt_coefficient_mu            19.578
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             47
+_refine_ls_number_reflns                 609
+_refine_ls_R_factor_gt                   0.0478
+_refine_ls_wR_factor_gt                  0.1143
+
+# End of data set 1003040
+
+

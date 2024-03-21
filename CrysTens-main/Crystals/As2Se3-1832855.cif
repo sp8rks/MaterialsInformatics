@@ -1,0 +1,192 @@
+##############################################################################
+#                                                                            #
+# As-Se            # As2Se3 hp                                     # 1832855 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1832855
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1832855
+
+# Entry summary
+
+_chemical_formula_structural             'As~2~ Se~3~'
+_chemical_formula_sum                    'As2 Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            As~2~Te~3~,mS20,12
+_chemical_formula_weight                 386.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural transformations in the As-Se system under high pressures and temperatures
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2015
+_journal_volume                          644
+_journal_page_first                      799
+_journal_page_last                       803
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lityagina L.M.'
+;
+Russian Academy of Sciences
+Institute for High Pressure Physics
+Troitsk
+Russia
+;
+'Kulikova L.F.'
+;
+Russian Academy of Sciences
+Institute for High Pressure Physics
+Troitsk
+Russia
+;
+'Zibrov I.P.'
+;
+Russian Academy of Sciences
+Institute for High Pressure Physics
+Troitsk
+Russia
+;
+'Dyuzheva T.I.'
+;
+Russian Academy of Sciences
+Institute for High Pressure Physics
+Troitsk
+Russia
+;
+'Nikolaev N.A.'
+;
+Russian Academy of Sciences
+Institute for High Pressure Physics
+Troitsk
+Russia
+;
+'Brazhkin V.V.'
+;
+Russian Academy of Sciences
+Institute for High Pressure Physics
+Troitsk
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.465
+_cell_length_b                           3.735
+_cell_length_c                           9.471
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.
+_cell_angle_gamma                        90
+_cell_volume                             474.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Se
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 i 0.0289 0 0.2868 1
+ As1 As 4 i 0.2026 0 0.1408 1
+ Se2 Se 4 i 0.2223 0 0.6610 1
+ Se3 Se 4 i 0.3744 0 0.0355 1
+ As2 As 4 i 0.3867 0 0.5594 1
+
+
+_exptl_crystal_colour                    'gray yellow'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.41
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 2 0 1 52.43 50
+ 0 0 2 47.12 20
+ -2 0 2 39.98 40
+ 1 1 0 36.08 40
+ 4 0 1 30.47 48
+ 2 0 3 27.62 100
+ -4 0 3 23.88 28
+ 6 0 0 22.23 26
+ 5 1 1 20.94 29
+ -1 1 4 19.86 29
+ -6 0 3 18.97 45
+ 2 2 0 18 33
+ 0 2 2 17.34 35
+ -1 1 5 16.84 28
+ 4 2 0 16.25 32
+ -2 2 3 15.75 23
+ 6 0 4 15.53 25
+ 5 1 4 15.47 25
+ -6 0 5 15.11 26
+
+# End of data set 1832855
+
+

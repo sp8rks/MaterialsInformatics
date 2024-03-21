@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# Ag-C-N           # Ag2[NCN]                                      # 1234789 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1234789
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1234789
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ [N C N]'
+_chemical_formula_sum                    'Ag2 C N2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~[NCN],mP20,14
+_chemical_formula_weight                 255.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Controllable synthesis of silver cyanamide as a new semiconductor photocatalyst under visible-light irradiation
+;
+_journal_coden_ASTM                      JMCAET
+_journal_name_full                       'J. Mater. Chem. A'
+_journal_year                            2013
+_journal_volume                          1
+_journal_page_first                      7942
+_journal_page_last                       7948
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhao W.'
+;
+Chinese Academy of Sciences
+Shanghai Institute of Ceramics
+Shanghai
+China
+;
+'Liu Y.'
+;
+Chinese Academy of Sciences
+Shanghai Institute of Ceramics
+Shanghai
+China
+;
+'Liu J.'
+;
+Beijing University
+College of Chemistry and Molecular Engineering
+Beijing
+China
+;
+'Chen P.'
+;
+Chinese Academy of Sciences
+Shanghai Institute of Ceramics
+Shanghai
+China
+;
+'Chen I.W.'
+;
+Pennsylvania Philadelphia University
+Department of Materials Science and Engineering
+Philadelphia
+U.S.A. Pennsylvania
+;
+'Huang F.'
+;
+Chinese Academy of Sciences
+Shanghai Institute of Ceramics
+Shanghai
+China
+;
+'Lin J.'
+;
+Beijing University
+College of Chemistry and Molecular Engineering
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.308
+_cell_length_b                           6.011
+_cell_length_c                           6.686
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.124
+_cell_angle_gamma                        90
+_cell_volume                             287.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N1 N 4 e 0.181 0.015 0.293 1
+ C C 4 e 0.292 0.178 0.313 1
+ N2 N 4 e 0.392 0.339 0.323 1
+ Ag1 Ag 4 e 0.6677 0.1959 0.1726 1
+ Ag3 Ag 2 c 0 0 0.5 1
+ Ag2 Ag 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.92
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8 ADVANCE'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1234789
+
+

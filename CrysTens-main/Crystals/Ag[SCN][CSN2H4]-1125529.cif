@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# Ag-C-H-N-S       # Ag[SCN][CSN2H4]                               # 1125529 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1125529
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1125529
+
+# Entry summary
+
+_chemical_formula_structural             'Ag [S C N] [C S N~2~ H~4~]'
+_chemical_formula_sum                    'Ag C2 H4 N3 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag[SCN][CSN~2~H~4~],mP32,14
+_chemical_formula_weight                 242.1
+
+# Bibliographic data
+
+_publ_section_title
+'1:1 complexes of silver(I) thiocyanate with (substituted) thiourea ligands'  
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2009
+_journal_volume                          ?
+_journal_page_first                      2588
+_journal_page_last                       2598
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bowmaker G.A.'
+;
+Auckland University
+Department of Chemistry
+Auckland
+New Zealand
+;
+'Pakawatchai C.'
+;
+Hat Yai Prince of Songkla University
+Department of Chemistry
+Hat Yai
+Thailand
+;
+'Saithong S.'
+;
+Hat Yai Prince of Songkla University
+Department of Chemistry
+Hat Yai
+Thailand
+;
+'Skelton B.W.'
+;
+Crawley Western Australia University
+School of Biomedical and Chemical Sciences
+Crawley
+Australia
+;
+'White A.H.'
+;
+Crawley Western Australia University
+School of Biomedical and Chemical Sciences
+Crawley
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.3926
+_cell_length_b                           16.5167
+_cell_length_c                           9.1867
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.543
+_cell_angle_gamma                        90
+_cell_volume                             619.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ S
+ Ag
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 4 e 0.11212 0.16575 0.21182 1
+ N11 N 4 e 0.11821 0.72073 0.34681 1
+ S S 4 e 0.17539 0.47168 0.25091 1
+ Ag1 Ag 4 e 0.20125 0.57693 0.02534 1
+ N12 N 4 e 0.20476 0.12072 0.11606 1
+ S1 S 4 e 0.28427 0.15437 0.41348 1
+ C C 4 e 0.43352 0.39387 0.28772 1
+ N N 4 e 0.61324 0.33942 0.31804 1
+ H12A H 4 e 0.1128 0.1276 0.0142 1
+ H11B H 4 e 0.181 0.7509 0.2839 1
+ H12B H 4 e 0.3583 0.0839 0.1543 1
+ H11A H 4 e 0.7909 0.2273 0.0512 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.59
+_cell_measurement_temperature            100(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              100(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    30449
+_diffrn_reflns_theta_min                 2.68
+_diffrn_reflns_theta_max                 45.44
+_exptl_absorpt_coefficient_mu            3.812
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             73
+_refine_ls_number_reflns                 3833
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.06
+
+# End of data set 1125529
+
+

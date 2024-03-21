@@ -1,0 +1,128 @@
+##############################################################################
+#                                                                            #
+# As-S             # AsS rea                                       # 1415795 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1415795
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1415795
+
+# Entry summary
+
+_chemical_formula_structural             'As S'
+_chemical_formula_sum                    'As S'
+_chemical_name_mineral                   realgar
+_chemical_compound_source                ?
+_chemical_name_structure_type            AsS-a,mP32,14
+_chemical_formula_weight                 107.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Comparison of the structures and data obtained by diffractometer and film methods for realgar and some other compounds
+;
+_journal_coden_ASTM                      ZKKKAJ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1974
+_journal_volume                          140
+_journal_page_first                      27
+_journal_page_last                       49
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mullen D.J.E.'
+;
+Marburg Lahn Philipp University
+Fachbereich Geowissenschaften
+Marburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.587
+_cell_length_b                           13.571
+_cell_length_c                           9.7827
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.861
+_cell_angle_gamma                        90
+_cell_volume                             799.8
+_cell_formula_units_Z                    16
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S4 S 4 e 0.0543 0.2897 0.1066 1
+ S2 S 4 e 0.0986 0.5228 0.2133 1
+ As3 As 4 e 0.1439 0.37351 0.3209 1
+ As4 As 4 e 0.3247 0.33919 0.0398 1
+ S1 S 4 e 0.3557 0.0062 0.1556 1
+ As1 As 4 e 0.3582 0.52067 0.1222 1
+ As2 As 4 e 0.5677 0.3609 0.4238 1
+ S3 S 4 e 0.5997 0.2738 0.2383 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.55
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54178
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Buerger-Supper Pace-Picker'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54178
+_diffrn_reflns_number                    1225
+_exptl_absorpt_coefficient_mu            30.3
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 603
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1415795
+
+

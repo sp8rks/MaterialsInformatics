@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Ba-P-Sn          # Ba3Sn2P4 mon1                                 # 1703858 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1703858
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1703858
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Sn~2~ P~4~'
+_chemical_formula_sum                    'Ba3 P4 Sn2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~Sn~2~P~4~,mP36,4
+_chemical_formula_weight                 773.3
+
+# Bibliographic data
+
+_publ_section_title
+'Ba~3~Sn~2~P~4~, ein neues Inophosphidostannat(III)'                          
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1986
+_journal_volume                          532
+_journal_page_first                      73
+_journal_page_last                       80
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Eisenmann B.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+'Jordan H.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+'Sch\"afer H.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.869
+_cell_length_b                           19.278
+_cell_length_c                           7.886
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.8
+_cell_angle_gamma                        90
+_cell_volume                             1102.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ P
+ Sn
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P1 P 2 a 0.0384 0.2458 0.4803 1
+ P7 P 2 a 0.0562 0.509 0.432 1
+ P8 P 2 a 0.0645 0.3802 0.9308 1
+ Sn1 Sn 2 a 0.161 0.0727 0.8517 1
+ Sn2 Sn 2 a 0.1941 0.1982 0.266 1
+ Ba3 Ba 2 a 0.1964 0.7532 0.2645 1
+ Ba6 Ba 2 a 0.2029 0.0 0.3151 1
+ Sn4 Sn 2 a 0.2967 0.1867 0.7163 1
+ Ba5 Ba 2 a 0.3067 0.3894 0.6794 1
+ Ba2 Ba 2 a 0.3251 0.5002 0.2025 1
+ Sn3 Sn 2 a 0.3362 0.3131 0.1465 1
+ P6 P 2 a 0.4395 0.0015 0.0513 1
+ P2 P 2 a 0.4639 0.1316 0.5348 1
+ P3 P 2 a 0.4795 0.7606 0.031 1
+ P5 P 2 a 0.553 0.3666 0.4366 1
+ Ba4 Ba 2 a 0.7154 0.1304 0.2742 1
+ Ba1 Ba 2 a 0.8094 0.3771 0.201 1
+ P4 P 2 a 0.967 0.1177 0.0388 1
+
+
+_exptl_crystal_colour                    'gray dark'
+_exptl_crystal_density_meas              4.67
+_exptl_crystal_density_diffrn            4.66
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2130
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             112
+_refine_ls_number_reflns                 1827
+_refine_ls_R_factor_gt                   0.092
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1703858
+
+

@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# As-Cd-Hg-I       # CdHg4As2I4                                    # 1323126 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1323126
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1323126
+
+# Entry summary
+
+_chemical_formula_structural             'Cd Hg~4~ As~2~ I~4~'
+_chemical_formula_sum                    'As2 Cd Hg4 I4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CdHg~4~As~2~I~4~,mP22,4
+_chemical_formula_weight                 1572.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, crystal and band structures, and properties of a new supramolecular complex (Hg~2~As)~2~(CdI~4~)
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2007
+_journal_volume                          180
+_journal_page_first                      805
+_journal_page_last                       811
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zou J.P.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Wu D.S.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Huang S.P.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhu J.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Guo G.C.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Huang J.S.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.945
+_cell_length_b                           12.934
+_cell_length_c                           8.094
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.898
+_cell_angle_gamma                        90
+_cell_volume                             741.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cd
+ Hg
+ I
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cd1 Cd 2 a 0.0025 0.0 0.0006 1
+ Hg4 Hg 2 a 0.0266 0.28569 0.4321 1
+ I4 I 2 a 0.1085 0.2895 0.0513 1
+ I3 I 2 a 0.1321 0.0248 0.3754 1
+ I2 I 2 a 0.3281 0.5896 0.2563 1
+ As2 As 2 a 0.3497 0.3533 0.629 1
+ Hg3 Hg 2 a 0.488 0.77785 0.05363 1
+ Hg2 Hg 2 a 0.5275 0.31465 0.4498 1
+ Hg1 Hg 2 a 0.6725 0.04371 0.3314 1
+ As1 As 2 a 0.6892 0.2326 0.2817 1
+ I1 I 2 a 0.7115 0.5236 0.0995 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.04
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Mercury'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4881
+_diffrn_reflns_theta_min                 3.15
+_diffrn_reflns_theta_max                 25.03
+_exptl_absorpt_coefficient_mu            55.371
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0356
+_refine_ls_wR_factor_gt                  0.0742
+
+# End of data set 1323126
+
+

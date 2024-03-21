@@ -1,0 +1,125 @@
+##############################################################################
+#                                                                            #
+# As-Te            # As2Te3 lt                                     # 1143053 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1143053
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1143053
+
+# Entry summary
+
+_chemical_formula_structural             'As~2~ Te~3~'
+_chemical_formula_sum                    'As2 Te3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            As~2~Te~3~,mP40,11
+_chemical_formula_weight                 532.6
+
+# Bibliographic data
+
+_publ_section_title
+'Polymorphism in thermoelectric As~2~Te~3~'                                   
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2015
+_journal_volume                          54
+_journal_page_first                      9936
+_journal_page_last                       9947
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.996
+_cell_length_b                           16.2407
+_cell_length_c                           10.2538
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.425
+_cell_angle_gamma                        90
+_cell_volume                             1133.2
+_cell_formula_units_Z                    8
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ As
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As4f-5 As 4 f 0.0962 0.1197 0.7897 1
+ Te4f-4 Te 4 f 0.1863 0.0 0.6434 1
+ Te4f-8 Te 4 f 0.2798 0.624 0.3462 1
+ Te4f-7 Te 4 f 0.2866 0.1243 0.3463 1
+ As4f-3 As 4 f 0.407 0.0204 0.1761 1
+ Te4f-3 Te 4 f 0.5184 0.1241 0.0085 1
+ As4f-4 As 4 f 0.8933 0.1307 0.1764 1
+ Te2e-2 Te 2 e 0.0116 0.25 0.0175 1
+ Te2e-6 Te 2 e 0.2555 0.25 0.6157 1
+ As2e-2 As 2 e 0.4283 0.25 0.1918 1
+ As2e-1 As 2 e 0.619 0.25 0.7802 1
+ Te2e-5 Te 2 e 0.809 0.25 0.3509 1
+ Te2a-1 Te 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.24
+_cell_measurement_temperature            20
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             2.5302
+_pd_proc_wavelength                      2.5302
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              20
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D1B'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             2.5302
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0293
+_pd_proc_ls_proof_wR_factor              0.0412
+_refine_ls_R_I_factor                    0.0176
+
+# End of data set 1143053
+
+

@@ -1,0 +1,211 @@
+##############################################################################
+#                                                                            #
+# Cs-H-O-S-Tl      # CsTl[SO4]2[H2O]2                              # 1301889 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1301889
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1301889
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Tl [S O~4~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Cs H4 O10 S2 Tl'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsTl[SO~4~]~2~[H~2~O]~2~,mS56,15
+_chemical_formula_weight                 565.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Etude cristallochimique d'hydrates interm\'ediaires de la s\'erie des aluns. Cas du dihydrate CsTl^3+^(SO~4~)~2~.2H~2~O
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1972
+_journal_volume                          28
+_journal_page_first                      806
+_journal_page_last                       810
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Manoli J.M.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Cin\'etique Chimique
+Paris
+France
+;
+'Herpin P.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Min\'eralogie et Cristallographie
+Paris
+France
+;
+'Dereigne A.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Cin\'etique Chimique
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.32
+_cell_length_b                           14.61
+_cell_length_c                           7.121
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.5
+_cell_angle_gamma                        90
+_cell_volume                             929.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ S
+ Cs
+ Tl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 f 0.1162 0.1995 0.0777 1
+ O(H2O) OH2 8 f 0.1192 0.0829 0.6383 1
+ O3 O 8 f 0.1876 0.0797 0.3061 1
+ S S 8 f 0.2452 0.1441 0.1906 1
+ O1 O 8 f 0.3175 0.0951 0.071 1
+ O4 O 8 f 0.3464 0.2076 0.3279 1
+ Cs Cs 4 e 0 0.3874 0.25 1
+ Tl Tl 4 e 0 0.8058 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.05(1)
+_exptl_crystal_density_diffrn            4.04
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5418
+_pd_proc_wavelength                      1.5418
+_cell_measurement_reflns_used            54
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 515
+_refine_ls_R_factor_gt                   0.065
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 2 0 78.3 95
+ 1 1 -1 58.6 35
+ 0 2 1 50.1 25
+ 1 1 1 45.9 5
+ 2 0 0 45 10
+ 1 3 0 43 15
+ 1 3 -1 38.79 65
+ 2 2 -1 37.41 50
+ 0 4 0 36.65 45
+ 0 0 2 34.13 45
+ 0 4 1 32.2 5
+ 2 0 -2 31.78 15
+ 0 2 2 30.87 5
+ 2 2 1 30.32 40
+ 3 1 0 29.12 5
+ 1 5 0 27.8 100
+ 3 3 -1 25.95 10
+ 0 4 2 24.94 10
+ 2 4 -2 24.01 5
+ 3 3 -2 23.23 5
+ 0 6 1 22.9 5
+ 2 2 2 22.82 5
+ 1 5 -2 22.51 30
+ 4 2 -1 22.18 10
+ 2 2 -3 21.98 10
+ 4 0 -2 21.69 15
+ 2 6 -1 21.26 10
+ 3 5 0 20.88 20
+ 1 5 2 20.66 5
+ 1 7 0 20.34 15
+ 0 6 2 19.83 35
+ 3 5 -2 19.6 25
+ 3 3 -3 19.48 20
+ 0 4 3 19.29 10
+ 1 7 1 19.14 20
+ 1 3 3 19.02 5
+ 4 2 -3 18.27 10
+ 5 1 -2 17.96 5
+ 0 8 1 17.64 15
+ 3 7 -1 17.25 10
+ 1 7 2 17.01 5
+ 4 6 -1 16.83 5
+ 4 0 2 16.66 5
+ 3 7 -2 16.4 5
+ 1 9 0 15.98 15
+ 1 9 -1 15.72 5
+ 5 3 -3 15.63 10
+ 5 3 1 15.37 15
+ 4 4 -4 14.6 15
+ 2 2 4 14.34 10
+ 5 1 2 14.18 5
+ 3 1 -5 13.96 5
+ 2 10 0 13.87 15
+ 1 1 4 15.86 5
+
+# End of data set 1301889
+
+

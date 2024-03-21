@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# B-Cd-F-Ta        # CdTa[BF4]F6                                   # 1127410 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1127410
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1127410
+
+# Entry summary
+
+_chemical_formula_structural             'Cd Ta [B F~4~] F~6~'
+_chemical_formula_sum                    'B Cd F10 Ta'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CdTa[BF~4~]F~6~,mP52,14
+_chemical_formula_weight                 494.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses, structures and Raman spectra of Cd(BF~4~)(AF~6~) (A= Ta, Bi) compounds
+;
+_journal_coden_ASTM                      JFLCAR
+_journal_name_full                       'J. Fluorine Chem.'
+_journal_year                            2011
+_journal_volume                          132
+_journal_page_first                      767
+_journal_page_last                       771
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Radan K.'
+;
+Ljubljana Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+'Lozinsek M.'
+;
+Ljubljana Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+'Goreshnik E.A.'
+;
+Ljubljana Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+'Zemva B.'
+;
+Ljubljana Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.27
+_cell_length_b                           9.3691
+_cell_length_c                           8.8896
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.196
+_cell_angle_gamma                        90
+_cell_volume                             686.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ B
+ Cd
+ Ta
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 e 0.0249 0.3124 0.4028 1
+ F4 F 4 e 0.0374 0.3497 0.0911 1
+ B1 B 4 e 0.068 0.7286 0.0043 1
+ F7 F 4 e 0.1016 0.0599 0.2335 1
+ F3 F 4 e 0.1623 0.6818 0.422 1
+ F2 F 4 e 0.1671 0.6388 0.0934 1
+ Cd1 Cd 4 e 0.17874 0.47659 0.28375 1
+ F6 F 4 e 0.3122 0.0744 0.022 1
+ F10 F 4 e 0.3201 0.2746 0.2399 1
+ Ta1 Ta 4 e 0.33383 0.06692 0.23989 1
+ F5 F 4 e 0.3516 0.0768 0.4485 1
+ F8 F 4 e 0.5629 0.0709 0.2268 1
+ F9 F 4 e 0.6594 0.3697 0.2626 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.78
+_cell_measurement_temperature            200
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            1412
+_diffrn_ambient_temperature              200
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    2964
+_diffrn_reflns_theta_min                 2.47
+_diffrn_reflns_theta_max                 29.13
+_exptl_absorpt_coefficient_mu            19.158
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             119
+_refine_ls_number_reflns                 1220
+_refine_ls_R_factor_gt                   0.0539
+_refine_ls_wR_factor_gt                  0.1103
+
+# End of data set 1127410
+
+

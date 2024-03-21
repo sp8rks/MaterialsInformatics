@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# C-Ca-H-Mn-O-S    # Ca3Mn[CO3][SO4][OH]6[H2O]12                   # 1901852 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1901852
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1901852
+
+# Entry summary
+
+_chemical_formula_structural
+'Ca~3~ Mn [C O~3~] [S O~4~] [O H]~6~ [H~2~ O]~12~'                            
+_chemical_formula_sum                    'C Ca3 H30 Mn O25 S'
+_chemical_name_mineral                   jouravskite
+_chemical_compound_source
+'Morocco, Bou-Azzer district, Anti-Atlas, Tachgagalt vein'                    
+_chemical_name_structure_type
+Ca~3~Mn[CO~3~][SO~4~][OH]~6~[H~2~O]~12~,hP62,173                              
+_chemical_formula_weight                 649.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+D\'etermination et \'etude de la structure cristalline de la jouravskite Ca~3~Mn^4+^(SO~4~)(CO~3~)(OH)~6~.12H~2~O
+;
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1969
+_journal_volume                          25
+_journal_page_first                      1943
+_journal_page_last                       1951
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Granger M.M.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Cristallographie
+Meudon-Bellevue
+France
+;
+'Protas J.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Laboratoire de Min\'eralogie et Cristallographie
+Vandoeuvre-l\`es-Nancy
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.06
+_cell_length_b                           11.06
+_cell_length_c                           10.5
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             1112.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ OH
+ Ca
+ O
+ S
+ C
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 OH2 6 c 0.0141 0.3468 0.4287 1
+ O4 OH 6 c 0.1311 0.1356 0.1116 1
+ O5 OH 6 c 0.1355 0.1356 0.3956 1
+ Ca Ca 6 c 0.2049 0.0024 0.2499 1
+ O9 OH2 6 c 0.2396 0.3987 0.2538 1
+ O6 OH2 6 c 0.3452 0.0179 0.0601 1
+ O8 OH2 6 c 0.4037 0.2531 0.2626 1
+ O3 O 6 c 0.5881 0.1937 0.4682 1
+ O2 O 6 c 0.6289 0.1963 0.0435 1
+ S S 2 b 0.333333 0.666667 0.009 1
+ O1 O 2 b 0.333333 0.666667 0.1568 1
+ C C 2 b 0.333333 0.666667 0.5435 1
+ Mn Mn 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              1.95(1)
+_exptl_crystal_density_diffrn            1.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            12.74
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.16
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1901852
+
+

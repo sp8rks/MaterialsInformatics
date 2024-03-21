@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Cs-Si-Te         # CsSiTe3                                       #  462183 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_462183
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      462183
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Si Te~3~'
+_chemical_formula_sum                    'Cs Si Te3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsSiTe~3~,mS40,9
+_chemical_formula_weight                 543.8
+
+# Bibliographic data
+
+_publ_section_title
+'Cs~2~Si~2~Te~6~, ein Polypertelluridosilikat(IV)'                            
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1985
+_journal_volume                          20
+_journal_page_first                      1285
+_journal_page_last                       1289
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Brinkmann C.'
+;
+Darmstadt University of Technology
+Institut f\"ur Anorganische Chemie
+Darmstadt
+Germany
+;
+'Eisenmann B.'
+;
+Darmstadt University of Technology
+Institut f\"ur Anorganische Chemie
+Darmstadt
+Germany
+;
+'Sch\"afer H.'
+;
+Darmstadt University of Technology
+Institut f\"ur Anorganische Chemie
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.285
+_cell_length_b                           13.935
+_cell_length_c                           13.404
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.35
+_cell_angle_gamma                        90
+_cell_volume                             1522.3
+_cell_formula_units_Z                    8
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Te
+ Si
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te1 Te 4 a 0.0 0.6524 0.0 1
+ Te5 Te 4 a 0.0208 0.1368 0.0464 1
+ Te4 Te 4 a 0.1117 0.2341 0.2347 1
+ Si2 Si 4 a 0.1607 0.0739 0.3212 1
+ Cs1 Cs 4 a 0.2588 0.4074 0.0401 1
+ Te2 Te 4 a 0.2681 0.1162 0.506 1
+ Si1 Si 4 a 0.3022 0.0582 0.0686 1
+ Te3 Te 4 a 0.3993 0.0054 0.2543 1
+ Te6 Te 4 a 0.4183 0.4749 0.3192 1
+ Cs2 Cs 4 a 0.6591 0.2494 0.2706 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.75
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2304
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 23.5
+_exptl_absorpt_coefficient_mu            15.494
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             79
+_refine_ls_number_reflns                 170
+_refine_ls_R_factor_gt                   0.087
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 462183
+
+

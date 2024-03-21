@@ -1,0 +1,173 @@
+##############################################################################
+#                                                                            #
+# Ag-Ba-In-S       # Ba4AgInS6                                     # 1236834 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1236834
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1236834
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~4~ Ag In S~6~'
+_chemical_formula_sum                    'Ag Ba4 In S6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~4~AgInS~6~,mP48,14
+_chemical_formula_weight                 964.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structure and bonding, optical properties of Ba~4~MTrQ~6~ (M= Cu, Ag; Tr= Ga, In; Q= S, Se)
+;
+_journal_coden_ASTM                      CAAJBI
+_journal_name_full                       'Chem. Asian J.'
+_journal_year                            2014
+_journal_volume                          9
+_journal_page_first                      1123
+_journal_page_last                       1131
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lei X.W.'
+;
+Jinan Shandong Jiaotong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Yang M.'
+;
+Jinan Shandong Jiaotong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Xia S.Q.'
+;
+Jinan Shandong Jiaotong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Liu X.C.'
+;
+Jinan Shandong Jiaotong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Pan M.Y.'
+;
+Jinan Shandong Jiaotong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Li X.'
+;
+Jinan Shandong Jiaotong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Tao X.T.'
+;
+Jinan Shandong Jiaotong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.7241
+_cell_length_b                           8.8799
+_cell_length_c                           17.793
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.144
+_cell_angle_gamma                        90
+_cell_volume                             1336.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Ag
+ Ba
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S5 S 4 e 0.0131 0.3111 0.2794 1
+ Ag1 Ag 4 e 0.0621 0.8726 0.3668 1
+ S6 S 4 e 0.0974 0.6135 0.4304 1
+ Ba3 Ba 4 e 0.0977 0.2576 0.4585 1
+ S4 S 4 e 0.186 0.5096 0.0979 1
+ Ba1 Ba 4 e 0.2182 0.0806 0.2139 1
+ Ba2 Ba 4 e 0.2545 0.5772 0.2857 1
+ S1 S 4 e 0.3365 0.015 0.4028 1
+ S3 S 4 e 0.4081 0.1284 0.0736 1
+ In1 In 4 e 0.4439 0.3808 0.1322 1
+ S2 S 4 e 0.5124 0.3199 0.2716 1
+ Ba4 Ba 4 e 0.6107 0.266 0.4593 1
+
+
+_exptl_crystal_colour                    'brown light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.79
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            15.616
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0200
+_refine_ls_wR_factor_gt                  0.0417
+
+# End of data set 1236834
+
+

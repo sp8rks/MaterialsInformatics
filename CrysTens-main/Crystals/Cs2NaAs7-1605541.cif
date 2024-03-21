@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# As-Cs-Na         # Cs2NaAs7                                      # 1605541 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1605541
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1605541
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Na As~7~'
+_chemical_formula_sum                    'As7 Cs2 Na'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~NaAs~7~,mP40,14
+_chemical_formula_weight                 813.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+New compounds with [As~7~]^3-^ clusters: Synthesis and crystal structures of the Zintl phases Cs~2~NaAs~7~, Cs~4~ZnAs~14~ and Cs~4~CdAs~14~
+;
+_journal_coden_ASTM                      CRYSBC
+_journal_name_full                       Crystals
+_journal_year                            2011
+_journal_volume                          1
+_journal_page_first                      87
+_journal_page_last                       98
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'He H.'
+;
+Delaware Newark University
+Department of Chemistry and Biochemistry
+Newark
+U.S.A. Delaware
+;
+'Tyson C.'
+;
+Delaware Newark University
+Department of Chemistry and Biochemistry
+Newark
+U.S.A. Delaware
+;
+'Bobev S.'
+;
+Delaware Newark University
+Department of Chemistry and Biochemistry
+Newark
+U.S.A. Delaware
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.7671
+_cell_length_b                           10.8528
+_cell_length_c                           10.2115
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.213
+_cell_angle_gamma                        90
+_cell_volume                             1304.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cs
+ As
+ Na
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs1 Cs 4 e 0.01132 0.20123 0.03954 1
+ As1 As 4 e 0.09482 0.0014 0.3248 1
+ As2 As 4 e 0.20931 0.84929 0.21626 1
+ As3 As 4 e 0.22104 0.16868 0.31515 1
+ As4 As 4 e 0.2547 0.54339 0.51499 1
+ Cs2 Cs 4 e 0.26281 0.50063 0.15103 1
+ As5 As 4 e 0.32801 0.13856 0.10493 1
+ As6 As 4 e 0.41523 0.07604 0.31616 1
+ Na1 Na 4 e 0.5346 0.3074 0.4451 1
+ As7 As 4 e 0.61318 0.36262 0.16709 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.14
+_cell_measurement_temperature            200(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            2677
+_diffrn_ambient_temperature              200(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    15029
+_diffrn_reflns_theta_min                 1.73
+_diffrn_reflns_theta_max                 26.41
+_exptl_absorpt_coefficient_mu            23.194
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             91
+_refine_ls_number_reflns                 1751
+_refine_ls_R_factor_gt                   0.0441
+_refine_ls_wR_factor_gt                  0.0678
+
+# End of data set 1605541
+
+

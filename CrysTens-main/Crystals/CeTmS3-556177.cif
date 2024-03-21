@@ -1,0 +1,179 @@
+##############################################################################
+#                                                                            #
+# Ce-S-Tm          # CeTmS3 mon                                    #  556177 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_556177
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      556177
+
+# Entry summary
+
+_chemical_formula_structural             'Ce Tm S~3~'
+_chemical_formula_sum                    'Ce S3 Tm'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CeTmS~3~,mP40,11
+_chemical_formula_weight                 405.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Etude chimique et structurale des combinaisons LL'S~3~ form\'ees entre les sulfures L~2~S~3~ et L'~2~S~3~ des lanthanides et d'yttrium (L= La, Ce, Pr, Nd et L'= lanthanides et Y)
+;
+_journal_coden_ASTM                      BSCFAS
+_journal_name_full                       'Bull. Soc. Chim. Fr.'
+_journal_year                            1971
+_journal_volume                          ?
+_journal_page_first                      3454
+_journal_page_last                       3458
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Vo Van T.'
+;
+Paris V Ren\'e Descartes University
+Laboratoire de Chimie Min\'erale Structurale
+Paris
+France
+;
+'Khodadad P.'
+;
+Paris University
+Facult\'e des Sciences
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.09
+_cell_length_b                           3.98
+_cell_length_c                           21.42
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.95
+_cell_angle_gamma                        90
+_cell_volume                             921.4
+_cell_formula_units_Z                    8
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Tm
+ S
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Tm1 Tm 2 e 0.0302 0.25 0.351 1
+ S1 S 2 e 0.037 0.25 0.728 1
+ Ce1 Ce 2 e 0.0895 0.25 0.8621 1
+ S2 S 2 e 0.124 0.25 0.165 1
+ Tm2 Tm 2 e 0.1768 0.25 0.0466 1
+ Ce2 Ce 2 e 0.1991 0.25 0.5364 1
+ S3 S 2 e 0.258 0.25 0.326 1
+ Ce3 Ce 2 e 0.3067 0.25 0.731 1
+ S4 S 2 e 0.359 0.25 0.965 1
+ Tm3 Tm 2 e 0.4485 0.25 0.4174 1
+ S5 S 2 e 0.455 0.25 0.633 1
+ S6 S 2 e 0.492 0.25 0.224 1
+ Tm4 Tm 2 e 0.5233 0.25 0.0903 1
+ S7 S 2 e 0.643 0.25 0.514 1
+ S8 S 2 e 0.662 0.25 0.899 1
+ Ce4 Ce 2 e 0.6966 0.25 0.7647 1
+ S9 S 2 e 0.752 0.25 0.178 1
+ S10 S 2 e 0.794 0.25 0.368 1
+ S11 S 2 e 0.915 0.25 0.035 1
+ S12 S 2 e 0.942 0.25 0.556 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.69
+_exptl_crystal_density_diffrn            5.84
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Debye-Scherrer film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 6 0 35.927 7
+ 3 3 0 35.199 7
+ 1 3 1 34.215 7
+ 0 5 1 28.913 2
+ 1 6 1 26.945 7
+ 4 4 0 26.257 7
+ 1 7 1 24.779 7
+ 1 9 0 24.149 7
+ 5 2 0 22.521 7
+ 2 8 1 21.75 7
+ 4 6 1 20.96 7
+ 5 6 0 20.29 7
+ 5 7 0 19.876 7
+ 1 3 2 19.132 5
+ 6 1 0 18.503 5
+ 1 5 2 17.819 7
+ 6 6 0 17.208 7
+ 1 8 2 16.085 2
+ 7 0 1 14.39 5
+ 7 7 1 14.199 3
+ 8 1 0 13.81 3
+ 7 9 1 13.432 5
+
+# End of data set 556177
+
+

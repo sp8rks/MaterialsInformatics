@@ -1,0 +1,174 @@
+##############################################################################
+#                                                                            #
+# Cs-Nb-O-P        # CsNb[PO4]2                                    # 1012461 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1012461
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1012461
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Nb [P O~4~]~2~'
+_chemical_formula_sum                    'Cs Nb O8 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KFe[SO~4~]~2~,mS24,12
+_chemical_formula_weight                 415.8
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesis and crystal structure of CsNb(PO~4~)~2~'                           
+_journal_coden_ASTM                      KRISAJ
+_journal_name_full                       Kristallografiya
+_journal_year                            1999
+_journal_volume                          44
+_journal_page_first                      1024
+_journal_page_last                       1026
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Murashova E.V.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Chudinova N.N.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.684
+_cell_length_b                           5.23
+_cell_length_c                           8.84
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.21
+_cell_angle_gamma                        90
+_cell_volume                             400.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Cs
+ Nb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 j 0.4511 0.237 0.1478 1
+ O2 O 4 i 0.2112 0 0.0811 1
+ O3 O 4 i 0.3213 0 0.351 1
+ P1 P 4 i 0.3564 0 0.1925 1
+ Cs1 Cs 2 c 0 0 0.5 1
+ Nb1 Nb 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.44
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            6.38
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             36
+_refine_ls_number_reflns                 536
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  0.045
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 88.7 15
+ 1 1 0 44.8 80
+ 0 0 2 44.2 20
+ 2 0 0 43.4 70
+ -1 1 1 40.4 5
+ -2 0 1 39.88 20
+ 1 1 1 39.52 40
+ 2 0 1 38.14 5
+ -1 1 2 31.88 100
+ 1 1 2 30.99 30
+ 2 0 2 30.09 10
+ 0 0 3 29.44 1
+ 0 2 0 26.13 60
+ 3 1 0 25.29 80
+ -3 1 1 24.67 1
+ 0 2 2 22.44 25
+ 0 0 4 22.05 1
+ -2 2 1 21.86 5
+ 4 0 0 21.68 5
+ 3 1 2 21.5 1
+ -4 0 1 21.27 1
+ -2 2 2 20.19 10
+ -2 0 4 19.91 1
+ 2 2 2 19.74 5
+ 1 1 4 19.56 1
+ 2 0 4 19.14 1
+ 4 0 2 19.04 1
+ 1 3 0 16.93 1
+ 0 2 4 16.85 1
+ 4 2 0 16.67 1
+ 5 1 0 16.46 10
+
+# End of data set 1012461
+
+

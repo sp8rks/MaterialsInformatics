@@ -1,0 +1,174 @@
+##############################################################################
+#                                                                            #
+# Ag-O-P-V         # Ag2[VO][P2O7]                                 # 1231156 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1231156
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1231156
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ [V O] [P~2~ O~7~]'
+_chemical_formula_sum                    'Ag2 O8 P2 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Na~2~[VO][P~2~O~7~],mP52,14
+_chemical_formula_weight                 456.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Silver vanadium diphosphate Ag~2~VP~2~O~8~: Electrochemistry and characterization of reduced material providing mechanistic insights
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2013
+_journal_volume                          200
+_journal_page_first                      232
+_journal_page_last                       240
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Takeuchi E.S.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Material Science and Engineering
+Stony Brook
+U.S.A. New York
+;
+'Lee C.Y.'
+;
+New York Buffalo University of SUNY (New York State University)
+Department of Chemical and Biological Engineering
+Buffalo
+U.S.A. New York
+;
+'Cheng P.J.'
+;
+New York Buffalo University of SUNY (New York State University)
+Department of Chemical and Biological Engineering
+Buffalo
+U.S.A. New York
+;
+'Menard M.C.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Material Science and Engineering
+Stony Brook
+U.S.A. New York
+;
+'Marschilok A.C.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Material Science and Engineering
+Stony Brook
+U.S.A. New York
+;
+'Takeuchi K.J.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Chemistry
+Stony Brook
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.7373
+_cell_length_b                           13.606
+_cell_length_c                           6.2959
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.008
+_cell_angle_gamma                        90
+_cell_volume                             654.62
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ag
+ P
+ V
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 e 0.0179 0.014 0.2368 1
+ Ag1 Ag 4 e 0.06422 0.20236 0.14944 1
+ O3 O 4 e 0.1278 0.8232 0.197 1
+ P2 P 4 e 0.1761 0.5216 0.2489 1
+ O7 O 4 e 0.2218 0.4137 0.202 1
+ O4 O 4 e 0.2312 0.594 0.0815 1
+ O8 O 4 e 0.2826 0.2231 0.4649 1
+ P1 P 4 e 0.3641 0.3727 0.0467 1
+ O1 O 4 e 0.3637 0.0623 0.3606 1
+ Ag2 Ag 4 e 0.48702 0.14644 0.08647 1
+ O2 O 4 e 0.5393 0.3602 0.1842 1
+ O6 O 4 e 0.7305 0.0442 0.0211 1
+ V1 V 4 e 0.7747 0.42262 0.2246 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.63
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Ultima IV'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 6
+_diffrn_reflns_theta_max                 45
+_pd_proc_2theta_range_min                12
+_pd_proc_2theta_range_max                90
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             52
+_refine_ls_number_reflns                 522
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0924
+_pd_proc_ls_proof_wR_factor              0.1219
+_refine_ls_R_I_factor                    0.08389
+
+# End of data set 1231156
+
+

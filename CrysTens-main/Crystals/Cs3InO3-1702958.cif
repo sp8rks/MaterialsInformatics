@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Cs-In-O          # Cs3InO3                                       # 1702958 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702958
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702958
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~3~ In O~3~'
+_chemical_formula_sum                    'Cs3 In O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Rb~3~TlO~3~,mP28,14
+_chemical_formula_weight                 561.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+New metal oxides with doubles of tetrahedra as building units: Rb~6~[Tl~2~O~6~] and Cs~6~[In~2~O~6~]
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1987
+_journal_volume                          547
+_journal_page_first                      188
+_journal_page_last                       198
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hoppe R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Wagner G.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Glaum R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.163
+_cell_length_b                           7.307
+_cell_length_c                           11.785
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.38
+_cell_angle_gamma                        90
+_cell_volume                             699.84
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cs
+ O
+ In
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs3 Cs 4 e 0.0457 0.1197 0.156 1
+ O2 O 4 e 0.0998 0.053 0.4079 1
+ In In 4 e 0.1561 0.5828 0.0666 1
+ O1 O 4 e 0.2466 0.6642 0.5396 1
+ O3 O 4 e 0.2906 0.4416 0.188 1
+ Cs1 Cs 4 e 0.3504 0.3308 0.4285 1
+ Cs2 Cs 4 e 0.6254 0.3224 0.1939 1
+
+
+_exptl_crystal_colour                    'yellow pale'
+_exptl_crystal_density_meas              5.21
+_exptl_crystal_density_diffrn            5.33
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54178
+_pd_proc_wavelength                      1.54178
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    8150
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            17.57
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1584
+_refine_ls_R_factor_gt                   0.0925
+_refine_ls_wR_factor_gt                  0.0844
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ -3 1 1 555.7 40
+ 2 0 2 578 60
+ 1 2 1 591.5 100
+ -2 1 2 598.1 80
+ 4 1 0 802 65
+
+# End of data set 1702958
+
+

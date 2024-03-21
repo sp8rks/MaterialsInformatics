@@ -1,0 +1,131 @@
+##############################################################################
+#                                                                            #
+# Be-Cs-F-Li       # CsLiBeF4                                      # 1610857 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1610857
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1610857
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Li Be F~4~'
+_chemical_formula_sum                    'Be Cs F4 Li'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsLiBeF~4~,mP28,14
+_chemical_formula_weight                 224.9
+
+# Bibliographic data
+
+_publ_section_title
+'Tetrahedral-framework structures of NH~4~LiBeF~4~ and CsLiBeF~4~'            
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1972
+_journal_volume                          7
+_journal_page_first                      1209
+_journal_page_last                       1217
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chung S.J.'
+;
+Aachen RWTH University
+Institut f\"ur Kristallographie
+Aachen
+Germany
+;
+'Hahn T.'
+;
+Aachen RWTH University
+Institut f\"ur Kristallographie
+Aachen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.383
+_cell_length_b                           8.738
+_cell_length_c                           10.7304
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.86
+_cell_angle_gamma                        90
+_cell_volume                             437.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cs
+ F
+ Be
+ Li
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs Cs 4 e 0.0232 0.002 0.2763 1
+ F2 F 4 e 0.0368 0.2644 0.0399 1
+ F1 F 4 e 0.3312 0.0263 0.083 1
+ Be Be 4 e 0.3377 0.2019 0.083 1
+ F3 F 4 e 0.4227 0.2409 0.4722 1
+ F4 F 4 e 0.5605 0.2586 0.2333 1
+ Li Li 4 e 0.672 0.3181 0.4173 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.41
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Siemens
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  0.049
+
+# End of data set 1610857
+
+

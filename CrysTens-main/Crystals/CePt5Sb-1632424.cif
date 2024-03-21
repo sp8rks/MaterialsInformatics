@@ -1,0 +1,218 @@
+##############################################################################
+#                                                                            #
+# Ce-Pt-Sb         # CePt5Sb lt                                    # 1632424 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1632424
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1632424
+
+# Entry summary
+
+_chemical_formula_structural             'Ce Pt~5~ Sb'
+_chemical_formula_sum                    'Ce Pt5 Sb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CePt~5~Sb,mS28,8
+_chemical_formula_weight                 1237.3
+
+# Bibliographic data
+
+_publ_section_title
+'First-order phase transition in a new CaCu~5~-related antimonide, CePt~5~Sb' 
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2011
+_journal_volume                          23
+_journal_page_first                      4016
+_journal_page_last                       4024
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Salamakha L.P.'
+;
+Vienna Technical University
+Institut f\"ur Festk\"orperphysik
+Vienna
+Austria
+;
+'Roisnel T.'
+;
+Rennes I University
+Sciences Chimiques de Rennes
+Rennes
+France
+;
+'Giester G.'
+;
+Vienna Technical University
+Institute of Mineralogy and Crystallography
+Vienna
+Austria
+;
+'Mudryi S.I.'
+;
+Lviv Ivan Franko National University
+Department of Physics of Metals
+Lviv
+Ukraine
+;
+'Bauer E.'
+;
+Vienna Technical University
+Institut f\"ur Festk\"orperphysik
+Vienna
+Austria
+;
+'Michor H.'
+;
+Vienna Technical University
+Institut f\"ur Festk\"orperphysik
+Vienna
+Austria
+;
+'Hilscher G.'
+;
+Vienna Technical University
+Institut f\"ur Festk\"orperphysik
+Vienna
+Austria
+;
+'M\"uller H.'
+;
+Vienna Technical University
+Institut f\"ur Festk\"orperphysik
+Vienna
+Austria
+;
+'Svagera R.'
+;
+Vienna Technical University
+Institut f\"ur Festk\"orperphysik
+Vienna
+Austria
+;
+'Sologub O.L.'
+;
+Vienna University
+Institut f\"ur Physikalische Chemie
+Vienna
+Austria
+;
+'Rogl P.'
+;
+Vienna University
+Institut f\"ur Physikalische Chemie
+Vienna
+Austria
+;
+'Hester J.R.'
+;
+Australian Nuclear Science and Technology Organisation (ANSTO)
+Bragg Institute
+Menai
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.1821
+_cell_length_b                           5.3696
+_cell_length_c                           10.8064
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.397
+_cell_angle_gamma                        90
+_cell_volume                             508.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Pt
+ Sb
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ M4 Pt 4 b 0.306 0.196 0.337 1
+ M3 Pt 4 b 0.472 0.254 0.762 1
+ M7 Pt 2 a 0.0 0 0.0 1
+ M12 Sb 2 a 0.047 0 0.229 1
+ M2 Ce 2 a 0.184 0 0.552 1
+ M11 Sb 2 a 0.271 0 0.855 1
+ M8 Pt 2 a 0.339 0 0.113 1
+ M9 Pt 2 a 0.509 0 0.56 1
+ M6 Pt 2 a 0.581 0 0.337 1
+ M1 Ce 2 a 0.663 0 0.067 1
+ M5 Pt 2 a 0.71 0 0.813 1
+ M10 Pt 2 a 0.819 0 0.548 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            16.17
+_cell_measurement_temperature            4.2
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.622
+_pd_proc_wavelength                      1.622
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              4.2
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Australia, Lucas Heights, Australian Nuclear Science and Technology Organisation, OPAL reactor, ECHIDNA
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.622
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 0.775
+_diffrn_reflns_theta_max                 80
+_pd_proc_2theta_range_min                1.55
+_pd_proc_2theta_range_max                160
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.057
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1632424
+
+

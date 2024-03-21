@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Ag-Cr-P-S        # AgCrP2S6                                      # 1803935 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1803935
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1803935
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Cr P~2~ S~6~'
+_chemical_formula_sum                    'Ag Cr P2 S6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AgCrP~2~S~6~,mP20,13
+_chemical_formula_weight                 414.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Coordinence inhabituelle de l'argent dans un sulfure lamellaire a sous-r\'eseau magn\'etique 1D: Le compos\'e Ag~1/2~Cr~1/2~PS~3~
+;
+_journal_coden_ASTM                      NJCHD4
+_journal_name_full                       'Nouv. J. Chim.'
+_journal_year                            1983
+_journal_volume                          7
+_journal_page_first                      333
+_journal_page_last                       338
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Colombet P.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Institut des Mat\'eriaux, Chimie des Solides
+Nantes
+France
+;
+'Leblanc A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Institut des Mat\'eriaux, Chimie des Solides
+Nantes
+France
+;
+'Danot M.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Institut des Mat\'eriaux, Chimie des Solides
+Nantes
+France
+;
+'Rouxel J.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Institut des Mat\'eriaux, Chimie des Solides
+Nantes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.745
+_cell_length_b                           10.632
+_cell_length_c                           5.892
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.88
+_cell_angle_gamma                        90
+_cell_volume                             406.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ P
+ Cr
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S(3) S 4 g 0.2131 0.6053 0.0172 1
+ S(1) S 4 g 0.2606 0.2288 0.0145 1
+ S(2) S 4 g 0.2716 0.0766 0.5079 1
+ P P 4 g 0.3302 0.2453 0.702 1
+ Cr Cr 2 f 0.5 0.0789 0.25 1
+ Ag Ag 2 f 0.5 0.4369 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.38
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 4
+_diffrn_reflns_theta_max                 40
+_pd_proc_2theta_range_min                8
+_pd_proc_2theta_range_max                80
+_exptl_absorpt_coefficient_mu            5.49
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values derived from related structure, Fourier synthesis'           
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1115
+_refine_ls_R_factor_gt                   0.038
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1803935
+
+

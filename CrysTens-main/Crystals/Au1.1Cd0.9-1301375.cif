@@ -1,0 +1,182 @@
+##############################################################################
+#                                                                            #
+# Au-Cd            # Au1.1Cd0.9 rt                                 # 1301375 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1301375
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1301375
+
+# Entry summary
+
+_chemical_formula_structural             'Au~1.1~ Cd~0.9~'
+_chemical_formula_sum                    'Au Cd'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            LiSn,mP6,10
+_chemical_formula_weight                 317.8
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of Au~1.1~Cd~0.9~.r'                                       
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1978
+_journal_volume                          148
+_journal_page_first                      179
+_journal_page_last                       191
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Alasafi K.M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Metallforschung
+Stuttgart
+Germany
+;
+'Schubert K.'
+;
+Stuttgart University
+Institut f\"ur Werkstoffwissenschaften
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.91
+_cell_length_b                           3.089
+_cell_length_c                           7.431
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.38
+_cell_angle_gamma                        90
+_cell_volume                             108.7
+_cell_formula_units_Z                    3
+_space_group_IT_number                   10
+_space_group_name_H-M_alt                'P 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+loop_
+ _atom_type_symbol
+ Au
+ Cd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Au2 Au 2 n 0.2409 0.5 0.3304 1
+ Cd2 Cd 2 m 0.2624 0 0.6639 1
+ Au1 Au 1 e 0.5 0.5 0 1
+ Cd1 Cd 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            14.57
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 47310 3
+ 1 0 -1 45370 3
+ 1 0 1 35360 5
+ 2 0 -1 33130 5
+ 0 1 0 30940 5
+ 0 1 1 25880 6
+ 1 1 -1 25540 5
+ 1 0 -2 24430 7
+ 3 0 0 23890 7
+ 0 0 2 23600 4
+ 1 1 1 23270 8
+ 2 0 -2 22690 5
+ 2 1 -1 22610 8
+ 1 0 2 20830 5
+ 2 1 1 19670 3
+ 3 0 -2 19620 3
+ 1 1 -2 19170 2
+ 3 1 -1 18980 4
+ 3 1 0 18900 4
+ 2 1 -2 18290 3
+ 2 0 2 17670 5
+ 1 1 2 17300 2
+ 3 1 -2 16550 5
+ 3 1 1 16400 3
+ 1 0 -3 16310 2
+ 4 1 -1 15870 2
+ 0 2 0 15490 5
+ 2 1 2 15360 2
+ 3 0 2 14930 2
+ 5 0 -1 14860 2
+ 1 1 -3 14440 6
+ 2 1 -3 14270 3
+ 1 2 1 14180 2
+ 0 1 3 14030 5
+ 4 1 1 13820 6
+ 3 1 -3 13600 4
+ 5 1 -1 13400 6
+ 1 1 3 13200 1
+ 1 2 -2 13090 5
+ 3 2 0 13000 6
+ 5 0 1 12800 4
+ 5 1 -2 12780 3
+ 4 0 2 12730 2
+ 4 1 -3 12590 5
+ 1 2 2 12440 4
+ 2 1 3 12130 4
+ 6 0 0 11940 4
+
+# End of data set 1301375
+
+

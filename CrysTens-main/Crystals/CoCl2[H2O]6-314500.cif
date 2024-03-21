@@ -1,0 +1,124 @@
+##############################################################################
+#                                                                            #
+# Cl-Co-H-O        # CoCl2[H2O]6                                   #  314500 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_314500
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      314500
+
+# Entry summary
+
+_chemical_formula_structural             'Co Cl~2~ [H~2~ O]~6~'
+_chemical_formula_sum                    'Cl2 Co H12 O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoCl~2~[H~2~O]~6~,mS18,12
+_chemical_formula_weight                 237.9
+
+# Bibliographic data
+
+_publ_section_title
+'An X-ray Study on the Structure of Cobalt Dichloride Hexahydrate'            
+_journal_coden_ASTM                      JUPSAU
+_journal_name_full                       'J. Phys. Soc. Jpn.'
+_journal_year                            1960
+_journal_volume                          15
+_journal_page_first                      1412
+_journal_page_last                       1420
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mizuno J.'
+;
+Sendai Miyagi Tohoku University
+Research Institute of Iron, Steel and Other Metals
+Sendai / Miyagi
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.34
+_cell_length_b                           7.06
+_cell_length_c                           6.67
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.33
+_cell_angle_gamma                        90
+_cell_volume                             411.43
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ OH2
+ Cl
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ OI OH2 8 j 0.0288 0.213 0.252 1
+ Cl Cl 4 i 0.278 0 0.172 1
+ OII OH2 4 i 0.275 0 0.707 1
+ Co Co 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'red, dark'
+_exptl_crystal_density_meas              2.02
+_exptl_crystal_density_diffrn            1.92
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            2.776
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.19
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 314500
+
+

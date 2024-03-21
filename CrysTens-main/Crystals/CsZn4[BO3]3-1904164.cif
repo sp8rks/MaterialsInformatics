@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# B-Cs-O-Zn        # CsZn4[BO3]3                                   # 1904164 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904164
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904164
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Zn~4~ [B O~3~]~3~'
+_chemical_formula_sum                    'B3 Cs O9 Zn4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KZn~4~[BO~3~]~3~,mP34,13
+_chemical_formula_weight                 570.8
+
+# Bibliographic data
+
+_publ_section_title
+'Framework alkali metal zinc orthoborates: AZn~4~(BO~3~)~3~ (A= K, Rb, Cs)'   
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1992
+_journal_volume                          31
+_journal_page_first                      4679
+_journal_page_last                       4682
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Smith R.W.'
+;
+Oregon Corvallis University
+Department of Chemistry
+Corvallis
+U.S.A. Oregon
+;
+'Luce J.L.'
+;
+Oregon Corvallis University
+Department of Chemistry
+Corvallis
+U.S.A. Oregon
+;
+'Keszler D.A.'
+;
+Oregon Corvallis University
+Department of Chemistry
+Corvallis
+U.S.A. Oregon
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.871
+_cell_length_b                           5.019
+_cell_length_c                           12.961
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.5
+_cell_angle_gamma                        90
+_cell_volume                             446.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Zn
+ O
+ B
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Zn1 Zn 4 g 0.01044 0.1532 0.37604 1
+ O1 O 4 g 0.0931 0.2035 0.8321 1
+ O2 O 4 g 0.2236 0.2955 0.4648 1
+ O3 O 4 g 0.2409 0.1068 0.0649 1
+ Zn2 Zn 4 g 0.29172 0.6649 0.43978 1
+ B1 B 4 g 0.3119 0.154 0.5493 1
+ O4 O 4 g 0.4588 0.2549 0.6106 1
+ Cs1 Cs 2 f 0.5 0.2047 0.25 1
+ O5 O 2 e 0 0.3831 0.25 1
+ B2 B 2 e 0 0.66 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.25
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1904164
+
+

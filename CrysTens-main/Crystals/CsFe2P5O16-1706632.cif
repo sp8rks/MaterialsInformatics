@@ -1,0 +1,174 @@
+##############################################################################
+#                                                                            #
+# Cs-Fe-O-P        # CsFe2P5O16                                    # 1706632 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1706632
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1706632
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Fe~2~ P~5~ O~16~'
+_chemical_formula_sum                    'Cs Fe2 O16 P5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsV~2~P~5~O~16~,mP48,7
+_chemical_formula_weight                 655.5
+
+# Bibliographic data
+
+_publ_section_title
+'Synthesen und Kristallstrukturen von CsM~2~P~5~O~16~ (M= V, Fe)'             
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1988
+_journal_volume                          567
+_journal_page_first                      87
+_journal_page_last                       94
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Klinkert B.'
+;
+Hannover Gottfried Wilhelm Leibniz University
+Institut f\"ur Anorganische Chemie
+Hannover
+Germany
+;
+'Jansen M.'
+;
+Bonn Rheinich Friedrich Wilhelm University
+Institut f\"ur Anorganische Chemie
+Bonn
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.5299
+_cell_length_b                           9.3777
+_cell_length_c                           10.2847
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.092
+_cell_angle_gamma                        90
+_cell_volume                             672.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ Fe
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P2 P 2 a 0.0 0.6401 0.0 1
+ O6 O 2 a 0.0054 0.4806 0.025 1
+ P3 P 2 a 0.0456 0.2043 0.7557 1
+ O11 O 2 a 0.098 0.198 0.1478 1
+ P4 P 2 a 0.0991 0.0417 0.1165 1
+ O7 O 2 a 0.1192 0.2859 0.6481 1
+ O4 O 2 a 0.12 0.3195 0.4096 1
+ O10 O 2 a 0.1323 0.0477 0.7586 1
+ O8 O 2 a 0.1415 0.732 0.3959 1
+ Fe2 Fe 2 a 0.2391 0.3593 0.0954 1
+ O13 O 2 a 0.284 0.0058 0.086 1
+ O3 O 2 a 0.316 0.4312 0.2877 1
+ P1 P 2 a 0.3331 0.3729 0.4294 1
+ O1 O 2 a 0.3824 0.5119 0.0416 1
+ O14 O 2 a 0.4627 0.2428 0.1349 1
+ O2 O 2 a 0.463 0.245 0.4788 1
+ P5 P 2 a 0.4921 0.0829 0.1539 1
+ O15 O 2 a 0.5721 0.0387 0.3062 1
+ O16 O 2 a 0.6037 0.031 0.0703 1
+ Cs Cs 2 a 0.6163 0.6972 0.3806 1
+ Fe1 Fe 2 a 0.6822 0.1306 0.4878 1
+ O5 O 2 a 0.8044 0.3003 0.4332 1
+ O9 O 2 a 0.8325 0.1994 0.6941 1
+ O12 O 2 a 0.9283 0.02 0.5036 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.24
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            30
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens-STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    6176
+_diffrn_reflns_theta_min                 2.15
+_diffrn_reflns_theta_max                 27.5
+_exptl_absorpt_coefficient_mu            5.203
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             216
+_refine_ls_number_reflns                 2805
+_refine_ls_R_factor_gt                   0.035
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 0 9386 1
+ -1 0 1 6983 30
+ 0 1 1 6684 30
+ -1 1 0 5627 15
+ -1 1 1 5594 20
+ 1 0 1 4879 100
+ 0 0 2 4765 50
+ 0 2 0 4696 15
+ 1 1 1 4332 5
+ -1 1 2 4298 100
+ 0 1 2 4254 80
+ 0 2 1 4209 1
+ -1 2 0 3901 100
+ -2 0 0 3514 20
+ -2 1 1 3493 100
+
+# End of data set 1706632
+
+

@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# As-S             # AsS2 hp                                       # 1140961 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1140961
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1140961
+
+# Entry summary
+
+_chemical_formula_structural             'As S~2~'
+_chemical_formula_sum                    'As S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AsS~2~,mP24,4
+_chemical_formula_weight                 139.0
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of new AsS~2~ compound'                                    
+_journal_coden_ASTM                      CYSTE3
+_journal_name_full                       'Crystallogr. Rep.'
+_journal_year                            2013
+_journal_volume                          58
+_journal_page_first                      61
+_journal_page_last                       64
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bolotina N.B.'
+;
+Russian Academy of Sciences
+A.V. Shubnikov Institute of Crystallography
+Moscow
+Russia
+;
+'Brazhkin V.V.'
+;
+Russian Academy of Sciences
+Vereshchagin Institute for High-Pressure Physics
+Troitsk
+Russia
+;
+'Dyuzheva T.I.'
+;
+Russian Academy of Sciences
+Vereshchagin Institute for High-Pressure Physics
+Troitsk
+Russia
+;
+'Lityagina L.M.'
+;
+Russian Academy of Sciences
+Vereshchagin Institute for High-Pressure Physics
+Troitsk
+Russia
+;
+'Kulikova L.F.'
+;
+Russian Academy of Sciences
+Vereshchagin Institute for High-Pressure Physics
+Troitsk
+Russia
+;
+'Nikolaev N.A.'
+;
+Russian Academy of Sciences
+Vereshchagin Institute for High-Pressure Physics
+Troitsk
+Russia
+;
+'Verin I.A.'
+;
+Russian Academy of Sciences
+A.V. Shubnikov Institute of Crystallography
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.118
+_cell_length_b                           9.937
+_cell_length_c                           7.916
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.41
+_cell_angle_gamma                        90
+_cell_volume                             537.1
+_cell_formula_units_Z                    8
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ As
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As1 As 2 a 0.0914 0.224 0.0292 1
+ S8 S 2 a 0.0921 0.6935 0.2502 1
+ S6 S 2 a 0.1759 0.0 0.5333 1
+ S4 S 2 a 0.2008 0.0122 0.0608 1
+ S3 S 2 a 0.2234 0.5088 0.2808 1
+ As2 As 2 a 0.2359 0.2304 0.5631 1
+ As3 As 2 a 0.3928 0.0006 0.3474 1
+ S1 S 2 a 0.4471 0.2176 0.389 1
+ As4 As 2 a 0.4688 0.5156 0.1218 1
+ S5 S 2 a 0.5551 0.7216 0.1714 1
+ S7 S 2 a 0.7472 0.0324 0.1704 1
+ S2 S 2 a 0.8549 0.2342 0.1811 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.44
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    16533
+_exptl_absorpt_coefficient_mu            13.8
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'charge flipping'
+_refine_ls_number_parameters             43
+_refine_ls_number_reflns                 1001
+_refine_ls_R_factor_gt                   0.131
+_refine_ls_wR_factor_gt                  0.081
+
+# End of data set 1140961
+
+

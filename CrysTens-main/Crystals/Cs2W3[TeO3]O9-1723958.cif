@@ -1,0 +1,184 @@
+##############################################################################
+#                                                                            #
+# Cs-O-Te-W        # Cs2W3[TeO3]O9                                 # 1723958 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1723958
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1723958
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ W~3~ [Te O~3~] O~9~'
+_chemical_formula_sum                    'Cs2 O12 Te W3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+[NH~4~]~2~Mo~3~[SeO~3~]O~9~,hP36,173                                          
+_chemical_formula_weight                 1137.0
+_chemical_melting_point                  1093
+
+# Bibliographic data
+
+_publ_section_title
+;
+Top-seeded solution growth, structure, morphology, and functional properties of a new polar crystal - Cs~2~TeW~3~O~12~
+;
+_journal_coden_ASTM                      CGDEFU
+_journal_name_full                       'Cryst. Growth Des.'
+_journal_year                            2015
+_journal_volume                          15
+_journal_page_first                      4484
+_journal_page_last                       4489
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhao P.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Cong H.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Tian X.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Sun Y.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Zhang C.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Xia S.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Gao Z.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+'Tao X.'
+;
+Jinan Shandong University
+State Key Laboratory of Crystal Materials
+Jinan / Shandong
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.3279
+_cell_length_b                           7.3279
+_cell_length_c                           12.4075
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             577
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ W
+ Cs
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 6 c 0.1267 0.2493 0.24614 1
+ O3 O 6 c 0.262 0.1336 0.07184 1
+ W1 W 6 c 0.33873 0.14593 0.23656 1
+ O4 O 6 c 0.39 0.1942 0.37424 1
+ O2 O 6 c 0.5483 0.0883 0.19834 1
+ Cs1 Cs 2 b 0.333333 0.666667 0.07307 1
+ Cs2 Cs 2 b 0.333333 0.666667 0.42994 1
+ Te2 Te 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    'yellow light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.54
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            9657
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8 SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    9290
+_diffrn_reflns_theta_min                 3.21
+_diffrn_reflns_theta_max                 26.99
+_exptl_absorpt_coefficient_mu            38.583
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 826
+_refine_ls_R_factor_gt                   0.0124
+_refine_ls_wR_factor_gt                  0.0247
+
+# End of data set 1723958
+
+

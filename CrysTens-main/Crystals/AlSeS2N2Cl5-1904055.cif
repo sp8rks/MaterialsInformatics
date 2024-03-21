@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# Al-Cl-N-S-Se     # AlSeS2N2Cl5                                   # 1904055 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904055
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904055
+
+# Entry summary
+
+_chemical_formula_structural             'Al Se S~2~ N~2~ Cl~5~'
+_chemical_formula_sum                    'Al Cl5 N2 S2 Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AlSeS~2~N~2~Cl~5~,mP44,14
+_chemical_formula_weight                 375.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Preparation of [NS][AlCl~4~] and [NS][CF~3~SO~3~] and reactions of the thiazyl cation with thiadiazoles and organoselenium halides: X-ray crystal structure of [N~2~S~2~SeCl][AlCl~4~]
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1990
+_journal_volume                          29
+_journal_page_first                      1643
+_journal_page_last                       1648
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Apblett A.'
+;
+Calgary University
+Department of Chemistry
+Calgary
+Canada
+;
+'Chivers T.'
+;
+Calgary University
+Department of Chemistry
+Calgary
+Canada
+;
+'Fait J.F.'
+;
+Calgary University
+Department of Chemistry
+Calgary
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.237
+_cell_length_b                           10.685
+_cell_length_c                           14.2849
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.586
+_cell_angle_gamma                        90
+_cell_volume                             1117.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cl
+ S
+ N
+ Al
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl2 Cl 4 e 0.02846 0.29382 0.09928 1
+ Cl3 Cl 4 e 0.11038 0.02633 0.25837 1
+ S1 S 4 e 0.14794 0.75108 0.18896 1
+ N1 N 4 e 0.1995 0.6039 0.195 1
+ Al1 Al 4 e 0.21402 0.14157 0.18804 1
+ Cl4 Cl 4 e 0.23988 0.03578 0.07436 1
+ S2 S 4 e 0.32207 0.53335 0.31387 1
+ Cl5 Cl 4 e 0.42803 0.36514 0.07608 1
+ Cl1 Cl 4 e 0.47418 0.21343 0.32992 1
+ N2 N 4 e 0.619 0.1235 0.0808 1
+ Se1 Se 4 e 0.67325 0.28177 0.11075 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.23
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            4.814
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.049
+_refine_ls_wR_factor_gt                  0.045
+
+# End of data set 1904055
+
+

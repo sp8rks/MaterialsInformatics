@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# Cs-F-N-O-Os      # CsOsNOF5                                      # 1005175 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1005175
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1005175
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Os F~5~ [N O]'
+_chemical_formula_sum                    'Cs F5 N O Os'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KOsNOF~5~,mP18,11
+_chemical_formula_weight                 448.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Peculiarities of osmium nitrosyl pentafluoro complexes crystal structure at different complex-producer oxidation states
+;
+_journal_coden_ASTM                      DANKAS
+_journal_name_full                       'Dokl. Akad. Nauk SSSR'
+_journal_year                            1989
+_journal_volume                          308
+_journal_page_first                      381
+_journal_page_last                       383
+_journal_language                        Russian
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kanishcheva A.S.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Mikhailov Y.N.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Sinitsyn M.N.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Svetlov A.A.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Kokunov Y.V.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Buslaev Y.A.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.939
+_cell_length_b                           6.509
+_cell_length_c                           9.492
+_cell_angle_alpha                        90
+_cell_angle_beta                         97.57
+_cell_angle_gamma                        90
+_cell_volume                             302.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ F
+ O
+ N
+ Cs
+ Os
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F2 F 4 f 0.2414 0.0402 0.3112 1
+ F1 F 4 f 0.6368 0.0441 0.1462 1
+ O O 2 e 0.0283 0.25 0.9608 1
+ N N 2 e 0.1707 0.25 0.0645 1
+ Cs Cs 2 e 0.2093 0.25 0.6098 1
+ Os Os 2 e 0.4154 0.25 0.2142 1
+ F3 F 2 e 0.6751 0.25 0.3861 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.92
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 40
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2042
+_refine_ls_R_factor_gt                   0.049
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1005175
+
+

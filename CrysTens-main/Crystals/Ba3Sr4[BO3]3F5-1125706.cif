@@ -1,0 +1,229 @@
+##############################################################################
+#                                                                            #
+# B-Ba-F-O-Sr      # Ba3Sr4[BO3]3F5                                # 1125706 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1125706
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1125706
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Sr~4~ [B O~3~]~3~ F~5~'
+_chemical_formula_sum                    'B3 Ba3 F5 O9 Sr4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~Sr~4~[BO~3~]~3~F~5~,hP48,186
+_chemical_formula_weight                 1033.9
+_chemical_melting_point                  1447.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal growth, structure, and properties of a non-centrosymmetric fluoride borate, Ba~3~Sr~4~(BO~3~)~3~F~5~
+;
+_journal_coden_ASTM                      CGDEFU
+_journal_name_full                       'Cryst. Growth Des.'
+_journal_year                            2009
+_journal_volume                          9
+_journal_page_first                      3137
+_journal_page_last                       3141
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhang G.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Liu Z.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Zhang J.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Fan F.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Liu Y.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Fu P.Z.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.8953
+_cell_length_b                           10.8953
+_cell_length_c                           6.9381
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             713.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ba
+ F
+ Sr
+ B
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 12 d 0.4061 0.095 0.021 1
+ Ba1 Ba 6 c 0.13563 0.86437 0.1721 1
+ F1 F 6 c 0.4149 0.5851 0.1756 1
+ Sr1 Sr 6 c 0.52776 0.47224 0.32534 1
+ B1 B 6 c 0.8132 0.1868 0.1095 1
+ O1 O 6 c 0.8504 0.1496 0.2895 1
+ Sr2 Sr 2 b 0.333333 0.666667 0.4323 1
+ F3 F 2 b 0.333333 0.666667 0.8348 1
+ F2 F 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              4.971
+_exptl_crystal_density_diffrn            4.81
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS P4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    690
+_diffrn_reflns_theta_min                 2.16
+_diffrn_reflns_theta_max                 27.45
+_exptl_absorpt_coefficient_mu            23.083
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             50
+_refine_ls_number_reflns                 613
+_refine_ls_R_factor_gt                   0.0505
+_refine_ls_wR_factor_gt                  0.1377
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 1 55.9841 3.8
+ 1 1 0 54.4473 3.7
+ 2 0 1 39.0062 30.6
+ 2 1 0 35.5874 18.1
+ 0 0 2 34.8373 9.6
+ 1 0 2 32.674 21.8
+ 2 1 1 31.6929 53.2
+ 3 0 0 31.3582 4.0
+ 1 1 2 29.3372 12.5
+ 3 0 1 28.6216 31.8
+ 2 0 2 27.9967 19.0
+ 2 2 0 27.182 100.0
+ 2 1 2 24.8891 9.9
+ 3 1 1 24.4486 7.9
+ 4 0 0 23.5469 5.4
+ 3 0 2 23.3178 15.4
+ 1 0 3 22.5493 7.6
+ 4 0 1 22.3103 15.7
+ 3 2 0 21.5991 6.3
+ 2 2 2 21.4273 10.6
+ 3 1 2 20.8247 12.2
+ 3 2 1 20.638 5.9
+ 4 1 1 19.712 12.0
+ 4 0 2 19.4864 3.3
+ 5 0 0 18.8383 4.5
+ 3 0 3 18.6717 8.8
+ 3 2 2 18.3698 44.8
+ 5 0 1 18.1848 14.2
+ 3 3 0 18.1252 5.3
+ 4 1 2 17.7053 3.3
+ 1 0 4 17.1242 5.4
+ 2 0 4 16.3398 7.2
+ 4 2 2 15.8284 3.4
+ 2 1 4 15.4953 6.0
+ 4 3 0 15.4013 9.5
+ 4 1 3 15.3503 2.8
+ 5 1 2 15.2319 2.6
+ 4 3 1 15.1028 2.4
+ 5 2 0 15.0834 3.8
+ 5 2 1 14.7504 3.2
+ 4 3 2 14.1336 2.7
+ 3 2 4 13.5691 8.2
+ 7 0 0 13.5311 4.9
+
+# End of data set 1125706
+
+

@@ -1,0 +1,254 @@
+##############################################################################
+#                                                                            #
+# Ba-Cl-F          # Ba7Cl2F12 rt                                  # 1120127 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1120127
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1120127
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~7~ Cl~2~ F~12~'
+_chemical_formula_sum                    'Ba7 Cl2 F12'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Zr~2~Fe~12~P~7~,hP21,174
+_chemical_formula_weight                 1260.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ab initio determination and Rietveld refinement of the crystal structure of Ba~7~Cl~2~F~12~
+;
+_journal_coden_ASTM                      PODIE2
+_journal_name_full                       'Powder Diffr.'
+_journal_year                            1998
+_journal_volume                          13
+_journal_page_first                      152
+_journal_page_last                       156
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Es Sakhi B.'
+;
+Agadir Ibnou Zahir University
+D\'epartement de Physique
+Agadir
+Morocco
+;
+'Gravereau P.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Fouassier C.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.6373
+_cell_length_b                           10.6373
+_cell_length_c                           4.1724
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             408.9
+_cell_formula_units_Z                    1
+_space_group_IT_number                   174
+_space_group_name_H-M_alt                'P -6'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-y, x-y, -z'
+ 5 '-y, x-y, z'
+ 6 'x, y, -z'
+loop_
+ _atom_type_symbol
+ F
+ Ba
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F3 F 3 k 0.051 0.435 0.5 1
+ F4 F 3 k 0.212 0.121 0.5 1
+ Ba3 Ba 3 k 0.287 0.4005 0.5 1
+ F2 F 3 j 0.116 0.278 0 1
+ Ba2 Ba 3 j 0.4111 0.1097 0 1
+ F1 F 3 j 0.438 0.372 0 1
+ Cl1 Cl 1 f 0.666667 0.333333 0.5 1
+ Cl2 Cl 1 c 0.333333 0.666667 0 1
+ Ba1 Ba 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.08(2)
+_exptl_crystal_density_diffrn            5.12
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54056
+_pd_proc_wavelength                      1.54056
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW3040'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54056
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 4
+_diffrn_reflns_theta_max                 60
+_pd_proc_2theta_range_min                8
+_pd_proc_2theta_range_max                120
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             38
+_refine_ls_number_reflns                 278
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.102
+_pd_proc_ls_proof_wR_factor              0.140
+_refine_ls_R_I_factor                    0.054
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 96.15 3
+ 1 1 0 166.6 2
+ 2 0 0 192.55 1
+ 0 0 1 212.7 2
+ 1 0 1 233.85 27
+ 2 1 0 255.6 100
+ 1 1 1 271.45 55
+ 2 0 1 288.45 41
+ 3 0 0 290.6 13
+ 2 1 1 334.9 41
+ 3 1 0 350.95 5
+ 3 0 1 363 14
+ 4 0 0 390.8 7
+ 2 2 1 401.9 3
+ 3 1 1 414.1 41
+ 3 2 0 427.5 5
+ 0 0 2 433.45 24
+ 4 0 1 449.2 22
+ 4 1 0 450.65 35
+ 1 1 2 467.35 1
+ 3 2 1 482.3 37
+ 5 0 0 494.4 1
+ 4 1 1 503.45 11
+ 2 1 2 509.95 32
+ 4 2 0 525.25 15
+ 3 0 2 530.3 4
+ 5 0 1 543.85 1
+ 5 1 0 554.9 3
+ 3 3 1 563.35 3
+ 3 1 2 569.4 2
+ 4 2 1 572.9 1
+ 4 0 2 597.6 3
+ 5 1 1 601.15 3
+ 4 3 0 611.5 1
+ 3 2 2 625.1 2
+ 5 2 0 629.55 3
+ 4 1 2 643 20
+ 6 0 1 646.3 7
+ 4 3 1 655.2 7
+ 6 1 0 664.9 1
+ 5 2 1 672.65 7
+ 5 0 2 678.1 1
+ 1 0 3 681.4 2
+ 1 1 3 698.35 4
+ 4 2 2 703.85 12
+ 6 1 1 706.95 13
+ 5 3 0 716.55 7
+ 5 1 2 729.2 3
+ 2 1 3 732.2 4
+ 4 4 1 749 3
+ 5 3 1 757.25 11
+ 6 0 2 770.75 1
+ 3 1 3 781.8 8
+ 7 1 0 783.05 5
+ 5 2 2 795.1 4
+ 4 0 3 806.25 4
+ 5 4 0 815.5 2
+ 7 1 1 822.75 1
+ 6 1 2 827.4 1
+ 3 2 3 830.6 9
+ 4 1 3 846.7 2
+ 5 4 1 855 1
+ 7 2 0 864.05 3
+ 4 4 2 867.65 3
+ 7 0 2 875.8 8
+ 3 3 3 895 1
+ 7 2 1 902.85 3
+ 5 1 3 927.25 1
+ 7 1 2 939.9 6
+ 8 1 1 951 10
+ 7 3 0 960.3 1
+ 6 0 3 967.1 4
+ 5 4 2 972 3
+ 6 4 1 975.3 10
+ 6 3 2 988.65 3
+ 5 2 3 991.4 3
+ 8 2 0 1000.1 3
+ 2 1 4 1008.55 6
+ 7 2 2 1021 5
+ 6 1 3 1024.2 5
+ 8 2 1 1040.55 2
+ 9 1 0 1057.95 3
+ 4 4 3 1065.2 1
+ 5 3 3 1073.8 6
+ 9 1 1 1099.1 3
+ 8 3 0 1108.8 3
+ 7 4 1 1116.35 4
+ 7 3 2 1121.5 2
+ 4 1 4 1126 6
+ 9 0 2 1139.55 1
+ 8 2 2 1165.75 1
+ 4 2 4 1188.2 6
+
+# End of data set 1120127
+
+

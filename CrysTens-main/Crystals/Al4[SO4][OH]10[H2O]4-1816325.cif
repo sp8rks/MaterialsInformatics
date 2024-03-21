@@ -1,0 +1,173 @@
+##############################################################################
+#                                                                            #
+# Al-H-O-S         # Al4[SO4][OH]10[H2O]4                          # 1816325 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1816325
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1816325
+
+# Entry summary
+
+_chemical_formula_structural
+'Al~4~ [S O~4~] [O H]~10~ [H~2~ O]~4~'                                        
+_chemical_formula_sum                    'Al4 H18 O18 S'
+_chemical_name_mineral                   fels\"obanyaite
+_chemical_compound_source                'Hungary, Felsobaya'
+_chemical_name_structure_type
+Al~4~[SO~4~][OH]~10~[H~2~O]~4~,mP92,4                                         
+_chemical_formula_weight                 446.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure determinations of fels\"obanyaite and basaluminite, Al~4~(SO~4~)(OH)~10~.4H~2~O
+;
+_journal_coden_ASTM                      AUSEA6
+_journal_name_full                       'Acta Mineral. Petrogr.'
+_journal_year                            1997
+_journal_volume                          38
+_journal_page_first                      5
+_journal_page_last                       15
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Farkas L.'
+;
+Hungarian Academy of Sciences
+Bolyai Kollegium
+Budapest
+Hungary
+;
+'Pertlik F.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.115
+_cell_length_b                           10.015
+_cell_length_c                           13.026
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.34
+_cell_angle_gamma                        90
+_cell_volume                             1404.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ OH2
+ O
+ OH
+ S
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ow6 OH2 2 a 0.021 0.517 0.65 1
+ Ow2 OH2 2 a 0.031 0.818 0.673 1
+ Os22 O 2 a 0.036 0.63 0.451 1
+ O44 OH 2 a 0.062 0.005 0.119 1
+ Os21 O 2 a 0.066 0.233 0.705 1
+ S2 S 2 a 0.0756 0.18 0.6113 1
+ O54 OH 2 a 0.079 0.493 0.113 1
+ Os23 O 2 a 0.115 0.281 0.543 1
+ O24 OH 2 a 0.137 0.735 0.218 1
+ Al7 Al 2 a 0.1411 0.32 0.0762 1
+ Ow1 OH2 2 a 0.152 0.037 0.871 1
+ O34 OH 2 a 0.154 0.248 0.219 1
+ O73 OH 2 a 0.154 0.403 0.958 1
+ Os24 O 2 a 0.174 0.071 0.643 1
+ O14 OH 2 a 0.203 0.003 0.309 1
+ Al4 Al 2 a 0.2058 0.074 0.1843 1
+ O35 OH 2 a 0.216 0.487 0.315 1
+ Al5 Al 2 a 0.2268 0.58 0.1823 1
+ O53 OH 2 a 0.235 0.634 0.051 1
+ O43 OH 2 a 0.242 0.164 0.07 1
+ O26 OH 2 a 0.272 0.754 0.429 1
+ O33 OH 2 a 0.278 0.405 0.161 1
+ O15 OH 2 a 0.28 0.24 0.433 1
+ Al3 Al 2 a 0.2889 0.33 0.3094 1
+ Al2 Al 2 a 0.2928 0.821 0.2947 1
+ O23 OH 2 a 0.314 0.919 0.182 1
+ O16 OH 2 a 0.328 0.0 0.531 1
+ Ow5 OH2 2 a 0.335 0.463 0.648 1
+ O13 OH 2 a 0.357 0.164 0.283 1
+ Al1 Al 2 a 0.3629 0.088 0.4187 1
+ Ow4 OH2 2 a 0.366 0.411 0.851 1
+ O22 OH 2 a 0.366 0.666 0.261 1
+ Os13 O 2 a 0.407 0.804 0.019 1
+ O31 OH 2 a 0.455 0.392 0.377 1
+ Os12 O 2 a 0.501 0.423 0.103 1
+ O11 OH 2 a 0.516 0.157 0.472 1
+ Os11 O 2 a 0.526 0.182 0.147 1
+ O12 OH 2 a 0.551 0.409 0.6 1
+ S1 S 2 a 0.5764 0.303 0.0958 1
+ Ow3 OH2 2 a 0.587 0.646 0.214 1
+ Al6 Al 2 a 0.5998 0.326 0.4659 1
+ O66 OH2 2 a 0.682 0.256 0.364 1
+ Os14 O 2 a 0.703 0.332 0.167 1
+ O83 OH2 2 a 0.865 0.139 0.163 1
+ Al8 Al 2 a 0.9091 0.075 0.0432 1
+ O74 OH 2 a 0.995 0.235 0.025 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.11
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              300
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             234
+_refine_ls_number_reflns                 1044
+_refine_ls_R_factor_gt                   0.101
+_refine_ls_wR_factor_gt                  0.092
+
+# End of data set 1816325
+
+

@@ -1,0 +1,182 @@
+##############################################################################
+#                                                                            #
+# Ba-F-O-W         # Ba2WO3F4                                      # 2041668 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2041668
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2041668
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ W O~3~ F~4~'
+_chemical_formula_sum                    'Ba2 F4 O3 W'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~WO~3~F~4~,mS40,9
+_chemical_formula_weight                 582.5
+
+# Bibliographic data
+
+_publ_section_title
+'Structure and luminescence of Ba~2~WO~3~F~4~'                                
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1985
+_journal_volume                          20
+_journal_page_first                      137
+_journal_page_last                       145
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Torardi C.C.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+'Brixner L.H.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.4875
+_cell_length_b                           9.361
+_cell_length_c                           7.183
+_cell_angle_alpha                        90
+_cell_angle_beta                         126.18
+_cell_angle_gamma                        90
+_cell_volume                             623.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ba
+ F
+ W
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 a 0.0 0.0912 0.0 1
+ Ba1 Ba 4 a 0.0589 0.3801 0.1754 1
+ F2 F 4 a 0.0892 0.1679 0.4734 1
+ W W 4 a 0.1795 0.0137 0.1229 1
+ F3 F 4 a 0.2398 0.5391 0.1229 1
+ O1 O 4 a 0.2774 0.1806 0.2816 1
+ Ba2 Ba 4 a 0.3528 0.3266 0.0111 1
+ F1 F 4 a 0.3691 0.0864 0.7838 1
+ F4 F 4 a 0.556 0.1487 0.2999 1
+ O2 O 4 a 0.688 0.4393 0.3825 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.21
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            18
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2254
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            31.35
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 883
+_refine_ls_R_factor_gt                   0.043
+_refine_ls_wR_factor_gt                  0.054
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 66.25 11
+ 2 0 0 46.44 15
+ -2 1 1 36.62 28
+ 0 0 2 35.9 30
+ 2 1 1 35.44 45
+ 2 2 0 33.07 70
+ -1 1 2 31.94 27
+ 1 1 2 31.16 42
+ 1 3 0 29.67 61
+ 3 1 0 29.4 100
+ 0 2 2 28.56 17
+ 3 0 1 27.99 13
+ -3 2 1 24.63 22
+ 3 2 1 24.04 22
+ 4 0 0 23.23 15
+ 1 3 2 22.72 7
+ 3 1 2 22.34 12
+ 3 3 0 22.02 13
+ -4 1 1 21.76 59
+ -1 2 3 20.97 80
+ 1 2 3 20.63 11
+ 2 1 3 20.43 8
+ -4 0 2 19.91 20
+ 0 4 2 19.65 22
+ 4 0 2 19.16 32
+ 0 3 3 19.03 64
+ 3 3 2 18.54 55
+ 0 5 1 18.23 34
+ 2 4 2 17.98 35
+ 4 2 2 17.73 16
+ -1 1 4 17.48 7
+ 1 1 4 17.22 15
+ -2 0 4 16.97 37
+ -5 1 2 16.52 49
+ 5 3 0 16 26
+ -3 1 4 15.62 17
+ 6 0 0 15.47 27
+
+# End of data set 2041668
+
+

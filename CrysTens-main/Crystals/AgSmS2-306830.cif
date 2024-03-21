@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Ag-S-Sm          # AgSmS2                                        #  306830 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_306830
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      306830
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Sm S~2~'
+_chemical_formula_sum                    'Ag S2 Sm'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AgGdS~2~,mP32,4
+_chemical_formula_weight                 322.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Une classe de nouveaux compos\'es sulfur\'es de terres rares et d'argent de type AgTS~2~
+;
+_journal_coden_ASTM                      CHDCAQ
+_journal_name_full                       'C. R. Seances Acad. Sci., Ser. C'
+_journal_year                            1966
+_journal_volume                          262
+_journal_page_first                      1253
+_journal_page_last                       1256
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ballestracci R.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire d'Electrostatique et de Physique du M\'etal
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.78
+_cell_length_b                           7.78
+_cell_length_c                           12.32
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.12
+_cell_angle_gamma                        90
+_cell_volume                             745.6
+_cell_formula_units_Z                    8
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Sm
+ Ag
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sm1 Sm 2 a 0.0016 0.2845 0.75314 1
+ Ag1 Ag 2 a 0.004 0.2809 0.279 1
+ S1 S 2 a 0.0099 0.7869 0.0181 1
+ S2 S 2 a 0.0231 0.3029 0.5279 1
+ S3 S 2 a 0.2251 0.0499 0.2747 1
+ S4 S 2 a 0.2267 0.0069 0.7304 1
+ Sm2 Sm 2 a 0.2472 0.0319 0.5013 1
+ Ag2 Ag 2 a 0.2479 0.0339 0.014 1
+ Ag3 Ag 2 a 0.252 0.5289 0.517 1
+ Sm3 Sm 2 a 0.2538 0.532 0.00281 1
+ S5 S 2 a 0.2705 0.5529 0.2325 1
+ S6 S 2 a 0.483 0.2609 0.0287 1
+ Sm4 Sm 2 a 0.4997 0.2805 0.2533 1
+ Ag4 Ag 2 a 0.5 0.7799 0.2053 1
+ S7 S 2 a 0.5244 0.2539 0.4813 1
+ S8 S 2 a 0.7213 0.0 0.2218 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.74
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cr Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               film
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 306830
+
+

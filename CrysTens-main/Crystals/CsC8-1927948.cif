@@ -1,0 +1,235 @@
+##############################################################################
+#                                                                            #
+# C-Cs             # CsC8                                          # 1927948 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1927948
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1927948
+
+# Entry summary
+
+_chemical_formula_structural             'Cs C~8~'
+_chemical_formula_sum                    'C8 Cs'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsC~8~,hP27,180
+_chemical_formula_weight                 229.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+High-pressure behavior of CsC~8~ graphite intercalation compound: Lattice structures and phase-transition mechanism
+;
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            2008
+_journal_volume                          77
+_journal_page_first                      1
+_journal_page_last                       11
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rey N.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physique de la Mati\`ere Condens\'ee et Nanostructures (PMCN)
+Villeurbanne
+France
+;
+'Crichton W.A.'
+;
+European Synchrotron Radiation Facility (ESRF)
+Grenoble
+France
+;
+'M\'ezouar M.'
+;
+European Synchrotron Radiation Facility (ESRF)
+Grenoble
+France
+;
+'Str\"assle T.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Neutronenstreuung
+Villigen
+Switzerland
+;
+'Sheptyakov D.V.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Neutronenstreuung
+Villigen
+Switzerland
+;
+'Montagnac G.'
+;
+Lyon I Claude Bernard University
+Laboratoire de Science de la Terre
+Lyon
+France
+;
+'San Miguel A.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physique de la Mati\`ere Condens\'ee et Nanostructures (PMCN)
+Villeurbanne
+France
+;
+'Toulemonde P.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physique de la Mati\`ere Condens\'ee et Nanostructures (PMCN)
+Villeurbanne
+France
+;
+'Machon D.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physique de la Mati\`ere Condens\'ee et Nanostructures (PMCN)
+Villeurbanne
+France
+;
+'Duclaux L.'
+;
+Le Bourget-du-Lac Savoie University
+Laboratoire de Chimie Mol\'eculaire et Environnement
+Le Bourget-du-Lac
+France
+;
+'Le Floch S.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physique de la Mati\`ere Condens\'ee et Nanostructures (PMCN)
+Villeurbanne
+France
+;
+'Pischedda V.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Physique de la Mati\`ere Condens\'ee et Nanostructures (PMCN)
+Villeurbanne
+France
+;
+'Iti\'e J.P.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Synchrotron SOLEIL
+Gif-sur-Yvette
+France
+;
+'Flank A.M.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Synchrotron SOLEIL
+Gif-sur-Yvette
+France
+;
+'Lagarde P.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Synchrotron SOLEIL
+Gif-sur-Yvette
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.9601
+_cell_length_b                           4.9601
+_cell_length_c                           17.847
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             380.3
+_cell_formula_units_Z                    3
+_space_group_IT_number                   180
+_space_group_name_H-M_alt                'P 62 2 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/3+z'
+ 3 '-x+y, y, -z'
+ 4 '-x, -x+y, 1/3-z'
+ 5 '-x, -y, z'
+ 6 '-y, -x, -1/3-z'
+ 7 '-y, x-y, -1/3+z'
+ 8 'x, x-y, 1/3-z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, x, 1/3+z'
+ 11 'y, -x+y, -1/3+z'
+ 12 'y, x, -1/3-z'
+loop_
+ _atom_type_symbol
+ C
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 12 k 0.33333 0.16667 0.0 1
+ C2 C 6 i 0.16667 0.33333 0 1
+ C3 C 6 i 0.33333 0.66667 0 1
+ Cs Cs 3 d 0.5 0 0.5 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.00
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.494
+_pd_proc_wavelength                      1.494
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Switzerland, Villigen, Paul Scherrer Institute, Laboratory for Neutron Scattering, SINQ
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.494
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1927948
+
+

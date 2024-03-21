@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# Co-Ge            # CoGe rt                                       # 1250823 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1250823
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1250823
+
+# Entry summary
+
+_chemical_formula_structural             'Co Ge'
+_chemical_formula_sum                    'Co Ge'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoGe,mS16,12
+_chemical_formula_weight                 131.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Zum Aufbau der Systeme Kobalt-Germanium, Rhodium-Silizium sowie einiger verwandter Legierungen
+;
+_journal_coden_ASTM                      ZEMTAE
+_journal_name_full                       'Z. Metallkd.'
+_journal_year                            1960
+_journal_volume                          51
+_journal_page_first                      327
+_journal_page_last                       339
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bhan S.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Metallforschung
+Stuttgart
+Germany
+;
+'Schubert K.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Metallforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.648
+_cell_length_b                           3.807
+_cell_length_c                           4.945
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.103
+_cell_angle_gamma                        90
+_cell_volume                             215.18
+_cell_formula_units_Z                    8
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ge
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ge4 Ge 4 i 0.18 0 0.34 1
+ Ge5 Ge 4 i 0.433 0 0.24 1
+ Co3 Co 4 i 0.80 0 0.18 1
+ Co1 Co 2 c 0 0 0.5 1
+ Co2 Co 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              8.24
+_exptl_crystal_density_diffrn            8.12
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'rotation photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ -2 0 1 350.4 3
+ 1 1 0 454.5 4
+ 2 0 1 514.5 3.3
+ -1 1 1 662.9 1
+ 4 0 0 726.8 3.3
+ 1 1 1 746.9 5
+ -4 0 1 817.2 7
+ -3 1 1 945.7 5
+ 0 0 2 1008 3.3
+ -2 0 2 1024.8 1
+ 4 0 1 1146.2 4
+ 3 1 1 1193.4 5
+ 2 0 2 1356.4 6
+ -4 0 2 1406.9 6
+ 5 1 0 1546.9 8
+ -3 1 2 1581.1 7.3
+ 6 0 0 1637.5 7
+
+# End of data set 1250823
+
+

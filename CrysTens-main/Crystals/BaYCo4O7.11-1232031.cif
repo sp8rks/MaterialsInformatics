@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# Ba-Co-O-Y        # BaYCo4O7.11                                   # 1232031 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1232031
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1232031
+
+# Entry summary
+
+_chemical_formula_structural             'Ba Y Co~4~ O~7~'
+_chemical_formula_sum                    'Ba Co4 O7 Y'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            NaBe~4~SbO~7~,hP26,186
+_chemical_formula_weight                 574.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Short-range magnetic ordering in the geometrically frustrated layered compound YBaCo~4~O~7~ with an extended kagome structure
+;
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2013
+_journal_volume                          16
+_journal_page_first                      57
+_journal_page_last                       64
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bera A.K.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Division of Solid State Physics
+Trombay / Maharashtra
+India
+;
+'Yusuf S.M.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Division of Solid State Physics
+Trombay / Maharashtra
+India
+;
+'Banerjee S.'
+;
+Trombay Maharashtra Bhabha Atomic Research Center
+Department of Atomic Energy
+Trombay / Maharashtra
+India
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.2707
+_cell_length_b                           6.2707
+_cell_length_c                           10.1701
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             346.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Co
+ Y
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 6 c 0.4967 0.5033 0.1949 1
+ Co2 Co 6 c 0.8275 0.1725 0.2568 1
+ O3 O 6 c 0.8327 0.1673 0.4503 1
+ Y Y 2 b 0.333333 0.666667 0.0714 1
+ Ba Ba 2 b 0.333333 0.666667 0.4457 1
+ Co1 Co 2 a 0 0 0.0 1
+ O2 O 2 a 0 0 0.1965 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.50
+_cell_measurement_temperature            22
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.249
+_pd_proc_wavelength                      1.249
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              22
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'India, Trombay-Mumbai, Bhabha Atomic Research Centre BARC, DHRUVA reactor'   
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.249
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 69
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                138
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0361
+_pd_proc_ls_proof_wR_factor              0.0457
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1232031
+
+

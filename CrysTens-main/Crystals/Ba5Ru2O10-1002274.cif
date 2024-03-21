@@ -1,0 +1,201 @@
+##############################################################################
+#                                                                            #
+# Ba-O-Ru          # Ba5Ru2O10                                     # 1002274 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1002274
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1002274
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~5~ Ru~2~ O~10~'
+_chemical_formula_sum                    'Ba5 O10 Ru2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~5~Ru~2~O~10~,hP34,194
+_chemical_formula_weight                 1048.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ba~5~Ru~2~O~10~: A new structural model resulting from the stacking of [BaO~3~] and [Ba~2~O] mixed layers. Structural relationships to the hexagonal perovskite-type structures
+;
+_journal_coden_ASTM                      EJSCE5
+_journal_name_full                       'Eur. J. Solid State Inorg. Chem.'
+_journal_year                            1994
+_journal_volume                          31
+_journal_page_first                      289
+_journal_page_last                       300
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Dussarrat C.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Fompeyrine J.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Darriet J.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.958
+_cell_length_b                           5.958
+_cell_length_c                           18.045
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             554.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ru
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 12 k 0.5166 0.0332 0.6176 1
+ O1 O 6 h 0.1863 0.3726 0.25 1
+ Ru Ru 4 f 0.333333 0.666667 0.1742 1
+ Ba3 Ba 4 f 0.333333 0.666667 0.5158 1
+ Ba1 Ba 4 e 0 0 0.1382 1
+ Ba2 Ba 2 d 0.333333 0.666667 0.75 1
+ O3 O 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    brown
+_exptl_crystal_density_meas              6.26(2)
+_exptl_crystal_density_diffrn            6.28
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, crystal chemical considerations'        
+_refine_ls_number_parameters             27
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0827
+_pd_proc_ls_proof_wR_factor              0.116
+_refine_ls_R_I_factor                    0.0476
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 51.5 2
+ 1 0 1 49.6 5
+ 1 0 2 44.7 1
+ 1 0 4 33.96 45
+ 0 0 6 30.03 8
+ 1 1 0 29.78 100
+ 0 1 5 29.57 35
+ 0 2 0 25.79 1
+ 1 1 4 24.83 1
+ 2 0 3 23.71 1
+ 1 1 5 23.06 2
+ 0 0 8 22.54 6
+ 2 0 4 22.38 28
+ 1 1 6 21.16 17
+ 2 0 5 20.99 14
+ 1 0 8 20.66 2
+ 2 1 2 19.06 1
+ 1 0 9 18.68 6
+ 2 0 7 18.23 2
+ 1 1 8 17.97 6
+ 1 2 4 17.9 12
+ 3 0 0 17.19 15
+ 2 1 5 17.16 17
+ 1 0 10 17.03 2
+ 2 0 8 16.98 3
+ 2 0 9 15.82 4
+ 0 1 11 15.64 1
+ 2 1 7 15.55 2
+ 1 1 10 15.43 1
+
+# End of data set 1002274
+
+

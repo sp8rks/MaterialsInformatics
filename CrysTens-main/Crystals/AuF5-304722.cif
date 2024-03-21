@@ -1,0 +1,292 @@
+##############################################################################
+#                                                                            #
+# Au-F             # AuF5 hex                                      #  304722 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_304722
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      304722
+
+# Entry summary
+
+_chemical_formula_structural             'Au F~5~'
+_chemical_formula_sum                    'Au F5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            *,hP6,178
+_chemical_formula_weight                 292.0
+
+# Bibliographic data
+
+_publ_section_title
+'Some properties of gold pentafluoride'                                       
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1990
+_journal_volume                          35
+_journal_page_first                      345
+_journal_page_last                       349
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kiselev Y.M.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Popov A.I.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Goryunov A.V.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Chumaevskii N.A.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Savinova L.N.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Sokolov V.B.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Spirin S.N.'
+;
+Moscow Kurchatov Institute of Atomic Energy
+Russian Research Center
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.664
+_cell_length_b                           5.664
+_cell_length_c                           19.221
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             534
+_cell_formula_units_Z                    6
+_space_group_IT_number                   178
+_space_group_name_H-M_alt                'P 61 2 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -1/3+z'
+ 3 '-x+y, y, 1/2-z'
+ 4 '-x, -x+y, -1/3-z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, -1/6-z'
+ 7 '-y, x-y, 1/3+z'
+ 8 'x, x-y, 1/6-z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, x, 1/6+z'
+ 11 'y, -x+y, -1/6+z'
+ 12 'y, x, 1/3-z'
+loop_
+ _atom_type_symbol
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Au Au 6 b 0.283 0.566 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.8
+_exptl_crystal_density_diffrn            5.45
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'crystal chemical considerations'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.132
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 49.05 147
+ 1 0 1 47.81 106
+ 1 0 2 43.43 103
+ 1 0 3 38.69 297
+ 1 0 4 34.3 92
+ 0 0 6 31.79 385
+ 1 0 5 30.4 82
+ 1 1 0 28.22 369
+ 1 1 2 27.26 62
+ 1 0 6 26.77 108
+ 1 1 3 25.81 17
+ 2 0 0 24.44 219
+ 1 0 7 23.92 74
+ 2 0 2 23.79 118
+ 2 0 3 22.92 119
+ 1 1 5 22.76 107
+ 2 0 4 21.85 135
+ 1 0 8 21.55 67
+ 1 1 6 21.27 178
+ 2 0 5 20.65 49
+ 1 1 7 19.71 82
+ 1 0 9 19.57 171
+ 2 0 6 19.49 87
+ 2 1 0 18.518 102
+ 2 1 1 18.444 87
+ 1 1 8 18.318 86
+ 2 1 2 18.211 79
+ 1 0 10 17.894 51
+ 2 1 3 17.817 83
+ 2 1 4 17.285 80
+ 2 0 8 17.186 88
+ 1 1 9 17.026 9
+ 2 1 5 16.719 90
+ 1 0 11 16.477 50
+ 3 0 0 16.314 152
+ 3 0 2 16.109 140
+ 2 1 6 16.022 209
+ 1 1 10 15.912 32
+ 3 0 3 15.822 44
+ 3 0 4 15.495 53
+ 2 1 7 15.372 33
+ 1 0 12 15.212 33
+ 2 0 10 15.121 80
+ 3 0 5 15.038 84
+ 1 1 11 14.869 28
+ 2 1 8 14.663 35
+ 3 0 6 14.576 34
+ 2 0 11 14.246 22
+ 2 2 0 14.169 43
+ 2 2 1 14.124 80
+ 3 0 7 14.051 65
+ 2 2 2 14.005 113
+ 1 1 12 13.959 87
+ 2 2 3 13.837 15
+ 3 1 0 13.611 33
+ 2 2 4 13.575 68
+ 3 0 8 13.524 61
+ 3 1 2 13.462 68
+ 2 0 12 13.403 53
+ 2 1 10 13.349 56
+ 3 1 3 13.295 83
+ 1 0 14 13.217 29
+ 1 1 13 13.096 84
+ 3 0 9 12.979 16
+ 2 2 6 12.936 17
+ 3 1 5 12.818 37
+ 2 1 11 12.718 38
+ 2 0 13 12.668 14
+ 2 2 7 12.582 50
+ 3 1 6 12.527 39
+ 3 0 10 12.435 32
+ 1 0 15 12.403 65
+ 1 1 14 12.349 19
+ 4 0 0 12.263 58
+ 4 0 1 12.236 43
+ 2 2 8 12.196 69
+ 4 0 2 12.145 30
+ 2 1 12 12.115 17
+ 4 0 3 12.041 23
+ 2 0 14 11.978 27
+ 3 0 11 11.939 36
+ 4 0 4 11.887 24
+ 3 1 8 11.833 25
+ 2 2 9 11.797 5
+ 4 0 5 11.676 71
+ 2 1 13 11.564 33
+ 3 1 9 11.471 24
+ 4 0 6 11.446 38
+ 2 2 10 11.4 34
+ 2 0 15 11.355 34
+ 3 2 0 11.255 29
+ 3 2 1 11.233 33
+ 4 0 7 11.204 35
+ 3 2 2 11.178 24
+ 3 1 10 11.104 24
+ 3 2 3 11.084 5
+ 1 1 16 11.058 11
+ 2 1 14 11.026 32
+ 2 2 11 10.999 34
+ 3 0 13 10.964 49
+ 4 0 8 10.921 14
+ 3 2 5 10.796 63
+ 3 1 11 10.735 33
+ 4 1 0 10.7 16
+ 4 1 1 10.684 87
+ 4 1 2 10.638 63
+ 3 2 6 10.615 18
+ 4 1 3 10.556 26
+ 2 1 15 10.538 26
+ 3 0 14 10.516 16
+ 1 1 17 10.498 35
+ 4 1 4 10.442 41
+ 3 2 7 10.413 36
+ 3 1 12 10.372 16
+ 4 0 10 10.341 14
+ 4 1 5 10.313 30
+
+# End of data set 304722
+
+

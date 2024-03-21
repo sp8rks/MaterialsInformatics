@@ -1,0 +1,177 @@
+##############################################################################
+#                                                                            #
+# Au-C-H-La-N-O    # Au3La[CN]6[H2O]3                              # 1521115 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1521115
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1521115
+
+# Entry summary
+
+_chemical_formula_structural             'Au~3~ La [C N]~6~ [H~2~ O]~3~'
+_chemical_formula_sum                    'Au3 C6 H6 La N6 O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~3~Eu[CN]~6~[H~2~O]~3~,hP38,193
+_chemical_formula_weight                 940.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural studies of lanthanide ion complexes of pure gold, pure silver and mixed metal (gold-silver) dicyanides
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2005
+_journal_volume                          ?
+_journal_page_first                      675
+_journal_page_last                       679
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Colis J.C.F.'
+;
+Maine Orono University
+Department of Chemistry
+Orono
+U.S.A. Maine
+;
+'Larochelle C.L.'
+;
+Pennsylvania Lancaster Franklin and Marshall College
+Department of Physics
+Lancaster
+U.S.A. Pennsylvania
+;
+'Staples R.J.'
+;
+Massachusetts Cambridge Harvard University
+Department of Chemistry and Chemical Biology
+Cambridge
+U.S.A. Massachusetts
+;
+'Herbst Irmer R.'
+;
+G\"ottingen Georg August University
+Institut f\"ur Strukturchemie
+G\"ottingen
+Germany
+;
+'Patterson H.H.'
+;
+Maine Orono University
+Department of Chemistry
+Orono
+U.S.A. Maine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.664
+_cell_length_b                           6.664
+_cell_length_c                           18.741
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             720.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   193
+_space_group_name_H-M_alt                'P 63/m c m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, 1/2+z'
+ 6 '-x, -x+y, 1/2-z'
+ 7 '-x, -x+y, z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, -z'
+ 11 '-y, -x, 1/2+z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, -z'
+ 15 'x, x-y, 1/2+z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, 1/2-z'
+ 18 'x-y, -y, z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, 1/2-z'
+ 24 'y, x, z'
+loop_
+ _atom_type_symbol
+ N
+ C
+ O
+ Au
+ La
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N1 N 12 k 0.277 0 0.1474 1
+ C1 C 12 k 0.357 0 0.0934 1
+ O1 O 6 g 0.626 0 0.25 1
+ Au1 Au 6 f 0.5 0 0 1
+ La1 La 2 a 0 0 0.25 1
+ H1 H 12 k 0.551 0 0.21 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.33
+_cell_measurement_temperature            213
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              213
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            33.350
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0544
+_refine_ls_wR_factor_gt                  0.0829
+
+# End of data set 1521115
+
+

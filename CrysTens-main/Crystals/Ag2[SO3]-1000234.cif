@@ -1,0 +1,163 @@
+##############################################################################
+#                                                                            #
+# Ag-O-S           # Ag2[SO3]                                      # 1000234 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1000234
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1000234
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ [S O~3~]'
+_chemical_formula_sum                    'Ag2 O3 S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~[SO~3~],mP24,14
+_chemical_formula_weight                 295.8
+
+# Bibliographic data
+
+_publ_section_title
+'The Crystal Structure of Silver Sulphite'                                    
+_journal_coden_ASTM                      ACSAA4
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1969
+_journal_volume                          23
+_journal_page_first                      2261
+_journal_page_last                       2269
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Larsson L.O.'
+;
+Stockholm University
+Institute of Inorganic and Physical Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.6507
+_cell_length_b                           7.891
+_cell_length_c                           10.2585
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.527
+_cell_angle_gamma                        90
+_cell_volume                             352.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ag
+ O
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag1 Ag 4 e 0.0448 0.52 0.1962 1
+ O3 O 4 e 0.1685 0.12 0.1301 1
+ O2 O 4 e 0.2966 0.208 0.4703 1
+ S S 4 e 0.3112 0.29 0.1218 1
+ O1 O 4 e 0.6446 0.2734 0.2112 1
+ Ag2 Ag 4 e 0.6535 0.377 0.4401 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.4(1)
+_exptl_crystal_density_diffrn            5.57
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5405
+_pd_proc_wavelength                      1.5405
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    625
+_exptl_absorpt_coefficient_mu            94.10
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.095
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 16030 8
+ 1 0 2 31440 5
+ 0 1 2 35380 2
+ 1 1 1 37370 8
+ 0 2 0 38130 5
+ 1 1 2 40920 7
+ 1 1 0 46650 5
+ 1 1 3 57190 5
+ 0 2 2 63750 8
+ 1 2 1 65910 8
+ 0 1 3 67470 9
+ 1 1 -1 68800 7
+ 1 2 2 69430 5
+ 1 2 0 75240 7
+ 1 0 4 76860 7
+ 0 3 0 85760 2
+ 0 3 1 92210 5
+ 1 0 -2 94280 5
+ 0 2 3 95820 9
+ 1 2 -1 97380 7
+ 1 1 -2 103700 5
+ 2 0 2 111220 7
+ 0 1 4 112250 7
+ 1 3 1 113470 3
+ 1 2 4 115030 5
+ 1 3 2 117030 5
+ 2 1 3 121170 8
+ 1 3 0 122850 5
+ 1 2 -2 132670 5
+ 2 1 4 134670 3
+
+# End of data set 1000234
+
+

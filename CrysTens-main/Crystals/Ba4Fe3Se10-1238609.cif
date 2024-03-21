@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# Ba-Fe-Se         # Ba4Fe3Se10                                    # 1238609 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1238609
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1238609
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~4~ Fe~3~ Se~10~'
+_chemical_formula_sum                    'Ba4 Fe3 Se10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~4~Fe~3~Se~10~,mP34,14
+_chemical_formula_weight                 1506.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal and electronic structures of two new iron selenides: Ba~4~Fe~3~Se~10~ and BaFe~2~Se~4~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2015
+_journal_volume                          230
+_journal_page_first                      293
+_journal_page_last                       300
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Berthebaud D.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire CRISMAT
+Caen
+France
+;
+'Perez O.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire CRISMAT
+Caen
+France
+;
+'Tobola J.'
+;
+Cracow AGH University of Science and Technology
+Faculty of Physics and Applied Computer Science
+Cracow
+Poland
+;
+'Pelloquin D.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire CRISMAT
+Caen
+France
+;
+'Maignan A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire CRISMAT
+Caen
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.8593
+_cell_length_b                           8.8073
+_cell_length_c                           12.5766
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.714
+_cell_angle_gamma                        90
+_cell_volume                             905.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ba
+ Se
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba1 Ba 4 e 0.06093 0.12224 0.33359 1
+ Se1 Se 4 e 0.06331 0.27857 0.0888 1
+ Fe2 Fe 4 e 0.22417 0.78634 0.02598 1
+ Se5 Se 4 e 0.22615 0.4904 0.40751 1
+ Se3 Se 4 e 0.33001 0.52172 0.08925 1
+ Ba2 Ba 4 e 0.46888 0.15431 0.15297 1
+ Se4 Se 4 e 0.47309 0.21779 0.40678 1
+ Se2 Se 4 e 0.78135 0.39238 0.30013 1
+ Fe1 Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.53
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    16187
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'charge flipping'
+_refine_ls_number_parameters             81
+_refine_ls_number_reflns                 2831
+_refine_ls_R_factor_gt                   0.0424
+_refine_ls_wR_factor_gt                  0.0395
+
+# End of data set 1238609
+
+

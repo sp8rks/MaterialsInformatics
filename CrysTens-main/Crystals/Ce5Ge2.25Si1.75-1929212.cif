@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# Ce-Ge-Si         # Ce5Ge2.25Si1.75                               # 1929212 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1929212
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1929212
+
+# Entry summary
+
+_chemical_formula_structural             'Ce~5~ Ge~3~ Si'
+_chemical_formula_sum                    'Ce5 Ge2 Si2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Gd~5~(Ge~0.5~Si~0.5~)~4~,mP36,14
+_chemical_formula_weight                 946.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Phase relationships and crystallography of annealed alloys in the Ce~5~Si~4~-Ce~5~Ge~4~ pseudobinary system
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2009
+_journal_volume                          487
+_journal_page_first                      98
+_journal_page_last                       102
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhang H.'
+;
+Beijing University of Science and Technology
+Department of Materials Science and Engineering
+Beijing
+China
+;
+'Mudryk Y.S.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory - Department of Energy (DOE)
+Ames
+U.S.A. Iowa
+;
+'Zou M.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory - Department of Energy (DOE)
+Ames
+U.S.A. Iowa
+;
+'Pecharskii V.K.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory - Department of Energy (DOE)
+Ames
+U.S.A. Iowa
+;
+'Gschneidner K.A. Jr.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory - Department of Energy (DOE)
+Ames
+U.S.A. Iowa
+;
+'Long Y.'
+;
+Beijing University of Science and Technology
+Department of Materials Science and Engineering
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.2713
+_cell_length_b                           8.0609
+_cell_length_c                           7.9305
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.452
+_cell_angle_gamma                        90
+_cell_volume                             974.48
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ge
+ Ce
+ Si
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ T1A Ge 4 e 0.0663 0.476 0.224 1
+ Ce1A Ce 4 e 0.0725 0.68 0.4625 1
+ Ce2A Ce 4 e 0.1332 0.1248 0.347 1
+ T2 Si 4 e 0.2257 0.0633 0.0843 1
+ Ce3 Ce 4 e 0.2527 0.5103 0.2049 1
+ Ce2B Ce 4 e 0.3981 0.1808 0.4498 1
+ T1B Ge 4 e 0.4794 0.499 0.257 1
+ Ce1B Ce 4 e 0.5871 0.2661 0.4928 1
+ T3 Si 4 e 0.7865 0.315 0.131 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.45
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+PANalytical X'Pert PRO MPD
+;
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 10
+_diffrn_reflns_theta_max                 40
+_pd_proc_2theta_range_min                20
+_pd_proc_2theta_range_max                80
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0983
+_pd_proc_ls_proof_wR_factor              0.1289
+_refine_ls_R_I_factor                    0.0521
+
+# End of data set 1929212
+
+

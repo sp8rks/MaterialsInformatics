@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Cs-O-Se-V        # CsV3[SeO3]2O6                                 # 1003500 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003500
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003500
+
+# Entry summary
+
+_chemical_formula_structural             'Cs V~3~ [Se O~3~]~2~ O~6~'
+_chemical_formula_sum                    'Cs O12 Se2 V3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            [NH~4~]V~3~[SeO~3~]~2~O~6~,hP36,173
+_chemical_formula_weight                 635.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+AVSeO~5~ (A= Rb, Cs) and AV~3~Se~2~O~12~ (A= K, Rb, Cs, NH~4~): Hydrothermal Synthesis in the V~2~O~5~-SeO~2~-AOH System and Crystal Structure of CsVSeO~5~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1996
+_journal_volume                          35
+_journal_page_first                      1161
+_journal_page_last                       1167
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kwon Y.U.'
+;
+Suwon Sungkyunkwan University
+Department of Chemistry
+Suwon
+South Korea
+;
+'Lee K.S.'
+;
+Suwon Sungkyunkwan University
+Department of Chemistry
+Suwon
+South Korea
+;
+'Kim Y.H.'
+;
+Suwon Sungkyunkwan University
+Department of Chemistry
+Suwon
+South Korea
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.1581
+_cell_length_b                           7.1581
+_cell_length_c                           11.608
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             515.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ V
+ Cs
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 6 c 0.1233 0.2548 0.2454 1
+ O2 O 6 c 0.2512 0.1349 0.4357 1
+ V1 V 6 c 0.3335 0.1199 0.2774 1
+ O3 O 6 c 0.4203 0.2193 0.1152 1
+ O4 O 6 c 0.5307 0.0726 0.3065 1
+ Cs1 Cs 2 b 0.333333 0.666667 0.0843 1
+ Se1 Se 2 b 0.333333 0.666667 0.55176 1
+ Se2 Se 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    'yellow greenish'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.10
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1003500
+
+

@@ -1,0 +1,132 @@
+##############################################################################
+#                                                                            #
+# Cs-O             # Cs7O lt                                       #  300125 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_300125
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      300125
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~7~ O'
+_chemical_formula_sum                    'Cs7 O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~7~O,hP24,187
+_chemical_formula_weight                 946.3
+_chemical_melting_point                  277.48
+
+# Bibliographic data
+
+_publ_section_title
+'Das metallreichste C\"asiumoxid-Cs~7~O'                                      
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1976
+_journal_volume                          422
+_journal_page_first                      208
+_journal_page_last                       218
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Simon A.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           16.244
+_cell_length_b                           16.244
+_cell_length_c                           9.145
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             2089.8
+_cell_formula_units_Z                    3
+_space_group_IT_number                   187
+_space_group_name_H-M_alt                'P -6 m 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, z'
+ 6 '-y, -x, -z'
+ 7 '-y, -x, z'
+ 8 '-y, x-y, -z'
+ 9 '-y, x-y, z'
+ 10 'x, x-y, -z'
+ 11 'x, x-y, z'
+ 12 'x, y, -z'
+loop_
+ _atom_type_symbol
+ Cs
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs1 Cs 6 n 0.18643 0.81357 0.21992 1
+ Cs4 Cs 3 k 0.55072 0.44928 0.5 1
+ Cs6 Cs 3 k 0.88771 0.11229 0.5 1
+ O O 3 j 0.25195 0.74805 0 1
+ Cs3 Cs 3 j 0.44915 0.55085 0 1
+ Cs5 Cs 3 j 0.78418 0.21582 0 1
+ Cs2 Cs 2 h 0.333333 0.666667 0.20321 1
+ Cs7 Cs 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'yellow bronze'
+_exptl_crystal_density_meas              2.21
+_exptl_crystal_density_diffrn            2.26
+_cell_measurement_temperature            123
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            12
+_diffrn_ambient_temperature              103
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 914
+_refine_ls_R_factor_gt                   0.038
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 300125
+
+

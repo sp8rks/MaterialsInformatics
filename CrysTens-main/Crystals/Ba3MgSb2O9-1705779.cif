@@ -1,0 +1,187 @@
+##############################################################################
+#                                                                            #
+# Ba-Mg-O-Sb       # Ba3MgSb2O9                                    # 1705779 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1705779
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1705779
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Mg Sb~2~ O~9~'
+_chemical_formula_sum                    'Ba3 Mg O9 Sb2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Ba~3~(W~0.5~Fe~0.5~)~2~FeO~9~,hP30,194                                        
+_chemical_formula_weight                 823.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+\"Uber die Kationenordnung in Perowskiten mit hexagonaler BaTiO~3~-Struktur vom Typ Ba~3~B^2+^Sb~2~O~9~ (B^2+^= Mg, Mn, Co, Ni, Cu, Zn)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1982
+_journal_volume                          487
+_journal_page_first                      161
+_journal_page_last                       177
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Treiber U.'
+;
+T\"ubingen Eberhard Karl University
+Institut f\"ur Anorganische Chemie
+T\"ubingen
+Germany
+;
+'Kemmler Sack S.'
+;
+T\"ubingen Eberhard Karl University
+Institut f\"ur Anorganische Chemie
+T\"ubingen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.848
+_cell_length_b                           5.848
+_cell_length_c                           14.425
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             427.23
+_cell_formula_units_Z                    2
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ba
+ Sb
+ Mg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 12 k 0.167 0.334 0.583 1
+ O1 O 6 h 0.5 0.0 0.25 1
+ Ba2 Ba 4 f 0.333333 0.666667 0.09 1
+ Sb Sb 4 f 0.333333 0.666667 0.6505 1
+ Ba1 Ba 2 b 0 0 0.25 1
+ Mg Mg 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              6.33
+_exptl_crystal_density_diffrn            6.40
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Philips
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.060
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 1140 25
+ 1 0 0 2310 76
+ 1 0 1 2610 260
+ 1 0 2 3460 102
+ 0 0 4 4570 73
+ 1 0 3 4880 149
+ 1 0 4 6890 1546
+ 1 1 0 6960 ?
+ 1 1 2 8090 23
+ 2 0 0 9270 248
+ 1 0 5 9450 ?
+ 0 0 6 10250 179
+ 2 0 2 10390 ?
+ 1 1 4 11510 249
+ 2 0 3 11800 ?
+ 1 0 6 12580 12
+ 2 0 4 13820 337
+ 2 1 0 16180 263
+ 1 0 7 16270 ?
+ 2 0 5 16380 ?
+ 2 1 1 16470 ?
+
+# End of data set 1705779
+
+

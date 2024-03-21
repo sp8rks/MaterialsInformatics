@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# As-I-Te          # As5Te7I                                       # 1714133 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1714133
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1714133
+
+# Entry summary
+
+_chemical_formula_structural             'As~5~ Te~7~ I'
+_chemical_formula_sum                    'As5 I Te7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            As~5~Te~7~I,mS26,8
+_chemical_formula_weight                 1394.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Phasenbeziehungen im System As~2~te~3~-AsI~3~ und die Kristallstruktur von As~5~Te~7~I
+;
+_journal_coden_ASTM                      ZNBAD2
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1982
+_journal_volume                          37
+_journal_page_first                      151
+_journal_page_last                       156
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kniep R.'
+;
+D\"usseldorf Heinrich Heine University
+Institut f\"ur Anorganische Chemie und Strukturchemie
+D\"usseldorf
+Germany
+;
+'Reski H.D.'
+;
+D\"usseldorf Heinrich Heine University
+Institut f\"ur Anorganische Chemie und Strukturchemie
+D\"usseldorf
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.601
+_cell_length_b                           4.04
+_cell_length_c                           13.871
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.62
+_cell_angle_gamma                        90
+_cell_volume                             765.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ As
+ Te
+ I
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As1 As 2 a 0.0 0 0.0 1
+ As4 As 2 a 0.0593 0 0.682 1
+ Te6 Te 2 a 0.157 0 0.3624 1
+ I1 I 2 a 0.1972 0 0.0791 1
+ Te3 Te 2 a 0.2732 0 0.7986 1
+ As3 As 2 a 0.3734 0 0.4565 1
+ Te7 Te 2 a 0.4647 0 0.1125 1
+ Te4 Te 2 a 0.5431 0 0.8339 1
+ Te2 Te 2 a 0.5797 0 0.5486 1
+ As2 As 2 a 0.6829 0 0.2359 1
+ As5 As 2 a 0.7349 0 0.9221 1
+ Te5 Te 2 a 0.8532 0 0.6003 1
+ Te1 Te 2 a 0.8868 0 0.3104 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.05
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1519
+_refine_ls_R_factor_gt                   0.098
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1714133
+
+

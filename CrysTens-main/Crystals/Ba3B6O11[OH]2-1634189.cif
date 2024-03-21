@@ -1,0 +1,159 @@
+##############################################################################
+#                                                                            #
+# B-Ba-H-O         # Ba3B6O11[OH]2                                 # 1634189 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1634189
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1634189
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ B~6~ O~11~ [O H]~2~'
+_chemical_formula_sum                    'B6 Ba3 H2 O13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~B~6~O~11~[OH]~2~,mP44,7
+_chemical_formula_weight                 686.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal synthesis and crystal structure of two new hydrated alkaline earth metal borates Sr~3~B~6~O~11~(OH)~2~ and Ba~3~B~6~O~11~(OH)~2~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2012
+_journal_volume                          51
+_journal_page_first                      3956
+_journal_page_last                       3962
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Heyward C.C.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'McMillen C.D.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Kolis J.W.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.958
+_cell_length_b                           7.024
+_cell_length_c                           11.346
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.1
+_cell_angle_gamma                        90
+_cell_volume                             554.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ba
+ O
+ B
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba1 Ba 2 a 0.0 0.26645 0.0 1
+ O2 O 2 a 0.0009 0.2169 0.75022 1
+ B6 B 2 a 0.0259 0.0042 0.74172 1
+ O11 O 2 a 0.0481 0.4101 0.37762 1
+ O13 O 2 a 0.0766 0.0615 0.35902 1
+ B5 B 2 a 0.1834 0.2413 0.37492 1
+ O10 O 2 a 0.1841 0.0303 0.15632 1
+ O12 O 2 a 0.2837 0.2359 0.48952 1
+ O9 O 2 a 0.3188 0.2782 0.28052 1
+ B4 B 2 a 0.3528 0.1466 0.18472 1
+ Ba2 Ba 2 a 0.37553 0.64376 0.20969 1
+ O8 O 2 a 0.393 0.2722 0.07982 1
+ O6 O 2 a 0.5153 0.0207 0.21072 1
+ B3 B 2 a 0.5447 0.2433 0.00252 1
+ O7 O 2 a 0.5863 0.6356 0.41302 1
+ O5 O 2 a 0.6595 0.0806 0.02172 1
+ Ba3 Ba 2 a 0.67634 0.25004 0.38456 1
+ B2 B 2 a 0.6861 0.0026 0.64082 1
+ O3 O 2 a 0.7244 0.2112 0.62352 1
+ O4 O 2 a 0.8514 0.0841 0.19812 1
+ B1 B 2 a 0.8689 0.6872 0.18262 1
+ O1 O 2 a 0.8711 0.4972 0.17462 1
+ H11 H 2 a 0.0551 0.4546 0.29982 1
+ H12 H 2 a 0.2765 0.1046 0.50432 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.11
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            4589
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC8'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4558
+_diffrn_reflns_theta_min                 2.9
+_diffrn_reflns_theta_max                 25.25
+_exptl_absorpt_coefficient_mu            10.609
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             201
+_refine_ls_number_reflns                 1919
+_refine_ls_R_factor_gt                   0.0237
+_refine_ls_wR_factor_gt                  0.0563
+
+# End of data set 1634189
+
+

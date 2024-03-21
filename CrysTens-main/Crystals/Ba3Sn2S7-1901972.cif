@@ -1,0 +1,166 @@
+##############################################################################
+#                                                                            #
+# Ba-S-Sn          # Ba3Sn2S7                                      # 1901972 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1901972
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1901972
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Sn~2~ S~7~'
+_chemical_formula_sum                    'Ba3 S7 Sn2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~Sn~2~S~7~,mP48,14
+_chemical_formula_weight                 873.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Etude structurale de thiocompos\'es a groupements anioniques de type "pyro", Na~6~X~2~S~7~ (X= Ge, Sn) et Ba~3~Sn~2~S~7~
+;
+_journal_coden_ASTM                      RVCMA8
+_journal_name_full                       'Rev. Chim. Miner.'
+_journal_year                            1974
+_journal_volume                          11
+_journal_page_first                      13
+_journal_page_last                       26
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jumas J.C.'
+;
+Montpellier Languedoc University of Science and Technology
+Laboratoire de Chimie Min\'erale Appliqu\'ee
+Montpellier
+France
+;
+'Olivier Fourcade J.'
+;
+Montpellier Languedoc University of Science and Technology
+Laboratoire de Chimie Min\'erale Appliqu\'ee
+Montpellier
+France
+;
+'Vermot Gaud Daniel F.'
+;
+Montpellier Languedoc University of Science and Technology
+Laboratoire de Chimie Min\'erale Appliqu\'ee
+Montpellier
+France
+;
+'Ribes M.'
+;
+Montpellier Languedoc University of Science and Technology
+Laboratoire de Chimie Min\'erale Appliqu\'ee
+Montpellier
+France
+;
+'Philippot E.'
+;
+Montpellier Languedoc University of Science and Technology
+Laboratoire de Chimie Min\'erale Appliqu\'ee
+Montpellier
+France
+;
+'Maurin M.'
+;
+Montpellier Languedoc University of Science and Technology
+Laboratoire de Chimie Min\'erale Appliqu\'ee
+Montpellier
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.073
+_cell_length_b                           6.771
+_cell_length_c                           18.703
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.77
+_cell_angle_gamma                        90
+_cell_volume                             1377.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ba
+ S
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba2 Ba 4 e 0.012 0.7191 0.1076 1
+ S1 S 4 e 0.047 0.0608 0.2305 1
+ S4 S 4 e 0.174 0.08 0.0672 1
+ Sn2 Sn 4 e 0.2244 0.2004 0.1953 1
+ S3 S 4 e 0.2519 0.5451 0.1936 1
+ S7 S 4 e 0.2662 0.3174 0.3827 1
+ Sn1 Sn 4 e 0.293 0.2971 0.0037 1
+ S2 S 4 e 0.4048 0.0278 0.2461 1
+ S6 S 4 e 0.4979 0.276 0.0606 1
+ Ba1 Ba 4 e 0.5584 0.2683 0.3892 1
+ Ba3 Ba 4 e 0.7569 0.2758 0.1645 1
+ S5 S 4 e 0.8168 0.3972 0.0104 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.12
+_exptl_crystal_density_diffrn            4.21
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5418
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            104.4
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1591
+_refine_ls_R_factor_gt                   0.109
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1901972
+
+

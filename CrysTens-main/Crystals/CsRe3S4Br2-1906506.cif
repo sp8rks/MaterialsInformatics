@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# Br-Cs-Re-S       # CsRe3S4Br2                                    # 1906506 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1906506
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1906506
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Re~3~ S~4~ Br~2~'
+_chemical_formula_sum                    'Br2 Cs Re3 S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsRe~3~Se~4~Br~2~,mP40,14
+_chemical_formula_weight                 979.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+New compounds in the cesium sulfobromide rhenium octahedral cluster chemistry: syntheses and crystal structures of Cs~4~Re~6~S~8~Br~6~ and Cs~2~Re~6~S~8~Br~4~
+;
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2004
+_journal_volume                          6
+_journal_page_first                      109
+_journal_page_last                       116
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pilet G.'
+;
+Rennes I University
+Laboratoire de Chimie du Solide et Inorganique Mol\'eculaire
+Rennes
+France
+;
+'Perrin A.'
+;
+Rennes I University
+Laboratoire de Chimie du Solide et Inorganique Mol\'eculaire
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.3664
+_cell_length_b                           18.4483
+_cell_length_c                           9.8992
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.296
+_cell_angle_gamma                        90
+_cell_volume                             1059.68
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Br
+ Re
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 4 e 0.0013 0.0168 0.19 1
+ Br2 Br 4 e 0.0868 0.35947 0.1285 1
+ Br1 Br 4 e 0.17652 0.69815 0.25572 1
+ S2 S 4 e 0.262 0.1336 0.0228 1
+ Re2 Re 4 e 0.2797 0.00583 0.07316 1
+ Re3 Re 4 e 0.3241 0.44133 0.34288 1
+ S4 S 4 e 0.411 0.5261 0.1878 1
+ Cs1 Cs 4 e 0.44907 0.19024 0.44087 1
+ Re1 Re 4 e 0.64088 0.08173 0.10609 1
+ S3 S 4 e 0.6741 0.3775 0.3844 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.14
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            44934
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1.7
+_diffrn_reflns_theta_max                 33.2
+_exptl_absorpt_coefficient_mu            45.83
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             92
+_refine_ls_number_reflns                 3399
+_refine_ls_R_factor_gt                   0.0299
+_refine_ls_wR_factor_gt                  0.0355
+
+# End of data set 1906506
+
+

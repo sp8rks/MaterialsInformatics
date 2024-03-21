@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Al-Ce            # Ce3Al lt                                      # 1251502 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1251502
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1251502
+
+# Entry summary
+
+_chemical_formula_structural             'Ce~3~ Al'
+_chemical_formula_sum                    'Al Ce3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ce~3~Al,mP16,11
+_chemical_formula_weight                 447.3
+
+# Bibliographic data
+
+_publ_section_title
+'Low temperature crystal structure of Ce~3~Al'                                
+_journal_coden_ASTM                      PHYBE3
+_journal_name_full                       'Phys. B (Amsterdam)'
+_journal_year                            1990
+_journal_volume                          163
+_journal_page_first                      587
+_journal_page_last                       590
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lawson A.C.'
+;
+Los Alamos National Laboratory
+Los Alamos
+U.S.A. New Mexico
+;
+'Lawrence J.M.'
+;
+California Irvine University
+Department of Physics
+Irvine
+U.S.A. California
+;
+'Thompson J.D.'
+;
+Los Alamos National Laboratory
+Los Alamos
+U.S.A. New Mexico
+;
+'Williams A.J.'
+;
+Los Alamos National Laboratory
+Los Alamos
+U.S.A. New Mexico
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.824
+_cell_length_b                           5.336
+_cell_length_c                           12.458
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.31
+_cell_angle_gamma                        90
+_cell_volume                             453.62
+_cell_formula_units_Z                    4
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Al
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Al2 Al 2 e 0.000 0.25 0.158 1
+ Ce3 Ce 2 e 0.005 0.25 0.652 1
+ Ce2 Ce 2 e 0.235 0.25 0.402 1
+ Ce6 Ce 2 e 0.282 0.25 0.937 1
+ Ce1 Ce 2 e 0.456 0.25 0.190 1
+ Al1 Al 2 e 0.550 0.25 0.690 1
+ Ce5 Ce 2 e 0.709 0.25 0.435 1
+ Ce4 Ce 2 e 0.764 0.25 0.929 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.55
+_cell_measurement_temperature            15
+_cell_measurement_radiation              'neutrons, time-of-flight'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              15
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+U.S.A. New Mexico, Los Alamos Neutron Science Center LANSCE, Manuel Lujan Neutron Scattering Facility, HIPD
+;
+_diffrn_radiation_type                   'neutrons, time-of-flight'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1251502
+
+

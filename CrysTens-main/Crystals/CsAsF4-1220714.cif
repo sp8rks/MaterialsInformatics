@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# As-Cs-F          # CsAsF4                                        # 1220714 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1220714
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1220714
+
+# Entry summary
+
+_chemical_formula_structural             'Cs As F~4~'
+_chemical_formula_sum                    'As Cs F4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsAsF~4~,mP12,4
+_chemical_formula_weight                 283.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+New alkali metal and tetramethylammonium tetrafluoroarsenates(III), their vibrational spectra and crystal structure of cesium tetrafluoroarsenate(III)
+;
+_journal_coden_ASTM                      CCCCAK
+_journal_name_full                       'Collect. Czech. Chem. Commun.'
+_journal_year                            2004
+_journal_volume                          69
+_journal_page_first                      339
+_journal_page_last                       350
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lkampfer P.'
+;
+Ljubljana Edvard Kardelj University
+Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+'Benkic P.'
+;
+Ljubljana Edvard Kardelj University
+Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+'Lesar A.'
+;
+Ljubljana Edvard Kardelj University
+Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+'Volavsek B.'
+;
+Maribor University
+Faculty of Chemistry and Chemical Technology
+Maribor
+Slovenia
+;
+'Ponikvar M.'
+;
+Ljubljana Edvard Kardelj University
+Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+'Jesih A.'
+;
+Ljubljana Edvard Kardelj University
+Jozef Stefan Institute
+Ljubljana
+Slovenia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.597
+_cell_length_b                           4.872
+_cell_length_c                           8.4922
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.92
+_cell_angle_gamma                        90
+_cell_volume                             253.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ F
+ As
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F2 F 2 a 0.006 0.4508 0.6262 1
+ As1 As 2 a 0.04168 0.0238 0.18915 1
+ F3 F 2 a 0.0457 0.359 0.204 1
+ F4 F 2 a 0.3398 0.0 0.3337 1
+ Cs1 Cs 2 a 0.40289 0.0216 0.71787 1
+ F1 F 2 a 0.7339 0.032 0.0867 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.72
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7S'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2149
+_exptl_absorpt_coefficient_mu            13.748
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1148
+_refine_ls_R_factor_gt                   0.0286
+_refine_ls_wR_factor_gt                  0.0684
+
+# End of data set 1220714
+
+

@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# C-Cl-Cs-N-Pt     # Cs2Pt[CN]4Cl2                                 # 1930370 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1930370
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1930370
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Pt [C N]~4~ Cl~2~'
+_chemical_formula_sum                    'C4 Cl2 Cs2 N4 Pt'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~PtBr~2~[CN]~4~,mS52,15
+_chemical_formula_weight                 635.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Cyanoplatinate halides - Synthesis, crystal structure analyses and vibrational spectroscopy of compounds A~2~[Pt(CN)~4~X~2~] (A= Rb, Cs; X= Cl, Br, I)
+;
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2010
+_journal_volume                          65
+_journal_page_first                      1066
+_journal_page_last                       1072
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'M\"uhle C.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Nuss J.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Dinnebier R.E.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Jansen M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           17.947
+_cell_length_b                           7.395
+_cell_length_c                           12.031
+_cell_angle_alpha                        90
+_cell_angle_beta                         131.904
+_cell_angle_gamma                        90
+_cell_volume                             1188.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ Cs
+ Cl
+ Pt
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 8 f 0.0601 0.1733 0.1616 1
+ N1 N 8 f 0.0941 0.2712 0.253 1
+ C2 C 8 f 0.1274 0.0142 0.0251 1
+ Cs1 Cs 8 f 0.1715 0.5044 0.0385 1
+ N2 N 8 f 0.1941 0.0217 0.0382 1
+ Cl1 Cl 8 f 0.4265 0.2604 0.3262 1
+ Pt1 Pt 4 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'green, light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.55
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka1'
+_cell_measurement_wavelength             0.7093
+_pd_proc_wavelength                      0.7093
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8'
+_diffrn_radiation_type                   'X-rays, Mo Ka1'
+_diffrn_radiation_wavelength             0.7093
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 25
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                50
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0204
+_pd_proc_ls_proof_wR_factor              0.0277
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1930370
+
+

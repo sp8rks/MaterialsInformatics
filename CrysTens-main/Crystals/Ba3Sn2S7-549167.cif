@@ -1,0 +1,194 @@
+##############################################################################
+#                                                                            #
+# Ba-S-Sn          # Ba3Sn2S7                                      #  549167 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_549167
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      549167
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Sn~2~ S~7~'
+_chemical_formula_sum                    'Ba3 S7 Sn2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~Sn~2~S~7~,mP48,14
+_chemical_formula_weight                 873.8
+
+# Bibliographic data
+
+_publ_section_title                      'Etude du syst\`eme SnS~2~-BaS'
+_journal_coden_ASTM                      CHDCAQ
+_journal_name_full                       'C. R. Seances Acad. Sci., Ser. C'
+_journal_year                            1971
+_journal_volume                          272
+_journal_page_first                      1811
+_journal_page_last                       1813
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jumas J.C.'
+;
+Montpellier Languedoc University of Science and Technology
+Montpellier
+France
+;
+'Ribes M.'
+;
+Montpellier Languedoc University of Science and Technology
+Montpellier
+France
+;
+'Philippot E.'
+;
+Montpellier Languedoc University of Science and Technology
+Montpellier
+France
+;
+'Maurin M.'
+;
+Montpellier Languedoc University of Science and Technology
+Laboratoire de Chimie Min\'erale Appliqu\'ee
+Montpellier
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.073
+_cell_length_b                           6.771
+_cell_length_c                           18.703
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.77
+_cell_angle_gamma                        90
+_cell_volume                             1377.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Ba
+ S
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba1 Ba 4 e 0.012 0.7191 0.1076 1
+ S1 S 4 e 0.047 0.0608 0.2305 1
+ S2 S 4 e 0.174 0.08 0.0672 1
+ Sn1 Sn 4 e 0.2244 0.2004 0.1953 1
+ S3 S 4 e 0.2519 0.5451 0.1936 1
+ S4 S 4 e 0.2662 0.3174 0.3827 1
+ Sn2 Sn 4 e 0.293 0.2971 0.0037 1
+ S5 S 4 e 0.4048 0.0278 0.2461 1
+ S6 S 4 e 0.4979 0.276 0.0606 1
+ Ba2 Ba 4 e 0.5584 0.2683 0.3892 1
+ Ba3 Ba 4 e 0.7569 0.2758 0.1645 1
+ S7 S 4 e 0.8168 0.3972 0.0104 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.12
+_exptl_crystal_density_diffrn            4.21
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               film
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 57.487 6
+ 2 0 0 54.333 10
+ 1 1 1 53.357 2
+ 1 1 1 51.077 6
+ 1 1 2 46.668 6
+ 2 1 2 40.835 42
+ 2 0 4 38.884 14
+ 0 1 4 38.021 38
+ 1 1 4 37.782 49
+ 2 1 2 36.522 100
+ -3 0 2 36.157 17
+ 1 1 4 34.266 7
+ 0 2 0 33.823 56
+ 0 2 1 33.265 7
+ 1 1 5 32.463 7
+ 2 0 4 32.233 14
+ 3 1 0 31.977 10
+ 0 2 2 31.751 7
+ 1 2 1 31.534 12
+ 1 0 6 31.025 2
+ 3 1 1 30.659 2
+ -2 1 5 30.604 21
+ 2 0 6 29.12 35
+ 3 1 2 28.732 25
+ 1 2 3 27.901 2
+ -4 0 2 27.525 50
+ 0 2 4 27.179 49
+ 2 2 2 26.726 14
+ -3 1 5 26.382 10
+ -3 0 6 25.901 20
+ -4 0 4 25.544 7
+ 4 1 0 25.23 35
+ 2 0 6 24.775 30
+ 3 2 2 24.709 2
+ 0 1 7 24.466 2
+ 3 1 6 24.196 12
+ 4 1 4 23.931 15
+
+# End of data set 549167
+
+

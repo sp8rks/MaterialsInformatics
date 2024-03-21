@@ -1,0 +1,180 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-H-O-Re-Se  # Cs3Re6Se8Cl6[H2O]2                            # 1215854 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1215854
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1215854
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~3~ Re~6~ Se~8~ Cl~6~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Cl6 Cs3 H4 O2 Re6 Se8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Cs~3~(Re~0.83~Os~0.17~)~6~Se~8~Cl~6~[H~2~O]~2~,mP50,14                        
+_chemical_formula_weight                 2396.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Octahedral hexahydroxo rhenium cluster complexes [Re~6~Q~8~(OH)~6~]^4-^ (Q= S, Se): synthesis, structure, and properties
+;
+_journal_coden_ASTM                      EJICFO
+_journal_name_full                       'Eur. J. Inorg. Chem.'
+_journal_year                            2005
+_journal_volume                          ?
+_journal_page_first                      3945
+_journal_page_last                       3949
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yarovoi S.S.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Mironov Y.V.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Naumov D.Y.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Gatilov Y.V.'
+;
+Russian Academy of Sciences
+Vorozhtsov Institute of Organic Chemistry
+Novosibirsk
+Russia
+;
+'Kozlova S.G.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Kim S.J.'
+;
+Seoul Ewha Womans University
+Department of Chemistry
+Seoul
+South Korea
+;
+'Fedorov V.E.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.819
+_cell_length_b                           12.925
+_cell_length_c                           11.9584
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.53
+_cell_angle_gamma                        90
+_cell_volume                             1369.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Re
+ Cl
+ OH2
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se3 Se 4 e 0.0436 0.8561 0.3131 1
+ Re3 Re 4 e 0.09847 0.03532 0.40447 1
+ Re1 Re 4 e 0.1027 0.6243 0.03913 1
+ Se1 Se 4 e 0.1391 0.21352 0.4996 1
+ Se4 Se 4 e 0.1501 0.5936 0.2615 1
+ Re2 Re 4 e 0.15267 0.43897 0.13602 1
+ Cl3 Cl 4 e 0.2393 0.0834 0.2895 1
+ Cl1 Cl 4 e 0.241 0.7864 0.0886 1
+ Se2 Se 4 e 0.3408 0.5279 0.0775 1
+ Cl2 Cl 4 e 0.3613 0.36 0.3081 1
+ O1 OH2 4 e 0.381 0.057 0.075 1
+ Cs1 Cs 4 e 0.5362 0.27862 0.0887 1
+ Cs2 Cs 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.81
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens P4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4202
+_diffrn_reflns_theta_min                 2.3
+_diffrn_reflns_theta_max                 29.99
+_exptl_absorpt_coefficient_mu            41.554
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             116
+_refine_ls_number_reflns                 2861
+_refine_ls_R_factor_gt                   0.0782
+_refine_ls_wR_factor_gt                  0.1968
+
+# End of data set 1215854
+
+

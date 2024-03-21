@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Cu-O-V           # Cu2.16V4O11                                   # 1621800 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1621800
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1621800
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2.16~ V~4~ O~11~'
+_chemical_formula_sum                    'Cu O11 V4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2.16~V~4~O~11~,mS32,8
+_chemical_formula_weight                 517.0
+
+# Bibliographic data
+
+_publ_section_title
+'Multifunctional composite crystal Cu~x~V~4~O~11~ (x\\simeq 2.2)'             
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            2006
+_journal_volume                          73
+_journal_page_first                      1
+_journal_page_last                       7
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Onoda M.'
+;
+Tsukuba Ibaraki University
+Institute of Physics
+Tsukuba / Ibaraki
+Japan
+;
+'Onoda M.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.287
+_cell_length_b                           3.599
+_cell_length_c                           7.293
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.69
+_cell_angle_gamma                        90
+_cell_volume                             391.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O9 O 2 a 0.0 0 0.0 1
+ O1 O 2 a 0.0556 0 0.407 1
+ V3 V 2 a 0.0913 0 0.1481 1
+ O10 O 2 a 0.169 0 0.003 1
+ O2 O 2 a 0.2329 0 0.369 1
+ V4 V 2 a 0.3085 0 0.1465 1
+ O11 O 2 a 0.3319 0 0.934 1
+ O5 O 2 a 0.418 0 0.302 1
+ Cu1 Cu 2 a 0.419 0 0.795 1
+ O6 O 2 a 0.5038 0 0.657 1
+ V1 V 2 a 0.5289 0 0.4509 1
+ O3 O 2 a 0.6046 0 0.227 1
+ O7 O 2 a 0.6698 0 0.594 1
+ V2 V 2 a 0.7482 0 0.4452 1
+ O4 O 2 a 0.795 0 0.203 1
+ O8 O 2 a 0.8504 0 0.6 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.39
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC5R'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1755
+_refine_ls_R_factor_gt                   0.066
+_refine_ls_wR_factor_gt                  0.043
+
+# End of data set 1621800
+
+

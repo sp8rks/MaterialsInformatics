@@ -1,0 +1,183 @@
+##############################################################################
+#                                                                            #
+# Ag-Bi-S          # AgBi3S5                                       # 1321565 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1321565
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1321565
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Bi~3~ S~5~'
+_chemical_formula_sum                    'Ag Bi3 S5'
+_chemical_name_mineral                   pavonite
+_chemical_compound_source                synthetic
+_chemical_name_structure_type            AgBi~3~S~5~,mS36,12
+_chemical_formula_weight                 895.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal Growth, Thermoelectric Properties, and Electronic Structure of AgBi~3~S~5~ and AgSb~x~Bi~3-x~S~5~ (x= 0.3)
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2005
+_journal_volume                          17
+_journal_page_first                      3606
+_journal_page_last                       3614
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kim J.H.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Chung D.Y.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Bilc D.I.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Loo S.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Short J.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Mahanti S.D.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Hogan T.P.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+'Kanatzidis M.G.'
+;
+Michigan East Lansing University
+Department of Chemistry
+East Lansing
+U.S.A. Michigan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.345
+_cell_length_b                           4.0416
+_cell_length_c                           16.439
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.158
+_cell_angle_gamma                        90
+_cell_volume                             884.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ Bi
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 4 i 0.0992 0 0.1519 1
+ S5 S 4 i 0.1508 0 0.5338 1
+ S2 S 4 i 0.1574 0 0.741 1
+ Bi3 Bi 4 i 0.2198 0 0.3894 1
+ S1 S 4 i 0.3625 0 0.0551 1
+ Bi2 Bi 4 i 0.474 0 0.2165 1
+ S4 S 4 i 0.5768 0 0.3617 1
+ Bi1 Bi 4 i 0.7392 0 0.111 1
+ Ag2 Ag 2 d 0 0.5 0.5 1
+ Ag1 Ag 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.72
+_cell_measurement_temperature            293
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    3778
+_diffrn_reflns_theta_min                 2.48
+_diffrn_reflns_theta_max                 28.22
+_exptl_absorpt_coefficient_mu            62.791
+_exptl_absorpt_correction_type           'analytical and semi-empirical'
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             58
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0301
+_refine_ls_wR_factor_gt                  0.0807
+
+# End of data set 1321565
+
+

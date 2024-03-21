@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Al-Ba-O-Si       # BaAl2[SiO4]2 par                              # 1701092 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1701092
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1701092
+
+# Entry summary
+
+_chemical_formula_structural             'Ba Al~2~ [Si O~4~]~2~'
+_chemical_formula_sum                    'Al2 Ba O8 Si2'
+_chemical_name_mineral                   paracelsian
+_chemical_compound_source                'United Kingdom, Wales, Benaiit mine'
+_chemical_name_structure_type            CaBe~2~[PO~4~]~2~,mP52,14
+_chemical_formula_weight                 375.5
+
+# Bibliographic data
+
+_publ_section_title                      'Crystal structure of paracelsian'
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1961
+_journal_volume                          5
+_journal_page_first                      826
+_journal_page_last                       829
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bakakin V.V.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+'Belov N.V.'
+;
+Russian Academy of Sciences
+Institute of Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.58
+_cell_length_b                           9.58
+_cell_length_c                           9.08
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        90
+_cell_volume                             746.34
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Si
+ Al
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e -0.003 0.417 0.305 1
+ Si2 Si 4 e 0.062 0.083 0.23 1
+ O6 O 4 e 0.06 0.184 0.083 1
+ O4 O 4 e 0.046 0.635 0.128 1
+ Al2 Al 4 e 0.067 0.804 0.064 1
+ O8 O 4 e 0.242 0.088 0.291 1
+ Ba Ba 4 e 0.249 0.412 0.103 1
+ O7 O 4 e 0.255 0.673 0.507 1
+ Al1 Al 4 e 0.429 0.081 0.226 1
+ O5 O 4 e 0.445 0.187 0.072 1
+ O1 O 4 e 0.499 0.412 0.306 1
+ O3 O 4 e 0.546 0.14 0.37 1
+ Si1 Si 4 e 0.565 0.304 0.433 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.34
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1701092
+
+

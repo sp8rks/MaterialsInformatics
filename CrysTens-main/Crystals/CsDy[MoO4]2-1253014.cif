@@ -1,0 +1,175 @@
+##############################################################################
+#                                                                            #
+# Cs-Dy-Mo-O       # CsDy[MoO4]2 rt                                # 1253014 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1253014
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1253014
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Dy [Mo O~4~]~2~'
+_chemical_formula_sum                    'Cs Dy Mo2 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsDy[MoO~4~]~2~,mP24,13
+_chemical_formula_weight                 615.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+X-ray diffraction analysis of double molibdates CsDy(MoO~4~)~2~ and CsDy~0.93~Eu~0.07~(MoO~4~)~2~: 1. Crystal structure
+;
+_journal_coden_ASTM                      FEROA8
+_journal_name_full                       Ferroelectrics
+_journal_year                            1996
+_journal_volume                          175
+_journal_page_first                      85
+_journal_page_last                       89
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'El'chaninova S.D.'
+;
+Ukrainian Academy of Sciences
+Verkin Institute for Low-Temperature Physics and Engineering
+Kharkiv
+Ukraine
+;
+'Kuznetsov V.P.'
+;
+Ukrainian Academy of Sciences
+Institute of Single Crystals
+Kharkiv
+Ukraine
+;
+'Lakin E.E.'
+;
+Ukrainian Academy of Sciences
+Institute of Single Crystals
+Kharkiv
+Ukraine
+;
+'Matveev S.V.'
+;
+Ukrainian Academy of Sciences
+Institute of Single Crystals
+Kharkiv
+Ukraine
+;
+'Kolotiy O.D.'
+;
+Ukrainian Academy of Sciences
+Institute of Single Crystals
+Kharkiv
+Ukraine
+;
+'Zavrazhnova V.D.'
+;
+Ukrainian Academy of Sciences
+Institute of Single Crystals
+Kharkiv
+Ukraine
+;
+'Rakhmanina T.V.'
+;
+Ukrainian Academy of Sciences
+Institute of Single Crystals
+Kharkiv
+Ukraine
+;
+'Perepelitsa E.S.'
+;
+Ukrainian Academy of Sciences
+Institute of Single Crystals
+Kharkiv
+Ukraine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.514
+_cell_length_b                           5.047
+_cell_length_c                           7.988
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.58
+_cell_angle_gamma                        90
+_cell_volume                             383.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ Cs
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 g 0.0661 0.2487 0.0029 1
+ O4 O 4 g 0.1868 0.2361 0.6812 1
+ O2 O 4 g 0.1898 0.2398 0.3325 1
+ Mo1 Mo 4 g 0.1951 0.0243 0.5071 1
+ O3 O 4 g 0.3596 0.1201 0.0195 1
+ Cs1 Cs 2 f 0.5 0.5309 0.25 1
+ Dy1 Dy 2 e 0 0.5002 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.33
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens P3'
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 861
+_refine_ls_R_factor_gt                   0.0568
+_refine_ls_wR_factor_gt                  0.0568
+
+# End of data set 1253014
+
+

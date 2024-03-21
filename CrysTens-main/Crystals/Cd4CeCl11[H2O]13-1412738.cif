@@ -1,0 +1,185 @@
+##############################################################################
+#                                                                            #
+# Cd-Ce-Cl-H-O     # Cd4CeCl11[H2O]13                              # 1412738 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1412738
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1412738
+
+# Entry summary
+
+_chemical_formula_structural             'Cd~4~ Ce Cl~11~ [H~2~ O]~13~'
+_chemical_formula_sum                    'Cd4 Ce Cl11 H26 O13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cd~4~CeCl~11~[H~2~O]~13~,mP58,4
+_chemical_formula_weight                 1213.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure and thermal study of the new hydrated cadmium-cerium(III) chloride CeCd~4~Cl~11~.13H~2~O
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2003
+_journal_volume                          173
+_journal_page_first                      328
+_journal_page_last                       334
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yahyaoui S.'
+;
+Sfax Faculty of Sciences
+Laboratoire des Sciences des Mat\'eriaux et d'Environnement
+Sfax
+Tunisia
+;
+'Naili H.'
+;
+Sfax Faculty of Sciences
+Laboratoire de l'Etat Solide
+Sfax
+Tunisia
+;
+'Ben Hassen R.'
+;
+Sfax Faculty of Sciences
+Laboratoire des Sciences des Mat\'eriaux et d'Environnement
+Sfax
+Tunisia
+;
+'Donnadieu B.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie de Coordination
+Toulouse
+France
+;
+'Daran J.C.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie de Coordination
+Toulouse
+France
+;
+'Ben Salah A.'
+;
+Sfax Faculty of Sciences
+Laboratoire des Sciences des Mat\'eriaux et d'Environnement
+Sfax
+Tunisia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.667
+_cell_length_b                           17.351
+_cell_length_c                           11.97
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.61
+_cell_angle_gamma                        90
+_cell_volume                             1559.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cl
+ Cd
+ OH2
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl5 Cl 2 a 0.006 0.6111 0.1145 1
+ Cl2 Cl 2 a 0.0107 0.4007 0.1284 1
+ Cd4 Cd 2 a 0.0652 0.109 0.1097 1
+ O9 OH2 2 a 0.083 0.2173 0.452 1
+ OW3 OH2 2 a 0.089 0.6593 0.394 1
+ OW2 OH2 2 a 0.096 0.9293 0.358 1
+ O7 OH2 2 a 0.153 0.3933 0.513 1
+ O1 OH2 2 a 0.159 0.0893 0.309 1
+ Cl9 Cl 2 a 0.1667 0.009 0.6437 1
+ O5 OH2 2 a 0.231 0.2353 0.704 1
+ Cd2 Cd 2 a 0.2345 0.0025 0.8574 1
+ Cd1 Cd 2 a 0.264 0.5014 0.1385 1
+ O2 OH2 2 a 0.282 0.3183 0.335 1
+ Cl6 Cl 2 a 0.3004 0.0001 0.0897 1
+ Cl7 Cl 2 a 0.3229 0.5142 0.3525 1
+ Cl4 Cl 2 a 0.3237 0.2045 0.1244 1
+ O3 OH2 2 a 0.345 0.7413 0.312 1
+ Ce Ce 2 a 0.3747 0.2853 0.5445 1
+ O8 OH2 2 a 0.39 0.1373 0.556 1
+ O4 OH2 2 a 0.435 0.3773 0.713 1
+ Cl3 Cl 2 a 0.5023 0.609 0.1092 1
+ Cl8 Cl 2 a 0.5119 0.4017 0.1336 1
+ Cd3 Cd 2 a 0.5693 0.101 0.1278 1
+ O6 OH2 2 a 0.576 0.3913 0.502 1
+ O10 OH2 2 a 0.591 0.2303 0.432 1
+ Cl10 Cl 2 a 0.6018 0.0649 0.3357 1
+ Cl1 Cl 2 a 0.8144 0.0 0.0948 1
+ Cl11 Cl 2 a 0.8168 0.2019 0.1348 1
+ OW1 OH2 2 a 0.825 0.3183 0.338 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.58
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71071
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71071
+_diffrn_reflns_number                    7887
+_diffrn_reflns_theta_min                 3.14
+_diffrn_reflns_theta_max                 23.26
+_exptl_absorpt_coefficient_mu            5.093
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             264
+_refine_ls_number_reflns                 2774
+_refine_ls_R_factor_gt                   0.064
+_refine_ls_wR_factor_gt                  0.140
+
+# End of data set 1412738
+
+

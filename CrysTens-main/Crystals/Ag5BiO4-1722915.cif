@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Ag-Bi-O          # Ag5BiO4                                       # 1722915 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1722915
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1722915
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~5~ Bi O~4~'
+_chemical_formula_sum                    'Ag5 Bi O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~5~BiO~4~,mP40,14
+_chemical_formula_weight                 812.3
+
+# Bibliographic data
+
+_publ_section_title
+'Ein neuer Zugang zu Silberbismutaten'                                        
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2002
+_journal_volume                          628
+_journal_page_first                      1951
+_journal_page_last                       1954
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Oberndorfer C.P.M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Jansen M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.849
+_cell_length_b                           8.992
+_cell_length_c                           13.643
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.069
+_cell_angle_gamma                        90
+_cell_volume                             655.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Bi
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.03918 0.14368 0.12976 1
+ O2 O 4 e 0.07309 0.6372 0.06079 1
+ Bi1 Bi 4 e 0.08845 0.3782 0.12338 1
+ Ag1 Ag 4 e 0.12527 0.27002 0.37694 1
+ Ag2 Ag 4 e 0.28988 0.00633 0.25576 1
+ O3 O 4 e 0.30633 0.40898 0.30726 1
+ O4 O 4 e 0.44846 0.36201 0.11958 1
+ Ag3 Ag 4 e 0.61606 0.13929 0.13938 1
+ Ag4 Ag 4 e 0.61634 0.26989 0.37625 1
+ Ag5 Ag 2 d 0.5 0 0.5 1
+ Ag6 Ag 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.24
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1722915
+
+

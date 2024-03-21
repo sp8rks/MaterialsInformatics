@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# As-Co-H-O        # Co2[As2O7][H2O]2                              # 1323600 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1323600
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1323600
+
+# Entry summary
+
+_chemical_formula_structural             'Co~2~ [As~2~ O~7~] [H~2~ O]~2~'
+_chemical_formula_sum                    'As2 Co2 H4 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Mn~2~[P~2~O~7~][H~2~O]~2~,mP52,14
+_chemical_formula_weight                 415.7
+
+# Bibliographic data
+
+_publ_section_title
+'Comparison of the crystal structures of Co~2~(X~2~O~7~).2H~2~O, X= P and As' 
+_journal_coden_ASTM                      MOCMB7
+_journal_name_full                       'Monatsh. Chem.'
+_journal_year                            1993
+_journal_volume                          124
+_journal_page_first                      381
+_journal_page_last                       389
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Effenberger H.S.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+'Pertlik F.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.531
+_cell_length_b                           14.206
+_cell_length_c                           9.6137
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.871
+_cell_angle_gamma                        90
+_cell_volume                             704.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ O
+ As
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ow1 OH2 4 e 0.0089 0.5021 0.263 1
+ O5 O 4 e 0.0381 0.2095 0.1928 1
+ O4 O 4 e 0.1284 0.8449 0.1464 1
+ As2 As 4 e 0.11695 0.18561 0.05966 1
+ Co1 Co 4 e 0.17539 0.11523 0.41376 1
+ O2 O 4 e 0.1939 0.6492 0.1621 1
+ O6 O 4 e 0.3181 0.2697 0.084 1
+ O7 O 4 e 0.3065 0.0832 0.1401 1
+ O1 O 4 e 0.3022 0.4688 0.1249 1
+ Ow2 OH2 4 e 0.4947 0.3435 0.4318 1
+ O3 O 4 e 0.5528 0.1256 0.4824 1
+ As1 As 4 e 0.61048 0.08008 0.3491 1
+ Co2 Co 4 e 0.68669 0.25234 0.14385 1
+
+
+_exptl_crystal_colour                    pink
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.92
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            35
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    5274
+_exptl_absorpt_coefficient_mu            13.67
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             119
+_refine_ls_number_reflns                 2042
+_refine_ls_R_factor_gt                   0.046
+_refine_ls_wR_factor_gt                  0.033
+
+# End of data set 1323600
+
+

@@ -1,0 +1,163 @@
+##############################################################################
+#                                                                            #
+# Cr-H-N-O         # Cr[NO3]3[H2O]9                                # 1402193 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1402193
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1402193
+
+# Entry summary
+
+_chemical_formula_structural             'Cr [N O~3~]~3~ [H~2~ O]~9~'
+_chemical_formula_sum                    'Cr H18 N3 O18'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Al[NO~3~]~3~[H~2~O]~9~-b,mP88,14
+_chemical_formula_weight                 400.1
+
+# Bibliographic data
+
+_publ_section_title
+'Structure of Hexaaquachromium(III) Nitrate Trihydrate'                       
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1991
+_journal_volume                          47
+_journal_page_first                      1060
+_journal_page_last                       1062
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lazar D.'
+;
+Novi Sad Djuricica University
+Institute of Physics
+Novi Sad
+Serbia
+;
+'Rib\"ar B.'
+;
+Novi Sad Djuricica University
+Institute of Physics
+Novi Sad
+Serbia
+;
+'Divjakovic V.'
+;
+Novi Sad Djuricica University
+Institute of Physics
+Novi Sad
+Serbia
+;
+'Meszaros C.'
+;
+Novi Sad Djuricica University
+Institute of Physics
+Novi Sad
+Serbia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.967
+_cell_length_b                           9.6528
+_cell_length_c                           10.981
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.41
+_cell_angle_gamma                        90
+_cell_volume                             1473.87
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ O
+ N
+ Cr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ow2 OH2 4 e 0.0517 0.1163 0.3714 1
+ Ow21 OH2 4 e 0.0748 0.3902 0.3909 1
+ Ow23 OH2 4 e 0.0722 0.0938 0.1361 1
+ Ow22 OH2 4 e 0.096 0.6487 0.5041 1
+ O33 O 4 e 0.113 0.4556 0.1612 1
+ O12 O 4 e 0.1269 0.7621 0.2874 1
+ N3 N 4 e 0.1923 0.4908 0.1263 1
+ O32 O 4 e 0.1994 0.5112 0.0167 1
+ N1 N 4 e 0.2138 0.7856 0.2809 1
+ O21 O 4 e 0.2469 0.1851 0.1091 1
+ O23 O 4 e 0.263 0.1656 0.3066 1
+ O31 O 4 e 0.2645 0.5034 0.2005 1
+ N2 N 4 e 0.2987 0.1893 0.2098 1
+ Ow3 OH2 4 e 0.3566 0.4754 0.4513 1
+ O22 O 4 e 0.3856 0.2144 0.2087 1
+ Ow11 OH2 4 e 0.4058 0.1505 0.495 1
+ Ow1 OH2 4 e 0.5353 0.3777 0.3712 1
+ Ow13 OH2 4 e 0.5708 0.4121 0.1406 1
+ Ow12 OH2 4 e 0.5741 0.106 0.3888 1
+ O13 O 4 e 0.7267 0.2574 0.1303 1
+ O11 O 4 e 0.7582 0.3356 0.3144 1
+ Cr1 Cr 2 d 0.5 0 0.5 1
+ Cr2 Cr 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.80
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            19
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    3407
+_exptl_absorpt_coefficient_mu            0.671
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             274
+_refine_ls_number_reflns                 2567
+_refine_ls_R_factor_gt                   0.030
+_refine_ls_wR_factor_gt                  0.035
+
+# End of data set 1402193
+
+

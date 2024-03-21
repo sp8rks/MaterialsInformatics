@@ -1,0 +1,165 @@
+##############################################################################
+#                                                                            #
+# Ba-Co-F-Fe       # Ba2FeCoF9                                     # 1723533 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1723533
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1723533
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Fe Co F~9~'
+_chemical_formula_sum                    'Ba2 Co F9 Fe'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~CrFeF~9~,mP52,14
+_chemical_formula_weight                 560.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Magnetic structure and M\"ossbauer spectroscopy of the canted 1D-antiferromagnet Ba~2~CoFeF~9~
+;
+_journal_coden_ASTM                      SSCOA4
+_journal_name_full                       'Solid State Commun.'
+_journal_year                            1988
+_journal_volume                          66
+_journal_page_first                      987
+_journal_page_last                       991
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Leblanc M.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+'Calage Y.'
+;
+Le Mans Maine University
+Laboratoire de Spectrom\'etrie M\"ossbauer
+Le Mans
+France
+;
+'F\'erey G.'
+;
+Le Mans Maine University
+Laboratoire des Fluorures
+Le Mans
+France
+;
+'De Kozak A.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Cristallochimie du Solide
+Paris
+France
+;
+'Samouel M.'
+;
+Paris VI Pierre et Marie Curie University
+Laboratoire de Cristallochimie du Solide
+Paris
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.675
+_cell_length_b                           17.677
+_cell_length_c                           9.2956
+_cell_angle_alpha                        90
+_cell_angle_beta                         126.477
+_cell_angle_gamma                        90
+_cell_volume                             749.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ F
+ Co
+ Ba
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 e 0.0063 0.0745 0.4705 1
+ F2 F 4 e 0.0119 0.5311 0.757 1
+ Co1 Co 4 e 0.0383 0.0865 0.2722 1
+ F3 F 4 e 0.0893 0.0797 0.081 1
+ F4 F 4 e 0.1042 0.1936 0.2951 1
+ F5 F 4 e 0.2299 0.3348 0.2541 1
+ F6 F 4 e 0.2594 0.7093 0.0654 1
+ Ba1 Ba 4 e 0.3011 0.2178 0.0723 1
+ F7 F 4 e 0.4907 0.0746 0.4328 1
+ Ba2 Ba 4 e 0.5476 0.463 0.3013 1
+ F8 F 4 e 0.5967 0.0857 0.0901 1
+ F9 F 4 e 0.7265 0.3305 0.2248 1
+ Fe1 Fe 4 e 0.8528 0.3738 0.0896 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.96
+_cell_measurement_temperature            2.5
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             2.518
+_pd_proc_wavelength                      2.518
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1723533
+
+

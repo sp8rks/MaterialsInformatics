@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# Ba-I             # BaI2 hp-ht                                    #  541977 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_541977
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      541977
+
+# Entry summary
+
+_chemical_formula_structural             'Ba I~2~'
+_chemical_formula_sum                    'Ba I2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe~2~P,hP9,189
+_chemical_formula_weight                 391.1
+
+# Bibliographic data
+
+_publ_section_title                      'Zur Hochdruckpolymorphie von BaI~2~'
+_journal_coden_ASTM                      ZNBAD2
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1981
+_journal_volume                          36
+_journal_page_first                      1255
+_journal_page_last                       1260
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Beck H.P.'
+;
+Erlangen University
+Institut f\"ur Anorganische Chemie
+Erlangen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.147
+_cell_length_b                           9.147
+_cell_length_c                           5.173
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             374.83
+_cell_formula_units_Z                    3
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ I
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I(1) I 3 g 0.256 0 0.5 1
+ I(2) I 3 f 0.594 0 0 1
+ Ba(2) Ba 2 d 0.333333 0.666667 0.5 1
+ Ba(1) Ba 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.20
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier-Simon film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 7873 2
+ 0 0 1 5180 2
+ 1 1 0 4568 2
+ 1 0 1 4338 2
+ 2 0 0 3934 2
+ 1 1 1 3425 8
+ 2 0 1 3147 8
+ 2 1 0 2995 7
+ 3 0 0 2642 7
+ 2 1 1 2590 8
+ 3 0 1 2351 2
+ 2 2 0 2286 3
+ 3 1 0 2196 3
+ 2 2 1 2091 2
+ 3 1 1 2023 5
+ 4 0 0 1980 2
+ 2 1 2 1957 7
+ 4 0 1 1849 5
+ 3 2 0 1815 2
+ 4 1 0 1728 3
+ 3 2 1 1715 7
+ 3 1 2 1675 3
+
+# End of data set 541977
+
+

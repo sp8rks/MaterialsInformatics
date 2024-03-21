@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# Ag-Bi-O          # Ag2BiO3 lt                                    # 1910530 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1910530
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1910530
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ Bi O~3~'
+_chemical_formula_sum                    'Ag2 Bi O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~BiO~3~,mP24,7
+_chemical_formula_weight                 472.7
+
+# Bibliographic data
+
+_publ_section_title                      'Charge ordering in Ag~2~BiO~3~'
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2006
+_journal_volume                          8
+_journal_page_first                      267
+_journal_page_last                       276
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Oberndorfer C.P.M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Dinnebier R.E.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Ibberson R.M.'
+;
+Rutherford Appleton Laboratory (STFC)
+ISIS Facility
+Chilton-Didcot
+United Kingdom
+;
+'Jansen M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.9482
+_cell_length_b                           6.3071
+_cell_length_c                           11.0288
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.732
+_cell_angle_gamma                        90
+_cell_volume                             359.29
+_cell_formula_units_Z                    4
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ag
+ O
+ Bi
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag22 Ag 2 a 0.0 0.5045 0.0 1
+ O21 O 2 a 0.0254 0.4101 0.3048 1
+ Ag21 Ag 2 a 0.0256 0.0148 0.4879 1
+ Ag11 Ag 2 a 0.0424 0.7336 0.248 1
+ O11 O 2 a 0.0553 0.0415 0.2004 1
+ Bi1 Bi 2 a 0.36546 0.2463 0.33426 1
+ O12 O 2 a 0.3589 0.405 0.1656 1
+ O31 O 2 a 0.4171 0.054 0.5088 1
+ Ag12 Ag 2 a 0.5063 0.7488 0.2294 1
+ O32 O 2 a 0.6057 0.4885 0.4759 1
+ O22 O 2 a 0.6263 0.0694 0.2985 1
+ Bi2 Bi 2 a 0.66118 0.2411 0.12938 1
+
+
+_exptl_crystal_colour                    'black brown'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.74
+_cell_measurement_temperature            2
+_cell_measurement_radiation              'neutrons, time-of-flight'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              2
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'United Kingdom, Chilton-Didcot, Rutherford Appleton Laboratory, ISIS Facility'
+_diffrn_radiation_type                   'neutrons, time-of-flight'
+_diffrn_reflns_number                    236
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             58
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0303
+_pd_proc_ls_proof_wR_factor              0.0372
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1910530
+
+

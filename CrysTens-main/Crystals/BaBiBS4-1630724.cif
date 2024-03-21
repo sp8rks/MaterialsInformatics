@@ -1,0 +1,175 @@
+##############################################################################
+#                                                                            #
+# B-Ba-Bi-S        # BaBiBS4                                       # 1630724 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1630724
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1630724
+
+# Entry summary
+
+_chemical_formula_structural             'Ba Bi B S~4~'
+_chemical_formula_sum                    'B Ba Bi S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            BaBiBS~4~,mS28,12
+_chemical_formula_weight                 485.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+BaM(BS~3~)S (M= Sb, Bi): Two new thioborate compounds with one-dimensional polymeric chain structure
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2010
+_journal_volume                          49
+_journal_page_first                      6609
+_journal_page_last                       6615
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Geng L.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Cheng W.D.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhang W.L.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Lin C.S.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhang H.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Li Y.Y.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'He Z.Z.'
+;
+Chinese Academy of Sciences
+Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.989
+_cell_length_b                           6.2457
+_cell_length_c                           7.5591
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.604
+_cell_angle_gamma                        90
+_cell_volume                             693.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ B
+ Ba
+ Bi
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 8 j 0.14042 0.2486 0.0688 1
+ S2 S 4 i 0.0343 0 0.3195 1
+ B1 B 4 i 0.1031 0 0.1556 1
+ Ba1 Ba 4 i 0.18092 0 0.69226 1
+ S1 S 4 i 0.3411 0 0.4503 1
+ Bi1 Bi 4 i 0.5465 0 0.2573 1
+
+
+_exptl_crystal_colour                    'orange yellow'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.65
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1059
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Mercury'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2669
+_diffrn_reflns_theta_min                 2.75
+_diffrn_reflns_theta_max                 27.47
+_exptl_absorpt_coefficient_mu            32.074
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             41
+_refine_ls_number_reflns                 806
+_refine_ls_R_factor_gt                   0.0325
+_refine_ls_wR_factor_gt                  0.0805
+
+# End of data set 1630724
+
+

@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Co-H-O-P         # Co[PH2O2]2[H2O]0.53                           # 1411355 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1411355
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1411355
+
+# Entry summary
+
+_chemical_formula_structural             'Co [P H~2~ O~2~]~2~ [H~2~ O]~0.53~'
+_chemical_formula_sum                    'Co O4 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Co[PH~2~O~2~]~2~[H~2~O]~0.53~,mP14,13                                         
+_chemical_formula_weight                 198.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Topotactic intercalation of water and pyridine into Co(H~2~PO~2~)~2~.nH~2~O (0 <= n <= 0.69). Crystal structure of Co(H~2~PO~2~)~2~.0.53H~2~O solved from X-ray powder diffraction data
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1994
+_journal_volume                          33
+_journal_page_first                      1220
+_journal_page_last                       1226
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Marcos M.D.'
+;
+Valencia University
+Departamento de Quimica Inorganica
+Valencia
+Spain
+;
+'Amoros P.'
+;
+Valencia University
+Departamento de Quimica Inorganica
+Valencia
+Spain
+;
+'Beltran D.'
+;
+Valencia University
+Departamento de Quimica Inorganica
+Valencia
+Spain
+;
+'Beltran A.'
+;
+Valencia University
+Departamento de Quimica Inorganica
+Valencia
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.3411
+_cell_length_b                           7.49
+_cell_length_c                           6.4722
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.087
+_cell_angle_gamma                        90
+_cell_volume                             258.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 g 0.003 0.2648 0.5535 1
+ O1 O 4 g 0.2721 0.0324 0.265 1
+ P1 P 2 f 0.5 0.1478 0.25 1
+ P2 P 2 e 0 0.6277 0.25 1
+ Co Co 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.55
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D501'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 62.5
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                125
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 830
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0731
+_pd_proc_ls_proof_wR_factor              0.0905
+_refine_ls_R_I_factor                    0.0538
+
+# End of data set 1411355
+
+

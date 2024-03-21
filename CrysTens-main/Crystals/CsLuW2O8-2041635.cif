@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# Cs-Lu-O-W        # CsLuW2O8 rt                                   # 2041635 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2041635
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2041635
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Lu W~2~ O~8~'
+_chemical_formula_sum                    'Cs Lu O8 W2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsLuW~2~O~8~,mP24,13
+_chemical_formula_weight                 803.6
+
+# Bibliographic data
+
+_publ_section_title
+'Structure and Luminescence of Some CsLnW~2~O~8~ Compounds'                   
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1987
+_journal_volume                          69
+_journal_page_first                      171
+_journal_page_last                       178
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Torardi C.C.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+'Page C.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+'Brixner L.H.'
+;
+Du Pont de Nemours and Co.
+Central Research and Development Department
+Wilmington
+U.S.A. Delaware
+;
+'Blasse G.'
+;
+Utrecht University
+Department of Physics
+Utrecht
+Netherlands
+;
+'Dirksen G.J.'
+;
+Utrecht University
+Department of Physics
+Utrecht
+Netherlands
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.322
+_cell_length_b                           5.132
+_cell_length_c                           7.277
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.66
+_cell_angle_gamma                        90
+_cell_volume                             346.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ W
+ Cs
+ Lu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 g 0.0459 0.2329 0.0313 1
+ O2 O 4 g 0.1652 0.1349 0.7325 1
+ W W 4 g 0.1869 0.0205 0.4922 1
+ O1 O 4 g 0.2198 0.334 0.3939 1
+ O3 O 4 g 0.3572 0.1028 0.058 1
+ Cs Cs 2 f 0.5 0.5919 0.25 1
+ Lu Lu 2 e 0 0.5282 0.25 1
+
+
+_exptl_crystal_colour                    white
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.70
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    972
+_exptl_absorpt_coefficient_mu            53.10
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 431
+_refine_ls_R_factor_gt                   0.089
+_refine_ls_wR_factor_gt                  0.086
+
+# End of data set 2041635
+
+

@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Ag-Au-Te         # AgAuTe2 lt                                    # 1321055 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1321055
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1321055
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Au Te~2~'
+_chemical_formula_sum                    'Ag Au Te2'
+_chemical_name_mineral                   muthmannite
+_chemical_compound_source
+'Romania, Hunedoara, Metaliferi Mountains, Sacarimb deposit'                  
+_chemical_name_structure_type            AgAuTe~2~,mP8,10
+_chemical_formula_weight                 560.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ordered dristribution of Au and Ag in the crystal structure of muthmannite, AuAgTe~2~, a rare telluride from Sacarimb, western Romania
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2004
+_journal_volume                          89
+_journal_page_first                      1505
+_journal_page_last                       1509
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bindi L.'
+;
+Florence University
+Museo di Storia Naturale
+Florence
+Italy
+;
+'Cipriani C.'
+;
+Florence University
+Museo di Storia Naturale
+Florence
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.124
+_cell_length_b                           4.419
+_cell_length_c                           7.437
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.04
+_cell_angle_gamma                        90
+_cell_volume                             168.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   10
+_space_group_name_H-M_alt                'P 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+loop_
+ _atom_type_symbol
+ Te
+ Au
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te1 Te 2 n 0.1277 0.5 0.2491 1
+ Te2 Te 2 m 0.6089 0 0.2418 1
+ Au1 Au 1 h 0.5 0.5 0.5 1
+ Au2 Au 1 e 0.5 0.5 0 1
+ Ag1 Ag 1 c 0 0 0.5 1
+ Ag2 Ag 1 a 0 0 0 1
+
+
+_exptl_crystal_colour
+'bronze pale, in plane-polarized incident light white grayish'                
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            11.05
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius MACH3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            23.15
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 386
+_refine_ls_R_factor_gt                   0.0552
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1321055
+
+

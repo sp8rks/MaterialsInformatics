@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Cd-Cs-H-I-O      # CsCdI3[H2O]                                   # 1002532 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1002532
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1002532
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Cd I~3~ [H~2~ O]'
+_chemical_formula_sum                    'Cd Cs H2 I3 O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsCdI~3~[H~2~O],mP24,7
+_chemical_formula_weight                 644.0
+
+# Bibliographic data
+
+_publ_section_title                      'X-ray study of CsCdI~3~.H~2~O'
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1996
+_journal_volume                          211
+_journal_page_first                      234
+_journal_page_last                       237
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sj\"ovall R.'
+;
+Lund University
+Department of Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Svensson C.'
+;
+Lund University
+Department of Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Lidin S.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9
+_cell_length_b                           7.565
+_cell_length_c                           14.97
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.47
+_cell_angle_gamma                        90
+_cell_volume                             1019.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cd
+ I
+ Cs
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cd2 Cd 2 a 0.0 0.1409 0.0 1
+ I6 I 2 a 0.0038 0.4968 0.4979 1
+ I5 I 2 a 0.0098 0.0009 0.3316 1
+ Cs2 Cs 2 a 0.1711 0.5355 0.2443 1
+ I3 I 2 a 0.2524 0.0174 0.0985 1
+ Ow1 OH2 2 a 0.3321 0.28 0.3792 1
+ Cd1 Cd 2 a 0.5005 0.1915 0.0219 1
+ I1 I 2 a 0.5051 0.1798 0.8397 1
+ I2 I 2 a 0.5097 0.5264 0.0912 1
+ Cs1 Cs 2 a 0.6694 0.3085 0.3512 1
+ I4 I 2 a 0.7512 0.074 0.0934 1
+ Ow2 OH2 2 a 0.8371 0.59 0.2372 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.20
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            14.55
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1736
+_refine_ls_R_factor_gt                   0.041
+_refine_ls_wR_factor_gt                  0.049
+
+# End of data set 1002532
+
+

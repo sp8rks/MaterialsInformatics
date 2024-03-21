@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Ag-In-Se-Si      # Ag2In2SiSe6 rt                                # 1212512 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1212512
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1212512
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ In~2~ Si Se~6~'
+_chemical_formula_sum                    'Ag2 In2 Se6 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~In~2~GeSe~6~,mS44,9
+_chemical_formula_weight                 947.2
+
+# Bibliographic data
+
+_publ_section_title
+'Phase equilibria in the Cu(Ag)Ga(In)Se~2~-SiSe~2~ systems'                   
+_journal_coden_ASTM                      ICCIC9
+_journal_name_full
+'Abstr. 9th Int. Conf. Crystal Chem. Intermet. Compd.'                        
+_journal_year                            2005
+_journal_volume                          ?
+_journal_page_first                      60
+_journal_page_last                       ?
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sachanyuk V.P.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+'Olekseyuk I.D.'
+;
+Lviv Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lviv
+Ukraine
+;
+'Parasyuk O.V.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.6683
+_cell_length_b                           7.4565
+_cell_length_c                           12.6133
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.286
+_cell_angle_gamma                        90
+_cell_volume                             1124.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Se
+ Si
+ In
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 a 0.0 0.0089 0.0 1
+ Se2 Se 4 a 0.0025 0.2661 0.2495 1
+ Se3 Se 4 a 0.0313 0.5136 0.027 1
+ Si1 Si 4 a 0.0784 0.2355 0.4425 1
+ In1 In 4 a 0.1458 0.0632 0.1997 1
+ Se4 Se 4 a 0.2706 0.2465 0.4882 1
+ Ag1 Ag 4 a 0.3059 0.589 0.1942 1
+ Se5 Se 4 a 0.315 0.2361 0.1836 1
+ In2 In 4 a 0.3264 0.092 0.0013 1
+ Ag2 Ag 4 a 0.5086 0.2053 0.3539 1
+ Se6 Se 4 a 0.6984 0.27 0.3142 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.59
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1212512
+
+

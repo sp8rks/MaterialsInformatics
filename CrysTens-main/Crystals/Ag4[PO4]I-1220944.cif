@@ -1,0 +1,187 @@
+##############################################################################
+#                                                                            #
+# Ag-I-O-P         # Ag4[PO4]I                                     # 1220944 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1220944
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1220944
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~4~ [P O~4~] I'
+_chemical_formula_sum                    'Ag4 I O4 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~4~[PO~4~]I,mP40,11
+_chemical_formula_weight                 653.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Trapping phosphate anions inside the [Ag~4~I]^3+^ framework: Structure, bonding, and properties of Ag~4~I(PO~4~)
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2008
+_journal_volume                          181
+_journal_page_first                      37
+_journal_page_last                       44
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Oleneva O.S.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Kirsanova M.A.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Shestimerova T.A.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Abramchuk N.S.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Davliatshin D.I.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Bykov M.A.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Dikarev E.V.'
+;
+Albany University of SUNY (New York State University)
+Department of Chemistry
+Albany
+U.S.A. New York
+;
+'Shevel'kov A.V.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.0874
+_cell_length_b                           6.8809
+_cell_length_c                           11.126
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.45
+_cell_angle_gamma                        90
+_cell_volume                             656
+_cell_formula_units_Z                    4
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ag
+ O
+ I
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag5 Ag 4 f 0.0036 0.03115 0.27907 1
+ Ag4 Ag 4 f 0.29024 0.0109 0.03855 1
+ Ag3 Ag 4 f 0.35173 0.02601 0.57215 1
+ O6 O 4 f 0.3776 0.5657 0.3756 1
+ O5 O 4 f 0.7333 0.0645 0.1764 1
+ I2 I 2 e 0.05284 0.25 0.06954 1
+ I1 I 2 e 0.09349 0.25 0.52232 1
+ Ag2 Ag 2 e 0.3175 0.25 0.28753 1
+ Ag1 Ag 2 e 0.37782 0.25 0.81185 1
+ O2 O 2 e 0.4899 0.25 0.056 1
+ O3 O 2 e 0.5876 0.25 0.2983 1
+ P1 P 2 e 0.6347 0.25 0.1766 1
+ O1 O 2 e 0.6457 0.25 0.8245 1
+ P2 P 2 e 0.6923 0.25 0.7024 1
+ O4 O 2 e 0.8705 0.25 0.7346 1
+
+
+_exptl_crystal_colour                    'orange red'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.62
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5534
+_diffrn_reflns_theta_min                 1.94
+_diffrn_reflns_theta_max                 28.21
+_exptl_absorpt_coefficient_mu            16.652
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             107
+_refine_ls_number_reflns                 1642
+_refine_ls_R_factor_gt                   0.028
+_refine_ls_wR_factor_gt                  0.066
+
+# End of data set 1220944
+
+

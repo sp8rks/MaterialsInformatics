@@ -1,0 +1,184 @@
+##############################################################################
+#                                                                            #
+# Co-Cs-O          # CsCoO2 lt                                     # 1722971 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1722971
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1722971
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Co O~2~'
+_chemical_formula_sum                    'Co Cs O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsLiF~2~,mS32,15
+_chemical_formula_weight                 223.8
+
+# Bibliographic data
+
+_publ_section_title
+'Magnetostructural relationship in the tetrahedral spin-chain oxide CsCoO~2~' 
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            2015
+_journal_volume                          91
+_journal_page_first                      1
+_journal_page_last                       9
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ali N.Z.'
+;
+Max Planck Society
+MPI f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Williams R.C.'
+;
+Durham University
+Department of Physics
+Durham
+United Kingdom
+;
+'Xiao F.'
+;
+Durham University
+Department of Physics
+Durham
+United Kingdom
+;
+'Clark S.J.'
+;
+Durham University
+Department of Physics
+Durham
+United Kingdom
+;
+'Lancaster T.'
+;
+Durham University
+Department of Physics
+Durham
+United Kingdom
+;
+'Blundell S.J.'
+;
+Oxford University
+Department of Physics
+Oxford
+United Kingdom
+;
+'Sheptyakov D.V.'
+;
+Paul Scherrer Institute
+Laboratory for Neutron Scattering and Imaging
+Villigen
+Switzerland
+;
+'Jansen M.'
+;
+Max Planck Society
+MPI f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.9747
+_cell_length_b                           12.2045
+_cell_length_c                           8.2324
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.942
+_cell_angle_gamma                        90
+_cell_volume                             599.9
+_cell_formula_units_Z                    8
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Co
+ Cs
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Co Co 8 f 0.2513 0.2019 0.1393 1
+ Cs Cs 8 f 0.2556 0.0868 0.5722 1
+ O1 O 8 f 0.2562 0.3501 0.0755 1
+ O3 O 4 e 0 0.1699 0.25 1
+ O2 O 4 e 0 0.6508 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.96
+_cell_measurement_temperature            1.5
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.886
+_pd_proc_wavelength                      1.886
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              1.5
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Switzerland, Villigen, Paul Scherrer Institute, Laboratory for Neutron Scattering, SINQ, HRPT
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.886
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1722971
+
+

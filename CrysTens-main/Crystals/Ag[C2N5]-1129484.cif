@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Ag-C-N           # Ag[C2N5]                                      # 1129484 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1129484
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1129484
+
+# Entry summary
+
+_chemical_formula_structural             'Ag [C~2~ N~5~]'
+_chemical_formula_sum                    'Ag C2 N5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag[C~2~N~5~],mP32,14
+_chemical_formula_weight                 201.9
+
+# Bibliographic data
+
+_publ_section_title
+'The reactivity of 5-cyanotetrazole towards water and hydroxylamine'          
+_journal_coden_ASTM                      CHEMM5
+_journal_name_full                       ChemPlusChem
+_journal_year                            2012
+_journal_volume                          77
+_journal_page_first                      877
+_journal_page_last                       888
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fischer N.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+'Klap\"otke T.M.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+'Rappengl\"uck S.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+'Stierstorfer J.'
+;
+Munich Ludwig Maximilian University
+Department Chemie und Biochemie
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.8789
+_cell_length_b                           7.6299
+_cell_length_c                           9.7934
+_cell_angle_alpha                        90
+_cell_angle_beta                         126.461
+_cell_angle_gamma                        90
+_cell_volume                             413.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ Ag
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N2 N 4 e 0.1034 0.2434 0.4691 1
+ Ag1 Ag 4 e 0.1086 0.54378 0.23722 1
+ N3 N 4 e 0.1922 0.3945 0.4658 1
+ N1 N 4 e 0.2152 0.307 0.1308 1
+ N4 N 4 e 0.3647 0.0518 0.1238 1
+ C1 C 4 e 0.3708 0.1799 0.2197 1
+ C2 C 4 e 0.5396 0.1779 0.4036 1
+ N5 N 4 e 0.6688 0.3251 0.0474 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.24
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            801
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur 3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1449
+_diffrn_reflns_theta_min                 4.2
+_diffrn_reflns_theta_max                 26
+_exptl_absorpt_coefficient_mu            4.723
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             73
+_refine_ls_number_reflns                 639
+_refine_ls_R_factor_gt                   0.0263
+_refine_ls_wR_factor_gt                  0.0490
+
+# End of data set 1129484
+
+

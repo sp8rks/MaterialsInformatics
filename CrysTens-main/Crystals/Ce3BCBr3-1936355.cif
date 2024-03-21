@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# B-Br-C-Ce        # Ce3BCBr3                                      # 1936355 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1936355
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1936355
+
+# Entry summary
+
+_chemical_formula_structural             'Ce~3~ B C Br~3~'
+_chemical_formula_sum                    'B Br3 C Ce3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~3~BCCl~3~,mP16,11
+_chemical_formula_weight                 682.9
+
+# Bibliographic data
+
+_publ_section_title
+'B and B-C as interstitials in reduced rare earth halides'                    
+_journal_coden_ASTM                      ICHAA3
+_journal_name_full                       'Inorg. Chim. Acta'
+_journal_year                            1999
+_journal_volume                          289
+_journal_page_first                      174
+_journal_page_last                       190
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mattausch H.J.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Oeckler O.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Simon A.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.471
+_cell_length_b                           3.867
+_cell_length_c                           11.623
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.7
+_cell_angle_gamma                        90
+_cell_volume                             375.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ B
+ C
+ Ce
+ Br
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ B1 B 2 e 0.0358 0.25 0.0409 1
+ C1 C 2 e 0.1 0.25 0.1753 1
+ Ce1 Ce 2 e 0.10781 0.25 0.81822 1
+ Ce2 Ce 2 e 0.19753 0.25 0.38492 1
+ Br2 Br 2 e 0.53927 0.25 0.63841 1
+ Br3 Br 2 e 0.59076 0.25 0.12416 1
+ Ce3 Ce 2 e 0.71781 0.25 0.88964 1
+ Br1 Br 2 e 0.84322 0.25 0.40474 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.04
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54056
+_pd_proc_wavelength                      1.54056
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.56086
+_diffrn_reflns_number                    2391
+_diffrn_reflns_theta_min                 2.18
+_diffrn_reflns_theta_max                 23.97
+_exptl_absorpt_coefficient_mu            17.960
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             47
+_refine_ls_number_reflns                 1206
+_refine_ls_R_factor_gt                   0.0261
+_refine_ls_wR_factor_gt                  0.0548
+
+# End of data set 1936355
+
+

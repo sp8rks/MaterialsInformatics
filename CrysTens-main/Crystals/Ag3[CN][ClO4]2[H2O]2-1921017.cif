@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# Ag-C-Cl-H-N-O    # Ag3[CN][ClO4]2[H2O]2                          # 1921017 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1921017
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1921017
+
+# Entry summary
+
+_chemical_formula_structural
+'Ag~3~ [C N] [Cl O~4~]~2~ [H~2~ O]~2~'                                        
+_chemical_formula_sum                    'Ag3 C Cl2 H4 N O10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Ag~3~[CN][ClO~4~]~2~[H~2~O]~2~,mP34,4                                         
+_chemical_formula_weight                 584.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Variation of [AgCN]\\infty chain configuration in silver(I) double salts: crystal structures of AgCN.2AgNO~3~ and AgCN.2AgClO~4~.2H~2~O
+;
+_journal_coden_ASTM                      ICCOFP
+_journal_name_full                       'Inorg. Chem. Commun.'
+_journal_year                            2000
+_journal_volume                          3
+_journal_page_first                      313
+_journal_page_last                       315
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Guo G.C.'
+;
+Hong Kong Chinese University
+Department of Chemistry
+Hong Kong
+China
+;
+'Wang Q.M.'
+;
+Hong Kong Chinese University
+Department of Chemistry
+Hong Kong
+China
+;
+'Mak T.C.W.'
+;
+Hong Kong Chinese University
+Department of Chemistry
+Hong Kong
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.877
+_cell_length_b                           21.187
+_cell_length_c                           5.307
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.42
+_cell_angle_gamma                        90
+_cell_volume                             548.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Ag
+ OH2
+ N
+ C
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O14 O 2 a 0.0997 0.23807 0.0945 1
+ Ag2 Ag 2 a 0.17881 0.48588 0.38407 1
+ O1W OH2 2 a 0.1881 0.59319 0.3196 1
+ O21 O 2 a 0.223 0.07143 0.0603 1
+ N1 N 2 a 0.2431 0.36454 0.6831 1
+ C1 C 2 a 0.2457 0.38234 0.4783 1
+ Ag1 Ag 2 a 0.26586 0.37559 0.08256 1
+ O23 O 2 a 0.2769 0.0 0.3969 1
+ Ag3 Ag 2 a 0.30734 0.25451 0.65029 1
+ O2W OH2 2 a 0.3094 0.15003 0.524 1
+ Cl2 Cl 2 a 0.34337 0.01227 0.13956 1
+ O24 O 2 a 0.6342 0.01438 0.1234 1
+ O11 O 2 a 0.6751 0.18548 0.0851 1
+ O13 O 2 a 0.701 0.29367 0.0079 1
+ O22 O 2 a 0.7583 0.46272 0.019 1
+ O12 O 2 a 0.7781 0.25308 0.4126 1
+ Cl1 Cl 2 a 0.81158 0.24229 0.14643 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.54
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1829
+_diffrn_reflns_theta_min                 1.92
+_diffrn_reflns_theta_max                 25.5
+_exptl_absorpt_coefficient_mu            5.384
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             156
+_refine_ls_number_reflns                 1720
+_refine_ls_R_factor_gt                   0.0480
+_refine_ls_wR_factor_gt                  0.1380
+
+# End of data set 1921017
+
+

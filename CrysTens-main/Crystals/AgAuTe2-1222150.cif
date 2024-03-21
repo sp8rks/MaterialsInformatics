@@ -1,0 +1,127 @@
+##############################################################################
+#                                                                            #
+# Ag-Au-Te         # AgAuTe2 lt                                    # 1222150 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1222150
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1222150
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Au Te~2~'
+_chemical_formula_sum                    'Ag Au Te2'
+_chemical_name_mineral                   muthmannite
+_chemical_compound_source
+'Romania, Hunedoara, Metaliferi Mountains, Sacarimb deposit'                  
+_chemical_name_structure_type            AgAuTe~2~,mP8,10
+_chemical_formula_weight                 560.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Commensurate-incommensurate phase transition in muthmannite, AuAgTe~2~: first evidence of a modulated structure at low temperature
+;
+_journal_coden_ASTM                      PMLEEG
+_journal_name_full                       'Philos. Mag. Lett.'
+_journal_year                            2008
+_journal_volume                          88
+_journal_page_first                      533
+_journal_page_last                       541
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bindi L.'
+;
+Florence University
+Museo di Storia Naturale
+Florence
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.118
+_cell_length_b                           4.407
+_cell_length_c                           7.4274
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.021
+_cell_angle_gamma                        90
+_cell_volume                             167.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   10
+_space_group_name_H-M_alt                'P 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+loop_
+ _atom_type_symbol
+ Te
+ Au
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te1 Te 2 n 0.1277 0.5 0.24913 1
+ Te2 Te 2 m 0.6089 0 0.24179 1
+ Au1 Au 1 h 0.5 0.5 0.5 1
+ Au2 Au 1 e 0.5 0.5 0 1
+ Ag1 Ag 1 c 0 0 0.5 1
+ Ag2 Ag 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            11.10
+_cell_measurement_temperature            110
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              110
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Xcalibur 3'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2823
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 631
+_refine_ls_R_factor_gt                   0.0195
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1222150
+
+

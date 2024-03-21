@@ -1,0 +1,171 @@
+##############################################################################
+#                                                                            #
+# Br-Cs-Mo         # Cs3Mo2Br9                                     # 1100944 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1100944
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1100944
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~3~ Mo~2~ Br~9~'
+_chemical_formula_sum                    'Br9 Cs3 Mo2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~3~Cr~2~Cl~9~,hP28,194
+_chemical_formula_weight                 1309.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure Systematics in A~3~Mo~2~X~9~, X= Cl, Br, I, from Rietveld Refinement of X-ray Powder Data
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1987
+_journal_volume                          69
+_journal_page_first                      162
+_journal_page_last                       170
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Stranger R.'
+;
+Hobart Tasmania University
+Department of Chemistry
+Hobart
+Australia
+;
+'Grey I.E.'
+;
+Commonwealth Scientific and Industrial Research Organization (CSIRO)
+Division of Mineral Chemistry
+Port Melbourne
+Australia
+;
+'Madsen I.C.'
+;
+Commonwealth Scientific and Industrial Research Organization (CSIRO)
+Division of Mineral Chemistry
+Port Melbourne
+Australia
+;
+'Smith P.W.'
+;
+Hobart Tasmania University
+Department of Chemistry
+Hobart
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.6296
+_cell_length_b                           7.6296
+_cell_length_c                           18.365
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             925.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Br
+ Cs
+ Mo
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br2 Br 12 k 0.174 0.348 0.593 1
+ Br1 Br 6 h 0.5006 0.0012 0.25 1
+ Cs2 Cs 4 f 0.333333 0.666667 0.0753 1
+ Mo Mo 4 f 0.333333 0.666667 0.6722 1
+ Cs1 Cs 2 b 0 0 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.70
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1050'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3.5
+_diffrn_reflns_theta_max                 45
+_pd_proc_2theta_range_min                7
+_pd_proc_2theta_range_max                90
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.0649
+_refine_ls_R_I_factor                    0.0247
+
+# End of data set 1100944
+
+

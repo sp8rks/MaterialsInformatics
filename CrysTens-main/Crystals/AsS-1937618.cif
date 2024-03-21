@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# As-S             # AsS ht                                        # 1937618 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1937618
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1937618
+
+# Entry summary
+
+_chemical_formula_structural             'As S'
+_chemical_formula_sum                    'As S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AsS,mS32,15
+_chemical_formula_weight                 107.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Gl\"aser und Verbindungen im System P~4~S~4~- As~4~S~4~ -As~4~Se~4~ -P~4~Se~4~
+;
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1993
+_journal_volume                          48
+_journal_page_first                      1175
+_journal_page_last                       1180
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Blachnik R.'
+;
+Osnabr\"uck University
+Institut f\"ur Chemie
+Osnabr\"uck
+Germany
+;
+'L\"onnecke P.'
+;
+Osnabr\"uck University
+Institut f\"ur Chemie
+Osnabr\"uck
+Germany
+;
+'Nuss J.'
+;
+Osnabr\"uck University
+Institut f\"ur Chemie
+Osnabr\"uck
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.104
+_cell_length_b                           9.46
+_cell_length_c                           8.947
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.56
+_cell_angle_gamma                        90
+_cell_volume                             834.7
+_cell_formula_units_Z                    16
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ As
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As1 As 8 f 0.0012 0.2058 0.4449 1
+ As2 As 8 f 0.1599 0.4012 0.3739 1
+ S1 S 8 f 0.2015 0.3048 0.1594 1
+ S2 S 4 e 0 0.0531 0.25 1
+ S3 S 4 e 0 0.5522 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.41
+_cell_measurement_temperature            553
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1937618
+
+

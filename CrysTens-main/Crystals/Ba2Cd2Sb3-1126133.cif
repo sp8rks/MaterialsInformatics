@@ -1,0 +1,161 @@
+##############################################################################
+#                                                                            #
+# Ba-Cd-Sb         # Ba2Cd2Sb3                                     # 1126133 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1126133
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1126133
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Cd~2~ Sb~3~'
+_chemical_formula_sum                    'Ba2 Cd2 Sb3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~Cd~2~As~3~,mS28,12
+_chemical_formula_weight                 864.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, crystallographic and theoretical studies of the new Zintl phases Ba~2~Cd~2~Pn~3~ (Pn= As, Sb), and the solid solutions (Ba~1-x~Sr~x~)~2~Cd~2~Sb~3~ and Ba~2~Cd~2~(Sb~1-x~As~x~)~3~
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2010
+_journal_volume                          39
+_journal_page_first                      1063
+_journal_page_last                       1070
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Saparov B.'
+;
+Delaware Newark University
+Department of Chemistry and Biochemistry
+Newark
+U.S.A. Delaware
+;
+'He H.'
+;
+Delaware Newark University
+Department of Chemistry and Biochemistry
+Newark
+U.S.A. Delaware
+;
+'Zhang X.'
+;
+Maryland College Park University
+Department of Physics
+College Park
+U.S.A. Maryland
+;
+'Greene R.'
+;
+Maryland College Park University
+Department of Physics
+College Park
+U.S.A. Maryland
+;
+'Bobev S.'
+;
+Delaware Newark University
+Department of Chemistry and Biochemistry
+Newark
+U.S.A. Delaware
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           18.072
+_cell_length_b                           4.824
+_cell_length_c                           13.403
+_cell_angle_alpha                        90
+_cell_angle_beta                         126.747
+_cell_angle_gamma                        90
+_cell_volume                             936.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cd
+ Sb
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cd1 Cd 4 i 0.04105 0 0.31104 1
+ Sb1 Sb 4 i 0.08039 0 0.12521 1
+ Sb2 Sb 4 i 0.15526 0 0.80402 1
+ Ba1 Ba 4 i 0.26447 0 0.66315 1
+ Sb3 Sb 4 i 0.38686 0 0.54197 1
+ Ba2 Ba 4 i 0.39784 0 0.05511 1
+ Cd2 Cd 4 i 0.40899 0 0.34633 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.13
+_cell_measurement_temperature            170(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              170(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5324
+_diffrn_reflns_theta_min                 1.9
+_diffrn_reflns_theta_max                 28.27
+_exptl_absorpt_coefficient_mu            21.157
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             43
+_refine_ls_number_reflns                 1189
+_refine_ls_R_factor_gt                   0.0232
+_refine_ls_wR_factor_gt                  0.0517
+
+# End of data set 1126133
+
+

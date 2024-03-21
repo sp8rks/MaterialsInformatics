@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# Cs-O-V           # CsV3O8                                        # 1904503 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904503
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904503
+
+# Entry summary
+
+_chemical_formula_structural             'Cs V~3~ O~8~'
+_chemical_formula_sum                    'Cs O8 V3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KV~3~O~8~,mP24,11
+_chemical_formula_weight                 413.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal synthesis and structure refinements of alkali-metal trivanadates AV~3~O~8~ (A= K, Rb, Cs)
+;
+_journal_coden_ASTM                      MRBUAC
+_journal_name_full                       'Mater. Res. Bull.'
+_journal_year                            1997
+_journal_volume                          32
+_journal_page_first                      1201
+_journal_page_last                       1209
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Oka Y.'
+;
+Kyoto University
+Department of Natural Environment Sciences
+Kyoto / Kyoto
+Japan
+;
+'Yao T.'
+;
+Kyoto University
+Department of Fundamental Energy Science
+Kyoto / Kyoto
+Japan
+;
+'Yamamoto N.'
+;
+Kyoto University
+Graduate School of Human and Environmental Studies
+Kyoto / Kyoto
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.0029
+_cell_length_b                           8.5438
+_cell_length_c                           8.2021
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.561
+_cell_angle_gamma                        90
+_cell_volume                             348.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 f 0.052 0.5583 0.3168 1
+ O3 O 4 f 0.1816 0.0881 0.0035 1
+ O5 O 4 f 0.6067 0.1011 0.2183 1
+ V2 V 4 f 0.9306 0.0568 0.1757 1
+ O2 O 2 e 0.081 0.25 0.2423 1
+ V1 V 2 e 0.41 0.25 0.0671 1
+ Cs Cs 2 e 0.44 0.25 0.55545 1
+ O1 O 2 e 0.613 0.25 0.9265 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7R'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            8.21
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             62
+_refine_ls_number_reflns                 1615
+_refine_ls_R_factor_gt                   0.049
+_refine_ls_wR_factor_gt                  0.055
+
+# End of data set 1904503
+
+

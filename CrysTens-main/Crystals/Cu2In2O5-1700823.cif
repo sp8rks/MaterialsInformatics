@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# Cu-In-O          # Cu2In2O5                                      # 1700823 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1700823
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1700823
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ In~2~ O~5~'
+_chemical_formula_sum                    'Cu2 In2 O5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~In~2~O~5~,mP36,3
+_chemical_formula_weight                 436.7
+
+# Bibliographic data
+
+_publ_section_title
+'Die Kristallstruktur des Kupfer-Indium-Oxids, Cu~2~In~2~O~5~'                
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1968
+_journal_volume                          24
+_journal_page_first                      388
+_journal_page_last                       391
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bergerhoff G.'
+;
+Bonn Rheinich Friedrich Wilhelm University
+Institut f\"ur Anorganische Chemie
+Bonn
+Germany
+;
+'Kasper H.M.'
+;
+Bonn Rheinich Friedrich Wilhelm University
+Institut f\"ur Anorganische Chemie
+Bonn
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.6865
+_cell_length_b                           3.28
+_cell_length_c                           13.4
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.5
+_cell_angle_gamma                        90
+_cell_volume                             430.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   3
+_space_group_name_H-M_alt                'P 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+loop_
+ _atom_type_symbol
+ In
+ O
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ In3 In 2 e 0.0066 0.515 0.3365 1
+ O7 O 2 e 0.056 0.558 0.2 1
+ O5 O 2 e 0.138 0.018 0.69 1
+ O1 O 2 e 0.141 0.019 0.4 1
+ Cu1 Cu 2 e 0.161 0.939 0.5528 1
+ In2 In 2 e 0.1684 0.0959 0.1633 1
+ O4 O 2 e 0.26 0.59 0.111 1
+ Cu2 Cu 2 e 0.3409 0.097 0.4466 1
+ O2 O 2 e 0.349 0.069 0.597 1
+ O6 O 2 e 0.362 0.075 0.304 1
+ Cu4 Cu 2 e 0.3962 0.447 0.0567 1
+ In4 In 2 e 0.5036 0.584 0.3331 1
+ O8 O 2 e 0.534 0.53 0.185 1
+ In1 In 2 e 0.6736 0.0027 0.1689 1
+ O3 O 2 e 0.733 0.479 0.09 1
+ Cu3 Cu 2 e 0.8908 0.64 0.0488 1
+ O10 O 1 d 0.5 0.533 0.5 1
+ O11 O 1 c 0.5 0.04 0 1
+ O9 O 1 b 0 0.58 0.5 1
+ O12 O 1 a 0 0.0 0 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              6.74
+_exptl_crystal_density_diffrn            6.73
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          Nonius
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.080
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1700823
+
+

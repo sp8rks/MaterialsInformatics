@@ -1,0 +1,155 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-O-U        # Cs2[UO2]Cl4                                   # 1610577 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1610577
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1610577
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ [U O~2~] Cl~4~'
+_chemical_formula_sum                    'Cl4 Cs2 O2 U'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~[UO~2~]Cl~4~,mS18,8
+_chemical_formula_weight                 677.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Neutron-diffraction refinement of the structure of the nonlinear optical crystal dicesium uranyl tetrachloride Cs~2~UO~2~Cl~4~
+;
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1991
+_journal_volume                          36
+_journal_page_first                      642
+_journal_page_last                       644
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Tutov A.G.'
+;
+Russian Academy of Sciences
+Ioffe A.F. Physicotechnical Institute
+Saint Petersburg
+Russia
+;
+'Plakhtii V.P.'
+;
+Russian Academy of Sciences
+Ioffe A.F. Physicotechnical Institute
+Saint Petersburg
+Russia
+;
+'Usov O.A.'
+;
+Russian Academy of Sciences
+Ioffe A.F. Physicotechnical Institute
+Saint Petersburg
+Russia
+;
+'Bublyaev R.A.'
+;
+Russian Academy of Sciences
+Ioffe A.F. Physicotechnical Institute
+Saint Petersburg
+Russia
+;
+'Chernenkov Y.P.'
+;
+Russian Academy of Sciences
+Ioffe A.F. Physicotechnical Institute
+Saint Petersburg
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.005
+_cell_length_b                           7.697
+_cell_length_c                           5.85
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.
+_cell_angle_gamma                        90
+_cell_volume                             532.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cl
+ O
+ U
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl2 Cl 4 b 0.0178 0.2538 0.438 1
+ Cl1 Cl 4 b 0.2201 0.2479 0.0263 1
+ O2 O 2 a 0.0 0 0.0 1
+ U U 2 a 0.1178 0 0.2314 1
+ O1 O 2 a 0.233 0 0.4683 1
+ Cs1 Cs 2 a 0.4522 0 0.9096 1
+ Cs2 Cs 2 a 0.7828 0 0.555 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.20(3)
+_exptl_crystal_density_diffrn            4.23
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.101
+_diffrn_reflns_number                    467
+_exptl_absorpt_coefficient_mu            0.04
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.039
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1610577
+
+

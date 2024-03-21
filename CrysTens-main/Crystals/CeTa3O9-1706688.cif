@@ -1,0 +1,188 @@
+##############################################################################
+#                                                                            #
+# Ce-O-Ta          # CeTa3O9 mon                                   # 1706688 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1706688
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1706688
+
+# Entry summary
+
+_chemical_formula_structural             'Ce Ta~3~ O~9~'
+_chemical_formula_sum                    'Ce O9 Ta3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CeTa~3~O~9~,mS52,12
+_chemical_formula_weight                 827.0
+
+# Bibliographic data
+
+_publ_section_title
+'Zur Darstellung und Struktur neuer Modifikationen von CeTa~3~O~9~'           
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1988
+_journal_volume                          565
+_journal_page_first                      67
+_journal_page_last                       80
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Schaffrath U.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Gruehn R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.415
+_cell_length_b                           7.6317
+_cell_length_c                           6.5976
+_cell_angle_alpha                        90
+_cell_angle_beta                         93.31
+_cell_angle_gamma                        90
+_cell_volume                             624.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ta
+ O
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ta1 Ta 8 j 0.03146 0.2505 0.2621 1
+ O3 O 8 j 0.091 0.264 0.5637 1
+ O1 O 8 j 0.206 0.2805 0.2743 1
+ O2 O 8 j 0.4081 0.2797 0.0501 1
+ O4 O 4 i 0.0671 0 0.2916 1
+ Ce Ce 4 i 0.2594 0 0.4555 1
+ O6 O 4 i 0.2675 0 0.0717 1
+ O5 O 4 i 0.5384 0 0.2321 1
+ Ta2 Ta 4 e 0.25 0.25 0 1
+
+
+_exptl_crystal_colour                    'yellow light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.80
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens-STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    3440
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            57.026
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             60
+_refine_ls_number_reflns                 963
+_refine_ls_R_factor_gt                   0.0488
+_refine_ls_wR_factor_gt                  0.0367
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 -1 269.1 1
+ 2 0 -1 274.8 1
+ 2 0 1 308.4 3
+ 0 2 0 407.9 9
+ 0 2 1 545.1 5
+ 2 2 0 562.2 5
+ 4 0 0 618.6 9
+ 2 0 -2 668.9 10
+ 2 2 -1 682.3 3
+ 2 2 1 716 9
+ 4 0 -1 721.6 2
+ 2 0 2 735.6 7
+ 4 0 1 788.2 1
+ 0 2 2 955.1 3
+ 4 2 0 1026 2
+ 2 2 -2 1075.7 3
+ 1 3 1 1100.6 1
+ 4 2 -1 1128 5
+ 2 2 2 1140.6 2
+ 4 2 1 1196.3 1
+ 0 0 3 1230.6 1
+ 2 0 -3 1335.1 1
+ 1 1 -3 1345.8 1
+ 6 0 0 1390 1
+ 2 0 3 1435.2 1
+ 6 0 -1 1477.5 1
+ 4 2 -2 1504.5 1
+ 6 0 1 1576.1 2
+ 0 4 0 1628.5 6
+ 4 2 2 1638.8 1
+ 2 2 -3 1741.8 2
+ 6 0 -2 1836.6 2
+ 2 4 1 1937.7 1
+ 4 0 3 1951.2 1
+ 6 2 1 1984.7 6
+ 6 0 2 2039.2 1
+ 0 0 4 2189.9 2
+ 4 4 0 2249.2 3
+ 2 4 -2 2298.5 4
+
+# End of data set 1706688
+
+

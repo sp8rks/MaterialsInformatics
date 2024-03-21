@@ -1,0 +1,127 @@
+##############################################################################
+#                                                                            #
+# Ce-Cr-H-O        # Ce[CrO4]2[H2O]2                               # 1122372 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1122372
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1122372
+
+# Entry summary
+
+_chemical_formula_structural             'Ce [Cr O~4~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Ce Cr2 H4 O10'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ce[CrO~4~]~2~[H~2~O]~2~,mP26,11
+_chemical_formula_weight                 408.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structure of cerium(IV) dichromate dihydrate, Ce(CrO~4~)~2~(H~2~O)~2~
+;
+_journal_coden_ASTM                      ACAPCT
+_journal_name_full                       'Acta Chem. Scand. A'
+_journal_year                            1977
+_journal_volume                          31
+_journal_page_first                      167
+_journal_page_last                       170
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lindgren O.'
+;
+Chalmers University of Technology
+Department of Inorganic Chemistry
+Gothenburg
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.6699
+_cell_length_b                           10.6716
+_cell_length_c                           6.5865
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.59
+_cell_angle_gamma                        90
+_cell_volume                             398.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Cr
+ OH2
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 f 0.0092 0.0986 0.3401 1
+ O3 O 4 f 0.2545 0.0745 0.0081 1
+ Cr Cr 4 f 0.25464 0.04332 0.24299 1
+ O2 O 4 f 0.2649 0.6134 0.2749 1
+ O4 O 4 f 0.4833 0.1109 0.357 1
+ O6 OH2 2 e 0.1665 0.25 0.6761 1
+ O5 OH2 2 e 0.7328 0.25 0.0876 1
+ Ce Ce 2 e 0.77936 0.25 0.45615 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              3.37
+_exptl_crystal_density_diffrn            3.40
+_cell_measurement_temperature            294
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            44
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            67.2
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             66
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.084
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1122372
+
+

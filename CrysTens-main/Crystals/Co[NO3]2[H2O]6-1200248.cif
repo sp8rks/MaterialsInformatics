@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Co-H-N-O         # Co[NO3]2[H2O]6                                # 1200248 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1200248
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1200248
+
+# Entry summary
+
+_chemical_formula_structural             'Co [N O~3~]~2~ [H~2~ O]~6~'
+_chemical_formula_sum                    'Co H12 N2 O12'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Co[NO~3~]~2~[H~2~O]~6~,mS60,15
+_chemical_formula_weight                 291.0
+
+# Bibliographic data
+
+_publ_section_title
+'Hexaquacobalt(II) nitrate, Co(OH~2~)~6~(NO~3~)~2~'                           
+_journal_coden_ASTM                      CSCMCS
+_journal_name_full                       'Cryst. Struct. Commun.'
+_journal_year                            1973
+_journal_volume                          2
+_journal_page_first                      581
+_journal_page_last                       583
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Prelesnik B.V.'
+;
+Belgrade Boris Kidric Institute of Nuclear Sciences
+Belgrade
+Serbia
+;
+'Gabela F.'
+;
+Sarajevo University
+Institute of Physics
+Sarajevo
+Bosnia and Herzegovina
+;
+'Rib\"ar B.'
+;
+Novi Sad Djuricica University
+Novi Sad
+Serbia
+;
+'Krstanovic I.R.'
+;
+Belgrade University
+Faculty of Mining
+Belgrade
+Serbia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           14.96
+_cell_length_b                           6.112
+_cell_length_c                           12.632
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.45
+_cell_angle_gamma                        90
+_cell_volume                             1015.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ O
+ OH2
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N N 8 f 0.0289 0.2749 0.1406 1
+ O5 O 8 f 0.0568 0.4712 0.1626 1
+ O4 O 8 f 0.0612 0.2307 0.427 1
+ O6 O 8 f 0.0931 0.1238 0.1891 1
+ Ow2 OH2 8 f 0.2564 0.0515 0.1382 1
+ Ow3 OH2 8 f 0.2644 0.0287 0.4145 1
+ Ow1 OH2 8 f 0.406 0.282 0.0843 1
+ Co Co 4 c 0.25 0.25 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              1.87
+_exptl_crystal_density_diffrn            1.90
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 969
+_refine_ls_R_factor_gt                   0.061
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1200248
+
+

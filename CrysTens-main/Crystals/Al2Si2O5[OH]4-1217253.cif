@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# Al-H-O-Si        # Al2Si2O5[OH]4 nac                             # 1217253 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1217253
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1217253
+
+# Entry summary
+
+_chemical_formula_structural             'Al~2~ Si~2~ O~5~ [O H]~4~'
+_chemical_formula_sum                    'Al2 H4 O9 Si2'
+_chemical_name_mineral                   nacrite
+_chemical_compound_source
+;
+U.S.A. Colorado, Pike's Peak, St. Peter's Dome, Eureka Tunnel
+;
+_chemical_name_structure_type            Al~2~Si~2~O~5~[OH]~4~-b,mS52,9
+_chemical_formula_weight                 258.2
+
+# Bibliographic data
+
+_publ_section_title
+'Refinement of the crystal structure of nacrite'                              
+_journal_coden_ASTM                      CLCMAB
+_journal_name_full                       'Clays Clay Miner.'
+_journal_year                            1969
+_journal_volume                          17
+_journal_page_first                      185
+_journal_page_last                       194
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Blount A.M.'
+;
+Wisconsin Madison University
+Department of Geology and Geophysics
+Madison
+U.S.A. Wisconsin
+;
+'Threadgold I.M.'
+;
+Wisconsin Madison University
+Department of Geology and Geophysics
+Madison
+U.S.A. Wisconsin
+;
+'Bailey S.W.'
+;
+Wisconsin Madison University
+Department of Geology and Geophysics
+Madison
+U.S.A. Wisconsin
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.909
+_cell_length_b                           5.146
+_cell_length_c                           14.6064
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.252
+_cell_angle_gamma                        90
+_cell_volume                             658.95
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ O
+ Si
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ OH2 OH 4 a 0.0 0.6102 0.0 1
+ O2 O 4 a 0.0214 -0.0059 0.3034 1
+ O5 O 4 a 0.0445 0.2342 0.146 1
+ Si2 Si 4 a 0.0686 0.2639 0.2572 1
+ OH3 OH 4 a 0.132 0.1211 0.0032 1
+ Al1 Al 4 a 0.1677 0.4111 0.068 1
+ O3 O 4 a 0.2487 0.2931 0.303 1
+ OH4 OH 4 a 0.3183 0.5655 0.004 1
+ O4 O 4 a 0.3646 0.314 0.1451 1
+ Si1 Si 4 a 0.4008 0.2711 0.2571 1
+ O1 O 4 a 0.4749 0.0001 0.2923 1
+ Al2 Al 4 a 0.5102 0.4252 0.0683 1
+ OH1 OH 4 a 0.6762 0.2299 0.1394 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1217253
+
+

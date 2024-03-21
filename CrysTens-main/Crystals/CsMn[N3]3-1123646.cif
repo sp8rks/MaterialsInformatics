@@ -1,0 +1,175 @@
+##############################################################################
+#                                                                            #
+# Cs-Mn-N          # CsMn[N3]3                                     # 1123646 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1123646
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1123646
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Mn [N~3~]~3~'
+_chemical_formula_sum                    'Cs Mn N9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsMn[N~3~]~3~,mP44,14
+_chemical_formula_weight                 313.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structural characterization, and Monte Carlo simulation of the magnetic properties of the 3D-stacked honeycomb Cs~n~[{Mn(N~3~)~3~}~n~] and the irregular double chain [{N(C~2~H~5~)~4~}~n~][{Mn~2~(N~3~)~5~(H~2~O)}~n~]
+;
+_journal_coden_ASTM                      CEUJED
+_journal_name_full                       'Chem. Eur. J.'
+_journal_year                            2000
+_journal_volume                          6
+_journal_page_first                      778
+_journal_page_last                       784
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Goher M.A.S.'
+;
+Kuwait City University
+Department of Chemistry
+Kuwait City
+Kuwait
+;
+'Cano J.'
+;
+Orsay Paris Sud XI University
+Laboratoire de Chimie Inorganique
+Orsay
+France
+;
+'Journaux Y.'
+;
+Orsay Paris Sud XI University
+Laboratoire de Chimie Inorganique
+Orsay
+France
+;
+'Abu Youssef M.A.M.'
+;
+Alexandria University
+Department of Chemistry
+Alexandria
+Egypt
+;
+'Mautner F.A.'
+;
+Graz Technical University
+Institut f\"ur Physikalische und Theoretische Chemie
+Graz
+Austria
+;
+'Escuer A.'
+;
+Barcelona University
+Departamento de Quimica Inorganica
+Barcelona
+Spain
+;
+'Vicente R.'
+;
+Barcelona University
+Departamento de Quimica Inorganica
+Barcelona
+Spain
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.522
+_cell_length_b                           7.557
+_cell_length_c                           15.942
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.632
+_cell_angle_gamma                        90
+_cell_volume                             735.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ Cs
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N32 N 4 e 0.0638 0.0685 0.113 1
+ Cs1 Cs 4 e 0.06743 0.10349 0.35314 1
+ N31 N 4 e 0.0844 0.5574 0.362 1
+ N33 N 4 e 0.209 0.077 0.0884 1
+ N13 N 4 e 0.2805 0.5904 0.0474 1
+ N21 N 4 e 0.3755 0.3877 0.2698 1
+ N22 N 4 e 0.4967 0.3448 0.2343 1
+ N11 N 4 e 0.5025 0.3142 0.4762 1
+ Mn1 Mn 4 e 0.56092 0.0627 0.1093 1
+ N12 N 4 e 0.6173 0.2017 0.4645 1
+ N23 N 4 e 0.6199 0.3015 0.1971 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              2.82(4)
+_exptl_crystal_density_diffrn            2.84
+_cell_measurement_temperature            295(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            36
+_diffrn_ambient_temperature              295(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE 4-circle'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    1285
+_diffrn_reflns_theta_min                 3.48
+_diffrn_reflns_theta_max                 25.2
+_exptl_absorpt_coefficient_mu            6.62
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             100
+_refine_ls_number_reflns                 957
+_refine_ls_R_factor_gt                   0.0343
+_refine_ls_wR_factor_gt                  0.0354
+
+# End of data set 1123646
+
+

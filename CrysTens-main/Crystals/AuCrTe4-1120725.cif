@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# Au-Cr-Te         # AuCrTe4                                       # 1120725 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1120725
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1120725
+
+# Entry summary
+
+_chemical_formula_structural             'Au Cr Te~4~'
+_chemical_formula_sum                    'Au Cr Te4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            ZrTiTe~4~,mP6,10
+_chemical_formula_weight                 759.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Thermoelectric properties and antiferromagnetism of the new ternary transition metal telluride CrAuTe~4~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2004
+_journal_volume                          177
+_journal_page_first                      2998
+_journal_page_last                       3006
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Reynolds T.K.'
+;
+New York Ithaca Cornell University
+Department of Chemistry and Chemical Biology
+Ithaca
+U.S.A. New York
+;
+'McGuire M.A.'
+;
+New York Ithaca Cornell University
+Department of Physics
+Ithaca
+U.S.A. New York
+;
+'DiSalvo F.J.'
+;
+New York Ithaca Cornell University
+Department of Chemistry and Chemical Biology
+Ithaca
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.4774
+_cell_length_b                           4.0169
+_cell_length_c                           7.3692
+_cell_angle_alpha                        90
+_cell_angle_beta                         89.396
+_cell_angle_gamma                        90
+_cell_volume                             162.13
+_cell_formula_units_Z                    1
+_space_group_IT_number                   10
+_space_group_name_H-M_alt                'P 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+loop_
+ _atom_type_symbol
+ Te
+ Cr
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te1 Te 2 n 0.22779 0.5 0.16958 1
+ Te2 Te 2 m 0.29931 0 0.62284 1
+ Cr Cr 1 f 0 0.5 0.5 1
+ Au Au 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.78
+_cell_measurement_temperature            166
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              166
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2010
+_diffrn_reflns_theta_min                 2.76
+_diffrn_reflns_theta_max                 36.28
+_exptl_absorpt_coefficient_mu            41.769
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             22
+_refine_ls_number_reflns                 690
+_refine_ls_R_factor_gt                   0.0266
+_refine_ls_wR_factor_gt                  0.0672
+
+# End of data set 1120725
+
+

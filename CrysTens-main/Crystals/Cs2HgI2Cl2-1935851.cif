@@ -1,0 +1,198 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-Hg-I       # Cs2HgI2Cl2 rt                                 # 1935851 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1935851
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1935851
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Hg I~2~ Cl~2~'
+_chemical_formula_sum                    'Cl2 Cs2 Hg I2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~HgI~2~Cl~2~,mP14,4
+_chemical_formula_weight                 791.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+A new mixed halide, Cs~2~HgI~2~Cl~2~: Molecular engineering for a new nonlinear optical material in the infrared region
+;
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            2012
+_journal_volume                          134
+_journal_page_first                      14818
+_journal_page_last                       14822
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhang G.'
+;
+Wuhan Hubei University
+Department of Chemistry
+Wuhan / Hubei
+China
+;
+'Wu Y.'
+;
+Chinese Academy of Sciences
+Beijing Center for Crystal Research and Development
+Beijing
+China
+;
+'Chen C.'
+;
+Chinese Academy of Sciences
+Beijing Center for Crystal Research and Development
+Beijing
+China
+;
+'Li Y.'
+;
+Wuhan Hubei University
+Department of Chemistry
+Wuhan / Hubei
+China
+;
+'Jiang K.'
+;
+Wuhan Hubei University
+Department of Chemistry
+Wuhan / Hubei
+China
+;
+'Zeng H.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Liu T.'
+;
+Wuhan Hubei University
+Department of Chemistry
+Wuhan / Hubei
+China
+;
+'Chen X.'
+;
+Wuhan Hubei University
+Department of Chemistry
+Wuhan / Hubei
+China
+;
+'Qin J.'
+;
+Wuhan Hubei University
+Department of Chemistry
+Wuhan / Hubei
+China
+;
+'Lin Z.'
+;
+Chinese Academy of Sciences
+Beijing Center for Crystal Research and Development
+Beijing
+China
+;
+'Fu P.Z.'
+;
+Chinese Academy of Sciences
+Beijing Center for Crystal Research and Development
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.0095
+_cell_length_b                           7.7557
+_cell_length_c                           9.8426
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.16
+_cell_angle_gamma                        90
+_cell_volume                             581
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cl
+ Cs
+ Hg
+ I
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 2 a 0.0199 0.2537 0.2525 1
+ Cl2 Cl 2 a 0.0206 0.7397 0.2548 1
+ Cs1 Cs 2 a 0.1907 0.001 0.55028 1
+ Cs2 Cs 2 a 0.19736 0.0 0.047 1
+ Hg1 Hg 2 a 0.25528 0.4993 0.31307 1
+ I2 I 2 a 0.39046 0.4942 0.09506 1
+ I1 I 2 a 0.60539 0.0008 0.40055 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.52
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            2863
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5859
+_diffrn_reflns_theta_min                 2.18
+_diffrn_reflns_theta_max                 29.98
+_exptl_absorpt_coefficient_mu            25.123
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             64
+_refine_ls_number_reflns                 2781
+_refine_ls_R_factor_gt                   0.0350
+_refine_ls_wR_factor_gt                  0.0945
+
+# End of data set 1935851
+
+

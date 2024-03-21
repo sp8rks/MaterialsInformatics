@@ -1,0 +1,163 @@
+##############################################################################
+#                                                                            #
+# Cf-Cl            # CfCl3 rt                                      #  531134 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_531134
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      531134
+
+# Entry summary
+
+_chemical_formula_structural             'Cf Cl~3~'
+_chemical_formula_sum                    'Cf Cl3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            UCl~3~,hP8,176
+_chemical_formula_weight                 357.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystallography of the compounds of californium. I. Crystal structure and lattice parameters of californium sesquioxide and californium trichloride
+;
+_journal_coden_ASTM                      INUCAF
+_journal_name_full                       'Inorg. Nucl. Chem. Lett.'
+_journal_year                            1967
+_journal_volume                          3
+_journal_page_first                      343
+_journal_page_last                       349
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Green J.L.'
+;
+California Berkeley University
+Department of Chemistry
+Berkeley
+U.S.A. California
+;
+'Cunningham B.B.'
+;
+California Berkeley University
+Department of Chemistry
+Berkeley
+U.S.A. California
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.393
+_cell_length_b                           7.393
+_cell_length_c                           4.09
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             193.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   176
+_space_group_name_H-M_alt                'P 63/m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, x, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, -z'
+ 12 'y, -x+y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Cl
+ Cf
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 6 h 0.3866 0.085 0.25 1
+ Cf1 Cf 2 c 0.333333 0.666667 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu K'
+_cell_measurement_wavelength             1.54178
+_pd_proc_wavelength                      1.54178
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Norelco film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 1 0.501 10
+ 2 0 0 0.58 7
+ 1 1 1 0.788 4.5
+ 2 0 1 0.932 10
+ 2 1 0 1.01 5
+ 3 0 0 1.302 8.5
+ 1 2 1 1.373 10
+ 0 0 2 1.425 5
+ 1 0 2 1.575 5
+ 2 2 0 1.736 5.5
+ 1 1 2 1.86 8
+ 2 0 2 2.001 4.5
+ 1 3 1 2.236 8
+ 4 0 0 2.306 3
+ 2 1 2 2.435 4.5
+
+# End of data set 531134
+
+

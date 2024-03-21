@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# As-Cs-Ga         # Cs3GaAs2                                      # 1409458 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1409458
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1409458
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~3~ Ga As~2~'
+_chemical_formula_sum                    'As2 Cs3 Ga'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~3~AlAs~2~,mP48,14
+_chemical_formula_weight                 618.3
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of tricaesium diarsenidogallate, Cs~3~GaAs~2~'             
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1990
+_journal_volume                          192
+_journal_page_first                      273
+_journal_page_last                       274
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Somer M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Peters K.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Popp T.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Von Schnering H.G.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.371
+_cell_length_b                           8.857
+_cell_length_c                           19.46
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.225
+_cell_angle_gamma                        90
+_cell_volume                             1934.5
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ As
+ Ga
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As3 As 4 e 0.0085 0.7051 0.03147 1
+ Ga2 Ga 4 e 0.0383 0.4444 0.07611 1
+ As4 As 4 e 0.1007 0.3573 0.19064 1
+ Cs1 Cs 4 e 0.12369 0.5713 0.38808 1
+ Cs6 Cs 4 e 0.14236 0.7605 0.20852 1
+ Cs2 Cs 4 e 0.20728 0.12248 0.33942 1
+ Cs4 Cs 4 e 0.23926 0.0859 0.07653 1
+ Cs3 Cs 4 e 0.34518 0.5223 0.03097 1
+ Cs5 Cs 4 e 0.42103 0.4536 0.25652 1
+ As2 As 4 e 0.4545 0.3435 0.43439 1
+ Ga1 Ga 4 e 0.5463 0.1196 0.05597 1
+ As1 As 4 e 0.6054 0.2999 0.14149 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.25
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Nicolet-Siemens
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            20.58
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             110
+_refine_ls_number_reflns                 4487
+_refine_ls_R_factor_gt                   0.055
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1409458
+
+

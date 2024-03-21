@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# B-Ba-H-O         # BaB2[OH]8                                     # 1219383 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1219383
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1219383
+
+# Entry summary
+
+_chemical_formula_structural             'Ba B~2~ [O H]~8~'
+_chemical_formula_sum                    'B2 Ba H8 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            BaB~2~[OH]~8~,mP88,14
+_chemical_formula_weight                 295.0
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of BaB~2~O~4~.4H~2~O = Ba[B(OH)~4~]~2~'                    
+_journal_coden_ASTM                      JSTCAM
+_journal_name_full                       'J. Struct. Chem.'
+_journal_year                            1965
+_journal_volume                          6
+_journal_page_first                      685
+_journal_page_last                       689
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kravchenko V.B.'
+;
+Russian Academy of Sciences
+Nikolaev A.V. Institute of Inorganic Chemistry
+Novosibirsk
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.37
+_cell_length_b                           16.68
+_cell_length_c                           11.074
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.286
+_cell_angle_gamma                        90
+_cell_volume                             1348.46
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ Ba
+ B
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O9 OH 4 e 0.025 0.269 0.402 1
+ Ba2 Ba 4 e 0.0359 0.9025 0.2813 1
+ O16 OH 4 e 0.062 0.748 0.397 1
+ O2 OH 4 e 0.15 0.518 0.425 1
+ O7 OH 4 e 0.154 0.045 0.427 1
+ O3 OH 4 e 0.172 0.076 0.103 1
+ O6 OH 4 e 0.176 0.565 0.073 1
+ B3 B 4 e 0.238 0.254 0.44 1
+ O10 OH 4 e 0.219 0.19 0.342 1
+ O8 OH 4 e 0.251 0.428 0.162 1
+ B1 B 4 e 0.255 0.002 0.069 1
+ B2 B 4 e 0.265 0.485 0.067 1
+ O1 OH 4 e 0.255 0.558 0.651 1
+ O12 OH 4 e 0.296 0.331 0.416 1
+ O11 OH 4 e 0.329 0.27 0.08 1
+ O4 OH 4 e 0.435 0.032 0.09 1
+ Ba1 Ba 4 e 0.5138 0.1562 0.2904 1
+ O5 OH 4 e 0.54 -0.002 0.401 1
+ O13 OH 4 e 0.634 0.302 0.425 1
+ O15 OH 4 e 0.653 0.305 0.08 1
+ O14 OH 4 e 0.734 0.172 0.172 1
+ B4 B 4 e 0.748 0.228 0.067 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.91
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               photographs
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2182
+_refine_ls_R_factor_gt                   0.109
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1219383
+
+

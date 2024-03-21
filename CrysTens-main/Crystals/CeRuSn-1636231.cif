@@ -1,0 +1,184 @@
+##############################################################################
+#                                                                            #
+# Ce-Ru-Sn         # CeRuSn lt2                                    # 1636231 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1636231
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1636231
+
+# Entry summary
+
+_chemical_formula_structural             'Ce Ru Sn'
+_chemical_formula_sum                    'Ce Ru Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CeRuSn,mS36,12
+_chemical_formula_weight                 359.9
+
+# Bibliographic data
+
+_publ_section_title
+'Antiferromagnetic ordering in a mixed-valent cerium compound CeRuSn'         
+_journal_coden_ASTM                      PRBMDO
+_journal_name_full
+'Phys. Rev. B: Condens. Matter Mater. Phys.'                                  
+_journal_year                            2013
+_journal_volume                          87
+_journal_page_first                      1
+_journal_page_last                       9
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Prokes K.'
+;
+Hahn Meitner Institute
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Mydosh J.A.'
+;
+Leiden University
+Kamerlingh Onnes Laboratory
+Leiden
+Netherlands
+;
+'Prokhnenko O.I.'
+;
+Hahn Meitner Institute
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Stein W.D.'
+;
+Helmholtz-Zentrum Berlin f\"ur Materialien und Energie GmbH
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Landsgesell S.'
+;
+Helmholtz-Zentrum Berlin f\"ur Materialien und Energie GmbH
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'Hermes W.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Feyerherm R.'
+;
+Helmholtz Center for Matherials and Energy
+Berlin
+Germany
+;
+'P\"ottgen R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.6774
+_cell_length_b                           4.7929
+_cell_length_c                           15.4193
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.369
+_cell_angle_gamma                        90
+_cell_volume                             839.61
+_cell_formula_units_Z                    12
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Sn
+ Ru
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sn3 Sn 4 i 0.074 0 0.761 1
+ Sn1 Sn 4 i 0.09 0 0.436 1
+ Sn2 Sn 4 i 0.086 0 0.104 1
+ Ru3 Ru 4 i 0.305 0 0.554 1
+ Ru1 Ru 4 i 0.304 0 0.223 1
+ Ce1 Ce 4 i 0.372 0 0.395 1
+ Ce2 Ce 4 i 0.366 0 0.057 1
+ Ce3 Ce 4 i 0.625 0 0.275 1
+ Ru2 Ru 4 i 0.705 0 0.134 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.54
+_cell_measurement_temperature            5
+_cell_measurement_radiation              'neutrons, time-of-flight'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              5
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Germany, Berlin, Hahn-Meitner Institute, Berlin Neutron Scattering Center, BER II reactor, V15, EXED
+;
+_diffrn_radiation_type                   'neutrons, time-of-flight'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.0439
+
+# End of data set 1636231
+
+

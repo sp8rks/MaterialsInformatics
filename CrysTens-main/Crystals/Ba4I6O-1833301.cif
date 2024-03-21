@@ -1,0 +1,183 @@
+##############################################################################
+#                                                                            #
+# Ba-I-O           # Ba4I6O                                        # 1833301 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1833301
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1833301
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~4~ I~6~ O'
+_chemical_formula_sum                    'Ba4 I6 O'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~4~Cl~6~O,hP22,186
+_chemical_formula_weight                 1326.7
+
+# Bibliographic data
+
+_publ_section_title
+'Le paraperiodate de baryum. Les syst\`emes BaI~2~-BaO et BaBr~2~-BaO'        
+_journal_coden_ASTM                      BSCFAS
+_journal_name_full                       'Bull. Soc. Chim. Fr.'
+_journal_year                            1966
+_journal_volume                          ?
+_journal_page_first                      2190
+_journal_page_last                       2194
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Frit B.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie Min\'erale
+Talence
+France
+;
+'Tanguy B.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie Min\'erale
+Talence
+France
+;
+'Hagenmuller P.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie Min\'erale
+Talence
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.875
+_cell_length_b                           10.875
+_cell_length_c                           8.35
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             855.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ I
+ Ba
+ O
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I1 I 6 c 0.1456 0.8544 0.044 1
+ Ba1 Ba 6 c 0.1955 0.8045 0.4366 1
+ I2 I 6 c 0.5296 0.4704 0.2322 1
+ Ba2 Ba 2 b 0.333333 0.666667 0.0 1
+ O1 O 2 b 0.333333 0.666667 0.3391 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.04(1)
+_exptl_crystal_density_diffrn            5.15
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 1 62.6 3
+ 1 1 0 54.3 4
+ 2 0 0 47.1 3
+ 0 0 2 42.2 8
+ 2 0 1 40.9 17
+ 1 0 2 38.3 13
+ 2 1 1 32.6 88
+ 3 0 0 31.3 100
+ 3 0 1 29.3 67
+ 2 2 0 27.16 74
+ 1 0 3 26.86 14
+ 2 0 3 24.1 14
+ 2 2 2 22.83 4
+ 1 3 2 22.1 6
+ 3 2 0 21.64 3
+ 3 2 1 20.92 11
+ 4 1 0 20.56 10
+ 4 1 1 19.97 8
+ 3 2 2 19.22 14
+ 5 0 1 18.39 15
+ 3 3 0 18.11 24
+ 5 0 2 17.14 24
+ 3 3 2 16.62 10
+ 6 0 0 15.7 5
+ 6 0 1 15.42 3
+ 4 3 1 15.24 8
+ 5 2 0 15.07 10
+ 2 5 1 14.84 14
+
+# End of data set 1833301
+
+

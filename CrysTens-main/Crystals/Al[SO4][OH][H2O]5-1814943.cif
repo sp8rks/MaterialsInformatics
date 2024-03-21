@@ -1,0 +1,189 @@
+##############################################################################
+#                                                                            #
+# Al-H-O-S         # Al[SO4][OH][H2O]5                             # 1814943 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814943
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814943
+
+# Entry summary
+
+_chemical_formula_structural             'Al [S O~4~] [O H] [H~2~ O]~5~'
+_chemical_formula_sum                    'Al H11 O10 S'
+_chemical_name_mineral                   jurbanite
+_chemical_compound_source                ?
+_chemical_name_structure_type            Al[SO~4~][OH][H~2~O]~5~,mP48,14
+_chemical_formula_weight                 230.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+The crystal structures of [Al~2~(OH)~2~(H~2~O)~8~](SO~4~)~2~.2H~2~O and [Al~2~(OH)~2~(H~2~O)~8~](SeO~4~)~2~.2H~2~O
+;
+_journal_coden_ASTM                      ACSAA4
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1962
+_journal_volume                          16
+_journal_page_first                      403
+_journal_page_last                       420
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Johansson G.'
+;
+KTH Royal Institute of Technology
+Department of Inorganic Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.151
+_cell_length_b                           12.476
+_cell_length_c                           10.4283
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.992
+_cell_angle_gamma                        90
+_cell_volume                             835.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ Al
+ OH2
+ O
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 OH 4 e 0.037 0.593 0.531 1
+ Al Al 4 e 0.0385 0.5107 0.384 1
+ O2 OH2 4 e 0.0415 0.416 0.243 1
+ O3 OH2 4 e 0.099 0.628 0.307 1
+ O9 O 4 e 0.128 0.301 0.007 1
+ O5 OH2 4 e 0.251 0.031 0.289 1
+ O4 OH2 4 e 0.336 0.0185 0.04 1
+ S S 4 e 0.348 0.315 0.135 1
+ O8 O 4 e 0.383 0.3685 0.278 1
+ O7 O 4 e 0.439 0.383 0.079 1
+ O6 O 4 e 0.4545 0.213 0.1835 1
+ O10 OH2 4 e 0.708 0.302 0.02 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              1.82
+_exptl_crystal_density_diffrn            1.83
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device
+'rotation and Weissenberg photographs'                                        
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            5.0
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 111
+_refine_ls_R_factor_gt                   0.091
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 0.125 5
+ 1 1 0 0.13 7
+ 1 0 -1 0.143 2
+ 1 1 -1 0.181 7
+ 1 0 1 0.218 1
+ 0 2 1 0.24 5
+ 1 2 0 0.244 5
+ 1 1 1 0.255 1
+ 1 2 -1 0.296 7
+ 1 2 1 0.371 7
+ 2 0 0 0.373 7
+ 0 1 2 0.389 7
+ 1 1 -2 0.408 5
+ 2 1 0 0.41 3
+ 2 1 -1 0.423 2
+ 0 3 1 0.431 7
+ 1 3 0 0.436 5
+ 2 2 0 0.525 3
+ 2 1 1 0.574 3
+ 2 1 -2 0.613 5
+ 2 2 1 0.688 1
+ 1 4 0 0.703 1
+ 1 3 -2 0.713 5
+ 2 2 -2 0.728 5
+ 1 1 -3 0.81 3
+ 3 1 0 0.878 7
+ 2 1 2 0.911 3
+ 2 3 -2 0.917 2
+ 2 1 -3 0.977 1
+ 1 0 3 0.995 2
+ 3 1 -2 1.005 1
+ 2 2 2 1.026 2
+ 3 0 -3 1.293 1
+ 3 3 -2 1.309 1
+ 1 5 -2 1.324 1
+ 1 3 3 1.338 1
+ 3 2 -3 1.447 1
+ 4 1 -1 1.471 1
+ 2 0 -4 1.485 2
+ 4 0 -2 1.548 1
+ 4 1 -2 1.582 1
+ 1 4 3 1.607 1
+ 4 2 0 1.647 5
+ 1 6 -2 1.741 1
+ 3 1 -4 1.835 3
+ 3 4 -3 1.906 5
+ 2 6 -2 1.949 1
+
+# End of data set 1814943
+
+

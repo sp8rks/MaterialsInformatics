@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Ba-P-Si          # Ba3Si4P6                                      # 1703227 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1703227
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1703227
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Si~4~ P~6~'
+_chemical_formula_sum                    'Ba3 P6 Si4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~Si~4~P~6~,mP26,11
+_chemical_formula_weight                 710.2
+
+# Bibliographic data
+
+_publ_section_title
+'Ba~3~Si~4~P~6~, eine neue Zintlphase mit vernetzten Si~4~P~5~-K\"afigen'     
+_journal_coden_ASTM                      ZNBAD2
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1984
+_journal_volume                          39
+_journal_page_first                      864
+_journal_page_last                       867
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Eisenmann B.'
+;
+Darmstadt University of Technology
+Institut f\"ur Anorganische Chemie
+Darmstadt
+Germany
+;
+'Jordan H.'
+;
+Darmstadt University of Technology
+Institut f\"ur Anorganische Chemie
+Darmstadt
+Germany
+;
+'Sch\"afer H.'
+;
+Darmstadt University of Technology
+Institut f\"ur Anorganische Chemie
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.527
+_cell_length_b                           7.281
+_cell_length_c                           11.537
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.41
+_cell_angle_gamma                        90
+_cell_volume                             623.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Si
+ P
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Si3 Si 4 f 0.023 0.0783 0.091 1
+ P1 P 4 f 0.2991 0.0004 0.1823 1
+ P2 P 4 f 0.7924 0.0004 0.1821 1
+ P4 P 2 e 0.1027 0.25 0.4135 1
+ Si1 Si 2 e 0.3264 0.25 0.2974 1
+ Ba1 Ba 2 e 0.4081 0.25 0.6368 1
+ Ba3 Ba 2 e 0.5014 0.25 0.0059 1
+ P3 P 2 e 0.6041 0.25 0.4147 1
+ Si2 Si 2 e 0.8211 0.25 0.2976 1
+ Ba2 Ba 2 e 0.9123 0.25 0.647 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              3.71
+_exptl_crystal_density_diffrn            3.78
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    3896
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            9.860
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             70
+_refine_ls_number_reflns                 1904
+_refine_ls_R_factor_gt                   0.050
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1703227
+
+

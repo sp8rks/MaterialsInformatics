@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# Ba-Cu-H-O-P      # Ba2Cu[PO4]2[H2O]                              # 1102527 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1102527
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1102527
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Cu [P O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'Ba2 Cu H2 O9 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~Cu[PO~4~]~2~[H~2~O],mS56,15
+_chemical_formula_weight                 546.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Sr~3~Cu~3~(PO~4~)~4~, Pb~3~Cu~3~(PO~4~)~4~, BaCu~2~(PO~4~)~2~.H~2~O, and Ba~2~Cu(PO~4~)~2~.H~2~O: Crystal structures and topological relationships
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1999
+_journal_volume                          142
+_journal_page_first                      6
+_journal_page_last                       13
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Effenberger H.S.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.7181
+_cell_length_b                           5.125
+_cell_length_c                           12.237
+_cell_angle_alpha                        90
+_cell_angle_beta                         122.237
+_cell_angle_gamma                        90
+_cell_volume                             833.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Ba
+ OH2
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 f 0.0764 0.2623 0.0818 1
+ P P 8 f 0.14771 0.26916 0.03169 1
+ O2 O 8 f 0.2116 0.0163 0.0789 1
+ O1 O 8 f 0.2785 0.0029 0.4018 1
+ Ba Ba 8 f 0.39226 0.26777 0.31298 1
+ O4 O 8 f 0.4116 0.1955 0.1136 1
+ O5 OH2 4 e 0 0.1997 0.25 1
+ Cu Cu 4 d 0.25 0.25 0.5 1
+
+
+_exptl_crystal_colour                    'blue faint'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.35
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens-STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    7119
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            12.3
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             66
+_refine_ls_number_reflns                 1511
+_refine_ls_R_factor_gt                   0.021
+_refine_ls_wR_factor_gt                  0.045
+
+# End of data set 1102527
+
+

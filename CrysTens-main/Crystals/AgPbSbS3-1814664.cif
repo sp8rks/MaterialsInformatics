@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Ag-Pb-S-Sb       # AgPbSbS3 rt                                   # 1814664 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814664
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814664
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Pb Sb S~3~'
+_chemical_formula_sum                    'Ag Pb S3 Sb'
+_chemical_name_mineral                   freieslebenite
+_chemical_compound_source                ?
+_chemical_name_structure_type            AgPbAsS~3~,mP24,14
+_chemical_formula_weight                 533.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+On the Application of Phase Relationships to Complex Structures. XXIII. Automatic Determination of Crystal Structures having Pseudo-Translational Symmetry by a Modified MULTAN Procedure
+;
+_journal_coden_ASTM                      ACACEQ
+_journal_name_full                       'Acta Crystallogr. A'
+_journal_year                            1983
+_journal_volume                          39
+_journal_page_first                      566
+_journal_page_last                       569
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fan H.F.'
+;
+Chinese Academy of Sciences
+Institute of Physics
+Beijing
+China
+;
+'Yao J.X.'
+;
+Chinese Academy of Sciences
+Institute of Physics
+Beijing
+China
+;
+'Main P.'
+;
+Heslington York University
+Department of Physics
+Heslington
+United Kingdom
+;
+'Woolfson M.M.'
+;
+Heslington York University
+Department of Physics
+Heslington
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.94
+_cell_length_b                           12.809
+_cell_length_c                           7.518
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.25
+_cell_angle_gamma                        90
+_cell_volume                             571.57
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Sb
+ Pb
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 4 e 0.155 0.279 0.363 1
+ S3 S 4 e 0.234 0.548 0.351 1
+ Sb Sb 4 e 0.234 0.413 0.134 1
+ Pb Pb 4 e 0.239 0.087 0.137 1
+ Ag Ag 4 e 0.28 0.749 0.113 1
+ S2 S 4 e 0.641 0.379 0.123 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.19
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1814664
+
+

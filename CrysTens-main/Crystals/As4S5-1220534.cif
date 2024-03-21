@@ -1,0 +1,174 @@
+##############################################################################
+#                                                                            #
+# As-S             # As4S5 mon                                     # 1220534 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1220534
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1220534
+
+# Entry summary
+
+_chemical_formula_structural             'As~4~ S~5~'
+_chemical_formula_sum                    'As4 S5'
+_chemical_name_mineral                   uzonite
+_chemical_compound_source
+'Russia, Kamchatka Peninsula, Uzon caldera'                                   
+_chemical_name_structure_type            As~4~S~5~,mP18,11
+_chemical_formula_weight                 460.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Uzonite, As~4~S~5~, from the type locality: Single-crystal X-ray study and effects of exposure to light
+;
+_journal_coden_ASTM                      CAMIA6
+_journal_name_full                       'Can. Mineral.'
+_journal_year                            2003
+_journal_volume                          41
+_journal_page_first                      1463
+_journal_page_last                       1468
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bindi L.'
+;
+Florence University
+Dipartimento di Scienze della Terra
+Florence
+Italy
+;
+'Popova T.V.'
+;
+Russian Academy of Sciences
+Institute of Mineralogy
+Chelyabinsk
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.148
+_cell_length_b                           8.096
+_cell_length_c                           7.973
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.01
+_cell_angle_gamma                        90
+_cell_volume                             452.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 4 f 0.0869 0.0336 0.3152 1
+ As3 As 4 f 0.25576 0.01107 0.10731 1
+ S2 S 4 f 0.548 0.0366 0.2708 1
+ As1 As 2 e 0.19746 0.25 0.47968 1
+ S3 S 2 e 0.2115 0.25 0.9581 1
+ As2 As 2 e 0.54336 0.25 0.45069 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.37
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2771
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1000
+_refine_ls_R_factor_gt                   0.0266
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 3 22.469 11
+ -2 0 3 22.012 13
+ -3 2 1 21.958 14
+ 3 2 0 21.928 6
+ 1 0 3 21.32 13
+ -2 1 3 21.241 15
+ 2 3 1 20.548 7
+ -1 2 3 20.442 10
+ 0 2 3 20.251 6
+ 0 4 0 20.24 39
+ 3 2 1 20.034 10
+ -1 4 1 19.111 7
+ 2 4 0 17.978 6
+ 2 3 2 17.912 9
+ -1 0 4 17.86 8
+ 4 2 0 17.616 12
+ -3 3 2 17.575 13
+ 0 0 4 17.541 6
+ -3 2 3 17.456 8
+ 3 2 2 17.383 11
+ -2 3 3 17.057 6
+ -4 2 2 16.955 31
+ 2 2 3 16.882 38
+ 1 4 2 16.77 11
+ -2 4 2 16.601 8
+ 4 2 1 16.431 7
+ -1 2 4 16.34 14
+ -4 1 3 16.312 6
+ -3 4 1 16.003 6
+ 1 5 0 15.856 5
+ 4 3 0 15.84 8
+ 5 0 0 15.652 8
+
+# End of data set 1220534
+
+

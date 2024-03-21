@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# As-Ca            # Ca2As2                                        #  458117 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_458117
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      458117
+
+# Entry summary
+
+_chemical_formula_structural             'Ca~2~ As~2~'
+_chemical_formula_sum                    'As2 Ca2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Na~2~[O~2~],hP12,189
+_chemical_formula_weight                 230.0
+
+# Bibliographic data
+
+_publ_section_title                      'Affinement de la structure de CaAs'
+_journal_coden_ASTM                      RVCMA8
+_journal_name_full                       'Rev. Chim. Miner.'
+_journal_year                            1976
+_journal_volume                          13
+_journal_page_first                      185
+_journal_page_last                       189
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'L'Haridon P.'
+;
+Rennes I University
+Laboratoire de Chimie Min\'erale
+Rennes
+France
+;
+'Guyader J.'
+;
+Rennes I University
+Laboratoire de Chimie Min\'erale
+Rennes
+France
+;
+'Hamon M.'
+;
+Rennes I University
+Laboratoire de Chimie Min\'erale
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.844
+_cell_length_b                           7.844
+_cell_length_c                           5.917
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             315.29
+_cell_formula_units_Z                    3
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ As
+ Ca
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As(1) As 4 h 0.333333 0.666667 0.2166 1
+ Ca(2) Ca 3 g 0.649 0 0.5 1
+ Ca(1) Ca 3 f 0.315 0 0 1
+ As(2) As 2 e 0 0 0.2884 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.63
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.033
+_refine_ls_wR_factor_gt                  0.029
+
+# End of data set 458117
+
+

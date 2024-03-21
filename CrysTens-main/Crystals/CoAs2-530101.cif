@@ -1,0 +1,168 @@
+##############################################################################
+#                                                                            #
+# As-Co            # CoAs2 rt                                      #  530101 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_530101
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      530101
+
+# Entry summary
+
+_chemical_formula_structural             'Co As~2~'
+_chemical_formula_sum                    'As2 Co'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoSb~2~,mP12,14
+_chemical_formula_weight                 208.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Transition metal arsenides. V. A note on the rhodium/arsenic system and the monoclinic diarsenides of the cobalt family
+;
+_journal_coden_ASTM                      CJCHAG
+_journal_name_full                       'Can. J. Chem.'
+_journal_year                            1962
+_journal_volume                          40
+_journal_page_first                      814
+_journal_page_last                       818
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Quesnel J.C.'
+;
+National Research Council of Canada (NRCC)
+Division of Applied Chemistry
+Ottawa
+Canada
+;
+'Heyding R.D.'
+;
+National Research Council of Canada (NRCC)
+Division of Applied Chemistry
+Ottawa
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.805
+_cell_length_b                           5.885
+_cell_length_c                           5.853
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.18
+_cell_angle_gamma                        90
+_cell_volume                             182.41
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ As
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As1 As 4 e 0.1534 0.6431 0.3325 1
+ Co1 Co 4 e 0.2299 0.0005 0.2183 1
+ As2 As 4 e 0.3511 0.3607 0.1329 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Co Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Debye-Scherrer film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 2 0 29.39 6.6
+ 0 0 2 26.7 31
+ 1 1 -2 26.5 31
+ 1 2 -1 25.39 100
+ 0 1 2 24.32 49
+ 2 1 0 24.15 49
+ 2 1 -2 23.18 25
+ 1 0 2 20.46 10
+ 0 2 2 19.73 5.3
+ 2 2 0 19.62 5.3
+ 3 0 -2 19.15 20
+ 1 1 -3 18.7 31
+ 3 1 -1 18.57 31
+ 2 1 -3 18.3 5.3
+ 1 3 -1 18.26 25
+ 1 3 1 16.6 49
+ 1 2 -3 16.38 20
+ 3 2 -1 16.28 20
+ 3 1 -3 16.18 31
+ 0 3 2 15.78 16
+ 3 2 0 15.75 16
+ 2 0 2 15.64 25
+ 2 3 -2 15.51 5.3
+ 4 0 -2 14.76 5.3
+ 0 4 0 14.68 5.3
+ 3 2 -3 14.59 5.3
+ 0 0 4 13.34 20
+ 3 2 1 13.29 20
+ 2 2 -4 13.26 10
+
+# End of data set 530101
+
+

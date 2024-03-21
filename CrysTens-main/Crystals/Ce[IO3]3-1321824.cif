@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# Ce-I-O           # Ce[IO3]3                                      # 1321824 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1321824
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1321824
+
+# Entry summary
+
+_chemical_formula_structural             'Ce [I O~3~]~3~'
+_chemical_formula_sum                    'Ce I3 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Bi[IO~3~]~3~,mP52,14
+_chemical_formula_weight                 664.8
+
+# Bibliographic data
+
+_publ_section_title                      'Cerium triiodate, Ce(IO~3~)~3~'
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2005
+_journal_volume                          61
+_journal_page_first                      i61
+_journal_page_last                       i62
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chen X.A.'
+;
+Beijing University of Science and Technology
+College of Material Science and Engineering
+Beijing
+China
+;
+'Zhang L.'
+;
+Beijing University of Science and Technology
+College of Material Science and Engineering
+Beijing
+China
+;
+'Chang X.A.'
+;
+Beijing University of Science and Technology
+College of Material Science and Engineering
+Beijing
+China
+;
+'Zang H.G.'
+;
+Beijing University of Science and Technology
+College of Material Science and Engineering
+Beijing
+China
+;
+'Xiao W.Q.'
+;
+Beijing University of Science and Technology
+College of Material Science and Engineering
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.9188
+_cell_length_b                           5.9619
+_cell_length_c                           16.837
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.748
+_cell_angle_gamma                        90
+_cell_volume                             813.05
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ I
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 O 4 e 0.062 0.0468 0.2064 1
+ I3 I 4 e 0.06981 0.31153 0.34913 1
+ O8 O 4 e 0.0919 0.6061 0.1703 1
+ O9 O 4 e 0.0918 0.4118 0.4559 1
+ Ce Ce 4 e 0.13867 0.26355 0.09969 1
+ O1 O 4 e 0.3411 0.3179 0.2555 1
+ I2 I 4 e 0.35856 0.63715 0.02275 1
+ O5 O 4 e 0.357 0.0855 0.4472 1
+ O3 O 4 e 0.3717 -0.0007 0.1325 1
+ O4 O 4 e 0.4048 0.4705 0.1202 1
+ I1 I 4 e 0.58439 0.09066 0.19809 1
+ O2 O 4 e 0.6668 0.0911 0.1164 1
+ O6 O 4 e 0.8644 0.3983 0.0077 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.43
+_cell_measurement_temperature            290
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              290
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7R'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4133
+_exptl_absorpt_coefficient_mu            17.01
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             119
+_refine_ls_number_reflns                 3317
+_refine_ls_R_factor_gt                   0.032
+_refine_ls_wR_factor_gt                  0.087
+
+# End of data set 1321824
+
+

@@ -1,0 +1,210 @@
+##############################################################################
+#                                                                            #
+# Au-Ga            # Au7Ga2 ht                                     #  250488 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_250488
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      250488
+
+# Entry summary
+
+_chemical_formula_structural             'Au~7~ Ga~2~'
+_chemical_formula_sum                    'Au7 Ga2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Au~7~Ga~2~,hP27,189
+_chemical_formula_weight                 1518.2
+_chemical_melting_point                  683.0
+
+# Bibliographic data
+
+_publ_section_title
+'The equilibrium diagram of the system gold-gallium'                          
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1966
+_journal_volume                          10
+_journal_page_first                      42
+_journal_page_last                       51
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cooke C.J.'
+;
+Oxford University
+Department of Metallurgy
+Oxford
+United Kingdom
+;
+'Hume Rothery W.'
+;
+Oxford University
+Department of Metallurgy
+Oxford
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.7258
+_cell_length_b                           7.7258
+_cell_length_c                           8.7413
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             451.85
+_cell_formula_units_Z                    3
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Au
+ Ga
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Au1 Au 6 i 0.312 0 0.170 1
+ Au2 Au 6 i 0.637 0 0.332 1
+ Ga1 Ga 4 h 0.333333 0.666667 0.175 1
+ Au3 Au 3 g 0.278 0 0.5 1
+ Au4 Au 3 f 0.631 0 0 1
+ Ga2 Ga 2 e 0 0 0.314 1
+ Au5 Au 2 d 0.333333 0.666667 0.5 1
+ Au6 Au 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            16.74
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Debye-Scherrer film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 1 0.212 1
+ 1 1 0 0.396 4
+ 2 0 1 0.604 3
+ 0 0 3 0.703 2
+ 1 0 3 0.828 2
+ 2 1 0 0.925 5
+ 2 1 1 1.005 2
+ 1 1 3 1.094 10
+ 3 0 0 1.19 10
+ 2 0 3 1.227 5
+ 3 0 2 1.513 0.5
+ 2 2 0 1.608 0.5
+ 2 1 3 1.625 4
+ 3 1 0 1.722 4
+ 3 0 3 1.914 0.5
+ 2 2 3 2.286 8
+ 3 1 3 2.447 0.5
+ 3 2 0 2.517 2
+ 3 2 1 2.621 0.5
+ 0 0 6 2.794 3
+ 3 2 3 3.216 5
+ 4 1 3 3.48 6
+ 3 3 0 3.579 5
+ 4 2 0 3.712 4
+ 3 0 6 3.986 9
+ 5 0 3 4.01 2
+ 5 1 0 4.11 3
+ 4 2 3 4.41 1
+ 3 1 6 4.517 2
+ 6 0 0 4.771 4
+ 5 1 3 4.806 3
+ 4 2 4 4.942 1
+ 3 2 6 5.309 2
+ 4 3 3 5.604 3
+ 6 1 0 5.697 3
+ 5 2 3 5.869 4
+ 3 3 6 6.373 5
+ 4 2 6 6.505 4
+ 1 1 9 6.686 5
+ 2 0 9 6.819 2
+ 5 1 6 6.904 4
+ 4 4 3 7.062 3
+ 7 0 3 7.193 6
+ 6 0 6 7.566 6
+ 6 2 3 7.593 4
+ 4 3 6 7.699 2
+ 2 2 9 7.877 5
+ 5 4 0 8.087 4
+ 7 1 3 8.255 4
+ 6 3 0 8.35 5
+ 6 1 6 8.494 4
+ 3 2 9 8.806 5
+ 7 2 0 8.881 4
+ 4 1 9 9.073 6
+ 8 0 3 9.181 5
+ 7 0 6 9.288 3
+ 7 1 5 9.495 2
+ 5 0 9 9.603 4
+ 8 1 0 9.681 5
+
+# End of data set 250488
+
+

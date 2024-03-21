@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Ba-Cr-H-O        # Ba5[CrO4]3[OH]                                # 1711981 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1711981
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1711981
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~5~ [Cr O~4~]~3~ [O H]'
+_chemical_formula_sum                    'Ba5 Cr3 H O13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+(Sr~0.6~Ca~0.4~)~5~[PO~4~]~3~F,hP42,173                                       
+_chemical_formula_weight                 1051.6
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of Ba~5~(CrO~4~)~3~OH'                                     
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1973
+_journal_volume                          400
+_journal_page_first                      1
+_journal_page_last                       9
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mattausch H.J.'
+;
+Kiel Christian Albrecht University
+Institut f\"ur Anorganische Chemie
+Kiel
+Germany
+;
+'M\"uller Buschbaum H.K.'
+;
+Kiel Christian Albrecht University
+Institut f\"ur Anorganische Chemie
+Kiel
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.428
+_cell_length_b                           10.428
+_cell_length_c                           7.89
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             743.04
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ba
+ Cr
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 6 c 0.152 0.483 0.086 1
+ Ba3 Ba 6 c 0.2429 0.2273 0.07 1
+ O3 O 6 c 0.254 0.332 0.397 1
+ O4 O 6 c 0.361 0.104 0.25 1
+ Cr Cr 6 c 0.401 0.032 0.07 1
+ O2 O 6 c 0.591 0.126 0.064 1
+ Ba2 Ba 2 b 0.333333 0.666667 0.32 1
+ Ba1 Ba 2 b 0.333333 0.666667 0.82 1
+ OH OH 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.70
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values derived from related structure, Fourier synthesis'           
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1860
+_refine_ls_R_factor_gt                   0.090
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1711981
+
+

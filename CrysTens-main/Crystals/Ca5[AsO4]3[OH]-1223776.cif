@@ -1,0 +1,189 @@
+##############################################################################
+#                                                                            #
+# As-Ca-H-O        # Ca5[AsO4]3[OH]                                # 1223776 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1223776
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1223776
+
+# Entry summary
+
+_chemical_formula_structural             'Ca~5~ [As O~4~]~3~ [O H]'
+_chemical_formula_sum                    'As3 Ca5 H1.19 O13.19'
+_chemical_name_mineral                   'johnbaumite H'
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~5~[PO~4~]~3~[OH],hP44,176
+_chemical_formula_weight                 634.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Arsenate substitution in hydroxylapatite: Structural characterization of the Ca~5~(P~x~As~1-x~O~4~)~3~OH solid solution
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2009
+_journal_volume                          94
+_journal_page_first                      666
+_journal_page_last                       675
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lee Y.J.'
+;
+Seoul Korea University
+Department of Earth and Environmental Sciences
+Seoul
+South Korea
+;
+'Stephens P.W.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Physics and Astronomy
+Stony Brook
+U.S.A. New York
+;
+'Tang Y.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Geoscience
+Stony Brook
+U.S.A. New York
+;
+'Li W.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Geoscience
+Stony Brook
+U.S.A. New York
+;
+'Phillips B.L.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Geoscience
+Stony Brook
+U.S.A. New York
+;
+'Parise J.B.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Geoscience
+Stony Brook
+U.S.A. New York
+;
+'Reeder R.J.'
+;
+Stony Brook University of SUNY (New York State University)
+Department of Geoscience
+Stony Brook
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.7156
+_cell_length_b                           9.7156
+_cell_length_c                           6.9857
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             571.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   176
+_space_group_name_H-M_alt                'P 63/m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, x, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, -z'
+ 12 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ca
+ As
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 12 i 0.33588 0.09079 0.05623 1
+ O1 O 6 h 0.17058 0.49033 0.25 1
+ Ca2 Ca 6 h 0.24746 0.24915 0.25 1
+ As1 As 6 h 0.39816 0.02808 0.25 1
+ O2 O 6 h 0.59742 0.12919 0.25 1
+ Ca1 Ca 4 f 0.333333 0.666667 0.00267 1
+ O4 OH 4 e 0 0 0.1919 0.593
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.69
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.69707
+_pd_proc_wavelength                      0.69707
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+U.S.A. New York, Brookhaven National Laboratory, National Synchrotron Light Source NSLS, SUNY, X16C
+;
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.69707
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 22.5
+_pd_proc_2theta_range_min                2
+_pd_proc_2theta_range_max                45
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.0705
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1223776
+
+

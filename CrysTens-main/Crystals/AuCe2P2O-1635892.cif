@@ -1,0 +1,182 @@
+##############################################################################
+#                                                                            #
+# Au-Ce-O-P        # AuCe2P2O                                      # 1635892 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1635892
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1635892
+
+# Entry summary
+
+_chemical_formula_structural             'Au Ce~2~ P~2~ O'
+_chemical_formula_sum                    'Au Ce2 O P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AuLa~2~P~2~O,mS24,12
+_chemical_formula_weight                 555.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Phosphide oxides RE~2~AuP~2~O (RE= La, Ce, Pr, Nd): Synthesis, structure, chemical bonding, magnetism, and ^31^P and ^139^La Solid State NMR
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2013
+_journal_volume                          52
+_journal_page_first                      2094
+_journal_page_last                       2102
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bartsch T.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Wiegand T.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Physikalische Chemie
+M\"unster
+Germany
+;
+'Ren J.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Physikalische Chemie
+M\"unster
+Germany
+;
+'Eckert H.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Physikalische Chemie
+M\"unster
+Germany
+;
+'Johrendt D.'
+;
+Munich Ludwig Maximilian University
+Chemiedepartment
+Munich
+Germany
+;
+'Niehaus O.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Eul M.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'P\"ottgen R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.152
+_cell_length_b                           4.2463
+_cell_length_c                           9.992
+_cell_angle_alpha                        90
+_cell_angle_beta                         130.9
+_cell_angle_gamma                        90
+_cell_volume                             485.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ce
+ P
+ O
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ce1 Ce 4 i 0.13162 0 0.31105 1
+ P1 P 4 i 0.14855 0 0.0277 1
+ Ce2 Ce 4 i 0.17243 0 0.73151 1
+ O O 4 i 0.2784 0 0.6304 1
+ Au Au 4 i 0.41128 0 0.12432 1
+ P2 P 4 i 0.54815 0 0.4517 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.59
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3414
+_diffrn_reflns_theta_min                 2.7
+_diffrn_reflns_theta_max                 33.32
+_exptl_absorpt_coefficient_mu            49.022
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             38
+_refine_ls_number_reflns                 969
+_refine_ls_R_factor_gt                   0.0209
+_refine_ls_wR_factor_gt                  0.0402
+
+# End of data set 1635892
+
+

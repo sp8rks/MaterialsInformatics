@@ -1,0 +1,129 @@
+##############################################################################
+#                                                                            #
+# Cs-F-H-O-U       # Cs2[UO2]F4[H2O]                               # 1900744 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1900744
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1900744
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ [U O~2~] F~4~ [H~2~ O]'
+_chemical_formula_sum                    'Cs2 F4 H2 O3 U'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~[UO~2~]F~4~[H~2~O],mP40,14
+_chemical_formula_weight                 629.8
+
+# Bibliographic data
+
+_publ_section_title
+'Structure cristalline de Cs~2~UO~2~F~4~.H~2~O'                               
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1972
+_journal_volume                          28
+_journal_page_first                      2011
+_journal_page_last                       2015
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nguyen Q.D.'
+;
+Chatenay-Malabry Ecole Centrale des Arts et Manufactures
+Centre de Recherche de Chimie
+Chatenay-Malabry
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.06
+_cell_length_b                           12.18
+_cell_length_c                           9.29
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.2
+_cell_angle_gamma                        90
+_cell_volume                             861.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ OH2
+ O
+ Cs
+ U
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F3 F 4 e 0.073 0.586 0.469 1
+ H2O OH2 4 e 0.073 0.689 0.108 1
+ O1 O 4 e 0.154 0.514 0.831 1
+ F4 F 4 e 0.155 0.21 0.227 1
+ Cs1 Cs 4 e 0.2224 0.4397 0.1646 1
+ U U 4 e 0.2269 0.0442 0.1617 1
+ O2 O 4 e 0.253 0.1 0.022 1
+ F1 F 4 e 0.474 0.127 0.293 1
+ F2 F 4 e 0.599 0.397 0.318 1
+ Cs2 Cs 4 e 0.6333 0.2494 0.0727 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              4.9(2)
+_exptl_crystal_density_diffrn            4.86
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device
+'precession and Weissenberg photographs'                                      
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka, Mo Ka'
+_diffrn_reflns_number                    1300
+_exptl_absorpt_coefficient_mu            140.0
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.148
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1900744
+
+

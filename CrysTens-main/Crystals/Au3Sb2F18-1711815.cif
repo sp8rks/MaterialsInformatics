@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Au-F-Sb          # Au3Sb2F18                                     # 1711815 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1711815
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1711815
+
+# Entry summary
+
+_chemical_formula_structural             'Au~3~ Sb~2~ F~18~'
+_chemical_formula_sum                    'Au3 F18 Sb2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Au~3~Sb~2~F~18~,mP46,14
+_chemical_formula_weight                 1176.4
+
+# Bibliographic data
+
+_publ_section_title
+'The reduction of AuF~3~ in super acidic solution'                            
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2002
+_journal_volume                          628
+_journal_page_first                      765
+_journal_page_last                       769
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hwang I.C.'
+;
+Berlin Free University
+Institut f\"ur Anorganische und Analytische Chemie
+Berlin
+Germany
+;
+'Seppelt K.'
+;
+Berlin Free University
+Institut f\"ur Anorganische und Analytische Chemie
+Berlin
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.049
+_cell_length_b                           8.424
+_cell_length_c                           10.0459
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.591
+_cell_angle_gamma                        90
+_cell_volume                             665.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ Sb
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 4 e 0.0956 0.7107 0.1907 1
+ F2 F 4 e 0.1424 0.0184 0.2429 1
+ F13 F 4 e 0.1676 0.3732 0.2428 1
+ F11 F 4 e 0.2241 0.5293 0.0458 1
+ F14 F 4 e 0.2503 0.2177 0.0677 1
+ Sb Sb 4 e 0.36032 0.3748 0.21844 1
+ F12 F 4 e 0.4782 0.2309 0.3756 1
+ F15 F 4 e 0.5301 0.3925 0.1667 1
+ F16 F 4 e 0.5615 0.0521 0.1579 1
+ F3 F 4 e 0.8105 0.1418 0.0131 1
+ Au1 Au 4 e 0.83151 0.33183 0.13271 1
+ Au2 Au 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'brown orange'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.87
+_cell_measurement_temperature            130(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            8024
+_diffrn_ambient_temperature              130(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    8024
+_diffrn_reflns_theta_min                 2.59
+_diffrn_reflns_theta_max                 30.56
+_exptl_absorpt_coefficient_mu            37.143
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             107
+_refine_ls_number_reflns                 1769
+_refine_ls_R_factor_gt                   0.0483
+_refine_ls_wR_factor_gt                  0.0998
+
+# End of data set 1711815
+
+

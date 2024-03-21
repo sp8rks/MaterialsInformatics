@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Cs-H-Np-O        # Cs3NpO4[OH]2[H2O]3                            # 1625297 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1625297
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1625297
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~3~ Np O~4~ [O H]~2~ [H~2~ O]~3~'
+_chemical_formula_sum                    'Cs3 H8 Np O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Cs~3~NpO~4~[OH]~2~[H~2~O]~3~,mS52,15                                          
+_chemical_formula_weight                 787.8
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structures of Cs~3~NpO~4~(OH)~2~.3H~2~O and Rb~3~NpO~4~(OH)~2~.3H~2~O'
+_journal_coden_ASTM                      RDIOEO
+_journal_name_full                       'Radiochemistry (Moscow)'
+_journal_year                            1993
+_journal_volume                          35
+_journal_page_first                      377
+_journal_page_last                       381
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Grigor'ev M.S.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Baturin N.A.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Tananaev I.G.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+'Krot N.N.'
+;
+Russian Academy of Sciences
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.59
+_cell_length_b                           11.55
+_cell_length_c                           8.051
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.6
+_cell_angle_gamma                        90
+_cell_volume                             1170.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ OH
+ O
+ Cs
+ Np
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 OH2 8 f 0.074 0.182 0.583 1
+ O3 OH 8 f 0.077 0.339 0.001 1
+ O2 O 8 f 0.225 0.18 0.206 1
+ Cs1 Cs 8 f 0.3018 0.0897 0.5478 1
+ O1 O 8 f 0.313 0.3785 0.113 1
+ Cs2 Cs 4 e 0 0.0656 0.25 1
+ O5 OH2 4 e 0 0.526 0.25 1
+ Np Np 4 c 0.25 0.25 0 1
+
+
+_exptl_crystal_colour                    'green dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.47
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1492
+_exptl_absorpt_coefficient_mu            17.2
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             64
+_refine_ls_number_reflns                 863
+_refine_ls_R_factor_gt                   0.050
+_refine_ls_wR_factor_gt                  0.062
+
+# End of data set 1625297
+
+

@@ -1,0 +1,220 @@
+##############################################################################
+#                                                                            #
+# B-Ba-O-P         # Ba3[BO3][PO4]                                 # 1120604 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1120604
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1120604
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ [B O~3~] [P O~4~]'
+_chemical_formula_sum                    'B Ba3 O7 P'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~[BO~3~][PO~4~],hP24,186
+_chemical_formula_weight                 565.8
+
+# Bibliographic data
+
+_publ_section_title
+'Ab initio structure determination of new compound Ba~3~(BO~3~)(PO~4~)'       
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2004
+_journal_volume                          177
+_journal_page_first                      3454
+_journal_page_last                       3459
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ma H.W.'
+;
+Chinese Academy of Sciences
+Institute of Physics and Center for Condensed Matter Physics
+Beijing
+China
+;
+'Liang J.K.'
+;
+Chinese Academy of Sciences
+Institute of Physics and Center for Condensed Matter Physics
+Beijing
+China
+;
+'Wu L.'
+;
+Chinese Academy of Sciences
+Institute of Physics and Center for Condensed Matter Physics
+Beijing
+China
+;
+'Liu G.Y.'
+;
+Chinese Academy of Sciences
+Institute of Physics and Center for Condensed Matter Physics
+Beijing
+China
+;
+'Rao G.H.'
+;
+Chinese Academy of Sciences
+Institute of Physics and Center for Condensed Matter Physics
+Beijing
+China
+;
+'Chen X.L.'
+;
+Chinese Academy of Sciences
+Institute of Physics and Center for Condensed Matter Physics
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.4898
+_cell_length_b                           5.4898
+_cell_length_c                           14.7551
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             385.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ B
+ Ba
+ P
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 6 c 0.477 0.523 0.0375 1
+ O2 O 6 c 0.8478 0.1522 0.318 1
+ B B 2 b 0.333333 0.666667 0.0375 1
+ Ba2 Ba 2 b 0.333333 0.666667 0.3173 1
+ Ba3 Ba 2 b 0.333333 0.666667 0.671 1
+ Ba1 Ba 2 a 0 0 0.0 1
+ O3 O 2 a 0 0 0.1795 1
+ P P 2 a 0 0 0.2835 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.88
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW3040'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 4.5
+_diffrn_reflns_theta_max                 60
+_pd_proc_2theta_range_min                9
+_pd_proc_2theta_range_max                120
+_exptl_absorpt_coefficient_mu            120.079
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             26
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0592
+_pd_proc_ls_proof_wR_factor              0.0887
+_refine_ls_R_I_factor                    0.0499
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 73.7 5.66
+ 1 0 1 45.23 27.37
+ 1 0 2 39.94 57.22
+ 0 0 4 36.87 8.50
+ 1 0 3 34.17 100.00
+ 1 0 4 29.13 40.20
+ 1 1 0 27.44 96.93
+ 1 0 5 25.06 20.40
+ 0 0 6 24.58 23.98
+ 2 0 1 23.46 10.10
+ 2 0 2 22.62 31.52
+ 2 0 3 21.4 35.99
+ 2 0 4 19.98 19.54
+ 2 0 5 18.51 11.60
+ 1 1 6 18.31 40.00
+ 2 1 1 17.83 6.69
+ 2 1 2 17.46 14.33
+ 1 0 8 17.19 11.22
+ 2 1 3 16.88 19.00
+ 2 1 4 16.15 12.92
+ 3 0 0 15.85 15.86
+ 2 1 5 15.35 8.60
+ 2 0 8 14.57 7.34
+ 2 2 0 13.72 14.17
+ 3 0 6 13.32 12.80
+ 3 1 2 12.98 5.46
+ 2 1 8 12.87 8.82
+ 3 1 3 12.73 8.60
+ 2 2 6 11.98 10.88
+ 3 2 3 10.65 5.43
+ 4 1 0 10.37 8.21
+ 4 1 6 9.56 10.10
+ 2 1 14 9.09 5.61
+
+# End of data set 1120604
+
+

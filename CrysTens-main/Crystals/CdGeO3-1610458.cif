@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# Cd-Ge-O          # CdGeO3 mon                                    # 1610458 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1610458
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1610458
+
+# Entry summary
+
+_chemical_formula_structural             'Cd Ge O~3~'
+_chemical_formula_sum                    'Cd Ge O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoGeO~3~,mS40,15
+_chemical_formula_weight                 233.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal synthesis in the KCl-CdO-GeO~2~-H~2~O system and the crystal structure of Cd~2~[Ge~2~O~6~]
+;
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1972
+_journal_volume                          17
+_journal_page_first                      244
+_journal_page_last                       246
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kornev A.N.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Demyanets L.N.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Maksimov B.A.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Iliukhin V.V.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+'Belov N.V.'
+;
+Russian Academy of Sciences
+Shubnikov A.V. Institute of Crystallography
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.6
+_cell_length_b                           9.73
+_cell_length_c                           5.36
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.
+_cell_angle_gamma                        90
+_cell_volume                             536.4
+_cell_formula_units_Z                    8
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ge
+ Cd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 f 0.119 0.407 0.158 1
+ O1 O 8 f 0.148 0.05 0.067 1
+ Ge Ge 8 f 0.296 0.411 0.225 1
+ O2 O 8 f 0.378 0.264 0.37 1
+ Cd2 Cd 4 e 0 0.211 0.25 1
+ Cd1 Cd 4 e 0 0.595 0.25 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              5.47
+_exptl_crystal_density_diffrn            5.77
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               photographs
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    250
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.118
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1610458
+
+

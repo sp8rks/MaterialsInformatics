@@ -1,0 +1,172 @@
+##############################################################################
+#                                                                            #
+# Co-Sb            # CoSb2 rt                                      # 1141452 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1141452
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1141452
+
+# Entry summary
+
+_chemical_formula_structural             'Co Sb~2~'
+_chemical_formula_sum                    'Co Sb2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoSb~2~,mP12,14
+_chemical_formula_weight                 302.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Peculiarities of thermoelectric half-Heusler phase formation in Zr-Co-Sb ternary system
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2014
+_journal_volume                          585
+_journal_page_first                      448
+_journal_page_last                       454
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Romaka V.V.'
+;
+Lviv Polytechnic National University
+Department of Applied Material Science and Materials Engineering
+Lviv
+Ukraine
+;
+'Romaka L.P.'
+;
+Lviv Ivan Franko National University
+Department of Inorganic Chemistry
+Lviv
+Ukraine
+;
+'Rogl P.'
+;
+Vienna University
+Institut f\"ur Physikalische Chemie
+Vienna
+Austria
+;
+'Stadnyk Y.V.'
+;
+Lviv Ivan Franko National University
+Department of Inorganic Chemistry
+Lviv
+Ukraine
+;
+'Melnychenko Koblyuk N.O.'
+;
+Lviv Ivan Franko National University
+Department of Inorganic Chemistry
+Lviv
+Ukraine
+;
+'Korzh R.O.'
+;
+Lviv Polytechnic National University
+Department of Applied Material Science and Materials Engineering
+Lviv
+Ukraine
+;
+'Duriagina Z.'
+;
+Lviv Polytechnic National University
+Department of Applied Material Science and Materials Engineering
+Lviv
+Ukraine
+;
+'Horyn A.M.'
+;
+Lviv Ivan Franko National University
+Department of Inorganic Chemistry
+Lviv
+Ukraine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.469
+_cell_length_b                           6.373
+_cell_length_c                           6.509
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.5
+_cell_angle_gamma                        90
+_cell_volume                             238
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Sb
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Sb1 Sb 4 e 0.1534 0.6431 0.3325 1
+ Co1 Co 4 e 0.2299 0.0005 0.2183 1
+ Sb2 Sb 4 e 0.3511 0.3607 0.1329 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.44
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Fe Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1141452
+
+

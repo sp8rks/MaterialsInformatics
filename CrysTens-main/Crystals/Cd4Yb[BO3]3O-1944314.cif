@@ -1,0 +1,125 @@
+##############################################################################
+#                                                                            #
+# B-Cd-O-Yb        # Cd4Yb[BO3]3O                                  # 1944314 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1944314
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1944314
+
+# Entry summary
+
+_chemical_formula_structural             'Cd~4~ Yb [B O~3~]~3~ O'
+_chemical_formula_sum                    'B3 Cd4 O10 Yb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~4~Sm[BO~3~]~3~O,mS36,8
+_chemical_formula_weight                 815.1
+_chemical_melting_point                  1423
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and characterization of Cd~4~YbO(BO~3~)~3~ - A congruent melting cadmium-ytterbium oxyborate with large nonlinear optical properties
+;
+_journal_coden_ASTM                      NJCHE5
+_journal_name_full                       'New J. Chem.'
+_journal_year                            2014
+_journal_volume                          38
+_journal_page_first                      6186
+_journal_page_last                       6192
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.938
+_cell_length_b                           15.794
+_cell_length_c                           3.4414
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.992
+_cell_angle_gamma                        90
+_cell_volume                             424.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cd
+ O
+ B
+ Yb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cd2 Cd 4 b 0.0658 0.17826 0.0518 1
+ O3 O 4 b 0.093 0.3213 0.3 1
+ B2 B 4 b 0.253 0.3005 0.496 1
+ O4 O 4 b 0.263 0.0768 0.166 1
+ O2 O 4 b 0.281 0.2281 0.717 1
+ O5 O 4 b 0.394 0.3586 0.495 1
+ Cd1 Cd 4 b 0.45099 0.1121 0.7474 1
+ O6 O 2 a 0.0 0 0.0 1
+ B1 B 2 a 0.19 0 0.126 1
+ O1 O 2 a 0.631 0 0.832 1
+ Yb1 Yb 2 a 0.80729 0 0.4138 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.37
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            701
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Mercury'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2111
+_diffrn_reflns_theta_min                 2.58
+_diffrn_reflns_theta_max                 27.52
+_exptl_absorpt_coefficient_mu            20.79
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             55
+_refine_ls_number_reflns                 929
+_refine_ls_R_factor_gt                   0.0527
+_refine_ls_wR_factor_gt                  0.1367
+
+# End of data set 1944314
+
+

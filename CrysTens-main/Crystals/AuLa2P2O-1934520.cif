@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# Au-La-O-P        # AuLa2P2O                                      # 1934520 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1934520
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1934520
+
+# Entry summary
+
+_chemical_formula_structural             'Au La~2~ P~2~ O'
+_chemical_formula_sum                    'Au La2 O P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AuLa~2~P~2~O,mS24,12
+_chemical_formula_weight                 552.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+A further extension of pnictide oxide chemistry - Synthesis and structure of La~2~AuP~2~O
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2012
+_journal_volume                          638
+_journal_page_first                      331
+_journal_page_last                       335
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Eul M.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'M\"oller M.H.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Hoffmann R.D.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'Jeitschko W.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+'P\"ottgen R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische und Analytische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.373
+_cell_length_b                           4.2739
+_cell_length_c                           10.092
+_cell_angle_alpha                        90
+_cell_angle_beta                         131.02
+_cell_angle_gamma                        90
+_cell_volume                             500.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ La
+ P
+ O
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ La1 La 4 i 0.13131 0 0.31078 1
+ P1 P 4 i 0.1473 0 0.0257 1
+ La2 La 4 i 0.17292 0 0.73263 1
+ O O 4 i 0.2788 0 0.6319 1
+ Au Au 4 i 0.41121 0 0.12388 1
+ P2 P 4 i 0.5466 0 0.4501 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.34
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3852
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            46.5
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             38
+_refine_ls_number_reflns                 880
+_refine_ls_R_factor_gt                   0.028
+_refine_ls_wR_factor_gt                  0.044
+
+# End of data set 1934520
+
+

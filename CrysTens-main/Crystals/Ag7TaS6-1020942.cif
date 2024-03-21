@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# Ag-S-Ta          # Ag7TaS6 lt1                                   # 1020942 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1020942
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1020942
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~7~ Ta S~6~'
+_chemical_formula_sum                    'Ag7 S6 Ta'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~7~TaS~6~,mP28,7
+_chemical_formula_weight                 1128.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Low-Temperature Form (Phase II) of Ionic Conductor Ag~7~TaS~6~ Analyzed using High-Resolution Synchrotron X-Ray Powder Diffraction Data
+;
+_journal_coden_ASTM                      MCLCE9
+_journal_name_full
+'Mol. Cryst. Liq. Cryst. Sci. Technol., Sect. A'                              
+_journal_year                            2000
+_journal_volume                          341
+_journal_page_first                      75
+_journal_page_last                       80
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Onoda M.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Wada H.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Pattison P.'
+;
+Lausanne University
+Institut de Cristallographie
+Lausanne
+Switzerland
+;
+'Yamamoto A.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Ishii M.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Chapuis G.'
+;
+Lausanne University
+Institut de Cristallographie
+Lausanne
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.4462
+_cell_length_b                           7.4013
+_cell_length_c                           12.8892
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.221
+_cell_angle_gamma                        90
+_cell_volume                             580.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ag
+ S
+ Ta
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag2 Ag 2 a 0.0 0.59 0.0 1
+ Ag4 Ag 2 a 0.014 0.027 0.425 1
+ S6 S 2 a 0.015 0.237 0.676 1
+ Ag6 Ag 2 a 0.1 0.08 0.237 1
+ S1 S 2 a 0.104 0.259 0.053 1
+ S5 S 2 a 0.232 0.278 0.417 1
+ Ag5 Ag 2 a 0.27 0.62 0.391 1
+ Ag7 Ag 2 a 0.402 0.212 0.655 1
+ Ta Ta 2 a 0.49 0.249 0.19 1
+ S3 S 2 a 0.583 0.503 0.32 1
+ S4 S 2 a 0.616 0.004 0.329 1
+ Ag3 Ag 2 a 0.638 0.155 0.539 1
+ S2 S 2 a 0.647 0.232 0.08 1
+ Ag1 Ag 2 a 0.796 0.527 0.203 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.46
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              240.0(5)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, European Synchrotron Radiation Facility ESRF, SNBL, BM01B' 
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.64997
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.066
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1020942
+
+

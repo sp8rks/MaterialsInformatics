@@ -1,0 +1,178 @@
+##############################################################################
+#                                                                            #
+# Ba-H-O-V         # Ba2V[VO4]2[OH]                                # 1643079 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1643079
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1643079
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ V [V O~4~]~2~ [O H]'
+_chemical_formula_sum                    'Ba2 H O9 V3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            MnPb~2~[VO~4~]~2~[OH],mP28,11
+_chemical_formula_weight                 572.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal synthesis and characterization of novel brackebuschite-type transition metal vanadates: Ba~2~M(VO~4~)~2~(OH), M= V^3+^, Mn^3+^, and Fe^3+^, with interesting Jahn-Teller and spin-liquid behavior
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2015
+_journal_volume                          54
+_journal_page_first                      7014
+_journal_page_last                       7020
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sanjeewa L.D.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'McGuire M.A.'
+;
+Oak Ridge National Laboratory
+Materials Science & Technology Division
+Oak Ridge
+U.S.A. Tennessee
+;
+'Garlea V.O.'
+;
+Oak Ridge National Laboratory
+Quantum Condensed Matter Division
+Oak Ridge
+U.S.A. Tennessee
+;
+'Hu L.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Chumanov G.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'McMillen C.D.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+'Kolis J.W.'
+;
+South Carolina Clemson University
+Department of Chemistry
+Clemson
+U.S.A. South Carolina
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.8783
+_cell_length_b                           6.1369
+_cell_length_c                           9.1836
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.07
+_cell_angle_gamma                        90
+_cell_volume                             408.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ Ba
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 f -0.0062 0.5107 0.7803 1
+ O2 O 4 f 0.4995 0.0296 0.293 1
+ V1 V 2 e 0.04672 0.25 0.33397 1
+ O3 O 2 e 0.192 0.25 0.0484 1
+ Ba2 Ba 2 e 0.26182 0.25 0.75639 1
+ O4 O 2 e 0.2682 0.25 0.4579 1
+ V2 V 2 e 0.43673 0.25 0.17364 1
+ O7 O 2 e 0.5514 0.25 0.0541 1
+ Ba1 Ba 2 e 0.68105 0.25 0.59068 1
+ O5 O 2 e 0.824 0.25 0.9327 1
+ O6 O 2 e 0.9214 0.25 0.444 1
+ V V 2 a 0 0 0 1
+ H5 H 2 e 0.739 0.25 0.974 1
+
+
+_exptl_crystal_colour                    brown
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.65
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            3321
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC8S'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3321
+_diffrn_reflns_theta_min                 2.41
+_diffrn_reflns_theta_max                 25.13
+_exptl_absorpt_coefficient_mu            12.824
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             83
+_refine_ls_number_reflns                 796
+_refine_ls_R_factor_gt                   0.0231
+_refine_ls_wR_factor_gt                  0.0618
+
+# End of data set 1643079
+
+

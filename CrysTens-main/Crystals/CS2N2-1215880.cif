@@ -1,0 +1,165 @@
+##############################################################################
+#                                                                            #
+# C-N-S            # CS2N2                                         # 1215880 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1215880
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1215880
+
+# Entry summary
+
+_chemical_formula_structural             'C S~2~ N~2~'
+_chemical_formula_sum                    'C N2 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CS~2~N~2~,mP40,14
+_chemical_formula_weight                 104.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Preparation and solid-state characterization of the novel mixed biradical .NSNSC-CNSSN.
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2005
+_journal_volume                          44
+_journal_page_first                      2576
+_journal_page_last                       2578
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cameron T.S.'
+;
+Halifax Dalhousie University
+Department of Chemistry
+Halifax
+Canada
+;
+'Lemaire M.T.'
+;
+Saint-John's Newfoundland Memorial University
+Department of Chemistry
+Saint-John's
+Canada
+;
+'Passmore J.'
+;
+Fredericton New Brunswick University
+Department of Chemistry
+Fredericton
+Canada
+;
+'Rawson J.M.'
+;
+Cambridge University
+Department of Chemistry
+Cambridge
+United Kingdom
+;
+'Shuvaev K.V.'
+;
+Fredericton New Brunswick University
+Department of Chemistry
+Fredericton
+Canada
+;
+'Thompson L.K.'
+;
+Saint-John's Newfoundland Memorial University
+Department of Chemistry
+Saint-John's
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.717
+_cell_length_b                           11.701
+_cell_length_c                           9.0328
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.732
+_cell_angle_gamma                        90
+_cell_volume                             622.5
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ S
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N2 N 4 e 0.0602 0.1271 0.1407 1
+ S2 S 4 e 0.1043 0.0022 0.2359 1
+ S1 S 4 e 0.1538 0.23178 0.28 1
+ C1 C 4 e 0.2242 0.0532 0.4391 1
+ N1 N 4 e 0.2545 0.1617 0.4627 1
+ N4 N 4 e 0.2642 0.6402 0.0279 1
+ C2 C 4 e 0.3073 0.5315 0.0795 1
+ N3 N 4 e 0.4187 0.4979 0.2413 1
+ S3 S 4 e 0.5007 0.10638 0.1288 1
+ S4 S 4 e 0.6238 0.23257 0.3169 1
+
+
+_exptl_crystal_colour                    'blue royal'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.22
+_cell_measurement_temperature            203
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              203
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC5R'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2052
+_diffrn_reflns_theta_min                 3.11
+_diffrn_reflns_theta_max                 30.04
+_exptl_absorpt_coefficient_mu            1.432
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             91
+_refine_ls_number_reflns                 1822
+_refine_ls_R_factor_gt                   0.053
+_refine_ls_wR_factor_gt                  0.183
+
+# End of data set 1215880
+
+

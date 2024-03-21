@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Cs-Nd-O-P        # CsNdP4O12 mon1                                #  551039 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_551039
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      551039
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Nd P~4~ O~12~'
+_chemical_formula_sum                    'Cs Nd O12 P4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsNdP~4~O~12~,mP36,4
+_chemical_formula_weight                 593.0
+
+# Bibliographic data
+
+_publ_section_title
+'Structure and luminescence properties of \a-CsNd(PO~3~)~4~ crystals'         
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            1979
+_journal_volume                          15
+_journal_page_first                      760
+_journal_page_last                       764
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Maksimova S.I.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Palkina K.K.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Loshchenov V.B.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Kuznetsov V.G.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.145
+_cell_length_b                           9.176
+_cell_length_c                           8.809
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.65
+_cell_angle_gamma                        90
+_cell_volume                             569.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Cs
+ Nd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(8) O 2 a 0.01007 0.56353 0.81937 1
+ O(9) O 2 a 0.04327 0.59196 0.4914 1
+ P(4) P 2 a 0.14526 0.16299 0.54184 1
+ O(5) O 2 a 0.16187 0.29708 0.6337 1
+ Cs Cs 2 a 0.17162 0.7 0.17463 1
+ P(2) P 2 a 0.1916 0.11106 0.226 1
+ O(10) O 2 a 0.22167 0.19798 0.38618 1
+ O(4) O 2 a 0.2257 0.23921 0.11002 1
+ O(11) O 2 a 0.28675 0.04529 0.63203 1
+ O(6) O 2 a 0.34492 0.0 0.23456 1
+ O(2) O 2 a 0.36134 0.38534 0.92025 1
+ P(1) P 2 a 0.41829 0.31137 0.07128 1
+ O(3) O 2 a 0.42165 0.48031 0.46876 1
+ O(7) O 2 a 0.45706 0.43608 0.19862 1
+ P(3) P 2 a 0.55921 0.42702 0.37621 1
+ O(1) O 2 a 0.57625 0.20538 0.09156 1
+ O(12) O 2 a 0.64574 0.2822 0.40725 1
+ Nd Nd 2 a 0.70077 0.03531 0.30277 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.46
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 551039
+
+

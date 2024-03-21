@@ -1,0 +1,158 @@
+##############################################################################
+#                                                                            #
+# Ag-C-Cl-W        # AgW6CCl18                                     # 1715220 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1715220
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1715220
+
+# Entry summary
+
+_chemical_formula_structural             'Ag W~6~ C Cl~18~'
+_chemical_formula_sum                    'Ag C Cl18 W6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            NaW~6~NCl~18~,hP52,176
+_chemical_formula_weight                 1861.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and characterization of carbon- and nitrogen-centered (Z) trigonal prismatic tungsten clusters of the formula type A[W~6~ZCl~18~]
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2008
+_journal_volume                          634
+_journal_page_first                      633
+_journal_page_last                       640
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Weisser M.'
+;
+T\"ubingen Eberhard Karl University
+Institut f\"ur Festk\"orperchemie und Theoretische Anorganische Chemie
+T\"ubingen
+Germany
+;
+'Burgert R.'
+;
+Karlsruhe University (TH)
+Institut f\"ur Anorganische Chemie
+Karlsruhe
+Germany
+;
+'Schn\"ockel H.'
+;
+Karlsruhe University (TH)
+Institut f\"ur Anorganische Chemie
+Karlsruhe
+Germany
+;
+'Meyer H.J.'
+;
+T\"ubingen Eberhard Karl University
+Institut f\"ur Festk\"orperchemie und Theoretische Anorganische Chemie
+T\"ubingen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.874
+_cell_length_b                           8.874
+_cell_length_c                           17.58
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             1198.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   176
+_space_group_name_H-M_alt                'P 63/m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, x, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, -z'
+ 12 'y, -x+y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ W
+ Cl
+ C
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ W1 W 12 i 0.1762 0.48085 0.16394 1
+ Cl1 Cl 12 i 0.2685 0.0443 0.10039 1
+ Cl2 Cl 12 i 0.3682 0.4746 0.07184 1
+ Cl3 Cl 6 h 0.1893 0.2724 0.25 1
+ Cl4 Cl 6 h 0.4863 0.0627 0.25 1
+ C1 C 2 c 0.333333 0.666667 0.25 1
+ Ag1 Ag 2 b 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.16
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1715220
+
+

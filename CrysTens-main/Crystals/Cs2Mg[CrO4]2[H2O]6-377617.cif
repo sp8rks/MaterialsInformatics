@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Cr-Cs-H-Mg-O     # Cs2Mg[CrO4]2[H2O]6                            #  377617 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_377617
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      377617
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Mg [Cr O~4~]~2~ [H~2~ O]~6~'
+_chemical_formula_sum                    'Cr2 Cs2 H12 Mg O14'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+[NH~4~]~2~Mg[SO~4~]~2~[H~2~O]~6~-b,mP38,14                                    
+_chemical_formula_weight                 630.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Pr\'eparation et \'etude radiocristallographique de quelques chromates doubles de type schoenite
+;
+_journal_coden_ASTM                      CHDCAQ
+_journal_name_full                       'C. R. Seances Acad. Sci., Ser. C'
+_journal_year                            1970
+_journal_volume                          270
+_journal_page_first                      1116
+_journal_page_last                       1118
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Guillen G.P.'
+;
+Grenoble
+France
+;
+'Avinens C.'
+;
+Montpellier Languedoc University of Science and Technology
+Laboratoire de Chimie Min\'erale Appliqu\'ee
+Montpellier
+France
+;
+'Maurin M.'
+;
+Montpellier Languedoc University of Science and Technology
+Laboratoire de Chimie Min\'erale Appliqu\'ee
+Montpellier
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.376
+_cell_length_b                           12.971
+_cell_length_c                           9.611
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.1
+_cell_angle_gamma                        90
+_cell_volume                             763.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Cs
+ Cr
+ Mg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.0898 0.2295 0.4039 1
+ O2 O 4 e 0.1282 0.0674 0.2807 1
+ Cs1 Cs 4 e 0.1389 0.851 0.3684 1
+ O3 O 4 e 0.2018 0.0691 0.002 1
+ Cr1 Cr 4 e 0.243 0.1396 0.4046 1
+ O4 O 4 e 0.2873 0.4175 0.0463 1
+ O5 O 4 e 0.4546 0.1785 0.3821 1
+ O6 O 4 e 0.5303 0.3904 0.3393 1
+ O7 O 4 e 0.6669 0.1045 0.1694 1
+ Mg1 Mg 2 b 0.5 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.76(2)
+_exptl_crystal_density_diffrn            2.74
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               film
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 377617
+
+

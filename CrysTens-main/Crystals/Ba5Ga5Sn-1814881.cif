@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Ba-Ga-Sn         # Ba5Ga5Sn                                      # 1814881 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1814881
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1814881
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~5~ Ga~5~ Sn'
+_chemical_formula_sum                    'Ba5 Ga5 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~5~Al~5~Sn,hP11,187
+_chemical_formula_weight                 1153.9
+
+# Bibliographic data
+
+_publ_section_title
+'Ba~5~(Al/Ga)~5~(Sn/Pb): new compounds at the Zintl border'                   
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2006
+_journal_volume                          61
+_journal_page_first                      846
+_journal_page_last                       853
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Guttsche K.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'Rosin A.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'Wendorff M.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'R\"ohr C.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.9945
+_cell_length_b                           5.9945
+_cell_length_c                           10.86
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             338
+_cell_formula_units_Z                    1
+_space_group_IT_number                   187
+_space_group_name_H-M_alt                'P -6 m 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, z'
+ 6 '-y, -x, -z'
+ 7 '-y, -x, z'
+ 8 '-y, x-y, -z'
+ 9 '-y, x-y, z'
+ 10 'x, x-y, -z'
+ 11 'x, x-y, z'
+ 12 'x, y, -z'
+loop_
+ _atom_type_symbol
+ Ga
+ Ba
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ga2 Ga 3 k 0.51502 0.48498 0.5 1
+ Ba2 Ba 2 i 0.666667 0.333333 0.20228 1
+ Ga1 Ga 2 h 0.333333 0.666667 0.3262 1
+ Ba1 Ba 2 g 0 0 0.3305 1
+ Ba3 Ba 1 c 0.333333 0.666667 0 1
+ Sn1 Sn 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.67
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2628
+_diffrn_reflns_theta_min                 1.9
+_diffrn_reflns_theta_max                 29.2
+_exptl_absorpt_coefficient_mu            25.849
+_exptl_absorpt_correction_type           numerical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             19
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0485
+_refine_ls_wR_factor_gt                  0.0711
+
+# End of data set 1814881
+
+

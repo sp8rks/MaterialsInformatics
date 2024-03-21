@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# Cs-Hg-I          # Cs2HgI4 rt                                    # 1405842 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1405842
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1405842
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Hg I~4~'
+_chemical_formula_sum                    'Cs2 Hg I4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sr~2~GeS~4~,mP14,11
+_chemical_formula_weight                 974.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure Refinement of Three Caesium Mercury Iodides, Cs~2~Hg~3~I~8~.H~2~O, Cs~2~HgI~4~ and Cs~3~HgI~5~
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1988
+_journal_volume                          44
+_journal_page_first                      207
+_journal_page_last                       210
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sj\"ovall R.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Svensson C.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.734
+_cell_length_b                           8.386
+_cell_length_c                           11.0802
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.909
+_cell_angle_gamma                        90
+_cell_volume                             671.31
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ I
+ Cs
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I2 I 4 f -0.04988 0.01474 0.21163 1
+ Cs1 Cs 2 e 0.19273 0.25 0.53223 1
+ Cs2 Cs 2 e 0.31297 0.25 0.09473 1
+ I3 I 2 e 0.57975 0.25 0.85737 1
+ I1 I 2 e 0.64492 0.25 0.45504 1
+ Hg Hg 2 e 0.8199 0.25 0.72603 1
+
+
+_exptl_crystal_colour                    yellowish
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.82
+_cell_measurement_temperature            292
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            37
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            25.82
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             41
+_refine_ls_number_reflns                 2009
+_refine_ls_R_factor_gt                   0.032
+_refine_ls_wR_factor_gt                  0.043
+
+# End of data set 1405842
+
+

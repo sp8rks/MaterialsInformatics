@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# C-Cs-Fe-K-N      # Cs2KFe[CN]6                                   # 1905742 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1905742
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1905742
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ K Fe [C N]~6~'
+_chemical_formula_sum                    'C6 Cs2 Fe K N6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~LiCr[CN]~6~,mP32,14
+_chemical_formula_weight                 516.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Study by X-ray crystallography and M\"ossbauer spectroscopy of the hexacyanoferrate(III) compounds Cs~2~M[Fe(CN)~6~] (M= Li, Na, or K)
+;
+_journal_coden_ASTM                      JCDTBI
+_journal_name_full                       'J. Chem. Soc., Dalton Trans.'
+_journal_year                            1977
+_journal_volume                          ?
+_journal_page_first                      309
+_journal_page_last                       316
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fletcher S.R.'
+;
+Leeds University
+Department of Inorganic and Structural Chemistry
+Leeds
+United Kingdom
+;
+'Gibb T.C.'
+;
+Leeds University
+Department of Inorganic and Structural Chemistry
+Leeds
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.66
+_cell_length_b                           8.131
+_cell_length_c                           13.5012
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.401
+_cell_angle_gamma                        90
+_cell_volume                             693.83
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ Cs
+ N
+ K
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C3 C 4 e 0.0971 0.0193 0.1654 1
+ C1 C 4 e 0.2372 0.128 0.0296 1
+ Cs Cs 4 e 0.2712 0.43251 0.25055 1
+ N2 N 4 e 0.258 0.6802 0.0608 1
+ N3 N 4 e 0.1498 0.0357 0.2629 1
+ N1 N 4 e 0.3823 0.2031 0.0497 1
+ C2 C 4 e 0.8379 0.1991 -0.0387 1
+ K K 2 d 0.5 0 0.5 1
+ Fe Fe 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.47
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            51.83
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1118
+_refine_ls_R_factor_gt                   0.075
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1905742
+
+

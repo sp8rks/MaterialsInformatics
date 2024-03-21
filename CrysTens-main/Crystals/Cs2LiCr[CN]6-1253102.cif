@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# C-Cr-Cs-Li-N     # Cs2LiCr[CN]6 mon                              # 1253102 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1253102
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1253102
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Li Cr [C N]~6~'
+_chemical_formula_sum                    'C6 Cr Cs2 Li N6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~LiCr[CN]~6~,mP32,14
+_chemical_formula_weight                 480.9
+
+# Bibliographic data
+
+_publ_section_title
+'Phonon-driven phase changes in Cs~2~LiCr(CN)~6~'                             
+_journal_coden_ASTM                      PLRBAQ
+_journal_name_full                       'Phys. Rev. B: Solid State'
+_journal_year                            1976
+_journal_volume                          13
+_journal_page_first                      5320
+_journal_page_last                       5329
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ryan R.R.'
+;
+New Mexico Los Alamos University
+Los Alamos National Laboratory
+Los Alamos
+U.S.A. New Mexico
+;
+'Swanson B.I.'
+;
+Texas Austin University
+Department of Chemistry
+Austin
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.6
+_cell_length_b                           7.6
+_cell_length_c                           13.1881
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.189
+_cell_angle_gamma                        90
+_cell_volume                             622.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ Cs
+ N
+ Li
+ Cr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C3 C 4 e 0.1935 0.0 0.1905 1
+ C2 C 4 e 0.216 0.163 0.004 1
+ Cs Cs 4 e 0.2499 0.4915 0.2499 1
+ N1 N 4 e 0.264 0.67 0.0 1
+ N3 N 4 e 0.2937 0.004 0.2977 1
+ N2 N 4 e 0.326 0.265 0.001 1
+ C1 C 4 e 0.827 0.207 0.002 1
+ Li Li 2 d 0.5 0 0.5 1
+ Cr Cr 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.57
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7093
+_cell_measurement_reflns_used            12
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Picker FACS-I'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7093
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.036
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1253102
+
+

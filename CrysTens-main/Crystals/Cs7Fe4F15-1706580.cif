@@ -1,0 +1,168 @@
+##############################################################################
+#                                                                            #
+# Cs-F-Fe          # Cs7Fe4F15                                     # 1706580 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1706580
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1706580
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~7~ Fe~4~ F~15~'
+_chemical_formula_sum                    'Cs7 F15 Fe4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~7~Ni~4~F~15~,mP52,14
+_chemical_formula_weight                 1438.7
+
+# Bibliographic data
+
+_publ_section_title
+'\"Uber Fluoride des zweiwertigen Eisens: Cs~7~Fe~4~F~15~'                    
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1988
+_journal_volume                          557
+_journal_page_first                      23
+_journal_page_last                       30
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Averdunk F.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Hoppe R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.8902
+_cell_length_b                           11.0509
+_cell_length_c                           11.7945
+_cell_angle_alpha                        90
+_cell_angle_beta                         92.464
+_cell_angle_gamma                        90
+_cell_volume                             1027.46
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ Fe
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F4 F 4 e 0.0229 0.1015 0.2564 1
+ Fe2 Fe 4 e 0.076 0.1629 0.4293 1
+ F7 F 4 e 0.1476 0.7378 0.0569 1
+ Cs3 Cs 4 e 0.1586 0.8471 0.3033 1
+ F1 F 4 e 0.1732 0.2638 0.0814 1
+ F5 F 4 e 0.1771 0.3112 0.3327 1
+ Fe1 Fe 4 e 0.2642 0.1717 0.2246 1
+ F6 F 4 e 0.3112 0.0916 0.3944 1
+ F2 F 4 e 0.3363 0.0243 0.1406 1
+ Cs2 Cs 4 e 0.3306 0.5033 0.1685 1
+ F3 F 4 e 0.4952 0.2466 0.2214 1
+ Cs4 Cs 4 e 0.5036 0.3179 0.4693 1
+ F8 F 2 c 0 0 0.5 1
+ Cs1 Cs 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.65
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54051
+_pd_proc_wavelength                      1.54051
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            14.226
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             122
+_refine_ls_number_reflns                 2419
+_refine_ls_R_factor_gt                   0.0893
+_refine_ls_wR_factor_gt                  0.0436
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 3 432.6 30
+ 1 2 -2 449.4 30
+ 2 1 -1 462.6 30
+ 2 0 2 575.1 50
+ 2 1 -2 580.1 100
+ 1 2 -3 657.9 20
+ 0 0 4 684.4 5
+ 2 2 -2 727.3 3
+ 0 1 4 731.6 20
+ 1 3 -3 900.8 5
+ 2 2 3 995.1 30
+ 2 0 -4 1022.4 20
+ 1 4 -2 1032 30
+ 3 2 0 1054.1 30
+ 3 2 -1 1081.6 10
+ 1 4 -3 1239.8 10
+ 1 2 5 1385 10
+
+# End of data set 1706580
+
+

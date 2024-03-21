@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# Cd-I-O-Pb-Se     # Cd3Pb2[SeO3]4I2 rt                            # 1021590 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1021590
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1021590
+
+# Entry summary
+
+_chemical_formula_structural             'Cd~3~ Pb~2~ [Se O~3~]~4~ I~2~'
+_chemical_formula_sum                    'Cd3 I2 O12 Pb2 Se4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cd~3~Pb~2~[SeO~3~]~4~I~2~,mP46,13
+_chemical_formula_weight                 1513.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Syntheses, crystal structures and properties of new lead(II) or bismuth(III) selenites and tellurite
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2012
+_journal_volume                          41
+_journal_page_first                      9532
+_journal_page_last                       9542
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zhang S.Y.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Hu C.L.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Li P.X.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Jiang H.L.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Mao J.G.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.1926
+_cell_length_b                           5.4394
+_cell_length_c                           16.627
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.308
+_cell_angle_gamma                        90
+_cell_volume                             882.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cd
+ O
+ Se
+ Pb
+ I
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cd2 Cd 4 g 0.00499 0.22313 0.59145 1
+ O1 O 4 g 0.0728 0.1898 0.1495 1
+ O3 O 4 g 0.146 0.5123 0.0638 1
+ O6 O 4 g 0.1502 0.6678 0.2376 1
+ O4 O 4 g 0.1548 0.5372 0.3861 1
+ O5 O 4 g 0.1569 0.0005 0.3597 1
+ O2 O 4 g 0.1596 0.0451 0.0443 1
+ Se1 Se 4 g 0.20301 0.2559 0.13073 1
+ Se2 Se 4 g 0.23495 0.74501 0.34835 1
+ Pb1 Pb 4 g 0.29772 0.24988 0.51129 1
+ I1 I 4 g 0.51014 0.25428 0.10446 1
+ Cd1 Cd 2 e 0 0.2958 0.25 1
+
+
+_exptl_crystal_colour                    brown
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.69
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            2061
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku SCXmini'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    6549
+_diffrn_reflns_theta_min                 2.81
+_diffrn_reflns_theta_max                 27.49
+_exptl_absorpt_coefficient_mu            34.356
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             105
+_refine_ls_number_reflns                 1655
+_refine_ls_R_factor_gt                   0.0460
+_refine_ls_wR_factor_gt                  0.1190
+
+# End of data set 1021590
+
+

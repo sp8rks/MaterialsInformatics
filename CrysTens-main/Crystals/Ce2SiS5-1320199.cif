@@ -1,0 +1,179 @@
+##############################################################################
+#                                                                            #
+# Ce-S-Si          # Ce2SiS5                                       # 1320199 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1320199
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1320199
+
+# Entry summary
+
+_chemical_formula_structural             'Ce~2~ Si S~5~'
+_chemical_formula_sum                    'Ce2 S5 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            La~2~GeS~5~,mP32,14
+_chemical_formula_weight                 468.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, Structures, and Optical Properties of Yellow Ce~2~SiS~5~, Ce~6~Si~4~S~17~, and Ce~4~Si~3~S~13~ Materials
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2003
+_journal_volume                          15
+_journal_page_first                      828
+_journal_page_last                       837
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gauthier G.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+'Jobic S.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+'Evain M.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+'Koo H.J.'
+;
+North Carolina Raleigh University
+Department of Chemistry
+Raleigh
+U.S.A. North Carolina
+;
+'Whangbo M.H.'
+;
+North Carolina Raleigh University
+Department of Chemistry
+Raleigh
+U.S.A. North Carolina
+;
+'Fouassier C.'
+;
+Pessac Bordeaux I University
+Institut de Chimie de la Mati\`ere Condens\'ee de Bordeaux
+Pessac
+France
+;
+'Brec R.'
+;
+Nantes University
+Institut des Mat\'eriaux Jean Rouxel
+Nantes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.5475
+_cell_length_b                           12.5581
+_cell_length_c                           7.8286
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.55
+_cell_angle_gamma                        90
+_cell_volume                             726.99
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Ce
+ Si
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S4 S 4 e 0.125 0.2947 0.191 1
+ S2 S 4 e 0.135 0.622 0.499 1
+ Ce2 Ce 4 e 0.1644 0.666 0.1341 1
+ S1 S 4 e 0.168 0.031 0.384 1
+ Ce1 Ce 4 e 0.2387 0.095 0.0463 1
+ Si Si 4 e 0.322 0.386 0.096 1
+ S5 S 4 e 0.522 0.2719 0.049 1
+ S3 S 4 e 0.585 -0.003 0.225 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.28
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    984
+_diffrn_reflns_theta_min                 3.97
+_diffrn_reflns_theta_max                 57
+_pd_proc_2theta_range_min                7.94
+_pd_proc_2theta_range_max                114
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             74
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0427
+_pd_proc_ls_proof_wR_factor              0.0547
+_refine_ls_R_I_factor                    0.0526
+
+# End of data set 1320199
+
+

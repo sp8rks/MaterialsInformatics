@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# C-Ca-Cs-F-O      # CsCa[CO3]F                                    # 1932945 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1932945
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1932945
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Ca [C O~3~] F'
+_chemical_formula_sum                    'C Ca Cs F O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            RbCa[CO~3~]F,hP21,189
+_chemical_formula_weight                 252.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Alkaline-alkaline earth fluoride carbonate crystals ABCO~3~F (A= K, Rb, Cs; B= Ca, Sr, Ba) as nonlinear optical materials
+;
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            2011
+_journal_volume                          133
+_journal_page_first                      20001
+_journal_page_last                       20007
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zou G.T.'
+;
+Chinese Academy of Sciences
+Key Laboratory of Optoelectronic Materials Chemistry and Physics
+Fuzhou / Fujian
+China
+;
+'Ye N.'
+;
+Chinese Academy of Sciences
+Key Laboratory of Optoelectronic Materials Chemistry and Physics
+Fuzhou / Fujian
+China
+;
+'Huang L.'
+;
+Chinese Academy of Sciences
+Key Laboratory of Optoelectronic Materials Chemistry and Physics
+Fuzhou / Fujian
+China
+;
+'Lin X.'
+;
+Chinese Academy of Sciences
+Key Laboratory of Optoelectronic Materials Chemistry and Physics
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.2999
+_cell_length_b                           9.2999
+_cell_length_c                           4.54
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             340.1
+_cell_formula_units_Z                    3
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ O
+ F
+ Cs
+ Ca
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 6 j 0.3118 0.5184 0 1
+ F1 F 3 g 0.3828 0 0.5 1
+ Cs1 Cs 3 g 0.72019 0 0.5 1
+ O1 O 3 f 0.1381 0 0 1
+ Ca3 Ca 3 f 0.3857 0 0 1
+ C1 C 2 c 0.333333 0.666667 0 1
+ C2 C 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.69
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1110
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Mercury'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2574
+_diffrn_reflns_theta_min                 2.53
+_diffrn_reflns_theta_max                 27.47
+_exptl_absorpt_coefficient_mu            9.202
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             28
+_refine_ls_number_reflns                 318
+_refine_ls_R_factor_gt                   0.0182
+_refine_ls_wR_factor_gt                  0.0448
+
+# End of data set 1932945
+
+

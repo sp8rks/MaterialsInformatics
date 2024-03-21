@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Cf-I-O           # Cf[IO3]3                                      # 1817388 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1817388
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1817388
+
+# Entry summary
+
+_chemical_formula_structural             'Cf [I O~3~]~3~'
+_chemical_formula_sum                    'Cf I3 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cf[IO~3~]~3~,mP52,14
+_chemical_formula_weight                 775.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+First Structural Determination of a Trivalent Californium Compound with Oxygen Coordination
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2006
+_journal_volume                          45
+_journal_page_first                      475
+_journal_page_last                       477
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sykora R.E.'
+;
+Oak Ridge National Laboratory
+Transuranium Research Laboratory
+Oak Ridge
+U.S.A. Tennessee
+;
+'Assefa Z.'
+;
+Oak Ridge National Laboratory
+Transuranium Research Laboratory
+Oak Ridge
+U.S.A. Tennessee
+;
+'Haire R.G.'
+;
+Oak Ridge National Laboratory
+Transuranium Research Laboratory
+Oak Ridge
+U.S.A. Tennessee
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.7994
+_cell_length_b                           5.9388
+_cell_length_c                           16.596
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.933
+_cell_angle_gamma                        90
+_cell_volume                             786.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ I
+ Cf
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O7 O 4 e 0.0648 0.049 0.1999 1
+ I3 I 4 e 0.07042 0.3102 0.3512 1
+ O9 O 4 e 0.0923 0.604 0.1701 1
+ O8 O 4 e 0.0992 0.399 0.4615 1
+ Cf Cf 4 e 0.14095 0.26918 0.10116 1
+ O4 O 4 e 0.3422 0.3144 0.255 1
+ O3 O 4 e 0.3523 0.076 0.445 1
+ I1 I 4 e 0.35528 0.6421 0.02152 1
+ O6 O 4 e 0.3658 0.001 0.1335 1
+ O1 O 4 e 0.3961 0.469 0.1185 1
+ I2 I 4 e 0.58145 0.0918 0.19828 1
+ O5 O 4 e 0.6561 0.085 0.1122 1
+ O2 O 4 e 0.8677 0.392 0.0098 1
+
+
+_exptl_crystal_colour                    'green pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.55
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    6261
+_diffrn_reflns_theta_min                 2.55
+_diffrn_reflns_theta_max                 25.67
+_exptl_absorpt_coefficient_mu            22.574
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             113
+_refine_ls_number_reflns                 1493
+_refine_ls_R_factor_gt                   0.0401
+_refine_ls_wR_factor_gt                  0.0583
+
+# End of data set 1817388
+
+

@@ -1,0 +1,129 @@
+##############################################################################
+#                                                                            #
+# B-Ba-H-O         # BaB2[OH]8[H2O]                                # 1401576 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1401576
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1401576
+
+# Entry summary
+
+_chemical_formula_structural             'Ba B~2~ [O H]~8~ [H~2~ O]'
+_chemical_formula_sum                    'B2 Ba H10 O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            BaB~2~[OH]~8~[H~2~O],mP48,14
+_chemical_formula_weight                 313.0
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of Ba[B(OH)~4~]~2~.H~2~O'                              
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1969
+_journal_volume                          25
+_journal_page_first                      1811
+_journal_page_last                       1816
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kutschabsky L.'
+;
+German Academy of Sciences
+Institut f\"ur Physikalische Chemie
+Berlin
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.949
+_cell_length_b                           8.535
+_cell_length_c                           15.157
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.31
+_cell_angle_gamma                        90
+_cell_volume                             751.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ Ba
+ B
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 OH 4 e 0.0153 0.5156 0.122 1
+ O7 OH 4 e 0.0476 0.2089 0.0596 1
+ Ba Ba 4 e 0.125 0.5237 0.7118 1
+ O4 OH 4 e 0.2117 0.4371 0.4515 1
+ O5 OH 4 e 0.2334 0.6584 0.2484 1
+ B1 B 4 e 0.2389 0.5986 0.1568 1
+ B2 B 4 e 0.2598 0.1739 0.0299 1
+ O9 OH2 4 e 0.2633 0.2808 0.2773 1
+ O8 OH 4 e 0.2815 0.7297 0.1003 1
+ O6 OH 4 e 0.3491 0.3198 0.0002 1
+ O2 OH 4 e 0.4237 0.4795 0.168 1
+ O3 OH 4 e 0.4181 0.0956 0.1051 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.75
+_exptl_crystal_density_diffrn            2.77
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            37.8
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.067
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1401576
+
+

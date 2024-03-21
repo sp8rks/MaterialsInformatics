@@ -1,0 +1,191 @@
+##############################################################################
+#                                                                            #
+# Ba-Cl-Co-O       # Ba5Co5ClO13                                   # 1001206 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1001206
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1001206
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~5~ Co~5~ Cl O~13~'
+_chemical_formula_sum                    'Ba5 Cl Co5 O13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~5~Co~5~ClO~13~,hP48,194
+_chemical_formula_weight                 1224.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, Crystal Structure, and Magnetic and Electric Properties of the Cross-Linked Chain Cobalt Oxychloride Ba~5~Co~5~ClO~13~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2001
+_journal_volume                          158
+_journal_page_first                      175
+_journal_page_last                       179
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yamaura K.'
+;
+New Jersey Princeton University
+Department of Chemistry
+Princeton
+U.S.A. New Jersey
+;
+'Young D.P.'
+;
+New Jersey Princeton University
+Department of Chemistry
+Princeton
+U.S.A. New Jersey
+;
+'Siegrist T.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Besnard C.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Svensson C.'
+;
+Lund University
+Inorganic Chemistry 2
+Lund
+Sweden
+;
+'Liu Y.'
+;
+Pennsylvania University Park University
+Department of Physics
+University Park
+U.S.A. Pennsylvania
+;
+'Cava R.J.'
+;
+New Jersey Princeton University
+Department of Chemistry
+Princeton
+U.S.A. New Jersey
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.698
+_cell_length_b                           5.698
+_cell_length_c                           24.469
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             688
+_cell_formula_units_Z                    2
+_space_group_IT_number                   194
+_space_group_name_H-M_alt                'P 63/m m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, 1/2-z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, 1/2+z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, 1/2+z'
+ 10 '-y, -x, 1/2-z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, 1/2-z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, 1/2-z'
+ 15 'x, x-y, z'
+ 16 'x, y, 1/2-z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, 1/2+z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, 1/2+z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, 1/2+z'
+ 23 'y, x, -z'
+ 24 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ba
+ Co
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 12 k 0.146 0.292 0.5508 1
+ O1 O 12 k 0.161 0.322 0.1496 1
+ Ba3 Ba 4 f 0.333333 0.666667 0.04003 1
+ Co2 Co 4 f 0.333333 0.666667 0.17671 1
+ Ba2 Ba 4 f 0.333333 0.666667 0.62896 1
+ Co1 Co 4 e 0 0 0.10286 1
+ Cl Cl 2 d 0.333333 0.666667 0.75 1
+ O3 O 2 c 0.333333 0.666667 0.25 1
+ Ba1 Ba 2 b 0 0 0.25 1
+ Co3 Co 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.91
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4684
+_exptl_absorpt_coefficient_mu            20.17
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             27
+_refine_ls_number_reflns                 342
+_refine_ls_R_factor_gt                   0.022
+_refine_ls_wR_factor_gt                  0.042
+
+# End of data set 1001206
+
+

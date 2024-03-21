@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# As-S             # AsS rea                                       # 1601308 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1601308
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1601308
+
+# Entry summary
+
+_chemical_formula_structural             'As S'
+_chemical_formula_sum                    'As S'
+_chemical_name_mineral                   realgar
+_chemical_compound_source
+'U.S.A. Nevada, Humboldt County, Getchell mine'                               
+_chemical_name_structure_type            AsS-a,mP32,14
+_chemical_formula_weight                 107.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Light-induced degradation dynamics in realgar: in situ structural investigation using single-crystal X-ray diffraction study and X-ray photoelectron spectroscopy
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            2005
+_journal_volume                          90
+_journal_page_first                      1563
+_journal_page_last                       1570
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kyono A.'
+;
+Tsukuba Ibaraki University
+Division of Earth Evolution Sciences
+Tsukuba / Ibaraki
+Japan
+;
+'Kimata M.'
+;
+Tsukuba Ibaraki University
+Division of Earth Evolution Sciences
+Tsukuba / Ibaraki
+Japan
+;
+'Hatta T.'
+;
+Japan International Research Center for Agricultural Sciences
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.59
+_cell_length_b                           13.563
+_cell_length_c                           9.777
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.811
+_cell_angle_gamma                        90
+_cell_volume                             799.5
+_cell_formula_units_Z                    16
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S4 S 4 e 0.0549 0.2897 0.1071 1
+ S2 S 4 e 0.0991 0.5234 0.2138 1
+ As3 As 4 e 0.1428 0.3736 0.3208 1
+ As4 As 4 e 0.3248 0.3391 0.0395 1
+ S1 S 4 e 0.3567 0.0064 0.156 1
+ As1 As 4 e 0.3576 0.5206 0.1211 1
+ As2 As 4 e 0.5678 0.3612 0.424 1
+ S3 S 4 e 0.5987 0.2739 0.238 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.56
+_cell_measurement_temperature            293(1)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7103
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              293(1)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7103
+_diffrn_reflns_number                    2616
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            17.52
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1783
+_refine_ls_R_factor_gt                   0.047
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1601308
+
+

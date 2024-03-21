@@ -1,0 +1,130 @@
+##############################################################################
+#                                                                            #
+# Cs-O-V           # CsV3O8                                        # 1903351 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1903351
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1903351
+
+# Entry summary
+
+_chemical_formula_structural             'Cs V~3~ O~8~'
+_chemical_formula_sum                    'Cs O8 V3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KV~3~O~8~,mP24,11
+_chemical_formula_weight                 413.7
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structures of potassium and cesium trivanadates'                 
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1966
+_journal_volume                          5
+_journal_page_first                      1808
+_journal_page_last                       1814
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Evans H.T. Jr.'
+;
+U.S. Geological Survey
+Washington
+U.S.A. Washington D.C.
+;
+'Block S.'
+;
+National Bureau of Standards (NBS)
+Washington
+U.S.A. Washington D.C.
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.988
+_cell_length_b                           8.519
+_cell_length_c                           8.176
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.3
+_cell_angle_gamma                        90
+_cell_volume                             345.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 f 0.0526 0.556 0.3166 1
+ O3 O 4 f 0.1807 0.0841 0.0029 1
+ O5 O 4 f 0.6074 0.1048 0.2188 1
+ V2 V 4 f 0.9311 0.0573 0.176 1
+ O2 O 2 e 0.0788 0.25 0.2412 1
+ V1 V 2 e 0.4105 0.25 0.0674 1
+ Cs Cs 2 e 0.4401 0.25 0.5553 1
+ O1 O 2 e 0.6124 0.25 0.9229 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.91(7)
+_exptl_crystal_density_diffrn            3.97
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             40
+_refine_ls_number_reflns                 723
+_refine_ls_R_factor_gt                   0.089
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1903351
+
+

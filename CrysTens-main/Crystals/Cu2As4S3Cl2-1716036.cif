@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# As-Cl-Cu-S       # Cu2As4S3Cl2                                   # 1716036 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1716036
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1716036
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ As~4~ S~3~ Cl~2~'
+_chemical_formula_sum                    'As4 Cl2 Cu2 S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~As~4~S~3~Cl~2~,mP22,11
+_chemical_formula_weight                 593.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Novel coordination modes for E~4~S~3~ cage molecules (E= P, As) in unprecedented quaternary As~4~S~3~(CuCl)~n~ (n= 1, 2) solid-state phases
+;
+_journal_coden_ASTM                      EJICFO
+_journal_name_full                       'Eur. J. Inorg. Chem.'
+_journal_year                            2008
+_journal_volume                          ?
+_journal_page_first                      5460
+_journal_page_last                       5463
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Schwarz P.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+'Wachter J.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+'Zabel M.'
+;
+Regensburg University
+Institut f\"ur Anorganische Chemie
+Regensburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.156
+_cell_length_b                           6.925
+_cell_length_c                           11.765
+_cell_angle_alpha                        90
+_cell_angle_beta                         103.1
+_cell_angle_gamma                        90
+_cell_volume                             488.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cu
+ As
+ S
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu1 Cu 4 f 0.05916 0.03755 0.68708 1
+ As3 As 4 f 0.23684 0.07005 0.10779 1
+ S2 S 4 f 0.3094 0.5011 0.29966 1
+ Cl1 Cl 2 e 0.1145 0.25 0.54642 1
+ Cl2 Cl 2 e 0.2084 0.25 0.85645 1
+ As1 As 2 e 0.49726 0.25 0.39582 1
+ As2 As 2 e 0.57526 0.25 0.09362 1
+ S1 S 2 e 0.7571 0.25 0.28408 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.04
+_cell_measurement_temperature            123
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54184
+_cell_measurement_reflns_used            1351
+_diffrn_ambient_temperature              123
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Oxford Diffraction Gemini Ultra'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54184
+_diffrn_reflns_number                    1960
+_diffrn_reflns_theta_min                 3.86
+_diffrn_reflns_theta_max                 66.76
+_exptl_absorpt_coefficient_mu            30.901
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             58
+_refine_ls_number_reflns                 803
+_refine_ls_R_factor_gt                   0.0384
+_refine_ls_wR_factor_gt                  0.1023
+
+# End of data set 1716036
+
+

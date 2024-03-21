@@ -1,0 +1,133 @@
+##############################################################################
+#                                                                            #
+# Co-O-P           # Co2[P2O7] rt                                  # 1120063 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1120063
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1120063
+
+# Entry summary
+
+_chemical_formula_structural             'Co~2~ [P~2~ O~7~]'
+_chemical_formula_sum                    'Co2 O7 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Mg~2~[P~2~O~7~],mP44,14
+_chemical_formula_weight                 291.8
+
+# Bibliographic data
+
+_publ_section_title
+'Rerefinement of cobalt diphosphate against new intensity data'               
+_journal_coden_ASTM                      ACSEBH
+_journal_name_full                       'Acta Crystallogr. E'
+_journal_year                            2002
+_journal_volume                          58
+_journal_page_first                      i32
+_journal_page_last                       i33
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'El Bali B.'
+;
+F\`es Dhar Mehraz Faculty of Sciences
+Laboratoire des Mat\'eriaux et Protection de l'Environnement
+F\`es
+Morocco
+;
+'Bolte M.'
+;
+Frankfurt Johann Wolfgang Goethe University
+Frankfurt am Main
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.0022
+_cell_length_b                           8.3634
+_cell_length_c                           9.0114
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.6
+_cell_angle_gamma                        90
+_cell_volume                             483.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.02338 0.09855 0.11835 1
+ P1 P 4 e 0.05958 0.23203 0.24176 1
+ O5 O 4 e 0.11294 0.38936 0.18888 1
+ O3 O 4 e 0.11902 0.74085 0.20267 1
+ Co1 Co 4 e 0.23247 0.57118 0.60884 1
+ O1 O 4 e 0.25092 0.17011 0.39995 1
+ Co2 Co 4 e 0.30067 0.55843 0.17525 1
+ O7 O 4 e 0.44656 0.1128 0.10251 1
+ P2 P 4 e 0.4683 0.27429 0.03229 1
+ O6 O 4 e 0.51914 0.40934 0.15569 1
+ O2 O 4 e 0.62152 0.23512 0.45062 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.01
+_cell_measurement_temperature            173(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            10799
+_diffrn_ambient_temperature              173(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    7237
+_exptl_absorpt_coefficient_mu            7.50
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             101
+_refine_ls_number_reflns                 1389
+_refine_ls_R_factor_gt                   0.024
+_refine_ls_wR_factor_gt                  0.049
+
+# End of data set 1120063
+
+

@@ -1,0 +1,201 @@
+##############################################################################
+#                                                                            #
+# Br-Cs-Se-Tc      # CsTc3Se4Br2                                   # 1631158 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1631158
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1631158
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Tc~3~ Se~4~ Br~2~'
+_chemical_formula_sum                    'Br2 Cs Se4 Tc3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsRe~3~Se~4~Br~2~,mP40,14
+_chemical_formula_weight                 902.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structures, and properties of new chalcogenide-capped octahedral hexatechnetium(III) complexes [Tc~6~S~8~X~6~]^4-^ (X= Br, I), [Tc~6~Se~8~I~2~], and [Tc~6~Te~15~]
+;
+_journal_coden_ASTM                      EJICFO
+_journal_name_full                       'Eur. J. Inorg. Chem.'
+_journal_year                            2010
+_journal_volume                          ?
+_journal_page_first                      1214
+_journal_page_last                       1219
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yoshimura T.'
+;
+Toyonaka Osaka University
+Department of Chemistry
+Toyonaka / Osaka
+Japan
+;
+'Takahashi N.'
+;
+Toyonaka Osaka University
+Department of Chemistry
+Toyonaka / Osaka
+Japan
+;
+'Shinohara A.'
+;
+Toyonaka Osaka University
+Department of Chemistry
+Toyonaka / Osaka
+Japan
+;
+'Ikai T.'
+;
+Toyonaka Osaka University
+Department of Chemistry
+Toyonaka / Osaka
+Japan
+;
+'Tooyama Y.'
+;
+Toyonaka Osaka University
+Department of Chemistry
+Toyonaka / Osaka
+Japan
+;
+'Takayama T.'
+;
+Nagoya Aichi Daido University
+Department of Chemistry
+Nagoya / Aichi
+Japan
+;
+'Sekine T.'
+;
+Sendai Miyagi Tohoku University
+Center for the Advancement of Higher Education
+Sendai / Miyagi
+Japan
+;
+'Kino Y.'
+;
+Sendai Miyagi Tohoku University
+Department of Chemistry
+Sendai / Miyagi
+Japan
+;
+'Kirishima A.'
+;
+Sendai Miyagi Tohoku University
+Institute of Multidisciplinary Research for Advanced Materials
+Sendai / Miyagi
+Japan
+;
+'Sato N.K.'
+;
+Sendai Miyagi Tohoku University
+Institute of Multidisciplinary Research for Advanced Materials
+Sendai / Miyagi
+Japan
+;
+'Mitsugashira T.'
+;
+Oarai Ibaraki Tohoku University
+Institute of Materials Research
+Oarai / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.549
+_cell_length_b                           18.749
+_cell_length_c                           9.9668
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.671
+_cell_angle_gamma                        90
+_cell_volume                             1103
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Br
+ Tc
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se3 Se 4 e 0.0146 0.0159 0.2023 1
+ Br2 Br 4 e 0.0891 0.3557 0.1312 1
+ Br1 Br 4 e 0.1786 0.6966 0.2492 1
+ Se1 Se 4 e 0.2583 0.1355 0.0266 1
+ Tc3 Tc 4 e 0.2836 0.0046 0.072 1
+ Tc2 Tc 4 e 0.3237 0.4401 0.3431 1
+ Se4 Se 4 e 0.3982 0.5233 0.1743 1
+ Cs1 Cs 4 e 0.4501 0.1897 0.4473 1
+ Tc1 Tc 4 e 0.6435 0.0806 0.1107 1
+ Se2 Se 4 e 0.6783 0.3739 0.3859 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.44
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              296
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC7R'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2835
+_exptl_absorpt_coefficient_mu            27.326
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             91
+_refine_ls_number_reflns                 1282
+_refine_ls_R_factor_gt                   0.0900
+_refine_ls_wR_factor_gt                  0.2898
+
+# End of data set 1631158
+
+

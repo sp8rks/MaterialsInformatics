@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# Al-Cl-Te         # Al2Te2Cl7                                     # 1140560 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1140560
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1140560
+
+# Entry summary
+
+_chemical_formula_structural             'Al~2~ Te~2~ Cl~7~'
+_chemical_formula_sum                    'Al2 Cl7 Te2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Al~2~Te~2~Cl~7~,mP44,14
+_chemical_formula_weight                 557.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Substitution of conventional high-temperature syntheses of inorganic compounds by near-room-temperature syntheses in ionic liquids
+;
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2013
+_journal_volume                          68
+_journal_page_first                      1108
+_journal_page_last                       1122
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Groh M.F.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+'M\"uller U.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+'Ahmed E.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+'Rothenberger A.'
+;
+Thuwal King Abdullah University of Science and Technology
+Solar and Photovoltaics Engineering Research Center
+Thuwal
+Saudi Arabia
+;
+'Ruck M.'
+;
+Dresden University of Technology (TUD)
+Fachrichtung Chemie und Lebensmittelchemie
+Dresden
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.15
+_cell_length_b                           11.19
+_cell_length_c                           13.09
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.
+_cell_angle_gamma                        90
+_cell_volume                             1340.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Te
+ Cl
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Te1 Te 4 e 0.0635 0.1553 0.0315 1
+ Cl7 Cl 4 e 0.136 0.4177 0.199 1
+ Cl2 Cl 4 e 0.17 0.122 0.336 1
+ Te2 Te 4 e 0.1796 0.5626 0.5449 1
+ Cl5 Cl 4 e 0.191 0.6367 0.008 1
+ Cl6 Cl 4 e 0.222 0.7174 0.261 1
+ Al2 Al 4 e 0.233 0.58 0.151 1
+ Al1 Al 4 e 0.383 0.175 0.295 1
+ Cl1 Cl 4 e 0.41 0.171 0.13 1
+ Cl3 Cl 4 e 0.449 0.3338 0.361 1
+ Cl4 Cl 4 e 0.523 0.0312 0.353 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.76
+_cell_measurement_temperature            296(1)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              296(1)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    581
+_exptl_absorpt_coefficient_mu            5.8
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             100
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.146
+_refine_ls_wR_factor_gt                  0.086
+
+# End of data set 1140560
+
+

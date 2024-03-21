@@ -1,0 +1,195 @@
+##############################################################################
+#                                                                            #
+# Ag-Ni-O          # Ag2NiO2 lt mon                                # 1940297 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1940297
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1940297
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ Ni O~2~'
+_chemical_formula_sum                    'Ag2 Ni O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~NiO~2~,mS10,12
+_chemical_formula_weight                 306.4
+
+# Bibliographic data
+
+_publ_section_title
+'Magnetic structure of the metallic triangular antiferromagnet Ag~2~NiO~2~'   
+_journal_coden_ASTM                      JCOMEL
+_journal_name_full                       'J. Phys.: Condens. Matter'
+_journal_year                            2013
+_journal_volume                          25
+_journal_page_first                      1
+_journal_page_last                       6
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nozaki H.'
+;
+Toyota Central Research and Development Laboratories Inc.
+Nagakute / Aichi
+Japan
+;
+'Hiroi Z.'
+;
+Kashiwa Chiba Tokyo University
+Institute for Solid State Physics
+Kashiwa / Chiba
+Japan
+;
+'Sugiyama J.'
+;
+Toyota Central Research and Development Laboratories Inc.
+Nagakute / Aichi
+Japan
+;
+'Mansson M.'
+;
+Paul Scherrer Institute
+Laboratory for Neutron Scattering
+Villigen
+Switzerland
+;
+'Roessli B.'
+;
+Paul Scherrer Institute
+Laboratory for Neutron Scattering
+Villigen
+Switzerland
+;
+'Pomjakushin V.Y.'
+;
+Paul Scherrer Institute
+Laboratory for Neutron Scattering
+Villigen
+Switzerland
+;
+'Kamazawa K.'
+;
+Toyota Central Research and Development Laboratories Inc.
+Nagakute / Aichi
+Japan
+;
+'Ikedo Y.'
+;
+Toyota Central Research and Development Laboratories Inc.
+Nagakute / Aichi
+Japan
+;
+'Fischer H.E.'
+;
+Institut Laue-Langevin
+Grenoble
+France
+;
+'Hansen T.C.'
+;
+Grenoble Laue-Langevin Institute
+Institut Laue-Langevin
+Grenoble
+France
+;
+'Yoshida H.'
+;
+Kashiwa Chiba Tokyo University
+Institute for Solid State Physics
+Kashiwa / Chiba
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.0421
+_cell_length_b                           2.9154
+_cell_length_c                           8.1849
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.491
+_cell_angle_gamma                        90
+_cell_volume                             117.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ag
+ O
+ Ni
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag Ag 4 i 0.217 0 0.6411 1
+ O O 4 i 0.378 0 0.1277 1
+ Ni Ni 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.63
+_cell_measurement_temperature            5
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             2.421
+_pd_proc_wavelength                      2.421
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              5
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D20'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             2.421
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.0536
+_refine_ls_R_I_factor                    0.0168
+
+# End of data set 1940297
+
+

@@ -1,0 +1,192 @@
+##############################################################################
+#                                                                            #
+# As-S             # AsS ht                                        # 2080002 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2080002
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2080002
+
+# Entry summary
+
+_chemical_formula_structural             'As S'
+_chemical_formula_sum                    'As S'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AsS,mS32,15
+_chemical_formula_weight                 107.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Light-induced variations in realgar and \b-As~4~S~4~: X-ray diffraction and Raman studies
+;
+_journal_coden_ASTM                      AMMIAY
+_journal_name_full                       'Am. Mineral.'
+_journal_year                            1996
+_journal_volume                          81
+_journal_page_first                      874
+_journal_page_last                       880
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bonazzi P.'
+;
+Florence University
+Dipartimento di Scienze della Terra
+Florence
+Italy
+;
+'Menchetti S.'
+;
+Florence University
+Dipartimento di Scienze della Terra
+Florence
+Italy
+;
+'Pratesi G.'
+;
+Florence University
+Dipartimento di Scienze della Terra
+Florence
+Italy
+;
+'Muniz Miranda M.'
+;
+Florence University
+Dipartimento di Chimica
+Florence
+Italy
+;
+'Sbrana G.'
+;
+Consiglio Nazionale delle Ricerche (CNR)
+Centro Composti Eterociclici
+Florence
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.757
+_cell_length_b                           9.512
+_cell_length_c                           9.089
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.97
+_cell_angle_gamma                        90
+_cell_volume                             828.12
+_cell_formula_units_Z                    16
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ As
+ S
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As1 As 8 f 0.0012 0.2058 0.4449 1
+ As2 As 8 f 0.1599 0.4012 0.3739 1
+ S1 S 8 f 0.2015 0.3048 0.1594 1
+ S2 S 4 e 0 0.0531 0.25 1
+ S3 S 4 e 0 0.5522 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.43
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 67.7 30
+ ? ? ? 65 5
+ 1 1 -1 57.8 100
+ 1 1 1 50.7 70
+ 2 0 0 48 20
+ 0 2 1 42 10
+ 1 1 -2 39.8 35
+ 1 1 2 35.1 10
+ 2 2 0 33.8 5
+ 2 2 -1 33 10
+ 0 2 2 32.5 30
+ ? ? ? 32 5
+ 3 1 0 30.3 80
+ 2 0 2 29.96 15
+ 1 3 -1 29.07 15
+ 2 2 -2 28.86 50
+ 1 1 -3 28.66 20
+ 1 1 3 25.96 10
+ 2 2 2 25.35 1
+ 1 3 2 24.27 5
+ 4 0 0 23.96 5
+ 3 3 -1 22.52 5
+ 1 3 -3 21.84 5
+ 3 3 -2 21.25 1
+ 3 3 -3 19.23 1
+ 4 2 2 18.11 1
+
+# End of data set 2080002
+
+

@@ -1,0 +1,166 @@
+##############################################################################
+#                                                                            #
+# Ag-Ba-In-S       # Ba2AgInS4                                     # 1021502 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1021502
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1021502
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Ag In S~4~'
+_chemical_formula_sum                    'Ag Ba2 In S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~AgInS~4~,mP32,14
+_chemical_formula_weight                 625.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ba~2~AgInS~4~ and Ba~4~MGa~5~Se~12~ (M= Ag, Li): Syntheses, structures, and optical properties
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2012
+_journal_volume                          41
+_journal_page_first                      2272
+_journal_page_last                       2276
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yin W.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Feng K.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Mei D.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Yao J.L.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Fu P.Z.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Wu Y.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.343
+_cell_length_b                           7.258
+_cell_length_c                           14.544
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.8
+_cell_angle_gamma                        90
+_cell_volume                             843.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ba
+ S
+ In
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba1 Ba 4 e 0.05506 0.34369 0.35764 1
+ S1 S 4 e 0.10119 0.7434 0.46962 1
+ In In 4 e 0.18682 0.31889 0.12252 1
+ S2 S 4 e 0.2447 0.5756 0.2333 1
+ S3 S 4 e 0.256 0.0771 0.2531 1
+ S4 S 4 e 0.38154 0.2495 0.02863 1
+ Ba2 Ba 4 e 0.55529 0.34201 0.36414 1
+ Ag Ag 4 e 0.67786 0.36708 0.10066 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.93
+_cell_measurement_temperature            93(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            3051
+_diffrn_ambient_temperature              93(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC10'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    7051
+_diffrn_reflns_theta_min                 2.55
+_diffrn_reflns_theta_max                 29.09
+_exptl_absorpt_coefficient_mu            15.095
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             73
+_refine_ls_number_reflns                 1825
+_refine_ls_R_factor_gt                   0.0358
+_refine_ls_wR_factor_gt                  0.0785
+
+# End of data set 1021502
+
+

@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-H-O-U      # CsUCl4[H2O]3                                  # 1321798 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1321798
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1321798
+
+# Entry summary
+
+_chemical_formula_structural             'Cs U Cl~4~ [H~2~ O]~3~'
+_chemical_formula_sum                    'Cl4 Cs H6 O3 U'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsUCl~4~[H~2~O]~3~,mP18,11
+_chemical_formula_weight                 566.8
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of CsUCl~4~.3H~2~O'                                        
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1991
+_journal_volume                          175
+_journal_page_first                      347
+_journal_page_last                       352
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kr\"amer K.W.'
+;
+Hannover Gottfried Wilhelm Leibniz University
+Institut f\"ur Anorganische Chemie
+Hannover
+Germany
+;
+'Meyer G.'
+;
+Hannover Gottfried Wilhelm Leibniz University
+Institut f\"ur Anorganische Chemie
+Hannover
+Germany
+;
+'Karbowiak M.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+'Droydzynski J.'
+;
+Wroclaw University (UWroc)
+Faculty of Chemistry
+Wroclaw
+Poland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.116
+_cell_length_b                           8.672
+_cell_length_c                           8.071
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.28
+_cell_angle_gamma                        90
+_cell_volume                             491.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cl
+ Cs
+ OH2
+ U
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl1 Cl 4 f 0.2732 0.5318 0.5414 1
+ Cl2 Cl 4 f 0.2832 0.0259 0.1111 1
+ Cs Cs 2 e 0.0487 0.25 0.7829 1
+ O2 OH2 2 e 0.0599 0.25 0.354 1
+ U U 2 e 0.41657 0.25 0.36901 1
+ O1 OH2 2 e 0.4886 0.25 0.6905 1
+ O3 OH2 2 e 0.6397 0.25 0.1482 1
+
+
+_exptl_crystal_colour                    'brown red dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.83
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens-STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    6407
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 40
+_exptl_absorpt_coefficient_mu            20.223
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 3116
+_refine_ls_R_factor_gt                   0.071
+_refine_ls_wR_factor_gt                  0.053
+
+# End of data set 1321798
+
+

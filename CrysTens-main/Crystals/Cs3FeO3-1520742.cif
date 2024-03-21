@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# Cs-Fe-O          # Cs3FeO3                                       # 1520742 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1520742
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1520742
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~3~ Fe O~3~'
+_chemical_formula_sum                    'Cs3 Fe O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~3~FeO~3~,mP28,14
+_chemical_formula_weight                 502.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Cs~6~[Fe~2~O~6~] and Rb~4~[Fe~2~O~5~]: New oxoferrates(III) with edge sharing FeO~4~ tetrahedra
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            2005
+_journal_volume                          220
+_journal_page_first                      135
+_journal_page_last                       141
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Frisch G.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'R\"ohr C.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.246
+_cell_length_b                           12.121
+_cell_length_c                           7.676
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.03
+_cell_angle_gamma                        90
+_cell_volume                             651.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cs
+ O
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs(3) Cs 4 e 0.01878 0.23964 0.41449 1
+ O(1) O 4 e 0.1198 0.5325 0.3974 1
+ Fe(1) Fe 4 e 0.15249 0.00786 0.14786 1
+ O(2) O 4 e 0.2923 0.1331 0.2286 1
+ Cs(2) Cs 4 e 0.33513 0.49005 0.133 1
+ Cs(1) Cs 4 e 0.54404 0.20584 0.00175 1
+ O(3) O 4 e 0.7518 0.3903 0.2057 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.13
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    10012
+_diffrn_reflns_theta_min                 2.3
+_diffrn_reflns_theta_max                 27.5
+_exptl_absorpt_coefficient_mu            25.438
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             65
+_refine_ls_number_reflns                 1050
+_refine_ls_R_factor_gt                   0.0272
+_refine_ls_wR_factor_gt                  0.0557
+
+# End of data set 1520742
+
+

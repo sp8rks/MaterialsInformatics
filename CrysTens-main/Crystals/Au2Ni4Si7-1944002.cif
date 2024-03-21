@@ -1,0 +1,121 @@
+##############################################################################
+#                                                                            #
+# Au-Ni-Si         # Au2Ni4Si7                                     # 1944002 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1944002
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1944002
+
+# Entry summary
+
+_chemical_formula_structural             'Au~2~ Ni~4~ Si~7~'
+_chemical_formula_sum                    'Au2 Ni4 Si7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Au~2~Ni~4~Si~7~,mS26,12
+_chemical_formula_weight                 825.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+AuNi~3~Si~6~ and Au~2~Ni~4~Si~7~: Two new structure types related to the CaF~2~-type structure
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2015
+_journal_volume                          641
+_journal_page_first                      1428
+_journal_page_last                       1434
+_journal_language                        English
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.786
+_cell_length_b                           3.777
+_cell_length_c                           7.979
+_cell_angle_alpha                        90
+_cell_angle_beta                         109.92
+_cell_angle_gamma                        90
+_cell_volume                             362.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ni
+ Si
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ni2 Ni 4 i 0.00557 0 0.1666 1
+ Si3 Si 4 i 0.1548 0 0.7594 1
+ Si1 Si 4 i 0.1648 0 0.4234 1
+ Au Au 4 i 0.19385 0 0.09278 1
+ Ni1 Ni 4 i 0.34395 0 0.4109 1
+ Si2 Si 4 i 0.5049 0 0.3344 1
+ Si4 Si 2 b 0 0.5 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.57
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    2820
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            51.6
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             42
+_refine_ls_number_reflns                 872
+_refine_ls_R_factor_gt                   0.036
+_refine_ls_wR_factor_gt                  0.091
+
+# End of data set 1944002
+
+

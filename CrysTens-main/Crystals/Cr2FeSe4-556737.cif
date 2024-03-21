@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Cr-Fe-Se         # Cr2FeSe4                                      #  556737 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_556737
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      556737
+
+# Entry summary
+
+_chemical_formula_structural             'Cr Fe~2~ Se~4~'
+_chemical_formula_sum                    'Cr Fe2 Se4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Mo~2~CoS~4~,mS14,12
+_chemical_formula_weight                 479.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Etude structurale de nouveaux s\'el\'eniures ternaires MM'~2~Se~4~
+;
+_journal_coden_ASTM                      COREAF
+_journal_name_full                       'C. R. Hebd. Seances Acad. Sci.'
+_journal_year                            1965
+_journal_volume                          261
+_journal_page_first                      2202
+_journal_page_last                       2204
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'B\'erodias G.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Chimie Appliqu\'ee
+Villeurbanne
+France
+;
+'Chevreton M.'
+;
+Villeurbanne Lyon I Claude Bernard University
+Laboratoire de Chimie Appliqu\'ee
+Villeurbanne
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.9869
+_cell_length_b                           3.57
+_cell_length_c                           6.22
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.055
+_cell_angle_gamma                        90
+_cell_volume                             256.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Se
+ Fe
+ Cr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 i 0.1045 0 0.4411 1
+ Fe1 Fe 4 i 0.2569 0 0.3095 1
+ Se2 Se 4 i 0.3622 0 0.0228 1
+ Cr1 Cr 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.20
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 556737
+
+

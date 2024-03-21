@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# B-Cd-F-O         # Cd5[BO3]3F                                    # 1940740 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1940740
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1940740
+
+# Entry summary
+
+_chemical_formula_structural             'Cd~5~ [B O~3~]~3~ F'
+_chemical_formula_sum                    'B3 Cd5 F O9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~5~[BO~3~]~3~F,mS36,8
+_chemical_formula_weight                 757.5
+_chemical_melting_point                  1273
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis, structure, and characterization of a new promising nonlinear optical crystal: Cd~5~(BO~3~)~3~F
+;
+_journal_coden_ASTM                      CRECF4
+_journal_name_full                       CrystEngComm
+_journal_year                            2013
+_journal_volume                          15
+_journal_page_first                      2422
+_journal_page_last                       2427
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Zou G.T.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Zhang L.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+'Ye N.'
+;
+Chinese Academy of Sciences
+Fujian Institute of Research on the Structure of Matter
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.057
+_cell_length_b                           15.966
+_cell_length_c                           3.447
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.06
+_cell_angle_gamma                        90
+_cell_volume                             436.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   8
+_space_group_name_H-M_alt                'C 1 m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cd
+ O
+ B
+ F
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cd3 Cd 4 b 0.05333 0.17585 0.0455 1
+ O5 O 4 b 0.0803 0.3272 0.275 1
+ B1 B 4 b 0.2362 0.3045 0.468 1
+ O1 O 4 b 0.2459 0.2294 0.66 1
+ O2 O 4 b 0.2607 0.0754 0.155 1
+ O3 O 4 b 0.3763 0.3563 0.479 1
+ Cd2 Cd 4 b 0.43063 0.11946 0.7184 1
+ O4 O 2 a 0.0 0 0.0 1
+ B2 B 2 a 0.1742 0 0.109 1
+ F1 F 2 a 0.605 0 0.806 1
+ Cd1 Cd 2 a 0.8161 0 0.4173 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.76
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            672
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku Mercury'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1663
+_diffrn_reflns_theta_min                 4.61
+_diffrn_reflns_theta_max                 27.47
+_exptl_absorpt_coefficient_mu            12.031
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             75
+_refine_ls_number_reflns                 822
+_refine_ls_R_factor_gt                   0.0346
+_refine_ls_wR_factor_gt                  0.0736
+
+# End of data set 1940740
+
+

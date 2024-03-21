@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Ce-N-P           # Ce2P3N7 hp                                    # 1644688 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1644688
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1644688
+
+# Entry summary
+
+_chemical_formula_structural             'Ce~2~ P~3~ N~7~'
+_chemical_formula_sum                    'Ce2 N7 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ce~2~P~3~N~7~,mS48,15
+_chemical_formula_weight                 471.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+High-pressure synthesis of melilite-type rare-earth nitridophosphates R~2~P~3~N~7~ and a Ba~2~Cu[Si~2~O~7~]-type polymorph
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2016
+_journal_volume                          55
+_journal_page_first                      9400
+_journal_page_last                       9409
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kloss S.D.'
+;
+Munich Ludwig Maximilian University
+Department Chemie
+Munich
+Germany
+;
+'Weidmann N.'
+;
+Munich Ludwig Maximilian University
+Department Chemie
+Munich
+Germany
+;
+'Niklaus R.'
+;
+Munich Ludwig Maximilian University
+Department Chemie
+Munich
+Germany
+;
+'Schnick W.'
+;
+Munich Ludwig Maximilian University
+Department Chemie
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.8008
+_cell_length_b                           10.265
+_cell_length_c                           7.7868
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.08
+_cell_angle_gamma                        90
+_cell_volume                             581.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ P
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N2 N 8 f 0.1069 0.1198 0.1349 1
+ P2 P 8 f 0.11411 0.27395 0.13412 1
+ Ce1 Ce 8 f 0.22642 0.04233 0.47871 1
+ N3 N 8 f 0.3235 0.3387 0.2295 1
+ N4 N 8 f 0.4716 0.1505 0.0697 1
+ N1 N 4 e 0 0.3475 0.25 1
+ P1 P 4 e 0 0.74318 0.25 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.38
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            5348
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS I'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    4345
+_diffrn_reflns_theta_min                 3.741
+_diffrn_reflns_theta_max                 32.519
+_exptl_absorpt_coefficient_mu            16.203
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 976
+_refine_ls_R_factor_gt                   0.0189
+_refine_ls_wR_factor_gt                  0.0410
+
+# End of data set 1644688
+
+

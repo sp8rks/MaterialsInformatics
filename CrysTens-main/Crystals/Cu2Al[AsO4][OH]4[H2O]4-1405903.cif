@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# Al-As-Cu-H-O     # Cu2Al[AsO4][OH]4[H2O]4                        # 1405903 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1405903
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1405903
+
+# Entry summary
+
+_chemical_formula_structural
+'Cu~2~ Al [As O~4~] [O H]~4~ [H~2~ O]~4~'                                     
+_chemical_formula_sum                    'Al As Cu2 H12 O12'
+_chemical_name_mineral                   liroconite
+_chemical_compound_source
+'United Kingdom, England, Roughton Gill'                                      
+_chemical_name_structure_type
+Cu~2~Al[AsO~4~][OH]~4~[H~2~O]~4~,mS64,15                                      
+_chemical_formula_weight                 433.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Refinement of the Structure of Liroconite, a Heteropolyhedral Framework Oxysalt Mineral
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1991
+_journal_volume                          47
+_journal_page_first                      916
+_journal_page_last                       919
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Burns P.C.'
+;
+Winnipeg Manitoba University
+Department of Geological Sciences
+Winnipeg
+Canada
+;
+'Eby R.K.'
+;
+Winnipeg Manitoba University
+Department of Geological Sciences
+Winnipeg
+Canada
+;
+'Hawthorne F.C.'
+;
+Winnipeg Manitoba University
+Department of Geological Sciences
+Winnipeg
+Canada
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.9022
+_cell_length_b                           7.563
+_cell_length_c                           9.914
+_cell_angle_alpha                        90
+_cell_angle_beta                         127.235
+_cell_angle_gamma                        90
+_cell_volume                             949.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ Cu
+ OH
+ O
+ As
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ OW1 OH2 8 f 0.0657 0.1305 0.1562 1
+ Cu Cu 8 f 0.1191 0.47187 0.13936 1
+ OW2 OH2 8 f 0.1396 0.2578 0.5102 1
+ OH1 OH 8 f 0.2256 0.3459 0.1492 1
+ OH2 OH 8 f 0.291 0.0262 0.1181 1
+ O1 O 8 f 0.3942 0.3301 0.1505 1
+ O2 O 8 f 0.4957 0.0766 0.1077 1
+ As As 4 e 0 0.7043 0.25 1
+ Al Al 4 c 0.25 0.25 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.03
+_cell_measurement_temperature            297
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              297
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet R3m'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1386
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            8.49
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution
+'starting values derived from related structure, Fourier synthesis'           
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1215
+_refine_ls_R_factor_gt                   0.027
+_refine_ls_wR_factor_gt                  0.027
+
+# End of data set 1405903
+
+

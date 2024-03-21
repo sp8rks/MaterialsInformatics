@@ -1,0 +1,171 @@
+##############################################################################
+#                                                                            #
+# C-Ca-H-Mn-O-S    # Ca3Mn[CO3][SO4][OH]6[H2O]12                   # 1232024 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1232024
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1232024
+
+# Entry summary
+
+_chemical_formula_structural
+'Ca~3~ Mn [C O~3~] [S O~4~] [O H]~6~ [H~2~ O]~12~'                            
+_chemical_formula_sum                    'C Ca3 H30 Mn O25 S'
+_chemical_name_mineral                   jouravskite
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Ca~3~Mn[CO~3~][SO~4~][OH]~6~[H~2~O]~12~,hP62,173                              
+_chemical_formula_weight                 649.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and structural characterisation of new ettringite and thaumasite type phases: Ca~6~[Ga(OH)~6~.12H~2~O]~2~(SO~4~)~3~.2H~2~O and Ca~6~[M(OH)~6~.12H~2~O]~2~(SO~4~)~2~(CO~3~)~2~, M= Mn, Sn
+;
+_journal_coden_ASTM                      SSSCFJ
+_journal_name_full                       'Solid State Sci.'
+_journal_year                            2013
+_journal_volume                          25
+_journal_page_first                      110
+_journal_page_last                       117
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Norman R.L.'
+;
+Loughborough University
+Department of Chemistry
+Loughborough
+United Kingdom
+;
+'Dann S.E.'
+;
+Loughborough University
+Department of Chemistry
+Loughborough
+United Kingdom
+;
+'Hogg S.C.'
+;
+Loughborough University
+Department of Materials
+Loughborough
+United Kingdom
+;
+'Kirk C.A.'
+;
+Loughborough University
+Department of Chemistry
+Loughborough
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.071
+_cell_length_b                           11.071
+_cell_length_c                           10.578
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             1122.81
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ OH
+ Ca
+ O
+ S
+ C
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 OH2 6 c 0.014 0.313 0.425 1
+ O8 OH 6 c 0.118 0.12 0.13 1
+ O7 OH 6 c 0.152 0.152 0.408 1
+ Ca1 Ca 6 c 0.201 0.004 0.237 1
+ O1 OH2 6 c 0.234 0.398 0.277 1
+ O4 OH2 6 c 0.361 0.022 0.065 1
+ O2 OH2 6 c 0.406 0.248 0.252 1
+ O6 O 6 c 0.624 0.174 0.463 1
+ O5 O 6 c 0.623 0.20088 0.04591 1
+ S1 S 2 b 0.333333 0.666667 0.02018 1
+ O9 O 2 b 0.333333 0.666667 0.159 1
+ C1 C 2 b 0.333333 0.666667 0.5417 1
+ Mn1 Mn 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.92
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.826262
+_pd_proc_wavelength                      0.826262
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'United Kingdom, Didcot, Diamond Light Source, I11 beamline, HRPD'            
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.826262
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 75
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                150
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.0701
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1232024
+
+

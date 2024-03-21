@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Ag-Mo-O          # Ag2Mo2O7 mon                                  # 1710924 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1710924
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1710924
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ Mo~2~ O~7~'
+_chemical_formula_sum                    'Ag2 Mo2 O7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~Mo~2~O~7~,mP44,14
+_chemical_formula_weight                 519.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+A novel three-dimensional inorganic open-framework constructed from [Mo~4~O~16~]~n~(8n-) chains linked through Ag^+^
+;
+_journal_coden_ASTM                      JHUADF
+_journal_name_full                       'Jiegou Huaxue'
+_journal_year                            2005
+_journal_volume                          24
+_journal_page_first                      1452
+_journal_page_last                       1456
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Guo H.X.'
+;
+Fuzhou Fujian University
+Department of Chemistry
+Fuzhou / Fujian
+China
+;
+'Liu S.X.'
+;
+Fuzhou Fujian University
+Department of Chemistry
+Fuzhou / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.1274
+_cell_length_b                           13.1836
+_cell_length_c                           7.878
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.673
+_cell_angle_gamma                        90
+_cell_volume                             595.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Mo
+ O
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Mo2 Mo 4 e 0.02964 0.00634 0.30201 1
+ O5 O 4 e 0.0608 0.4319 0.3907 1
+ Ag2 Ag 4 e 0.07418 0.76933 0.03401 1
+ O3 O 4 e 0.0971 0.6235 0.2691 1
+ O4 O 4 e 0.1802 0.4566 0.0852 1
+ O6 O 4 e 0.3361 0.2674 0.0287 1
+ O2 O 4 e 0.354 0.0415 0.3462 1
+ Ag1 Ag 4 e 0.46667 0.09661 0.10535 1
+ Mo1 Mo 4 e 0.48219 0.37926 0.10402 1
+ O1 O 4 e 0.5611 0.3775 0.3397 1
+ O7 O 4 e 0.7565 0.3628 0.0729 1
+
+
+_exptl_crystal_colour                    'brown dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.80
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku R-AXIS RAPID'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5489
+_diffrn_reflns_theta_min                 3.09
+_diffrn_reflns_theta_max                 27.48
+_exptl_absorpt_coefficient_mu            10.579
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             101
+_refine_ls_number_reflns                 1268
+_refine_ls_R_factor_gt                   0.0204
+_refine_ls_wR_factor_gt                  0.0477
+
+# End of data set 1710924
+
+

@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Ag-Hg-O-V        # AgHg[VO4]                                     # 1321669 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1321669
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1321669
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Hg [V O~4~]'
+_chemical_formula_sum                    'Ag Hg O4 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AgHg[VO~4~],mS28,5
+_chemical_formula_weight                 423.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal Single-Crystal Growth in the Systems Ag/Hg/X/O (X= V(V), As(V)): Crystal Structures of (Ag~3~Hg)VO~4~, (Ag~2~Hg~2~)~3~(VO~4~)~4~, and (Ag~2~Hg~2~)(HgO~2~)(AsO~4~)~2~ with the Unusual Tetrahedral Cluster Cations (As~3~Hg)^3+^ and (Ag~2~Hg~2~)^4+^ and^3^
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2005
+_journal_volume                          44
+_journal_page_first                      1443
+_journal_page_last                       1451
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Weil M.'
+;
+Vienna Technical University
+Institut f\"ur Chemische Technologie und Analytik
+Vienna
+Austria
+;
+'Tillmanns E.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+'Pushcharovskii D.Y.'
+;
+Moscow M.V. Lomonosov State University
+Department of Geology
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.9407
+_cell_length_b                           5.573
+_cell_length_c                           7.121
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.561
+_cell_angle_gamma                        90
+_cell_volume                             393.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Ag
+ O
+ V
+ Hg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag Ag 4 c 0.13903 0.4997 0.75522 1
+ O1 O 4 c 0.141 0.2001 0.2315 1
+ V V 4 c 0.18596 0.4967 0.2484 1
+ O2 O 4 c 0.3675 0.5549 0.262 1
+ O3 O 4 c 0.3755 0.1211 0.5519 1
+ O4 O 4 c 0.6198 0.1531 0.051 1
+ Hg1 Hg 2 b 0 0.0006 0.5 1
+ Hg2 Hg 2 a 0 0.0 0 1
+
+
+_exptl_crystal_colour                    'yellow canary'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.15
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2202
+_diffrn_reflns_theta_min                 2.87
+_diffrn_reflns_theta_max                 30.53
+_exptl_absorpt_coefficient_mu            46.067
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             48
+_refine_ls_number_reflns                 959
+_refine_ls_R_factor_gt                   0.0358
+_refine_ls_wR_factor_gt                  0.0888
+
+# End of data set 1321669
+
+

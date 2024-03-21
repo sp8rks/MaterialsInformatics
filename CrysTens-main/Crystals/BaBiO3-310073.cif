@@ -1,0 +1,168 @@
+##############################################################################
+#                                                                            #
+# Ba-Bi-O          # BaBiO3 mon                                    #  310073 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_310073
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      310073
+
+# Entry summary
+
+_chemical_formula_structural             'Ba Bi O~3~'
+_chemical_formula_sum                    'Ba Bi O3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            BaBiO~3~,mS20,12
+_chemical_formula_weight                 394.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Bismuth valence order disorder study in BaBiO~3~ by powder neutron diffraction
+;
+_journal_coden_ASTM                      SSCOA4
+_journal_name_full                       'Solid State Commun.'
+_journal_year                            1988
+_journal_volume                          65
+_journal_page_first                      1363
+_journal_page_last                       1369
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Chaillout Bougerol C.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+'Santoro A.'
+;
+National Institute of Standards and Technology (NIST)
+Gaithersburg
+U.S.A. Maryland
+;
+'Remeika J.P.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+'Cooper A.S.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+'Espinosa G.P.'
+;
+AT and T Bell Laboratories Inc.
+Murray Hill
+U.S.A. New Jersey
+;
+'Marezio M.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.627
+_cell_length_b                           6.1337
+_cell_length_c                           6.1799
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.392
+_cell_angle_gamma                        90
+_cell_volume                             328.4
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ Ba
+ Bi
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 8 j 0.0337 0.2502 0.2956 1
+ Ba Ba 4 i 0.2485 0 0.7437 1
+ O1 O 4 i 0.2588 0 0.1981 1
+ Bi2 Bi 2 d 0 0.5 0.5 1
+ Bi1 Bi 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.98
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.546
+_pd_proc_wavelength                      1.546
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.546
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 60
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                120
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0581
+_pd_proc_ls_proof_wR_factor              0.0782
+_refine_ls_R_I_factor                    ?
+
+# End of data set 310073
+
+

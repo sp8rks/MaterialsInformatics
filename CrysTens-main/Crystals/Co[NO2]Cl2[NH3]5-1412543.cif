@@ -1,0 +1,141 @@
+##############################################################################
+#                                                                            #
+# Cl-Co-H-N-O      # Co[NO2]Cl2[NH3]5 mon                          # 1412543 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1412543
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1412543
+
+# Entry summary
+
+_chemical_formula_structural             'Co [N O~2~] Cl~2~ [N H~3~]~5~'
+_chemical_formula_sum                    'Cl2 Co H15 N6 O2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoBr~2~[NO~2~][NH~3~]~5~,mS44,15
+_chemical_formula_weight                 261.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Nitrito-nitro linkage isomerization in the solid state. 2. A comparative study of the structures of nitrito- and nitropentaamminecobalt(III) dichloride
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1979
+_journal_volume                          18
+_journal_page_first                      1869
+_journal_page_last                       1874
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Grenthe I.'
+;
+KTH Royal Institute of Technology
+Department of Inorganic Chemistry
+Stockholm
+Sweden
+;
+'Nordin E.'
+;
+Lund University
+Division of Physical Chemistry 1
+Lund
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.327
+_cell_length_b                           8.661
+_cell_length_c                           10.729
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.04
+_cell_angle_gamma                        90
+_cell_volume                             955.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ N
+ Cl
+ O
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N1 N 8 f 0.0134 0.293 0.4295 1
+ N2 N 8 f 0.1841 0.288 0.2501 1
+ Cl1 Cl 8 f 0.20769 0.01538 0.01036 1
+ O1 O 8 f 0.4285 0.0759 0.3125 1
+ N3 N 4 e 0 0.0632 0.25 1
+ Co1 Co 4 e 0 0.28837 0.25 1
+ N4 N 4 e 0 0.5067 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.81
+_cell_measurement_temperature            245
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54184
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1412543
+
+

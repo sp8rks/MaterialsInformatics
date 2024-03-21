@@ -1,0 +1,130 @@
+##############################################################################
+#                                                                            #
+# As-Ba            # Ba3As14                                       # 1711360 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1711360
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1711360
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ As~14~'
+_chemical_formula_sum                    'As14 Ba3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sr~3~P~14~,mP34,14
+_chemical_formula_weight                 1460.9
+
+# Bibliographic data
+
+_publ_section_title
+'Ba~3~As~14~, die erste Verbindung mit dem Cluster-Anion As~7~^3-^'           
+_journal_coden_ASTM                      ANCEAD
+_journal_name_full                       'Angew. Chem.'
+_journal_year                            1977
+_journal_volume                          89
+_journal_page_first                      895
+_journal_page_last                       ?
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Schmettow W.'
+;
+Max Planck Society
+Stuttgart
+Germany
+;
+'Von Schnering H.G.'
+;
+Max Planck Society
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.854
+_cell_length_b                           13.639
+_cell_length_c                           12.1655
+_cell_angle_alpha                        90
+_cell_angle_beta                         124.441
+_cell_angle_gamma                        90
+_cell_volume                             937.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ As
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As6 As 4 e 0.0041 0.7784 0.1308 1
+ As7 As 4 e 0.0967 0.2186 0.2201 1
+ As1 As 4 e 0.0767 0.4961 0.1859 1
+ As3 As 4 e 0.2602 0.0597 0.3246 1
+ As2 As 4 e 0.2372 0.6426 0.1385 1
+ Ba2 Ba 4 e 0.4339 0.3443 0.1278 1
+ As5 As 4 e 0.5707 0.0786 0.1268 1
+ As4 As 4 e 0.6985 0.1868 0.0257 1
+ Ba1 Ba 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.17
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.036
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1711360
+
+

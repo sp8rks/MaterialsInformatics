@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# C-N              # C3N3[N3]3                                     # 1938344 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1938344
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1938344
+
+# Entry summary
+
+_chemical_formula_structural             'C~3~ N~3~ [N~3~]~3~'
+_chemical_formula_sum                    'C3 N12'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            C~3~N~3~[N~3~]~3~,hP30,147
+_chemical_formula_weight                 204.1
+_chemical_melting_point                  367
+
+# Bibliographic data
+
+_publ_section_title
+;
+Characterization, crystal structure of 2,4-bis(triphenylphosphosanimino)tetrazolo[5,1-a]-[1,3,5]triazine, and improved crystal structure of 2,4,6-triazido-1,3,5-triazine
+;
+_journal_coden_ASTM                      EJICFO
+_journal_name_full                       'Eur. J. Inorg. Chem.'
+_journal_year                            1998
+_journal_volume                          ?
+_journal_page_first                      2013
+_journal_page_last                       2016
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kessenich E.'
+;
+Munich Ludwig Maximilian University
+Institut f\"ur Anorganische Chemie
+Munich
+Germany
+;
+'Klap\"otke T.M.'
+;
+Munich Ludwig Maximilian University
+Institut f\"ur Anorganische Chemie
+Munich
+Germany
+;
+'Knizek J.'
+;
+Munich Ludwig Maximilian University
+Institut f\"ur Anorganische Chemie
+Munich
+Germany
+;
+'N\"oth H.'
+;
+Munich Ludwig Maximilian University
+Institut f\"ur Anorganische Chemie
+Munich
+Germany
+;
+'Schulz A.'
+;
+Munich Ludwig Maximilian University
+Institut f\"ur Anorganische Chemie
+Munich
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.7456
+_cell_length_b                           8.7456
+_cell_length_c                           5.8945
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             390.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   147
+_space_group_name_H-M_alt                'P -3'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, -z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, -z'
+ 6 'y, -x+y, -z'
+loop_
+ _atom_type_symbol
+ N
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N1 N 6 g 0.01556 0.45393 0.25 1
+ N2 N 6 g 0.05533 0.33324 0.25 1
+ N3 N 6 g 0.10997 0.2421 0.2498 1
+ N4 N 6 g 0.48825 0.27574 0.2499 1
+ C1 C 6 g 0.5539 0.16696 0.25 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.74
+_cell_measurement_temperature            183(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            38
+_diffrn_ambient_temperature              183(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2306
+_diffrn_reflns_theta_min                 2.69
+_diffrn_reflns_theta_max                 27.92
+_exptl_absorpt_coefficient_mu            0.138
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             47
+_refine_ls_number_reflns                 531
+_refine_ls_R_factor_gt                   0.0342
+_refine_ls_wR_factor_gt                  0.0894
+
+# End of data set 1938344
+
+

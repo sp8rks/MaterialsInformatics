@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-H-O-Pu     # Cs5PuCl8[H2O]6                                # 1212024 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1212024
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1212024
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~5~ Pu Cl~8~ [H~2~ O]~6~'
+_chemical_formula_sum                    'Cl8 Cs5 H12 O6 Pu'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~5~PuCl~8~[H~2~O]~6~,mP40,4
+_chemical_formula_weight                 1300.2
+
+# Bibliographic data
+
+_publ_section_title
+'The structure and synthesis of plutonium(III) chlorides from aqueous solution'
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2006
+_journal_volume                          45
+_journal_page_first                      8483
+_journal_page_last                       8485
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wilson R.E.'
+;
+Argonne National Laboratory
+Chemistry Division
+Argonne
+U.S.A. Illinois
+;
+'Almond P.M.'
+;
+Argonne National Laboratory
+Chemistry Division
+Argonne
+U.S.A. Illinois
+;
+'Burns P.C.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Civil Engineering and Geological Sciences
+Notre Dame
+U.S.A. Indiana
+;
+'Soderholm L.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Civil Engineering and Geological Sciences
+Notre Dame
+U.S.A. Indiana
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.158
+_cell_length_b                           9.883
+_cell_length_c                           14.243
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.52
+_cell_angle_gamma                        90
+_cell_volume                             1247.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cs
+ OH2
+ Cl
+ Pu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs5 Cs 2 a 0.08314 0.78665 0.46367 1
+ Cs2 Cs 2 a 0.08807 0.15739 0.91923 1
+ O3 OH2 2 a 0.1143 0.02322 0.16 1
+ Cl1 Cl 2 a 0.11775 0.12068 0.38628 1
+ Cl8 Cl 2 a 0.13283 0.02093 0.66538 1
+ O1 OH2 2 a 0.1937 0.42412 0.3372 1
+ Cl6 Cl 2 a 0.2373 0.74466 0.25179 1
+ Pu1 Pu 2 a 0.25722 0.22542 0.24733 1
+ Cl5 Cl 2 a 0.27456 0.4577 0.56196 1
+ O5 OH2 2 a 0.2963 0.29012 0.753 1
+ O4 OH2 2 a 0.3284 0.45092 0.1811 1
+ O2 OH2 2 a 0.4028 0.01302 0.306 1
+ Cl3 Cl 2 a 0.4033 0.16828 0.10303 1
+ Cs4 Cs 2 a 0.42636 0.8172 0.05968 1
+ Cs3 Cs 2 a 0.447 0.12635 0.57377 1
+ Cl2 Cl 2 a 0.52757 0.29451 0.38237 1
+ O6 OH2 2 a 0.6232 0.48052 0.1368 1
+ Cs1 Cs 2 a 0.76038 0.1679 0.24293 1
+ Cl7 Cl 2 a 0.77864 0.0 0.03754 1
+ Cl4 Cl 2 a 0.99326 0.31917 0.12138 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.46
+_cell_measurement_temperature            173
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART APEX'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    22511
+_diffrn_reflns_theta_min                 2.3
+_diffrn_reflns_theta_max                 33.66
+_exptl_absorpt_coefficient_mu            10.693
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             182
+_refine_ls_number_reflns                 9294
+_refine_ls_R_factor_gt                   0.0217
+_refine_ls_wR_factor_gt                  0.0543
+
+# End of data set 1212024
+
+

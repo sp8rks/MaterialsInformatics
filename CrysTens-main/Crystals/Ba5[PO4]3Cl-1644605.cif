@@ -1,0 +1,179 @@
+##############################################################################
+#                                                                            #
+# Ba-Cl-O-P        # Ba5[PO4]3Cl                                   # 1644605 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1644605
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1644605
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~5~ [P O~4~]~3~ Cl'
+_chemical_formula_sum                    'Ba5 Cl O12 P3'
+_chemical_name_mineral                   alforsite
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~5~[PO~4~]~3~Cl,hP42,176
+_chemical_formula_weight                 1007.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Eu^2+^-activated alkaline-earth halophosphates, M~5~(PO~4~)~3~X:Eu^2+^ (M= Ca, Sr, Ba; X= F, Cl, Br) for NUV-LEDs: Site-selective crystal field effect
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2016
+_journal_volume                          55
+_journal_page_first                      8359
+_journal_page_last                       8370
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Kim D.'
+;
+Silla University
+Graduate School of Advanced Engineering
+Busan
+South Korea
+;
+'Kim S.C.'
+;
+Ajou University
+Department of Chemistry
+Suwon
+South Korea
+;
+'Bae J.S.'
+;
+Korea Basic Science Institute
+Busan Center
+Busan
+South Korea
+;
+'Kim S.'
+;
+Ajou University
+Institute of NT-IT Fusion Technology
+Suwon
+South Korea
+;
+'Kim S.J.'
+;
+Ajou University
+Department of Chemistry
+Suwon
+South Korea
+;
+'Park J.C.'
+;
+Silla University
+Graduate School of Advanced Engineering
+Busan
+South Korea
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.2665
+_cell_length_b                           10.2665
+_cell_length_c                           7.646
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             697.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   176
+_space_group_name_H-M_alt                'P 63/m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, x, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, -z'
+ 12 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Ba
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 12 i 0.0874 0.3618 0.0911 1
+ P P 6 h 0.0294 0.4087 0.25 1
+ O3 O 6 h 0.1139 0.5721 0.25 1
+ Ba2 Ba 6 h 0.2611 0.2442 0.25 1
+ O1 O 6 h 0.4707 0.1377 0.25 1
+ Ba1 Ba 4 f 0.333333 0.666667 0.0 1
+ X Cl 2 b 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.79
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.5418
+_pd_proc_wavelength                      1.5418
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku D/MAX-2200'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5418
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 55
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                110
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.143
+_refine_ls_R_I_factor                    0.0893
+
+# End of data set 1644605
+
+

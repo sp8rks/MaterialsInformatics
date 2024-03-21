@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# Co-P             # CoP2                                          #  455729 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_455729
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      455729
+
+# Entry summary
+
+_chemical_formula_structural             'Co P~2~'
+_chemical_formula_sum                    'Co P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CoSb~2~,mP12,14
+_chemical_formula_weight                 120.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Ambient Pressure Synthesis, Properties, and Structure Refinements of VP~4~ and CoP~2~
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1984
+_journal_volume                          52
+_journal_page_first                      320
+_journal_page_last                       326
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Jeitschko W.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Fl\"orke U.'
+;
+Paderborn GH University
+Institut f\"ur Anorganische und Analytische Chemie
+Paderborn
+Germany
+;
+'Scholz U.D.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.551
+_cell_length_b                           5.549
+_cell_length_c                           5.614
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.71
+_cell_angle_gamma                        90
+_cell_volume                             157.09
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P(1) P 4 e 0.1617 0.62787 0.31804 1
+ Co Co 4 e 0.22921 -0.00124 0.21415 1
+ P(2) P 4 e 0.34101 0.37334 0.13511 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.11
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             14
+_refine_ls_number_reflns                 932
+_refine_ls_R_factor_gt                   0.019
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 455729
+
+

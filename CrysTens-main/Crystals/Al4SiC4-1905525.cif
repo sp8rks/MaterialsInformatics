@@ -1,0 +1,197 @@
+##############################################################################
+#                                                                            #
+# Al-C-Si          # Al4SiC4                                       # 1905525 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1905525
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1905525
+
+# Entry summary
+
+_chemical_formula_structural             'Al~4~ Si C~4~'
+_chemical_formula_sum                    'Al4 C4 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Al~5~C~3~N-b,hP18,186
+_chemical_formula_weight                 184.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+X-ray crystallographic data on aluminum silicon carbide, \a-Al~4~SiC~4~ and Al~4~Si~2~C~5~
+;
+_journal_coden_ASTM                      JMTSAS
+_journal_name_full                       'J. Mater. Sci.'
+_journal_year                            1980
+_journal_volume                          15
+_journal_page_first                      575
+_journal_page_last                       580
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Inoue Z.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Inomata Y.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Tanaka H.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+'Kawabata H.'
+;
+National Institute for Materials Science (NIMS)
+Tsukuba / Ibaraki
+Japan
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           3.2771
+_cell_length_b                           3.2771
+_cell_length_c                           21.676
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             201.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Al
+ C
+ Si
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Al4 Al 2 b 0.333333 0.666667 0.045 1
+ C3 C 2 b 0.333333 0.666667 0.133 1
+ Al2 Al 2 b 0.333333 0.666667 0.239 1
+ C4 C 2 b 0.333333 0.666667 0.363 1
+ Al1 Al 2 b 0.333333 0.666667 0.455 1
+ C1 C 2 a 0 0 0.0 1
+ Al3 Al 2 a 0 0 0.155 1
+ C2 C 2 a 0 0 0.252 1
+ Si1 Si 2 a 0 0 0.345 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.03
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            31
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Rigaku
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 55
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                110
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 2 108.59 6
+ 0 0 4 54.24 3
+ 0 0 6 36.14 15
+ 1 0 0 28.36 21
+ 1 0 1 28.13 100
+ 1 0 2 27.45 28
+ 0 0 8 27.1 13
+ 1 0 3 26.41 16
+ 1 0 4 25.15 28
+ 1 0 5 23.74 53
+ 1 0 6 22.31 66
+ 0 0 10 21.68 71
+ 1 0 7 20.92 5
+ 1 0 8 19.6 5
+ 1 0 9 18.36 35
+ 1 0 10 17.22 1
+ 1 1 0 16.38 71
+ 1 0 12 15.24 26
+ 2 0 1 14.16 5
+ 2 0 4 13.73 4
+ 2 0 5 13.49 7
+ 2 0 6 13.21 8
+ 1 1 10 13.07 35
+ 2 0 9 12.23 5
+ 2 0 12 11.16 5
+ 2 1 4 10.52 2
+ 2 1 6 10.28 5
+ 2 1 9 9.8 5
+ 3 0 0 9.46 7
+
+# End of data set 1905525
+
+

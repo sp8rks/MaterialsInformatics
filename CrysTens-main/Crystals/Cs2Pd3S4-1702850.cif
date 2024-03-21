@@ -1,0 +1,133 @@
+##############################################################################
+#                                                                            #
+# Cs-Pd-S          # Cs2Pd3S4                                      # 1702850 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702850
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702850
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Pd~3~ S~4~'
+_chemical_formula_sum                    'Cs2 Pd3 S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~Pd~3~S~4~,mS18,12
+_chemical_formula_weight                 713.3
+
+# Bibliographic data
+
+_publ_section_title
+'Cs~2~Pd~3~S~4~, ein neuer Schichtenstrukturtyp'                              
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1971
+_journal_volume                          23
+_journal_page_first                      67
+_journal_page_last                       72
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bronger W.'
+;
+Aachen RWTH University
+Institut f\"ur Anorganische Chemie
+Aachen
+Germany
+;
+'Huster J.'
+;
+Aachen RWTH University
+Institut f\"ur Anorganische Chemie
+Aachen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.275
+_cell_length_b                           14.02
+_cell_length_c                           6.1647
+_cell_angle_alpha                        90
+_cell_angle_beta                         120.58
+_cell_angle_gamma                        90
+_cell_volume                             466.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ Cs
+ Pd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S S 8 j 0.173 0.107 0.337 1
+ Cs Cs 4 g 0 0.337 0 1
+ Pd3 Pd 2 d 0 0.5 0.5 1
+ Pd2 Pd 2 c 0 0 0.5 1
+ Pd1 Pd 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.93
+_exptl_crystal_density_diffrn            5.07
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device
+'precession and Weissenberg photographs'                                      
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.08
+_refine_ls_wR_factor_gt                  0.11
+
+# End of data set 1702850
+
+

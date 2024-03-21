@@ -1,0 +1,169 @@
+##############################################################################
+#                                                                            #
+# As-N             # As[N3]3                                       # 1320391 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1320391
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1320391
+
+# Entry summary
+
+_chemical_formula_structural             'As [N~3~]~3~'
+_chemical_formula_sum                    'As N9'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            As[N~3~]~3~,mP40,14
+_chemical_formula_weight                 201.0
+
+# Bibliographic data
+
+_publ_section_title
+'First Structural Characterization of Binary As(III) and Sb(III) Azides'      
+_journal_coden_ASTM                      CEUJED
+_journal_name_full                       'Chem. Eur. J.'
+_journal_year                            2004
+_journal_volume                          10
+_journal_page_first                      508
+_journal_page_last                       517
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Haiges R.'
+;
+Southern California Los Angeles University
+Loker Hydrocarbon Research Institute
+Los Angeles
+U.S.A. California
+;
+'Vij A.'
+;
+Edwards Air Force Base
+Air Force Research Laboratory (AFRL)
+Edwards
+U.S.A. California
+;
+'Boatz J.A.'
+;
+Edwards Air Force Base
+Air Force Research Laboratory (AFRL)
+Edwards
+U.S.A. California
+;
+'Schneider S.'
+;
+Southern California Los Angeles University
+Loker Hydrocarbon Research Institute
+Los Angeles
+U.S.A. California
+;
+'Schroer T.'
+;
+Southern California Los Angeles University
+Loker Hydrocarbon Research Institute
+Los Angeles
+U.S.A. California
+;
+'Gerken M.'
+;
+Southern California Los Angeles University
+Loker Hydrocarbon Research Institute
+Los Angeles
+U.S.A. California
+;
+'Christe K.O.'
+;
+Southern California Los Angeles University
+Loker Hydrocarbon Research Institute
+Los Angeles
+U.S.A. California
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.3263
+_cell_length_b                           11.716
+_cell_length_c                           6.9865
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.219
+_cell_angle_gamma                        90
+_cell_volume                             572.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ N
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N8 N 4 e 0.025 0.2776 0.0209 1
+ N1 N 4 e 0.1116 0.0181 0.3655 1
+ N9 N 4 e 0.1129 0.7505 0.0909 1
+ N2 N 4 e 0.1725 0.0217 0.219 1
+ N7 N 4 e 0.1743 0.303 0.1499 1
+ N3 N 4 e 0.219 0.021 0.0799 1
+ As1 As 4 e 0.2858 0.4451 0.1183 1
+ N4 N 4 e 0.485 0.3837 0.0241 1
+ N5 N 4 e 0.4994 0.2785 0.0223 1
+ N6 N 4 e 0.5226 0.184 0.018 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.33
+_cell_measurement_temperature            213(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              213(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            5.863
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0240
+_refine_ls_wR_factor_gt                  0.0641
+
+# End of data set 1320391
+
+

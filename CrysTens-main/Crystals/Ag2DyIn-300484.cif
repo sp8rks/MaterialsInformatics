@@ -1,0 +1,332 @@
+##############################################################################
+#                                                                            #
+# Ag-Dy-In         # Ag2DyIn                                       #  300484 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_300484
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      300484
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ Dy In'
+_chemical_formula_sum                    'Ag2 Dy In'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~MnAl,cF16,225
+_chemical_formula_weight                 493.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Magnetic and electrical properties of Heusler alloys with rare earths: RInAg~2~
+;
+_journal_coden_ASTM                      JCOMAH
+_journal_name_full                       'J. Less-Common Met.'
+_journal_year                            1984
+_journal_volume                          97
+_journal_page_first                      151
+_journal_page_last                       161
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gal\'era R.M.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire Louis N\'eel
+Grenoble
+France
+;
+'Pierre J.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire Louis N\'eel
+Grenoble
+France
+;
+'Siaud E.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire Louis N\'eel
+Grenoble
+France
+;
+'Murani A.P.'
+;
+Grenoble Laue-Langevin Institute
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.91
+_cell_length_b                           6.91
+_cell_length_c                           6.91
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        90
+_cell_volume                             329.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   225
+_space_group_name_H-M_alt                'F m -3 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, -y, z'
+ 4 '-x, -z, -y'
+ 5 '-x, -z, y'
+ 6 '-x, y, -z'
+ 7 '-x, y, z'
+ 8 '-x, z, -y'
+ 9 '-x, z, y'
+ 10 '-y, -x, -z'
+ 11 '-y, -x, z'
+ 12 '-y, -z, -x'
+ 13 '-y, -z, x'
+ 14 '-y, x, -z'
+ 15 '-y, x, z'
+ 16 '-y, z, -x'
+ 17 '-y, z, x'
+ 18 '-z, -x, -y'
+ 19 '-z, -x, y'
+ 20 '-z, -y, -x'
+ 21 '-z, -y, x'
+ 22 '-z, x, -y'
+ 23 '-z, x, y'
+ 24 '-z, y, -x'
+ 25 '-z, y, x'
+ 26 'x, -y, -z'
+ 27 'x, -y, z'
+ 28 'x, -z, -y'
+ 29 'x, -z, y'
+ 30 'x, y, -z'
+ 31 'x, z, -y'
+ 32 'x, z, y'
+ 33 'y, -x, -z'
+ 34 'y, -x, z'
+ 35 'y, -z, -x'
+ 36 'y, -z, x'
+ 37 'y, x, -z'
+ 38 'y, x, z'
+ 39 'y, z, -x'
+ 40 'y, z, x'
+ 41 'z, -x, -y'
+ 42 'z, -x, y'
+ 43 'z, -y, -x'
+ 44 'z, -y, x'
+ 45 'z, x, -y'
+ 46 'z, x, y'
+ 47 'z, y, -x'
+ 48 'z, y, x'
+ 49 'x, 1/2+y, 1/2+z'
+ 50 '-x, 1/2-y, 1/2-z'
+ 51 '-x, 1/2-y, 1/2+z'
+ 52 '-x, 1/2-z, 1/2-y'
+ 53 '-x, 1/2-z, 1/2+y'
+ 54 '-x, 1/2+y, 1/2-z'
+ 55 '-x, 1/2+y, 1/2+z'
+ 56 '-x, 1/2+z, 1/2-y'
+ 57 '-x, 1/2+z, 1/2+y'
+ 58 '-y, 1/2-x, 1/2-z'
+ 59 '-y, 1/2-x, 1/2+z'
+ 60 '-y, 1/2-z, 1/2-x'
+ 61 '-y, 1/2-z, 1/2+x'
+ 62 '-y, 1/2+x, 1/2-z'
+ 63 '-y, 1/2+x, 1/2+z'
+ 64 '-y, 1/2+z, 1/2-x'
+ 65 '-y, 1/2+z, 1/2+x'
+ 66 '-z, 1/2-x, 1/2-y'
+ 67 '-z, 1/2-x, 1/2+y'
+ 68 '-z, 1/2-y, 1/2-x'
+ 69 '-z, 1/2-y, 1/2+x'
+ 70 '-z, 1/2+x, 1/2-y'
+ 71 '-z, 1/2+x, 1/2+y'
+ 72 '-z, 1/2+y, 1/2-x'
+ 73 '-z, 1/2+y, 1/2+x'
+ 74 'x, 1/2-y, 1/2-z'
+ 75 'x, 1/2-y, 1/2+z'
+ 76 'x, 1/2-z, 1/2-y'
+ 77 'x, 1/2-z, 1/2+y'
+ 78 'x, 1/2+y, 1/2-z'
+ 79 'x, 1/2+z, 1/2-y'
+ 80 'x, 1/2+z, 1/2+y'
+ 81 'y, 1/2-x, 1/2-z'
+ 82 'y, 1/2-x, 1/2+z'
+ 83 'y, 1/2-z, 1/2-x'
+ 84 'y, 1/2-z, 1/2+x'
+ 85 'y, 1/2+x, 1/2-z'
+ 86 'y, 1/2+x, 1/2+z'
+ 87 'y, 1/2+z, 1/2-x'
+ 88 'y, 1/2+z, 1/2+x'
+ 89 'z, 1/2-x, 1/2-y'
+ 90 'z, 1/2-x, 1/2+y'
+ 91 'z, 1/2-y, 1/2-x'
+ 92 'z, 1/2-y, 1/2+x'
+ 93 'z, 1/2+x, 1/2-y'
+ 94 'z, 1/2+x, 1/2+y'
+ 95 'z, 1/2+y, 1/2-x'
+ 96 'z, 1/2+y, 1/2+x'
+ 97 '1/2+x, y, 1/2+z'
+ 98 '1/2-x, -y, 1/2-z'
+ 99 '1/2-x, -y, 1/2+z'
+ 100 '1/2-x, -z, 1/2-y'
+ 101 '1/2-x, -z, 1/2+y'
+ 102 '1/2-x, y, 1/2-z'
+ 103 '1/2-x, y, 1/2+z'
+ 104 '1/2-x, z, 1/2-y'
+ 105 '1/2-x, z, 1/2+y'
+ 106 '1/2-y, -x, 1/2-z'
+ 107 '1/2-y, -x, 1/2+z'
+ 108 '1/2-y, -z, 1/2-x'
+ 109 '1/2-y, -z, 1/2+x'
+ 110 '1/2-y, x, 1/2-z'
+ 111 '1/2-y, x, 1/2+z'
+ 112 '1/2-y, z, 1/2-x'
+ 113 '1/2-y, z, 1/2+x'
+ 114 '1/2-z, -x, 1/2-y'
+ 115 '1/2-z, -x, 1/2+y'
+ 116 '1/2-z, -y, 1/2-x'
+ 117 '1/2-z, -y, 1/2+x'
+ 118 '1/2-z, x, 1/2-y'
+ 119 '1/2-z, x, 1/2+y'
+ 120 '1/2-z, y, 1/2-x'
+ 121 '1/2-z, y, 1/2+x'
+ 122 '1/2+x, -y, 1/2-z'
+ 123 '1/2+x, -y, 1/2+z'
+ 124 '1/2+x, -z, 1/2-y'
+ 125 '1/2+x, -z, 1/2+y'
+ 126 '1/2+x, y, 1/2-z'
+ 127 '1/2+x, z, 1/2-y'
+ 128 '1/2+x, z, 1/2+y'
+ 129 '1/2+y, -x, 1/2-z'
+ 130 '1/2+y, -x, 1/2+z'
+ 131 '1/2+y, -z, 1/2-x'
+ 132 '1/2+y, -z, 1/2+x'
+ 133 '1/2+y, x, 1/2-z'
+ 134 '1/2+y, x, 1/2+z'
+ 135 '1/2+y, z, 1/2-x'
+ 136 '1/2+y, z, 1/2+x'
+ 137 '1/2+z, -x, 1/2-y'
+ 138 '1/2+z, -x, 1/2+y'
+ 139 '1/2+z, -y, 1/2-x'
+ 140 '1/2+z, -y, 1/2+x'
+ 141 '1/2+z, x, 1/2-y'
+ 142 '1/2+z, x, 1/2+y'
+ 143 '1/2+z, y, 1/2-x'
+ 144 '1/2+z, y, 1/2+x'
+ 145 '1/2+x, 1/2+y, z'
+ 146 '1/2-x, 1/2-y, -z'
+ 147 '1/2-x, 1/2-y, z'
+ 148 '1/2-x, 1/2-z, -y'
+ 149 '1/2-x, 1/2-z, y'
+ 150 '1/2-x, 1/2+y, -z'
+ 151 '1/2-x, 1/2+y, z'
+ 152 '1/2-x, 1/2+z, -y'
+ 153 '1/2-x, 1/2+z, y'
+ 154 '1/2-y, 1/2-x, -z'
+ 155 '1/2-y, 1/2-x, z'
+ 156 '1/2-y, 1/2-z, -x'
+ 157 '1/2-y, 1/2-z, x'
+ 158 '1/2-y, 1/2+x, -z'
+ 159 '1/2-y, 1/2+x, z'
+ 160 '1/2-y, 1/2+z, -x'
+ 161 '1/2-y, 1/2+z, x'
+ 162 '1/2-z, 1/2-x, -y'
+ 163 '1/2-z, 1/2-x, y'
+ 164 '1/2-z, 1/2-y, -x'
+ 165 '1/2-z, 1/2-y, x'
+ 166 '1/2-z, 1/2+x, -y'
+ 167 '1/2-z, 1/2+x, y'
+ 168 '1/2-z, 1/2+y, -x'
+ 169 '1/2-z, 1/2+y, x'
+ 170 '1/2+x, 1/2-y, -z'
+ 171 '1/2+x, 1/2-y, z'
+ 172 '1/2+x, 1/2-z, -y'
+ 173 '1/2+x, 1/2-z, y'
+ 174 '1/2+x, 1/2+y, -z'
+ 175 '1/2+x, 1/2+z, -y'
+ 176 '1/2+x, 1/2+z, y'
+ 177 '1/2+y, 1/2-x, -z'
+ 178 '1/2+y, 1/2-x, z'
+ 179 '1/2+y, 1/2-z, -x'
+ 180 '1/2+y, 1/2-z, x'
+ 181 '1/2+y, 1/2+x, -z'
+ 182 '1/2+y, 1/2+x, z'
+ 183 '1/2+y, 1/2+z, -x'
+ 184 '1/2+y, 1/2+z, x'
+ 185 '1/2+z, 1/2-x, -y'
+ 186 '1/2+z, 1/2-x, y'
+ 187 '1/2+z, 1/2-y, -x'
+ 188 '1/2+z, 1/2-y, x'
+ 189 '1/2+z, 1/2+x, -y'
+ 190 '1/2+z, 1/2+x, y'
+ 191 '1/2+z, 1/2+y, -x'
+ 192 '1/2+z, 1/2+y, x'
+loop_
+ _atom_type_symbol
+ Ag
+ In
+ Dy
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ag Ag 8 c 0.25 0.25 0.25 1
+ In In 4 b 0.5 0.5 0.5 1
+ Dy Dy 4 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            9.93
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cr Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cr Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 300484
+
+

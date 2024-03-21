@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# Ba-Mg-Si         # Ba2Mg3Si4 rt                                  # 1702122 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702122
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702122
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Mg~3~ Si~4~'
+_chemical_formula_sum                    'Ba2 Mg3 Si4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~Mg~3~Si~4~,mS36,12
+_chemical_formula_weight                 459.9
+_chemical_melting_point                  1200
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure and Properties of Ba~2~Mg~3~Si~4~, a Zintl Phase with Planar Si~6~ Units
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1998
+_journal_volume                          624
+_journal_page_first                      1801
+_journal_page_last                       1806
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wengert S.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Anorganische Chemie
+Zurich
+Switzerland
+;
+'Nesper R.'
+;
+Swiss Federal Institute of Technology (ETH)
+Laboratorium f\"ur Anorganische Chemie
+Zurich
+Switzerland
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.063
+_cell_length_b                           4.619
+_cell_length_c                           15.616
+_cell_angle_alpha                        90
+_cell_angle_beta                         94.95
+_cell_angle_gamma                        90
+_cell_volume                             866.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Si
+ Mg
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Si4 Si 4 i 0.0234 0 0.7045 1
+ Si2 Si 4 i 0.061 0 0.4433 1
+ Si3 Si 4 i 0.0989 0 0.0301 1
+ Mg3 Mg 4 i 0.1626 0 0.2055 1
+ Si1 Si 4 i 0.2199 0 0.7543 1
+ Ba2 Ba 4 i 0.3426 0 0.4098 1
+ Ba1 Ba 4 i 0.4411 0 0.1348 1
+ Mg2 Mg 4 i 0.6066 0 0.346 1
+ Mg1 Mg 4 i 0.7195 0 0.069 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.52
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    2512
+_diffrn_reflns_theta_min                 3.93
+_diffrn_reflns_theta_max                 24.13
+_exptl_absorpt_coefficient_mu            9.172
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 758
+_refine_ls_R_factor_gt                   0.042
+_refine_ls_wR_factor_gt                  0.113
+
+# End of data set 1702122
+
+

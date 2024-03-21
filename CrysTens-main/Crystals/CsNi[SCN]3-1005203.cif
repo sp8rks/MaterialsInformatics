@@ -1,0 +1,132 @@
+##############################################################################
+#                                                                            #
+# C-Cs-N-Ni-S      # CsNi[SCN]3                                    # 1005203 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1005203
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1005203
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Ni [S C N]~3~'
+_chemical_formula_sum                    'C3 Cs N3 Ni S3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsNi[SCN]~3~,mP44,14
+_chemical_formula_weight                 365.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Thiocyanates of nickel and caesium: Cs~2~NiAg~2~(SCN)~6~.2H~2~O and CsNi(SCN)~3~
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            2004
+_journal_volume                          60
+_journal_page_first                      i63
+_journal_page_last                       i65
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Fleck M.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.554
+_cell_length_b                           13.294
+_cell_length_c                           13.1378
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.946
+_cell_angle_gamma                        90
+_cell_volume                             922.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ C
+ N
+ Cs
+ Ni
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 4 e 0.00913 0.1098 0.15465 1
+ C2 C 4 e 0.02002 0.38233 0.01032 1
+ C3 C 4 e 0.18121 0.04944 0.26231 1
+ S1 S 4 e 0.18948 0.35535 0.42234 1
+ N2 N 4 e 0.2234 0.4132 0.028 1
+ S2 S 4 e 0.26994 0.66164 0.01581 1
+ N3 N 4 e 0.30428 0.01092 0.33928 1
+ N1 N 4 e 0.34441 0.55985 0.57091 1
+ C1 C 4 e 0.46193 0.4063 0.42543 1
+ Cs Cs 4 e 0.56455 0.27046 0.21776 1
+ Ni1 Ni 2 d 0.5 0 0.5 1
+ Ni2 Ni 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.63
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius KAPPA'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    5137
+_exptl_absorpt_coefficient_mu            6.61
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             104
+_refine_ls_number_reflns                 2441
+_refine_ls_R_factor_gt                   0.022
+_refine_ls_wR_factor_gt                  0.057
+
+# End of data set 1005203
+
+

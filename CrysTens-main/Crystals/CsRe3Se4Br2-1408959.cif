@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Br-Cs-Re-Se      # CsRe3Se4Br2                                   # 1408959 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1408959
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1408959
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Re~3~ Se~4~ Br~2~'
+_chemical_formula_sum                    'Br2 Cs Re3 Se4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsRe~3~Se~4~Br~2~,mP40,14
+_chemical_formula_weight                 1167.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+A solid-state route to molecular clusters: Access to the solution chemistry of [Re~6~Q~8~]^2+^ (Q= S, Se) core-containing clusters via dimensional reduction
+;
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            1996
+_journal_volume                          118
+_journal_page_first                      4603
+_journal_page_last                       4616
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Long J.R.'
+;
+Massachusetts Cambridge Harvard University
+Department of Chemistry
+Cambridge
+U.S.A. Massachusetts
+;
+'McCarty L.S.'
+;
+Massachusetts Cambridge Harvard University
+Department of Chemistry
+Cambridge
+U.S.A. Massachusetts
+;
+'Holm R.H.'
+;
+Massachusetts Cambridge Harvard University
+Department of Chemistry
+Cambridge
+U.S.A. Massachusetts
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.544
+_cell_length_b                           18.687
+_cell_length_c                           9.938
+_cell_angle_alpha                        90
+_cell_angle_beta                         115.397
+_cell_angle_gamma                        90
+_cell_volume                             1097.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Br
+ Re
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se4 Se 4 e 0.0155 0.0152 0.205 1
+ Br1 Br 4 e 0.0927 0.3543 0.1349 1
+ Br2 Br 4 e 0.1722 0.6955 0.2463 1
+ Se3 Se 4 e 0.2592 0.1373 0.0307 1
+ Re1 Re 4 e 0.2844 0.0047 0.0727 1
+ Re2 Re 4 e 0.3252 0.4394 0.3444 1
+ Se1 Se 4 e 0.3997 0.5225 0.1726 1
+ Cs1 Cs 4 e 0.4557 0.1899 0.4515 1
+ Re3 Re 4 e 0.6433 0.0803 0.1118 1
+ Se2 Se 4 e 0.6808 0.372 0.3856 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.06
+_cell_measurement_temperature            223
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            30
+_diffrn_ambient_temperature              223
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet R3m'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            56.73
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0670
+_refine_ls_wR_factor_gt                  0.0681
+
+# End of data set 1408959
+
+

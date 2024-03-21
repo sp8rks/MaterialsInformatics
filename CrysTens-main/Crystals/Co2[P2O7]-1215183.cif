@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Co-O-P           # Co2[P2O7] rt                                  # 1215183 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1215183
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1215183
+
+# Entry summary
+
+_chemical_formula_structural             'Co~2~ [P~2~ O~7~]'
+_chemical_formula_sum                    'Co2 O7 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Mg~2~[P~2~O~7~],mP44,14
+_chemical_formula_weight                 291.8
+
+# Bibliographic data
+
+_publ_section_title
+'The magnetic structure of cobalt diphosphate Co~2~P~2~O~7~'                  
+_journal_coden_ASTM                      JCOMEL
+_journal_name_full                       'J. Phys.: Condens. Matter'
+_journal_year                            1989
+_journal_volume                          1
+_journal_page_first                      169
+_journal_page_last                       178
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Forsyth J.B.'
+;
+Rutherford Appleton Laboratory (STFC)
+Chilton-Didcot
+United Kingdom
+;
+'Wilkinson C.'
+;
+London King's College
+Department of Physics
+London
+United Kingdom
+;
+'Paster S.'
+;
+London King's College
+Department of Physics
+London
+United Kingdom
+;
+'Wanklyn B.M.R.'
+;
+Oxford University
+Clarendon Laboratory
+Oxford
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.008
+_cell_length_b                           8.345
+_cell_length_c                           9.004
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.84
+_cell_angle_gamma                        90
+_cell_volume                             481.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.024 0.0992 0.1196 1
+ P1 P 4 e 0.0592 0.2319 0.2414 1
+ O5 O 4 e 0.1152 0.389 0.1907 1
+ O3 O 4 e 0.1196 0.7414 0.2021 1
+ Co1 Co 4 e 0.2316 0.5716 0.6094 1
+ O1 O 4 e 0.251 0.1702 0.4013 1
+ Co2 Co 4 e 0.2996 0.5588 0.1731 1
+ O7 O 4 e 0.4458 0.1127 0.1016 1
+ P2 P 4 e 0.4682 0.274 0.0335 1
+ O6 O 4 e 0.5203 0.4091 0.1561 1
+ O2 O 4 e 0.621 0.2338 0.4504 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.02
+_cell_measurement_temperature            3.9
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.174
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              3.9
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D15'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.174
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.065
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1215183
+
+

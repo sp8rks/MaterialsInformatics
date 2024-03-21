@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Al-Br-Se         # AlSeBr7                                       # 1708208 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1708208
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1708208
+
+# Entry summary
+
+_chemical_formula_structural             'Al Se Br~7~'
+_chemical_formula_sum                    'Al Br7 Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AlSCl~7~,mP18,7
+_chemical_formula_weight                 665.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+SeBr~3~[AlBr~4~] and TeI~3~[AlI~4~] - Two further compounds in the SCl~3~[AlCl~4~] structure type
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1995
+_journal_volume                          621
+_journal_page_first                      1042
+_journal_page_last                       1046
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Beck J.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Fischer A.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.707
+_cell_length_b                           6.639
+_cell_length_c                           14.286
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.21
+_cell_angle_gamma                        90
+_cell_volume                             624
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Br
+ Al
+ Se
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br7 Br 2 a 0.0 0.1509 0.0 1
+ Br5 Br 2 a 0.1342 0.1135 0.2677 1
+ Br6 Br 2 a 0.1847 0.6601 0.1173 1
+ Al Al 2 a 0.2125 0.0064 0.1261 1
+ Br1 Br 2 a 0.391 0.6263 0.3969 1
+ Se Se 2 a 0.5128 0.4227 0.2914 1
+ Br4 Br 2 a 0.542 0.1038 0.1233 1
+ Br3 Br 2 a 0.7021 0.1999 0.3971 1
+ Br2 Br 2 a 0.7713 0.6127 0.2529 1
+
+
+_exptl_crystal_colour                    yellow
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.54
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71069
+_cell_measurement_reflns_used            52
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    3985
+_diffrn_reflns_theta_min                 4
+_diffrn_reflns_theta_max                 26
+_exptl_absorpt_coefficient_mu            25.4
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             80
+_refine_ls_number_reflns                 1447
+_refine_ls_R_factor_gt                   0.053
+_refine_ls_wR_factor_gt                  0.150
+
+# End of data set 1708208
+
+

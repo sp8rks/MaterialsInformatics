@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Co-H-N-O         # Co[NO3]2[H2O]2                                # 2110175 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2110175
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2110175
+
+# Entry summary
+
+_chemical_formula_structural             'Co [N O~3~]~2~ [H~2~ O]~2~'
+_chemical_formula_sum                    'Co H4 N2 O8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Co[NO~3~]~2~[H~2~O]~2~,mP22,14
+_chemical_formula_weight                 219.0
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of cobalt nitrate dihydrate, Co(NO~3~)~2~.2H~2~O'      
+_journal_coden_ASTM                      ZKKKAJ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1976
+_journal_volume                          144
+_journal_page_first                      133
+_journal_page_last                       138
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Rib\"ar B.'
+;
+Novi Sad Djuricica University
+Institute of Physics
+Novi Sad
+Serbia
+;
+'Milinski N.'
+;
+Novi Sad Djuricica University
+Institute of Physics
+Novi Sad
+Serbia
+;
+'Herak R.M.'
+;
+Belgrade Boris Kidric Institute of Nuclear Sciences
+Belgrade
+Serbia
+;
+'Krstanovic I.R.'
+;
+Belgrade University
+Faculty of Mining, Geology and Metallurgy
+Belgrade
+Serbia
+;
+'Djuric S.'
+;
+Belgrade University
+Faculty of Mining, Geology and Metallurgy
+Belgrade
+Serbia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.729
+_cell_length_b                           8.629
+_cell_length_c                           8.1155
+_cell_angle_alpha                        90
+_cell_angle_beta                         132.194
+_cell_angle_gamma                        90
+_cell_volume                             297.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ N
+ OH2
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0513 0.5801 0.279 1
+ O1 O 4 e 0.0641 0.7672 0.1088 1
+ N N 4 e 0.0682 0.2061 0.3298 1
+ O3 O 4 e 0.3004 0.2648 0.3746 1
+ O1w OH2 4 e 0.4813 0.0149 0.2457 1
+ Co Co 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              2.38
+_exptl_crystal_density_diffrn            2.45
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1540
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1070
+_refine_ls_R_factor_gt                   0.050
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 2110175
+
+

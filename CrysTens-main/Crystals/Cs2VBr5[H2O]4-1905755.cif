@@ -1,0 +1,145 @@
+##############################################################################
+#                                                                            #
+# Br-Cs-H-O-V      # Cs2VBr5[H2O]4                                 # 1905755 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1905755
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1905755
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ V Br~5~ [H~2~ O]~4~'
+_chemical_formula_sum                    'Br5 Cs2 H8 O4 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~VCl~5~[H~2~O]~4~,mS24,12
+_chemical_formula_weight                 788.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal and Molecular Structures of Aquahalogenovanadium(III) Complexes. Part II. X-Ray Crystal Structure of Dicaesium trans-Tetrakis-aquadichlorovanadium(III) Trichloride, and the Isomorphous Bromo-compound
+;
+_journal_coden_ASTM                      JCDTBI
+_journal_name_full                       'J. Chem. Soc., Dalton Trans.'
+_journal_year                            1976
+_journal_volume                          ?
+_journal_page_first                      1741
+_journal_page_last                       1743
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Donovan W.F.'
+;
+Hobart Tasmania University
+Department of Chemistry
+Hobart
+Australia
+;
+'Podmore L.P.'
+;
+Hobart Tasmania University
+Department of Chemistry
+Hobart
+Australia
+;
+'Smith P.W.'
+;
+Hobart Tasmania University
+Department of Chemistry
+Hobart
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           18.484
+_cell_length_b                           6.423
+_cell_length_c                           7.266
+_cell_angle_alpha                        90
+_cell_angle_beta                         106.1
+_cell_angle_gamma                        90
+_cell_volume                             828.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ OH2
+ Br
+ Cs
+ V
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O OH2 8 j 0.0506 0.273 0.193 1
+ Br2 Br 4 i 0.193 0 0.2527 1
+ Cs Cs 4 i 0.2018 0 0.7548 1
+ Br1 Br 4 i 0.3889 0 0.1325 1
+ Br3 Br 2 c 0 0 0.5 1
+ V V 2 b 0 0.5 0 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              3.20
+_exptl_crystal_density_diffrn            3.16
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.542
+_diffrn_reflns_number                    511
+_exptl_absorpt_coefficient_mu            54.9
+_exptl_absorpt_correction_type           no
+_computing_structure_solution
+'starting values derived from related structure'                              
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.17
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1905755
+
+

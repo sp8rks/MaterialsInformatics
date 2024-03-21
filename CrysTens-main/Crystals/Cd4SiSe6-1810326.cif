@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# Cd-Se-Si         # Cd4SiSe6 rt                                   # 1810326 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1810326
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1810326
+
+# Entry summary
+
+_chemical_formula_structural             'Cd~4~ Si Se~6~'
+_chemical_formula_sum                    'Cd4 Se6 Si'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cd~4~GeS~6~,mS44,9
+_chemical_formula_weight                 951.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Phase diagrams of the Ag~2~Se-Zn(Cd)Se-SiSe~2~ systems and crystal structure of the Cd~4~SiSe~6~ compound
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2003
+_journal_volume                          354
+_journal_page_first                      138
+_journal_page_last                       142
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Parasyuk O.V.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+'Olekseyuk I.D.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+'Gulay L.D.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+'Piskach L.V.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.8266
+_cell_length_b                           7.3591
+_cell_length_c                           12.8197
+_cell_angle_alpha                        90
+_cell_angle_beta                         110.052
+_cell_angle_gamma                        90
+_cell_volume                             1136.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Si
+ Cd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se4 Se 4 a 0.0 0.007 0.0 1
+ Se6 Se 4 a 0.0037 0.273 0.2636 1
+ Se2 Se 4 a 0.0345 0.525 0.0306 1
+ Si Si 4 a 0.0773 0.23 0.4484 1
+ Cd3 Cd 4 a 0.151 0.0715 0.2107 1
+ Se3 Se 4 a 0.2606 0.2423 0.5016 1
+ Cd1 Cd 4 a 0.3059 0.6005 0.1967 1
+ Se1 Se 4 a 0.3305 0.2523 0.2106 1
+ Cd2 Cd 4 a 0.3319 0.1077 0.0137 1
+ Cd4 Cd 4 a 0.5158 0.1994 0.3583 1
+ Se5 Se 4 a 0.7023 0.267 0.3184 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.56
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54178
+_pd_proc_wavelength                      1.54178
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          DRON-4.13
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54178
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 50
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                100
+_exptl_absorpt_coefficient_mu            86.976
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             48
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.1165
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.0791
+
+# End of data set 1810326
+
+

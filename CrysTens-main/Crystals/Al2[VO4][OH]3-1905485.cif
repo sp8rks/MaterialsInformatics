@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Al-H-O-V         # Al2[VO4][OH]3                                 # 1905485 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1905485
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1905485
+
+# Entry summary
+
+_chemical_formula_structural             'Al~2~ [V O~4~] [O H]~3~'
+_chemical_formula_sum                    'Al2 H3 O7 V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Al~2~[PO~4~][OH]~3~,mS40,12
+_chemical_formula_weight                 219.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Hydrothermal synthesis and characterization of a new aluminium vanadium oxide hydroxide Al~2~(OH)~3~(VO~4~)
+;
+_journal_coden_ASTM                      JMACEP
+_journal_name_full                       'J. Mater. Chem.'
+_journal_year                            1998
+_journal_volume                          8
+_journal_page_first                      1255
+_journal_page_last                       1258
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Pecquenard B.'
+;
+Binghamton University of SUNY (New York State University)
+Department of Chemistry
+Binghamton
+U.S.A. New York
+;
+'Zavalii P.Y.'
+;
+Binghamton University of SUNY (New York State University)
+Department of Chemistry
+Binghamton
+U.S.A. New York
+;
+'Whittingham M.S.'
+;
+Binghamton University of SUNY (New York State University)
+Department of Chemistry
+Binghamton
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.5634
+_cell_length_b                           8.2267
+_cell_length_c                           5.3123
+_cell_angle_alpha                        90
+_cell_angle_beta                         112.741
+_cell_angle_gamma                        90
+_cell_volume                             546.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ O
+ OH
+ V
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 8 j 0.0766 0.1672 0.267 1
+ O5 OH 8 j 0.3935 0.1788 0.142 1
+ V V 4 i 0.149 0 0.379 1
+ O2 O 4 i 0.2038 0 0.742 1
+ O1 O 4 i 0.2537 0 0.271 1
+ Al2 Al 4 i 0.3176 0 0.0363 1
+ O4 OH 4 i 0.5824 0 0.205 1
+ Al1 Al 4 g 0 0.3089 0 1
+
+
+_exptl_crystal_colour                    'brown light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.67
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Scintag XDS-2000'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.5418
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 8.5
+_diffrn_reflns_theta_max                 45
+_pd_proc_2theta_range_min                17
+_pd_proc_2theta_range_max                90
+_exptl_absorpt_coefficient_mu            19.17
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             29
+_refine_ls_number_reflns                 87
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.086
+_pd_proc_ls_proof_wR_factor              0.105
+_refine_ls_R_I_factor                    0.062
+
+# End of data set 1905485
+
+

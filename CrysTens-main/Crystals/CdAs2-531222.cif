@@ -1,0 +1,188 @@
+##############################################################################
+#                                                                            #
+# As-Cd            # CdAs2 m                                       #  531222 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_531222
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      531222
+
+# Entry summary
+
+_chemical_formula_structural             'Cd As~2~'
+_chemical_formula_sum                    'As2 Cd'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            ZnAs~2~,mP24,14
+_chemical_formula_weight                 262.3
+
+# Bibliographic data
+
+_publ_section_title
+'Crystallization of metastable \b-CdAs~2~ in the system Cd-As'                
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            1985
+_journal_volume                          21
+_journal_page_first                      650
+_journal_page_last                       652
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Ugai Y.A.'
+;
+Voronezh State University
+Voronezh
+Russia
+;
+'Marshakova T.A.'
+;
+Voronezh State University
+Voronezh
+Russia
+;
+'Aleinikova K.B.'
+;
+Voronezh State University
+Voronezh
+Russia
+;
+'Rabotkina N.S.'
+;
+Voronezh State University
+Voronezh
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.496
+_cell_length_b                           7.769
+_cell_length_c                           8.141
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.38
+_cell_angle_gamma                        90
+_cell_volume                             586.63
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Cd
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cd1 Cd 4 e 0.1075 0.4037 0.2793 1
+ As1 As 4 e 0.1197 0.0776 0.2774 1
+ As2 As 4 e 0.2586 0.0082 0.0632 1
+ As3 As 4 e 0.2599 0.4870 0.0655 1
+ As4 As 4 e 0.4309 0.2468 0.1081 1
+ Cd2 Cd 4 e 0.5809 0.2521 0.3957 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 59.3 10
+ 0 0 2 39.35 5
+ 1 2 0 35.8 50
+ 1 0 2 33.8 100
+ 1 1 2 31.1 20
+ 2 2 0 29.75 40
+ -3 1 1 28.89 1
+ 2 0 2 27.4 12
+ 2 1 2 25.82 15
+ 1 3 0 24.84 15
+ 2 2 2 22.4 75
+ 2 3 1 21.19 1
+ 1 3 2 20.43 30
+ 3 3 0 19.89 2
+ 3 2 2 19.26 100
+ 2 3 2 18.86 17
+ 4 0 2 18.37 32
+ -2 3 3 18.33 5
+ 0 2 4 17.65 13
+ 0 4 2 17.43 40
+ 1 4 2 16.84 50
+ 5 2 1 15.75 8
+ 5 0 2 15.6 8
+ 6 0 0 15.42 15
+ 1 3 4 15.13 10
+ 4 4 0 14.9 2
+ 1 4 -4 14.04 4
+ 0 4 4 13.86 10
+ 3 0 -6 13.26 35
+ 5 0 4 12.3 12
+ 1 2 6 12.1 20
+ 0 6 3 11.64 10
+ 2 2 6 11.54 20
+ 3 0 6 11.32 15
+ 8 2 0 11.11 10
+ 7 4 0 10.92 7
+ 1 6 4 10.6 9
+ 2 0 -8 10.17 20
+
+# End of data set 531222
+
+

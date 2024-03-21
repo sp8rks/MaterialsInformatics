@@ -1,0 +1,140 @@
+##############################################################################
+#                                                                            #
+# Cs-Na-O-Tl       # Cs2Na3TlO4                                    # 1707267 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1707267
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1707267
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Na~3~ Tl O~4~'
+_chemical_formula_sum                    'Cs2 Na3 O4 Tl'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            K~2~Li~3~GaO~4~,mP40,14
+_chemical_formula_weight                 603.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+New examples of the A~2~A'~3~[MO~4~] type: Rb~2~Na~3~[InO~4~], Cs~2~Na~3~[InO~4~], and Cs~2~Na~3~[TlO~4~]
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1991
+_journal_volume                          595
+_journal_page_first                      95
+_journal_page_last                       114
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Glaum R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+'Hoppe R.'
+;
+Giessen Justus Liebig University
+Institut f\"ur Anorganische und Analytische Chemie
+Giessen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.42
+_cell_length_b                           10.182
+_cell_length_c                           12.645
+_cell_angle_alpha                        90
+_cell_angle_beta                         111.12
+_cell_angle_gamma                        90
+_cell_volume                             771.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Na
+ Tl
+ O
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Na2 Na 4 e 0.0879 0.0255 0.2086 1
+ Tl Tl 4 e 0.1006 0.2801 0.4363 1
+ O3 O 4 e 0.2189 0.1011 0.3922 1
+ O2 O 4 e 0.223 0.1925 0.118 1
+ O1 O 4 e 0.2433 0.8218 0.1555 1
+ O4 O 4 e 0.2664 0.4374 0.3784 1
+ Cs2 Cs 4 e 0.2809 0.5026 0.1354 1
+ Na3 Na 4 e 0.3621 0.5104 0.5684 1
+ Na1 Na 4 e 0.3915 0.2562 0.3002 1
+ Cs1 Cs 4 e 0.7151 0.2717 0.107 1
+
+
+_exptl_crystal_colour                    'orange red'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.20
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_wavelength             0.5609
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.5609
+_diffrn_reflns_number                    6391
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            42.20
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             94
+_refine_ls_number_reflns                 2451
+_refine_ls_R_factor_gt                   0.154
+_refine_ls_wR_factor_gt                  0.091
+
+# End of data set 1707267
+
+

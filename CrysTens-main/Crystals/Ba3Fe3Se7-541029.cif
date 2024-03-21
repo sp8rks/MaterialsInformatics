@@ -1,0 +1,138 @@
+##############################################################################
+#                                                                            #
+# Ba-Fe-Se         # Ba3Fe3Se7                                     #  541029 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_541029
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      541029
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Fe~3~ Se~7~'
+_chemical_formula_sum                    'Ba3 Fe3 Se7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~Fe~3~Se~7~,hP26,186
+_chemical_formula_weight                 1132.3
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal chemistry of phases in the Ba-Fe-S and Se systems'               
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1972
+_journal_volume                          5
+_journal_page_first                      93
+_journal_page_last                       104
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Hong H.Y.P.'
+;
+Texas Austin University
+Department of Chemical Engineering
+Austin
+U.S.A. Texas
+;
+'Steinfink H.'
+;
+Texas Austin University
+Department of Chemical Engineering
+Austin
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.843
+_cell_length_b                           10.843
+_cell_length_c                           7.384
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             751.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ba
+ Se
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba Ba 6 c 0.1911 0.8089 0.262 1
+ Se1 Se 6 c 0.5427 0.4573 0.073 1
+ Fe Fe 6 c 0.7542 0.2458 0.248 1
+ Se2 Se 6 c 0.8748 0.1252 0.3515 1
+ Se3 Se 2 b 0.333333 0.666667 0.0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.00
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.70926
+_cell_measurement_reflns_used            31
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.70926
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            28.95
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 397
+_refine_ls_R_factor_gt                   0.0704
+_refine_ls_wR_factor_gt                  0.071
+
+# End of data set 541029
+
+

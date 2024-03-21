@@ -1,0 +1,213 @@
+##############################################################################
+#                                                                            #
+# Cm-Pt            # CmPt5 hex                                     # 1822937 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1822937
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1822937
+
+# Entry summary
+
+_chemical_formula_structural             'Cm Pt~5~'
+_chemical_formula_sum                    'Cm Pt5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CaCu~5~,hP6,191
+_chemical_formula_weight                 1222.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and characterization of binary actinide and lanthanide compounds. XVIII. ^244^Cm alloys with Pt, Ir, and Rh prepared by condensation of metallic Cm vapors
+;
+_journal_coden_ASTM                      RDIOEO
+_journal_name_full                       'Radiochemistry (Moscow)'
+_journal_year                            1994
+_journal_volume                          36
+_journal_page_first                      326
+_journal_page_last                       332
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Radchenko V.M.'
+;
+Dimitrovgrad Melekess University
+Institute of Atomic Reactors
+Dimitrovgrad
+Russia
+;
+'Seleznev A.G.'
+;
+Dimitrovgrad Melekess University
+Institute of Atomic Reactors
+Dimitrovgrad
+Russia
+;
+'Ryabinin M.A.'
+;
+Dimitrovgrad Melekess University
+Institute of Atomic Reactors
+Dimitrovgrad
+Russia
+;
+'Droznik R.R.'
+;
+Dimitrovgrad Melekess University
+Institute of Atomic Reactors
+Dimitrovgrad
+Russia
+;
+'Vasil'ev V.Y.'
+;
+Dimitrovgrad Melekess University
+Institute of Atomic Reactors
+Dimitrovgrad
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.3
+_cell_length_b                           5.3
+_cell_length_c                           4.4133
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             107.4
+_cell_formula_units_Z                    1
+_space_group_IT_number                   191
+_space_group_name_H-M_alt                'P 6/m m m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, z'
+ 6 '-x, -x+y, -z'
+ 7 '-x, -x+y, z'
+ 8 '-x, -y, -z'
+ 9 '-x, -y, z'
+ 10 '-y, -x, -z'
+ 11 '-y, -x, z'
+ 12 '-y, x-y, -z'
+ 13 '-y, x-y, z'
+ 14 'x, x-y, -z'
+ 15 'x, x-y, z'
+ 16 'x, y, -z'
+ 17 'x-y, -y, -z'
+ 18 'x-y, -y, z'
+ 19 'x-y, x, -z'
+ 20 'x-y, x, z'
+ 21 'y, -x+y, -z'
+ 22 'y, -x+y, z'
+ 23 'y, x, -z'
+ 24 'y, x, z'
+loop_
+ _atom_type_symbol
+ Pt
+ Cm
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Pt2 Pt 3 g 0.5 0 0.5 1
+ Pt1 Pt 2 c 0.333333 0.666667 0 1
+ Cm Cm 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            18.91
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 194.7 3
+ 1 1 0 338.1 8
+ 2 0 0 392.8 3
+ 1 1 1 396.9 8
+ 0 0 2 408.9 8
+ 2 0 1 444.9 2
+ 1 0 2 456.5 2
+ 1 1 2 540.6 3
+ 2 0 2 579.1 2
+ 3 0 0 605.6 7
+ 3 0 1 645 8
+ 2 2 0 710.6 7
+ 1 1 3 736.1 3
+ 3 0 2 755.3 3
+ 4 0 0 844.2 5
+ 2 2 2 853.7 8
+ 2 1 3 866.6 2
+ 4 0 1 876.3 2
+ 0 0 4 886.5 3
+ 3 0 3 932 2
+ 3 2 0 940.8 2
+ 4 0 2 983.3 2
+ 4 1 0 1005.4 5
+ 4 1 1 1041.2 8
+ 2 1 4 1117.3 2
+ 4 1 2 1152.6 3
+ 3 3 0 1214.1 5
+ 3 3 1 1255.4 8
+ 3 2 3 1280.8 5
+ 5 0 2 1307.3 3
+ 1 1 5 1336.8 3
+ 4 1 3 1370.9 5
+ 2 0 5 1384.4 2
+ 3 3 2 1399.2 3
+ 5 1 1 1437.2 2
+ 2 1 5 1563.4 2
+
+# End of data set 1822937
+
+

@@ -1,0 +1,133 @@
+##############################################################################
+#                                                                            #
+# Cs-Ga-Se         # Cs3GaSe3                                      # 1703105 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1703105
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1703105
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~3~ Ga Se~3~'
+_chemical_formula_sum                    'Cs3 Ga Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~3~GaSe~3~,mP28,14
+_chemical_formula_weight                 705.3
+_chemical_melting_point                  958
+
+# Bibliographic data
+
+_publ_section_title
+;
+Cs~6~Ga~2~Se~6~, a ternary selenogallate(III) with isolated [Ga~2~Se~6~]^6-^ ions
+;
+_journal_coden_ASTM                      ZNBAD2
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            1983
+_journal_volume                          38
+_journal_page_first                      181
+_journal_page_last                       182
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Deiseroth H.J.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Fu Son H.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.48
+_cell_length_b                           13.644
+_cell_length_c                           11.115
+_cell_angle_alpha                        90
+_cell_angle_beta                         126.22
+_cell_angle_gamma                        90
+_cell_volume                             1037.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ga
+ Se
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ga Ga 4 e 0.0686 0.0579 0.1603 1
+ Se3 Se 4 e 0.1114 0.5564 0.2383 1
+ Cs2 Cs 4 e 0.1298 0.8097 0.4157 1
+ Se1 Se 4 e 0.1364 0.6057 0.6082 1
+ Se2 Se 4 e 0.35 0.1612 0.3051 1
+ Cs1 Cs 4 e 0.3553 0.4197 0.1155 1
+ Cs3 Cs 4 e 0.3803 0.1284 0.0128 1
+
+
+_exptl_crystal_colour                    greenish
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.52
+_cell_measurement_temperature            123
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2098
+_refine_ls_R_factor_gt                   0.063
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1703105
+
+

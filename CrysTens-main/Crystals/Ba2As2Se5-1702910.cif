@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# As-Ba-Se         # Ba2As2Se5                                     # 1702910 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702910
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702910
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ As~2~ Se~5~'
+_chemical_formula_sum                    'As2 Ba2 Se5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~As~2~Se~5~,mP36,4
+_chemical_formula_weight                 819.3
+
+# Bibliographic data
+
+_publ_section_title
+'Darstellung und Struktur von Ba~2~As~2~Se~5~'                                
+_journal_coden_ASTM                      RVCMA8
+_journal_name_full                       'Rev. Chim. Miner.'
+_journal_year                            1985
+_journal_volume                          22
+_journal_page_first                      93
+_journal_page_last                       100
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cordier G.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+'Schwidetzky C.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+'Sch\"afer H.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.499
+_cell_length_b                           12.396
+_cell_length_c                           10.0687
+_cell_angle_alpha                        90
+_cell_angle_beta                         117.506
+_cell_angle_gamma                        90
+_cell_volume                             1051.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ As
+ Se
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ As1 As 2 a 0.0358 0.1797 0.5129 1
+ Se6 Se 2 a 0.0406 0.0 0.0172 1
+ Se9 Se 2 a 0.0509 0.3616 0.6078 1
+ Ba1 Ba 2 a 0.0776 0.7519 0.1411 1
+ Se2 Se 2 a 0.1166 0.0829 0.7391 1
+ Ba4 Ba 2 a 0.1757 0.4103 0.3453 1
+ As4 As 2 a 0.219 0.4884 0.008 1
+ Se5 Se 2 a 0.2588 0.1627 0.4703 1
+ Se10 Se 2 a 0.2992 0.3098 0.1023 1
+ Se1 Se 2 a 0.3719 0.5831 0.2367 1
+ As2 As 2 a 0.3995 0.0625 0.2618 1
+ Se8 Se 2 a 0.4923 0.0325 0.0741 1
+ Se4 Se 2 a 0.5636 0.3863 0.6324 1
+ Ba2 Ba 2 a 0.5832 0.7607 0.159 1
+ Se7 Se 2 a 0.6622 0.1458 0.4291 1
+ Ba3 Ba 2 a 0.6694 0.4144 0.3551 1
+ As3 As 2 a 0.7693 0.1028 0.2507 1
+ Se3 Se 2 a 0.7847 0.2703 0.14 1
+
+
+_exptl_crystal_colour                    'red dark'
+_exptl_crystal_density_meas              5.15
+_exptl_crystal_density_diffrn            5.18
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    6393
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            32.756
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             162
+_refine_ls_number_reflns                 5145
+_refine_ls_R_factor_gt                   0.089
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1702910
+
+

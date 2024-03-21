@@ -1,0 +1,153 @@
+##############################################################################
+#                                                                            #
+# Ba-Bi-Pb-Se      # Ba3PbBi6Se13                                  # 1414077 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1414077
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1414077
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Pb Bi~6~ Se~13~'
+_chemical_formula_sum                    'Ba3 Bi6 Pb Se13'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Sr~4~Bi~6~Se~13~,mP46,11
+_chemical_formula_weight                 2899.6
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and Characterization of Ba~3~Bi~6.67~Se~13~ and Its Filled Variants Ba~3~Bi~6~PbSe~13~ and Ba~3~Bi~6~SnSe~13~
+;
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2000
+_journal_volume                          12
+_journal_page_first                      1011
+_journal_page_last                       1017
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Wang Y.C.'
+;
+New York Ithaca Cornell University
+Department of Chemistry and Chemical Biology
+Ithaca
+U.S.A. New York
+;
+'DiSalvo F.J.'
+;
+New York Ithaca Cornell University
+Department of Chemistry and Chemical Biology
+Ithaca
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           17.2427
+_cell_length_b                           4.2736
+_cell_length_c                           18.456
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.861
+_cell_angle_gamma                        90
+_cell_volume                             1359.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Pb
+ Se
+ Bi
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Pb7 Pb 2 e 0.0131 0.25 0.7497 1
+ Se13 Se 2 e 0.0404 0.25 0.5903 1
+ Bi2 Bi 2 e 0.0819 0.25 0.4236 1
+ Bi4 Bi 2 e 0.1036 0.25 0.0262 1
+ Se17 Se 2 e 0.1062 0.25 0.2763 1
+ Se20 Se 2 e 0.2354 0.25 0.1246 1
+ Ba8 Ba 2 e 0.2672 0.25 0.8243 1
+ Se15 Se 2 e 0.2767 0.25 0.6405 1
+ Bi3 Bi 2 e 0.3271 0.25 0.4744 1
+ Se19 Se 2 e 0.3743 0.25 0.3346 1
+ Se16 Se 2 e 0.3952 0.25 0.9637 1
+ Ba10 Ba 2 e 0.4811 0.25 0.6549 1
+ Bi5 Bi 2 e 0.5087 0.25 0.1196 1
+ Se23 Se 2 e 0.5731 0.25 0.4872 1
+ Se12 Se 2 e 0.5777 0.25 0.8228 1
+ Se22 Se 2 e 0.6061 0.25 0.2342 1
+ Bi6 Bi 2 e 0.6883 0.25 0.959 1
+ Ba9 Ba 2 e 0.7478 0.25 0.7343 1
+ Se11 Se 2 e 0.8026 0.25 0.5571 1
+ Se18 Se 2 e 0.8103 0.25 0.0576 1
+ Bi1 Bi 2 e 0.827 0.25 0.382 1
+ Se21 Se 2 e 0.8646 0.25 0.2391 1
+ Se14 Se 2 e 0.9814 0.25 0.9074 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.08
+_cell_measurement_temperature            168
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              168
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    9586
+_diffrn_reflns_theta_min                 1.1
+_diffrn_reflns_theta_max                 26.47
+_exptl_absorpt_coefficient_mu            66.490
+_exptl_absorpt_correction_type           'analytical and empirical'
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             140
+_refine_ls_number_reflns                 3166
+_refine_ls_R_factor_gt                   0.0730
+_refine_ls_wR_factor_gt                  0.1261
+
+# End of data set 1414077
+
+

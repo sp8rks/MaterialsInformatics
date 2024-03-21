@@ -1,0 +1,152 @@
+##############################################################################
+#                                                                            #
+# C-Cl-Cs-H-Na-O-Rh # Cs2NaRh[CO3]2Cl[H2O]4                         # 1003142 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1003142
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1003142
+
+# Entry summary
+
+_chemical_formula_structural
+'Cs~2~ Na Rh [C O~3~]~2~ Cl [H~2~ O]~4~'                                      
+_chemical_formula_sum                    'C2 Cl Cs2 H8 Na O10 Rh'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Cs~2~NaRh[CO~3~]~2~Cl[H~2~O]~4~,mP68,14                                       
+_chemical_formula_weight                 619.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural characterization of two tetrakis(\m-carbonato) complexes of dirhodium(II)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1980
+_journal_volume                          19
+_journal_page_first                      320
+_journal_page_last                       323
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cotton F.A.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+'Felthouse T.R.'
+;
+Texas College Station Agricultural and Mechanical University
+Department of Chemistry
+College Station
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.798
+_cell_length_b                           10.753
+_cell_length_c                           12.906
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.98
+_cell_angle_gamma                        90
+_cell_volume                             1293.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ Cs
+ O
+ Na
+ C
+ Rh
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O8 OH2 4 e 0.002 0.2642 0.2566 1
+ O9 OH2 4 e 0.029 0.5194 0.645 1
+ Cs2 Cs 4 e 0.11358 0.75729 0.01233 1
+ O5 O 4 e 0.1686 0.5668 0.2418 1
+ O7 OH2 4 e 0.17 0.4031 0.0771 1
+ O10 OH2 4 e 0.193 0.0293 0.3873 1
+ O6 O 4 e 0.2261 0.1522 0.1306 1
+ Na Na 4 e 0.2511 0.2286 0.3205 1
+ C2 C 4 e 0.281 0.548 0.3207 1
+ C1 C 4 e 0.31 0.103 0.0835 1
+ O4 O 4 e 0.3389 0.5157 0.6 1
+ O1 O 4 e 0.3511 0.4427 0.3254 1
+ O3 O 4 e 0.3662 0.1715 0.0254 1
+ Rh Rh 4 e 0.51638 0.40171 0.46319 1
+ Cl Cl 4 e 0.5411 0.1849 0.3815 1
+ Cs1 Cs 4 e 0.54741 0.38078 0.16401 1
+ O2 O 4 e 0.678 0.1309 0.104 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.18
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            15
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 22.5
+_exptl_absorpt_coefficient_mu            7.1975
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             134
+_refine_ls_number_reflns                 1266
+_refine_ls_R_factor_gt                   0.037
+_refine_ls_wR_factor_gt                  0.050
+
+# End of data set 1003142
+
+

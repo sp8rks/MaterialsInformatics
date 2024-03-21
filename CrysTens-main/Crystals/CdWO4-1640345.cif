@@ -1,0 +1,190 @@
+##############################################################################
+#                                                                            #
+# Cd-O-W           # CdWO4                                         # 1640345 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1640345
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1640345
+
+# Entry summary
+
+_chemical_formula_structural             'Cd W O~4~'
+_chemical_formula_sum                    'Cd O4 W'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            MgWO~4~,mP12,13
+_chemical_formula_weight                 360.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structural, vibrational and luminescence properties of the (1-x)CaWO~4-x~CdWO~4~ system
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2014
+_journal_volume                          219
+_journal_page_first                      127
+_journal_page_last                       137
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Taoufyq A.'
+;
+La Garde Toulon University (Toulon-Var University of the South)
+Institut Mat\'eriaux Micro\'electronique et Nanosciences de Provence
+La Garde
+France
+;
+'Gavarri J.R.'
+;
+La Garde Toulon University (Toulon-Var University of the South)
+Institut Mat\'eriaux Micro\'electronique et Nanosciences de Provence
+La Garde
+France
+;
+'Guinneton F.'
+;
+La Garde Toulon University (Toulon-Var University of the South)
+Institut Mat\'eriaux Micro\'electronique et Nanosciences de Provence
+La Garde
+France
+;
+'Valmalette J.C.'
+;
+La Garde Toulon University (Toulon-Var University of the South)
+Institut Mat\'eriaux Micro\'electronique et Nanosciences de Provence
+La Garde
+France
+;
+'Arab M.'
+;
+La Garde Toulon University (Toulon-Var University of the South)
+Institut Mat\'eriaux Micro\'electronique et Nanosciences de Provence
+La Garde
+France
+;
+'Benlhachemi A.'
+;
+Agadir Ibnou Zohr University
+Laboratoire Mat\'eriaux et Environnement
+Agadir
+Morocco
+;
+'Bakiz B.'
+;
+Agadir Ibnou Zohr University
+Laboratoire Mat\'eriaux et Environnement
+Agadir
+Morocco
+;
+'Villain S.'
+;
+La Garde Toulon University (Toulon-Var University of the South)
+Institut Mat\'eriaux Micro\'electronique et Nanosciences de Provence
+La Garde
+France
+;
+'Lyoussi A.'
+;
+Commissariat a l'Energie Atomique (CEA)
+Laboratoire Dosim\'etrie Capteurs Instrumentation
+Saint-Paul-l\`es-Durance
+France
+;
+'Nolibe G.'
+;
+CeSigma - Signals and Systems
+La Garde
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.031
+_cell_length_b                           5.8545
+_cell_length_c                           5.0745
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.527
+_cell_angle_gamma                        90
+_cell_volume                             149.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ W
+ Cd
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 g 0.259 0.129 0.618 1
+ O1 O 4 g 0.297 0.404 0.048 1
+ W W 2 f 0.5 0.675 0.25 1
+ Cd Cd 2 e 0 0.196 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.01
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54
+_pd_proc_wavelength                      1.54
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'PANalytical Empyrean'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    0.0689
+
+# End of data set 1640345
+
+

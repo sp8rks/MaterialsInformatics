@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# As-Se            # As2Se3                                        # 1832198 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1832198
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1832198
+
+# Entry summary
+
+_chemical_formula_structural             'As~2~ Se~3~'
+_chemical_formula_sum                    'As2 Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            As~2~S~3~,mP20,14
+_chemical_formula_weight                 386.7
+
+# Bibliographic data
+
+_publ_section_title
+'Phase equilibria in the CdGa~2~Se~4~-PbSe and CdGa~2~Se~4~-As~2~Se~3~ systems'
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            2006
+_journal_volume                          425
+_journal_page_first                      206
+_journal_page_last                       209
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sosovska S.M.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+'Romanyuk Y.E.'
+;
+Ecole Polytechnique Federale de Lausanne (EPFL)
+Institute of Imaging and Applied Optics
+Lausanne
+Switzerland
+;
+'Olekseyuk I.D.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+'Parasyuk O.V.'
+;
+Lutsk Lesya Ukrainka Volyn State University
+Department of General and Inorganic Chemistry
+Lutsk
+Ukraine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.275
+_cell_length_b                           9.887
+_cell_length_c                           12.7286
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.945
+_cell_angle_gamma                        90
+_cell_volume                             508.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ Se
+ As
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 e 0.06338 0.70646 0.12234 1
+ As1 As 4 e 0.09805 0.30829 0.23531 1
+ Se2 Se 4 e 0.16273 0.10277 0.15262 1
+ As2 As 4 e 0.37395 0.17878 0.01323 1
+ Se3 Se 4 e 0.60660 0.37872 0.09849 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.05
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1832198
+
+

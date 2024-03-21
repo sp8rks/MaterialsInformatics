@@ -1,0 +1,161 @@
+##############################################################################
+#                                                                            #
+# Ba-Cl-Cs-S-Sn    # CsBa2SnS4Cl                                   # 1642449 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1642449
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1642449
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Ba~2~ Sn S~4~ Cl'
+_chemical_formula_sum                    'Ba2 Cl Cs S4 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsBa~2~SnS~4~Cl,mP36,14
+_chemical_formula_weight                 689.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Four new chalcohalides, NaBa~2~SnS~4~Cl, KBa~2~SnS~4~Cl, KBa~2~SnS~4~Br and CsBa~2~SnS~4~Cl: Syntheses, crystal structures and optical properties
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            2015
+_journal_volume                          227
+_journal_page_first                      104
+_journal_page_last                       109
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Li C.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Feng K.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Tu H.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Yao J.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Wu Y.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.946
+_cell_length_b                           8.7928
+_cell_length_c                           12.532
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.75
+_cell_angle_gamma                        90
+_cell_volume                             1095.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cs
+ S
+ Sn
+ Ba
+ Cl
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs Cs 4 e 0.02138 0.08422 0.32827 1
+ S1 S 4 e 0.0596 0.17493 0.05916 1
+ Sn Sn 4 e 0.25762 0.31141 0.09958 1
+ S2 S 4 e 0.28135 0.37219 0.28468 1
+ S3 S 4 e 0.44648 0.1598 0.06263 1
+ Ba1 Ba 4 e 0.47965 0.09215 0.3224 1
+ Cl1 Cl 4 e 0.71635 0.32821 0.27403 1
+ S4 S 4 e 0.71744 0.46135 0.0003 1
+ Ba2 Ba 4 e 0.7523 0.10195 0.02337 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.18
+_cell_measurement_temperature            153(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            4444
+_diffrn_ambient_temperature              153(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC10'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    10607
+_diffrn_reflns_theta_min                 2.83
+_diffrn_reflns_theta_max                 31.51
+_exptl_absorpt_coefficient_mu            13.578
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             82
+_refine_ls_number_reflns                 3200
+_refine_ls_R_factor_gt                   0.0389
+_refine_ls_wR_factor_gt                  0.0845
+
+# End of data set 1642449
+
+

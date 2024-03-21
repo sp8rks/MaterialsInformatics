@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Cs-N-Tb-Te       # Cs2Tb6Te7N2                                   # 1715211 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1715211
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1715211
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Tb~6~ Te~7~ N~2~'
+_chemical_formula_sum                    'Cs2 N2 Tb6 Te7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~Gd~6~Te~7~N~2~,mS34,12
+_chemical_formula_weight                 2140.6
+
+# Bibliographic data
+
+_publ_section_title
+'Cs~2~Tb~6~N~2~Te~7~: Ein quatern\"ares Nitridtellurid des Terbiums'          
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2008
+_journal_volume                          634
+_journal_page_first                      2061a
+_journal_page_last                       ?
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lissner F.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Schleid T.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           23.948
+_cell_length_b                           4.2135
+_cell_length_c                           11.4049
+_cell_angle_alpha                        90
+_cell_angle_beta                         104.031
+_cell_angle_gamma                        90
+_cell_volume                             1116.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Cs
+ N
+ Tb
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs Cs 4 i 0.06607 0 0.69645 1
+ N N 4 i 0.1378 0 0.1944 1
+ Tb1 Tb 4 i 0.16522 0 0.39095 1
+ Tb2 Tb 4 i 0.21634 0 0.13005 1
+ Te2 Te 4 i 0.23993 0 0.6614 1
+ Te3 Te 4 i 0.33596 0 0.05858 1
+ Te4 Te 4 i 0.57562 0 0.40413 1
+ Tb3 Tb 4 i 0.59053 0 0.13618 1
+ Te1 Te 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.37
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   X-rays
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1715211
+
+

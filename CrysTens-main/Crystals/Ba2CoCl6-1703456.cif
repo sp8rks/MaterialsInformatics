@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# Ba-Cl-Co         # Ba2CoCl6                                      # 1703456 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1703456
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1703456
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Co Cl~6~'
+_chemical_formula_sum                    'Ba2 Cl6 Co'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~CoCl~6~,mP36,14
+_chemical_formula_weight                 546.3
+
+# Bibliographic data
+
+_publ_section_title
+'Ba~2~CoCl~6~: Synthesis, Crystal Structure, and Spectroscopic Properties'    
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2000
+_journal_volume                          626
+_journal_page_first                      2103
+_journal_page_last                       2106
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Assoud A.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+'Wickleder C.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+'Meyer G.'
+;
+Cologne (K\"oln) University
+Institut f\"ur Anorganische Chemie
+Cologne (K\"oln)
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.141
+_cell_length_b                           8.114
+_cell_length_c                           15.6979
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.393
+_cell_angle_gamma                        90
+_cell_volume                             949.1
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ba
+ Cl
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba2 Ba 4 e 0.069 0.8928 0.2049 1
+ Cl1 Cl 4 e 0.1304 0.6481 0.0739 1
+ Cl3 Cl 4 e 0.1369 0.2694 0.1969 1
+ Co Co 4 e 0.2005 0.3565 0.0699 1
+ Cl6 Cl 4 e 0.2149 0.0757 0.0385 1
+ Cl4 Cl 4 e 0.2515 0.0695 0.4293 1
+ Cl5 Cl 4 e 0.5108 0.4214 0.2049 1
+ Ba1 Ba 4 e 0.526 0.2799 0.406 1
+ Cl2 Cl 4 e 0.7133 0.1018 0.1355 1
+
+
+_exptl_crystal_colour                    'blue cornflower'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.82
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 24
+_exptl_absorpt_coefficient_mu            2.884
+_exptl_absorpt_correction_type           numerical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 970
+_refine_ls_R_factor_gt                   0.0280
+_refine_ls_wR_factor_gt                  0.0416
+
+# End of data set 1703456
+
+

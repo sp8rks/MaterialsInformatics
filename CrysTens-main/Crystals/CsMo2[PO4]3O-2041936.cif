@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Cs-Mo-O-P        # CsMo2[PO4]3O                                  # 2041936 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_2041936
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      2041936
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Mo~2~ [P O~4~]~3~ O'
+_chemical_formula_sum                    'Cs Mo2 O13 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsMo~2~[PO~4~]~3~O,mP38,13
+_chemical_formula_weight                 625.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Layer and Tunnel Structures in New Molybdenophosphates: Cs~2~Mo~4~P~6~O~26~ and M~4~Mo~8~P~12~O~52~ (M= Cs, Rb, K, Tl)
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1987
+_journal_volume                          69
+_journal_page_first                      320
+_journal_page_last                       328
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lii K.H.'
+;
+Exxon Chemical Co.
+Annandale
+U.S.A. New Jersey
+;
+'Haushalter R.C.'
+;
+Exxon Chemical Co.
+Annandale
+U.S.A. New Jersey
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.479
+_cell_length_b                           8.461
+_cell_length_c                           9.018
+_cell_angle_alpha                        90
+_cell_angle_beta                         101.99
+_cell_angle_gamma                        90
+_cell_volume                             558.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Mo
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 g 0.0589 0.6731 0.4499 1
+ O2 O 4 g 0.121 0.0555 0.6714 1
+ O5 O 4 g 0.1252 0.1502 0.3649 1
+ P2 P 4 g 0.1547 0.5606 0.3654 1
+ Mo Mo 4 g 0.2187 0.23356 0.57188 1
+ O6 O 4 g 0.2696 0.4382 0.465 1
+ O3 O 4 g 0.2704 0.6404 0.2688 1
+ O1 O 4 g 0.4289 0.1602 0.5859 1
+ Cs Cs 2 f 0.5 0.2414 0.25 1
+ P1 P 2 e 0 0.0441 0.25 1
+ O7 O 2 e 0 0.466 0.25 1
+
+
+_exptl_crystal_colour                    'green brownish'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.72
+_cell_measurement_temperature            296
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1411
+_exptl_absorpt_coefficient_mu            5.964
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             89
+_refine_ls_number_reflns                 936
+_refine_ls_R_factor_gt                   0.045
+_refine_ls_wR_factor_gt                  0.053
+
+# End of data set 2041936
+
+

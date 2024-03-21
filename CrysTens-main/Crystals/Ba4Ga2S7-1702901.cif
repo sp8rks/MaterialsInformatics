@@ -1,0 +1,143 @@
+##############################################################################
+#                                                                            #
+# Ba-Ga-S          # Ba4Ga2S7                                      # 1702901 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1702901
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1702901
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~4~ Ga~2~ S~7~'
+_chemical_formula_sum                    'Ba4 Ga2 S7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~4~Ga~2~S~7~,mP26,11
+_chemical_formula_weight                 913.2
+
+# Bibliographic data
+
+_publ_section_title
+'Darstellung und Kristallstruktur von Ba~4~Ga~2~S~7~ und Ba~3~Ga~2~S~6~'      
+_journal_coden_ASTM                      RVCMA8
+_journal_name_full                       'Rev. Chim. Miner.'
+_journal_year                            1984
+_journal_volume                          21
+_journal_page_first                      12
+_journal_page_last                       20
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Eisenmann B.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+'Jakowski M.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+'Sch\"afer H.'
+;
+Darmstadt University of Technology
+Eduard Zintl Institut
+Darmstadt
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.028
+_cell_length_b                           7.164
+_cell_length_c                           11.766
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.32
+_cell_angle_gamma                        90
+_cell_volume                             722.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ Ba
+ Ga
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 4 f 0.2407 0.0048 0.6691 1
+ S2 S 4 f 0.3172 0.0002 0.0884 1
+ S5 S 2 e 0.0084 0.25 0.1564 1
+ Ba4 Ba 2 e 0.0196 0.25 0.8836 1
+ Ba3 Ba 2 e 0.0779 0.25 0.4343 1
+ Ga2 Ga 2 e 0.2682 0.25 0.1879 1
+ S3 S 2 e 0.4174 0.25 0.3895 1
+ Ba2 Ba 2 e 0.532 0.25 0.6841 1
+ Ba1 Ba 2 e 0.6323 0.25 0.1068 1
+ Ga1 Ga 2 e 0.6873 0.25 0.4173 1
+ S4 S 2 e 0.8369 0.25 0.6108 1
+
+
+_exptl_crystal_colour                    rose
+_exptl_crystal_density_meas              4.16
+_exptl_crystal_density_diffrn            4.20
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Philips PW1100'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4458
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            14.625
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             73
+_refine_ls_number_reflns                 2031
+_refine_ls_R_factor_gt                   0.062
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1702901
+
+

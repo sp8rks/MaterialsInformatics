@@ -1,0 +1,163 @@
+##############################################################################
+#                                                                            #
+# Bi-Co-O-S        # CoBi6[SO4]2O8                                 # 1641065 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1641065
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1641065
+
+# Entry summary
+
+_chemical_formula_structural             'Co Bi~6~ [S O~4~]~2~ O~8~'
+_chemical_formula_sum                    'Bi6 Co O16 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            TiBi~6~[PO~4~]~2~O~8~,mS50,5
+_chemical_formula_weight                 1632.9
+
+# Bibliographic data
+
+_publ_section_title
+'Revised Bi/M layered oxo-sulfate (M= Co, Cu): A structural and magnetic study'
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2014
+_journal_volume                          53
+_journal_page_first                      6969
+_journal_page_last                       6978
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'L\"u M.'
+;
+Villeneuve d'Ascq Lille Nord de France University
+Unit\'e de Catalyse et de Chimie du Solide
+Villeneuve d'Ascq
+France
+;
+'Colmont M.'
+;
+Villeneuve d'Ascq Lille Nord de France University
+Unit\'e de Catalyse et de Chimie du Solide
+Villeneuve d'Ascq
+France
+;
+'Kabbour H.'
+;
+Villeneuve d'Ascq Lille Nord de France University
+Unit\'e de Catalyse et de Chimie du Solide
+Villeneuve d'Ascq
+France
+;
+'Colis S.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Institut de Physique et Chimie des Mat\'eriaux de Strasbourg
+Strasbourg
+France
+;
+'Mentr\'e O.'
+;
+Villeneuve d'Ascq Lille Nord de France University
+Unit\'e de Catalyse et de Chimie du Solide
+Villeneuve d'Ascq
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           15.2834
+_cell_length_b                           5.5468
+_cell_length_c                           11.503
+_cell_angle_alpha                        90
+_cell_angle_beta                         133.012
+_cell_angle_gamma                        90
+_cell_volume                             713.05
+_cell_formula_units_Z                    2
+_space_group_IT_number                   5
+_space_group_name_H-M_alt                'C 1 2 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, y, -z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Bi
+ O
+ S
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Bi1 Bi 4 c 0.00843 0.26137 0.85377 1
+ O2 O 4 c 0.077 0.017 0.6899 1
+ O6 O 4 c 0.1461 0.3201 0.5493 1
+ O8 O 4 c 0.1425 0.5325 0.3145 1
+ O7 O 4 c 0.1497 0.031 0.3119 1
+ O5 O 4 c 0.2497 0.266 0.1772 1
+ Bi3 Bi 4 c 0.33216 0.18693 0.49286 1
+ O4 O 4 c 0.3463 0.305 0.077 1
+ S1 S 4 c 0.363 0.289 0.2166 1
+ O3 O 4 c 0.4411 0.089 0.3168 1
+ Bi2 Bi 4 c 0.67344 0.26696 0.19371 1
+ Co1 Co 2 b 0 0.26 0.5 1
+ O1 O 2 a 0 0.0 0 1
+ O9 O 2 a 0 0.489 0 1
+
+
+_exptl_crystal_colour                    pink
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.61
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX DUO'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    9457
+_diffrn_reflns_theta_min                 2.42
+_diffrn_reflns_theta_max                 33.18
+_exptl_absorpt_coefficient_mu            75.281
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             73
+_refine_ls_number_reflns                 2312
+_refine_ls_R_factor_gt                   0.038
+_refine_ls_wR_factor_gt                  0.046
+
+# End of data set 1641065
+
+

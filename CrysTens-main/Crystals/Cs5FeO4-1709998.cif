@@ -1,0 +1,137 @@
+##############################################################################
+#                                                                            #
+# Cs-Fe-O          # Cs5FeO4 mon2                                  # 1709998 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1709998
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1709998
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~5~ Fe O~4~'
+_chemical_formula_sum                    'Cs5 Fe O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~5~FeO~4~-a,mP40,14
+_chemical_formula_weight                 784.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+New orthoferrates of rubidium and cesium: \a-, \b-Cs~5~[Fe^3+^O~4~] and A^1+^~7~[Fe^4+^O~4~][Fe^5+^O~4~] (A^1+^= Rb, Cs)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2005
+_journal_volume                          631
+_journal_page_first                      507
+_journal_page_last                       517
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Frisch G.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'R\"ohr C.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.3392
+_cell_length_b                           12.6949
+_cell_length_c                           7.2505
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.073
+_cell_angle_gamma                        90
+_cell_volume                             1030.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cs
+ O
+ Fe
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cs4 Cs 4 e 0.00829 0.42406 0.25649 1
+ O2 O 4 e 0.112 0.1065 0.1458 1
+ Cs2 Cs 4 e 0.14765 0.67649 0.33278 1
+ Cs1 Cs 4 e 0.23526 0.20274 0.49635 1
+ Fe1 Fe 4 e 0.25384 0.03198 0.11312 1
+ O4 O 4 e 0.271 0.4669 0.3574 1
+ Cs3 Cs 4 e 0.36782 0.57221 0.05241 1
+ O3 O 4 e 0.3896 0.0941 0.2547 1
+ Cs5 Cs 4 e 0.50475 0.3623 0.42312 1
+ O1 O 4 e 0.7585 0.3884 0.313 1
+
+
+_exptl_crystal_colour                    brown
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.06
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    17913
+_diffrn_reflns_theta_min                 2.4
+_diffrn_reflns_theta_max                 29.1
+_exptl_absorpt_coefficient_mu            18.83
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             91
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0289
+_refine_ls_wR_factor_gt                  0.0507
+
+# End of data set 1709998
+
+

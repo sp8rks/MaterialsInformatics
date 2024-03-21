@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# Br-Cs-H-Mg-O     # CsMgBr3[H2O]6                                 # 1926650 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1926650
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1926650
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Mg Br~3~ [H~2~ O]~6~'
+_chemical_formula_sum                    'Br3 Cs H12 Mg O6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            [NH~4~]MgCl~3~[H~2~O]~6~,mS44,15
+_chemical_formula_weight                 505.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+The low and high temperature crystal structures of [Mg(H~2~O)~6~]XBr~3~ double salts (X= Rb, Cs)
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2008
+_journal_volume                          634
+_journal_page_first                      1857
+_journal_page_last                       1862
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Dinnebier R.E.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Liebold Ribeiro Y.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Jansen M.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.823
+_cell_length_b                           9.9804
+_cell_length_c                           14.01
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.143
+_cell_angle_gamma                        90
+_cell_volume                             1373.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ Br
+ Cs
+ Mg
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 OH2 8 f 0.09109 0.0375 0.13865 1
+ O2 OH2 8 f 0.177 0.0968 0.44637 1
+ Br2 Br 8 f 0.25922 0.25382 0.24747 1
+ O1 OH2 8 f 0.41277 0.31913 0.04175 1
+ Cs Cs 4 e 0 0.49339 0.25 1
+ Br1 Br 4 b 0 0.5 0 1
+ Mg Mg 4 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.44
+_cell_measurement_temperature            295
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.54059
+_pd_proc_wavelength                      1.54059
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS D8'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.54059
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2.5
+_diffrn_reflns_theta_max                 62.5
+_pd_proc_2theta_range_min                5
+_pd_proc_2theta_range_max                125
+_exptl_absorpt_coefficient_mu            29.920
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             37
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.04154
+_pd_proc_ls_proof_wR_factor              0.05335
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1926650
+
+

@@ -1,0 +1,144 @@
+##############################################################################
+#                                                                            #
+# B-C-Ca-Mn-O      # Ca4Mn3[BO3]3[CO3]O3                           # 1801673 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1801673
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1801673
+
+# Entry summary
+
+_chemical_formula_structural
+'Ca~4~ Mn~3~ [B O~3~]~3~ [C O~3~] O~3~'                                       
+_chemical_formula_sum                    'B3 C Ca4 Mn3 O15'
+_chemical_name_mineral                   gaudefroyite
+_chemical_compound_source
+'Morocco, Bou-Azzer district, Anti-Atlas, Tachgagalt vein'                    
+_chemical_name_structure_type
+Ca~4~Mn~3~[BO~3~]~3~[CO~3~]O~3~,hP52,173                                      
+_chemical_formula_weight                 609.6
+
+# Bibliographic data
+
+_publ_section_title
+'Structure refinement for gaudefroyite'                                       
+_journal_coden_ASTM                      SPHCA6
+_journal_name_full                       'Sov. Phys. Crystallogr.'
+_journal_year                            1975
+_journal_volume                          20
+_journal_page_first                      87
+_journal_page_last                       88
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yakubovich O.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Simonov M.A.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+'Belov N.V.'
+;
+Moscow M.V. Lomonosov State University
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.606
+_cell_length_b                           10.606
+_cell_length_c                           5.879
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             572.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ca
+ B
+ Mn
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 6 c 0.093 0.473 0.182 1
+ O5 O 6 c 0.141 0.055 0.005 1
+ Ca2 Ca 6 c 0.167 0.299 0.183 1
+ O2 O 6 c 0.302 0.465 0.476 1
+ O3 O 6 c 0.401 0.317 0.19 1
+ B B 6 c 0.449 0.218 0.174 1
+ O1 O 6 c 0.478 0.174 0.388 1
+ Mn Mn 6 c 0.502 0.001 0.431 1
+ Ca1 Ca 2 b 0.333333 0.666667 0.187 1
+ C C 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.53
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1235
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1185
+_refine_ls_R_factor_gt                   0.0545
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1801673
+
+

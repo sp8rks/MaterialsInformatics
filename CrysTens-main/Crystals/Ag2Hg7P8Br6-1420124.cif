@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# Ag-Br-Hg-P       # Ag2Hg7P8Br6                                   # 1420124 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1420124
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1420124
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ Hg~7~ P~8~ Br~6~'
+_chemical_formula_sum                    'Ag2 Br6 Hg7 P8'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~Hg~7~P~8~Br~6~,mS46,12
+_chemical_formula_weight                 2347.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Reduction of the Host Cationic Framework Charge by Isoelectronic Substitution: Synthesis and Structure of Hg~7~Ag~2~P~8~X~6~ (X= Br, I) and Hg~6~Ag~4~P~8~Br~6~
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2005
+_journal_volume                          44
+_journal_page_first                      9622
+_journal_page_last                       9624
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Oleneva O.S.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Olenev A.V.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Shestimerova T.A.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Baranov A.I.'
+;
+Moscow M.V. Lomonosov State University
+Department of Materials Science
+Moscow
+Russia
+;
+'Dikarev E.V.'
+;
+Albany University of SUNY (New York State University)
+Department of Chemistry
+Albany
+U.S.A. New York
+;
+'Shevel'kov A.V.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.866
+_cell_length_b                           10.9562
+_cell_length_c                           8.0792
+_cell_angle_alpha                        90
+_cell_angle_beta                         100.902
+_cell_angle_gamma                        90
+_cell_volume                             1118.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Hg
+ P
+ Br
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Hg3 Hg 8 j 0.05121 0.31798 0.26413 1
+ P9 P 8 j 0.08104 0.1565 0.0757 1
+ Br5 Br 8 j 0.344 0.29483 0.35718 1
+ P8 P 4 i 0.0867 0 0.2483 1
+ Hg2 Hg 4 i 0.27326 0 0.36941 1
+ Br4 Br 4 i 0.35684 0 0.04254 1
+ P7 P 4 i 0.5637 0 0.4312 1
+ Ag Ag 4 e 0.25 0.25 0 1
+ Hg1 Hg 2 c 0 0 0.5 1
+
+
+_exptl_crystal_colour                    black
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.97
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              173
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4749
+_exptl_absorpt_coefficient_mu            60.842
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0374
+_refine_ls_wR_factor_gt                  0.0968
+
+# End of data set 1420124
+
+

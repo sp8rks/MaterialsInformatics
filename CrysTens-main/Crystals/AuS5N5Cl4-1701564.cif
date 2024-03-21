@@ -1,0 +1,149 @@
+##############################################################################
+#                                                                            #
+# Au-Cl-N-S        # AuS5N5Cl4                                     # 1701564 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1701564
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1701564
+
+# Entry summary
+
+_chemical_formula_structural             'Au S~5~ N~5~ Cl~4~'
+_chemical_formula_sum                    'Au Cl4 N5 S5'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AuS~5~N~5~Cl~4~,mP30,11
+_chemical_formula_weight                 569.1
+
+# Bibliographic data
+
+_publ_section_title
+Cyclopentaazathienium-tetrachloroaurat                                        
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1986
+_journal_volume                          42
+_journal_page_first                      1263
+_journal_page_last                       1264
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Willing W.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Ruangsuttinarupap S.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'M\"uller U.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+'Dehnicke K.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.34
+_cell_length_b                           11.997
+_cell_length_c                           10.16
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.51
+_cell_angle_gamma                        90
+_cell_volume                             641.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ N
+ S
+ Cl
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ N3 N 4 f 0.075 0.1341 0.5849 1
+ S2 S 4 f 0.0851 0.5629 0.3308 1
+ Cl1 Cl 4 f 0.116 0.1155 0.0803 1
+ N2 N 4 f 0.241 0.6397 0.253 1
+ S1 S 4 f 0.427 0.6293 0.1495 1
+ Cl2 Cl 4 f 0.5728 0.1157 0.33 1
+ S3 S 2 e 0.1629 0.25 0.5363 1
+ Au Au 2 e 0.3451 0.25 0.20384 1
+ N1 N 2 e 0.493 0.25 0.889 1
+
+
+_exptl_crystal_colour                    golden
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            16
+_diffrn_ambient_temperature              295
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    1739
+_exptl_absorpt_coefficient_mu            12.56
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1370
+_refine_ls_R_factor_gt                   0.044
+_refine_ls_wR_factor_gt                  0.050
+
+# End of data set 1701564
+
+

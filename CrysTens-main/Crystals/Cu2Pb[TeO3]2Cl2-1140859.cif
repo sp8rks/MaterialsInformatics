@@ -1,0 +1,176 @@
+##############################################################################
+#                                                                            #
+# Cl-Cu-O-Pb-Te    # Cu2Pb[TeO3]2Cl2                               # 1140859 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1140859
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1140859
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ Pb [Te O~3~]~2~ Cl~2~'
+_chemical_formula_sum                    'Cl2 Cu2 O6 Pb Te2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            BaCu~2~Te~2~Cl~2~O~6~,mP26,4
+_chemical_formula_weight                 756.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structures and variable magnetism of PbCu~2~(XO~3~)~2~Cl~2~ with X= Se, Te
+;
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2013
+_journal_volume                          42
+_journal_page_first                      9547
+_journal_page_last                       9554
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Berdonosov P.S.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Janson O.'
+;
+Estonian Academy of Sciences
+National Institute for Chemical Physics and Biophysics
+Tallinn
+Estonia
+;
+'Olenev A.V.'
+;
+Sine Theta Ltd.
+Moscow
+Russia
+;
+'Krivovichev S.V.'
+;
+Saint Petersburg State University
+Department of Crystallography
+Saint Petersburg
+Russia
+;
+'Rosner H.'
+;
+Max Planck Society
+MPI f\"ur Chemische Physik Fester Stoffe
+Dresden
+Germany
+;
+'Dolgikh V.A.'
+;
+Moscow M.V. Lomonosov State University
+Department of Chemistry
+Moscow
+Russia
+;
+'Tsirlin A.A.'
+;
+Estonian Academy of Sciences
+National Institute for Chemical Physics and Biophysics
+Tallinn
+Estonia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.2401
+_cell_length_b                           7.2688
+_cell_length_c                           8.2846
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.416
+_cell_angle_gamma                        90
+_cell_volume                             433.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ Cl
+ Te
+ Pb
+ O
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cl2 Cl 2 a 0.1106 0.2397 0.7709 1
+ Te1 Te 2 a 0.1272 0.358 0.3872 1
+ Pb Pb 2 a 0.12805 0.0 0.06175 1
+ O2 O 2 a 0.147 0.375 0.165 1
+ O5 O 2 a 0.191 0.11 0.393 1
+ Cu2 Cu 2 a 0.318 0.0085 0.5868 1
+ Cu1 Cu 2 a 0.3622 0.4923 0.0902 1
+ O6 O 2 a 0.46 0.05 0.064 1
+ O1 O 2 a 0.541 0.369 0.24 1
+ Cl1 Cl 2 a 0.5533 0.2254 0.6245 1
+ Te2 Te 2 a 0.6449 0.1298 0.2321 1
+ O4 O 2 a 0.796 0.155 0.059 1
+ O3 O 2 a 0.872 0.318 0.376 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.80
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1840
+_diffrn_reflns_theta_min                 2.83
+_diffrn_reflns_theta_max                 25.99
+_exptl_absorpt_coefficient_mu            31.450
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             119
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0540
+_refine_ls_wR_factor_gt                  0.1396
+
+# End of data set 1140859
+
+

@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# Ag-Cu-Ge-Se      # AgCuGeSe3                                     # 1125621 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1125621
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1125621
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Cu Ge Se~3~'
+_chemical_formula_sum                    'Ag Cu Ge Se3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AgCuGeSe~3~,mS24,9
+_chemical_formula_weight                 480.9
+_chemical_melting_point                  831
+
+# Bibliographic data
+
+_publ_section_title
+'Preparation and electrical characterization of the compound CuAgGeSe~3~'     
+_journal_coden_ASTM                      JPCSDZ
+_journal_name_full                       'J. Phys. Conf. Ser.'
+_journal_year                            2009
+_journal_volume                          167
+_journal_page_first                      1
+_journal_page_last                       5
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Villarreal M.A.'
+;
+M\'erida Los Andes University (ULA)
+Laboratorio de Temperaturas Bajas
+M\'erida
+Venezuela
+;
+'De Chalbaud L.M.'
+;
+M\'erida Los Andes University (ULA)
+Laboratorio de Temperaturas Bajas
+M\'erida
+Venezuela
+;
+'Fernandez B.J.'
+;
+M\'erida Los Andes University (ULA)
+Laboratorio de Temperaturas Bajas
+M\'erida
+Venezuela
+;
+'Velasquez Velasquez A.'
+;
+M\'erida Los Andes University (ULA)
+Laboratorio de Temperaturas Bajas
+M\'erida
+Venezuela
+;
+'Pirela M.'
+;
+M\'erida Los Andes University (ULA)
+Laboratorio de Temperaturas Bajas
+M\'erida
+Venezuela
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.776
+_cell_length_b                           11.9015
+_cell_length_c                           6.772
+_cell_angle_alpha                        90
+_cell_angle_beta                         108.2
+_cell_angle_gamma                        90
+_cell_volume                             518.8
+_cell_formula_units_Z                    4
+_space_group_IT_number                   9
+_space_group_name_H-M_alt                'C 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+ 3 '1/2+x, 1/2+y, z'
+ 4 '1/2+x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Se
+ Cu
+ Ge
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Se1 Se 4 a 0.0 0.4189 0.0 1
+ Se3 Se 4 a 0.014 0.2457 0.5152 1
+ Se2 Se 4 a 0.0338 0.0588 0.0386 1
+ Cu1 Cu 4 a 0.3651 0.4254 0.141 1
+ Ge1 Ge 4 a 0.381 0.0822 0.1146 1
+ Ag1 Ag 4 a 0.3875 0.2553 0.6336 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            6.16
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_wavelength             1.54059
+_pd_proc_wavelength                      1.54059
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D5005'
+_diffrn_radiation_type                   'X-rays, Cu Ka'
+_diffrn_radiation_wavelength             1.54059
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 50
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                100
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# End of data set 1125621
+
+

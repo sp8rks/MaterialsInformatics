@@ -1,0 +1,198 @@
+##############################################################################
+#                                                                            #
+# Au-Si-Th         # AuThSi                                        # 1211256 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1211256
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1211256
+
+# Entry summary
+
+_chemical_formula_structural             'Au Th Si'
+_chemical_formula_sum                    'Au Si Th'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            LiBaSi,hP3,187
+_chemical_formula_weight                 457.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+On the order and disorder of the transition metal (T) and silicon atoms in ternary thorium transition metal silicides of the compositions Th~2~TSi~3~ and ThTSi
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1994
+_journal_volume                          206
+_journal_page_first                      133
+_journal_page_last                       139
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Albering J.H.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'P\"ottgen R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Jeitschko W.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Hoffman R.'
+;
+M\"unster Westf\"alische Wilhelm University
+Institut f\"ur Anorganische Chemie
+M\"unster
+Germany
+;
+'Chevalier B.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+'Etourneau J.R.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie du Solide
+Talence
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.26
+_cell_length_b                           4.26
+_cell_length_c                           4.164
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             65.4
+_cell_formula_units_Z                    1
+_space_group_IT_number                   187
+_space_group_name_H-M_alt                'P -6 m 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, z'
+ 6 '-y, -x, -z'
+ 7 '-y, -x, z'
+ 8 '-y, x-y, -z'
+ 9 '-y, x-y, z'
+ 10 'x, x-y, -z'
+ 11 'x, x-y, z'
+ 12 'x, y, -z'
+loop_
+ _atom_type_symbol
+ Si
+ Th
+ Au
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Si Si 1 e 0.666667 0.333333 0 1
+ Th Th 1 d 0.333333 0.666667 0.5 1
+ Au Au 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              11.7
+_exptl_crystal_density_diffrn            11.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               diffractometer
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 41.68 1
+ 1 0 0 36.73 242
+ 1 0 1 27.56 1000
+ 1 1 0 21.21 359
+ 0 0 2 20.84 113
+ 1 1 1 18.9 0.5
+ 2 0 0 18.37 31
+ 1 0 2 18.13 77
+ 2 0 1 16.81 218
+ 1 1 2 14.86 223
+ 0 0 3 13.89 0.5
+ 2 1 0 13.88 34
+ 2 0 2 13.78 26
+ 2 1 1 13.17 204
+ 1 0 3 12.99 98
+ 3 0 0 12.24 63
+ 3 0 1 11.75 0.5
+ 1 1 3 11.62 0.5
+ 2 1 2 11.55 39
+ 2 0 3 11.08 62
+ 2 2 0 10.6 41
+ 3 0 2 10.56 80
+ 0 0 4 10.42 13
+ 2 2 1 10.28 0.5
+ 3 1 0 10.19 10
+
+# End of data set 1211256
+
+

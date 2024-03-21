@@ -1,0 +1,162 @@
+##############################################################################
+#                                                                            #
+# Ag-C-N-Tl        # AgTl[CN]2                                     # 1002759 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1002759
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1002759
+
+# Entry summary
+
+_chemical_formula_structural             'Ag Tl [C N]~2~'
+_chemical_formula_sum                    'Ag C2 N2 Tl'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AgTl[CN]~2~,mP48,14
+_chemical_formula_weight                 364.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure, electronic structure, and temperature-dependent Raman spectra of Tl[Ag(CN)~2~]: Evidence for ligand-unsupported argentophilic interactions
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1998
+_journal_volume                          37
+_journal_page_first                      1380
+_journal_page_last                       1386
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Omary M.A.'
+;
+Maine Orono University
+Department of Chemistry
+Orono
+U.S.A. Maine
+;
+'Webb T.R.'
+;
+Alabama Auburn University
+Department of Chemistry
+Auburn
+U.S.A. Alabama
+;
+'Assefa Z.'
+;
+Oak Ridge National Laboratory
+Oak Ridge
+U.S.A. Tennessee
+;
+'Shankle G.E.'
+;
+Texas San Angelo University
+San Angelo
+U.S.A. Texas
+;
+'Patterson H.H.'
+;
+Maine Orono University
+Department of Chemistry
+Orono
+U.S.A. Maine
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.798
+_cell_length_b                           14.685
+_cell_length_c                           8.566
+_cell_angle_alpha                        90
+_cell_angle_beta                         91.66
+_cell_angle_gamma                        90
+_cell_volume                             980.5
+_cell_formula_units_Z                    8
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ N
+ Tl
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C2 C 4 e 0.0261 0.4353 0.2829 1
+ N2 N 4 e 0.0282 0.4122 0.1644 1
+ N3 N 4 e 0.0872 0.6788 0.2228 1
+ C3 C 4 e 0.1472 0.6832 0.3373 1
+ Tl1 Tl 4 e 0.1974 0.239 0.4732 1
+ Tl2 Tl 4 e 0.2737 0.548 0.0311 1
+ Ag3 Ag 4 e 0.2971 0.8201 0.0451 1
+ N1 N 4 e 0.3342 0.1003 0.288 1
+ C1 C 4 e 0.388 0.0683 0.1814 1
+ N4 N 4 e 0.4451 0.3544 0.1555 1
+ C4 C 4 e 0.5346 0.336 0.2646 1
+ Ag1 Ag 2 b 0.5 0 0 1
+ Ag2 Ag 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.94
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nicolet R3m/V'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1964
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            36.97
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1240
+_refine_ls_R_factor_gt                   0.0643
+_refine_ls_wR_factor_gt                  0.0899
+
+# End of data set 1002759
+
+

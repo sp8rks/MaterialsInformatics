@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Al-Br            # AlBr3                                         # 1415170 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1415170
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1415170
+
+# Entry summary
+
+_chemical_formula_structural             'Al Br~3~'
+_chemical_formula_sum                    'Al Br3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            AlBr~3~,mP16,14
+_chemical_formula_weight                 266.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+Redetermination of the Crystal Structure of Al~2~Br~6~. A Comparison of Three Methods
+;
+_journal_coden_ASTM                      ACHSE7
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1997
+_journal_volume                          51
+_journal_page_first                      442
+_journal_page_last                       448
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Berg R.W.'
+;
+Lyngby Denmark Technical University
+Department of Chemistry
+Lyngby
+Denmark
+;
+'Poulsen F.W.'
+;
+Roskilde Riso National Laboratory
+Department of Materials Research
+Roskilde
+Denmark
+;
+'Nielsen K.A.'
+;
+Lyngby Denmark Technical University
+Department of Chemistry
+Lyngby
+Denmark
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.5364
+_cell_length_b                           7.1012
+_cell_length_c                           10.3082
+_cell_angle_alpha                        90
+_cell_angle_beta                         96.418
+_cell_angle_gamma                        90
+_cell_volume                             548.2
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Br
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Br1 Br 4 e 0.0784 0.5633 0.353 1
+ Al Al 4 e 0.195 0.1128 0.0533 1
+ Br3 Br 4 e 0.2511 0.3927 0.0131 1
+ Br2 Br 4 e 0.5958 0.4158 0.335 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              3.205
+_exptl_crystal_density_diffrn            3.23
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE STADI P'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    1444
+_exptl_absorpt_coefficient_mu            27.5
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             26
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0870
+_pd_proc_ls_proof_wR_factor              0.1131
+_refine_ls_R_I_factor                    0.0808
+
+# End of data set 1415170
+
+

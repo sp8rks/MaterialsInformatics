@@ -1,0 +1,186 @@
+##############################################################################
+#                                                                            #
+# Cs-Mo-O-Pr       # CsPrMo2O8 ht-hp                               #  545898 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_545898
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      545898
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Pr Mo~2~ O~8~'
+_chemical_formula_sum                    'Cs Mo2 O8 Pr'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            KYW~2~O~8~,mS48,15
+_chemical_formula_weight                 593.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+p-modifications of the caesium and rubidium rare-earth element double molybdates
+;
+_journal_coden_ASTM                      RJICAQ
+_journal_name_full                       'Russ. J. Inorg. Chem.'
+_journal_year                            1977
+_journal_volume                          22
+_journal_page_first                      461
+_journal_page_last                       463
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Sokolovskii B.M.'
+;
+Russian Academy of Sciences
+Moscow Institute of Radiotechnology, Electronics and Automation
+Moscow
+Russia
+;
+'Evdokimov A.A.'
+;
+Russian Academy of Sciences
+Institute of Radiotechnology, Electronics and Automation
+Moscow
+Russia
+;
+'Trunov V.K.'
+;
+Russian Academy of Sciences
+Moscow Institute of Radiotechnology, Electronics and Automation
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.88
+_cell_length_b                           10.77
+_cell_length_c                           7.817
+_cell_angle_alpha                        90
+_cell_angle_beta                         130.5
+_cell_angle_gamma                        90
+_cell_volume                             696.5
+_cell_formula_units_Z                    4
+_space_group_IT_number                   15
+_space_group_name_H-M_alt                'C 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, 1/2-z'
+ 8 '1/2+x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Mo
+ Pr
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 8 f 0.0238 0.3914 0.4707 1
+ O2 O 8 f 0.1263 0.0799 0.189 1
+ O3 O 8 f 0.275 0.3418 0.3744 1
+ Mo1 Mo 8 f 0.3036 0.0 0.2644 1
+ O4 O 8 f 0.3101 0.0764 0.0586 1
+ Pr1 Pr 4 e 0 0.2287 0.25 1
+ Cs1 Cs 4 e 0 0.7997 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.66
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Guinier-de Wolff film'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 65.7 15
+ 1 1 -1 62.3 2
+ 0 2 0 53.88 20
+ 1 3 0 32.85 100
+ 3 1 -2 32.4 40
+ 2 2 -2 31.43 100
+ 0 2 0 29.553 70
+ 4 0 -2 27.121 30
+ 0 4 0 26.929 30
+ 3 1 0 26.729 45
+ 1 3 -2 25.516 10
+ 4 2 -2 24.209 3
+ 4 2 -1 22.911 2
+ 3 3 0 21.885 2
+ 4 2 -3 21.682 5
+ 5 1 -2 21.165 2
+ 3 3 -3 20.942 2
+ 4 0 0 20.697 5
+ 0 4 2 19.917 25
+ 1 3 2 19.636 25
+ 4 0 -4 19.626 25
+ 4 4 -2 19.112 3
+ 3 1 -4 18.894 2
+ 1 5 1 18.701 2
+ 5 3 -2 18.519 40
+ 3 5 -2 18.2 40
+ 2 2 2 17.861 25
+ 6 0 -2 17.63 15
+ 2 2 -4 17.186 20
+ 3 5 0 16.985 20
+
+# End of data set 545898
+
+

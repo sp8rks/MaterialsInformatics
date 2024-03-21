@@ -1,0 +1,156 @@
+##############################################################################
+#                                                                            #
+# Al-H-N-O         # Al[NO3]3[H2O]9                                # 1402206 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1402206
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1402206
+
+# Entry summary
+
+_chemical_formula_structural             'Al [N O~3~]~3~ [H~2~ O]~9~'
+_chemical_formula_sum                    'Al H18 N3 O18'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Al[NO~3~]~3~[H~2~O]~9~-b,mP88,14
+_chemical_formula_weight                 375.1
+
+# Bibliographic data
+
+_publ_section_title
+'Redetermination of the Structure of Hexaaquaaluminium(III) Nitrate Trihydrate'
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1991
+_journal_volume                          47
+_journal_page_first                      2282
+_journal_page_last                       2285
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lazar D.'
+;
+Novi Sad Djuricica University
+Institute of Physics
+Novi Sad
+Serbia
+;
+'Rib\"ar B.'
+;
+Novi Sad Djuricica University
+Institute of Physics
+Novi Sad
+Serbia
+;
+'Prelesnik B.V.'
+;
+Belgrade Boris Kidric Institute of Nuclear Sciences
+Laboratory of Solid State Physics and Radiation Chemistry
+Belgrade
+Serbia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.892
+_cell_length_b                           9.607
+_cell_length_c                           10.907
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.51
+_cell_angle_gamma                        90
+_cell_volume                             1448.9
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ O
+ N
+ Al
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ow2 OH2 4 e 0.0489 0.1143 0.3693 1
+ Ow21 OH2 4 e 0.0669 0.3897 0.3922 1
+ Ow23 OH2 4 e 0.0691 0.0911 0.1311 1
+ Ow22 OH2 4 e 0.0969 0.6369 0.5006 1
+ O33 O 4 e 0.1154 0.4526 0.1646 1
+ O12 O 4 e 0.1278 0.7619 0.2862 1
+ N3 N 4 e 0.1936 0.4906 0.1271 1
+ O32 O 4 e 0.1977 0.5137 0.0165 1
+ N1 N 4 e 0.215 0.787 0.28 1
+ O21 O 4 e 0.2449 0.1864 0.1059 1
+ O23 O 4 e 0.2627 0.1654 0.3048 1
+ O31 O 4 e 0.2683 0.5039 0.1997 1
+ N2 N 4 e 0.2984 0.1886 0.2076 1
+ Ow3 OH2 4 e 0.3564 0.4746 0.4506 1
+ O22 O 4 e 0.386 0.2142 0.2059 1
+ Ow11 OH2 4 e 0.407 0.1423 0.4952 1
+ Ow1 OH2 4 e 0.5335 0.3785 0.3694 1
+ Ow13 OH2 4 e 0.567 0.4149 0.137 1
+ Ow12 OH2 4 e 0.5715 0.1045 0.3946 1
+ O13 O 4 e 0.7246 0.2576 0.1304 1
+ O11 O 4 e 0.7575 0.3403 0.3145 1
+ Al1 Al 2 d 0.5 0 0.5 1
+ Al2 Al 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.72
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7107
+_cell_measurement_reflns_used            20
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7107
+_diffrn_reflns_number                    3143
+_exptl_absorpt_coefficient_mu            0.23
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2137
+_refine_ls_R_factor_gt                   0.041
+_refine_ls_wR_factor_gt                  0.044
+
+# End of data set 1402206
+
+

@@ -1,0 +1,211 @@
+##############################################################################
+#                                                                            #
+# Ag-O-Te-V        # Ag[VO4]TeO                                    # 1825093 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1825093
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1825093
+
+# Entry summary
+
+_chemical_formula_structural             'Ag [V O~4~] Te O'
+_chemical_formula_sum                    'Ag O5 Te V'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Na[VO~4~]TeO,mP32,14
+_chemical_formula_weight                 366.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Etude des compos\'es MVTeO~5~ (M= Na, K, Rb, Ag). Structure cristalline de NaVTeO~5~
+;
+_journal_coden_ASTM                      ACSAA4
+_journal_name_full                       'Acta Chem. Scand.'
+_journal_year                            1972
+_journal_volume                          26
+_journal_page_first                      59
+_journal_page_last                       70
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Darriet J.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie Min\'erale Structurale
+Talence
+France
+;
+'Guillaume G.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie Min\'erale Structurale
+Talence
+France
+;
+'Wilhelmi K.A.'
+;
+Stockholm University
+Institute of Inorganic and Physical Chemistry
+Stockholm
+Sweden
+;
+'Galy J.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie Min\'erale Structurale
+Talence
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.877
+_cell_length_b                           11.4
+_cell_length_c                           6.817
+_cell_angle_alpha                        90
+_cell_angle_beta                         102.63
+_cell_angle_gamma                        90
+_cell_volume                             445.7
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Ag
+ Te
+ V
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 4 e 0.125 0.59266 0.0182 1
+ O2 O 4 e 0.1399 0.2052 0.1701 1
+ O3 O 4 e 0.1655 0.4458 0.3543 1
+ Ag1 Ag 4 e 0.1805 0.79332 0.1845 1
+ Te1 Te 4 e 0.24201 0.44078 0.09625 1
+ V1 V 4 e 0.3268 0.12064 0.08881 1
+ O4 O 4 e 0.4374 0.0118 0.2754 1
+ O5 O 4 e 0.5392 0.2021 0.044 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              5.50(2)
+_exptl_crystal_density_diffrn            5.46
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              X-rays
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               ?
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 1 57.4 25
+ 1 1 0 51.2 2
+ 1 1 -1 45.1 10
+ 0 2 1 43.3 20
+ 1 2 0 40.4 4
+ 0 3 1 33 30
+ 1 2 1 32.37 12
+ 1 0 -2 31.96 55
+ 1 3 0 31.68 100
+ 1 1 -2 30.81 25
+ 1 3 -1 30.03 25
+ 2 0 0 28.67 60
+ 2 1 -1 27.81 20
+ 1 3 1 27.33 30
+ 1 0 2 26.39 30
+ 2 2 -1 25.64 15
+ 0 3 2 25.02 30
+ 1 4 -1 24.62 2
+ 2 0 -2 24.52 2
+ 1 2 2 23.9 10
+ 2 2 -2 22.53 20
+ 1 1 -3 21.98 15
+ 0 5 1 21.57 5
+ 1 5 0 21.18 15
+ 1 2 -3 20.84 5
+ 1 5 -1 20.67 15
+ 2 3 -2 20.61 20
+ 2 3 1 20.56 20
+ 1 5 1 19.72 2
+ 3 1 -1 19.25 4
+ 0 3 3 19.11 10
+ 2 4 -2 18.59 5
+ 1 2 3 18.27 10
+ 3 1 -2 18.16 10
+ 1 6 -1 17.72 3
+ 0 4 3 17.48 25
+ 1 1 -4 16.81 1
+ 2 5 1 16.67 7
+ 3 2 1 16.62 10
+ 0 1 4 16.46 6
+ 1 2 -4 16.3 6
+ 2 4 -3 16.24 8
+ 2 4 2 16.19 7
+ 2 6 -1 15.83 7
+ 3 2 -3 15.73 1
+ 1 3 -4 15.51 1
+ 1 6 2 15.4 3
+ 3 0 2 15.19 3
+ 2 6 -2 15 6
+ 3 4 1 14.84 1
+ 1 2 4 14.6 5
+
+# End of data set 1825093
+
+

@@ -1,0 +1,180 @@
+##############################################################################
+#                                                                            #
+# Cs-O-Te-V        # CsV3[TeO3]2O6                                 # 1703709 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1703709
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1703709
+
+# Entry summary
+
+_chemical_formula_structural             'Cs V~3~ [Te O~3~]~2~ O~6~'
+_chemical_formula_sum                    'Cs O12 Te2 V3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            [NH~4~]V~3~[SeO~3~]~2~O~6~,hP36,173
+_chemical_formula_weight                 732.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Synthesis and crystal structure of Cs(VO~2~)~3~(TeO~3~)~2~, a new layered cesium vanadium(V) tellurite
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2000
+_journal_volume                          626
+_journal_page_first                      867
+_journal_page_last                       870
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Harrison W.T.A.'
+;
+Aberdeen University
+Department of Chemistry
+Aberdeen
+United Kingdom
+;
+'Buttery J.H.N.'
+;
+Nedlands Western Australia University
+Department of Chemistry
+Nedlands
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.2351
+_cell_length_b                           7.2351
+_cell_length_c                           11.584
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             525.14
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ V
+ Cs
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 6 c 0.1179 0.2508 0.23574 1
+ O2 O 6 c 0.2605 0.144 0.42114 1
+ V1 V 6 c 0.3339 0.123 0.26544 1
+ O1 O 6 c 0.4054 0.2158 0.10154 1
+ O4 O 6 c 0.5354 0.0781 0.28914 1
+ Cs1 Cs 2 b 0.333333 0.666667 0.0843 1
+ Te1 Te 2 b 0.333333 0.666667 0.52465 1
+ Te2 Te 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.64
+_cell_measurement_temperature            298(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            2002
+_diffrn_ambient_temperature              298(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens P4 SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5870
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 27.5
+_exptl_absorpt_coefficient_mu            11.54
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution
+'starting values derived from related structure, Fourier synthesis'           
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.030
+_refine_ls_wR_factor_gt                  0.063
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 1 0 62.89 7
+ 0 0 2 57.77 11
+ 0 1 1 55.07 6
+ 0 1 2 42.51 16
+ 1 1 0 36.18 43
+ 1 1 1 34.53 4
+ 0 1 3 32.84 16
+ 0 2 0 31.3 4
+ 1 1 2 30.67 100
+ 0 2 1 30.24 18
+ 0 0 4 28.92 14
+ 0 2 2 27.57 7
+ 0 1 4 26.24 14
+ 0 2 3 24.34 4
+ 1 1 4 22.58 9
+ 2 1 2 21.93 4
+ 0 1 5 21.69 4
+ 0 3 0 20.9 9
+ 1 2 3 20.19 6
+ 0 3 2 19.652 25
+ 0 2 5 18.622 8
+ 2 1 4 18.333 5
+ 2 2 0 18.087 17
+ 2 2 2 17.264 7
+ 1 1 6 17.022 4
+ 0 3 4 16.939 5
+ 1 3 2 16.653 3
+ 2 1 5 16.537 5
+ 0 2 6 16.41 4
+ 1 3 3 15.849 6
+
+# End of data set 1703709
+
+

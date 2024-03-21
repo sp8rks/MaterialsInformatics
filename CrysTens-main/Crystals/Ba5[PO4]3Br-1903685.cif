@@ -1,0 +1,150 @@
+##############################################################################
+#                                                                            #
+# Ba-Br-O-P        # Ba5[PO4]3Br                                   # 1903685 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1903685
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1903685
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~5~ [P O~4~]~3~ Br'
+_chemical_formula_sum                    'Ba5 Br O12 P3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~5~[PO~4~]~3~Cl,hP42,176
+_chemical_formula_weight                 1051.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of pentastrontium tris(phosphate) bromide, Sr~5~(PO~4~)~3~Br and of pentabarium tris(phosphate) bromide Ba~5~(PO~4~)~3~Br, two bromoapatites
+;
+_journal_coden_ASTM                      ZKNSFT
+_journal_name_full
+'Z. Kristallogr. - New Cryst. Struct.'                                        
+_journal_year                            2000
+_journal_volume                          215
+_journal_page_first                      345
+_journal_page_last                       346
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Alberius Henning P.'
+;
+Stockholm University
+Department of Inorganic Chemistry
+Stockholm
+Sweden
+;
+'Mattson C.'
+;
+Stockholm University
+Department of Inorganic Chemistry
+Stockholm
+Sweden
+;
+'Lidin S.'
+;
+Stockholm University
+Department of Inorganic Chemistry
+Stockholm
+Sweden
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.342
+_cell_length_b                           10.342
+_cell_length_c                           7.673
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             710.73
+_cell_formula_units_Z                    2
+_space_group_IT_number                   176
+_space_group_name_H-M_alt                'P 63/m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, x, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, -z'
+ 12 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Ba
+ Br
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 12 i 0.0859 0.3583 0.0875 1
+ P P 6 h 0.0373 0.4085 0.25 1
+ O2 O 6 h 0.1213 0.5814 0.25 1
+ Ba2 Ba 6 h 0.26763 0.25175 0.25 1
+ O1 O 6 h 0.4802 0.1329 0.25 1
+ Ba1 Ba 4 f 0.333333 0.666667 -0.00123 1
+ Br Br 2 b 0 0 0 1
+
+
+_exptl_crystal_colour                    colorless
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.91
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    8292
+_exptl_absorpt_coefficient_mu            16.938
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             40
+_refine_ls_number_reflns                 576
+_refine_ls_R_factor_gt                   0.022
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1903685
+
+

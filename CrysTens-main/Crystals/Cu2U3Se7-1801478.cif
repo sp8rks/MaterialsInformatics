@@ -1,0 +1,187 @@
+##############################################################################
+#                                                                            #
+# Cu-Se-U          # Cu2U3Se7                                      # 1801478 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1801478
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1801478
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ U~3~ Se~7~'
+_chemical_formula_sum                    'Cu2 Se7 U3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CuLa~3~SiS~7~,hP24,173
+_chemical_formula_weight                 1393.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+New ternary uranium copper chalcogenides Cu~2~U~3~S~7~ and Cu~2~U~3~Se~7~: Crystal structure and magnetic properties
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1996
+_journal_volume                          123
+_journal_page_first                      331
+_journal_page_last                       336
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Daoudi A.'
+;
+Rennes I University
+Laboratoire de Chimie du Solide et Inorganique Mol\'eculaire
+Rennes
+France
+;
+'Lamire M.'
+;
+Casablanca Hassan II Ain Chok University
+Laboratoire de Chimie des Mat\'eriaux Solides
+Casablanca
+Morocco
+;
+'Levet J.C.'
+;
+Rennes I University
+Laboratoire de Chimie du Solide et Inorganique Mol\'eculaire
+Rennes
+France
+;
+'Noel H.'
+;
+Rennes I University
+Laboratoire de Chimie du Solide et Inorganique Mol\'eculaire
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           10.138
+_cell_length_b                           10.138
+_cell_length_c                           5.9525
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             529.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   173
+_space_group_name_H-M_alt                'P 63'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x, -y, 1/2+z'
+ 4 '-y, x-y, z'
+ 5 'x-y, x, 1/2+z'
+ 6 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ U
+ Se
+ Cu
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ U U 6 c 0.15327 0.37965 0.0243 1
+ Se(1) Se 6 c 0.2642 0.1542 0.0129 1
+ Se(2) Se 6 c 0.5122 0.077 0.2821 1
+ Se(3) Se 2 b 0.333333 0.666667 0.2553 1
+ Cu(2) Cu 2 b 0.333333 0.666667 0.6579 1
+ Cu(1) Cu 2 a 0 0 0.0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            8.74
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka1'
+_cell_measurement_reflns_used            25
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka1'
+_diffrn_reflns_number                    1311
+_exptl_absorpt_coefficient_mu            71.045
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 777
+_refine_ls_R_factor_gt                   0.036
+_refine_ls_wR_factor_gt                  0.044
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 1 0 50.678 3
+ 1 0 1 49.295 37
+ 2 0 0 43.848 15
+ 1 1 1 38.617 20
+ 2 0 1 35.338 85
+ 2 1 0 33.166 30
+ 0 0 2 29.825 32
+ 2 1 1 29.004 28
+ 1 0 2 28.25 32
+ 3 0 1 26.287 87
+ 1 1 2 25.714 16
+ 2 2 0 25.357 85
+ 2 0 2 24.679 58
+ 3 1 0 24.358 25
+ 3 1 1 22.539 54
+ 2 1 2 22.173 100
+ 4 0 1 20.872 20
+ 4 0 1 20.582 9
+ 3 2 0 20.143 7
+ 3 2 1 19.084 50
+ 3 1 2 18.867 15
+ 1 1 3 18.517 7
+ 4 1 1 18.245 54
+ 2 0 3 18.109 18
+ 4 0 2 17.681 5
+ 2 1 3 17.054 10
+ 5 0 1 16.849 25
+ 3 2 2 16.689 3
+ 3 0 3 16.435 28
+ 4 1 2 16.119 3
+ 4 2 1 15.985 6
+
+# End of data set 1801478
+
+

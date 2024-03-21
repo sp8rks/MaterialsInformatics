@@ -1,0 +1,151 @@
+##############################################################################
+#                                                                            #
+# Ce-O-Se          # Ce[SeO3]2                                     # 1901545 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1901545
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1901545
+
+# Entry summary
+
+_chemical_formula_structural             'Ce [Se O~3~]~2~'
+_chemical_formula_sum                    'Ce O6 Se2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca[IO~3~]~2~,mP36,14
+_chemical_formula_weight                 394.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure du s\'el\'eniate(IV) de c\'erium
+;
+_journal_coden_ASTM                      ACSCEE
+_journal_name_full                       'Acta Crystallogr. C'
+_journal_year                            1986
+_journal_volume                          42
+_journal_page_first                      1475
+_journal_page_last                       1477
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Delage C.'
+;
+Limoges University
+Laboratoire de Chimie Physique et Min\'erale
+Limoges
+France
+;
+'Carpy A.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Chimie Analytique
+Grenoble
+France
+;
+'H'naifi A.'
+;
+Talence Bordeaux I University
+Facult\'e de Pharmacie
+Talence
+France
+;
+'Goursolle M.'
+;
+Talence Bordeaux I University
+Laboratoire de Chimie G\'en\'erale et Min\'erale
+Talence
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.008
+_cell_length_b                           10.587
+_cell_length_c                           8.4906
+_cell_angle_alpha                        90
+_cell_angle_beta                         125.122
+_cell_angle_gamma                        90
+_cell_volume                             515.25
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Ce
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O5 O 4 e -0.0029 0.3995 0.0914 1
+ O4 O 4 e 0.0585 0.7404 0.2002 1
+ O8 O 4 e 0.1592 0.0889 0.1848 1
+ Se3 Se 4 e 0.2859 0.0691 0.0645 1
+ Ce1 Ce 4 e 0.2461 0.096 0.4859 1
+ O9 O 4 e 0.4106 0.2138 0.1053 1
+ O7 O 4 e 0.4746 0.4794 0.2885 1
+ O6 O 4 e 0.614 0.3953 0.0436 1
+ Se2 Se 4 e 0.8083 0.2836 0.0692 1
+
+
+_exptl_crystal_colour                    orange
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.08
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71069
+_diffrn_reflns_number                    3192
+_diffrn_reflns_theta_min                 3.5
+_diffrn_reflns_theta_max                 15.5
+_exptl_absorpt_coefficient_mu            22.1
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             82
+_refine_ls_number_reflns                 1242
+_refine_ls_R_factor_gt                   0.032
+_refine_ls_wR_factor_gt                  0.041
+
+# End of data set 1901545
+
+

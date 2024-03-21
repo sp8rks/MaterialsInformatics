@@ -1,0 +1,142 @@
+##############################################################################
+#                                                                            #
+# Ag-Np-O-Se       # Ag[NpO2][SeO3] mon                            # 1904968 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1904968
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1904968
+
+# Entry summary
+
+_chemical_formula_structural             'Ag [Np O~2~] [Se O~3~]'
+_chemical_formula_sum                    'Ag Np O5 Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag[NpO~2~][SeO~3~],mP32,14
+_chemical_formula_weight                 503.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Cation-Cation Interactions in Neptunyl(V) Compounds: Hydrothermal Preparation and Structural Characterization of NpO~2~(IO~3~) and \a- and \b-AgNpO~2~(SeO~3~)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2003
+_journal_volume                          42
+_journal_page_first                      3788
+_journal_page_last                       3795
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Albrecht Schmitt T.E.'
+;
+Alabama Auburn University
+Department of Chemistry
+Auburn
+U.S.A. Alabama
+;
+'Almond P.M.'
+;
+Alabama Auburn University
+Department of Chemistry
+Auburn
+U.S.A. Alabama
+;
+'Sykora R.E.'
+;
+Alabama Auburn University
+Department of Chemistry
+Auburn
+U.S.A. Alabama
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.3007
+_cell_length_b                           9.5003
+_cell_length_c                           11.9417
+_cell_angle_alpha                        90
+_cell_angle_beta                         105.139
+_cell_angle_gamma                        90
+_cell_volume                             471
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Np
+ O
+ Se
+ Ag
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Np1 Np 4 e 0.00524 0.34377 0.25557 1
+ O3 O 4 e 0.0372 0.0896 0.3601 1
+ O5 O 4 e 0.0969 0.7551 0.3845 1
+ O4 O 4 e 0.1126 0.4339 0.3965 1
+ Se1 Se 4 e 0.33067 0.58848 0.11164 1
+ Ag1 Ag 4 e 0.38252 0.10917 0.08541 1
+ O1 O 4 e 0.4789 0.458 0.2053 1
+ O2 O 4 e 0.5343 0.2307 0.3093 1
+
+
+_exptl_crystal_colour                    'green pale'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            7.11
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              193
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            33.745
+_exptl_absorpt_correction_type           semi-empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0222
+_refine_ls_wR_factor_gt                  0.0534
+
+# End of data set 1904968
+
+

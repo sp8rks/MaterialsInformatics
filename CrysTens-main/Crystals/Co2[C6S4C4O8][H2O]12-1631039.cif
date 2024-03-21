@@ -1,0 +1,221 @@
+##############################################################################
+#                                                                            #
+# C-Co-H-O-S       # Co2[C6S4C4O8][H2O]12                          # 1631039 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1631039
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1631039
+
+# Entry summary
+
+_chemical_formula_structural
+'Co~2~ [C~6~ S~4~ C~4~ O~8~] [H~2~ O]~12~'                                    
+_chemical_formula_sum                    'C10 Co2 H24 O20 S4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+Ni~2~[C~6~S~4~C~4~O~8~][H~2~O]~12~,mP72,14                                    
+_chemical_formula_weight                 710.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+Reinvestigation of the M^2+^ (M= Ni, Co)/tetrathiafulvalenetetracarboxylate system using high-throughput methods: Isolation of a molecular complex and its single-crystal-to-single-crystal transformation to a two-dimensional coordination polym
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2010
+_journal_volume                          49
+_journal_page_first                      10710
+_journal_page_last                       10717
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nguyen T.A.'
+;
+Versailles St-Quentin-en-Yvelines University
+Institut Lavoisier Franklin
+Versailles
+France
+;
+'Marrot J.'
+;
+Versailles St-Quentin-en-Yvelines University
+Institut Lavoisier Franklin
+Versailles
+France
+;
+'Tarascon J.M.'
+;
+Amiens Picardie Jules Verne University
+Laboratoire de R\'eactivit\'e et de Chimie des Solides
+Amiens
+France
+;
+'F\'erey G.'
+;
+Versailles St-Quentin-en-Yvelines University
+Institut Lavoisier Franklin
+Versailles
+France
+;
+'Devic T.'
+;
+Versailles St-Quentin-en-Yvelines University
+Institut Lavoisier Franklin
+Versailles
+France
+;
+'Mialane P.'
+;
+Versailles St-Quentin-en-Yvelines University
+Institut Lavoisier Franklin
+Versailles
+France
+;
+'Rivi\`ere E.'
+;
+Orsay Paris Sud XI University
+Institut de Chimie Mol\'eculaire et des Mat\'eriaux
+Orsay
+France
+;
+'Sonnauer A.'
+;
+Kiel Christian Albrecht University
+Institut f\"ur Anorganische Chemie
+Kiel
+Germany
+;
+'Stock N.'
+;
+Kiel Christian Albrecht University
+Institut f\"ur Anorganische Chemie
+Kiel
+Germany
+;
+'Demir Cakan R.'
+;
+Amiens Picardie Jules Verne University
+Laboratoire de R\'eactivit\'e et de Chimie des Solides
+Amiens
+France
+;
+'Morcrette M.'
+;
+Amiens Picardie Jules Verne University
+Laboratoire de R\'eactivit\'e et de Chimie des Solides
+Amiens
+France
+;
+'Livage C.'
+;
+Versailles St-Quentin-en-Yvelines University
+Institut Lavoisier Franklin
+Versailles
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           13.9
+_cell_length_b                           5.0819
+_cell_length_c                           22.1894
+_cell_angle_alpha                        90
+_cell_angle_beta                         126.215
+_cell_angle_gamma                        90
+_cell_volume                             1264.61
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH2
+ C
+ S
+ O
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ OW2 OH2 4 e 0.0075 0.9097 0.2833 1
+ C1 C 4 e 0.042 0.0842 0.0073 1
+ S2 S 4 e 0.09367 0.4022 0.45066 1
+ S1 S 4 e 0.11272 0.3069 0.08144 1
+ OW1 OH2 4 e 0.2063 0.5386 0.2454 1
+ C3 C 4 e 0.2052 0.3319 0.0052 1
+ C2 C 4 e 0.2138 0.4277 0.065 1
+ O3 O 4 e 0.2249 0.0196 0.4128 1
+ C5 C 4 e 0.2773 0.104 0.4763 1
+ O1 O 4 e 0.2833 0.7171 0.1654 1
+ C4 C 4 e 0.2977 0.6357 0.1183 1
+ O8 OH2 4 e 0.361 0.1444 0.2685 1
+ O4 O 4 e 0.3877 0.3413 0.018 1
+ O5 OH2 4 e 0.4628 0.2931 0.4318 1
+ O7 OH2 4 e 0.4888 0.1895 0.178 1
+ Co1 Co 4 e 0.51236 0.4984 0.12337 1
+ O2 O 4 e 0.622 0.2212 0.3879 1
+ O6 OH2 4 e 0.6451 0.287 0.1259 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            1.87
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1082
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens SMART'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    3978
+_diffrn_reflns_theta_min                 1.82
+_diffrn_reflns_theta_max                 28.27
+_exptl_absorpt_coefficient_mu            1.727
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             163
+_refine_ls_number_reflns                 1581
+_refine_ls_R_factor_gt                   0.0739
+_refine_ls_wR_factor_gt                  0.1665
+
+# End of data set 1631039
+
+

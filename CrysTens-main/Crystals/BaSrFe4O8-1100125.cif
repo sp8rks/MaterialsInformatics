@@ -1,0 +1,185 @@
+##############################################################################
+#                                                                            #
+# Ba-Fe-O-Sr       # BaSrFe4O8 trig                                # 1100125 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1100125
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1100125
+
+# Entry summary
+
+_chemical_formula_structural             'Ba Sr Fe~4~ O~8~'
+_chemical_formula_sum                    'Ba Fe4 O8 Sr'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            BaSrFe~4~O~8~,hP14,187
+_chemical_formula_weight                 576.3
+
+# Bibliographic data
+
+_publ_section_title
+'The crystal structure of \b-BaSrFe~4~O~8~'                                   
+_journal_coden_ASTM                      ACBCAR
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            1973
+_journal_volume                          29
+_journal_page_first                      919
+_journal_page_last                       920
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Lucchini E.'
+;
+Trieste University
+Istituto di Chimica Applicata
+Trieste
+Italy
+;
+'Minichelli D.'
+;
+Trieste University
+Istituto di Chimica Applicata
+Trieste
+Italy
+;
+'Meriani S.'
+;
+Trieste University
+Istituto di Chimica Applicata
+Trieste
+Italy
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.448
+_cell_length_b                           5.448
+_cell_length_c                           8.091
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             208
+_cell_formula_units_Z                    1
+_space_group_IT_number                   187
+_space_group_name_H-M_alt                'P -6 m 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x+y, y, -z'
+ 5 '-x+y, y, z'
+ 6 '-y, -x, -z'
+ 7 '-y, -x, z'
+ 8 '-y, x-y, -z'
+ 9 '-y, x-y, z'
+ 10 'x, x-y, -z'
+ 11 'x, x-y, z'
+ 12 'x, y, -z'
+loop_
+ _atom_type_symbol
+ O
+ Fe
+ Sr
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 6 n 0.18167 0.81833 0.26 1
+ Fe2 Fe 2 h 0.333333 0.666667 0.255 1
+ Fe1 Fe 2 g 0 0 0.245 1
+ Sr Sr 1 f 0.666667 0.333333 0.5 1
+ Ba Ba 1 e 0.666667 0.333333 0 1
+ O2 O 1 d 0.333333 0.666667 0.5 1
+ O1 O 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              4.62
+_exptl_crystal_density_diffrn            4.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          Siemens
+_diffrn_radiation_type                   'X-rays, Co Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.17
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              ?
+_refine_ls_R_I_factor                    ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 0 0 1 81.54 6
+ 1 0 0 47.27 3.3
+ 1 0 1 40.73 1.2
+ 0 0 2 40.55 1.2
+ 1 0 2 30.78 97
+ 1 1 0 27.25 61
+ 0 0 3 26.81 1
+ 1 1 1 25.85 9.1
+ 2 0 0 23.48 1
+ 1 0 3 23.36 1
+ 2 0 1 22.58 2
+ 2 0 2 20.37 21
+ 0 0 4 20.28 13
+ 1 1 3 19.15 1
+ 1 0 4 18.63 2
+ 2 1 0 17.78 1
+ 2 1 1 17.38 1
+ 2 1 2 16.27 22
+ 1 1 4 16.2 24
+ 3 0 0 15.77 11
+ 2 0 4 15.34 1
+ 2 2 0 13.6 7
+ 2 1 4 13.37 4.5
+ 2 0 5 13.34 4.5
+ 1 0 6 12.99 7
+ 3 1 2 12.42 12
+ 3 0 4 12.41 12
+
+# End of data set 1100125
+
+

@@ -1,0 +1,146 @@
+##############################################################################
+#                                                                            #
+# Cs-F-Yb          # CsYb3F10                                      # 1907238 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1907238
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1907238
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Yb~3~ F~10~'
+_chemical_formula_sum                    'Cs F10 Yb3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsYb~3~F~10~,mP28,7
+_chemical_formula_weight                 842.0
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure cristalline de CsYb~3~F~10~: Compos\'es isotypes
+;
+_journal_coden_ASTM                      JSSCBI
+_journal_name_full                       'J. Solid State Chem.'
+_journal_year                            1982
+_journal_volume                          42
+_journal_page_first                      80
+_journal_page_last                       88
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Al\'eonard P.S.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+'Roux M.T.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+'Lambert B.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.2893
+_cell_length_b                           6.7437
+_cell_length_c                           16.196
+_cell_angle_alpha                        90
+_cell_angle_beta                         90.
+_cell_angle_gamma                        90
+_cell_volume                             468.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Yb
+ F
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Yb2 Yb 2 a 0.0 0.00783 0.0 1
+ Yb3 Yb 2 a 0.00002 0.46583 0.13646 1
+ Yb1 Yb 2 a 0.00007 0.53502 0.3637 1
+ F1 F 2 a 0.02983 0.3738 0.00046 1
+ F2 F 2 a 0.03043 0.3197 0.26196 1
+ F9 F 2 a 0.03493 0.6777 0.24166 1
+ F4 F 2 a 0.03613 0.1402 0.12196 1
+ F6 F 2 a 0.03703 0.1411 0.88036 1
+ F10 F 2 a 0.04723 0.2496 0.42126 1
+ F5 F 2 a 0.05413 0.2494 0.58226 1
+ Cs Cs 2 a 0.49043 0.00802 0.25447 1
+ F8 F 2 a 0.49903 0.0217 0.99416 1
+ F7 F 2 a 0.50203 0.5724 0.36206 1
+ F3 F 2 a 0.50453 0.4676 0.13836 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.97
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_reflns_number                    3438
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            18.5
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 1406
+_refine_ls_R_factor_gt                   0.031
+_refine_ls_wR_factor_gt                  0.034
+
+# End of data set 1907238
+
+

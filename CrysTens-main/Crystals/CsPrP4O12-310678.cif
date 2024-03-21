@@ -1,0 +1,148 @@
+##############################################################################
+#                                                                            #
+# Cs-O-P-Pr        # CsPrP4O12 mon1                                #  310678 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_310678
+_audit_creation_date                     2017-12-01
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      310678
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Pr P~4~ O~12~'
+_chemical_formula_sum                    'Cs O12 P4 Pr'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsNdP~4~O~12~,mP36,4
+_chemical_formula_weight                 589.7
+
+# Bibliographic data
+
+_publ_section_title                      'Crystal structure of CsPr(PO~3~)~4~'
+_journal_coden_ASTM                      INOMAF
+_journal_name_full                       'Inorg. Mater.'
+_journal_year                            1978
+_journal_volume                          14
+_journal_page_first                      213
+_journal_page_last                       216
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Palkina K.K.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Maksimova S.I.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+'Kuznetsov V.G.'
+;
+Russian Academy of Sciences
+Kurnakov N.S. Institute of General and Inorganic Chemistry
+Moscow
+Russia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.159
+_cell_length_b                           9.19
+_cell_length_c                           8.809
+_cell_angle_alpha                        90
+_cell_angle_beta                         99.66
+_cell_angle_gamma                        90
+_cell_volume                             571.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   4
+_space_group_name_H-M_alt                'P 1 21 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, 1/2+y, -z'
+loop_
+ _atom_type_symbol
+ O
+ P
+ Cs
+ Pr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O(8) O 2 a 0.01041 0.56707 0.81748 1
+ O(9) O 2 a 0.03966 0.59109 0.49251 1
+ P(4) P 2 a 0.1454 0.16221 0.54211 1
+ O(5) O 2 a 0.16127 0.29755 0.63445 1
+ Cs Cs 2 a 0.1721 0.69664 0.17472 1
+ P(2) P 2 a 0.1916 0.11114 0.22661 1
+ O(10) O 2 a 0.22135 0.19734 0.38805 1
+ O(4) O 2 a 0.2271 0.24062 0.11093 1
+ O(11) O 2 a 0.28791 0.05273 0.6356 1
+ O(6) O 2 a 0.34773 0.0 0.23177 1
+ O(2) O 2 a 0.36168 0.38774 0.92275 1
+ P(1) P 2 a 0.41841 0.31174 0.07071 1
+ O(3) O 2 a 0.42343 0.48244 0.46895 1
+ O(7) O 2 a 0.46099 0.43552 0.19864 1
+ P(3) P 2 a 0.56011 0.427 0.37629 1
+ O(1) O 2 a 0.5752 0.2061 0.0914 1
+ O(12) O 2 a 0.65053 0.28442 0.40471 1
+ Pr Pr 2 a 0.70133 0.03103 0.30279 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.43
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 0
+_diffrn_reflns_theta_max                 25
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.034
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 310678
+
+

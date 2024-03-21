@@ -1,0 +1,204 @@
+##############################################################################
+#                                                                            #
+# Co-H-O-P         # Co3[PO4]2[H2O]                                # 1412059 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1412059
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1412059
+
+# Entry summary
+
+_chemical_formula_structural             'Co~3~ [P O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'Co3 H2 O9 P2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Co~3~[PO~4~]~2~[H~2~O],mP56,14
+_chemical_formula_weight                 384.8
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure of cobalt(II) orthophosphate monohydrate, Co~3~(PO~4~)~2~.H~2~O
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1976
+_journal_volume                          15
+_journal_page_first                      2744
+_journal_page_last                       2748
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Anderson J.B.'
+;
+Connecticut Storrs University
+Department of Materials Science
+Storrs
+U.S.A. Connecticut
+;
+'Kostiner E.'
+;
+Connecticut Storrs University
+Department of Materials Science
+Storrs
+U.S.A. Connecticut
+;
+'Ruszala F.A.'
+;
+Connecticut Storrs University
+Department of Materials Science
+Storrs
+U.S.A. Connecticut
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.516
+_cell_length_b                           7.904
+_cell_length_c                           9.277
+_cell_angle_alpha                        90
+_cell_angle_beta                         114.22
+_cell_angle_gamma                        90
+_cell_volume                             636.3
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ OH2
+ P
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O3 O 4 e 0.0498 0.0103 0.2788 1
+ O9 OH2 4 e 0.1077 0.8468 0.0518 1
+ P1 P 4 e 0.1213 0.4669 0.2672 1
+ Co2 Co 4 e 0.13149 0.11402 0.10874 1
+ O1 O 4 e 0.1434 0.3756 0.1325 1
+ O4 O 4 e 0.1756 0.347 0.4113 1
+ O2 O 4 e 0.21 0.6354 0.3121 1
+ Co1 Co 4 e 0.23973 0.09126 0.4641 1
+ O6 O 4 e 0.3363 0.0725 0.2918 1
+ O8 O 4 e 0.376 0.6307 0.0926 1
+ O5 O 4 e 0.4627 0.3403 0.1168 1
+ P2 P 4 e 0.4928 0.0128 0.3008 1
+ O7 O 4 e 0.5104 0.4954 0.3643 1
+ Co3 Co 4 e 0.57227 0.18256 0.03214 1
+
+
+_exptl_crystal_colour                    'violet dark'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.02
+_cell_measurement_temperature            298
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.7093
+_cell_measurement_reflns_used            12
+_diffrn_ambient_temperature              298
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Picker FACS-I'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.7093
+_diffrn_reflns_number                    1922
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           spherical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             128
+_refine_ls_number_reflns                 1778
+_refine_ls_R_factor_gt                   0.048
+_refine_ls_wR_factor_gt                  0.065
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ -1 1 0 58.16 20
+ -1 1 1 55.69 5
+ -1 0 2 46.21 6
+ 0 0 2 42.33 8
+ -2 1 1 40.55 7
+ 0 2 0 39.48 18
+ 2 1 0 37.95 45
+ 0 1 2 37.28 10
+ 0 2 1 35.76 16
+ -1 2 1 35.32 10
+ 2 1 1 30.79 17
+ -3 0 2 30.34 27
+ -3 1 1 29.34 8
+ 0 2 2 28.87 72
+ -3 1 2 28.36 8
+ -2 1 3 27.94 100
+ 3 1 0 27.16 10
+ 2 0 2 25.52 12
+ 1 3 0 25.2 41
+ 2 1 2 24.28 21
+ 3 1 1 23.36 8
+ -2 3 1 22.97 23
+ -4 1 2 22.65 10
+ -4 1 1 22.47 10
+ -3 0 4 21.91 13
+ 2 2 2 21.44 8
+ -3 1 4 21.12 10
+ 1 3 2 20.64 15
+ 1 2 3 20.59 19
+ 0 4 0 19.762 24
+ 3 1 2 19.689 28
+ 1 4 0 19.274 8
+ -4 1 4 19.167 13
+ 4 1 1 18.671 11
+ 0 4 2 17.921 16
+ -2 3 4 17.39 10
+ -5 2 1 16.825 14
+ -3 4 1 16.78 17
+ 3 3 2 16.101 7
+ -6 0 2 15.833 17
+ -5 1 5 15.496 11
+ -2 3 5 15.185 14
+ -4 0 6 14.988 13
+ -1 0 6 14.944 19
+ 5 2 1 14.667 10
+ -5 3 4 14.521 7
+
+# End of data set 1412059
+
+

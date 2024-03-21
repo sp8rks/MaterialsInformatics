@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Co-H-O-Se        # Co[SeO3][H2O] mon3                            # 1002009 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1002009
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1002009
+
+# Entry summary
+
+_chemical_formula_structural             'Co [Se O~3~] [H~2~ O]'
+_chemical_formula_sum                    'Co H2 O4 Se'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Zn[SeO~3~][H~2~O],mP24,14
+_chemical_formula_weight                 203.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+New polymorphic and pseudosymmetrical cobalt selenite monohydrates, CoSeO~3~.H~2~O II and CoSeO~3~.H~2~O III
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1998
+_journal_volume                          213
+_journal_page_first                      275
+_journal_page_last                       281
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Engelen B.'
+;
+Siegen University
+Institut f\"ur Anorganische Chemie
+Siegen
+Germany
+;
+'M\"uller H.D.'
+;
+Siegen University
+Institut f\"ur Anorganische Chemie
+Siegen
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.772
+_cell_length_b                           13.209
+_cell_length_c                           7.3886
+_cell_angle_alpha                        90
+_cell_angle_beta                         129.688
+_cell_angle_gamma                        90
+_cell_volume                             358.39
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Se
+ Co
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O4 O 4 e 0.0078 0.3887 0.1165 1
+ Se Se 4 e 0.12192 0.60303 0.38522 1
+ O2 O 4 e 0.2051 0.8237 0.1092 1
+ O1 O 4 e 0.2349 0.1772 0.3343 1
+ Co Co 4 e 0.2975 0.26596 0.116 1
+ O3 O 4 e 0.5411 0.1308 0.118 1
+ H1 H 4 e -0.06 0.387 0.19 1
+ H2 H 4 e 0.17 0.596 0.05 1
+
+
+_exptl_crystal_colour                    red
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.78
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    4168
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            14.789
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             65
+_refine_ls_number_reflns                 889
+_refine_ls_R_factor_gt                   0.041
+_refine_ls_wR_factor_gt                  0.108
+
+# End of data set 1002009
+
+

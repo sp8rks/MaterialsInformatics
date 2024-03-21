@@ -1,0 +1,164 @@
+##############################################################################
+#                                                                            #
+# Ba-Co-O          # Ba2CoO4 mon                                   # 1522570 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1522570
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1522570
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ Co O~4~'
+_chemical_formula_sum                    'Ba2 Co O4'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ca~2~[SiO~4~],mP28,14
+_chemical_formula_weight                 397.6
+
+# Bibliographic data
+
+_publ_section_title
+'Structural, magnetic, and electrical behavior of low dimensional Ba~2~CuO~4~'
+_journal_coden_ASTM                      CMATEX
+_journal_name_full                       'Chem. Mater.'
+_journal_year                            2006
+_journal_volume                          18
+_journal_page_first                      3898
+_journal_page_last                       3903
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Boulahya K.'
+;
+Madrid Complutense University
+Departamento de Quimica Inorganica
+Madrid
+Spain
+;
+'Parras M.'
+;
+Madrid Complutense University
+Departamento de Quimica Inorganica
+Madrid
+Spain
+;
+'Gonzalez Calbet J.M.'
+;
+Madrid Complutense University
+Departamento de Quimica Inorganica
+Madrid
+Spain
+;
+'Amador U.'
+;
+Madrid San Pablo-CEU University
+Departamento de Quimica
+Madrid
+Spain
+;
+'Martinez J.L.'
+;
+Consejo Superior de Investigaciones Cientificas
+Instituto de Ciencia de Materiales
+Madrid
+Spain
+;
+'Fernandez Diaz M.T.'
+;
+Grenoble Laue-Langevin Institute
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.8913
+_cell_length_b                           7.5974
+_cell_length_c                           11.7502
+_cell_angle_alpha                        90
+_cell_angle_beta                         118.173
+_cell_angle_gamma                        90
+_cell_volume                             463.61
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Ba
+ O
+ Co
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba1 Ba 4 e 0.0436 -0.0074 0.3093 1
+ O2 O 4 e 0.1444 0.1749 0.1424 1
+ O3 O 4 e 0.2153 0.314 0.4185 1
+ O4 O 4 e 0.3066 0.5072 0.0806 1
+ Co Co 4 e 0.307 0.277 0.073 1
+ O1 O 4 e 0.6506 0.2045 0.1666 1
+ Ba Ba 4 e 0.6737 0.3521 0.4167 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.70
+_cell_measurement_temperature            4
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.908
+_pd_proc_wavelength                      1.908
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              4
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'France, Grenoble, Institut Laue-Langevin ILL, D1A'                           
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.908
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               ?
+_pd_proc_ls_proof_wR_factor              0.072
+_refine_ls_R_I_factor                    0.059
+
+# End of data set 1522570
+
+

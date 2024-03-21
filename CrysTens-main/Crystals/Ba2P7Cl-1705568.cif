@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# Ba-Cl-P          # Ba2P7Cl                                       # 1705568 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1705568
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1705568
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~2~ P~7~ Cl'
+_chemical_formula_sum                    'Ba2 Cl P7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~2~P~7~Cl,mP20,11
+_chemical_formula_weight                 526.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Dibariumheptaphosphidchlorid Ba~2~P~7~Cl, eine Verbindung mit dem polycyclischen Anion P~7~^3-^
+;
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1981
+_journal_volume                          481
+_journal_page_first                      33
+_journal_page_last                       40
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'Von Schnering H.G.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+'Menge G.'
+;
+Max Planck Society
+Max Planck Institut f\"ur Festk\"orperforschung
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.337
+_cell_length_b                           6.829
+_cell_length_c                           11.726
+_cell_angle_alpha                        90
+_cell_angle_beta                         95.27
+_cell_angle_gamma                        90
+_cell_volume                             505.3
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ P
+ Cl
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P4 P 4 f 0.3828 0.0047 0.1946 1
+ P5 P 4 f 0.6466 0.0786 0.3141 1
+ Cl Cl 2 e 0.1366 0.25 0.9113 1
+ P3 P 2 e 0.1722 0.25 0.408 1
+ P2 P 2 e 0.1767 0.25 0.2222 1
+ P1 P 2 e 0.51 0.25 0.451 1
+ Ba1 Ba 2 e 0.7292 0.25 0.0451 1
+ Ba2 Ba 2 e 0.9332 0.25 0.6524 1
+
+
+_exptl_crystal_colour                    'red ruby light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.46
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            12
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P1'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    1257
+_diffrn_reflns_theta_min                 1
+_diffrn_reflns_theta_max                 27.5
+_exptl_absorpt_coefficient_mu            9.24
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 964
+_refine_ls_R_factor_gt                   0.035
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1705568
+
+

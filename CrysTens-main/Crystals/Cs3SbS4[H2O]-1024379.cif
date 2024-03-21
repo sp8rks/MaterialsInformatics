@@ -1,0 +1,147 @@
+##############################################################################
+#                                                                            #
+# Cs-H-O-S-Sb      # Cs3SbS4[H2O]                                  # 1024379 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1024379
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1024379
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~3~ Sb S~4~ [H~2~ O]'
+_chemical_formula_sum                    'Cs3 H2 O S4 Sb'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~3~AsSe~4~[H~2~O],mP36,14
+_chemical_formula_weight                 666.7
+
+# Bibliographic data
+
+_publ_section_title
+;
+New sulfido antimonates of the heavy alkali metals: Synthesis, crystal structure and chemical bonding of (K/Rb/Cs)~3~SbS~3~ and Cs~3~SbS~4~.H~2~O
+;
+_journal_coden_ASTM                      ZNBSEN
+_journal_name_full                       'Z. Naturforsch. B'
+_journal_year                            2013
+_journal_volume                          68
+_journal_page_first                      1295
+_journal_page_last                       1309
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Schindler L.V.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'Schwarz M.R.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+'R\"ohr C.'
+;
+Freiburg im Breisgau Albert Ludwig University
+Institut f\"ur Anorganische und Analytische Chemie
+Freiburg im Breisgau
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.8717
+_cell_length_b                           9.9483
+_cell_length_c                           16.3262
+_cell_angle_alpha                        90
+_cell_angle_beta                         128.373
+_cell_angle_gamma                        90
+_cell_volume                             1256.99
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ S
+ Cs
+ Sb
+ O
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S3 S 4 e -0.00031 0.32663 0.25556 1
+ S1 S 4 e 0.06742 0.16604 0.06887 1
+ Cs2 Cs 4 e 0.19903 0.07302 0.45731 1
+ Sb Sb 4 e 0.19732 0.29012 0.22304 1
+ S2 S 4 e 0.27295 0.50004 0.19647 1
+ O O 4 e 0.4218 0.1501 0.0959 1
+ S4 S 4 e 0.44255 0.17881 0.36274 1
+ Cs1 Cs 4 e 0.69551 0.36425 0.29644 1
+ Cs3 Cs 4 e 0.72562 0.0867 0.07542 1
+ H1 H 4 e 0.319 0.154 0.093 1
+ H2 H 4 e 0.485 0.114 0.151 1
+
+
+_exptl_crystal_colour                    'yellow light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.52
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              150
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II QUAZAR'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    40801
+_diffrn_reflns_theta_min                 2.6
+_diffrn_reflns_theta_max                 39
+_exptl_absorpt_coefficient_mu            11.4
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             92
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.0234
+_refine_ls_wR_factor_gt                  0.0533
+
+# End of data set 1024379
+
+

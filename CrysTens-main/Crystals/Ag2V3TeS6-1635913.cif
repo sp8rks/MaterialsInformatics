@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# Ag-S-Te-V        # Ag2V3TeS6 hex                                 # 1635913 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1635913
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1635913
+
+# Entry summary
+
+_chemical_formula_structural             'Ag~2~ V~3~ Te S~6~'
+_chemical_formula_sum                    'Ag2 S6 Te V3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ag~2~V~3~TeS~6~,hP12,189
+_chemical_formula_weight                 688.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Lattice-matched transition metal disulfide intergrowths: The metallic conductors Ag~2~Te(MS~2~)~3~ (M= V, Nb)
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2013
+_journal_volume                          52
+_journal_page_first                      6520
+_journal_page_last                       6532
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Nguyen S.L.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Malliakas C.D.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Francisco M.C.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+'Kanatzidis M.G.'
+;
+Illinois Evanston Northwestern University
+Department of Chemistry
+Evanston
+U.S.A. Illinois
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.5347
+_cell_length_b                           5.5347
+_cell_length_c                           8.0248
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             212.9
+_cell_formula_units_Z                    1
+_space_group_IT_number                   189
+_space_group_name_H-M_alt                'P -6 2 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, -z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, z'
+ 6 '-y, x-y, -z'
+ 7 '-y, x-y, z'
+ 8 'x, y, -z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, z'
+ 11 'y, x, -z'
+ 12 'y, x, z'
+loop_
+ _atom_type_symbol
+ S
+ V
+ Ag
+ Te
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S1 S 4 h 0.333333 0.666667 0.3153 1
+ V V 3 g 0.3409 0 0.5 1
+ S2 S 2 e 0 0 0.3254 1
+ Ag Ag 2 c 0.333333 0.666667 0 1
+ Te Te 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.37
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            6258
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE IPDS II'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    5027
+_diffrn_reflns_theta_min                 4.25
+_diffrn_reflns_theta_max                 37.92
+_exptl_absorpt_coefficient_mu            12.435
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             16
+_refine_ls_number_reflns                 460
+_refine_ls_R_factor_gt                   0.0478
+_refine_ls_wR_factor_gt                  0.0836
+
+# End of data set 1635913
+
+

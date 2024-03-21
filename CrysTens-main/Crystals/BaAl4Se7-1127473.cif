@@ -1,0 +1,173 @@
+##############################################################################
+#                                                                            #
+# Al-Ba-Se         # BaAl4Se7                                      # 1127473 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1127473
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1127473
+
+# Entry summary
+
+_chemical_formula_structural             'Ba Al~4~ Se~7~'
+_chemical_formula_sum                    'Al4 Ba Se7'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            BaGa~4~Se~7~,mP24,7
+_chemical_formula_weight                 798.0
+_chemical_melting_point                  1174
+
+# Bibliographic data
+
+_publ_section_title
+'BaAl~4~Se~7~: A new infrared nonlinear optical material with a large band gap'
+_journal_coden_ASTM                      DTARAF
+_journal_name_full                       'Dalton Trans.'
+_journal_year                            2011
+_journal_volume                          40
+_journal_page_first                      3610
+_journal_page_last                       3615
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mei D.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Yin W.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Bai L.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Lin Z.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Yao J.L.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Fu P.Z.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+'Wu Y.'
+;
+Chinese Academy of Sciences
+Technical Institute of Physics and Chemistry
+Beijing
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           7.556
+_cell_length_b                           6.452
+_cell_length_c                           14.5741
+_cell_angle_alpha                        90
+_cell_angle_beta                         121.23
+_cell_angle_gamma                        90
+_cell_volume                             607.55
+_cell_formula_units_Z                    2
+_space_group_IT_number                   7
+_space_group_name_H-M_alt                'P 1 c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Al
+ Se
+ Ba
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Al2 Al 2 a 0.0 0.0099 0.0 1
+ Se2 Se 2 a 0.009 0.3633 0.0388 1
+ Al1 Al 2 a 0.0046 0.1621 0.7391 1
+ Se5 Se 2 a 0.0903 0.51138 0.31629 1
+ Al4 Al 2 a 0.2318 0.3651 0.2223 1
+ Se3 Se 2 a 0.3263 0.10759 0.54271 1
+ Se4 Se 2 a 0.325 0.02157 0.30603 1
+ Al3 Al 2 a 0.489 0.1537 0.7267 1
+ Ba Ba 2 a 0.5623 0.35927 0.04314 1
+ Se6 Se 2 a 0.5616 0.5005 0.27908 1
+ Se1 Se 2 a 0.7873 0.14697 0.55169 1
+ Se7 Se 2 a 0.8165 0.02603 0.30428 1
+
+
+_exptl_crystal_colour                    'yellow light'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.36
+_cell_measurement_temperature            93
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            2312
+_diffrn_ambient_temperature              93
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Rigaku AFC10'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    6758
+_diffrn_reflns_theta_min                 2.7
+_diffrn_reflns_theta_max                 30.26
+_exptl_absorpt_coefficient_mu            24.47
+_exptl_absorpt_correction_type           analytical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             55
+_refine_ls_number_reflns                 3009
+_refine_ls_R_factor_gt                   0.0464
+_refine_ls_wR_factor_gt                  0.0888
+
+# End of data set 1127473
+
+

@@ -1,0 +1,186 @@
+##############################################################################
+#                                                                            #
+# Ca-H-Mn-O-S      # Ca3Mn[SO4]2[OH]6[H2O]3                        # 1903836 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1903836
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1903836
+
+# Entry summary
+
+_chemical_formula_structural
+'Ca~3~ Mn [S O~4~]~2~ [O H]~6~ [H~2~ O]~3~'                                   
+_chemical_formula_sum                    'Ca3 H12 Mn O17 S2'
+_chemical_name_mineral                   despujolsite
+_chemical_compound_source
+'Morocco, Bou-Azzer district, Anti-Atlas, Tachgagalt vein'                    
+_chemical_name_structure_type
+Ca~3~Mn[SO~4~]~2~[OH]~6~[H~2~O]~3~,hP46,190                                   
+_chemical_formula_weight                 523.4
+
+# Bibliographic data
+
+_publ_section_title
+;
+La despujolsite, une nouvelle esp\`ece min\'erale
+;
+_journal_coden_ASTM                      BUFCAE
+_journal_name_full
+'Bull. Soc. Fr. Mineral. Cristallogr.'                                        
+_journal_year                            1968
+_journal_volume                          91
+_journal_page_first                      43
+_journal_page_last                       50
+_journal_language                        French
+loop_
+ _publ_author_name
+ _publ_author_address
+'Gaudefroy C.'
+;
+Rabat Mohammed V University
+Division de la G\'eologie
+Rabat
+Morocco
+;
+'Granger M.M.'
+;
+Centre National de la Recherche Scientifique (CNRS)
+Laboratoire de Cristallographie
+Meudon-Bellevue
+France
+;
+'Permingeat F.'
+;
+Toulouse III Paul Sabatier University
+Laboratoire de Min\'eralogie et Cristallographie
+Toulouse
+France
+;
+'Protas J.'
+;
+Vandoeuvre-l\`es-Nancy I Henri Poincar\'e University
+Laboratoire de Min\'eralogie et Cristallographie
+Vandoeuvre-l\`es-Nancy
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.56
+_cell_length_b                           8.56
+_cell_length_c                           10.76
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             682.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   190
+_space_group_name_H-M_alt                'P -6 2 c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -x+y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, -y, 1/2+z'
+ 11 'y, x, -z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ OH
+ O
+ OH2
+ Ca
+ S
+ Mn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ OH3 OH 12 i 0.10037 0.20292 0.11114 1
+ O4 O 12 i 0.47747 0.22371 0.06805 1
+ H2O2 OH2 6 h 0.01992 0.50189 0.25 1
+ Ca Ca 6 h 0.30222 0.15669 0.25 1
+ O1 O 4 f 0.333333 0.666667 0.11152 1
+ S S 4 f 0.333333 0.666667 0.52513 1
+ Mn Mn 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    'yellow lemon'
+_exptl_crystal_density_meas              2.46(2)
+_exptl_crystal_density_diffrn            2.55
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              ?
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'Weissenberg photographs'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   0.162
+_refine_ls_wR_factor_gt                  ?
+
+# Published diffraction lines
+
+loop_
+ _refln_index_h
+ _refln_index_k
+ _refln_index_l
+ _refln_d_spacing
+ _refln_intensity_meas
+ 1 0 0 74 7
+ 1 0 1 60.8 3
+ 1 1 0 42.6 8
+ 2 0 0 36.9 1
+ 2 0 1 34.9 6
+ 1 1 2 33.4 9
+ 1 0 3 32.2 2
+ 1 2 1 26.9 1
+ 2 0 3 25.7 7
+ 1 2 2 24.7 3
+ 3 0 1 23.98 1
+ 3 0 2 22.35 6
+ 1 2 3 21.98 6
+ 2 2 0 21.29 8
+ 1 0 5 20.66 3
+ 3 0 3 20.25 7
+
+# End of data set 1903836
+
+

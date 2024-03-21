@@ -1,0 +1,139 @@
+##############################################################################
+#                                                                            #
+# Cs-I-Nb          # CsNb6I11                                      # 1000353 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1000353
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1000353
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Nb~6~ I~11~'
+_chemical_formula_sum                    'Cs I11 Nb6'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsNb~6~I~11~,hP36,182
+_chemical_formula_weight                 2086.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+A more reduced Nb~6~I~8~ cluster. Synthesis and structure of CsNb~6~I~11~ and its hydride CsNb~6~I~11~H
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            1980
+_journal_volume                          19
+_journal_page_first                      1241
+_journal_page_last                       1245
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Imoto H.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory - Department of Energy (DOE)
+Ames
+U.S.A. Iowa
+;
+'Corbett J.D.'
+;
+Iowa State Ames University of Science and Technology
+Ames National Laboratory - Department of Energy (DOE)
+Ames
+U.S.A. Iowa
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           11.007
+_cell_length_b                           11.007
+_cell_length_c                           11.894
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             1247.9
+_cell_formula_units_Z                    2
+_space_group_IT_number                   182
+_space_group_name_H-M_alt                'P 63 2 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, 1/2-z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, 1/2-z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, -z'
+loop_
+ _atom_type_symbol
+ I
+ Nb
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ I1 I 12 i 0.3704 0.022 0.342 1
+ Nb Nb 12 i 0.5157 0.1915 0.151 1
+ I3 I 6 g 0.2813 0 0 1
+ I2 I 4 f 0.333333 0.666667 0.0477 1
+ Cs Cs 2 b 0 0 0.25 1
+
+
+_exptl_crystal_colour                    'black, after grinding dark brown'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.55
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            30
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71002
+_diffrn_reflns_number                    3990
+_exptl_absorpt_coefficient_mu            17.84
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 777
+_refine_ls_R_factor_gt                   0.047
+_refine_ls_wR_factor_gt                  0.060
+
+# End of data set 1000353
+
+

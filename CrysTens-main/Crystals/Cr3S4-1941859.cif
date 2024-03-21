@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# Cr-S             # Cr3S4 rt                                      # 1941859 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1941859
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1941859
+
+# Entry summary
+
+_chemical_formula_structural             'Cr~3~ S~4~'
+_chemical_formula_sum                    'Cr3 S4'
+_chemical_name_mineral                   brezinaite
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cr~3~S~4~,mS14,12
+_chemical_formula_weight                 284.2
+
+# Bibliographic data
+
+_publ_section_title
+'On the formation mechanism of chromium nitrides: An in situ study'           
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            2014
+_journal_volume                          640
+_journal_page_first                      2801
+_journal_page_last                       2808
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Widenmeyer M.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+'Meissner E.'
+;
+Fraunhofer Society
+Department of Crystal Growth
+Erlangen
+Germany
+;
+'Senyshyn A.'
+;
+Munich Technical University (TUM)
+Heinz Maier-Leibnitz Zentrum
+Garching
+Germany
+;
+'Niewa R.'
+;
+Stuttgart University
+Institut f\"ur Anorganische Chemie
+Stuttgart
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           12.5909
+_cell_length_b                           3.4241
+_cell_length_c                           5.9558
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.697
+_cell_angle_gamma                        90
+_cell_volume                             229.4
+_cell_formula_units_Z                    2
+_space_group_IT_number                   12
+_space_group_name_H-M_alt                'C 1 2/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, -z'
+ 4 'x, -y, z'
+ 5 '1/2+x, 1/2+y, z'
+ 6 '1/2-x, 1/2-y, -z'
+ 7 '1/2-x, 1/2+y, -z'
+ 8 '1/2+x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ S
+ Cr
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ S2 S 4 i 0.1219 0 0.4569 1
+ Cr2 Cr 4 i 0.2601 0 0.2838 1
+ S1 S 4 i 0.3633 0 0.0253 1
+ Cr1 Cr 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.12
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              neutrons
+_cell_measurement_wavelength             1.54832
+_pd_proc_wavelength                      1.54832
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+;
+Germany, Garching, Forschungs-Neutronenquelle Heinz Maier-Leibnitz, FRM II reactor, SPODI
+;
+_diffrn_radiation_type                   neutrons
+_diffrn_radiation_wavelength             1.54832
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 0.5
+_diffrn_reflns_theta_max                 75
+_pd_proc_2theta_range_min                1
+_pd_proc_2theta_range_max                150
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.0451
+_pd_proc_ls_proof_wR_factor              0.0547
+_refine_ls_R_I_factor                    0.181
+
+# End of data set 1941859
+
+

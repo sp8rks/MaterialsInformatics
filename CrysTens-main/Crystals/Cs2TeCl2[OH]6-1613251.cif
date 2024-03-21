@@ -1,0 +1,131 @@
+##############################################################################
+#                                                                            #
+# Cl-Cs-H-O-Te     # Cs2TeCl2[OH]6                                 # 1613251 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1613251
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1613251
+
+# Entry summary
+
+_chemical_formula_structural             'Cs~2~ Te Cl~2~ [O H]~6~'
+_chemical_formula_sum                    'Cl2 Cs2 H6 O6 Te'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cs~2~TeCl~2~[OH]~6~,mP22,14
+_chemical_formula_weight                 566.4
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal structure of a new telluric acid adduct: Te(OH)~6~.2CsCl'            
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1988
+_journal_volume                          182
+_journal_page_first                      291
+_journal_page_last                       295
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Averbuch Pouchot M.T.'
+;
+Grenoble Joseph Fourier Institute
+Laboratoire de Cristallographie
+Grenoble
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.243
+_cell_length_b                           11.154
+_cell_length_c                           7.862
+_cell_angle_alpha                        90
+_cell_angle_beta                         107.48
+_cell_angle_gamma                        90
+_cell_volume                             522.2
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Cs
+ Cl
+ Te
+ H
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O2 O 4 e 0.0155 0.3606 0.3638 1
+ O3 O 4 e 0.1671 0.0737 0.2198 1
+ Cs Cs 4 e 0.24226 0.62969 0.05994 1
+ Cl Cl 4 e 0.378 0.33 0.1833 1
+ O1 O 4 e 0.7342 0.0656 0.0367 1
+ Te Te 2 a 0 0 0 1
+ H2 H 4 e 0.13 0.351 0.34 1
+ H3 H 4 e 0.2 0.145 0.193 1
+ H1 H 4 e 0.32 0.577 0.551 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.60
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Ag Ka'
+_cell_measurement_wavelength             0.5608
+_cell_measurement_reflns_used            22
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Ag Ka'
+_diffrn_radiation_wavelength             0.5608
+_diffrn_reflns_number                    3071
+_diffrn_reflns_theta_min                 3
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            5.355
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2083
+_refine_ls_R_factor_gt                   0.027
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1613251
+
+

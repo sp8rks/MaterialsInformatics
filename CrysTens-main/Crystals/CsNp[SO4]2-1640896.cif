@@ -1,0 +1,198 @@
+##############################################################################
+#                                                                            #
+# Cs-Np-O-S        # CsNp[SO4]2                                    # 1640896 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1640896
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1640896
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Np [S O~4~]~2~'
+_chemical_formula_sum                    'Cs Np O8 S2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CsNp[SO~4~]~2~,mP48,14
+_chemical_formula_weight                 562.1
+
+# Bibliographic data
+
+_publ_section_title
+;
+Straightforward reductive routes to air-stable uranium(III) and neptunium(III) materials
+;
+_journal_coden_ASTM                      INOCAJ
+_journal_name_full                       'Inorg. Chem.'
+_journal_year                            2014
+_journal_volume                          53
+_journal_page_first                      7455
+_journal_page_last                       7466
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Cross J.N.'
+;
+Florida Tallahassee State University
+Department of Chemistry and Biochemistry
+Tallahassee
+U.S.A. Florida
+;
+'Albrecht Schmitt T.E.'
+;
+Florida Tallahassee State University
+Department of Chemistry and Biochemistry
+Tallahassee
+U.S.A. Florida
+;
+'Villa E.M.'
+;
+Nebraska Omaha Creighton University
+Department of Chemistry
+Omaha
+U.S.A. Nebraska
+;
+'Darling V.R.'
+;
+Indiana Notre Dame (du Lac) University
+Department of Chemistry and Biochemistry
+Notre Dame
+U.S.A. Indiana
+;
+'Polinski M.J.'
+;
+Florida Tallahassee State University
+Department of Chemistry and Biochemistry
+Tallahassee
+U.S.A. Florida
+;
+'Lin J.'
+;
+Florida Tallahassee State University
+Department of Chemistry and Biochemistry
+Tallahassee
+U.S.A. Florida
+;
+'Tan X.'
+;
+Florida Tallahassee State University
+Department of Chemistry and Biochemistry
+Tallahassee
+U.S.A. Florida
+;
+'Kikugawa N.'
+;
+Florida Tallahassee State University
+National High Magnetic Field Laboratory
+Tallahassee
+U.S.A. Florida
+;
+'Shatruk M.M.'
+;
+Florida Tallahassee State University
+Department of Chemistry and Biochemistry
+Tallahassee
+U.S.A. Florida
+;
+'Baumbach R.E.'
+;
+Florida Tallahassee State University
+National High Magnetic Field Laboratory
+Tallahassee
+U.S.A. Florida
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.448
+_cell_length_b                           14.333
+_cell_length_c                           10.8363
+_cell_angle_alpha                        90
+_cell_angle_beta                         119.838
+_cell_angle_gamma                        90
+_cell_volume                             734
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Np
+ O
+ S
+ Cs
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Np1 Np 4 e 0.06993 0.5007 0.2605 1
+ O1 O 4 e 0.1602 0.114 0.1538 1
+ O2 O 4 e 0.1621 0.3723 0.4326 1
+ O3 O 4 e 0.211 0.1098 0.4382 1
+ O5 O 4 e 0.2268 0.3653 0.1631 1
+ O7 O 4 e 0.2947 0.5174 0.1019 1
+ S2 S 4 e 0.3169 0.09325 0.0805 1
+ Cs1 Cs 4 e 0.33005 0.74494 0.07823 1
+ S1 S 4 e 0.3484 0.41736 0.0886 1
+ O8 O 4 e 0.3548 0.5087 0.5773 1
+ O4 O 4 e 0.5983 0.1365 0.1548 1
+ O6 O 4 e 0.6503 0.3983 0.1543 1
+
+
+_exptl_crystal_colour                    'blue purple'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.09
+_cell_measurement_temperature            296(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            1746
+_diffrn_ambient_temperature              296(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Bruker AXS APEX II QUAZAR'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1746
+_diffrn_reflns_theta_min                 1.42
+_diffrn_reflns_theta_max                 27.6
+_exptl_absorpt_coefficient_mu            19.620
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             110
+_refine_ls_number_reflns                 1547
+_refine_ls_R_factor_gt                   0.0278
+_refine_ls_wR_factor_gt                  0.0738
+
+# End of data set 1640896
+
+

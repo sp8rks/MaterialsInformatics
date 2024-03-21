@@ -1,0 +1,134 @@
+##############################################################################
+#                                                                            #
+# Ba-Cu-O-Sb       # Ba3CuSb2O9                                    # 1712405 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1712405
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1712405
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Cu Sb~2~ O~9~'
+_chemical_formula_sum                    'Ba3 Cu O9 Sb2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~NiSb~2~O~9~,hP30,186
+_chemical_formula_weight                 863.0
+
+# Bibliographic data
+
+_publ_section_title                      Ba~3~CuSb~2~O~9~
+_journal_coden_ASTM                      ZAACAB
+_journal_name_full                       'Z. Anorg. Allg. Chem.'
+_journal_year                            1978
+_journal_volume                          442
+_journal_page_first                      280
+_journal_page_last                       288
+_journal_language                        German
+loop_
+ _publ_author_name
+ _publ_author_address
+'K\"ohl P.'
+;
+Marburg Lahn Philipp University
+Fachbereich Chemie
+Marburg
+Germany
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.809
+_cell_length_b                           5.809
+_cell_length_c                           14.321
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             418.5
+_cell_formula_units_Z                    2
+_space_group_IT_number                   186
+_space_group_name_H-M_alt                'P 63 m c'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, z'
+ 4 '-x, -x+y, 1/2+z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, z'
+ 9 'x-y, -y, 1/2+z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, 1/2+z'
+loop_
+ _atom_type_symbol
+ O
+ Ba
+ Cu
+ Sb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 6 c 0.161 0.839 0.3317 1
+ O2 O 6 c 0.5114 0.4886 0.0062 1
+ O3 O 6 c 0.839 0.161 0.1718 1
+ Ba3 Ba 2 b 0.333333 0.666667 0.1531 1
+ Cu Cu 2 b 0.333333 0.666667 0.4119 1
+ Sb2 Sb 2 b 0.333333 0.666667 0.5972 1
+ Ba2 Ba 2 b 0.333333 0.666667 0.8482 1
+ Ba1 Ba 2 a 0 0 0.0 1
+ Sb1 Sb 2 a 0 0 0.2523 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              6.78
+_exptl_crystal_density_diffrn            6.85
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_reflns_used            30
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            23.3
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution
+'starting values from the literature, Fourier synthesis'                      
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 390
+_refine_ls_R_factor_gt                   0.03
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1712405
+
+

@@ -1,0 +1,157 @@
+##############################################################################
+#                                                                            #
+# Cs-I-O-Sn        # CsSn[IO6]                                     # 1414235 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1414235
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1414235
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Sn [I O~6~]'
+_chemical_formula_sum                    'Cs I O6 Sn'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            LiSmAlF~6~,hP18,182
+_chemical_formula_weight                 474.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Reinvestigation of the Mixed-metal Periodates M'MIO~6~ (M'= Alkali Metal, M= Ge, Sn, Pb)
+;
+_journal_coden_ASTM                      JMACEP
+_journal_name_full                       'J. Mater. Chem.'
+_journal_year                            1993
+_journal_volume                          3
+_journal_page_first                      447
+_journal_page_last                       451
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Currie D.B.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+'Levason W.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+'Oldroyd R.D.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+'Weller M.T.'
+;
+Southampton University
+Department of Chemistry
+Southampton
+United Kingdom
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           5.287
+_cell_length_b                           5.287
+_cell_length_c                           13.471
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             326.1
+_cell_formula_units_Z                    2
+_space_group_IT_number                   182
+_space_group_name_H-M_alt                'P 63 2 2'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, z'
+ 3 '-x+y, y, 1/2-z'
+ 4 '-x, -x+y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, -x, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, x-y, 1/2-z'
+ 9 'x-y, -y, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, 1/2+z'
+ 12 'y, x, -z'
+
+# Atomic positions taken from type-defining entry
+
+loop_
+ _atom_type_symbol
+ O
+ Cs
+ I
+ Sn
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ O1 O 12 i 0.0314 0.3882 0.1502 1
+ Cs1 Cs 2 d 0.333333 0.666667 0.75 1
+ I1 I 2 c 0.333333 0.666667 0.25 1
+ Sn1 Sn 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.83
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          ?
+_diffrn_radiation_type                   ?
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            ?
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+
+# End of data set 1414235
+
+

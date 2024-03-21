@@ -1,0 +1,136 @@
+##############################################################################
+#                                                                            #
+# Ba-Ge-N          # Ba3Ge2N2                                      # 1616293 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1616293
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1616293
+
+# Entry summary
+
+_chemical_formula_structural             'Ba~3~ Ge~2~ N~2~'
+_chemical_formula_sum                    'Ba3 Ge2 N2'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Ba~3~Ge~2~N~2~,mP14,11
+_chemical_formula_weight                 585.2
+
+# Bibliographic data
+
+_publ_section_title
+;
+A barium germanium nitride, Ba~3~Ge~2~N~2~, containing ^1^/\\infty|Ge^2-^ and GeN~2~^4-^ anions
+;
+_journal_coden_ASTM                      JALCEU
+_journal_name_full                       'J. Alloys Compd.'
+_journal_year                            1996
+_journal_volume                          241
+_journal_page_first                      69
+_journal_page_last                       74
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Yamane H.'
+;
+New York Ithaca Cornell University
+Department of Chemistry
+Ithaca
+U.S.A. New York
+;
+'DiSalvo F.J.'
+;
+New York Ithaca Cornell University
+Department of Chemistry
+Ithaca
+U.S.A. New York
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           9.6196
+_cell_length_b                           4.0466
+_cell_length_c                           10.1337
+_cell_angle_alpha                        90
+_cell_angle_beta                         113.553
+_cell_angle_gamma                        90
+_cell_volume                             361.6
+_cell_formula_units_Z                    2
+_space_group_IT_number                   11
+_space_group_name_H-M_alt                'P 1 21/m 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, -z'
+ 4 'x, 1/2-y, z'
+loop_
+ _atom_type_symbol
+ Ba
+ N
+ Ge
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Ba1 Ba 2 e 0.0287 0.25 0.1739 1
+ N1 N 2 e 0.0715 0.25 0.6764 1
+ N2 N 2 e 0.183 0.25 0.0003 1
+ Ge1 Ge 2 e 0.2468 0.25 0.8472 1
+ Ge2 Ge 2 e 0.4218 0.25 0.4455 1
+ Ba2 Ba 2 e 0.6143 0.25 0.8558 1
+ Ba3 Ba 2 e 0.8123 0.25 0.4416 1
+
+
+_exptl_crystal_colour                    'gray silver'
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.37
+_cell_measurement_temperature            293(2)
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            29
+_diffrn_ambient_temperature              293(2)
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens P4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1379
+_diffrn_reflns_theta_min                 2.19
+_diffrn_reflns_theta_max                 27.49
+_exptl_absorpt_coefficient_mu            24.197
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods'
+_refine_ls_number_parameters             44
+_refine_ls_number_reflns                 952
+_refine_ls_R_factor_gt                   0.0295
+_refine_ls_wR_factor_gt                  0.0684
+
+# End of data set 1616293
+
+

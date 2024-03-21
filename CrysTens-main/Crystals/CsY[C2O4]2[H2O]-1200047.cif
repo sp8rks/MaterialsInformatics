@@ -1,0 +1,154 @@
+##############################################################################
+#                                                                            #
+# C-Cs-H-O-Y       # CsY[C2O4]2[H2O]                               # 1200047 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1200047
+_audit_creation_date                     2017-12-04
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1200047
+
+# Entry summary
+
+_chemical_formula_structural             'Cs Y [C~2~ O~4~]~2~ [H~2~ O]'
+_chemical_formula_sum                    'C4 Cs H2 O9 Y'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type
+[NH~4~]Y[C~2~O~4~]~2~[H~2~O],mP30,13                                          
+_chemical_formula_weight                 415.9
+
+# Bibliographic data
+
+_publ_section_title
+;
+Crystal structure and thermal behaviour of the new layered oxalate Y(H~2~O)Cs(C~2~O~4~)~2~ studied by powder X-ray diffraction
+;
+_journal_coden_ASTM                      JMACEP
+_journal_name_full                       'J. Mater. Chem.'
+_journal_year                            2000
+_journal_volume                          10
+_journal_page_first                      1707
+_journal_page_last                       1711
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Bataille T.'
+;
+Rennes I University
+Laboratoire de Chimie du Solide et Inorganique Mol\'eculaire
+Rennes
+France
+;
+'Auffr\'edic J.P.'
+;
+Rennes I University
+Laboratoire de Chimie du Solide et Inorganique Mol\'eculaire
+Rennes
+France
+;
+'Louer D.'
+;
+Rennes I University
+Laboratoire de Chimie du Solide et Inorganique Mol\'eculaire
+Rennes
+France
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.103
+_cell_length_b                           6.2299
+_cell_length_c                           12.0894
+_cell_angle_alpha                        90
+_cell_angle_beta                         132.037
+_cell_angle_gamma                        90
+_cell_volume                             453.27
+_cell_formula_units_Z                    2
+_space_group_IT_number                   13
+_space_group_name_H-M_alt                'P 1 2/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, y, 1/2-z'
+ 4 'x, -y, 1/2+z'
+loop_
+ _atom_type_symbol
+ C
+ O
+ Cs
+ Y
+ OH2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ C1 C 4 g 0.0873 0.09 0.5463 1
+ O12 O 4 g 0.078 0.241 0.474 1
+ O11 O 4 g 0.1556 0.118 0.6736 1
+ O22 O 4 g 0.379 0.237 0.401 1
+ C2 C 4 g 0.466 0.109 0.01 1
+ O21 O 4 g 0.732 0.16 0.56 1
+ Cs Cs 2 f 0.5 0.5073 0.25 1
+ Y Y 2 e 0 0.1058 0.25 1
+ Ow OH2 2 e 0 0.509 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            3.05
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Cu Ka1'
+_cell_measurement_wavelength             1.5406
+_pd_proc_wavelength                      1.5406
+_cell_measurement_reflns_used            772
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Siemens D500'
+_diffrn_radiation_type                   'X-rays, Cu Ka1'
+_diffrn_radiation_wavelength             1.5406
+_diffrn_reflns_number                    772
+_diffrn_reflns_theta_min                 5
+_diffrn_reflns_theta_max                 65
+_pd_proc_2theta_range_min                10
+_pd_proc_2theta_range_max                130
+_exptl_absorpt_coefficient_mu            ?
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             56
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.081
+_pd_proc_ls_proof_wR_factor              0.107
+_refine_ls_R_I_factor                    0.067
+
+# End of data set 1200047
+
+

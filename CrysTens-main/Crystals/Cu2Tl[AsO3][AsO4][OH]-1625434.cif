@@ -1,0 +1,135 @@
+##############################################################################
+#                                                                            #
+# As-Cu-H-O-Tl     # Cu2Tl[AsO3][AsO4][OH]                         # 1625434 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1625434
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1625434
+
+# Entry summary
+
+_chemical_formula_structural             'Cu~2~ Tl [As O~3~] [As O~4~] [O H]'
+_chemical_formula_sum                    'As2 Cu2 H O8 Tl'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Cu~2~Tl[AsO~3~][AsO~4~][OH],mP52,14
+_chemical_formula_weight                 610.3
+
+# Bibliographic data
+
+_publ_section_title
+;
+Structure investigations of Tl(I)-arsenates(V): Tl~3~(AsO~4~), Tl~2~Cu(I)(AsO~4~) and TlCu(II)~2~(AsO~4~)(AsO~3~OH)
+;
+_journal_coden_ASTM                      ZEKRDZ
+_journal_name_full                       'Z. Kristallogr.'
+_journal_year                            1998
+_journal_volume                          213
+_journal_page_first                      42
+_journal_page_last                       46
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Effenberger H.S.'
+;
+Vienna University
+Institut f\"ur Mineralogie und Kristallographie
+Vienna
+Austria
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           6.407
+_cell_length_b                           11.245
+_cell_length_c                           10.173
+_cell_angle_alpha                        90
+_cell_angle_beta                         98.64
+_cell_angle_gamma                        90
+_cell_volume                             724.6
+_cell_formula_units_Z                    4
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ Cu
+ O
+ As
+ Tl
+ OH
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ Cu2 Cu 4 e 0.06963 0.34458 0.18361 1
+ O14 O 4 e 0.0979 0.5166 0.1486 1
+ O11 O 4 e 0.1102 0.2993 0.0033 1
+ As1 As 4 e 0.11901 0.10704 0.37591 1
+ O21 O 4 e 0.1292 0.8726 0.1921 1
+ O12 O 4 e 0.1365 0.1816 0.2342 1
+ Tl Tl 4 e 0.23841 0.08322 0.01741 1
+ O13 O 4 e 0.3244 0.0128 0.4132 1
+ Cu1 Cu 4 e 0.39732 0.53591 0.13312 1
+ O23 O 4 e 0.431 0.4007 0.2603 1
+ O22 O 4 e 0.6029 0.2093 0.3973 1
+ O24 OH 4 e 0.6213 0.2135 0.1366 1
+ As2 As 4 e 0.63475 0.30462 0.27579 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.59
+_cell_measurement_temperature            ?
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              ?
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'STOE AED2'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    12853
+_diffrn_reflns_theta_min                 1.5
+_diffrn_reflns_theta_max                 35
+_exptl_absorpt_coefficient_mu            37.1
+_exptl_absorpt_correction_type           empirical
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 2629
+_refine_ls_R_factor_gt                   0.050
+_refine_ls_wR_factor_gt                  0.116
+
+# End of data set 1625434
+
+

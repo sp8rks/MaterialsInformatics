@@ -1,0 +1,160 @@
+##############################################################################
+#                                                                            #
+# C-F              # C12F12                                        # 1812611 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1812611
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1812611
+
+# Entry summary
+
+_chemical_formula_structural             'C~12~ F~12~'
+_chemical_formula_sum                    'C12 F12'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            C~12~F~12~,hP48,176
+_chemical_formula_weight                 372.1
+_chemical_melting_point                  408
+
+# Bibliographic data
+
+_publ_section_title
+'Crystal and molecular structure of perfluorobenzo[1,2:3,4:5,6] tricyclobutene'
+_journal_coden_ASTM                      JACSAT
+_journal_name_full                       'J. Am. Chem. Soc.'
+_journal_year                            1977
+_journal_volume                          99
+_journal_page_first                      6916
+_journal_page_last                       6918
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Thummel R.P.'
+;
+Texas Houston University
+Department of Chemistry
+Houston
+U.S.A. Texas
+;
+'Korp J.D.'
+;
+Texas Houston University
+Department of Chemistry
+Houston
+U.S.A. Texas
+;
+'Bernal I.'
+;
+Texas Houston University
+Department of Chemistry
+Houston
+U.S.A. Texas
+;
+'Harlow R.L.'
+;
+Texas Austin University
+Department of Chemistry
+Austin
+U.S.A. Texas
+;
+'Soulen R.L.'
+;
+Texas Georgetown Southwestern University
+Department of Chemistry
+Georgetown
+U.S.A. Texas
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.966
+_cell_length_b                           8.966
+_cell_length_c                           8.671
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        120
+_cell_volume                             603.7
+_cell_formula_units_Z                    2
+_space_group_IT_number                   176
+_space_group_name_H-M_alt                'P 63/m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x+y, -x, 1/2-z'
+ 3 '-x+y, -x, z'
+ 4 '-x, -y, -z'
+ 5 '-x, -y, 1/2+z'
+ 6 '-y, x-y, 1/2-z'
+ 7 '-y, x-y, z'
+ 8 'x, y, 1/2-z'
+ 9 'x-y, x, -z'
+ 10 'x-y, x, 1/2+z'
+ 11 'y, -x+y, -z'
+ 12 'y, -x+y, 1/2+z'
+loop_
+ _atom_type_symbol
+ F
+ C
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ F1 F 12 i 0.017 0.256 0.1252 1
+ F2 F 12 i 0.1209 0.595 0.126 1
+ C2 C 6 h 0.0302 0.5086 0.25 1
+ C1 C 6 h 0.3398 0.0298 0.25 1
+ C4 C 6 h 0.4921 0.2123 0.25 1
+ C3 C 6 h 0.6126 0.1585 0.25 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            2.05
+_cell_measurement_temperature            238
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              238
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Syntex P21'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_reflns_number                    ?
+_diffrn_reflns_theta_min                 2
+_diffrn_reflns_theta_max                 30
+_exptl_absorpt_coefficient_mu            0.276
+_exptl_absorpt_correction_type           no
+_computing_structure_solution            'Patterson and Fourier synthesis'
+_refine_ls_number_parameters             45
+_refine_ls_number_reflns                 587
+_refine_ls_R_factor_gt                   0.035
+_refine_ls_wR_factor_gt                  0.041
+
+# End of data set 1812611
+
+

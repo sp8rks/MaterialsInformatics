@@ -1,0 +1,178 @@
+##############################################################################
+#                                                                            #
+# Cr-O-P-Pb        # Cr2Pb3[PO4]4 mon                              # 1628700 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2017/18                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2017 #
+#                   All rights reserved. Version 2017.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1628700
+_audit_creation_date                     2017-12-05
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1628700
+
+# Entry summary
+
+_chemical_formula_structural             'Cr~2~ Pb~3~ [P O~4~]~4~'
+_chemical_formula_sum                    'Cr2 O16 P4 Pb3'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            Fe~2~Pb~3~[PO~4~]~4~,mP50,14
+_chemical_formula_weight                 1105.5
+
+# Bibliographic data
+
+_publ_section_title
+;
+Polymorphic structures and properties of lead chromium phosphate Pb~3~Cr~2~(PO~4~)~4~
+;
+_journal_coden_ASTM                      JMACEP
+_journal_name_full                       'J. Mater. Chem.'
+_journal_year                            2009
+_journal_volume                          19
+_journal_page_first                      6034
+_journal_page_last                       6041
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Mao S.Y.'
+;
+Xiamen Fujian University
+Department of Chemistry
+Xiamen / Fujian
+China
+;
+'Mao Y.'
+;
+Xiamen Fujian University
+Department of Chemistry
+Xiamen / Fujian
+China
+;
+'Batchelor R.J.'
+;
+Burnaby Simon Fraser University
+Department of Chemistry
+Burnaby
+Canada
+;
+'Guo H.'
+;
+Burnaby Simon Fraser University
+Department of Chemistry
+Burnaby
+Canada
+;
+'Ye Z.G.'
+;
+Xiamen Fujian University
+Department of Chemistry
+Xiamen / Fujian
+China
+;
+'Xie Z.'
+;
+Xiamen Fujian University
+Department of Chemistry
+Xiamen / Fujian
+China
+;
+'Zheng L.'
+;
+Xiamen Fujian University
+Department of Chemistry
+Xiamen / Fujian
+China
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           8.9342
+_cell_length_b                           8.968
+_cell_length_c                           9.2495
+_cell_angle_alpha                        90
+_cell_angle_beta                         116.74
+_cell_angle_gamma                        90
+_cell_volume                             661.8
+_cell_formula_units_Z                    2
+_space_group_IT_number                   14
+_space_group_name_H-M_alt                'P 1 21/c 1'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, 1/2+y, 1/2-z'
+ 4 'x, 1/2-y, 1/2+z'
+loop_
+ _atom_type_symbol
+ P
+ O
+ Cr
+ Pb
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ P7 P 4 e 0.0196 0.1376 0.3447 1
+ O13 O 4 e 0.0831 0.5049 0.2568 1
+ O2 O 4 e 0.0943 0.2062 0.239 1
+ O22 O 4 e 0.1034 0.7453 0.1349 1
+ O1 O 4 e 0.1615 0.4081 0.0126 1
+ Cr3 Cr 4 e 0.2475 0.3693 0.2447 1
+ Pb1 Pb 4 e 0.29936 0.70698 0.02651 1
+ O23 O 4 e 0.3141 0.5407 0.6301 1
+ O21 O 4 e 0.39 0.3509 0.4791 1
+ O3 O 4 e 0.4097 0.2168 0.2438 1
+ P6 P 4 e 0.4256 0.0897 0.1418 1
+ O11 O 4 e 0.6119 0.0447 0.2418 1
+ Pb2 Pb 2 a 0 0 0 1
+
+
+_exptl_crystal_colour                    green
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            5.55
+_cell_measurement_temperature            293
+_cell_measurement_radiation              'X-rays, Mo Ka'
+_cell_measurement_wavelength             0.71073
+_cell_measurement_reflns_used            24
+_diffrn_ambient_temperature              293
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type          'Enraf-Nonius CAD4'
+_diffrn_radiation_type                   'X-rays, Mo Ka'
+_diffrn_radiation_wavelength             0.71073
+_diffrn_reflns_number                    1242
+_diffrn_reflns_theta_min                 2.55
+_diffrn_reflns_theta_max                 25.54
+_exptl_absorpt_coefficient_mu            40.196
+_exptl_absorpt_correction_type           yes
+_computing_structure_solution            'direct methods, Fourier synthesis'
+_refine_ls_number_parameters             61
+_refine_ls_number_reflns                 1091
+_refine_ls_R_factor_gt                   0.0595
+_refine_ls_wR_factor_gt                  0.1713
+
+# End of data set 1628700
+
+
