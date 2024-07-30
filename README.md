@@ -6,7 +6,7 @@ This github repo contains coursework content such as class slides, code notebook
 Below you'll find the approximate calendar for Spring 2024 and videos of the lectures are being placed on the following YouTube playlist
 https://youtube.com/playlist?list=PLL0SWcFqypCl4lrzk1dMWwTUrzQZFt7y0
 
-![My Image](YT_playlist.jpg)
+![My Image](YouTube.jpg)
 
 
 | month | day | Subject to cover                                                                          | Assignment                                                                                                                  | Link                          |
