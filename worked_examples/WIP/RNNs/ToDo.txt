@@ -1,2 +1,0 @@
-Create recurrent neural network notebook
-Use on time series data (polymer growth? use chatGPT for this)
