@@ -1,0 +1,1 @@
+Create GAN notebook. Use it to generate images of dendrite growth

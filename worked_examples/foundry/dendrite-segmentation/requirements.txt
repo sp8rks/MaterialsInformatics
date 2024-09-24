@@ -1,6 +1,0 @@
-scikit-learn
-foundry_ml
-scikit-image
-tensorflow
-keras-unet
-opencv-python

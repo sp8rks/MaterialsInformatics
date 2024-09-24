@@ -1,0 +1,4 @@
+Figure out how to make a rag model 
+Figure out how to implement it into a jupyter notebook
+No try it yourself (doesn't make sense)
+This notebook might not be useful to do in a jupyter notebook setting

@@ -1,0 +1,1 @@
+create VAE notebook, show implmentation with PyTorch on dendrite growth images

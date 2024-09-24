@@ -1,3 +1,0 @@
-seaborn
-matplotlib
-foundry_ml
