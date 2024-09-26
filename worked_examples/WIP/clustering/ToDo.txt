@@ -1,7 +1,0 @@
-download metals vs insulators from sparks, take out 10% and keep the labels for those, delete the labels for the other part
-
-featurize cbfv 
-
-cluster and embed to low dimensions 
-
-predict labels for the 10% w/o labels and put them on the clustering

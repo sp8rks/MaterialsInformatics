@@ -1,0 +1,7 @@
+#!/bin/sh 
+
+/usr/bin/invoke_app "$@" -t materialsinformatics \
+-C "start_jupyter -- themes index.ipynb" \ 
+-u anaconda-7 \ 
+-w headless \ 
+-r none

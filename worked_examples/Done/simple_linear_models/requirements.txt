@@ -1,6 +1,0 @@
-pandas
-numpy
-stasmodels
-matplotlib
-cycler
-openpyxl

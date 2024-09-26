@@ -1,0 +1,167 @@
+##############################################################################
+#                                                                            #
+# B-La             # LaB6                                          # 1126013 #
+#                                                                            #
+##############################################################################
+#                                                                            #
+#                           Pearson's Crystal Data                           #
+#      Crystal Structure Database for Inorganic Compounds (on DVD)           #
+#                              Release 2018/19                               #
+#                  Editors: Pierre Villars and Karin Cenzual                 #
+#                                                                            #
+#   Copyright (c) ASM International & Material Phases Data System (MPDS),    #
+# Switzerland & National Institute for Materials Science (NIMS), Japan, 2018 #
+#                   All rights reserved. Version 2018.08                     #
+#                                                                            #
+#   This copy of Pearson's Crystal Data is licensed to:                      #
+#   University of Alberta, Chemistry Department, 1-5 Installations License         #
+#                                                                            #
+##############################################################################
+
+data_1126013
+_audit_creation_date                     2021-05-13
+_audit_creation_method
+;
+Pearson's Crystal Data browser
+;
+#_database_code_PCD                      1126013
+
+# Entry summary
+
+_chemical_formula_structural             'La B~6~'
+_chemical_formula_sum                    'B6 La'
+_chemical_name_mineral                   ?
+_chemical_compound_source                ?
+_chemical_name_structure_type            CaB~6~,cP7,221
+_chemical_formula_weight                 203.8
+
+# Bibliographic data
+
+_publ_section_title
+'Structure of pyrrhotite 5C (Fe~9~S~10~)'                                     
+_journal_coden_ASTM                      ASBSDK
+_journal_name_full                       'Acta Crystallogr. B'
+_journal_year                            2010
+_journal_volume                          66
+_journal_page_first                      271
+_journal_page_last                       279
+_journal_language                        English
+loop_
+ _publ_author_name
+ _publ_author_address
+'Elliot A.D.'
+;
+Commonwealth Scientific and Industrial Research Organization (CSIRO)
+Minerals Down Under Flagship
+Karawara
+Australia
+;
+
+# Standardized crystallographic data
+
+_cell_length_a                           4.1571
+_cell_length_b                           4.1571
+_cell_length_c                           4.1571
+_cell_angle_alpha                        90
+_cell_angle_beta                         90
+_cell_angle_gamma                        90
+_cell_volume                             71.8
+_cell_formula_units_Z                    1
+_space_group_IT_number                   221
+_space_group_name_H-M_alt                'P m -3 m'
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+ 1 'x, y, z'
+ 2 '-x, -y, -z'
+ 3 '-x, -y, z'
+ 4 '-x, -z, -y'
+ 5 '-x, -z, y'
+ 6 '-x, y, -z'
+ 7 '-x, y, z'
+ 8 '-x, z, -y'
+ 9 '-x, z, y'
+ 10 '-y, -x, -z'
+ 11 '-y, -x, z'
+ 12 '-y, -z, -x'
+ 13 '-y, -z, x'
+ 14 '-y, x, -z'
+ 15 '-y, x, z'
+ 16 '-y, z, -x'
+ 17 '-y, z, x'
+ 18 '-z, -x, -y'
+ 19 '-z, -x, y'
+ 20 '-z, -y, -x'
+ 21 '-z, -y, x'
+ 22 '-z, x, -y'
+ 23 '-z, x, y'
+ 24 '-z, y, -x'
+ 25 '-z, y, x'
+ 26 'x, -y, -z'
+ 27 'x, -y, z'
+ 28 'x, -z, -y'
+ 29 'x, -z, y'
+ 30 'x, y, -z'
+ 31 'x, z, -y'
+ 32 'x, z, y'
+ 33 'y, -x, -z'
+ 34 'y, -x, z'
+ 35 'y, -z, -x'
+ 36 'y, -z, x'
+ 37 'y, x, -z'
+ 38 'y, x, z'
+ 39 'y, z, -x'
+ 40 'y, z, x'
+ 41 'z, -x, -y'
+ 42 'z, -x, y'
+ 43 'z, -y, -x'
+ 44 'z, -y, x'
+ 45 'z, x, -y'
+ 46 'z, x, y'
+ 47 'z, y, -x'
+ 48 'z, y, x'
+loop_
+ _atom_type_symbol
+ B
+ La
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ B1 B 6 f 0.19853 0.5 0.5 1
+ La1 La 1 a 0 0 0 1
+
+
+_exptl_crystal_colour                    ?
+_exptl_crystal_density_meas              ?
+_exptl_crystal_density_diffrn            4.71
+_cell_measurement_temperature            299
+_cell_measurement_radiation              'X-rays, synchrotron'
+_cell_measurement_wavelength             0.825218
+_pd_proc_wavelength                      0.825218
+_cell_measurement_reflns_used            ?
+_diffrn_ambient_temperature              299
+_diffrn_measurement_device               'automatic diffractometer'
+_diffrn_measurement_device_type
+'Australia, Clayton, Australian Synchrotron, 10-BM-1, Powder Diffraction'     
+_diffrn_radiation_type                   'X-rays, synchrotron'
+_diffrn_radiation_wavelength             0.825218
+_diffrn_reflns_number                    ?
+_exptl_absorpt_coefficient_mu            21.63
+_exptl_absorpt_correction_type           ?
+_computing_structure_solution            'starting values from the literature'
+_refine_ls_number_parameters             ?
+_refine_ls_number_reflns                 ?
+_refine_ls_R_factor_gt                   ?
+_refine_ls_wR_factor_gt                  ?
+_pd_proc_ls_proof_R_factor               0.024
+_pd_proc_ls_proof_wR_factor              0.034
+_refine_ls_R_I_factor                    0.021
+
+# End of data set 1126013
+
