@@ -32,11 +32,11 @@ https://youtube.com/playlist?list=PLL0SWcFqypCl4lrzk1dMWwTUrzQZFt7y0
 | Mar   | 11  | Gaussian Processes                                                                        |Read blog 1    | [blog1](https://distill.pub/2019/visual-exploration-gaussian-processes/)                        |
 | Mar   | 13  |No CLASS, spring break |||
 | Mar   | 19  |No CLASS, spring break                       |       |                              |
-| Mar   | 18  | Large Language Models part 1                        |       |                              |
-| Mar   | 20  | Large Language Models part 2                       |       |                              |
+| Mar   | 18  | Live coding Bayesian Optimization   |   |      |
+| Mar   | 20  | Large Language Models part 1                       |       |                              |
 | Mar   | 25   | No CLASS, TMS Meeting|||
 | Mar   | 27   | NO CLASS, TMS Meeting   |||
-| Apr   | 1   | Case study TBD                                                          | TBD                                                                                                                         | TBD                           |
+| Apr   | 1   | Large Language Models part 2                                                          | TBD                                                                                                                         | TBD                           |
 | Apr   | 3  | Case study TBD|||
 | Apr   | 8  | Case study TBD|||
 | Apr   | 15  | Case study TBD|||
