@@ -1,0 +1,23 @@
+[project]
+name = "mse6640-hw3"
+version = "0.1.0"
+description = "HW3: Deep Learning - VAE & CrabNet"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0",
+    "torch>=2.0.0",
+    "torchvision>=0.15.0",
+    "Pillow>=10.0.0",
+    "pandas>=2.0.0",
+    "cbfv>=1.0.0",
+]
+
+[project.optional-dependencies]
+crabnet = [
+    "crabnet>=0.1.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
