@@ -1,0 +1,907 @@
+{
+  "entry_id": "---OWGSfJGTXSTY71gcX0l_HFO9A",
+  "required": {},
+  "data": {
+    "upload_id": "r2Vl_5pQQLOjcrdxoY2HeQ",
+    "references": [
+      "http://www.sciencedirect.com/science/article/pii/S0927025614003322",
+      "http://aflowlib.org",
+      "http://www.sciencedirect.com/science/article/pii/S0927025612000687"
+    ],
+    "origin": "AFLOW",
+    "quantities": [
+      "",
+      ".metadata",
+      ".results",
+      ".run",
+      ".workflow",
+      "metadata",
+      "metadata.coauthors",
+      "metadata.comment",
+      "metadata.datasets",
+      "metadata.domain",
+      "metadata.embargo_length",
+      "metadata.entry_coauthors",
+      "metadata.entry_create_time",
+      "metadata.entry_hash",
+      "metadata.entry_id",
+      "metadata.external_db",
+      "metadata.files",
+      "metadata.last_processing_time",
+      "metadata.license",
+      "metadata.main_author",
+      "metadata.mainfile",
+      "metadata.nomad_commit",
+      "metadata.nomad_version",
+      "metadata.optimade",
+      "metadata.optimade.cartesian_site_positions",
+      "metadata.optimade.chemical_formula_anonymous",
+      "metadata.optimade.chemical_formula_descriptive",
+      "metadata.optimade.chemical_formula_hill",
+      "metadata.optimade.chemical_formula_reduced",
+      "metadata.optimade.dimension_types",
+      "metadata.optimade.elements",
+      "metadata.optimade.elements_ratios",
+      "metadata.optimade.lattice_vectors",
+      "metadata.optimade.nelements",
+      "metadata.optimade.nsites",
+      "metadata.optimade.species",
+      "metadata.optimade.species.chemical_symbols",
+      "metadata.optimade.species.concentration",
+      "metadata.optimade.species.name",
+      "metadata.optimade.species_at_sites",
+      "metadata.optimade.structure_features",
+      "metadata.parser_name",
+      "metadata.processed",
+      "metadata.processing_errors",
+      "metadata.publish_time",
+      "metadata.published",
+      "metadata.references",
+      "metadata.reviewers",
+      "metadata.upload_create_time",
+      "metadata.upload_id",
+      "metadata.upload_name",
+      "metadata.with_embargo",
+      "results",
+      "results.material",
+      "results.material.chemical_formula_anonymous",
+      "results.material.chemical_formula_descriptive",
+      "results.material.chemical_formula_hill",
+      "results.material.chemical_formula_reduced",
+      "results.material.chemical_formula_reduced_fragments",
+      "results.material.elements",
+      "results.material.material_id",
+      "results.material.structural_type",
+      "results.material.symmetry",
+      "results.material.symmetry.bravais_lattice",
+      "results.material.symmetry.crystal_system",
+      "results.material.symmetry.hall_number",
+      "results.material.symmetry.hall_symbol",
+      "results.material.symmetry.point_group",
+      "results.material.symmetry.space_group_number",
+      "results.material.symmetry.space_group_symbol",
+      "results.method",
+      "results.method.method_name",
+      "results.method.parameter_variation_id",
+      "results.method.simulation",
+      "results.method.simulation.dft",
+      "results.method.simulation.dft.basis_set_type",
+      "results.method.simulation.dft.core_electron_treatment",
+      "results.method.simulation.dft.scf_threshold_energy_change",
+      "results.method.simulation.dft.xc_functional_names",
+      "results.method.simulation.dft.xc_functional_type",
+      "results.method.simulation.geometry_optimization",
+      "results.method.simulation.geometry_optimization.convergence_tolerance_energy_difference",
+      "results.method.simulation.geometry_optimization.type",
+      "results.method.simulation.program_name",
+      "results.method.simulation.program_version",
+      "results.properties",
+      "results.properties.available_properties",
+      "results.properties.electronic",
+      "results.properties.electronic.dos_electronic",
+      "results.properties.electronic.dos_electronic.band_gap",
+      "results.properties.electronic.dos_electronic.band_gap.energy_highest_occupied",
+      "results.properties.electronic.dos_electronic.band_gap.energy_lowest_unoccupied",
+      "results.properties.electronic.dos_electronic.band_gap.index",
+      "results.properties.electronic.dos_electronic.energies",
+      "results.properties.electronic.dos_electronic.energy_fermi",
+      "results.properties.electronic.dos_electronic.spin_polarized",
+      "results.properties.electronic.dos_electronic.total",
+      "results.properties.geometry_optimization",
+      "results.properties.geometry_optimization.energies",
+      "results.properties.geometry_optimization.final_energy_difference",
+      "results.properties.geometry_optimization.final_force_maximum",
+      "results.properties.geometry_optimization.structure_optimized",
+      "results.properties.geometry_optimization.structure_optimized.atomic_density",
+      "results.properties.geometry_optimization.structure_optimized.cartesian_site_positions",
+      "results.properties.geometry_optimization.structure_optimized.cell_volume",
+      "results.properties.geometry_optimization.structure_optimized.dimension_types",
+      "results.properties.geometry_optimization.structure_optimized.lattice_parameters",
+      "results.properties.geometry_optimization.structure_optimized.lattice_parameters.a",
+      "results.properties.geometry_optimization.structure_optimized.lattice_parameters.alpha",
+      "results.properties.geometry_optimization.structure_optimized.lattice_parameters.b",
+      "results.properties.geometry_optimization.structure_optimized.lattice_parameters.beta",
+      "results.properties.geometry_optimization.structure_optimized.lattice_parameters.c",
+      "results.properties.geometry_optimization.structure_optimized.lattice_parameters.gamma",
+      "results.properties.geometry_optimization.structure_optimized.lattice_vectors",
+      "results.properties.geometry_optimization.structure_optimized.mass_density",
+      "results.properties.geometry_optimization.structure_optimized.species",
+      "results.properties.geometry_optimization.structure_optimized.species.chemical_symbols",
+      "results.properties.geometry_optimization.structure_optimized.species.concentration",
+      "results.properties.geometry_optimization.structure_optimized.species.name",
+      "results.properties.geometry_optimization.structure_optimized.species_at_sites",
+      "results.properties.geometry_optimization.trajectory",
+      "results.properties.n_calculations",
+      "results.properties.structures",
+      "results.properties.structures.structure_conventional",
+      "results.properties.structures.structure_conventional.atomic_density",
+      "results.properties.structures.structure_conventional.cartesian_site_positions",
+      "results.properties.structures.structure_conventional.cell_volume",
+      "results.properties.structures.structure_conventional.dimension_types",
+      "results.properties.structures.structure_conventional.lattice_parameters",
+      "results.properties.structures.structure_conventional.lattice_parameters.a",
+      "results.properties.structures.structure_conventional.lattice_parameters.alpha",
+      "results.properties.structures.structure_conventional.lattice_parameters.b",
+      "results.properties.structures.structure_conventional.lattice_parameters.beta",
+      "results.properties.structures.structure_conventional.lattice_parameters.c",
+      "results.properties.structures.structure_conventional.lattice_parameters.gamma",
+      "results.properties.structures.structure_conventional.lattice_vectors",
+      "results.properties.structures.structure_conventional.mass_density",
+      "results.properties.structures.structure_conventional.species",
+      "results.properties.structures.structure_conventional.species.chemical_symbols",
+      "results.properties.structures.structure_conventional.species.concentration",
+      "results.properties.structures.structure_conventional.species.name",
+      "results.properties.structures.structure_conventional.species_at_sites",
+      "results.properties.structures.structure_conventional.wyckoff_sets",
+      "results.properties.structures.structure_conventional.wyckoff_sets.element",
+      "results.properties.structures.structure_conventional.wyckoff_sets.indices",
+      "results.properties.structures.structure_conventional.wyckoff_sets.wyckoff_letter",
+      "results.properties.structures.structure_conventional.wyckoff_sets.z",
+      "results.properties.structures.structure_original",
+      "results.properties.structures.structure_original.atomic_density",
+      "results.properties.structures.structure_original.cartesian_site_positions",
+      "results.properties.structures.structure_original.cell_volume",
+      "results.properties.structures.structure_original.dimension_types",
+      "results.properties.structures.structure_original.lattice_parameters",
+      "results.properties.structures.structure_original.lattice_parameters.a",
+      "results.properties.structures.structure_original.lattice_parameters.alpha",
+      "results.properties.structures.structure_original.lattice_parameters.b",
+      "results.properties.structures.structure_original.lattice_parameters.beta",
+      "results.properties.structures.structure_original.lattice_parameters.c",
+      "results.properties.structures.structure_original.lattice_parameters.gamma",
+      "results.properties.structures.structure_original.lattice_vectors",
+      "results.properties.structures.structure_original.mass_density",
+      "results.properties.structures.structure_original.species",
+      "results.properties.structures.structure_original.species.chemical_symbols",
+      "results.properties.structures.structure_original.species.concentration",
+      "results.properties.structures.structure_original.species.name",
+      "results.properties.structures.structure_original.species_at_sites",
+      "results.properties.structures.structure_primitive",
+      "results.properties.structures.structure_primitive.atomic_density",
+      "results.properties.structures.structure_primitive.cartesian_site_positions",
+      "results.properties.structures.structure_primitive.cell_volume",
+      "results.properties.structures.structure_primitive.dimension_types",
+      "results.properties.structures.structure_primitive.lattice_parameters",
+      "results.properties.structures.structure_primitive.lattice_parameters.a",
+      "results.properties.structures.structure_primitive.lattice_parameters.alpha",
+      "results.properties.structures.structure_primitive.lattice_parameters.b",
+      "results.properties.structures.structure_primitive.lattice_parameters.beta",
+      "results.properties.structures.structure_primitive.lattice_parameters.c",
+      "results.properties.structures.structure_primitive.lattice_parameters.gamma",
+      "results.properties.structures.structure_primitive.lattice_vectors",
+      "results.properties.structures.structure_primitive.mass_density",
+      "results.properties.structures.structure_primitive.species",
+      "results.properties.structures.structure_primitive.species.chemical_symbols",
+      "results.properties.structures.structure_primitive.species.concentration",
+      "results.properties.structures.structure_primitive.species.name",
+      "results.properties.structures.structure_primitive.species_at_sites",
+      "run",
+      "run.calculation",
+      "run.calculation.dos_electronic",
+      "run.calculation.dos_electronic.atom_projected",
+      "run.calculation.dos_electronic.atom_projected.atom_index",
+      "run.calculation.dos_electronic.atom_projected.lm",
+      "run.calculation.dos_electronic.atom_projected.m_kind",
+      "run.calculation.dos_electronic.atom_projected.spin",
+      "run.calculation.dos_electronic.atom_projected.value",
+      "run.calculation.dos_electronic.band_gap",
+      "run.calculation.dos_electronic.band_gap.energy_highest_occupied",
+      "run.calculation.dos_electronic.band_gap.energy_lowest_unoccupied",
+      "run.calculation.dos_electronic.band_gap.index",
+      "run.calculation.dos_electronic.energies",
+      "run.calculation.dos_electronic.energy_fermi",
+      "run.calculation.dos_electronic.fingerprint",
+      "run.calculation.dos_electronic.fingerprint.bins",
+      "run.calculation.dos_electronic.fingerprint.filling_factor",
+      "run.calculation.dos_electronic.fingerprint.grid_id",
+      "run.calculation.dos_electronic.fingerprint.indices",
+      "run.calculation.dos_electronic.fingerprint.stepsize",
+      "run.calculation.dos_electronic.total",
+      "run.calculation.dos_electronic.total.normalization_factor",
+      "run.calculation.dos_electronic.total.value",
+      "run.calculation.dos_electronic.total.value_integrated",
+      "run.calculation.eigenvalues",
+      "run.calculation.eigenvalues.energies",
+      "run.calculation.eigenvalues.kpoints",
+      "run.calculation.eigenvalues.occupations",
+      "run.calculation.energy",
+      "run.calculation.energy.fermi",
+      "run.calculation.energy.free",
+      "run.calculation.energy.free.value",
+      "run.calculation.energy.highest_occupied",
+      "run.calculation.energy.lowest_unoccupied",
+      "run.calculation.energy.total",
+      "run.calculation.energy.total.value",
+      "run.calculation.energy.total_t0",
+      "run.calculation.energy.total_t0.value",
+      "run.calculation.forces",
+      "run.calculation.forces.total",
+      "run.calculation.forces.total.value",
+      "run.calculation.method_ref",
+      "run.calculation.scf_iteration",
+      "run.calculation.scf_iteration.energy",
+      "run.calculation.scf_iteration.energy.correction_hartree",
+      "run.calculation.scf_iteration.energy.correction_hartree.value",
+      "run.calculation.scf_iteration.energy.free",
+      "run.calculation.scf_iteration.energy.free.value",
+      "run.calculation.scf_iteration.energy.total",
+      "run.calculation.scf_iteration.energy.total.value",
+      "run.calculation.scf_iteration.energy.total_t0",
+      "run.calculation.scf_iteration.energy.total_t0.value",
+      "run.calculation.scf_iteration.energy.xc",
+      "run.calculation.scf_iteration.energy.xc.value",
+      "run.calculation.stress",
+      "run.calculation.stress.total",
+      "run.calculation.stress.total.value",
+      "run.calculation.system_ref",
+      "run.method",
+      "run.method.atom_parameters",
+      "run.method.atom_parameters.atom_number",
+      "run.method.atom_parameters.label",
+      "run.method.atom_parameters.mass",
+      "run.method.atom_parameters.n_valence_electrons",
+      "run.method.atom_parameters.pseudopotential_name",
+      "run.method.basis_set",
+      "run.method.basis_set.cell_dependent",
+      "run.method.basis_set.cell_dependent.kind",
+      "run.method.basis_set.cell_dependent.planewave_cutoff",
+      "run.method.basis_set.type",
+      "run.method.dft",
+      "run.method.dft.xc_functional",
+      "run.method.dft.xc_functional.correlation",
+      "run.method.dft.xc_functional.correlation.name",
+      "run.method.dft.xc_functional.exchange",
+      "run.method.dft.xc_functional.exchange.name",
+      "run.method.dft.xc_functional.name",
+      "run.method.electronic",
+      "run.method.electronic.method",
+      "run.method.scf",
+      "run.method.scf.threshold_energy_change",
+      "run.program",
+      "run.program.compilation_datetime",
+      "run.program.name",
+      "run.program.version",
+      "run.system",
+      "run.system.atoms",
+      "run.system.atoms.labels",
+      "run.system.atoms.lattice_vectors",
+      "run.system.atoms.periodic",
+      "run.system.atoms.positions",
+      "run.system.atoms.species",
+      "run.system.chemical_composition",
+      "run.system.chemical_composition_hill",
+      "run.system.chemical_composition_reduced",
+      "run.system.configuration_raw_gid",
+      "run.system.is_representative",
+      "run.system.symmetry",
+      "run.system.symmetry.bravais_lattice",
+      "run.system.symmetry.crystal_system",
+      "run.system.symmetry.hall_number",
+      "run.system.symmetry.hall_symbol",
+      "run.system.symmetry.international_short_symbol",
+      "run.system.symmetry.origin_shift",
+      "run.system.symmetry.point_group",
+      "run.system.symmetry.space_group_number",
+      "run.system.symmetry.symmetry_method",
+      "run.system.symmetry.system_original",
+      "run.system.symmetry.system_original.equivalent_atoms",
+      "run.system.symmetry.system_original.wyckoff_letters",
+      "run.system.symmetry.system_primitive",
+      "run.system.symmetry.system_primitive.atomic_numbers",
+      "run.system.symmetry.system_primitive.equivalent_atoms",
+      "run.system.symmetry.system_primitive.lattice_vectors",
+      "run.system.symmetry.system_primitive.positions",
+      "run.system.symmetry.system_primitive.wyckoff_letters",
+      "run.system.symmetry.system_std",
+      "run.system.symmetry.system_std.atomic_numbers",
+      "run.system.symmetry.system_std.equivalent_atoms",
+      "run.system.symmetry.system_std.lattice_vectors",
+      "run.system.symmetry.system_std.positions",
+      "run.system.symmetry.system_std.wyckoff_letters",
+      "run.system.symmetry.transformation_matrix",
+      "run.system.type",
+      "workflow",
+      "workflow.calculation_result_ref",
+      "workflow.calculations_ref",
+      "workflow.geometry_optimization",
+      "workflow.geometry_optimization.convergence_tolerance_energy_difference",
+      "workflow.geometry_optimization.energies",
+      "workflow.geometry_optimization.final_displacement_maximum",
+      "workflow.geometry_optimization.final_energy_difference",
+      "workflow.geometry_optimization.final_force_maximum",
+      "workflow.geometry_optimization.is_converged_geometry",
+      "workflow.geometry_optimization.optimization_steps",
+      "workflow.geometry_optimization.type",
+      "workflow.task",
+      "workflow.task.input_calculation",
+      "workflow.task.input_workflow",
+      "workflow.task.output_calculation",
+      "workflow.task.output_workflow",
+      "workflow.type"
+    ],
+    "datasets": [],
+    "n_quantities": 2424,
+    "nomad_version": "1.0.0",
+    "upload_create_time": "2019-11-30T06:49:11.890000",
+    "nomad_commit": "f0ee3d31",
+    "publish_time": "2019-11-30T07:51:40.024000",
+    "processing_errors": [],
+    "results": {
+      "material": {
+        "symmetry": {
+          "bravais_lattice": "tP",
+          "space_group_symbol": "P4/mmm",
+          "space_group_number": 123,
+          "point_group": "4/mmm",
+          "crystal_system": "tetragonal",
+          "hall_number": 400,
+          "hall_symbol": "-P 4 2"
+        },
+        "elements": [
+          "Li",
+          "Sr",
+          "Zr"
+        ],
+        "elements_exclusive": "Li Sr Zr",
+        "chemical_formula_anonymous": "A2BC",
+        "material_id": "DAxaxSEHQVfSaxSmBPngnnH89Gaw",
+        "structural_type": "bulk",
+        "chemical_formula_reduced": "LiSr2Zr",
+        "n_elements": 3,
+        "chemical_formula_descriptive": "LiSr2Zr",
+        "chemical_formula_reduced_fragments": [
+          "Li",
+          "Sr2",
+          "Zr"
+        ],
+        "chemical_formula_hill": "LiSr2Zr"
+      },
+      "method": {
+        "method_name": "DFT",
+        "simulation": {
+          "program_version": "5.4.1 05Feb16 (build Sep 06 2018 14:09:47) complex parallel CrayXC-Intel",
+          "dft": {
+            "basis_set_type": "plane waves",
+            "core_electron_treatment": "pseudopotential",
+            "xc_functional_type": "GGA",
+            "xc_functional_names": [
+              "GGA_C_PBE",
+              "GGA_X_PBE"
+            ],
+            "scf_threshold_energy_change": 1.602176634e-23
+          },
+          "program_name": "VASP"
+        }
+      },
+      "properties": {
+        "available_properties": [
+          "band_gap",
+          "dos_electronic",
+          "electronic",
+          "electronic.dos_electronic",
+          "electronic.dos_electronic.band_gap",
+          "electronic.dos_electronic.band_gap.energy_highest_occupied",
+          "electronic.dos_electronic.band_gap.energy_lowest_unoccupied",
+          "electronic.dos_electronic.band_gap.index",
+          "electronic.dos_electronic.energies",
+          "electronic.dos_electronic.energy_fermi",
+          "electronic.dos_electronic.spin_polarized",
+          "electronic.dos_electronic.total",
+          "element",
+          "energy_fermi",
+          "energy_highest_occupied",
+          "energy_lowest_unoccupied",
+          "final_energy_difference",
+          "final_force_maximum",
+          "geometry_optimization",
+          "geometry_optimization.energies",
+          "geometry_optimization.final_energy_difference",
+          "geometry_optimization.final_force_maximum",
+          "geometry_optimization.structure_optimized",
+          "geometry_optimization.structure_optimized.atomic_density",
+          "geometry_optimization.structure_optimized.cartesian_site_positions",
+          "geometry_optimization.structure_optimized.cell_volume",
+          "geometry_optimization.structure_optimized.dimension_types",
+          "geometry_optimization.structure_optimized.lattice_parameters",
+          "geometry_optimization.structure_optimized.lattice_parameters.a",
+          "geometry_optimization.structure_optimized.lattice_parameters.alpha",
+          "geometry_optimization.structure_optimized.lattice_parameters.b",
+          "geometry_optimization.structure_optimized.lattice_parameters.beta",
+          "geometry_optimization.structure_optimized.lattice_parameters.c",
+          "geometry_optimization.structure_optimized.lattice_parameters.gamma",
+          "geometry_optimization.structure_optimized.lattice_vectors",
+          "geometry_optimization.structure_optimized.mass_density",
+          "geometry_optimization.structure_optimized.species",
+          "geometry_optimization.structure_optimized.species.chemical_symbols",
+          "geometry_optimization.structure_optimized.species.concentration",
+          "geometry_optimization.structure_optimized.species.name",
+          "geometry_optimization.structure_optimized.species_at_sites",
+          "geometry_optimization.trajectory",
+          "index",
+          "indices",
+          "n_calculations",
+          "spin_polarized",
+          "structure_conventional",
+          "structure_optimized",
+          "structure_original",
+          "structure_primitive",
+          "structures",
+          "structures.structure_conventional",
+          "structures.structure_conventional.atomic_density",
+          "structures.structure_conventional.cartesian_site_positions",
+          "structures.structure_conventional.cell_volume",
+          "structures.structure_conventional.dimension_types",
+          "structures.structure_conventional.lattice_parameters",
+          "structures.structure_conventional.lattice_parameters.a",
+          "structures.structure_conventional.lattice_parameters.alpha",
+          "structures.structure_conventional.lattice_parameters.b",
+          "structures.structure_conventional.lattice_parameters.beta",
+          "structures.structure_conventional.lattice_parameters.c",
+          "structures.structure_conventional.lattice_parameters.gamma",
+          "structures.structure_conventional.lattice_vectors",
+          "structures.structure_conventional.mass_density",
+          "structures.structure_conventional.species",
+          "structures.structure_conventional.species.chemical_symbols",
+          "structures.structure_conventional.species.concentration",
+          "structures.structure_conventional.species.name",
+          "structures.structure_conventional.species_at_sites",
+          "structures.structure_conventional.wyckoff_sets",
+          "structures.structure_conventional.wyckoff_sets.element",
+          "structures.structure_conventional.wyckoff_sets.indices",
+          "structures.structure_conventional.wyckoff_sets.wyckoff_letter",
+          "structures.structure_conventional.wyckoff_sets.z",
+          "structures.structure_original",
+          "structures.structure_original.atomic_density",
+          "structures.structure_original.cartesian_site_positions",
+          "structures.structure_original.cell_volume",
+          "structures.structure_original.dimension_types",
+          "structures.structure_original.lattice_parameters",
+          "structures.structure_original.lattice_parameters.a",
+          "structures.structure_original.lattice_parameters.alpha",
+          "structures.structure_original.lattice_parameters.b",
+          "structures.structure_original.lattice_parameters.beta",
+          "structures.structure_original.lattice_parameters.c",
+          "structures.structure_original.lattice_parameters.gamma",
+          "structures.structure_original.lattice_vectors",
+          "structures.structure_original.mass_density",
+          "structures.structure_original.species",
+          "structures.structure_original.species.chemical_symbols",
+          "structures.structure_original.species.concentration",
+          "structures.structure_original.species.name",
+          "structures.structure_original.species_at_sites",
+          "structures.structure_primitive",
+          "structures.structure_primitive.atomic_density",
+          "structures.structure_primitive.cartesian_site_positions",
+          "structures.structure_primitive.cell_volume",
+          "structures.structure_primitive.dimension_types",
+          "structures.structure_primitive.lattice_parameters",
+          "structures.structure_primitive.lattice_parameters.a",
+          "structures.structure_primitive.lattice_parameters.alpha",
+          "structures.structure_primitive.lattice_parameters.b",
+          "structures.structure_primitive.lattice_parameters.beta",
+          "structures.structure_primitive.lattice_parameters.c",
+          "structures.structure_primitive.lattice_parameters.gamma",
+          "structures.structure_primitive.lattice_vectors",
+          "structures.structure_primitive.mass_density",
+          "structures.structure_primitive.species",
+          "structures.structure_primitive.species.chemical_symbols",
+          "structures.structure_primitive.species.concentration",
+          "structures.structure_primitive.species.name",
+          "structures.structure_primitive.species_at_sites",
+          "total",
+          "trajectory",
+          "wyckoff_letter",
+          "wyckoff_sets",
+          "z"
+        ],
+        "n_calculations": 18,
+        "structures": {
+          "structure_primitive": {
+            "nperiodic_dimensions": 3,
+            "n_sites": 4,
+            "cell_volume": 1.3794980162577178e-28,
+            "lattice_parameters": {
+              "a": 3.6209462039228197e-10,
+              "b": 3.6209462039228197e-10,
+              "c": 1.052148245e-09,
+              "alpha": 1.5707963267948966,
+              "beta": 1.5707963267948966,
+              "gamma": 1.5707963267948966
+            }
+          },
+          "structure_conventional": {
+            "nperiodic_dimensions": 3,
+            "n_sites": 4,
+            "cell_volume": 1.3794980162577178e-28,
+            "lattice_parameters": {
+              "a": 3.6209462039228197e-10,
+              "b": 3.6209462039228197e-10,
+              "c": 1.052148245e-09,
+              "alpha": 1.5707963267948966,
+              "beta": 1.5707963267948966,
+              "gamma": 1.5707963267948966
+            }
+          },
+          "structure_original": {
+            "nperiodic_dimensions": 3,
+            "n_sites": 4,
+            "cell_volume": 1.3794489869814478e-28,
+            "lattice_parameters": {
+              "a": 3.6209462039228197e-10,
+              "b": 3.6209462039228197e-10,
+              "c": 1.052148245e-09,
+              "alpha": 1.5707963267948966,
+              "beta": 1.5707963267948966,
+              "gamma": 1.579227412135267
+            }
+          }
+        },
+        "electronic": {
+          "dos_electronic": {
+            "spin_polarized": true,
+            "band_gap": [
+              {
+                "index": 0
+              },
+              {
+                "index": 1
+              }
+            ]
+          }
+        },
+        "geometry_optimization": {
+          "structure_optimized": {
+            "nperiodic_dimensions": 3,
+            "n_sites": 4,
+            "cell_volume": 1.3794489869814478e-28,
+            "lattice_parameters": {
+              "a": 3.6209462039228197e-10,
+              "b": 3.6209462039228197e-10,
+              "c": 1.052148245e-09,
+              "alpha": 1.5707963267948966,
+              "beta": 1.5707963267948966,
+              "gamma": 1.579227412135267
+            }
+          },
+          "final_force_maximum": 1.6321277239959957e-11,
+          "final_energy_difference": 1.356402738341768e-23
+        }
+      }
+    },
+    "last_processing_time": "2022-01-07T16:45:47.393000",
+    "optimade": {
+      "nperiodic_dimensions": 3,
+      "species_at_sites": [
+        "Li",
+        "Sr",
+        "Sr",
+        "Zr"
+      ],
+      "nsites": 4,
+      "elements": [
+        "Li",
+        "Sr",
+        "Zr"
+      ],
+      "chemical_formula_anonymous": "A2BC",
+      "chemical_formula_reduced": "LiSr2Zr",
+      "structure_features": [],
+      "nelements": 3,
+      "chemical_formula_descriptive": "LiSr2Zr",
+      "chemical_formula_hill": "LiSr2Zr",
+      "elements_ratios": [
+        [
+          {
+            "elements": "Li",
+            "elements_ratios": 0.25
+          },
+          {
+            "elements": "Sr",
+            "elements_ratios": 0.5
+          },
+          {
+            "elements": "Zr",
+            "elements_ratios": 0.25
+          }
+        ],
+        [
+          {
+            "elements": "Li",
+            "elements_ratios": 0.25
+          },
+          {
+            "elements": "Sr",
+            "elements_ratios": 0.5
+          },
+          {
+            "elements": "Zr",
+            "elements_ratios": 0.25
+          }
+        ],
+        [
+          {
+            "elements": "Li",
+            "elements_ratios": 0.25
+          },
+          {
+            "elements": "Sr",
+            "elements_ratios": 0.5
+          },
+          {
+            "elements": "Zr",
+            "elements_ratios": 0.25
+          }
+        ]
+      ]
+    },
+    "parser_name": "parsers/vasp",
+    "calc_id": "---OWGSfJGTXSTY71gcX0l_HFO9A",
+    "published": true,
+    "writers": [
+      {
+        "user_id": "81b96683-7170-49d7-8c4e-e9f34906b3ea",
+        "name": "Stefano Curtarolo"
+      },
+      {
+        "user_id": "f409d859-2639-4f82-b198-85e1c7c62f8b",
+        "name": "Kesong Yang"
+      },
+      {
+        "user_id": "580f7036-97b8-42b1-a9e6-815058bcac72",
+        "name": "Lance Nelson"
+      },
+      {
+        "user_id": "4c8d767d-335f-4ccd-9459-d0152b2026bc",
+        "name": "Gus Hart"
+      },
+      {
+        "user_id": "7effd16a-a65c-4d95-b692-652488d94146",
+        "name": "Stefano Sanvito"
+      },
+      {
+        "user_id": "d59b3610-6335-4ad8-aca0-24a905de3a25",
+        "name": "Natalio Mingo"
+      },
+      {
+        "user_id": "3df68fed-6ca0-4bf9-b2b1-d6be71e18f72",
+        "name": "Shidong Wang"
+      },
+      {
+        "user_id": "f7b540eb-a266-4379-9611-911ed8e3630e",
+        "name": "Wahyu Setyawan"
+      },
+      {
+        "user_id": "7b3fe468-0011-4ba8-bd53-1ee65acda114",
+        "name": "Marco Buongiorno Nardelli"
+      },
+      {
+        "user_id": "48e7a028-1a41-440d-9986-38540f5079c9",
+        "name": "Cormac Toher"
+      },
+      {
+        "user_id": "d63d07e6-ccc8-4eac-82af-d841627b6c53",
+        "name": "Ohad Levy"
+      },
+      {
+        "user_id": "9c308f66-eed1-4996-b33e-af78fb4944c7",
+        "name": "Richard Taylor"
+      },
+      {
+        "user_id": "d2621bc7-c45a-4d35-9dc1-5c05fa8326cb",
+        "name": "Frisco Rose"
+      },
+      {
+        "user_id": "ecba0e68-65ee-4b40-8fbf-a42714b1072b",
+        "name": "Junkai Xue"
+      },
+      {
+        "user_id": "81b96683-7170-49d7-8c4e-e9f34906b3ea",
+        "name": "Stefano Curtarolo"
+      }
+    ],
+    "processed": true,
+    "mainfile": "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/vasprun.xml.relax1.xz",
+    "main_author": {
+      "user_id": "81b96683-7170-49d7-8c4e-e9f34906b3ea",
+      "name": "Stefano Curtarolo"
+    },
+    "viewers": [
+      {
+        "user_id": "81b96683-7170-49d7-8c4e-e9f34906b3ea",
+        "name": "Stefano Curtarolo"
+      },
+      {
+        "user_id": "f409d859-2639-4f82-b198-85e1c7c62f8b",
+        "name": "Kesong Yang"
+      },
+      {
+        "user_id": "580f7036-97b8-42b1-a9e6-815058bcac72",
+        "name": "Lance Nelson"
+      },
+      {
+        "user_id": "4c8d767d-335f-4ccd-9459-d0152b2026bc",
+        "name": "Gus Hart"
+      },
+      {
+        "user_id": "7effd16a-a65c-4d95-b692-652488d94146",
+        "name": "Stefano Sanvito"
+      },
+      {
+        "user_id": "d59b3610-6335-4ad8-aca0-24a905de3a25",
+        "name": "Natalio Mingo"
+      },
+      {
+        "user_id": "3df68fed-6ca0-4bf9-b2b1-d6be71e18f72",
+        "name": "Shidong Wang"
+      },
+      {
+        "user_id": "f7b540eb-a266-4379-9611-911ed8e3630e",
+        "name": "Wahyu Setyawan"
+      },
+      {
+        "user_id": "7b3fe468-0011-4ba8-bd53-1ee65acda114",
+        "name": "Marco Buongiorno Nardelli"
+      },
+      {
+        "user_id": "48e7a028-1a41-440d-9986-38540f5079c9",
+        "name": "Cormac Toher"
+      },
+      {
+        "user_id": "d63d07e6-ccc8-4eac-82af-d841627b6c53",
+        "name": "Ohad Levy"
+      },
+      {
+        "user_id": "9c308f66-eed1-4996-b33e-af78fb4944c7",
+        "name": "Richard Taylor"
+      },
+      {
+        "user_id": "d2621bc7-c45a-4d35-9dc1-5c05fa8326cb",
+        "name": "Frisco Rose"
+      },
+      {
+        "user_id": "ecba0e68-65ee-4b40-8fbf-a42714b1072b",
+        "name": "Junkai Xue"
+      },
+      {
+        "user_id": "81b96683-7170-49d7-8c4e-e9f34906b3ea",
+        "name": "Stefano Curtarolo"
+      }
+    ],
+    "entry_create_time": "2019-11-30T06:53:44",
+    "with_embargo": false,
+    "external_db": "AFLOW",
+    "domain": "dft",
+    "files": [
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/vasprun.xml.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/CHG.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/CHG.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/CHGCAR.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/CHGCAR.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/CONTCAR.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/CONTCAR.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/DOSCAR.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/DOSCAR.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/EIGENVAL.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/EIGENVAL.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/IBZKPT.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/IBZKPT.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/INCAR.orig.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/INCAR.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/INCAR.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/KPOINTS.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/KPOINTS.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/LOCK",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/LOCK.3.1.209",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/OSZICAR.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/OSZICAR.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/OUTCAR.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/OUTCAR.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/PCDAT.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/PCDAT.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/POSCAR.orig.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/POSCAR.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/POSCAR.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/PROCAR.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/PROCAR.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/XDATCAR.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/XDATCAR.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/aflow.agroup.out.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/aflow.end.out",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/aflow.fgroup.out.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/aflow.iatoms.out.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/aflow.in",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/aflow.pgroup.out.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/aflow.pgroup_xtal.out.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/aflow.qmvasp.out.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/vasp.out.relax1.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/vasp.out.relax2.xz",
+      "nomad/fairdi/external/aflowlib/LIB3_LIB/AFLOWDATA_LIB3_LIB_Li_svSr_svZr_sv_TBCC009.BCA/vasprun.xml.relax2.xz"
+    ],
+    "comment": "",
+    "entry_id": "---OWGSfJGTXSTY71gcX0l_HFO9A",
+    "upload_name": "AFLOWLIB__191130071325666984",
+    "authors": [
+      {
+        "user_id": "81b96683-7170-49d7-8c4e-e9f34906b3ea",
+        "name": "Stefano Curtarolo"
+      },
+      {
+        "user_id": "f409d859-2639-4f82-b198-85e1c7c62f8b",
+        "name": "Kesong Yang"
+      },
+      {
+        "user_id": "580f7036-97b8-42b1-a9e6-815058bcac72",
+        "name": "Lance Nelson"
+      },
+      {
+        "user_id": "4c8d767d-335f-4ccd-9459-d0152b2026bc",
+        "name": "Gus Hart"
+      },
+      {
+        "user_id": "7effd16a-a65c-4d95-b692-652488d94146",
+        "name": "Stefano Sanvito"
+      },
+      {
+        "user_id": "d59b3610-6335-4ad8-aca0-24a905de3a25",
+        "name": "Natalio Mingo"
+      },
+      {
+        "user_id": "3df68fed-6ca0-4bf9-b2b1-d6be71e18f72",
+        "name": "Shidong Wang"
+      },
+      {
+        "user_id": "f7b540eb-a266-4379-9611-911ed8e3630e",
+        "name": "Wahyu Setyawan"
+      },
+      {
+        "user_id": "7b3fe468-0011-4ba8-bd53-1ee65acda114",
+        "name": "Marco Buongiorno Nardelli"
+      },
+      {
+        "user_id": "48e7a028-1a41-440d-9986-38540f5079c9",
+        "name": "Cormac Toher"
+      },
+      {
+        "user_id": "d63d07e6-ccc8-4eac-82af-d841627b6c53",
+        "name": "Ohad Levy"
+      },
+      {
+        "user_id": "9c308f66-eed1-4996-b33e-af78fb4944c7",
+        "name": "Richard Taylor"
+      },
+      {
+        "user_id": "d2621bc7-c45a-4d35-9dc1-5c05fa8326cb",
+        "name": "Frisco Rose"
+      },
+      {
+        "user_id": "ecba0e68-65ee-4b40-8fbf-a42714b1072b",
+        "name": "Junkai Xue"
+      },
+      {
+        "user_id": "81b96683-7170-49d7-8c4e-e9f34906b3ea",
+        "name": "Stefano Curtarolo"
+      }
+    ],
+    "license": "CC BY 4.0"
+  }
+}

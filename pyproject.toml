@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "foundry-ml>=1.2.0",
     "ipykernel>=7.1.0",
     "jupyter>=1.1.1",
     "matminer>=0.9.3",

@@ -1,0 +1,1312 @@
+{
+  "entry_id": "-0WLGMXIAzWMdptBwdg_oIm6mwIE",
+  "required": {},
+  "data": {
+    "upload_id": "hH8n5EuMRcOazNrTpo-R3A",
+    "references": [
+      "https://materialsproject.org/tasks/mp-1325276"
+    ],
+    "origin": "Materials Project",
+    "quantities": [
+      "",
+      "metadata",
+      "metadata.coauthors",
+      "metadata.comment",
+      "metadata.datasets",
+      "metadata.domain",
+      "metadata.embargo_length",
+      "metadata.entry_coauthors",
+      "metadata.entry_create_time",
+      "metadata.entry_hash",
+      "metadata.entry_id",
+      "metadata.entry_name",
+      "metadata.entry_type",
+      "metadata.external_db",
+      "metadata.external_id",
+      "metadata.files",
+      "metadata.last_processing_time",
+      "metadata.license",
+      "metadata.main_author",
+      "metadata.mainfile",
+      "metadata.nomad_commit",
+      "metadata.nomad_version",
+      "metadata.optimade",
+      "metadata.optimade.cartesian_site_positions",
+      "metadata.optimade.chemical_formula_anonymous",
+      "metadata.optimade.chemical_formula_descriptive",
+      "metadata.optimade.chemical_formula_hill",
+      "metadata.optimade.chemical_formula_reduced",
+      "metadata.optimade.dimension_types",
+      "metadata.optimade.elements",
+      "metadata.optimade.elements_ratios",
+      "metadata.optimade.lattice_vectors",
+      "metadata.optimade.nelements",
+      "metadata.optimade.nsites",
+      "metadata.optimade.species",
+      "metadata.optimade.species.chemical_symbols",
+      "metadata.optimade.species.concentration",
+      "metadata.optimade.species.name",
+      "metadata.optimade.species_at_sites",
+      "metadata.optimade.structure_features",
+      "metadata.parser_name",
+      "metadata.processed",
+      "metadata.processing_errors",
+      "metadata.publish_time",
+      "metadata.published",
+      "metadata.quantities",
+      "metadata.references",
+      "metadata.reviewers",
+      "metadata.section_defs",
+      "metadata.section_defs.definition_id",
+      "metadata.section_defs.definition_qualified_name",
+      "metadata.section_defs.used_directly",
+      "metadata.sections",
+      "metadata.upload_create_time",
+      "metadata.upload_id",
+      "metadata.with_embargo",
+      "results",
+      "results.material",
+      "results.material.chemical_formula_anonymous",
+      "results.material.chemical_formula_descriptive",
+      "results.material.chemical_formula_hill",
+      "results.material.chemical_formula_iupac",
+      "results.material.chemical_formula_reduced",
+      "results.material.chemical_formula_reduced_fragments",
+      "results.material.dimensionality",
+      "results.material.elemental_composition",
+      "results.material.elemental_composition.atomic_fraction",
+      "results.material.elemental_composition.element",
+      "results.material.elemental_composition.mass",
+      "results.material.elemental_composition.mass_fraction",
+      "results.material.elements",
+      "results.material.material_id",
+      "results.material.structural_type",
+      "results.material.symmetry",
+      "results.material.symmetry.bravais_lattice",
+      "results.material.symmetry.crystal_system",
+      "results.material.symmetry.hall_number",
+      "results.material.symmetry.hall_symbol",
+      "results.material.symmetry.point_group",
+      "results.material.symmetry.space_group_number",
+      "results.material.symmetry.space_group_symbol",
+      "results.material.topology",
+      "results.material.topology.atomic_fraction",
+      "results.material.topology.atoms",
+      "results.material.topology.atoms.atomic_numbers",
+      "results.material.topology.atoms.labels",
+      "results.material.topology.atoms.lattice_vectors",
+      "results.material.topology.atoms.periodic",
+      "results.material.topology.atoms.positions",
+      "results.material.topology.atoms.species",
+      "results.material.topology.atoms_ref",
+      "results.material.topology.cell",
+      "results.material.topology.cell.a",
+      "results.material.topology.cell.alpha",
+      "results.material.topology.cell.atomic_density",
+      "results.material.topology.cell.b",
+      "results.material.topology.cell.beta",
+      "results.material.topology.cell.c",
+      "results.material.topology.cell.gamma",
+      "results.material.topology.cell.mass_density",
+      "results.material.topology.cell.volume",
+      "results.material.topology.chemical_formula_anonymous",
+      "results.material.topology.chemical_formula_descriptive",
+      "results.material.topology.chemical_formula_hill",
+      "results.material.topology.chemical_formula_iupac",
+      "results.material.topology.chemical_formula_reduced",
+      "results.material.topology.child_systems",
+      "results.material.topology.description",
+      "results.material.topology.dimensionality",
+      "results.material.topology.elemental_composition",
+      "results.material.topology.elemental_composition.atomic_fraction",
+      "results.material.topology.elemental_composition.element",
+      "results.material.topology.elemental_composition.mass",
+      "results.material.topology.elemental_composition.mass_fraction",
+      "results.material.topology.elements",
+      "results.material.topology.indices",
+      "results.material.topology.label",
+      "results.material.topology.mass_fraction",
+      "results.material.topology.material_id",
+      "results.material.topology.method",
+      "results.material.topology.n_atoms",
+      "results.material.topology.parent_system",
+      "results.material.topology.structural_type",
+      "results.material.topology.symmetry",
+      "results.material.topology.symmetry.bravais_lattice",
+      "results.material.topology.symmetry.crystal_system",
+      "results.material.topology.symmetry.hall_number",
+      "results.material.topology.symmetry.hall_symbol",
+      "results.material.topology.symmetry.origin_shift",
+      "results.material.topology.symmetry.point_group",
+      "results.material.topology.symmetry.space_group_number",
+      "results.material.topology.symmetry.space_group_symbol",
+      "results.material.topology.symmetry.symmetry_method",
+      "results.material.topology.symmetry.transformation_matrix",
+      "results.material.topology.symmetry.wyckoff_sets",
+      "results.material.topology.symmetry.wyckoff_sets.element",
+      "results.material.topology.symmetry.wyckoff_sets.indices",
+      "results.material.topology.symmetry.wyckoff_sets.wyckoff_letter",
+      "results.material.topology.symmetry.wyckoff_sets.x",
+      "results.material.topology.symmetry.wyckoff_sets.y",
+      "results.material.topology.symmetry.wyckoff_sets.z",
+      "results.material.topology.system_id",
+      "results.material.topology.system_relation",
+      "results.material.topology.system_relation.type",
+      "results.method",
+      "results.method.method_name",
+      "results.method.parameter_variation_id",
+      "results.method.simulation",
+      "results.method.simulation.dft",
+      "results.method.simulation.dft.basis_set_type",
+      "results.method.simulation.dft.core_electron_treatment",
+      "results.method.simulation.dft.hubbard_kanamori_model",
+      "results.method.simulation.dft.hubbard_kanamori_model.atom_label",
+      "results.method.simulation.dft.hubbard_kanamori_model.double_counting_correction",
+      "results.method.simulation.dft.hubbard_kanamori_model.orbital",
+      "results.method.simulation.dft.hubbard_kanamori_model.u",
+      "results.method.simulation.dft.hubbard_kanamori_model.u_effective",
+      "results.method.simulation.dft.jacobs_ladder",
+      "results.method.simulation.dft.scf_threshold_energy_change",
+      "results.method.simulation.dft.xc_functional_names",
+      "results.method.simulation.dft.xc_functional_type",
+      "results.method.simulation.precision",
+      "results.method.simulation.precision.basis_set",
+      "results.method.simulation.precision.k_line_density",
+      "results.method.simulation.precision.native_tier",
+      "results.method.simulation.precision.planewave_cutoff",
+      "results.method.simulation.program_name",
+      "results.method.simulation.program_version",
+      "results.method.workflow_name",
+      "results.properties",
+      "results.properties.electronic",
+      "results.properties.electronic.band_gap",
+      "results.properties.electronic.band_gap.energy_highest_occupied",
+      "results.properties.electronic.band_gap.energy_lowest_unoccupied",
+      "results.properties.electronic.band_gap.index",
+      "results.properties.electronic.band_gap.provenance",
+      "results.properties.electronic.band_gap.provenance.dos",
+      "results.properties.electronic.band_gap.provenance.label",
+      "results.properties.electronic.band_gap.value",
+      "results.properties.electronic.dos_electronic",
+      "results.properties.electronic.dos_electronic.band_gap",
+      "results.properties.electronic.dos_electronic.band_gap.energy_highest_occupied",
+      "results.properties.electronic.dos_electronic.band_gap.energy_lowest_unoccupied",
+      "results.properties.electronic.dos_electronic.band_gap.index",
+      "results.properties.electronic.dos_electronic.band_gap.value",
+      "results.properties.electronic.dos_electronic.energies",
+      "results.properties.electronic.dos_electronic.energy_fermi",
+      "results.properties.electronic.dos_electronic.spin_polarized",
+      "results.properties.electronic.dos_electronic.total",
+      "results.properties.n_calculations",
+      "run",
+      "run.calculation",
+      "run.calculation.band_gap",
+      "run.calculation.band_gap.energy_highest_occupied",
+      "run.calculation.band_gap.energy_lowest_unoccupied",
+      "run.calculation.band_gap.index",
+      "run.calculation.band_gap.provenance",
+      "run.calculation.band_gap.value",
+      "run.calculation.dos_electronic",
+      "run.calculation.dos_electronic.atom_projected",
+      "run.calculation.dos_electronic.atom_projected.atom_index",
+      "run.calculation.dos_electronic.atom_projected.lm",
+      "run.calculation.dos_electronic.atom_projected.m_kind",
+      "run.calculation.dos_electronic.atom_projected.spin",
+      "run.calculation.dos_electronic.atom_projected.value",
+      "run.calculation.dos_electronic.band_gap",
+      "run.calculation.dos_electronic.band_gap.energy_highest_occupied",
+      "run.calculation.dos_electronic.band_gap.energy_lowest_unoccupied",
+      "run.calculation.dos_electronic.band_gap.index",
+      "run.calculation.dos_electronic.band_gap.value",
+      "run.calculation.dos_electronic.energies",
+      "run.calculation.dos_electronic.energy_fermi",
+      "run.calculation.dos_electronic.fingerprint",
+      "run.calculation.dos_electronic.fingerprint.bins",
+      "run.calculation.dos_electronic.fingerprint.filling_factor",
+      "run.calculation.dos_electronic.fingerprint.grid_id",
+      "run.calculation.dos_electronic.fingerprint.indices",
+      "run.calculation.dos_electronic.fingerprint.stepsize",
+      "run.calculation.dos_electronic.total",
+      "run.calculation.dos_electronic.total.normalization_factor",
+      "run.calculation.dos_electronic.total.value",
+      "run.calculation.dos_electronic.total.value_integrated",
+      "run.calculation.eigenvalues",
+      "run.calculation.eigenvalues.energies",
+      "run.calculation.eigenvalues.kpoints",
+      "run.calculation.eigenvalues.kpoints_multiplicities",
+      "run.calculation.eigenvalues.kpoints_weights",
+      "run.calculation.eigenvalues.occupations",
+      "run.calculation.energy",
+      "run.calculation.energy.fermi",
+      "run.calculation.energy.free",
+      "run.calculation.energy.free.value",
+      "run.calculation.energy.highest_occupied",
+      "run.calculation.energy.lowest_unoccupied",
+      "run.calculation.energy.total",
+      "run.calculation.energy.total.value",
+      "run.calculation.energy.total_t0",
+      "run.calculation.energy.total_t0.value",
+      "run.calculation.forces",
+      "run.calculation.forces.total",
+      "run.calculation.forces.total.value",
+      "run.calculation.method_ref",
+      "run.calculation.scf_iteration",
+      "run.calculation.scf_iteration.energy",
+      "run.calculation.scf_iteration.energy.correction_hartree",
+      "run.calculation.scf_iteration.energy.correction_hartree.value",
+      "run.calculation.scf_iteration.energy.free",
+      "run.calculation.scf_iteration.energy.free.value",
+      "run.calculation.scf_iteration.energy.total",
+      "run.calculation.scf_iteration.energy.total.value",
+      "run.calculation.scf_iteration.energy.total_t0",
+      "run.calculation.scf_iteration.energy.total_t0.value",
+      "run.calculation.scf_iteration.energy.xc",
+      "run.calculation.scf_iteration.energy.xc.value",
+      "run.calculation.stress",
+      "run.calculation.stress.total",
+      "run.calculation.stress.total.value",
+      "run.calculation.system_ref",
+      "run.method",
+      "run.method.atom_parameters",
+      "run.method.atom_parameters.atom_number",
+      "run.method.atom_parameters.hubbard_kanamori_model",
+      "run.method.atom_parameters.hubbard_kanamori_model.double_counting_correction",
+      "run.method.atom_parameters.hubbard_kanamori_model.j",
+      "run.method.atom_parameters.hubbard_kanamori_model.orbital",
+      "run.method.atom_parameters.hubbard_kanamori_model.u",
+      "run.method.atom_parameters.label",
+      "run.method.dft",
+      "run.method.dft.xc_functional",
+      "run.method.dft.xc_functional.correlation",
+      "run.method.dft.xc_functional.correlation.name",
+      "run.method.dft.xc_functional.exchange",
+      "run.method.dft.xc_functional.exchange.name",
+      "run.method.dft.xc_functional.name",
+      "run.method.electronic",
+      "run.method.electronic.method",
+      "run.method.electrons_representation",
+      "run.method.electrons_representation.basis_set",
+      "run.method.electrons_representation.basis_set.cutoff",
+      "run.method.electrons_representation.basis_set.scope",
+      "run.method.electrons_representation.basis_set.type",
+      "run.method.electrons_representation.native_tier",
+      "run.method.electrons_representation.scope",
+      "run.method.electrons_representation.type",
+      "run.method.k_mesh",
+      "run.method.k_mesh.dimensionality",
+      "run.method.k_mesh.grid",
+      "run.method.k_mesh.n_points",
+      "run.method.k_mesh.points",
+      "run.method.k_mesh.sampling_method",
+      "run.method.k_mesh.weights",
+      "run.method.scf",
+      "run.method.scf.threshold_energy_change",
+      "run.program",
+      "run.program.compilation_datetime",
+      "run.program.name",
+      "run.program.version",
+      "run.system",
+      "run.system.atoms",
+      "run.system.atoms.labels",
+      "run.system.atoms.lattice_vectors",
+      "run.system.atoms.lattice_vectors_reciprocal",
+      "run.system.atoms.periodic",
+      "run.system.atoms.positions",
+      "run.system.atoms.species",
+      "run.system.chemical_composition",
+      "run.system.chemical_composition_hill",
+      "run.system.chemical_composition_reduced",
+      "run.system.configuration_raw_gid",
+      "run.system.descriptors",
+      "run.system.descriptors.soap",
+      "run.system.descriptors.soap.atom_sigma",
+      "run.system.descriptors.soap.global_soap",
+      "run.system.descriptors.soap.global_tr_soap",
+      "run.system.descriptors.soap.l_max",
+      "run.system.descriptors.soap.n_max",
+      "run.system.descriptors.soap.r_cut",
+      "run.system.descriptors.soap.soap",
+      "run.system.descriptors.soap.tr_soap",
+      "run.system.is_representative",
+      "run.system.symmetry",
+      "run.system.symmetry.bravais_lattice",
+      "run.system.symmetry.crystal_system",
+      "run.system.symmetry.hall_number",
+      "run.system.symmetry.hall_symbol",
+      "run.system.symmetry.international_short_symbol",
+      "run.system.symmetry.origin_shift",
+      "run.system.symmetry.point_group",
+      "run.system.symmetry.space_group_number",
+      "run.system.symmetry.symmetry_method",
+      "run.system.symmetry.system_original",
+      "run.system.symmetry.system_original.equivalent_atoms",
+      "run.system.symmetry.system_original.wyckoff_letters",
+      "run.system.symmetry.system_primitive",
+      "run.system.symmetry.system_primitive.atomic_numbers",
+      "run.system.symmetry.system_primitive.equivalent_atoms",
+      "run.system.symmetry.system_primitive.lattice_vectors",
+      "run.system.symmetry.system_primitive.positions",
+      "run.system.symmetry.system_primitive.wyckoff_letters",
+      "run.system.symmetry.system_std",
+      "run.system.symmetry.system_std.atomic_numbers",
+      "run.system.symmetry.system_std.equivalent_atoms",
+      "run.system.symmetry.system_std.lattice_vectors",
+      "run.system.symmetry.system_std.positions",
+      "run.system.symmetry.system_std.wyckoff_letters",
+      "run.system.symmetry.transformation_matrix",
+      "run.system.type",
+      "workflow2",
+      "workflow2.inputs",
+      "workflow2.inputs.name",
+      "workflow2.inputs.section",
+      "workflow2.method",
+      "workflow2.method.method",
+      "workflow2.outputs",
+      "workflow2.outputs.name",
+      "workflow2.outputs.section",
+      "workflow2.results",
+      "workflow2.results.calculation_result_ref",
+      "workflow2.results.calculations_ref",
+      "workflow2.results.dos",
+      "workflow2.results.eigenvalues",
+      "workflow2.results.final_scf_energy_difference",
+      "workflow2.results.is_converged",
+      "workflow2.results.n_scf_steps",
+      "workflow2.tasks",
+      "workflow2.tasks.inputs",
+      "workflow2.tasks.inputs.name",
+      "workflow2.tasks.inputs.section"
+    ],
+    "external_id": "mp-1325276",
+    "datasets": [],
+    "n_quantities": 6942,
+    "nomad_version": "1.2.1.dev92+g2b16820bd",
+    "upload_create_time": "2021-05-06T09:41:35.608000+00:00",
+    "nomad_commit": "",
+    "publish_time": "2021-05-06T10:10:35.813000+00:00",
+    "section_defs": [
+      {
+        "used_directly": true,
+        "definition_id": "7047cbff9980abff17cce4b1b6b0d1c783505b7f",
+        "definition_qualified_name": "nomad.datamodel.data.ArchiveSection"
+      },
+      {
+        "used_directly": false,
+        "definition_id": "538f52fd8d52b29372066f878319c6aeb03b74d2",
+        "definition_qualified_name": "nomad.datamodel.data.EntryData"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "63c7177af4072de402c3948cbb1b8a2ac58fad03",
+        "definition_qualified_name": "nomad.datamodel.datamodel.EntryArchive"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "f0581d7d21c72a241c4a770488125b5ddcf539d8",
+        "definition_qualified_name": "nomad.datamodel.datamodel.EntryMetadata"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "3238a80b7f1abc3c61277e33f049ff70c16002b5",
+        "definition_qualified_name": "nomad.datamodel.metainfo.common.PropertySection"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "410f8d4a48b11daaa2e01fc5d4946825155f272e",
+        "definition_qualified_name": "nomad.datamodel.metainfo.common.ProvenanceTracker"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "92e8b591b01bfb708fd31380c0eed16414307e53",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.Atomic"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "65058e77db13e873bf03811d8d24ce30a1f19a1e",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.AtomicValues"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "0fd57f46e6a6aab899aec506d9a328020dfd38de",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.BandEnergies"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "998622210bfc08b7cb8ed0dd013d4b102f7e1bc2",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.BandGap"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "e1f1b1b04a9ca8327e666747b0d99eabf363e48c",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.BandGapDeprecated"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "12a3244785e92bc74991bb9f27850fb8b66d3c94",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.BaseCalculation"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "864abac05e426fe497817d58ffe5b53adc4950e1",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.Calculation"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "34357641c110cd8497a8142b9c3785a8d8f923f5",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.Dos"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "b3855512cd209a20fa8f00e771932266cace5b21",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.DosFingerprint"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "7bb17b2e262659a4322587d665c51cbf0edf1c01",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.DosValues"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "ecde870a6ea586e38d9121a033eb690a5af88648",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.ElectronicStructureProvenance"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "420970cf4159fd5c89ae068a4632bd95eaec590a",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.Energy"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "b9c9848eaf9a4e59c23e7a1e73a4366077b1a1de",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.EnergyEntry"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "4c24448941c6bc9059e8f0217cd40c5077012a75",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.Forces"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "2900968e4bc11bf8eed8b1cb8f38731bd415cb86",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.ForcesEntry"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "8f440ebf2ab59632b5d1e8693d08c921f2ffbed8",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.ScfIteration"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "bf2b8d1fd2bce9cf750b011bcdb1655b36d87524",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.Stress"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "34e0f85f012e1095ac05020c04e6780b7405cd27",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.calculation.StressEntry"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "4a331ed4f7709e86f3e54d07bb9d9bf91b5950ea",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.AtomParameters"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "329c7e93d49dbdd445e2755eda037141661ce7c1",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.BasisSet"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "a9c0a76978864d058312eee5dc0a481de9c94256",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.BasisSetContainer"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "21eeda10a991f1377d597ca67b4e8c5e47278ff8",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.BasisSetMesh"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "1c14c87ba3102cd4f979e0906f95105c184bf6c0",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.DFT"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "a2f985b59a33c47d0a17b1aa93a08d0777de9636",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.Electronic"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "3bc86f6b013b2e6cca5d7302f6fe9a00e5eb4364",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.Functional"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "81bf0a9b3ef987f70bdbe0c0308e652da4eae80f",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.HubbardKanamoriModel"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "71588be5c05b67c996dd8249944b5fc382b1c63b",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.KMesh"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "b873a47d43fbf11afaaffa1940ec6e301ba0860a",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.Mesh"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "57e5353eeb8dbd425b4f83d8896308c62585be4b",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.Method"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "02f45c4932a5227cd3855245c22220cdf0d776ca",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.Model"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "5a0a22ccf1534337350b50aa7d48e9ca1ff96d09",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.Scf"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "517cb8d32af3c10f3948435d5190638f9f622dcb",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.method.XCFunctional"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "9d0685a63e70e0606badc54507afd746863d59f0",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.run.Program"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "eaa5a0a883fb3c7f134d3a3c43f8aabb8537e1c5",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.run.Run"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "c488867b53d7df0aeaa1518bef02f04c496eed59",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.system.Atoms"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "a82cf533d30747d54c3a2e29a7229ea9b223c812",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.system.Descriptors"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "fd7858e4f6fb72a455d5cae3b014a3143fc03b1b",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.system.SOAP"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "d578b5c56b9b55e3220a8decabad1c4752f55f9a",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.system.Symmetry"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "427abc8c1f8c6d3ca7a695d35e5bab96d08925c1",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.system.System"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "2b9f087ef5fd1e02a600b64f3c8e5b915391e5a6",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.workflow.SimulationWorkflow"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "731e65a62ebdfbdef8ca7f4626525536b4f49f16",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.workflow.SimulationWorkflowMethod"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "33c4c32a81895e2610f1d94c93f6c096dfdf25ee",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.workflow.SimulationWorkflowResults"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "24f8633589374a9fd0b183f0d7119c00f5f2d0e6",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.workflow.SinglePoint"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "ead1191c4bcfead3cf8b84e50e5e746f53f535a9",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.workflow.SinglePointMethod"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "e0a973c52dd1f5894e41bd265a58657ec555a3d6",
+        "definition_qualified_name": "nomad.datamodel.metainfo.simulation.workflow.SinglePointResults"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "36539e90c9f93f81d9846055d8668bb23720bdf3",
+        "definition_qualified_name": "nomad.datamodel.metainfo.workflow.Link"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "ac62fdff74f54fd477531446ca111c0dd9df6ba2",
+        "definition_qualified_name": "nomad.datamodel.metainfo.workflow.Task"
+      },
+      {
+        "used_directly": false,
+        "definition_id": "fc65ae24157492e422afe61173a71403fc5e1fd7",
+        "definition_qualified_name": "nomad.datamodel.metainfo.workflow.Workflow"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "6cd183087658a33d09943e5e7a7bb99f1aa7f1f2",
+        "definition_qualified_name": "nomad.datamodel.optimade.OptimadeEntry"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "5b6d1cf79926b9cf56a7d2be67f86d4d63674cc8",
+        "definition_qualified_name": "nomad.datamodel.optimade.Species"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "6d42eccb338522684cee5141c85f29f5774159ee",
+        "definition_qualified_name": "nomad.datamodel.results.BandGap"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "8ec49bed6c0f20dfec81799a50fae81b7aa27949",
+        "definition_qualified_name": "nomad.datamodel.results.BandGapDeprecated"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "044119dcbe8bf6d92862b961733d70fbd1b88ee6",
+        "definition_qualified_name": "nomad.datamodel.results.Cell"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "5934313a1b2464d89185feb51ee839b248d600ed",
+        "definition_qualified_name": "nomad.datamodel.results.DFT"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "f9d246e082e29028f18cf697ae4c5d90e6c518e6",
+        "definition_qualified_name": "nomad.datamodel.results.DOS"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "aa02d2d10befafa84d4b8e9f844c5371b459ccaf",
+        "definition_qualified_name": "nomad.datamodel.results.DOSElectronic"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "c5a7bca8010e696427aa98567065664dc5845ccf",
+        "definition_qualified_name": "nomad.datamodel.results.ElectronicProperties"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "3f1613099a8a052611fc59011505238957c63675",
+        "definition_qualified_name": "nomad.datamodel.results.ElementalComposition"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "e57e405d4a7c9800a5a1e35b927474fad40a1741",
+        "definition_qualified_name": "nomad.datamodel.results.HubbardKanamoriModel"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "8df5d0bb34ea501ef56fcd403b0bc2efda81f4c6",
+        "definition_qualified_name": "nomad.datamodel.results.Material"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "00b08f717f204bbf72ce1c58dfae2c739215b2e0",
+        "definition_qualified_name": "nomad.datamodel.results.Method"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "56429cc9570d4e1de432f357105475484668e56f",
+        "definition_qualified_name": "nomad.datamodel.results.Precision"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "0776488e22ae6dd2a581dec4d802c0d36519a03e",
+        "definition_qualified_name": "nomad.datamodel.results.Properties"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "35ac7e52f22e8a897bdbb55e68c55a8451df9ab8",
+        "definition_qualified_name": "nomad.datamodel.results.Relation"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "6e6a90ed42110c069c94719c299b453657ce2a3a",
+        "definition_qualified_name": "nomad.datamodel.results.Results"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "9c2c5e69d5a9069d47eab0549c970109e6f0b80e",
+        "definition_qualified_name": "nomad.datamodel.results.Simulation"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "a4790a3a127cec620ba9bb582a8d6a717e147fa2",
+        "definition_qualified_name": "nomad.datamodel.results.Symmetry"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "5f3d29a05279c55c7f68a9e5b28b09b2877d0c3f",
+        "definition_qualified_name": "nomad.datamodel.results.SymmetryNew"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "1da3369e7a625eb74f665472cfdb1bb7c4041923",
+        "definition_qualified_name": "nomad.datamodel.results.System"
+      },
+      {
+        "used_directly": true,
+        "definition_id": "a871f00e569db9641717cb4697239ab3e02c1ec9",
+        "definition_qualified_name": "nomad.datamodel.results.WyckoffSet"
+      }
+    ],
+    "processing_errors": [],
+    "results": {
+      "material": {
+        "dimensionality": "3D",
+        "topology": [
+          {
+            "method": "parser",
+            "dimensionality": "3D",
+            "system_id": "results/material/topology/0",
+            "n_atoms": 56,
+            "description": "A representative system chosen from the original simulation.",
+            "label": "original",
+            "cell": {
+              "volume": 7.17836396364413e-28,
+              "a": 5.135999e-10,
+              "b": 1.0223016e-09,
+              "c": 1.3671668000000002e-09,
+              "atomic_density": 7.801220484726067e+28,
+              "alpha": 1.5707963267948966,
+              "beta": 1.5707963267948966,
+              "gamma": 1.5707963267948966,
+              "mass_density": 2919.4648136706833
+            },
+            "chemical_formula_descriptive": "LiFePO4",
+            "chemical_formula_hill": "Fe8Li8O32P8",
+            "system_relation": {
+              "type": "root"
+            },
+            "elements_exclusive": "Fe Li O P",
+            "elements": [
+              "Fe",
+              "Li",
+              "O",
+              "P"
+            ],
+            "chemical_formula_anonymous": "A4BCD",
+            "chemical_formula_reduced": "FeLiO4P",
+            "n_elements": 4,
+            "elemental_composition": [
+              {
+                "atomic_fraction": 0.14285714285714285,
+                "mass_fraction": 0.043997946669518985,
+                "element": "Li"
+              },
+              {
+                "atomic_fraction": 0.14285714285714285,
+                "mass_fraction": 0.353992988295532,
+                "element": "Fe"
+              },
+              {
+                "atomic_fraction": 0.14285714285714285,
+                "mass_fraction": 0.1963379813615291,
+                "element": "P"
+              },
+              {
+                "atomic_fraction": 0.5714285714285714,
+                "mass_fraction": 0.4056710836734199,
+                "element": "O"
+              }
+            ],
+            "child_systems": [
+              "results/material/topology/1"
+            ],
+            "chemical_formula_iupac": "LiFePO4"
+          },
+          {
+            "method": "matid",
+            "dimensionality": "3D",
+            "system_id": "results/material/topology/1",
+            "n_atoms": 56,
+            "description": "Automatically detected subsystem.",
+            "atomic_fraction": 1.0,
+            "structural_type": "bulk",
+            "mass_fraction": 1.0,
+            "label": "subsystem",
+            "chemical_formula_descriptive": "LiFePO4",
+            "chemical_formula_hill": "Fe8Li8O32P8",
+            "parent_system": "results/material/topology/0",
+            "system_relation": {
+              "type": "subsystem"
+            },
+            "elements_exclusive": "Fe Li O P",
+            "elements": [
+              "Fe",
+              "Li",
+              "O",
+              "P"
+            ],
+            "chemical_formula_anonymous": "A4BCD",
+            "chemical_formula_reduced": "FeLiO4P",
+            "n_elements": 4,
+            "elemental_composition": [
+              {
+                "atomic_fraction": 0.14285714285714285,
+                "mass_fraction": 0.043997946669518985,
+                "element": "Li"
+              },
+              {
+                "atomic_fraction": 0.14285714285714285,
+                "mass_fraction": 0.353992988295532,
+                "element": "Fe"
+              },
+              {
+                "atomic_fraction": 0.14285714285714285,
+                "mass_fraction": 0.1963379813615291,
+                "element": "P"
+              },
+              {
+                "atomic_fraction": 0.5714285714285714,
+                "mass_fraction": 0.4056710836734199,
+                "element": "O"
+              }
+            ],
+            "child_systems": [
+              "results/material/topology/2"
+            ],
+            "chemical_formula_iupac": "LiFePO4"
+          },
+          {
+            "method": "matid",
+            "dimensionality": "3D",
+            "system_id": "results/material/topology/2",
+            "n_atoms": 56,
+            "description": "The conventional cell of the material from which the subsystem is constructed from.",
+            "structural_type": "bulk",
+            "label": "conventional cell",
+            "cell": {
+              "volume": 7.17836396364413e-28,
+              "a": 1.0223016e-09,
+              "b": 5.135999e-10,
+              "c": 1.3671668000000002e-09,
+              "atomic_density": 7.801220484726067e+28,
+              "alpha": 1.5707963267948966,
+              "beta": 1.5707963267948966,
+              "gamma": 1.5707963267948966,
+              "mass_density": 2919.4648136706833
+            },
+            "chemical_formula_descriptive": "LiFePO4",
+            "chemical_formula_hill": "Fe8Li8O32P8",
+            "parent_system": "results/material/topology/1",
+            "system_relation": {
+              "type": "conventional_cell"
+            },
+            "symmetry": {
+              "bravais_lattice": "oP",
+              "space_group_symbol": "Pca2_1",
+              "space_group_number": 29,
+              "point_group": "mm2",
+              "crystal_system": "orthorhombic",
+              "hall_number": 143,
+              "hall_symbol": "P 2c -2ac"
+            },
+            "elements_exclusive": "Fe Li O P",
+            "elements": [
+              "Fe",
+              "Li",
+              "O",
+              "P"
+            ],
+            "chemical_formula_anonymous": "A4BCD",
+            "material_id": "jfHaav1VHDWA9oLBaaBA71cK9nql",
+            "chemical_formula_reduced": "FeLiO4P",
+            "n_elements": 4,
+            "elemental_composition": [
+              {
+                "atomic_fraction": 0.14285714285714285,
+                "mass_fraction": 0.043997946669518985,
+                "element": "Li"
+              },
+              {
+                "atomic_fraction": 0.14285714285714285,
+                "mass_fraction": 0.353992988295532,
+                "element": "Fe"
+              },
+              {
+                "atomic_fraction": 0.14285714285714285,
+                "mass_fraction": 0.1963379813615291,
+                "element": "P"
+              },
+              {
+                "atomic_fraction": 0.5714285714285714,
+                "mass_fraction": 0.4056710836734199,
+                "element": "O"
+              }
+            ],
+            "chemical_formula_iupac": "LiFePO4"
+          }
+        ],
+        "structural_type": "bulk",
+        "chemical_formula_descriptive": "LiFePO4",
+        "chemical_formula_hill": "Fe8Li8O32P8",
+        "symmetry": {
+          "bravais_lattice": "oP",
+          "space_group_symbol": "Pca2_1",
+          "space_group_number": 29,
+          "point_group": "mm2",
+          "crystal_system": "orthorhombic",
+          "hall_number": 143,
+          "hall_symbol": "P 2c -2ac"
+        },
+        "elements": [
+          "Fe",
+          "Li",
+          "O",
+          "P"
+        ],
+        "elements_exclusive": "Fe Li O P",
+        "chemical_formula_anonymous": "A4BCD",
+        "material_id": "jfHaav1VHDWA9oLBaaBA71cK9nql",
+        "chemical_formula_reduced": "FeLiO4P",
+        "n_elements": 4,
+        "elemental_composition": [
+          {
+            "atomic_fraction": 0.14285714285714285,
+            "mass_fraction": 0.353992988295532,
+            "element": "Fe"
+          },
+          {
+            "atomic_fraction": 0.14285714285714285,
+            "mass_fraction": 0.043997946669518985,
+            "element": "Li"
+          },
+          {
+            "atomic_fraction": 0.5714285714285714,
+            "mass_fraction": 0.4056710836734199,
+            "element": "O"
+          },
+          {
+            "atomic_fraction": 0.14285714285714285,
+            "mass_fraction": 0.1963379813615291,
+            "element": "P"
+          }
+        ],
+        "chemical_formula_reduced_fragments": [
+          "Fe",
+          "Li",
+          "O4",
+          "P"
+        ],
+        "chemical_formula_iupac": "LiFePO4"
+      },
+      "method": {
+        "method_name": "DFT",
+        "workflow_name": "SinglePoint",
+        "simulation": {
+          "program_version": "5.4.4.18Apr17-6-g9f103f2a35 (build Jul 24 2019 14:41:59) complex parallel IFC18.0.1.163_CrayMPICH7.7.6_MKL18.0.1.163",
+          "dft": {
+            "basis_set_type": "plane waves",
+            "hubbard_kanamori_model": [
+              {
+                "u_effective": 8.491536160199999e-19,
+                "u": 8.491536160199999e-19
+              }
+            ],
+            "core_electron_treatment": "pseudopotential",
+            "xc_functional_type": "GGA",
+            "xc_functional_names": [
+              "GGA_C_PBE",
+              "GGA_X_PBE"
+            ],
+            "jacobs_ladder": "GGA",
+            "scf_threshold_energy_change": 4.486094575199999e-22
+          },
+          "program_version_internal": "not processed",
+          "program_name": "VASP",
+          "precision": {
+            "native_tier": "VASP - accurate",
+            "k_line_density": 3.254087059415071e-10,
+            "planewave_cutoff": 8.331318496799999e-17,
+            "basis_set": "plane waves"
+          }
+        }
+      },
+      "properties": {
+        "available_properties": [
+          "dos_electronic"
+        ],
+        "n_calculations": 1,
+        "electronic": {
+          "dos_electronic": [
+            {
+              "spin_polarized": true,
+              "band_gap": [
+                {
+                  "index": 0,
+                  "value": 5.827917506175e-19
+                },
+                {
+                  "index": 1,
+                  "value": 5.827917506175e-19
+                }
+              ]
+            }
+          ],
+          "band_gap": [
+            {
+              "provenance": {
+                "label": "dos"
+              },
+              "index": 0,
+              "value": 5.827917506175e-19
+            },
+            {
+              "provenance": {
+                "label": "dos"
+              },
+              "index": 1,
+              "value": 5.827917506175e-19
+            }
+          ]
+        }
+      }
+    },
+    "entry_name": "LiFePO4 VASP DFT SinglePoint simulation",
+    "last_processing_time": "2023-09-07T21:02:45.999000+00:00",
+    "optimade": {
+      "nperiodic_dimensions": 3,
+      "nsites": 56,
+      "elements": [
+        "Fe",
+        "Li",
+        "O",
+        "P"
+      ],
+      "chemical_formula_anonymous": "A4BCD",
+      "chemical_formula_reduced": "FeLiO4P",
+      "structure_features": [],
+      "nelements": 4,
+      "chemical_formula_descriptive": "Fe8Li8O32P8",
+      "chemical_formula_hill": "Fe8Li8O32P8",
+      "elements_ratios": [
+        [
+          {
+            "elements": "Fe",
+            "elements_ratios": 0.14285714285714285
+          },
+          {
+            "elements": "Li",
+            "elements_ratios": 0.14285714285714285
+          },
+          {
+            "elements": "O",
+            "elements_ratios": 0.5714285714285714
+          },
+          {
+            "elements": "P",
+            "elements_ratios": 0.14285714285714285
+          }
+        ],
+        [
+          {
+            "elements": "Fe",
+            "elements_ratios": 0.14285714285714285
+          },
+          {
+            "elements": "Li",
+            "elements_ratios": 0.14285714285714285
+          },
+          {
+            "elements": "O",
+            "elements_ratios": 0.5714285714285714
+          },
+          {
+            "elements": "P",
+            "elements_ratios": 0.14285714285714285
+          }
+        ],
+        [
+          {
+            "elements": "Fe",
+            "elements_ratios": 0.14285714285714285
+          },
+          {
+            "elements": "Li",
+            "elements_ratios": 0.14285714285714285
+          },
+          {
+            "elements": "O",
+            "elements_ratios": 0.5714285714285714
+          },
+          {
+            "elements": "P",
+            "elements_ratios": 0.14285714285714285
+          }
+        ],
+        [
+          {
+            "elements": "Fe",
+            "elements_ratios": 0.14285714285714285
+          },
+          {
+            "elements": "Li",
+            "elements_ratios": 0.14285714285714285
+          },
+          {
+            "elements": "O",
+            "elements_ratios": 0.5714285714285714
+          },
+          {
+            "elements": "P",
+            "elements_ratios": 0.14285714285714285
+          }
+        ]
+      ]
+    },
+    "parser_name": "parsers/vasp",
+    "calc_id": "-0WLGMXIAzWMdptBwdg_oIm6mwIE",
+    "published": true,
+    "writers": [
+      {
+        "user_id": "3edf70a3-3441-41f5-9a0a-783ef5ccb48a",
+        "name": "Materials Project"
+      }
+    ],
+    "writer_groups": [],
+    "sections": [
+      "nomad.datamodel.datamodel.EntryArchive",
+      "nomad.datamodel.datamodel.EntryMetadata",
+      "nomad.datamodel.metainfo.simulation.calculation.BandEnergies",
+      "nomad.datamodel.metainfo.simulation.calculation.BandGap",
+      "nomad.datamodel.metainfo.simulation.calculation.BandGapDeprecated",
+      "nomad.datamodel.metainfo.simulation.calculation.Calculation",
+      "nomad.datamodel.metainfo.simulation.calculation.Dos",
+      "nomad.datamodel.metainfo.simulation.calculation.DosFingerprint",
+      "nomad.datamodel.metainfo.simulation.calculation.DosValues",
+      "nomad.datamodel.metainfo.simulation.calculation.ElectronicStructureProvenance",
+      "nomad.datamodel.metainfo.simulation.calculation.Energy",
+      "nomad.datamodel.metainfo.simulation.calculation.EnergyEntry",
+      "nomad.datamodel.metainfo.simulation.calculation.Forces",
+      "nomad.datamodel.metainfo.simulation.calculation.ForcesEntry",
+      "nomad.datamodel.metainfo.simulation.calculation.ScfIteration",
+      "nomad.datamodel.metainfo.simulation.calculation.Stress",
+      "nomad.datamodel.metainfo.simulation.calculation.StressEntry",
+      "nomad.datamodel.metainfo.simulation.method.AtomParameters",
+      "nomad.datamodel.metainfo.simulation.method.BasisSet",
+      "nomad.datamodel.metainfo.simulation.method.BasisSetContainer",
+      "nomad.datamodel.metainfo.simulation.method.DFT",
+      "nomad.datamodel.metainfo.simulation.method.Electronic",
+      "nomad.datamodel.metainfo.simulation.method.Functional",
+      "nomad.datamodel.metainfo.simulation.method.HubbardKanamoriModel",
+      "nomad.datamodel.metainfo.simulation.method.KMesh",
+      "nomad.datamodel.metainfo.simulation.method.Method",
+      "nomad.datamodel.metainfo.simulation.method.Scf",
+      "nomad.datamodel.metainfo.simulation.method.XCFunctional",
+      "nomad.datamodel.metainfo.simulation.run.Program",
+      "nomad.datamodel.metainfo.simulation.run.Run",
+      "nomad.datamodel.metainfo.simulation.system.Atoms",
+      "nomad.datamodel.metainfo.simulation.system.Descriptors",
+      "nomad.datamodel.metainfo.simulation.system.SOAP",
+      "nomad.datamodel.metainfo.simulation.system.Symmetry",
+      "nomad.datamodel.metainfo.simulation.system.System",
+      "nomad.datamodel.metainfo.simulation.workflow.SinglePoint",
+      "nomad.datamodel.metainfo.simulation.workflow.SinglePointMethod",
+      "nomad.datamodel.metainfo.simulation.workflow.SinglePointResults",
+      "nomad.datamodel.metainfo.workflow.Link",
+      "nomad.datamodel.metainfo.workflow.Task",
+      "nomad.datamodel.optimade.OptimadeEntry",
+      "nomad.datamodel.optimade.Species",
+      "nomad.datamodel.results.BandGap",
+      "nomad.datamodel.results.BandGapDeprecated",
+      "nomad.datamodel.results.Cell",
+      "nomad.datamodel.results.DFT",
+      "nomad.datamodel.results.DOSElectronic",
+      "nomad.datamodel.results.ElectronicProperties",
+      "nomad.datamodel.results.ElementalComposition",
+      "nomad.datamodel.results.HubbardKanamoriModel",
+      "nomad.datamodel.results.Material",
+      "nomad.datamodel.results.Method",
+      "nomad.datamodel.results.Precision",
+      "nomad.datamodel.results.Properties",
+      "nomad.datamodel.results.Relation",
+      "nomad.datamodel.results.Results",
+      "nomad.datamodel.results.Simulation",
+      "nomad.datamodel.results.Symmetry",
+      "nomad.datamodel.results.SymmetryNew",
+      "nomad.datamodel.results.System",
+      "nomad.datamodel.results.WyckoffSet"
+    ],
+    "processed": true,
+    "mainfile": "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/vasprun.xml.gz",
+    "main_author": {
+      "user_id": "3edf70a3-3441-41f5-9a0a-783ef5ccb48a",
+      "name": "Materials Project"
+    },
+    "viewers": [
+      {
+        "user_id": "3edf70a3-3441-41f5-9a0a-783ef5ccb48a",
+        "name": "Materials Project"
+      }
+    ],
+    "viewer_groups": [],
+    "entry_create_time": "2021-05-06T09:54:11.328000+00:00",
+    "with_embargo": false,
+    "external_db": "Materials Project",
+    "domain": "dft",
+    "files": [
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/vasprun.xml.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/AECCAR0.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/AECCAR1.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/AECCAR2.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/CHG.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/CHGCAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/CONTCAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/DOSCAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/EIGENVAL.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/ELFCAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/FW--LiFePO4-static.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/FW.json.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/FW_job.error.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/FW_job.out.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/IBZKPT.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/INCAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/INCAR.orig.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/KPOINTS.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/KPOINTS.orig.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/LOCPOT.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/OSZICAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/OUTCAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/PCDAT.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/POSCAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/POSCAR.orig.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/POTCAR.gz.stripped",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/POTCAR.orig.gz.stripped",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/PROCAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/REPORT.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/WAVECAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/XDATCAR.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/custodian.json.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/error.1.tar.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/std_err.txt.gz",
+      "nomad_upload_thread_0_05_06_2021/block_2019-10-20-05-15-31-729782/launcher_2019-10-20-05-26-10-676230/vasp.out.gz"
+    ],
+    "comment": "Materials Project Upload at 2021-05-06 00:00:55.294202",
+    "entry_type": "VASP DFT SinglePoint",
+    "entry_id": "-0WLGMXIAzWMdptBwdg_oIm6mwIE",
+    "authors": [
+      {
+        "user_id": "3edf70a3-3441-41f5-9a0a-783ef5ccb48a",
+        "name": "Materials Project"
+      }
+    ],
+    "license": "CC BY 4.0"
+  }
+}
