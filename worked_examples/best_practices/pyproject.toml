@@ -1,0 +1,22 @@
+[project]
+name = "best-practices"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "cbfv>=1.1.0",
+    "ipython>=9.9.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "numpy<2.4",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+    "scipy<1.16",
+    "seaborn<0.13",
+    "torch>=2.5.1",
+    "torchaudio>=2.5.1",
+    "torchvision>=0.20.1",
+    "tqdm<4.65",
+    "ydata-profiling>=4.12.2",
+]
