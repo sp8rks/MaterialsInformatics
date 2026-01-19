@@ -8,11 +8,11 @@ Before you begin, please set up your Python environment. All required packages f
 1.  Navigate to the `HW1` directory in your terminal.
 2.  Create a virtual environment: `uv venv`
 3.  Activate the environment: `source .venv/bin/activate` (or `.venv\Scripts\activate` on Windows).
-4.  Install all dependencies, including optional ones for Part 2 and Part 4:
+4.  Install all dependencies:
     ```bash
-    uv pip install -e .[knowmat2,nomad]
+    uv pip install -e .[nomad]
     ```
-This single command will install `pymatgen`, `cbfv`, `knowmat2`, `nomad-lab`, and all other necessary packages for this assignment.
+This single command will install `pymatgen`, `cbfv`, `nomad-lab`, and all other necessary packages for this assignment.
 
 ---
 
@@ -22,12 +22,11 @@ This single command will install `pymatgen`, `cbfv`, `knowmat2`, `nomad-lab`, an
 The goal of this assignment is to extract crystalline materials data from multiple sources, clean the data, identify specific information within it, and train simple ML models.
 
 **Assignment Structure:**
-- **Part 1:** Extract data via Materials Project API (~2-3 hours)
-- **Part 2:** Extract data from literature via KnowMat2 agent (~2-3 hours)
-- **Part 3:** Use featurizers and run simple machine learning models (~1.5-2 hours)
-- **Part 4:** Download and upload data using NOMAD or Materials Commons (~2-3 hours)
+- **Part 1:** Extract data via Materials Project API (~1 hour)
+- **Part 2:** Use featurizers and run simple machine learning models (~1 hour)
+- **Part 3:** Extract data from NOMAD repository (~1 hour)
 
-**Total Estimated Time:** 8-11 hours
+**Total Estimated Time:** ~3 hours
 
 **Submission:** Submit your Python code file(s) that complete all tasks below.
 
@@ -45,8 +44,8 @@ Import appropriate libraries for the new pymatgen API and initialize the API key
 
 ---
 
-### Task 1.2: Query Li-Containing Materials
-Let's explore energy storage materials containing Li. Create a search that finds all quaternary lithium-containing materials with:
+### Task 1.2: Query Be-Containing Materials
+Let's explore materials containing Be (Beryllium). Create a search that finds all quaternary beryllium-containing materials with:
 - Band gap between 0.5 - 3.0 eV
 - Density between 2.0 - 4.0 g/cm³
 
@@ -159,205 +158,9 @@ Once you have validated that you have done this correctly, you can now proceed t
 
 ---
 
-## Part 2: Extract Data from Literature using KnowMat2 Agent
+## Part 2: Featurization and Machine Learning
 
-This part of the assignment requires using the `KnowMat2` agent with a local LLM (Ollama). Follow the setup steps below carefully.
-
-### Step-by-Step Setup Guide
-
-#### Step 1: Install Ollama (Local LLM Server)
-
-Ollama runs language models locally on your machine, allowing KnowMat2 to extract data from PDFs.
-
-1. **Download Ollama:**
-   - Go to [https://ollama.ai/download](https://ollama.ai/download)
-   - Download the installer for your operating system (Windows, Mac, or Linux)
-   - Run the installer and follow the installation prompts
-
-2. **Verify Ollama Installation:**
-   - Open a **new** terminal window (important: close and reopen to refresh the PATH)
-   - Run: `ollama --version`
-   - You should see a version number (if not, see Troubleshooting below)
-
-3. **Pull the Required Model:**
-   - In your terminal, run:
-     ```bash
-     ollama pull gpt-oss-20b
-     ```
-   - This downloads a ~12GB model - it may take 10-30 minutes depending on your internet speed
-   - **Optional:** For better quality (but requires 70+ GB of disk space):
-     ```bash
-     ollama pull gpt-oss-120b
-     ```
-
-4. **Verify Ollama is Running:**
-   - Check installed models: `ollama list`
-   - You should see `gpt-oss-20b` in the list
-   - Test the server is running:
-     - **Mac/Linux:** `curl http://localhost:11434/api/tags`
-     - **Windows PowerShell:** `Test-NetConnection -ComputerName localhost -Port 11434`
-   - If you get a connection error, start the Ollama application from your applications menu
-
-#### Step 2: Install KnowMat2 Python Package
-
-1. **Activate your virtual environment** (if not already active):
-   - **Mac/Linux:** `source .venv/bin/activate`
-   - **Windows:** `.venv\Scripts\activate`
-   - You should see `(.venv)` in your terminal prompt
-
-2. **Install KnowMat2 and dependencies:**
-   ```bash
-   uv pip install -e .[knowmat2,nomad]
-   ```
-   This installs KnowMat2 and its dependencies (this was in the Prerequisites section)
-
-3. **Install the Ollama integration:**
-   ```bash
-   uv pip install langchain-ollama
-   ```
-   This allows KnowMat2 to communicate with your local Ollama server
-
-#### Step 3: Configure KnowMat2 to Use Ollama
-
-1. **Navigate to the KnowMat2 directory:**
-   ```bash
-   cd HW1/KnowMat2
-   ```
-
-2. **Create the `.env` file:**
-   - Inside the `HW1/KnowMat2` directory, create a file named **exactly** `.env` (note the dot at the beginning)
-   - **Important:** The file must be in `HW1/KnowMat2/`, NOT in `HW1/` or anywhere else
-
-3. **Add the following configuration to `.env`:**
-   ```
-   USE_OLLAMA=true
-   OLLAMA_BASE_URL=http://localhost:11434
-   LANGCHAIN_TRACING_V2=false
-   # For grading, you will change USE_OLLAMA to false and add your OPENAI_API_KEY
-   # OPENAI_API_KEY="your-key-here"
-   ```
-
-### Troubleshooting KnowMat2 & Ollama
-
-**Q: `ollama` command not found.**
-- **A:** Close and reopen your terminal after installing Ollama to refresh your system's PATH. If still not working, restart your computer.
-
-**Q: `Connection refused` error when running my script.**
-- **A:** Your Ollama server isn't running.
-  - **Fix:** Start the Ollama application from your applications menu
-  - Check that you can run `ollama list` successfully
-  - Verify the model is installed with `ollama list` (should show `gpt-oss-20b`)
-
-**Q: `ModuleNotFoundError: No module named 'knowmat'`**
-- **A:** Your virtual environment is not active.
-  - Look for `(.venv)` in your terminal prompt
-  - If missing, run `source .venv/bin/activate` (Mac/Linux) or `.venv\Scripts\activate` (Windows) from the `HW1` directory
-
-**Q: My code is trying to use OpenAI, not Ollama.**
-- **A:** Your `.env` file is in the wrong place or configured incorrectly.
-  - **Check:** The `.env` file MUST be in `HW1/KnowMat2/`, not `HW1/`
-  - **Check:** The file is named `.env` (with a dot), not `env.txt` or `.env.txt`
-  - **Check:** `USE_OLLAMA=true` is set correctly (no quotes, true is lowercase)
-
-**Q: Ollama is using too much RAM/CPU.**
-- **A:** This is normal - LLMs are resource-intensive. Close other applications while running KnowMat2. The model runs locally for privacy and to avoid API costs.
-
----
-
-### Task 2.1: Verify Your Setup
-After following the setup guide, run the script below to verify that KnowMat2 is configured correctly. This script should run without errors and confirm that it's using Ollama.
-
-**Deliverables:**
-- A screenshot showing the successful output of the verification script below.
-
-```python
-# Verification Script
-# Make sure you are running this script from the HW1 directory,
-# or that the KnowMat2 package is otherwise in your Python path.
-from knowmat.app_config import settings
-from knowmat.extractors import get_llm
-
-print("--- Verifying KnowMat2 Configuration ---")
-print(f"Using Ollama: {settings.use_ollama}")
-print(f"Extraction model: {settings.extraction_model}")
-print(f"Ollama URL: {settings.ollama_base_url}")
-
-if settings.use_ollama:
-    try:
-        llm = get_llm("extraction")
-        print(f"LLM type: {type(llm).__name__}")
-        print("\nAttempting a test query...")
-        response = llm.invoke("Why is the sky blue?")
-        print("Test query successful!")
-        print("KnowMat2 is configured correctly for Ollama!")
-    except Exception as e:
-        print(f"\n--- ERROR ---")
-        print(f"An error occurred: {e}")
-        print("Please check that your Ollama server is running and you have pulled a model (e.g., 'ollama pull gpt-oss-20b').")
-else:
-    print("\nKnowMat2 is configured to use OpenAI.")
-    print("Ensure your OPENAI_API_KEY is set in the .env file.")
-
-print("--- Verification Complete ---")
-```
-
----
-
-### Task 2.2: Identify Relevant Papers
-List all PDF files in the HW1 folder and use KnowMat2 to identify which papers contain information about LiFeP₂O₇.
-
-**Hint:** The folder contains 9 PDFs - not all will have LiFeP₂O₇ data.
-
-**Deliverables:**
-- Code to list all PDF files.
-- Code that uses the KnowMat2 `run_extraction` orchestrator on the PDF paths.
-- A printout of which papers were identified as containing the relevant data.
-
----
-
-### Task 2.3: Extract Crystallographic Data
-Extract the following crystallographic information for LiFeP₂O₇ from the papers:
-- Space group
-- Lattice parameters (a, b, c, alpha, beta, gamma)
-- Atomic coordinates
-- Volume
-
-**Deliverables:**
-- Create a dataframe or dictionary to store this information from each paper source
-- Print the extracted data
-
----
-
-### Task 2.4: Compare with Materials Project
-Now let's compare the literature data with Materials Project API data.
-
-**Requirements:**
-- Use the Materials Project API to search for LiFeP₂O₇
-- Extract the same crystallographic information (space group, lattice parameters, atomic coordinates)
-- Compare the results from the literature (KnowMat2) with the Materials Project API
-
-**Deliverables:**
-- Code to query Materials Project for LiFeP₂O₇
-- Code to compare literature data with Materials Project data
-- Print the comparison results
-
----
-
-### Task 2.5: Discussion - Literature vs Database
-In a few sentences, discuss:
-1. Which papers contained useful LiFeP₂O₇ crystallographic data?
-2. How did the literature data compare to Materials Project?
-3. What are the advantages and limitations of extracting data from literature vs. using databases like Materials Project?
-
-**Deliverables:**
-- Write your discussion as comments in your code or in a separate text section
-- Minimum 3-5 sentences per question
-
----
-
-## Part 3: Featurization and Machine Learning
-
-### Task 3.1: Import CBFV
+### Task 2.1: Import CBFV
 Import a featurizer that has been developed by our group: CBFV (Composition-Based Feature Vector).
 
 There are a few different featurizers that can be used:
@@ -371,7 +174,7 @@ There are a few different featurizers that can be used:
 
 ---
 
-### Task 3.2: Prepare Datasets
+### Task 2.2: Prepare Datasets
 Let's make 3 copies of our dataset and use the oliynyk, onehot, and mat2vec featurizers to create features.
 
 **Requirements:**
@@ -384,7 +187,7 @@ Let's make 3 copies of our dataset and use the oliynyk, onehot, and mat2vec feat
 
 ---
 
-### Task 3.3: Create Features
+### Task 2.3: Create Features
 Use CBFV to create features for each of the 3 datasets.
 
 **Deliverables:**
@@ -395,7 +198,7 @@ Use CBFV to create features for each of the 3 datasets.
 
 ---
 
-### Task 3.4: Train and Evaluate Models
+### Task 2.4: Train and Evaluate Models
 Once you have created the features, you can now proceed to the next step.
 
 **Requirements:**
@@ -414,7 +217,7 @@ Once you have created the features, you can now proceed to the next step.
 
 ---
 
-### Task 3.5: Model Comparison
+### Task 2.5: Model Comparison
 Which model performed the best? In a few sentences, explain why you think this model performed the best.
 
 **Deliverables:**
@@ -424,9 +227,9 @@ Which model performed the best? In a few sentences, explain why you think this m
 
 ---
 
-## Part 4: Data Repository Integration - NOMAD and Materials Commons
+## Part 3: Data Repository Integration - NOMAD
 
-In this part, you will learn how to interact with open materials science data repositories. You'll download data from NOMAD and upload your processed data to either NOMAD or Materials Commons.
+In this part, you will learn how to interact with the NOMAD open materials science data repository. You'll download data from NOMAD and compare it with data from Materials Project.
 
 **⚠️ IMPORTANT - Learning Objective:**
 This part is designed to expose you to the real-world challenges of integrating data from multiple sources. **You are NOT expected to successfully complete all integration tasks.** Many students will encounter difficulties with data format incompatibilities, API limitations, or conflicting metadata. This is intentional!
@@ -443,13 +246,10 @@ If you encounter errors or roadblocks, document them clearly and explain what yo
 - **NOMAD** (Novel Materials Discovery): A large-scale repository and archive for materials science data
   - Website: https://nomad-lab.eu/
   - Documentation: https://nomad-lab.eu/prod/v1/docs/
-- **Materials Commons**: A platform for the materials community to share and collaborate on data
-  - Website: https://materialscommons.org/
-  - Documentation: https://materials.org/
 
 ---
 
-### Task 4.1: Setup NOMAD Access
+### Task 3.1: Setup NOMAD Access
 Set up access to the NOMAD repository.
 
 **Requirements:**
@@ -463,28 +263,28 @@ Set up access to the NOMAD repository.
 
 ---
 
-### Task 4.2: Browse NOMAD Database
+### Task 3.2: Browse NOMAD Database
 Explore the NOMAD repository to understand what data is available.
 
 **Requirements:**
-- Search for datasets related to lithium-containing materials (similar to Part 1)
+- Search for datasets related to beryllium-containing materials (similar to Part 1)
 - Browse available entries and their metadata
 - Identify at least 3 different datasets of interest
 
 **Deliverables:**
-- Code to query NOMAD for lithium materials
+- Code to query NOMAD for beryllium materials
 - Print the number of available entries
 - Display metadata for 3 selected entries (entry ID, formula, properties available)
 
 ---
 
-### Task 4.3: Download Data from NOMAD
+### Task 3.3: Download Data from NOMAD
 Download crystallographic or computational data from NOMAD for a specific material or set of materials.
 
 **Requirements:**
 - Choose one of the following approaches:
-  1. Download data for a specific composition (e.g., LiFePO₄)
-  2. Download a dataset of similar materials (e.g., Li-containing phosphates)
+  1. Download data for a specific composition (e.g., BeO)
+  2. Download a dataset of similar materials (e.g., Be-containing oxides)
 - Extract relevant properties (structure, energy, band gap, etc.)
 - Store the data in a structured format (DataFrame or dictionary)
 
@@ -496,60 +296,12 @@ Download crystallographic or computational data from NOMAD for a specific materi
 
 ---
 
-### Task 4.4: Prepare Data for Upload
-Prepare a dataset from your previous work for upload to a repository.
-
-**Requirements:**
-- Use the processed data from Part 1 or Part 3 (the cleaned Li-containing materials dataset with predictions)
-- Format the data according to repository requirements
-- Include relevant metadata:
-  - Data source (Materials Project)
-  - Processing steps performed
-  - ML model information (if including predictions)
-  - Date created
-  - Your name/affiliation
-
-**Deliverables:**
-- Code to format your data for upload
-- Create metadata dictionary or file
-- Save formatted dataset as `upload_ready_data.csv`
-
----
-
-### Task 4.5: Upload to NOMAD or Materials Commons
-Upload your prepared dataset to either NOMAD (staging/test server) or Materials Commons.
-
-**Important:** Use test/staging servers only, not production repositories!
-
-**Option A: NOMAD Upload**
-- Use NOMAD's staging server for testing uploads
-- Create an entry with your processed data
-- Include proper metadata and documentation
-
-**Option B: Materials Commons Upload**
-- Create a test project in Materials Commons
-- Upload your dataset
-- Add description and metadata
-
-**Note:** If you cannot access upload functionality, prepare the upload package (data + metadata) and document the steps you would take to upload it.
-
-**Deliverables:**
-- Code to upload data (or prepare upload package)
-- Screenshot or documentation of the upload process
-- Entry ID or project link (if successful upload)
-- OR detailed documentation of upload preparation steps
-- Save documentation as `upload_documentation.txt`
-
----
-
-### Task 4.6: Compare Data Repositories
+### Task 3.4: Compare Data Repositories
 Write a comparison of the different data sources you've used in this assignment.
 
 **Compare:**
 1. **Materials Project** (Part 1)
-2. **Literature/Papers via KnowMat2** (Part 2)
-3. **NOMAD** (Part 4)
-4. **Materials Commons** (Part 4)
+2. **NOMAD** (Part 3)
 
 **Discuss:**
 - Data availability and coverage
@@ -560,26 +312,27 @@ Write a comparison of the different data sources you've used in this assignment.
 - Advantages and limitations
 
 **Deliverables:**
-- Write a comparison paragraph for a. **database vs literature data extraction** (MP vs KnowMat2), b. **research data management (RDM) platforms** (NOMAD vs Materials Commons)
+- Write a comparison paragraph comparing Materials Project and NOMAD
 - Include this as multi-line comments in your code or as a separate markdown file
 - Create a comparison table with at least 5 comparison criteria
 - Save as `data_repository_comparison.md` or include in your code comments
 
 ---
 
-### Task 4.7: Data Integration Challenge
+### Task 3.5: Data Integration Challenge
 Combine data from multiple sources to create a comprehensive dataset.
 
 **⚠️ Note:** This is where you will likely encounter the most challenges! Different repositories use different:
-- Formula conventions (e.g., "LiFePO4" vs "Li1Fe1P1O4")
+- Formula conventions (e.g., "BeO" vs "Be1O1")
 - Property units and naming
 - Data structures and formats
 - Metadata standards
 
 **Requirements:**
 - Attempt to take data from Materials Project (Part 1)
-- Attempt to take data from NOMAD (Part 4.3)
-- Try to identify overlapping materials (same composition in both databases)
+- Attempt to take data from NOMAD (Task 3.3)
+- Attempt to take data from JARVIS-DFT from JARVIS-DB (https://github.com/usnistgov/jarvis)
+- Try to identify overlapping materials (same composition in all databases)
 - Attempt to compare properties between the two sources (e.g., band gap, formation energy)
 - Try to create a unified dataset that includes data from both sources
 
@@ -610,21 +363,13 @@ Combine data from multiple sources to create a comprehensive dataset.
 - **Mistake:** Using `drop_duplicates()` without specifying which columns
   - **Fix:** Be explicit: `df.drop_duplicates(subset=['formula', 'band_gap'])`
 
-### Part 2: KnowMat2
-- **Mistake:** Running Python scripts outside the activated virtual environment
-  - **Fix:** Always check for `(.venv)` in your terminal prompt before running scripts
-- **Mistake:** Placing the `.env` file in the wrong directory
-  - **Fix:** The `.env` file MUST be in `HW1/KnowMat2/`, not in `HW1/` or elsewhere
-- **Mistake:** Trying to use OpenAI when Ollama is configured (or vice versa)
-  - **Fix:** Check `USE_OLLAMA` setting in your `.env` file
-
-### Part 3: Featurization
+### Part 2: Featurization
 - **Mistake:** Not renaming the target column to 'target' before using CBFV
   - **Fix:** CBFV expects a column named 'target', so rename band_gap
 - **Mistake:** Forgetting to set `random_state` for reproducibility
   - **Fix:** Always use `random_state=13` as specified in the instructions
 
-### Part 4: Data Integration
+### Part 3: Data Integration
 - **Mistake:** Expecting all integration tasks to work smoothly
   - **Reality:** This part is SUPPOSED to be challenging - document your struggles!
 - **Mistake:** Not documenting errors or challenges encountered
@@ -636,23 +381,18 @@ Combine data from multiple sources to create a comprehensive dataset.
 
 ## Grading Rubric
 
-**Part 1 (25 points):**
-- Tasks 1.1-1.5: 10 points
-- Tasks 1.6-1.12: 15 points
+**Part 1 (40 points):**
+- Tasks 1.1-1.5: 15 points
+- Tasks 1.6-1.12: 25 points
 
-**Part 2 (20 points):**
-- Tasks 2.1-2.3: 10 points
+**Part 2 (25 points):**
+- Tasks 2.1-2.3: 15 points
 - Tasks 2.4-2.5: 10 points
 
-**Part 3 (20 points):**
-- Tasks 3.1-3.3: 10 points
-- Tasks 3.4-3.5: 10 points
-
-**Part 4 (35 points):**
-- Tasks 4.1-4.3 (NOMAD download): 10 points
-- Tasks 4.4-4.5 (Data upload): 10 points
-- Task 4.6 (Repository comparison): 10 points
-- Task 4.7 (Data integration): 5 points
+**Part 3 (35 points):**
+- Tasks 3.1-3.3 (NOMAD download): 15 points
+- Task 3.4 (Repository comparison): 10 points
+- Task 3.5 (Data integration): 10 points
 
 **Total: 100 points**
 
@@ -669,17 +409,13 @@ Combine data from multiple sources to create a comprehensive dataset.
 3. **Comments:** Add comments explaining your approach
 4. **Figures:** Save any plots as PNG files and include them in your submission
 5. **Discussion:** Include your written responses to discussion questions as multi-line comments
-6. **Environment:** Your code should work with both Ollama (for testing) and OpenAI (for grading)
 
 **File naming:**
 - `hw1_yourname.py` - Your main Python code (or separate files for each part)
 - `bandgap_distribution.png` - Band gap histogram
 - `nomad_downloaded_data.csv` (or .json) - Data downloaded from NOMAD
-- `upload_ready_data.csv` - Formatted data ready for upload
-- `upload_documentation.txt` - Upload process documentation
 - `data_repository_comparison.md` - Repository comparison write-up
 - `integrated_dataset.csv` - Merged data from multiple sources
-- `repository_comparison_plot.png` - Visualization comparing repositories
 - Any additional plots you create
 
 **Deadline:** January 29, 2026 at 23:59
