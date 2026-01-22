@@ -45,7 +45,7 @@ Import appropriate libraries for the new pymatgen API and initialize the API key
 ---
 
 ### Task 1.2: Query Be-Containing Materials
-Let's explore materials containing Be (Beryllium). Create a search that finds all quaternary beryllium-containing materials with:
+Let's explore materials containing Be (Beryllium) or Mg (Magnesium). Create a search that finds all non-unary beryllium- or magnesium-containing materials with:
 - Band gap between 0.5 - 3.0 eV
 - Density between 2.0 - 4.0 g/cm³
 
