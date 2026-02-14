@@ -6,7 +6,7 @@ Before you begin, please set up your Python environment. All required packages f
 
 **Setup Steps:**
 1.  Navigate to the `HW2` directory in your terminal.
-2.  Create a virtual environment: `uv venv`
+2.  Create a virtual environment and install dependencies: `uv sync`
 3.  Activate the environment: `source .venv/bin/activate` (or `.venv\Scripts\activate` on Windows).
 
 ---
@@ -276,6 +276,11 @@ Use the `get_topological_fingerprint` function to generate 2D structural feature
 
 ---
 
+### Task 1.Bonus (Extra Credit)
+- (Bonus points) Find a model or method that improves the performance while still using Morgan and topological fingerprints.
+
+---
+
 ### Task 1.13: Molecular Similarity Analysis
 For the final exercise, we are going to identify the most similar molecules in our dataset relative to the first molecule in the dataset.
 
@@ -460,7 +465,9 @@ For each of the 4 data formats you created above, discuss:
 - Tasks 2.1-2.4 (Format conversions): 20 points
 - Task 2.5 (Discussion): 10 points
 
-**Total: 100 points**
+**Bonus: Task 1.11-1.12 (Extra Credit):** up to 5 points
+
+**Total: 100 points + up to 5 bonus**
 
 ---
 
