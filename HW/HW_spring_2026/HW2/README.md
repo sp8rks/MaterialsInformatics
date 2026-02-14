@@ -15,22 +15,19 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 
 2. **Navigate to the HW2 folder**:
 ```bash
-cd HW/HW_spring_2025/HW2
+cd HW/HW_spring_2026/HW2
 ```
 
 3. **Create a virtual environment and install dependencies**:
 ```bash
-# Create virtual environment
-uv venv
+# This creates the .venv and installs all dependencies in one step
+uv sync
 
 # Activate the virtual environment
 # On Windows:
 .venv\Scripts\activate
 # On macOS/Linux:
 source .venv/bin/activate
-
-# Install all dependencies
-uv pip install -e .
 ```
 
 4. **Read the assignment instructions**:
@@ -45,7 +42,7 @@ python hw2_yourname.py
 ### Quick Start (After Initial Setup)
 
 ```bash
-cd HW/HW_spring_2025/HW2
+cd HW/HW_spring_2026/HW2
 source .venv/bin/activate  # or .venv\Scripts\activate on Windows
 python hw2_yourname.py
 ```
