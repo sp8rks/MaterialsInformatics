@@ -37,8 +37,8 @@ Below you'll find the approximate calendar for Spring 2026 and videos of the lec
 | Mar   | 31   | Gaussian Processes | Gaussian processes visual explainer ([blog](https://distill.pub/2019/visual-exploration-gaussian-processes/)) |  |  |
 | Apr   | 2    | Large Language Models part 1 |  |  |  |
 | Apr   | 7    | Large Language Models part 2 + Intro to Agentic AI part 1 |  |  |Paper Forum II Papers Assignment  |
-| Apr   | 9    | Intro to Agentic AI part 2 |  |  |  |
-| Apr   | 14   | Crash Course: Autonomous Materials Science w/ Self-Driving Labs |  |  | **HW4 due!** |
+| Apr   | 9    | Intro to Agentic AI part 2 |  |  | **HW4 due!** |
+| Apr   | 14   | Crash Course: Autonomous Materials Science w/ Self-Driving Labs |  |  |  |
 | Apr   | 16   | Case Study TBD + **Paper Forum II** |  |  |  |
 | Apr   | 21   | **Final project presentation** |  |  |  |
 
