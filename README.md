@@ -32,9 +32,9 @@ Below you'll find the approximate calendar for Spring 2026 and videos of the lec
 | Mar   | 12   | No CLASS, spring break |  |  |  |
 | Mar   | 17   | No CLASS, TMS Meeting |  | | |
 | Mar   | 19   | No CLASS, TMS Meeting |  | | **HW 3 due!** |
-| Mar   | 24   | Bayesian Optimization in-class coding + case study |  |  | HW4 out  |
-| Mar   | 26   | Bayesian Inference | Intro to Bayesian / Gaussian processes visual explainer ([blog](https://distill.pub/2019/visual-exploration-gaussian-processes/)) | Naive Bayes notebook | Final Project Group Sign Up due |
-| Mar   | 31   | Gaussian Processes | Gaussian processes visual explainer ([blog](https://distill.pub/2019/visual-exploration-gaussian-processes/)) |  |  |
+| Mar   | 24   | Bayesian Inference | Intro to Bayesian / Gaussian processes visual explainer ([blog](https://distill.pub/2019/visual-exploration-gaussian-processes/)) | Naive Bayes notebook | HW4 out  |
+| Mar   | 26   | Gaussian Processes | Gaussian processes visual explainer ([blog](https://distill.pub/2019/visual-exploration-gaussian-processes/)) |  | | Final Project Group Sign Up due |
+| Mar   | 31   | Bayesian Optimization in-class coding + case study |  |    |
 | Apr   | 2    | Large Language Models part 1 |  |  |  |
 | Apr   | 7    | Large Language Models part 2 + Intro to Agentic AI part 1 |  |  |Paper Forum II Papers Assignment  |
 | Apr   | 9    | Intro to Agentic AI part 2 |  |  | **HW4 due!** |
