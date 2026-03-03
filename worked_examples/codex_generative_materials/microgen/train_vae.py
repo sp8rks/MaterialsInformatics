@@ -20,10 +20,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--image-size", type=int, default=64)
     parser.add_argument("--batch-size", type=int, default=None)
     parser.add_argument("--epochs", type=int, default=None)
-    parser.add_argument("--latent-dim", type=int, default=32)
+    parser.add_argument("--latent-dim", type=int, default=64)
     parser.add_argument("--lr", type=float, default=1e-3)
     parser.add_argument("--kl-weight", type=float, default=5e-4)
     parser.add_argument("--kl-warmup-epochs", type=int, default=8)
+    parser.add_argument("--edge-weight", type=float, default=0.25)
+    parser.add_argument("--recon-mode", choices=["l1", "mse", "smooth_l1"], default="l1")
     parser.add_argument("--seed", type=int, default=7)
     parser.add_argument("--fast", action="store_true")
     return parser.parse_args()
@@ -56,21 +58,37 @@ def main() -> None:
     for epoch in range(1, epochs + 1):
         model.train()
         total_loss = 0.0
-        kl_weight = args.kl_weight * min(1.0, epoch / max(1, args.kl_warmup_epochs))
+        total_recon = 0.0
+        total_kl = 0.0
+        total_edge = 0.0
+        warmup_frac = min(1.0, epoch / max(1, args.kl_warmup_epochs))
+        kl_weight = args.kl_weight * (warmup_frac**2)
         for (batch_x,) in loader:
             batch_x = batch_x.to(device)
             optimizer.zero_grad(set_to_none=True)
             recon, mu, logvar = model(batch_x)
-            loss, recon_loss, kl = vae_loss(recon, batch_x, mu, logvar, kl_weight=kl_weight)
+            loss, recon_loss, kl, edge_loss = vae_loss(
+                recon,
+                batch_x,
+                mu,
+                logvar,
+                kl_weight=kl_weight,
+                edge_weight=args.edge_weight,
+                recon_mode=args.recon_mode,
+            )
             loss.backward()
             optimizer.step()
             total_loss += float(loss.item()) * batch_x.size(0)
+            total_recon += float(recon_loss.item()) * batch_x.size(0)
+            total_kl += float(kl.item()) * batch_x.size(0)
+            total_edge += float(edge_loss.item()) * batch_x.size(0)
         avg_loss = total_loss / len(x)
-        recon_scalar = float(recon_loss.detach().cpu())
-        kl_scalar = float(kl.detach().cpu())
+        recon_scalar = total_recon / len(x)
+        kl_scalar = total_kl / len(x)
+        edge_scalar = total_edge / len(x)
         print(
             f"[epoch {epoch:03d}] loss={avg_loss:.6f} recon={recon_scalar:.6f} "
-            f"kl={kl_scalar:.6f} kl_w={kl_weight:.6f}"
+            f"edge={edge_scalar:.6f} kl={kl_scalar:.6f} kl_w={kl_weight:.6f}"
         )
 
     model.eval()

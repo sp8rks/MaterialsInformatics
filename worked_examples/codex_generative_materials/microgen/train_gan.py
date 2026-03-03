@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import copy
 from pathlib import Path
 
 import torch
@@ -22,10 +23,15 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--batch-size", type=int, default=None)
     parser.add_argument("--epochs", type=int, default=None)
     parser.add_argument("--latent-dim", type=int, default=64)
-    parser.add_argument("--g-lr", type=float, default=2e-4)
-    parser.add_argument("--d-lr", type=float, default=1.5e-4)
+    parser.add_argument("--g-base-ch", type=int, default=48)
+    parser.add_argument("--d-base-ch", type=int, default=48)
+    parser.add_argument("--g-lr", type=float, default=1.2e-4)
+    parser.add_argument("--d-lr", type=float, default=2e-4)
     parser.add_argument("--d-steps", type=int, default=1)
     parser.add_argument("--instance-noise-std", type=float, default=0.03)
+    parser.add_argument("--r1-gamma", type=float, default=0.5)
+    parser.add_argument("--r1-interval", type=int, default=16)
+    parser.add_argument("--ema-decay", type=float, default=0.995)
     parser.add_argument("--seed", type=int, default=7)
     parser.add_argument("--fast", action="store_true")
     return parser.parse_args()
@@ -51,12 +57,16 @@ def main() -> None:
     )
     loader = make_dataloader(x, batch_size=batch_size, shuffle=True)
 
-    gen = DCGenerator(latent_dim=args.latent_dim).to(device)
-    disc = DCDiscriminator().to(device)
+    gen = DCGenerator(latent_dim=args.latent_dim, base_channels=args.g_base_ch).to(device)
+    disc = DCDiscriminator(base_channels=args.d_base_ch).to(device)
+    gen_ema = copy.deepcopy(gen).eval()
+    for p in gen_ema.parameters():
+        p.requires_grad_(False)
     opt_g = optim.Adam(gen.parameters(), lr=args.g_lr, betas=(0.5, 0.999))
     opt_d = optim.Adam(disc.parameters(), lr=args.d_lr, betas=(0.5, 0.999))
 
     print(f"device={device} samples={len(x)} epochs={epochs} batch_size={batch_size}")
+    step_idx = 0
     for epoch in range(1, epochs + 1):
         gen.train()
         disc.train()
@@ -85,9 +95,20 @@ def main() -> None:
 
                 # Hinge discriminator loss.
                 d_loss = F.relu(1.0 - real_scores).mean() + F.relu(1.0 + fake_scores).mean()
+                if args.r1_gamma > 0 and args.r1_interval > 0 and step_idx % args.r1_interval == 0:
+                    real_for_r1 = real.detach().requires_grad_(True)
+                    real_logits = disc(real_for_r1)
+                    grad_real = torch.autograd.grad(
+                        outputs=real_logits.sum(),
+                        inputs=real_for_r1,
+                        create_graph=True,
+                    )[0]
+                    r1 = grad_real.square().flatten(start_dim=1).sum(dim=1).mean()
+                    d_loss = d_loss + 0.5 * args.r1_gamma * r1
                 d_loss.backward()
                 opt_d.step()
                 last_d_loss = d_loss.detach()
+                step_idx += 1
 
             opt_g.zero_grad(set_to_none=True)
             z = torch.randn(bsz, args.latent_dim, device=device)
@@ -96,6 +117,9 @@ def main() -> None:
             g_loss = -disc(fake_imgs).mean()
             g_loss.backward()
             opt_g.step()
+            with torch.no_grad():
+                for p_ema, p in zip(gen_ema.parameters(), gen.parameters()):
+                    p_ema.mul_(args.ema_decay).add_(p, alpha=1.0 - args.ema_decay)
 
             g_loss_epoch += float(g_loss.item())
             d_loss_epoch += float(last_d_loss.item())
@@ -103,16 +127,17 @@ def main() -> None:
 
         print(f"[epoch {epoch:03d}] d_loss={d_loss_epoch / batches:.6f} g_loss={g_loss_epoch / batches:.6f}")
 
-    gen.eval()
+    gen_ema.eval()
     with torch.no_grad():
         z = torch.randn(16, args.latent_dim, device=device)
-        samples = gen(z).cpu()
+        samples = gen_ema(z).cpu()
         save_grid(samples, out_dir / "gan_samples.png", normalize=True, value_range=(-1, 1), nrow=4)
 
     ckpt_path = ckpt_dir / "gan.pt"
     torch.save(
         {
             "generator_state": gen.state_dict(),
+            "generator_ema_state": gen_ema.state_dict(),
             "discriminator_state": disc.state_dict(),
             "config": {
                 "latent_dim": args.latent_dim,
