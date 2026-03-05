@@ -7,7 +7,7 @@ from dataclasses import dataclass
 import numpy as np
 
 
-LabelMap = {"porous": 0, "precipitate": 1}
+LabelMap = {"porous": 0, "precipitate": 1, "eutectic": 2}
 
 
 @dataclass(frozen=True)
@@ -17,6 +17,7 @@ class SynthConfig:
     image_size: int = 64
     porous_porosity: float = 0.45
     precipitate_count_range: tuple[int, int] = (20, 60)
+    eutectic_frequency_range: tuple[float, float] = (5.0, 12.0)
 
 
 def _ensure_rng(seed: int | None) -> np.random.Generator:
@@ -97,6 +98,38 @@ def generate_precipitate(size: int = 64, count_range: tuple[int, int] = (20, 60)
     return np.clip(image, 0.0, 1.0).astype(np.float32)
 
 
+def generate_eutectic(
+    size: int = 64,
+    frequency_range: tuple[float, float] = (5.0, 12.0),
+    seed: int | None = None,
+) -> np.ndarray:
+    """Generate a lamellar-like eutectic microstructure image in [0, 1]."""
+    if size <= 0:
+        raise ValueError("size must be > 0")
+    lo, hi = frequency_range
+    if lo <= 0.0 or hi < lo:
+        raise ValueError("frequency_range must be positive and increasing")
+
+    rng = _ensure_rng(seed)
+    yy, xx = np.mgrid[:size, :size].astype(np.float32)
+    theta = float(rng.uniform(0.0, 2.0 * np.pi))
+
+    xr = xx * np.cos(theta) + yy * np.sin(theta)
+    yr = -xx * np.sin(theta) + yy * np.cos(theta)
+
+    domain_field = _mean_blur(rng.normal(0.0, 1.0, size=(size, size)).astype(np.float32), passes=4)
+    local_phase = 2.0 * np.pi * domain_field
+
+    base_cycles = float(rng.uniform(lo, hi))
+    wavelength = size / base_cycles
+    lamellar = np.sin((2.0 * np.pi * xr / wavelength) + 0.25 * np.sin(2.0 * np.pi * yr / (2.0 * wavelength)) + local_phase)
+
+    binary = (lamellar > 0.0).astype(np.float32)
+    image = 0.15 + 0.7 * _mean_blur(binary, passes=1)
+    image += rng.normal(0.0, 0.03, size=image.shape).astype(np.float32)
+    return np.clip(image, 0.0, 1.0).astype(np.float32)
+
+
 def generate_dataset(
     num_samples: int,
     image_size: int = 64,
@@ -106,8 +139,8 @@ def generate_dataset(
     """Generate synthetic dataset arrays and metadata."""
     if num_samples <= 0:
         raise ValueError("num_samples must be > 0")
-    if kind not in {"porous", "precipitate", "mixed"}:
-        raise ValueError("kind must be one of: porous, precipitate, mixed")
+    if kind not in {"porous", "precipitate", "eutectic", "mixed"}:
+        raise ValueError("kind must be one of: porous, precipitate, eutectic, mixed")
 
     rng = _ensure_rng(seed)
     images = np.empty((num_samples, image_size, image_size), dtype=np.float32)
@@ -115,15 +148,17 @@ def generate_dataset(
 
     for i in range(num_samples):
         if kind == "mixed":
-            label_name = "porous" if rng.random() < 0.5 else "precipitate"
+            label_name = str(rng.choice(list(LabelMap.keys())))
         else:
             label_name = kind
 
         img_seed = int(rng.integers(0, 2**31 - 1))
         if label_name == "porous":
             images[i] = generate_porous(size=image_size, seed=img_seed)
-        else:
+        elif label_name == "precipitate":
             images[i] = generate_precipitate(size=image_size, seed=img_seed)
+        else:
+            images[i] = generate_eutectic(size=image_size, seed=img_seed)
         labels[i] = LabelMap[label_name]
 
     unique, counts = np.unique(labels, return_counts=True)

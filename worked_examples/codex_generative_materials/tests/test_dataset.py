@@ -30,7 +30,7 @@ def test_build_and_save_dataset_outputs_and_metadata(tmp_path) -> None:
     assert metadata["image_size"] == 32
     assert metadata["kind"] == "mixed"
     assert "created_at_utc" in metadata
-    assert set(metadata["label_map"].keys()) == {"porous", "precipitate"}
+    assert set(metadata["label_map"].keys()) == {"porous", "precipitate", "eutectic"}
 
 
 def test_load_saved_dataset_and_torch_wrapper(tmp_path) -> None:
