@@ -25,9 +25,9 @@ Below you'll find the approximate calendar for Spring 2026 and videos of the lec
 | Feb   | 17*  | Advanced deep learning (CNNs, RNNs) | CNNs guide ([blog](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53))<br>RNNs blog (link TBD) |  |  |
 | Feb   | 19*  | Transformers | What is a transformer? ([blog](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04))<br>Illustrated transformers guide ([blog](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)) |  | **HW2 due!** |
 | Feb   | 24*  | Generative ML (GANs, VAEs) | VAE overview ([blog](https://visualstudiomagazine.com/articles/2021/05/06/variational-autoencoder.aspx?m=1))<br>VAE in PyTorch ([blog](https://debuggercafe.com/getting-started-with-variational-autoencoder-using-pytorch/))<br>PyTorch-VAE repo ([repo](https://github.com/AntixK/PyTorch-VAE))<br>U-net paper ([paper](https://arxiv.org/pdf/1505.04597.pdf))<br>Nuclear forensics paper ([paper](https://doi.org/10.1016/j.jnucmat.2019.01.042)) |  | HW3 out |
-| Feb   | 26   | Diffusion models part 1 | Segment Anything Model ([paper](https://arxiv.org/abs/2304.02643)) | [CrysTens repo](https://github.com/michaeldalverson/CrysTens) |  |
-| Mar   | 3    | Diffusion models part 2 + Image segmentation part 1 |  | coding examples |  |
-| Mar   | 5    | Image segmentation part 2 |  |  | Final Project Briefing  |
+| Feb   | 26   | Diffusion models | Segment Anything Model ([paper](https://arxiv.org/abs/2304.02643)) | [CrysTens repo](https://github.com/michaeldalverson/CrysTens) |  |
+| Mar   | 3    | Image segmentation |  | coding examples |  |
+| Mar   | 5    | Crash Course: Autonomous Materials Science w/ Self-Driving Labs + Guest Lecture w/ Joseph F. Krause @Radical AI|  |  | Final Project Briefing  |
 | Mar   | 10   | No CLASS, spring break |  |  |  |
 | Mar   | 12   | No CLASS, spring break |  |  |  |
 | Mar   | 17   | No CLASS, TMS Meeting |  | | |
@@ -36,9 +36,9 @@ Below you'll find the approximate calendar for Spring 2026 and videos of the lec
 | Mar   | 26   | Gaussian Processes | Gaussian processes visual explainer ([blog](https://distill.pub/2019/visual-exploration-gaussian-processes/)) |  | | Final Project Group Sign Up due |
 | Mar   | 31   | Bayesian Optimization in-class coding + case study |  |    |
 | Apr   | 2    | Large Language Models part 1 |  |  |  |
-| Apr   | 7    | Large Language Models part 2 + Intro to Agentic AI part 1 |  |  |Paper Forum II Papers Assignment  |
-| Apr   | 9    | Intro to Agentic AI part 2 |  |  | **HW4 due!** |
-| Apr   | 14   | Crash Course: Autonomous Materials Science w/ Self-Driving Labs |  |  |  |
+| Apr   | 7    | Large Language Models part 2 |  |  |Paper Forum II Papers Assignment  |
+| Apr   | 9    | Intro to Agentic AI part 1  |  |  | **HW4 due!** |
+| Apr   | 14   | Intro to Agentic AI part 2 |  |  |  |
 | Apr   | 16   | Case Study TBD + **Paper Forum II** |  |  |  |
 | Apr   | 21   | **Final project presentation** |  |  |  |
 
