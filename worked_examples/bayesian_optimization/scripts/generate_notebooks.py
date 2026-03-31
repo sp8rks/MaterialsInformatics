@@ -872,9 +872,11 @@ def build_honegumi_notebook() -> nbf.NotebookNode:
             from honegumi_rag_assistant.extractors import ParameterExtractor
             from honegumi_rag_assistant.orchestrator import run_from_text
 
+            # Honegumi stores the Jinja templates inside the installed package.
             script_template_dir = honegumi.ax.__path__[0]
             core_template_dir = honegumi.core.__path__[0]
 
+            # Create one reusable Honegumi helper for the whole notebook.
             hg = Honegumi(
                 cst,
                 option_rows,
@@ -886,6 +888,7 @@ def build_honegumi_notebook() -> nbf.NotebookNode:
 
             generated_dir = Path("generated")
             generated_dir.mkdir(exist_ok=True)
+            # Pull in any API key or vector-store settings from a local .env file.
             settings.reload_from_env()
             """
         ),
@@ -955,6 +958,7 @@ def build_honegumi_notebook() -> nbf.NotebookNode:
         code(
             """
             manual_problem = {
+                # Single objective because this example focuses on one target metric.
                 "objective": "Single",
                 "model": "Default",
                 "task": "Single",
@@ -969,7 +973,9 @@ def build_honegumi_notebook() -> nbf.NotebookNode:
                 "visualize": True,
             }
 
+            # Validate the option choices against Honegumi's schema.
             options_model = hg.OptionsModel(**manual_problem)
+            # Render the corresponding Ax template and keep the resolved settings.
             template_code, resolved_problem = hg.generate(options_model, return_selections=True)
 
             manual_template_path = generated_dir / "honegumi_materials_template.py"
@@ -1096,6 +1102,7 @@ def build_honegumi_notebook() -> nbf.NotebookNode:
 
 
             def show_honegumi_scenario(scenario_name):
+                # Convert a teaching scenario into a concrete Honegumi configuration.
                 scenario = scenario_map[scenario_name]
                 scenario_model = hg.OptionsModel(**scenario)
                 scenario_code, scenario_resolved = hg.generate(scenario_model, return_selections=True)
@@ -1140,6 +1147,7 @@ def build_honegumi_notebook() -> nbf.NotebookNode:
         code(
             """
             if settings.openai_api_key:
+                # Ask the LLM-backed selector to infer Honegumi parameters from plain English.
                 extracted = ParameterExtractor.invoke(problem_description)
                 pprint(extracted)
             else:
@@ -1151,6 +1159,7 @@ def build_honegumi_notebook() -> nbf.NotebookNode:
         code(
             """
             if extracted.get("bo_params"):
+                # Feed the inferred parameters back into Honegumi to build a template.
                 rag_options = hg.OptionsModel(**extracted["bo_params"])
                 rag_template_code = hg.generate(rag_options)
                 rag_template_path = generated_dir / "honegumi_rag_selected_template.py"
@@ -1188,6 +1197,7 @@ def build_honegumi_notebook() -> nbf.NotebookNode:
             """
             if settings.openai_api_key:
                 try:
+                    # Full pipeline: parameter selection, optional retrieval, and code writing.
                     rag_code = run_from_text(
                         problem_description,
                         output_dir=str(generated_dir),
