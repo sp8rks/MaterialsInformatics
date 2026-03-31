@@ -68,6 +68,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
             plt.rcParams["axes.spines.right"] = False
 
             DATA_PATH = Path("AgNP_dataset.csv")
+            # Fixed RNG keeps the lecture visuals reproducible from run to run.
             rng = np.random.default_rng(7)
             """
         ),
@@ -98,27 +99,25 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
             Before jumping into code, here is the meaning of the main symbols and variables that appear throughout the notebook.
             """
         ),
-        code(
-            """
-            symbol_guide = pd.DataFrame(
-                [
-                    {"Symbol / variable": "$x$", "Meaning": "A candidate material, recipe, or processing condition."},
-                    {"Symbol / variable": "$y$", "Meaning": "The measured property we care about, such as yield, loss, stability, or strength."},
-                    {"Symbol / variable": "$\\\u03bc(x)$", "Meaning": "The GP posterior mean: our current best prediction at x."},
-                    {"Symbol / variable": "$\\\u03c3(x)$", "Meaning": "The GP posterior standard deviation: our uncertainty at x."},
-                    {"Symbol / variable": "$\\alpha(x)$", "Meaning": "The acquisition score that tells us how attractive x is as the next experiment."},
-                    {"Symbol / variable": "`xi`", "Meaning": "Improvement bonus in PI/EI. Larger values encourage more exploration."},
-                    {"Symbol / variable": "`kappa`", "Meaning": "Exploration weight in UCB. Larger values place more weight on uncertainty."},
-                    {"Symbol / variable": "`X_obs`, `y_obs`", "Meaning": "Experiments we have already performed and their measured outcomes."},
-                    {"Symbol / variable": "`X_grid`", "Meaning": "Candidate points where we evaluate the surrogate and acquisition function."},
-                ]
-            )
-            display(symbol_guide)
+        md(
+            r"""
+            | Symbol / variable | Meaning |
+            | --- | --- |
+            | $x$ | A candidate material, recipe, or processing condition. |
+            | $y$ | The measured property we care about, such as yield, loss, stability, or strength. |
+            | $\mu(x)$ | The GP posterior mean: our current best prediction at $x$. |
+            | $\sigma(x)$ | The GP posterior standard deviation: our uncertainty at $x$. |
+            | $\alpha(x)$ | The acquisition score that tells us how attractive $x$ is as the next experiment. |
+            | `xi` | Improvement bonus in PI/EI. Larger values encourage more exploration. |
+            | `kappa` | Exploration weight in UCB. Larger values place more weight on uncertainty. |
+            | `X_obs`, `y_obs` | Experiments we have already performed and their measured outcomes. |
+            | `X_grid` | Candidate points where we evaluate the surrogate and acquisition function. |
             """
         ),
         code(
             """
             def synthetic_objective(x):
+                # Synthetic 1D landscape with several local peaks.
                 x = np.asarray(x)
                 return (
                     np.sin(2.7 * x)
@@ -128,6 +127,8 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
 
 
             def build_gp():
+                # A smooth-but-flexible kernel that matches the type of GP
+                # behavior we usually want for Bayesian optimization demos.
                 kernel = (
                     ConstantKernel(1.0, constant_value_bounds="fixed")
                     * Matern(length_scale=0.55, length_scale_bounds="fixed", nu=2.5)
@@ -141,25 +142,30 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
 
 
             def probability_of_improvement(mu, sigma, best, xi=0.01):
+                # PI asks: what is the probability of beating the current best?
                 sigma = np.maximum(sigma, 1e-9)
                 z = (mu - best - xi) / sigma
                 return norm.cdf(z)
 
 
             def upper_confidence_bound(mu, sigma, kappa=1.5):
+                # UCB directly trades off predicted value and uncertainty.
                 return mu + kappa * sigma
 
 
             def expected_improvement(mu, sigma, best, xi=0.01):
+                # EI rewards points that are both promising and uncertain.
                 sigma = np.maximum(sigma, 1e-9)
                 improvement = mu - best - xi
                 z = improvement / sigma
                 return improvement * norm.cdf(z) + sigma * norm.pdf(z)
 
 
+            # Dense grid of candidate points used for plotting and BO selection.
             X_grid = np.linspace(0.0, 4.0, 400).reshape(-1, 1)
             y_grid = synthetic_objective(X_grid).ravel()
 
+            # A small initial design, standing in for our first few experiments.
             X_obs = np.array([0.15, 0.75, 1.35, 2.1, 3.35]).reshape(-1, 1)
             y_obs = synthetic_objective(X_obs).ravel()
 
@@ -230,6 +236,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
         code(
             """
             def plot_acquisition_playground(acquisition="EI", xi=0.01, kappa=1.5):
+                # Refit the surrogate each time the widget settings change.
                 gp = build_gp()
                 gp.fit(X_obs, y_obs)
                 mu, sigma = gp.predict(X_grid, return_std=True)
@@ -245,6 +252,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
                     scores = expected_improvement(mu, sigma, y_obs.max(), xi=xi)
                     subtitle = f"EI with xi={xi:.2f}"
 
+                # The BO recommendation is the point with the largest acquisition score.
                 next_idx = int(np.argmax(scores))
                 x_next = float(X_grid[next_idx, 0])
                 y_next = float(y_grid[next_idx])
@@ -304,11 +312,13 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
 
 
             def run_synthetic_bo(n_steps=12, acquisition="EI", xi=0.01, kappa=1.5, n_initial=5):
+                # Start from the chosen number of initial experiments.
                 X_current = initial_design_pool[:n_initial].copy()
                 y_current = synthetic_objective(X_current).ravel()
                 snapshots = []
 
                 for step in range(n_steps):
+                    # Fit the surrogate to all experiments completed so far.
                     gp = build_gp()
                     gp.fit(X_current, y_current)
                     mu, sigma = gp.predict(X_grid, return_std=True)
@@ -319,6 +329,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
                         scores = upper_confidence_bound(mu, sigma, kappa=kappa)
                     else:
                         scores = expected_improvement(mu, sigma, y_current.max(), xi=xi)
+                    # Pick the next experiment by maximizing the acquisition function.
                     next_index = int(np.argmax(scores))
                     x_next = X_grid[next_index].reshape(1, 1)
                     y_next = synthetic_objective(x_next).reshape(-1)
@@ -481,6 +492,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
             """
             df = pd.read_csv(DATA_PATH)
             feature_cols = ["QAgNO3(%)", "Qpva(%)", "Qtsc(%)", "Qseed(%)", "Qtot(uL/min)"]
+            # Average repeated measurements so each unique recipe becomes one candidate.
             agnp = (
                 df.groupby(feature_cols, as_index=False)["loss"]
                 .mean()
@@ -550,6 +562,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
             X_catalog = agnp[feature_cols].to_numpy()
             y_catalog = agnp["loss"].to_numpy()
 
+            # Scale the design variables so GP length scales behave more sensibly.
             scaler = MinMaxScaler().fit(X_catalog)
             X_scaled = scaler.transform(X_catalog)
 
@@ -561,6 +574,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
 
 
             def expected_improvement_min(mu, sigma, best, xi=0.01):
+                # Minimization version of EI for the AgNP loss objective.
                 sigma = np.maximum(sigma, 1e-9)
                 improvement = best - mu - xi
                 z = improvement / sigma
@@ -568,6 +582,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
 
 
             def fit_catalog_gp(X_train, y_train):
+                # Train the surrogate only on the recipes we have already tested.
                 gp = GaussianProcessRegressor(
                     kernel=discrete_kernel,
                     optimizer=None,
@@ -579,10 +594,12 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
 
             def run_catalog_bo(strategy="ei", n_init=6, n_steps=15, seed=0):
                 local_rng = np.random.default_rng(seed)
+                # Random initial design before the BO policy takes over.
                 chosen = list(local_rng.choice(len(X_scaled), size=n_init, replace=False))
                 records = []
 
                 for step in range(n_steps):
+                    # Only score recipes that have not been tried yet.
                     remaining = np.setdiff1d(np.arange(len(X_scaled)), np.array(chosen), assume_unique=False)
 
                     if strategy == "random":
@@ -591,6 +608,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
                         gp = fit_catalog_gp(X_scaled[chosen], y_catalog[chosen])
                         mu, sigma = gp.predict(X_scaled[remaining], return_std=True)
                         scores = expected_improvement_min(mu, sigma, y_catalog[chosen].min(), xi=0.005)
+                        # Select the untested recipe with the largest EI score.
                         next_idx = int(remaining[np.argmax(scores)])
 
                     chosen.append(next_idx)
@@ -608,6 +626,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
 
 
             def summarize_strategy(strategy, runs=40, n_init=6, n_steps=15):
+                # Repeating the campaign shows average behavior, not just one lucky run.
                 traces = []
                 final_best = []
                 for seed in range(runs):
@@ -736,6 +755,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
             calcination_temp = np.linspace(650, 850, 80)
             n_mesh, t_mesh = np.meshgrid(nickel_fraction, calcination_temp)
 
+            # Synthetic response surfaces chosen to create a realistic tradeoff.
             capacity = (
                 175
                 + 28 * np.exp(-((n_mesh - 0.76) / 0.12) ** 2 - ((t_mesh - 780) / 65) ** 2)
@@ -760,6 +780,7 @@ def build_bayesian_optimization_notebook() -> nbf.NotebookNode:
 
 
             def pareto_mask(values):
+                # Keep only points that are not dominated on both objectives.
                 n_points = values.shape[0]
                 mask = np.ones(n_points, dtype=bool)
                 for i in range(n_points):
