@@ -1,0 +1,20 @@
+{
+  "num_samples": 16,
+  "image_size": 32,
+  "kind": "mixed",
+  "seed": 99,
+  "label_map": {
+    "porous": 0,
+    "precipitate": 1
+  },
+  "label_counts": {
+    "porous": 8,
+    "precipitate": 8
+  },
+  "value_range": [
+    0.0,
+    1.0
+  ],
+  "created_at_utc": "2026-03-02T15:56:46.751609+00:00",
+  "data_file": "finalval_ds.npz"
+}

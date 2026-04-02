@@ -1,0 +1,20 @@
+{
+  "num_samples": 64,
+  "image_size": 64,
+  "kind": "mixed",
+  "seed": 123,
+  "label_map": {
+    "porous": 0,
+    "precipitate": 1
+  },
+  "label_counts": {
+    "porous": 35,
+    "precipitate": 29
+  },
+  "value_range": [
+    0.0,
+    1.0
+  ],
+  "created_at_utc": "2026-03-02T15:54:56.875792+00:00",
+  "data_file": "notebook_smoke.npz"
+}

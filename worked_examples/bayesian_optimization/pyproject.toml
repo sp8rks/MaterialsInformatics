@@ -1,0 +1,32 @@
+[project]
+name = "materials-bayesian-optimization"
+version = "0.1.0"
+description = "Worked examples and teaching notebooks for Bayesian optimization in materials informatics."
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "ax-platform==0.4.3",
+    "faiss-cpu==1.12.0",
+    "honegumi==0.4.3",
+    "honegumi-rag-assistant",
+    "ipykernel>=6.29.5,<7",
+    "ipywidgets>=8.1.7,<9",
+    "jupyterlab>=4.4.1,<5",
+    "langchain==0.3.27",
+    "langchain-community==0.3.31",
+    "langchain-openai==0.3.35",
+    "langgraph==0.6.10",
+    "matplotlib>=3.10.1,<4",
+    "nbconvert>=7.16.6,<8",
+    "nbformat>=5.10.4,<6",
+    "numpy==2.3.3",
+    "openai==2.3.0",
+    "pandas==2.3.3",
+    "python-dotenv>=1.1.1,<2",
+    "scikit-learn>=1.7.0,<2",
+    "scipy>=1.16.2,<2",
+    "seaborn>=0.13.2,<0.14",
+]
+
+[tool.uv]
+package = false

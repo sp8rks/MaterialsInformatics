@@ -1,0 +1,22 @@
+{
+  "num_samples": 128,
+  "image_size": 64,
+  "kind": "mixed",
+  "seed": 123,
+  "label_map": {
+    "porous": 0,
+    "precipitate": 1,
+    "eutectic": 2
+  },
+  "label_counts": {
+    "porous": 40,
+    "precipitate": 55,
+    "eutectic": 33
+  },
+  "value_range": [
+    0.0,
+    1.0
+  ],
+  "created_at_utc": "2026-03-04T22:45:22.591949+00:00",
+  "data_file": "notebook_demo.npz"
+}

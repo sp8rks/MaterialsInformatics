@@ -1,0 +1,14 @@
+[project]
+name = "rdkit-tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.11.*"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib<3.10",
+    "numpy>=2.4.1",
+    "pandas>=3.0.0",
+    "rdkit-pypi>=2022.9.5",
+    "scikit-learn>=1.8.0",
+]
